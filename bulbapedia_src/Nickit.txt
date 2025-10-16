@@ -1,0 +1,302 @@
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/GO|species=Nickit}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=0826|prev=Orbeetle|nextnum=0828|next=Thievul|round=none}}
+{{PokémonPrevNext/Disambig|species=Nickit}}
+|}
+{{Pokémon Infobox
+|name=Nickit
+|jname=クスネ
+|tmname=Kusune
+|ndex=0827
+|type1=Dark
+|category=Fox
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=19.6
+|weight-kg=8.9
+|abilityn=d
+|ability1=Run Away
+|ability2=Unburden
+|abilityd=Stakeout
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=1
+|evsd=1
+|expyield=49
+|lv100exp=800,000
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=08
+|pokefordex=nickit
+|generation=8
+|friendship=50
+}}
+'''Nickit''' ([[List of Japanese Pokémon names|Japanese]]: '''クスネ''' ''Kusune'') is a {{type|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Thievul}} starting at [[level]] 18.
+
+==Biology==
+Nickit is an orange-maroon fox-like {{OBP|Pokémon|species}} with a slender body and a large head relative to its body size. It has long, black ears, white spots on its head that resemble eyebrows, and small dots around its eyes that gives the appearance of tears and mask-like markings around its yellow eyes. Nickit also has tufts of furs on both sides of its head. It has a white belly and chest, its feet are black, and its tail is long with a black tip resembling a sack.
+
+A cunning thief, Nickit enjoys stealing food from others instead of spending their time finding food on their own. They have incredibly soft pads that compress lightly when in contact with the ground, allowing them to move silently without being noticed. They can use their tails to sweep their paw prints so it can be hard to locate them. It has a fierce rivalry with {{p|Purrloin}}.
+
+===Evolution===
+Nickit evolves into {{p|Thievul}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Dark
+|pictype=art
+|no1=0827
+|name1=Nickit
+|type1-1=Dark
+|evo1=
+|no2=0828
+|name2=Thievul
+|type1-2=Dark}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=029|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Route]]s {{rtn|1|Galar}} and {{rtn|2|Galar}}, [[Dusty Bowl]], [[Giant's Mirror]], [[Stony Wilderness]]<br>[[West Lake Axewell/Dens|West Lake Axewell]], [[Bridge Field/Dens|Bridge Field]], [[Stony Wilderness/Dens|Stony Wilderness]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+<!--
+====In side games====-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Dark
+|HP=40
+|Attack=28
+|Defense=28
+|SpAtk=47
+|SpDef=52
+|Speed=50
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Nickit|Dark|Dark|8}}
+{{learnlist/level8|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level8|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level8|4|Beat Up|Dark|Physical|—|100|10||'''}}
+{{learnlist/level8|8|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level8|12|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/level8|16|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/level8|20|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level8|24|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level8|28|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level8|32|Tail Slap|Normal|Physical|25|85|10}}
+{{learnlist/level8|36|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/levelf/8|Nickit|Dark|Dark|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Nickit|Dark|Dark|8}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM37|Beat Up|Dark|Physical|—|100|10||'''}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM84|Tail Slap|Normal|Physical|25|85|10}}
+{{learnlist/tm8|TM85|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR81|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/tr|TR90|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tmf/8|Nickit|Dark|Dark|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Nickit|Dark|Dark|8}}
+{{learnlist/breed8|{{MSP/8c|058|Growlithe}}{{MSP/8c|059|Arcanine}}{{MSP/8c|293|Whismur}}{{MSP/8c|294|Loudred}}{{MSP/8c|295|Exploud}}{{MSP/8c|309|Electrike}}{{MSP/8c|310|Manectric}}{{MSP/8c|744|Rockruff}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745Mn|Lycanroc}}{{MSP/8c|745D|Lycanroc}}|Howl|Normal|Status|—|—|40}}
+{{learnlist/breed8|{{MSP/8c|083|Farfetch'd}}{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}{{MSP/8c|359|Absol}}{{MSP/8c|570|Zorua}}{{MSP/8c|571|Zoroark}}{{MSP/8c|810|Grookey}}{{MSP/8c|811|Thwackey}}{{MSP/8c|812|Rillaboom}}|Knock Off|Dark|Physical|65|100|20||'''}}
+{{learnlist/breed8|{{MSP/8c|448|Lucario}}{{MSP/8c|619|Mienfoo}}{{MSP/8c|620|Mienshao}}{{MSP/8c|678|Meowstic}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745D|Lycanroc}}|Quick Guard|Fighting|Status|—|—|15}}
+{{learnlist/breed8|{{MSP/8c|274|Nuzleaf}}{{MSP/8c|275|Shiftry}}{{MSP/8c|509|Purrloin}}{{MSP/8c|510|Liepard}}{{MSP/8c|551|Sandile}}{{MSP/8c|552|Krokorok}}{{MSP/8c|553|Krookodile}}{{MSP/8c|570|Zorua}}{{MSP/8c|571|Zoroark}}{{MSP/8c|877|Morpeko}}|Torment|Dark|Status|—|100|15}}
+{{learnlist/breedf/8|Nickit|Dark|Dark|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Nickit|Dark|Dark|8}}
+{{learnlist/tutor8|Lash Out|Dark|Physical|75|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Nickit|Dark|Dark|8}}
+
+===Side game data===
+{{Spindata/Head|type=Dark}}
+{{Spindata/GO
+| col = 6
+| type = Dark
+| ndex = 0827
+| hatch = N/A
+| buddy = 1
+| candy = Nickit
+| evolution = 50
+| stamina = 120
+| attack = 85
+| defense = 82
+| fast = {{m|Snarl}}, {{m|Quick Attack}}, {{m|Sucker Punch}}{{tt|*|From April 1, 2025 onward}}
+| special = {{m|Night Slash}}, {{m|Play Rough}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Dark
+|pictype=art
+|no1=0827
+|name1=Nickit
+|type1-1=Dark
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 18}}
+|no2=0828
+|name2=Thievul
+|type1-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Dark}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=827}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0827}}
+{{Spritebox/Footer|827|Nickit}}
+
+==In animation==
+===Main series===
+[[File:Nickit trio.png|thumb|250px|Nickit in {{aniseries|JN}}]]
+====Major appearances====
+=====[[Nickit trio]]=====
+Nickit debuted in ''[[JN004|Settling the Scorbunny!]]'', where three of them were seen in [[Wyndon]] as friends of a {{TP|Goh|Scorbunny}}. They stole scones from a Wyndon shop, only for {{Ash}} and [[Goh]] to stop them. They later encouraged Scorbunny to go with Goh after it befriended the boy. They briefly reappeared in a flashback in ''[[JN022|Goodbye, Friend!]]''. They reappeared in ''[[JN127|Just a Scone's Throw From Here!]]'', where they were reunited with Cinderace. During a battle against {{TRT}}, they evolved into {{p|Thievul}}.
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN004|Nickit|Goh's Rotom Phone|Nickit, the Fox Pokémon. A {{t|Dark}} type. Nickit likes to steal food that other Pokémon have found. It uses its fluffy tail to erase any [[footprint]]s it leaves behind.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon: Twilight Wings===
+A Nickit appeared in ''[[TW08|The Gathering of Stars]]''.
+
+==In the manga==
+[[File:Rampaging Dynamax Pokémon Adventures.png|thumb|250px|Nickit in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A [[Dynamax]]ed Nickit appeared in ''[[PASS27|Shock!! Chairman Rose's Plan]]'' during the [[Darkest Day]].
+
+===Pokémon Journeys===
+Three Nickit appeared in ''[[JNM02|Being Stalked by a Scorbunny–and Challenging a Snorlax in Dynamax Form?!]]''.
+{{-}}
+
+==In the TCG==
+{{main|Nickit (TCG)}}
+==Trivia==
+* In English, the {{pkmn|category}} "Fox Pokémon" is shared by {{p|Vulpix}}, {{p|Fennekin}}, Nickit, and their [[Evolution]]s.
+** In Japanese, the hiragana category "きつねポケモン" (''Fox Pokémon'') is shared by the evolutionary lines of Vulpix and Nickit, while the katakana version "キツネポケモン" (''Fox Pokémon'') is shared by Fennekin and its Evolutions.
+* Nickit has the lowest base {{stat|Attack}} stat of all {{type|Dark}} Pokémon.
+
+===Origin===
+Nickit appears to be based on a {{wp|red fox}} kit, possibly borrowing patterns from the {{wp|cross fox}}, a variation of the red fox. Its gray shiny coloration resembles that of {{wp|silver fox (animal)|silver foxes}}, another variation of the red fox. The "mask" on its face and "gloves" on its front paws may be inspired by thieves and burglars, and its tail resembles a sack of stolen items and serves as a {{wp|broom}} that covers up its tracks.
+
+====Name origin====
+Nickit may be a combination of ''nick'' (slang for ''steal'') and ''kit'' (young fox). It may also be a play on ''nick it''. 
+
+Kusune may be a combination of くすねる ''kusuneru'' (to pilfer) and 狐 ''kitsune'' (fox).
+
+==In other languages==
+{{Other languages|type=Dark|type2=Dark
+|ja=クスネ ''Kusune''|jameaning=From {{tt|くすねる ''kusuneru''|to pilfer}} and {{tt|狐 ''kitsune''|fox}}
+|fr=Goupilou|frmeaning=From ''{{tt|goupil|fox}}'' and ''{{tt|filou|scamp, rascal}}''
+|es=Nickit|esmeaning=Same as English name
+|de=Kleptifux|demeaning=From ''{{tt|Kleptoman|kleptomaniac}}'' and ''{{tt|Fuchs|fox}}''
+|it=Nickit|itmeaning=Same as English name
+|ko=훔처우 ''Humcheou''|komeaning=From {{tt|훔치다 ''humchida''|to steal}} and {{tt|여우 ''yeou''|fox}}
+|zh_cmn=偷兒狐 / 偷儿狐 ''Tōu'érhú''{{tt|*|Traditional Chinese, Simplified Chinese (Prior to October 20, 2020)}}<br>狡小狐 ''Jiǎoxiǎohú''{{tt|*|Simplified Chinese (October 20, 2020 - present)}}||zh_cmnmeaning=From {{tt|偷 ''tōu''|to steal}}, {{tt|兒 / 儿 ''ér''|child}}, and {{tt|狐 ''hú''|fox}}<br>From {{tt|狡猾 ''jiǎohuá''|crafty}}, {{tt|小 ''xiǎo''|little}}, and {{tt|狐 ''hú''|fox}}
+|zh_yue=偷兒狐 ''Tāuyìhwùh''|zh_yuemeaning=From {{tt|偷 ''tāu''|to steal}}, {{tt|兒 ''yìh''|child}}, and {{tt|狐 ''wùh''|fox}} 
+|hi=फ़ॉक्सेरा ''Foxera''|himeaning=From ''fox'' and {{tt|लुटेरा ''luṭerā''|robber/thief/plunderer}}
+|th=คุสุเนะ ''Khusune''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Thievul trio]]
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=0826|prev=Orbeetle|nextnum=0828|next=Thievul}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Kleptifux]]
+[[es:Nickit]]
+[[fr:Goupilou]]
+[[it:Nickit]]
+[[ja:クスネ]]
+[[zh:偷儿狐]]

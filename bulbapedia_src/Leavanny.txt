@@ -1,0 +1,507 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Grass}}
+{{PokémonPrevNext/GO|species=Leavanny}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0541|prev=Swadloon|nextnum=0543|next=Venipede|round=none}}
+{{PokémonPrevNext/Disambig|species=Leavanny}}
+|}
+{{Pokémon Infobox
+|name=Leavanny
+|jname=ハハコモリ
+|tmname=Hahakomori
+|category=Nurturing
+|type1=Bug
+|type2=Grass
+|abilitylayout=2
+|ability1=Swarm
+|ability2=Chlorophyll
+|abilityd=Overcoat
+|ndex=0542
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=45.2
+|weight-kg=20.5
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|expyield=225<!--221 in Gen V-VI-->
+|lv100exp=1,059,860
+|evtotal=3
+|evat=3
+|gendercode=127
+|color=Yellow
+|catchrate=45
+|body=12
+|pokefordex=leavanny
+|generation=5
+|friendship=70
+}}
+'''Leavanny''' ([[List of Japanese Pokémon names|Japanese]]: '''ハハコモリ''' ''Hahakomori'') is a dual-type {{2t|Bug|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Swadloon}} when [[friendship Evolution|leveled up with high friendship]]. It is the final form of {{p|Sewaddle}}.
+
+==Biology==
+[[File:Tula trapped silk thread.png|thumb|200px|left|Sticky silk produced by Leavanny in [[Pokémon Adventures]]]]
+Leavanny is a thin, yellow, bipedal insectoid {{OBP|Pokémon|species}} that resembles a leaf cutter ant. It has a broad, split-leaf around its large, round head and it has long antennae that end in semicircles. Its eyes are red with no apparent sclerae. Its tiny {{wp|thorax}} is dark green, and its long abdomen is yellow and covered in a green leaf. Its hands are long and leaf-like with a "bite" taken out of each. Its upper arms are also leaf-like but with a vein of yellow at the top. Its hips are wide and Its slender legs are yellow with dark green, thick segments around its thighs, making them appear armored. 
+
+Leavanny's arm blades are powerful enough to slice through a tree trunk with a single swing. It generally lives in forests. Leavanny is very parental and uses its cutters and the sticky silk it produces to create clothing made of leaves for small Pokémon. Leavanny is known to make warm wrappings for young {{p|Sewaddle}}. It also warms its eggs with fermenting fallen leaves. While usually gentle, it will attack anyone or anything that harms young Pokémon.
+
+===Evolution===
+Leavanny evolves from {{p|Swadloon}} and is the final form of {{p|Sewaddle}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-3
+|type1=Bug
+|type2=Grass
+|pictype=art
+|no1=0540
+|name1=Sewaddle
+|type1-1=Bug
+|type2-1=Grass
+|evo1=
+|no2=0541
+|name2=Swadloon
+|type1-2=Bug
+|type2-2=Grass
+|evo2=
+|no3=0542
+|name3=Leavanny
+|type1-3=Bug
+|type2-3=Grass}}</div>
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Gates to Infinity}}: Leavanny is a minor character and one of the residents of [[Post Town]] alongside her child {{p|Swadloon}} and became concerned for Swadloon when it went missing in [[Inflora Forest]].
+
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Grass}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=048|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=019|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Upon finding a small Pokémon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.}}
+{{Dex/Entry1|v=White|entry=It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=15|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This gentle Pokémon has strong protective instincts. The leaves on its arms are sharp enough to slice a thick tree in half with one stroke.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It fashions clothing from woven leaves. Though gentle in disposition, it will show no mercy to foes who target young Pokémon.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Leavanny SV Kitakami.png|x200px]]
+|-
+| Leavanny in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|6|Unova}}, [[Lostlorn Forest]] ({{DL|Phenomenon|Rustling grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|6|Unova}} and {{rtn|12|Unova}}, [[Lostlorn Forest]] ({{DL|Phenomenon|Rustling grass}})<br>[[Lostlorn Forest]] ([[Hidden Grotto]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Swadloon}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Swadloon}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Poni Meadow]] ({{DL|QR Scanner|Island Scan}}){{dotw|We}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Poni Meadow]] ({{DL|QR Scanner|Island Scan}}){{dotw|We}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Mossfell Confluence]],  [[Wistful Fields]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Kitakami)|Leavanny|4★}}, {{DL|List of 6★ Tera Raid Battles (Kitakami)|Leavanny|6★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Soothing Shore]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Swadloon}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Silent Tundra]] (Uncharted Road, Gilded Hall), [[Dreamy Island]] (Uncharted Road, Gilded Hall), [[Moonlit Forest]] (Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Verdant Plaza#Green Hide-and-Seek|Verdant Plaza: Green Hide-and-Seek]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 1|Dragon Hill: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Time-Leap Plains|Starlight Islands: Time-Leap Plains]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Rowlet Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#11th release|''Pokémon Safari'']] <small>(11th release)</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Burgh|Leavanny}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Bug|type2=Grass}}
+{{HeldItems/Games2|Black|White|tcolor1=fff|Pokémon Black and White Versions}}
+{{HeldItems/Items1|Mental Herb|5|rows=4}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+|}
+
+===Stats===
+====Base stats====
+======Generation V======
+{{BaseStats
+|type=Bug
+|type2=Grass
+|HP=75
+|Attack=103
+|Defense=80
+|SpAtk=70
+|SpDef=70
+|Speed=92}}
+
+======Generation VI onward======
+{{BaseStats
+|type=Bug
+|type2=Grass
+|HP=75
+|Attack=103
+|Defense=80
+|SpAtk=70
+|SpDef=80
+|Speed=92}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Grass
+|Normal=100
+|Fighting=50
+|Flying=400
+|Poison=200
+|Ground=25
+|Rock=200
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=400
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Leavanny|Bug|Grass|5}}
+{{learnlist/level9|1|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||}}
+{{learnlist/level9|1|String Shot|Bug|Status|—|95|40||}}
+{{learnlist/level9|1|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Slash|Normal|Physical|70|100|20||}}
+{{learnlist/level9|22|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level9|29|Fell Stinger|Bug|Physical|50|100|25||'''}}
+{{learnlist/level9|32|Helping Hand|Normal|Status|—|—|20||}}
+{{learnlist/level9|36|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/level9|39|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/level9|43|Entrainment|Normal|Status|—|100|15||}}
+{{learnlist/level9|46|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/level9|50|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/9|Leavanny|Bug|Grass|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Leavanny|Bug|Grass|5}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20||}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20||}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15||}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15||}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20||}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15||'''}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40||}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10||}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20||}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15}}
+{{learnlist/tm9|TM212|Triple Axel|Ice|Physical|20|90|10}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tmf/9|Leavanny|Bug|Grass|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Leavanny|Bug|Grass|5}}
+{{learnlist/breed9|{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0207|Gligar}}{{MSP/H|0472|Gliscor}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}{{MSP/H|0402|Kricketune}}{{MSP/H|0636|Larvesta}}{{MSP/H|0637|Volcarona}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|Screech|Normal|Status|—|85|40||grid=6}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Snore|Normal|Special|50|100|15|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0742|Cutiefly}}{{MSP/H|0743|Ribombee}}|Switcheroo|Dark|Status|—|100|10|||grid=6}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Synthesis|Grass|Status|—|—|5|||grid=6}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Worry Seed|Grass|Status|—|100|10|||grid=6}}
+{{learnlist/breedf/9|Leavanny|Bug|Grass|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Leavanny|Bug|Grass|5}}
+{{learnlist/prevo9|0540|Sewaddle||0541|Swadloon||Sticky Web|Bug|Status|—|—|20||}}
+{{learnlist/prevo9|0540|Sewaddle||0541|Swadloon||Flail|Normal|Physical|—|100|15||}}
+{{learnlist/prevof/9|Leavanny|Bug|Grass|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Grass}}
+{{Spindata/PSMD|col=6|type=Bug|ndex=542
+|coset=7
+|conto={{p|Swanna}}
+|recruitment=Introduced by {{p|Swanna}}
+|P1=It's almost time to prepare dinner, but I'll do my best.
+|P2=*pant pant* I'm in distress…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=542
+|walk=1.67
+|hp=54
+|attack=79
+|defense=55
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=542
+|strong=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|pad=She serves {{p|Serperior}}. She likes to chat with {{p|Lilligant}} after work. She treats {{p|Sewaddle}} like her own child.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Bug|ndex=542
+|HP=3
+|atk=2
+|def=3
+|spd=4
+|range=3
+|move=X-Scissor
+|ability1=Nurse
+|ability2=Swarm
+|ability3=Confidence
+|evo=Evolves from {{p|Swadloon}} when it has a link of 65% or higher
+|link=[[Ujichika]] and [[Ujihiro]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=542
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=542|num=613
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Block Smash+
+|skilldesc=Sometimes clears three unbreakable-block disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=542
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=181
+|attack=205
+|defense=165
+|fast={{m|Razor Leaf}}, {{m|Bug Bite}}, {{m|Shadow Claw}}{{tt|†|Event-exclusive from Sewaddle Community Day}}
+|special={{m|Leaf Blade}}, {{m|X-Scissor}}, {{m|Silver Wind}}, {{m|Leaf Storm}}{{tt|*|From April 12, 2021 onward}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Bug
+|type2=Grass
+|pictype=art
+|no1=0540
+|name1=Sewaddle
+|type1-1=Bug
+|type2-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0541
+|name2=Swadloon
+|type1-2=Bug
+|type2-2=Grass
+|evo2={{bag/s|Rare Candy|SV}} + {{bag/s|Soothe Bell|SV}}<br>{{color2|000|Level|Level up}} with<br>high {{color2|000|friendship}}
+|no3=0542
+|name3=Leavanny
+|type1-3=Bug
+|type2-3=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Grass}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=542}}
+{{Spritebox/6|ndex=542|crop=110}}
+{{Spritebox/7|ndex=542|crop=110}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9|ndex=0542}}-->
+{{Spritebox/HOME|ndex=0542}}
+{{Spritebox/Footer|542|Leavanny}}
+
+==In animation==
+===Main series===
+[[File:Rocket Prize Master Leavanny.png|thumb|250px|Leavanny in {{aniseries|JN}}]]
+====Major appearances====
+=====[[Ash's Leavanny]]=====
+In ''[[BW074|Battling the Leaf Thieves!]]'', {{Ash}}'s Swadloon evolved into a Leavanny during a practice {{pkmn|battle}} against [[Iris's Emolga]].
+
+=====Other=====
+Leavanny debuted in ''[[BW018|Sewaddle and Burgh in Pinwheel Forest!]]'', under the ownership of [[Burgh]]. It reappeared in ''[[BW023|Battling For The Love of Bug-Types!]]'', where it participated in Burgh's [[Gym]] battle against Ash. It defeated Ash's Swadloon but was eventually defeated by {{AP|Pikachu}}. Leavanny reappeared in flashbacks in ''[[BW074|Battling the Leaf Thieves!]]'' and ''[[BW103|Certain Up, Unova League!]]''.
+
+In ''[[BW038|Movie Time! Zorua in "The Legend of the Pokémon Knight"!]]'', [[Luke]]'s Leavanny would help him create costumes for the film, and it was once assisted by Ash's Swadloon. In ''[[BW082|An Epic Defense Force!]]'', it played a part of Luke's latest movie.
+
+In ''[[JN094|Suffering the Flings and Arrows!]]'', [[James]] pulled a Leavanny from the [[Rocket Prize Master]].
+
+====Minor appearances====
+A {{pkmn|Trainer}}'s Leavanny appeared in ''[[BW067|Cilan Takes Flight!]]''.
+
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', the {{OBP|Swords of Justice|M15}} legend featured a Leavanny.
+
+A Leavanny appeared in a flashback in ''[[BW112|Team Plasma's Pokémon Power Plot!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW018|Leavanny|Ash's Pokédex|Leavanny, the Nurturing Pokémon and {{p|Sewaddle}}'s final [[evolution]]ary form. Using sticky threads that come from its mouth, it makes clothes for Sewaddle by sewing leaves together.}}
+{{Animedexbody|BW074|Leavanny|Ash's Pokédex|Leavanny, the Nurturing Pokémon and the evolved form of {{p|Swadloon}}. When Leavanny finds a small Pokémon, it makes clothing for it with its arm cutters, using leaves and sticky silk.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon Generations===
+[[File:Burgh Leavanny PG.png|thumb|250px|Leavanny in [[Pokémon Generations]]]]
+A Leavanny appeared in ''[[PG13|The Uprising]]'', under the ownership of [[Burgh]].
+{{-}}
+
+==In the manga==
+[[File:Burgh Leavanny Adventures.png|thumb|200px|Leavanny in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+[[Burgh]] owns a Leavanny which he used in a Gym Battle against {{adv|Black}} in ''[[PS478|Big City Battles]]''.
+{{-}}
+
+==In the TCG==
+{{main|Leavanny (TCG)}}
+
+==Trivia==
+* Leavanny is the only Pokémon that cannot learn {{m|Sticky Web}} through level up, when its pre-evolved forms can.
+** A Leavanny with this move can be caught in 6★ [[Tera Raid Battle]]s in [[Kitakami]].
+
+===Origin===
+Leavanny has the characteristics of several insects. Primarily, it appears to be based on a bipedal {{wp|Phylliidae}}, but like its pre-evolved forms, it may also be based on the {{wp|Epargyreus clarus|silver-spotted skipper}} and {{wp|weaver ant}}s or {{wp|leafcutter ant}}s. It also shares some characteristics with a {{wp|European mantis|praying mantis}}. Its general body structure is also similar to that of a ''{{wp|Choeradodis}}'' {{wp|mantis}}, which also have laterally expanded thoraxes and abdomens.
+
+The way it weaves clothes for other Pokémon from leaves with its sticky silk may be based on a {{wp|tailor}} or a {{wp|fashion designer}}. Its leafy "dress", "collar", and "paned sleeve" arms may be based on {{wp|1600–1650 in Western European fashion|fashion in the early 1600s}}. Because of the way it acts towards smaller Pokémon and its baby Sewaddle, it could also be based on a human {{wp|mother}}.
+
+====Name origin====
+Leavanny is a combination of ''leaves'' and ''nanny''. It may also derive from ''{{wp|Levana}}'', the ancient Roman goddess of newborn babies.
+
+Hahakomori may be a combination of 葉 ''ha'' (leaf), 母 ''haha'' (mother), and 子守 ''komori'' (babysitting).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Grass
+|ja=ハハコモリ ''Hahakomori''|jameaning=From {{tt|葉 ''ha''|leaf}}, {{tt|母 ''haha''|mother}}, and {{tt|子守 ''komori''|babysitting}}
+|fr=Manternel|frmeaning=From ''{{tt|mante|mantis}}'' and ''{{tt|maternel|maternal}}''
+|es=Leavanny|esmeaning=Same as English name
+|de=Matrifol|demeaning=From ''{{tt|Matriarchin|matriarch}}'' and ''{{tt|folium|Latin for 'leaf'}}''
+|it=Leavanny|itmeaning=Same as English name
+|ko=모아머 ''Moameo''|komeaning=From {{tt|모 (母) ''mo''|mother}}, {{tt|兒 ''a''|child, children}}, {{tt|어머니 ''eomeoni''|mother}}, and possibly ''armor''
+|zh_cmn=保母蟲 / 保姆虫 ''Bǎomǔchóng''|zh_cmnmeaning=From {{tt|保母 / 保姆 ''bǎomǔ''|nanny}} and {{tt|蟲 / 虫 ''chóng''|bug}}
+|zh_yue=保母蟲 ''Bóumóuhchùhng''|zh_yuemeaning=From {{tt|保母 ''bóumóuh''|nanny}} and {{tt|蟲 ''chùhng''|bug}}
+|hi=आईलीफ़ ''Aaileaf''|himeaning=From {{tt|आई ''aai''|Marathi for mother}} or {{tt|आया ''aaya''|nanny or wet nurse}} and ''leaf''
+|ru=Ливанни ''Livanni''|rumeaning=Transcription of English name
+|th=ฮาฮาโคโมริ ''Hahakhomori''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+*[[Ash's Leavanny]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0541|prev=Swadloon|nextnum=0543|next=Venipede}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Matrifol]]
+[[es:Leavanny]]
+[[fr:Manternel]]
+[[it:Leavanny]]
+[[ja:ハハコモリ]]
+[[zh:保姆虫]]

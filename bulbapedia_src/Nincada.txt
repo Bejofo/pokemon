@@ -1,0 +1,566 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Ground}}
+{{PokémonPrevNext/GO|species=Nincada}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0289|prev=Slaking|nextnum=0291|next=Ninjask|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Nincada
+|jname=ツチニン
+|jtranslit=Tsuchinin
+|tmname=Tutinin
+|ndex=0290
+|typebox=1
+|type1=Bug
+|type2=Ground
+|category=Trainee
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=12.1
+|weight-kg=5.5
+|abilityn=d
+|ability1=Compound Eyes
+|abilityd=Run Away
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=1
+|evde=1
+|expyield=53
+|oldexp=65
+|lv100exp=600,000
+|gendercode=127
+|color=Gray
+|catchrate=255
+|body=14
+|pokefordex=nincada
+|generation=3
+|friendship=70
+}}
+'''Nincada''' ([[List of Japanese Pokémon names|Japanese]]: '''ツチニン''' ''Tutinin'') is a dual-type {{2t|Bug|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s into {{p|Ninjask}} starting at [[level]] 20 and, upon Evolution, {{p|Shedinja}}, if the player has an empty slot in their [[party]] and an extra {{i|Poké Ball}} on hand.
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+Nincada is a small, whitish, insectoid {{OBP|Pokémon|species}}. It has a pointed snout, a thin stripe that dips in a V-shaped pattern between its eyes, and two whisker-like antennae on its face. Its eyes are black with green iris-like rings inside. As it is virtually blind, it uses its antennae to sense its surroundings. On its back is a pair of small, green wings. Its hind legs are white, but the forelegs are brown and have sharp claws. 
+
+The claws are used to carve into the roots of trees and absorb moisture and nutrients. Nincada builds underground nests at the {{DL|List of Pokémon by habitat|Forest Pokémon|roots of trees in tropical and temperate forests}}. It can occasionally live up to 10 years underground. It does not like sunlight, so it avoids it. Nincada is nearly blind due to living almost entirely underground, as such, it uses its antennae to see instead.
+
+===Evolution===
+Nincada evolves into {{p|Ninjask}} and can also evolve into {{p|Shedinja}} simultaneously, which appears in an empty {{i|Poké Ball}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Bug
+|type2=Ground
+|no1=0290
+|name1=Nincada
+|type1-1=Bug
+|type2-1=Ground
+|evo1a=
+|no2a=0291
+|name2a=Ninjask
+|type1-2a=Bug
+|type2-2a=Flying
+|evo1b=
+|no2b=0292
+|name2b=Shedinja
+|type1-2b=Bug
+|type2-2b=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Ground}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=042|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Nincada</sc> lives underground for many years in complete darkness. This {{ScPkmn}} absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Nincada</sc> lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This {{ScPkmn}} can't withstand bright sunlight so avoids it.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=111|label1=Central|reg2=Hoenn|num2=043}}
+{{Dex/Entry1|v=X|t=FFF|entry=Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Nincada lives underground for many years in complete darkness. This Pokémon absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Nincada lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This Pokémon can't withstand bright sunlight so avoids it.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=104|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Ground}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{rt|116|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{rt|116|Hoenn}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Eterna Forest]] ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area=[[Eterna Forest]] ([[Poké Radar]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|6|Kalos}}, [[Friend Safari]] ([[Friend Safari#Ground-type Safari|Ground]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{rt|116|Hoenn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|5|Galar}}, [[West Lake Axewell]], [[South Lake Miloch]]<br>[[Bridge Field/Dens|Bridge Field]], [[Dappled Grove/Dens|Dappled Grove]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Eterna Forest]] ([[Poké Radar]])<br>[[Grand Underground]] - [[Grassland Cave]], [[Sunlit Cavern]], [[Riverbank Cave]], [[Still-Water Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Ground}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Forest ([[Ruby Field|Both]] [[Sapphire Field|Fields]])}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 13]], Endless Level 20, Forever Level 6, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Lapis Cave]] (1F-4F), [[Wish Cave]] (44F-49F), [[Joyous Tower]] (45F-49F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Lyra Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Quicksand Cave]] (B1F-B7F), [[Midnight Forest]] (B1F-B21F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Quicksand Cave]] (B1F-B7F), [[Midnight Forest]] (B1F-B21F)}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Misty Edgewater]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#Guardians of the Flower Patch|Flower Garden: Guardians of the Flower Patch]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 5|Sky-High Ruins: Stage 5]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Verdant Grove|Gold Plateau: Verdant Grove]] <small>(All Areas)</small>, [[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mewtwo Sea]], [[Butterfree Sea]], [[Rayquaza Sea]], [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Wish Cave]] (44F-49F), [[Joyous Tower]] (44F-49F), [[Purity Forest]] (44F-49F), [[Fantasy Strait]] (22F-24F)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 453]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Bug|type2=Ground}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Items1|Soft Sand|5|rows=3}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|type2=Ground
+|HP=     31
+|Attack= 45
+|Defense=90
+|SpAtk=  30
+|SpDef=  30
+|Speed=  40}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Ground
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Ground
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=   50
+|Ground=   50
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   200
+|Grass=   100
+|Electric=  0
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|ground=yes
+|newelectric=1}}
+
+===Learnset===
+Nincada is available in {{pkmn|Sword and Shield}} and {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Nincada|Bug|Ground|3}}
+{{learnlist/level8|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level8|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level8|5|Harden|Normal|Status|—|—|30}}
+{{learnlist/level8|10|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/level8|15|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level8|21|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level8|25|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/level8|30|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level8|35|Mind Reader|Normal|Status|—|—|5}}
+{{learnlist/level8|40|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/levelf/8|Nincada|Bug|Ground|3}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Nincada|Bug|Ground|3}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM94|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15||''}}
+{{learnlist/tr|TR60|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tr|TR61|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tmf/8|Nincada|Bug|Ground|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Nincada|Bug|Ground|3}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM19|Giga Drain|Grass|Special|75|100|10||}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||}}
+{{learnlist/tm8|TM28|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM30|Shadow Ball|Ghost|Special|80|100|15||''}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tm8|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||''}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM54|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM62|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm8|TM70|Flash|Normal|Status|&mdash;|100|20||}}
+{{learnlist/tm8|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|&mdash;|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||}}
+{{learnlist/tmf/8|Nincada|Bug|Ground|3}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Nincada|Bug|Ground|3}}
+{{learnlist/breed8|{{MSP/8c|010|Caterpie}}{{MSP/8c|012|Butterfree}}{{MSP/8c|127|Pinsir}}{{MSP/8c|213|Shuckle}}{{MSP/8c|291|Ninjask}}{{MSP/8c|415|Combee}}{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}{{MSP/8c|543|Venipede}}{{MSP/8c|544|Whirlipede}}{{MSP/8c|545|Scolipede}}{{MSP/8c|557|Dwebble}}{{MSP/8c|558|Crustle}}{{MSP/8c|595|Joltik}}{{MSP/8c|596|Galvantula}}{{MSP/8c|632|Durant}}{{MSP/8c|636|Larvesta}}{{MSP/8c|637|Volcarona}}{{MSP/8c|736|Grubbin}}{{MSP/8c|737|Charjabug}}{{MSP/8c|738|Vikavolt}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|768|Golisopod}}{{MSP/8c|850|Sizzlipede}}{{MSP/8c|851|Centiskorch}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed8|{{MSP/8c|616|Shelmet}}{{MSP/8c|617|Accelgor}}|Final Gambit|Fighting|Special|—|100|5}}
+{{learnlist/breed8|{{MSP/8c|557|Dwebble}}{{MSP/8c|558|Crustle}}{{MSP/8c|588|Karrablast}}{{MSP/8c|589|Escavalier}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed8|{{MSP/8c|012|Butterfree}}{{MSP/8c|415|Combee}}{{MSP/8c|637|Volcarona}}|Gust|Flying|Special|40|100|35||''}}
+{{learnlist/breed8|{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breedf/8|Nincada|Bug|Ground|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Nincada|Bug|Ground|3}}
+{{learnlist/breed8|{{MSP/H|0010|Caterpie}}{{MSP/H|0012|Butterfree}}{{MSP/H|0013|Weedle}}{{MSP/H|0015|Beedrill}}{{MSP/H|0127|Pinsir}}{{MSP/H|0168|Ariados}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0213|Shuckle}}{{MSP/H|0265|Wurmple}}{{MSP/H|0267|Beautifly}}{{MSP/H|0269|Dustox}}{{MSP/H|0291|Ninjask}}{{MSP/H|0401|Kricketot}}{{MSP/H|0402|Kricketune}}{{MSP/H|0412|Burmy}}{{MSP/H|0414|Mothim}}{{MSP/H|0415|Combee}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}{{MSP/H|0469|Yanmega}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed8|{{MSP/H|0290|Nincada}}{{MSP/H|0291|Ninjask}}|Final Gambit|Fighting|Special|&mdash;|100|5|{{colorlink|Grand Underground|000|^}}|}}
+{{learnlist/breed8|{{MSP/H|0046|Paras}}{{MSP/H|0047|Parasect}}{{MSP/H|0328|Trapinch}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}|Flail|Normal|Physical|&mdash;|100|15|*|}}
+{{learnlist/breed8|{{MSP/H|0012|Butterfree}}{{MSP/H|0049|Venomoth}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0267|Beautifly}}{{MSP/H|0269|Dustox}}{{MSP/H|0284|Masquerain}}{{MSP/H|0414|Mothim}}{{MSP/H|0415|Combee}}|Gust|Flying|Special|40|100|35||''}}
+{{learnlist/breed8|{{MSP/H|0402|Kricketune}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}{{MSP/H|0469|Yanmega}}{{MSP/H|0472|Gliscor}}|Night Slash|Dark|Physical|70|100|15||}}
+{{learnlist/breedf/8|Nincada|Bug|Ground|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Nincada|Bug|Ground|3}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Nincada|Bug|Ground|3}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Nincada|Bug|Ground|3}}
+{{learnlist/prevgen8|Nincada|3|Aerial Ace|Flying|Physical|60|—|20||''|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nincada|3|Bide|Normal|Physical|—|—|10|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Nincada|3|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nincada|3|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Nincada|3|Double Team|Normal|Status|—|—|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nincada|3|Double-Edge|Normal|Physical|120|100|15|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nincada|3|Feint Attack|Dark|Physical|60|—|20|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Nincada|3|Flash|Normal|Status|—|100|20|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nincada|3|Frustration|Normal|Physical|—|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nincada|3|Fury Cutter|Bug|Physical|40|95|20||'''|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nincada|3|Hidden Power|Normal|Special|60|100|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nincada|3|Hone Claws|Dark|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Nincada|3|Mimic|Normal|Status|—|—|10|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nincada|3|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nincada|3|Return|Normal|Physical|—|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nincada|3|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nincada|3|Silver Wind|Bug|Special|60|100|5||'''|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Nincada|3|Spite|Ghost|Status|—|100|10|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nincada|3|String Shot|Bug|Status|—|95|40|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nincada|3|Struggle Bug|Bug|Special|50|100|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Nincada|3|Swagger|Normal|Status|—|85|15|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nincada|3|Toxic|Poison|Status|—|90|10|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Nincada|Bug|Ground|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Bite}}
+| style="background:#fff; {{roundybr|5px}}" | [[Nincada (EX Dragon 67)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Ground}}
+{{Spindata/PinballRS|col=3|type=Bug|ndex=290|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=290|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=290
+|body=1
+|rate=7.4
+|area=Secretive Forest
+|P1=My antennae serve as my eyes.
+|P2=Oh, what's up? How could my HP be down by half so soon?
+|P3=I think I've had it... I can't get any strength...
+|PL=OK! I leveled up! I'll try harder!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=290
+|body=1
+|rate=6.4
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=290
+|coset=23
+|conto={{p|Ninjask}}, {{p|Lucario}}
+|recruitment=Escort to open the locked door at [[Stealth Cavern]]
+|P1=Here comes Nincada, the underground ninja!
+|P2=I am suffering...
+}}
+|-
+{{Spindata/Ranger|col=6|type=Bug
+|group=Ground
+|assist=Bug
+|fieldpower=1
+|field=Cut
+|loop=3
+|MinEXP=25
+|MaxEXP=45
+|num=031
+|browser=Nincada burrows underground. It can cut things with its claws.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=290
+|walk=2.67
+|hp=42
+|attack=65
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=290
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=290|num=633
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=290
+|hatch=N/A{{tt|*|7 km between January 15 - 29, 2019 only}}
+|buddy=5
+|candy=Nincada
+|evocandy=50
+|stamina=104|attack=80|defense=126
+|fast={{m|Scratch}}, {{m|Bug Bite}}
+|special={{m|Night Slash}}, {{m|Bug Buzz}}, {{m|Aerial Ace}}
+}}
+|}
+
+===Evolution data===
+Nincada [[Evolution|evolve]]s into {{p|Ninjask}} starting at [[level]] 20 and, upon Evolution, {{p|Shedinja}} if the player has an empty slot in their [[party]] and an extra {{i|Poké Ball}} on hand, consuming the Poké Ball. Note that the Poké Ball has to be a regular Poké Ball. In [[Generation III]], an extra Poké Ball is not necessary to obtain Shedinja.
+
+In {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}, Shedinja will not be mentioned when evolving Nincada, but will subsequently appear in {{p|Chimecho}}'s Assembly.
+{{evobox/1castoff|0290|Nincada|2|Bug|Ground|[[Level|Level 20]]|0291|Ninjask|2|Bug|Flying|[[File:Bag Poké Ball Sprite.png]]<br>{{i|Poké Ball}}<br>in [[Bag]]|Space in [[party]]|0292|Shedinja|2|Bug|Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Ground}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=290}}
+{{Spritebox/4|ndex=290}}
+{{Spritebox/5|ndex=290}}
+{{Spritebox/6|ndex=290|crop=61}}
+{{Spritebox/7|ndex=290|crop=60}}
+{{Spritebox/8|ndex=290}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0290}}
+{{Spritebox/Footer|290|Nincada}}
+
+==In animation==
+[[File:Nincada anime.png|thumb|250x250px|Nincada in {{aniseries|JN}}]]
+
+===Major appearances===
+Nincada debuted in ''[[AG027|A Three Team Scheme]]''. It belonged to a boy named [[Keanu]], who lived in his [[Secret Base]] in solitude. It later became a target for one of {{TRT}}'s schemes.
+
+===Minor appearances===
+In ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! (Part 1)]]'', [[Kellyn]] used his [[Capture Styler]] on a Nincada and had it {{m|Dig}} a pit trap for [[J's henchmen]] to fall in.
+
+Multiple Nincada appeared in ''[[JN091|The Spectral Express!]]'', where they evolved into {{p|Ninjask}}. One of them left behind a {{DL|List of Goh's Pokémon|Shedinja}}, which entered one of [[Goh]]'s {{i|Poké Ball}}s and became his Pokémon.
+{{-}}
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG027|Nincada|Ash's Pokédex|Nincada, the Trainee Pokémon. Nincada lives most of its life inside the earth and uses its sharp claws to tap into tree roots, extracting nutrients and moisture.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN091|Nincada|Goh's Rotom Phone|Nincada, the Trainee Pokémon. A {{t|Bug}} and {{t|Ground}} type. Nincada can live underground for more than 10 years, taking in nutrients from tree roots.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Shelly Nincada Adventures.png|thumb|250px|Nincada in [[Pokémon Adventures]]]]
+===Ash & Pikachu===
+A Nincada appeared in a flashback in ''[[SP22|A Pokémon Battle Against An Entire Family?!]]'', under the ownership of the [[Winstrate family]].
+
+===Pokémon Adventures===
+In ''[[PS246|Can I Ninjask You a Question?]]'', {{tc|Aqua Admin}} [[Shelly]] gave a Nincada to fellow admin {{adv|Amber}}. Amber's new Pokémon soon evolved into {{p|Ninjask}}, leaving behind a {{p|Shedinja}} as well.
+{{-}}
+
+==In the TCG==
+{{main|Nincada (TCG)}}
+
+==Trivia==
+* Nincada is the only Pokémon that evolves into [[List of Pokémon with branched Evolutions|two Pokémon at once]].
+* Nincada is the only Pokémon with a [[List of Pokémon by base stats|base stat total]] of 266.
+* Nincada is the only Pokémon to have a higher base stat total than its evolved form, as it has 30 more base stat points than Shedinja.
+* Nincada is the only Pokémon to have a [[gender]] and can be taught TM moves but cannot learn {{m|Attract}} or {{m|Captivate}}. This is possibly to prevent Shedinja from knowing these moves due to being [[gender unknown]].
+* Nincada is exclusively in the {{Egg|Bug}} [[Egg Group]], but Shedinja is exclusively in the {{Egg|Mineral}} Egg Group. These two are the only evolutionarily related Pokémon to not share identical Egg Groups, excluding those that transition in or out of the {{Egg|No Eggs Discovered}} Egg Group.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Nincada, Ninjask and Shedinja}}
+Nincada appears to be based on a {{wp|cicada}} {{wp|Nymph (biology)|nymph}}. Its association with {{wp|ninjas}} may be inspired by stories of ninjas using cicadas to mask their own sounds, or a reference to {{jwp|忍法#忍び道具を使う術|fabled ninja technique}}s: ''doton no jutsu'' (escape jutsu), a technique of sneaking into a pre-dug hole and hiding until the opponent is gone and ''utsusemi no jutsu'' (cicada skin technique), a technique using decoys to misdirect opponents.
+
+====Name origin====
+Nincada may be a combination of ''{{wp|ninja}}'' and ''{{wp|cicada}}''. 
+
+Tutinin may be a combination of 土に埋める ''tsuchi ni umeru'' (to bury in the ground) and 忍者 ''ninja''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Ground
+|ja=ツチニン ''Tutinin''|jameaning=From {{tt|土に埋める ''tsuchiniumeru''|to bury in the ground}} and 忍者 ''ninja''
+|fr=Ningale|frmeaning=From ''ninja'' and ''{{tt|cigale|cicada}}''
+|es=Nincada|esmeaning=Same as English name
+|de=Nincada|demeaning=Same as English name
+|it=Nincada|itmeaning=Same as English name
+|ko=토중몬 ''Tojungmon''|komeaning=From {{tt|토중 (土中) ''tojung''|in the ground}} and ''monster''
+|zh_cmn=土居忍士 ''Tǔjūrěnshì''|zh_cmnmeaning=From {{tt|土 ''tǔ''|soil}}, {{tt|居 ''jū''|to reside}}, {{tt|忍者 ''rěnzhě''|ninja}}, and {{tt|士 ''shì''|suffix for skilled person}}
+|zh_yue=土居忍士 ''Tóugēuiyáhnsih''|zh_yuemeaning=From {{tt|土 ''tóu''|soil}}, {{tt|居 ''gēui''|to reside}}, {{tt|忍者 ''yánjé''|ninja}}, and {{tt|士 ''sih''|suffix for skilled person}}
+|hi=माटिन्जा ''Maatinja''|himeaning=From {{tt|माटी ''maati''|soil}} and ''ninja''
+|ru=Нинкада ''Ninkada''|rumeaning=Transcription of English name
+|th=สึจินิน ''Suechinin''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0289|prev=Slaking|nextnum=0291|next=Ninjask}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that lose a type upon evolving]]
+[[Category:Pokémon that evolve through a unique method]]
+
+[[de:Nincada]]
+[[es:Nincada]]
+[[fr:Ningale]]
+[[it:Nincada]]
+[[ja:ツチニン]]
+[[zh:土居忍士]]

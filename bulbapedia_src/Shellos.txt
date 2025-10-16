@@ -1,0 +1,747 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Shellos}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0421|prev=Cherrim|nextnum=0423|next=Gastrodon|round=none}}
+{{PokémonPrevNext/Disambig|species=Shellos}}
+|}
+{{Pokémon Infobox
+|name=Shellos
+|jname=カラナクシ
+|tmname=Karanakushi
+|ndex=0422
+|type1=Water
+|category=Sea Slug
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=13.9
+|weight-kg=6.3
+|abilitylayout=2
+|ability1=Sticky Hold
+|ability2=Storm Drain
+|abilityd=Sand Force
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Amorphous
+|eggcycles=20
+|evtotal=1
+|evhp=1
+|expyield=65
+|oldexp=73
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|formcolors=yes
+|catchrate=190
+|body=02
+|pokefordex=shellos
+|generation=4
+|friendship=70
+}}
+'''Shellos''' ([[List of Japanese Pokémon names|Japanese]]: '''カラナクシ''' ''Karanakushi'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s into {{p|Gastrodon}} starting at [[level]] 30.
+
+Shellos has [[#Form data|two different forms]]: '''West Sea Shellos''', which is pink and white in appearance, and '''East Sea Shellos''', which is blue and green. They are found on the respective sides of [[Sinnoh]]'s mountain range.<!-- Due to this, there is a myth that the Sinnoh region was once split in two.-->
+
+==Biology==
+Shellos is a {{wp|sea slug}}-like {{OBP|Pokémon|species}} whose appearance changes depending on which part of the sea it is found in. Both forms have amorphous, slug-like bodies, black oval-shaped eyes with yellow outlines, minuscule, dot-shaped noses, and wide yellow lips. Like real-world sea slugs, they have {{wp|Mantle (mollusc)|mantles}} covering the top halves of their bodies. These mantles are outlined in yellow, similar to their eyes. Unlike real sea slugs, however, they have bulbous heads and four small feet rather than one large foot.
+
+The West Sea form's underside is white, and its mantle is pink, with several small spike-like protrusions on its back. On its head is a ring of pink, fleshy knobs resembling the gills of a {{wp|nudibranch}}. West Sea Shellos' appearance is theorized to have been influenced by warm ocean waters.
+
+The East Sea form, meanwhile, sports a green underside and a turquoise mantle. Two yellow-lined, flap-like protrusions, resembling {{wp|cerata}}, are present along its back. On its head are two white-tipped tentacles resembling {{wp|rhinophores}} that extend away from its face. East Sea Shellos's appearance is theorized to have been influenced by cold ocean waters.
+
+Shellos lives along seashores; its color becomes more vibrant the better quality of the waters it lives in. It is also believed that Shellos's diet, which consists of plankton, also influences its form, though this has yet to be proven. The physical differences between both forms appear largely cosmetic; no significant changes in capabilities have been observed. While it can travel onto land, it can only stay on the shore for a limited time before its skin dries out. When Shellos' squishy body is pressed or squeezed, or when Shellos senses imminent danger, a mysterious purple fluid — theorized to be a kind of stress-induced greasy sweat — will ooze out of its body. This fluid is its defense mechanism against enemies; although harmless, it is very sticky and hard to wash off. Shellos has a friendly disposition and is said to have great regenerative capabilities. In the {{pkmn|animated series}}, West Sea Shellos can extend their necks to incredible lengths. It is unknown if the East Sea form can do this as well.
+
+This species once had a shell on its back long ago and is considered a close relative to Pokémon such as {{p|Shellder}}. The [[Nurse Joy]] featured in ''[[DP136|Gateway to Ruin!]]'' revealed [[Mount Coronet]]'s formation led to an {{wp|allopatric speciation}} event, in which the original population of Shellos was separated into two. As a result, Shellos's color and other physical aspects began to vary due to environmental differences and population isolation over time. The two forms are still able to interbreed; the child normally takes the mother's form but takes the father's if bred with a {{p|Ditto}}. Recently, East Sea Shellos' population has been declining, while West Sea Shellos has become more abundant than before.
+
+===Forms===
+Shellos has two separate forms: West Sea Shellos and East Sea Shellos. The two forms differ in appearance only.
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{water color}}; {{roundy|10px}} border: 3px solid #{{water color dark}}"
+|-
+| West Sea
+|-
+| style="{{roundy|96px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:96px; height:96px"| [[File:0422Shellos-West.png|100px]]
+|}
+|
+{| style="background: #{{water color}}; {{roundy|10px}} border: 3px solid #{{water color dark}}"
+|-
+| East Sea
+|-
+| style="{{roundy|96px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:96px; height:96px"| [[File:0422Shellos-East.png|100px]]
+|}
+|}
+
+===Evolution===
+Shellos evolves into {{p|Gastrodon}}.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''West Sea'''
+{{Evobox-2
+|type1=Water
+|pictype=sprite
+|no1=0422Shellos-West
+|form1=West Sea
+|name1=Shellos
+|type1-1=Water
+|evo1=
+|no2=0423Gastrodon-West
+|name2=Gastrodon
+|form2=West Sea
+|type1-2=Water
+|type2-2=Ground}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''East Sea'''
+{{Evobox-2
+|type1=Water
+|pictype=sprite
+|no1=0422Shellos-East
+|form1=East Sea
+|name1=Shellos
+|type1-1=Water
+|evo1=
+|no2=0423Gastrodon-East
+|name2=Gastrodon
+|form2=East Sea
+|type1-2=Water
+|type2-2=Ground}}
+</div>
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=060|reg2=Johto}}
+{{Dex/Entry1|v=Diamond|entry=Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.}}
+{{Dex/Entry1|v=Pearl|entry=It lives along bodies of water. Its body shape has changed to suit its habitat.}}
+{{Dex/Entry1|v=Platinum|entry=Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its shape and coloration vary, depending on its habitat.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its shape and coloration vary, depending on its habitat.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=Its shape and coloration vary, depending on its habitat.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=260|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=341|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Form|West Sea}}
+{{Dex/Entry1|v=Sun|entry=For the most part, it makes its home along the seashore. Its color and form differ according to its habitat and the quality of its food.}}
+{{Dex/Entry1|v=Moon|entry=Purple mucus sticks to the hands of anyone who touches it. Take care, as the substance is troublesome to wash off. }}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=While they normally live in the sea, they can function on land, too, until their skin dries out.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=When it senses danger, a purple liquid oozes out of it. The liquid is thought to be something like greasy sweat.}}
+{{Dex/Form|East Sea}}
+{{Dex/Entry1|v=Sun|entry=Shellos lives in the sea and feasts on plankton. The lovelier the ocean where Shellos resides, the more vibrant its color becomes.}}
+{{Dex/Entry1|v=Moon|entry=The difference in color from one Shellos to another seems to be a result of their diet. No large changes can be seen in their capabilities.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=When it senses danger, it gushes a purple liquid. Some theories suggest this liquid is a greasy sweat induced by stress.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Scientists interested in its great regenerative capabilities are currently analyzing the materials from which its cells are made.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=230|reg2=Sinnoh|num2=060|reg3=Hisui|num3=082}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.}}
+{{Dex/Entry1|v=Shining Pearl|entry=It lives along bodies of water. Its body shape changed to suit its habitat.}}
+{{Dex/Form|West Sea}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon's habitat shapes its physique. According to some theories, life in warm ocean waters causes this variation to develop.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Subjecting this Pokémon to a strong force causes it to secrete a strange purple fluid. Though harmless, the fluid is awfully sticky.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Found in abundance on seashores bordering warm waters. Shellos are unexpectedly friendly and will crawl toward any person they see. Take care not to get coated in mucus!}}
+{{Dex/Form|East Sea}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=There's speculation that its appearance is determined by what it eats, but the truth remains elusive.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its appearance changes depending on the environment. One theory suggests that living in cold seas causes Shellos to take on this form.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Found in abundance on seashores bordering cold waters. When pressed upon, the Pokémon will secrete from its body's surface a purple fluid that will stain one's clothes.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=327|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Form|West Sea}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It used to have a shell on its back long ago. This species is closely related to Pokémon like Shellder.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It oozes a purple fluid to deter enemies. Apparently, there are more West Sea Shellos now than there were in the past.}}
+{{Dex/Form|East Sea}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=A recently published research paper states that this form of Shellos is gradually decreasing in number.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon can often be seen along seashores. It's capable of spending a limited amount of time on land.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{water color dark}}; background:#{{water color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{water color dark}}; background:#{{water color light}}| [[File:Pokédex Image Shellos  SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{water color dark}}; background:#{{water color light}}| [[File:Pokédex Image Shellos-East SM.png|x200px]]
+|style="border:2px solid #{{water color light}}; background:#{{water color light}} | [[File:Pokédex Image Shellos SV.png|x200px]]
+|-
+| West Sea Shellos in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| East Sea Shellos in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| West Sea Shellos in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|218|Sinnoh}}, and {{rtn|221|Sinnoh}}, [[Fuego Ironworks]], [[Valley Windworks]] (tall grass) <small>('''West Sea''')</small><br>[[Route]]s {{rtn|213|Sinnoh}} and {{rtn|224|Sinnoh}} (tall grass) <small>('''East Sea''')</small>}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|205|Sinnoh}} and {{rtn|218|Sinnoh}}, [[Valley Windworks]] (tall grass) <small>('''West Sea''')</small><br>[[Route]]s {{rtn|205|Sinnoh}} and {{rtn|218|Sinnoh}}, [[Canalave City]], [[Valley Windworks]], [[Fuego Ironworks]] ({{m|Surf}}ing) <small>('''West Sea''')</small><br>[[Route]]s {{rtn|212|Sinnoh}} and {{rtn|213|Sinnoh}} (tall grass) <small>('''East Sea''')</small><br>[[Route]]s {{rtn|212|Sinnoh}} and {{rtn|213|Sinnoh}}, [[Pastoria City]] ({{m|Surf}}ing) <small>('''East Sea''')</small>}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=Transfer from [[Pokéwalker]] <small>('''West Sea''')</small><br>[[Trade]] <small>('''East Sea''')</small>}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Stormy Beach}} <small>('''West Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Trade]] with [[Yancy]] in [[Nimbasa City]] (if the player is male) <small>('''West Sea''')</small><br>[[Trade]] with [[Curtis]] in [[Nimbasa City]] (if the player is female) <small>('''East Sea''')</small>}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{Dwa|Sparkling Sea}} <small>('''West/East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Gastrodon}} <small>('''West Sea''')</small><br>[[Trade]] <small>('''East Sea''')</small>}}
+{{Availability/Entry1|v=Omega Ruby|t=fff|area=[[Route]]s {{rtn|103|Hoenn}} and {{rtn|110|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon}}) <small>('''West Sea''')</small>}}
+{{Availability/Entry1|v=Alpha Sapphire|t=fff|area=[[Route]]s {{rtn|103|Hoenn}} and {{rtn|110|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Kyogre}}) <small>('''East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{pkmn|breeding|Breed}} {{p|Gastrodon}} <small>('''East Sea''')</small><br>[[Trade]] <small>('''West Sea''')</small>}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Gastrodon}} <small>('''East Sea''')</small><br>[[In-game trade#Ultra Sun and Ultra Moon|Trade]] {{p|Granbull}} in [[Seafolk Village]] <small>('''West Sea''')</small>}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{g|HOME}} <small>('''West Sea''')</small><br>[[Bridge Field]], [[Giant's Cap]], [[Giant's Mirror]], [[Motostoke Riverbank]], [[Stony Wilderness]], [[Galar Mine No. 2]] <small>('''East Sea''')</small><br>[[Bridge Field/Dens|Bridge Field]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Lake of Outrage/Dens|Lake of Outrage]], [[South Lake Miloch/Dens|South Lake Miloch]], [[West Lake Axewell/Dens|West Lake Axewell]] ([[Max Raid Battle]]) <small>('''East Sea''')</small>}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|218|Sinnoh}}, and {{rtn|221|Sinnoh}}, [[Fuego Ironworks]], [[Valley Windworks]] (tall grass) <small>('''West Sea''')</small><br>[[Route]]s {{rtn|213|Sinnoh}} and {{rtn|224|Sinnoh}} (tall grass) <small>('''East Sea''')</small><br>[[Grand Underground]] - [[Fountainspring Cave]]}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' [[Ramanas Island]], [[Sandgem Flats]], massive [[mass outbreak]]s <small>('''West Sea''')</small><br>'''[[Cobalt Coastlands]]:''' [[Tranquility Cove]], [[Seagrass Haven]], massive mass outbreaks <small>('''East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Five)|Area Five]] <small>('''East Sea''')</small><br>East Province: [[East Province (Area One)|Area One]] <small>('''East Sea''')</small><br>West Province: [[West Province (Area Two)|Area Two]] <small>('''West Sea''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Shellos|2★}}) <small>('''West{{sup/9|V}}/East{{sup/9|S}} Sea''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Drenched Bluff]] (B1F-B6F) <small>('''West Sea''')</small><br>[[Miracle Sea]] (B1F-B5F) <small>('''East Sea''')</small>}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Drenched Bluff]] (B1F-B6F) <small>('''West Sea''')</small><br>[[Miracle Sea]] (B1F-B5F) <small>('''East Sea''')</small>}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area={{dl|Vientown|Nabiki Beach}}, {{OBP|Marine Cave|Ranger}}}}
+{{Availability/Entry1|v=Ranch|link=My Pokémon Ranch|color={{Diamond color}}|area=[[Hayley's trades]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Curl Bay]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Rugged Flats]] <small>('''West Sea''')</small><br>Beach: [[Sunny Seashore]] <small>('''East Sea''')</small>}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#The Enemies Within|Secret Warehouse: The Enemies Within]] <small>('''West/East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 1|Island of Haste: Stage 1]]<br>[[Safari Jungle#Saturday Stage 2|Safari Jungle: Stage 2]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Secret Cove|Origin Hideaway: Secret Cove]] <small>(All Areas)</small>, [[Distortion Land#Vast Ocean|Distortion Land: Vast Ocean]] <small>(All Areas)</small> <small>('''West/East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Garchomp Sea]], [[Arceus Sea]], [[Garchomp Sea]]<sup>Final</sup> <small>('''West/East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 385]] <small>('''West Sea''')</small><br>[[Prasino Woods|Prasino Woods: Stage 554]] <small>('''East Sea''')</small>}}
+{{Availability/Entry1|1|v=GO|color={{night color}}|t=FFF|area={{wp|Western Hemisphere}} <small>('''West Sea''')</small><br>{{wp|Eastern Hemisphere}} <small>('''East Sea''')</small><br>Worldwide (only during special events)
+* Ultra Unlock Part 2: Space: August 6 - 17, 2021 (from 7 km {{pkmn|Egg}}s and [[Field Research]]) <small>('''West/East Sea''')</small>
+* [[Pokémon Spotlight Hour]]: August 10, 2021 <small>('''East Sea''')</small>
+* [[Pokémon Spotlight Hour]]: August 17, 2021 <small>('''West Sea''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held Items===
+{{HeldItems/header|type=Water}}
+{{HeldItems/Games1|Ranch|gcolor=a46931|My Pokémon Ranch}}
+{{HeldItems/Items1|Rindo Berry|100}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Items1|Old Gateau|100|availNote=[[In-game trade]],&#32;}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Items1|Waterium Z|100|availNote=[[In-game trade]],&#32;{{form|Shellos|West Sea}},&#32;|image=Held Waterium Z Sprite.png}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Nanab Berry|30|Ball of Mud|15|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|HP=     76
+|Attack= 48
+|Defense=48
+|SpAtk=  57
+|SpDef=  62
+|Speed=  34}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=1
+|SpeedMax=3
+|Power=1
+|PowerMax=4
+|Technique=1
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|stormdrain=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Shellos|Water|Water|4}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level9|1|Mud-Slap|Ground|Special|20|100|10||''}}
+{{learnlist/level9|5|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|10|Recover|Normal|Status|—|—|5}}
+{{learnlist/level9|15|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level9|20|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level9|25|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level9|31|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/level9|35|Earth Power|Ground|Special|90|100|10||''}}
+{{learnlist/level9|40|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level9|45|Memento|Dark|Status|—|100|10}}
+{{learnlist/levelf/9|Shellos|Water|Water|4}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Shellos|Water|Water|4}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||''}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||''}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||''}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM208|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm9|TM209|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Shellos|Water|Water|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Shellos|Water|Water|4}}
+{{learnlist/breed9|{{MSP/H|0088|Grimer}}{{MSP/H|0088|Grimer|form=-Alola}}{{MSP/H|0089|Muk}}{{MSP/H|0089|Muk|form=-Alola}}|Acid Armor|Poison|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0109|Koffing}}{{MSP/H|0110|Weezing}}{{MSP/H|0110-Galar|Weezing}}{{MSP/H|0218|Slugma}}{{MSP/H|0219|Magcargo}}|Clear Smog|Poison|Special|50|—|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0833|Chewtle}}{{MSP/H|0834|Drednaw}}{{MSP/H|0914|Quaquaval}}|Counter|Fighting|Physical|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0079|Slowpoke}}{{MSP/H|0079|Slowpoke|form=-Galar}}{{MSP/H|0080|Slowbro}}{{MSP/H|0080|Slowbro|form=-Galar}}{{MSP/H|0199|Slowking}}{{MSP/H|0199|Slowking|form=-Galar}}{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0353|Shuppet}}{{MSP/H|0354|Banette}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Dusknoir}}{{MSP/H|0442|Spiritomb}}{{MSP/H|0607|Litwick}}{{MSP/H|0608|Lampent}}{{MSP/H|0609|Chandelure}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0871|Pincurchin}}|Curse|Ghost|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}|Mirror Coat|Psychic|Special|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0131|Lapras}}{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}{{MSP/H|0283|Surskit}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0875|Eiscue}}|Mist|Ice|Status|—|—|30|grid=8}}
+{{learnlist/breed9|{{MSP/H|0088|Grimer}}{{MSP/H|0089|Muk}}{{MSP/H|0109|Koffing}}{{MSP/H|0110|Weezing}}{{MSP/H|0110-Galar|Weezing}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}|Sludge|Poison|Special|65|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}{{MSP/H|0845|Cramorant}}|Spit Up|Normal|Special|—|100|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}{{MSP/H|0845|Cramorant}}|Stockpile|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}{{MSP/H|0845|Cramorant}}|Swallow|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0079|Slowpoke}}{{MSP/H|0079|Slowpoke|form=-Galar}}{{MSP/H|0080|Slowbro}}{{MSP/H|0080|Slowbro|form=-Galar}}{{MSP/H|0199|Slowking}}{{MSP/H|0199|Slowking|form=-Galar}}{{MSP/H|0194|Wooper}}{{MSP/H|0194|Wooper|form=-Paldea}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0218|Slugma}}{{MSP/H|0219|Magcargo}}{{MSP/H|0230|Kingdra}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0358|Chimecho}}|Yawn|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breedf/9|Shellos|Water|Water|4}}
+
+===Side game data===
+====West Sea====
+{{Spindata/Head|type=Water}}
+{{Spindata/MDTDS|col=6|type=Water|ndex=422
+|body=1
+|rate=6.4
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Water|ndex=422
+|coset=3
+|conto={{form|Shellos and Gastrodon|East Sea}} Shellos, East Sea {{p|Gastrodon}}, {{p|Frillish}} (♀)
+|recruitment=Visit {{p|Gastrodon}}'s secret base
+|P1=I know some blame it on their upbringing. But anyone can overcome that, right?
+|P2=I'm losing too much water... I'll be flattened...
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=1
+|num=037
+|browser=It spits orbs of water to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=2
+|past=NA
+|num=086
+|browser=It attacks by spitting bubbles that make Pokémon Slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=1
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=422
+|walk=2.92
+|hp=54
+|attack=69
+|defense=49
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=422
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=422|num=528
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Cloud Clear
+|skilldesc=Clears away one black-cloud disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=422
+|egg=5
+|buddy=3
+|candy=Shellos
+|evocandy=50
+|stamina=183
+|attack=103
+|defense=105
+|fast={{m|Mud-Slap}}, {{m|Hidden Power}}
+|special={{m|Water Pulse}}, {{m|Mud Bomb}}, {{m|Body Slam}}
+}}
+|}
+
+====East Sea====
+{{Spindata/Head|type=Water}}
+{{Spindata/MDTDS|col=6|type=Water|ndex=422E
+|body=1
+|rate=6.4
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Water|ndex=422E
+|coset=3
+|conto={{form|Shellos and Gastrodon|West Sea}} Shellos, West Sea {{p|Gastrodon}}, East Sea Gastrodon, {{p|Frillish}} (♂)
+|recruitment=Visit {{p|Gastrodon}}'s secret base
+|P1=Our bodies look different depending on where we're from. Where you come from counts!
+|P2=I think...I'm getting dehydrated....
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=1
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=422E
+|walk=2.92
+|hp=54
+|attack=69
+|defense=49
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=422E
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=422E|num=528
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Cross Attack
+|skilldesc=Increases damage when making a + shaped match.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=422E
+|egg=5
+|buddy=3
+|candy=Shellos
+|evocandy=50
+|stamina=183
+|attack=103
+|defense=105
+|fast={{m|Mud-Slap}}, {{m|Hidden Power}}
+|special={{m|Water Pulse}}, {{m|Mud Bomb}}, {{m|Body Slam}}
+}}
+|}
+
+===Form data===
+Shellos has two different forms: West Sea Shellos and East Sea Shellos. In most cases, where it is encountered in the {{pkmn2|wild}} determines its form. This is purely a cosmetic difference, and this Pokémon cannot change between forms.
+
+West Sea Shellos is pink and white in color, whereas East Sea Shellos is blue and green in color. There is also a slight difference in shape depending on the form.
+
+In [[Sinnoh]] and [[Hisui]], West Sea Shellos is encountered west of [[Mount Coronet]], while East Sea Shellos is encountered east of Mount Coronet. In [[Paldea]], West Sea Shellos is encountered in [[West Province (Area Two)]], while East Sea Shellos is encountered in [[East Province (Area One)]] and [[South Province (Area Five)]]; both forms can also be found in [[Tera Raid Battle]]s regardless of location. In other [[region]]s, only one form appears in the wild per game (with the other only obtainable via [[trade|trading]] or [[transfer]]): in {{g|Omega Ruby and Alpha Sapphire}}, Shellos appears as a {{DL|DexNav|hidden Pokémon}}, with West Sea appearing in Omega Ruby and East Sea appearing in Alpha Sapphire; and in [[Alola]] and [[Galar]], only East Sea Shellos appears in the wild.
+
+[[Pokémon breeding|Bred]] Shellos are always the same form as their mother, or the same form as the Shellos or Gastrodon parent if bred with {{p|Ditto}}.
+
+===Evolution data===
+====West Sea====
+{{Evobox-2
+|type1=Water
+|pictype=sprite
+|no1=0422Shellos-West
+|form1=West Sea
+|name1=Shellos
+|type1-1=Water
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0423Gastrodon-West
+|name2=Gastrodon
+|form2=West Sea
+|type1-2=Water
+|type2-2=Ground}}
+
+====East Sea====
+{{Evobox-2
+|type1=Water
+|pictype=sprite
+|no1=0422Shellos-East
+|form1=East Sea
+|name1=Shellos
+|type1-1=Water
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0423Gastrodon-East
+|name2=Gastrodon
+|form2=East Sea
+|type1-2=Water
+|type2-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/2Forms|ndex=422|form1=E}}
+{{Spritebox/5/2Forms|ndex=422|form1=E}}
+{{Spritebox/6/2Forms|ndex=422|form1=E|crop=62}}
+{{Spritebox/7/2Forms|ndex=422|form1=E|crop=60}}
+{{Spritebox/8/2FormsLA|ndex=422|form1=E|LAcrop=105}}
+<!--{{Spritebox/9/2Forms|ndex=0422|form1=E}}-->
+{{Spritebox/HOME/2Forms|ndex=0422|form1=E}}
+{{Spritebox/Footer|0422|Shellos}}
+
+====Other sprites====
+{| style="background: #{{water color}}; margin:auto; text-align:center; font-size: 80%; {{roundy|20px}}; border: 2px solid #{{water color dark}}"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:180px"| [[File:Spr 4d 422Sluggo.png]]
+| style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:180px"| [[File:Spr 4d 422Wiggy.png]]
+| style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:180px"| [[File:Spr 4d 422Zoomer.png]]
+|-
+| Sluggo in {{color2|000|Pokémon Super Contests}}
+| Wiggy in {{color2|000|Pokémon Super Contests}}
+| Zoomer in {{color2|000|Pokémon Super Contests}}
+|}
+
+==In animation==
+[[File:Shellos anime west.png|thumb|250px|West Sea Shellos in {{aniseries|PTS}}]]
+[[File:Shellos anime east.png|thumb|250px|East Sea Shellos in {{aniseries|PTS}}]]
+===Major appearances===
+====[[Zoey's Shellos]]====
+{{DL|List of Pokémon with form differences|Shellos and Gastrodon|West Sea}} Shellos debuted in ''[[DP041|A Stand-Up Sit-Down!]]'', under the ownership of [[Zoey]], where it partnered with her {{TP|Zoey|Glameow}} to show {{an|Dawn}} and her Pokémon a [[Double Performance]]. In ''[[DP174|Last Call — First Round!]]'', it was revealed to have evolved into a Gastrodon.
+
+====Other====
+Multiple Shellos of both kinds appeared in ''[[DP136|Gateway to Ruin!]]'', which also served as the animated series debut for {{DL|List of Pokémon with form differences|Shellos and Gastrodon|East Sea}} Shellos.
+
+===Minor appearances===
+East Sea Shellos debuted in ''[[M10|The Rise of Darkrai]]''.
+
+Two East Sea Shellos appeared in a fantasy in ''[[SM005|Yo, Ho, Ho! Go, Popplio!]]''.
+
+In ''[[SM046|Deceiving Appearances!]]'', three Shellos, two of them West Sea and the third East Sea, were at [[Aether Paradise]].
+
+An East Sea Shellos appeared in ''[[SM126|Pikachu's Exciting Adventure!]]''.
+
+A Trainer's West Sea Shellos appeared in ''[[JN089|The Gates of Warp!]]''.
+
+A Trainer's two East Sea Shellos appeared in ''[[JN090|Showdown at the Gates of Warp!]]''.
+
+Five East Sea Shellos appeared in ''[[HZ042|Transform! Hero of the Seas, Palafin]]''.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP041|Shellos|Dawn's Pokédex|Shellos, the Sea Slug Pokémon. Shellos's shape and color varies depending on where it lives. Two different {{form|Shellos and Gastrodon|varieties}} have been confirmed in the [[Sinnoh|Sinnoh region]].}}
+{{Animedexbody|DP136|Shellos|Dawn's Pokédex|Shellos, the Sea Slug Pokémon. A mysterious purple fluid oozes out of its soft body when Shellos is strongly squeezed. {{form|Shellos and Gastrodon|Two kinds}} of Shellos, pink and blue, have been confirmed.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+
+==In the manga==
+===Pokémon Adventures===
+[[File:Mr Fuego Shellos Adventures.png|thumb|200px|left|East Sea Shellos in [[Pokémon Adventures]]]]
+[[File:Pokéstar Studios filming studio Adventures.png|thumb|200px|West Sea Shellos in [[Pokémon Adventures]]]]
+East Sea Shellos debuted in ''[[PS361|Bombastic Bibarel & Heroic Hippopotas]]'', under the ownership of a male {{tc|Ace Trainer}} seen at the [[Seven Stars Restaurant]].
+
+Shellos's most notable appearance is that of a companion of [[Mr. Fuego]]'s. He typically keeps his East Sea Shellos on his shoulder, continuing to do so even after he accidentally imprisoned himself to avoid [[Team Galactic]]. It first appeared in ''[[PS384|Maddening Magby]]''.
+
+West Sea Shellos debuted in ''[[PS530|Movie Panic]]'', where it was at the [[Pokéstar Studios]], presumably under the ownership of one of the visiting Trainers from the {{ci|Aspertia}} {{pkmn|academy|Trainers' School}}.
+{{-}}
+
+==In the TCG==
+{{main|Shellos (TCG)}}
+
+==Trivia==
+[[File:Spr b 4d 422b.png|thumb|Shellos's early back sprite]]
+* According to an interview in [[Nintendo Power]] with [[Game Freak]], Shellos and {{p|Gastrodon}} were [[Pokémon Ruby and Sapphire beta|originally]] intended for {{game|Ruby and Sapphire|s}}.<ref name="NintendoPower">[[Junichi Masuda]]: There's also a sea-slug Pokémon that we weren't able to put in {{2v2|Ruby|Sapphire}} that we were able to put in <nowiki>[</nowiki>{{game|Diamond and Pearl|s}}<nowiki>]</nowiki>... | "Pearls of Wisdom", ''[[Nintendo Power]]'' Issue 215, May 2007, p. 37 ([https://imgur.com/a/kkZqB Scan])</ref>
+*Both Shellos and Gastrodon have [[Pokémon Diamond and Pearl beta|early]] back sprites that can be found in the game data for {{game|Diamond and Pearl|s}}; however, there are no front sprites for these forms.
+*In Diamond and Pearl, no in-game {{pkmn|Trainer}} uses East Sea Shellos in battle, even on the east side of [[Mount Coronet]].
+*Shellos's English Pokédex entry for {{game|HeartGold and SoulSilver|s}} has the fewest words of any Pokédex entry in the [[core series]] games, with nine. The Pokédex entry is carried over to {{pkmn|X and Y|Pokémon Y}} and {{pkmn|Omega Ruby and Alpha Sapphire|Pokémon Alpha Sapphire}}.
+**The same is true for {{p|Kyurem}} in {{game|Black and White|s|White}}.
+*Prior to Generation VI, Shellos's shape was [[File:Body14.png|32px]].
+* Shellos and its Evolution were accidentally released in {{g|GO}} on April 29, 2019, but were removed shortly after. On May 17, 2019, they made their official debut along with various other Pokémon from Generation IV.
+*Shellos is the only Pokémon with {{a|Sand Force}} that benefits from its {{weather|sandstorm}} immunity, since all other Pokémon with the [[Ability]] are naturally immune to sandstorm damage due to their typing.
+
+===Origin===
+Shellos is based on a {{wp|sea slug}}.<ref name="NintendoPower" /> It resembles various species of {{wp|nudibranch}}, and its ability to secrete purple fluid may be based on {{wp|sea hare}}s, most of which secrete a purplish ink for self-defense.
+
+The {{g|Scarlet and Violet}} Pokédex entries mentioning an increase in West Sea Shellos and a decrease in East Sea Shellos may be referencing changes in the populations of real sea slug species due to climate change, with species that better survive in warmer waters becoming more common.<ref>[https://web.archive.org/web/20220814133258/https://www.abc.net.au/news/2019-01-18/citizen-science-project-counting-sea-slugs-helps-map-climate/10719706 Citizen science project counting NSW sea slugs helps map effect of climate change on species (retrieved December 2nd, 2022)]</ref>
+
+====Name origin====
+Shellos may be a combination of ''shell'' and ''loss'' or ''lost'' (referring to its lack of a shell), or the German suffix ''-los'' (-less).
+
+Karanakushi may be a combination of 殻 ''kara'' (shell), 無くした ''nakushita'' (to have lost), and 海牛 ''umiushi'' (sea slug; nudibranch).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=カラナクシ ''Karanakushi''|jameaning=From {{tt|殻 ''kara''|shell}}, {{tt|無くした ''nakushita''|to have lost}}, and {{tt|海牛 ''umiushi''|sea slug; nudibranch}}
+|fr=Sancoki|frmeaning=From {{tt|''sans coquille''|without a shell}}
+|es=Shellos|esmeaning=Same as English name
+|de=Schalellos|demeaning=From {{tt|''schalenlos''|without a shell}}
+|it=Shellos|itmeaning=Same as English name
+|ko=깝질무 ''Kapjilmu''|komeaning=From {{tt|껍질 ''kkapjil''|shell}} and {{tt|무 (無) ''mu''|without}}
+|zh_cmn=無殼海兔 / 无壳海兔 ''Wúkéhǎitù''{{tt|*|Games}}<br>無殼海牛 / 无壳海牛 ''Wúkéhǎiniú''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|無殼 / 无壳 ''wúké''|shell-less}} and {{tt|海兔 ''hǎitù''|sea hare}}<br>From {{tt|無殼 / 无壳 ''wúké''|shell-less}} and {{wp|Doridoidea|{{tt|海牛 ''hǎiniú''|dorid nudibranchs}}}}
+|zh_yue=無殼海兔 ''Mòuhhokhóitou''{{tt|*|Games}}<br>無殼海牛 ''Mòuhhokhóingàuh''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|無殼 ''mòuhhok''|shell-less}} and {{tt|海兔 ''hóitou''|sea hare}}<br>From {{tt|無殼 ''mòuhhok''|shell-less}} and {{tt|海牛 ''hóingàuh''|dorid nudibranchs}}
+|hi=शेलगुमा ''Shellgooma''|himeaning=From ''shell'' and {{tt|गुम ''goom''|lost/misplaced}}
+|th=คารานะคูชิ ''Kharanakhuchi ''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+<div style="display:inline-block">
+''West Sea''
+{{langtable
+|color={{water color}}|bordercolor={{autumn color dark}}
+|ja=にしのうみ ''{{tt|Nishi no Umi|West Sea}}''
+|zh_yue=西海 ''{{tt|Sāihói|West Sea}}''
+|zh_cmn=西海 ''{{tt|Xīhǎi|West Sea}}''
+|fr=Mer Occident
+|de=Westliches Meer
+|hi=वेस्ट-सी ''West-Sea''
+|id=Laut Barat
+|it=Mare Ovest
+|ko=서쪽바다 ''{{tt|Seojjok Bada|West Sea}}''
+|ms=Laut Barat
+|pt_br=Mar Ocidental{{tt|*|Pokémon GO}}<br>Mar Oeste{{tt|*|TCG}}
+|pt_eu=Mar Oeste
+|es=Mar Oeste
+|th=ทะเลตะวันตก ''Thale Tawantok''
+|tr=Batı Denizi
+}}
+</div>
+<div style="display:inline-block">
+''East Sea''
+{{langtable
+|color={{water color}}|bordercolor={{green color}}
+|ja=ひがしのうみ ''{{tt|Higashi no Umi|East Sea}}''
+|zh_yue=東海 ''{{tt|Dūnghói|East Sea}}''
+|zh_cmn={{tt|東海|Traditional Chinese}} / {{tt|东海|Simplified Chinese}} ''{{tt|Dōnghǎi|East Sea}}''
+|fr=Mer Orient
+|hi=ईस्ट-सी ''East-Sea''
+|de=Östliches Meer
+|id=Laut Timur
+|it=Mare Est
+|ko=동쪽바다 ''{{tt|Dongjjok Bada|East Sea}}''
+|ms=Laut Timur
+|pt=Mar Leste
+|es=Mar Este
+|th=ทะเลตะวันออก ''Thale Tawanok''
+|tr=Doğu Denizi
+}}
+</div>
+{{-}}
+
+==Related articles==
+*[[Zoey's Gastrodon|Zoey's Shellos]]
+*[[List of Pokémon with form differences]]
+
+==References ==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0421|prev=Cherrim|nextnum=0423|next=Gastrodon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Blue-colored Pokémon]]<!--East Sea-->
+[[Category:Body style 14 Pokémon]]<!--Prior to Gen VI-->
+[[Category:Pokémon with different forms]]
+
+[[de:Schalellos]]
+[[es:Shellos]]
+[[fr:Sancoki]]
+[[it:Shellos]]
+[[ja:カラナクシ]]
+[[zh:无壳海兔]]

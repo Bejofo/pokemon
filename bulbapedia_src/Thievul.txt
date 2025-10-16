@@ -1,0 +1,328 @@
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/GO|species=Thievul}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=0827|prev=Nickit|nextnum=0829|next=Gossifleur|round=none}}
+{{PokémonPrevNext/Disambig|species=Thievul}}
+|}
+{{Pokémon Infobox
+|name=Thievul
+|jname=フォクスライ
+|jtranslit=Fokusurai
+|tmname=Foxly
+|ndex=0828
+|type1=Dark
+|category=Fox
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=43.9
+|weight-kg=19.9
+|abilityn=d
+|ability1=Run Away
+|ability2=Unburden
+|abilityd=Stakeout
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=2
+|evsd=2
+|expyield=159
+|lv100exp=800,000
+|gendercode=127
+|color=Brown
+|catchrate=127
+|body=08
+|pokefordex=thievul
+|generation=8
+|friendship=50
+}}
+'''Thievul''' ([[List of Japanese Pokémon names|Japanese]]: '''フォクスライ''' ''Foxly'') is a {{type|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{p|Nickit}} starting at [[level]] 18.
+
+==Biology==
+Thievul is an orange-maroon vulpine {{OBP|Pokémon|species}} with a moderate build, slender limbs, and a long tail. It has white chest fur that puffs out from its body and vaguely resembles a cravat. There are two long black ears atop Thievul's head, as well as black fur around its eyes that resemble a {{wp|domino mask}}. The black whiskers on the end of its muzzle are in the form of a pointed mustache and the white markings above its eyes resemble eyebrows. Its paws, back, and the tip of its tail are all black, and it retains the flared tail-tip of its pre-Evolution {{p|Nickit}}.
+
+When Thievul finds a potential target, it will secretly mark a scent on them. Thievul then uses that scent to track and stalk its targets. By using its lithe body and claws, Thievul steals the target’s food and eggs from them when they least expect it. {{p|Boltund}} is an enemy of Thievul. It competes with {{p|Liepard}} for territory.
+
+===Evolution===
+Thievul evolves from {{p|Nickit}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Dark
+|pictype=art
+|no1=0827
+|name1=Nickit
+|type1-1=Dark
+|evo1=
+|no2=0828
+|name2=Thievul
+|type1-2=Dark}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=030|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=With a lithe body and sharp claws, it goes around stealing food and eggs. {{P|Boltund}} is its natural enemy.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Route]]s {{rtn|7|Galar}} and {{rtn|9|Galar}}, [[Bridge Field]], [[Hammerlocke Hills]], [[Stony Wilderness]]<br>[[West Lake Axewell/Dens|West Lake Axewell]], [[Bridge Field/Dens|Bridge Field]], [[Stony Wilderness/Dens|Stony Wilderness]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Frostpoint Field/Dens|Frostpoint Field]], [[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Giant's Foot/Dens|Giant's Foot]], [[Frigid Sea/Dens|Frigid Sea]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Costume [[sync pair scout]]: {{sync|Zinnia|Thievul|Special Costume}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Dark
+|HP=70
+|Attack=58
+|Defense=58
+|SpAtk=87
+|SpDef=92
+|Speed=90
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Thievul|Dark|Dark|8}}
+{{learnlist/level8|1|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/level8|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level8|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level8|1|Beat Up|Dark|Physical|—|100|10||'''}}
+{{learnlist/level8|1|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/level8|12|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/level8|16|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/level8|22|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level8|28|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level8|34|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level8|40|Tail Slap|Normal|Physical|25|85|10}}
+{{learnlist/level8|46|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/level8|52|Parting Shot|Dark|Status|—|100|20}}
+{{learnlist/levelf/8|Thievul|Dark|Dark|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Thievul|Dark|Dark|8}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM37|Beat Up|Dark|Physical|—|100|10||'''}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm8|TM66|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/tm8|TM67|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/tm8|TM68|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM78|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm8|TM84|Tail Slap|Normal|Physical|25|85|10}}
+{{learnlist/tm8|TM85|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR32|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR58|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR81|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/tr|TR90|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tmf/8|Thievul|Dark|Dark|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Thievul|Dark|Dark|8}}
+{{learnlist/breed8|{{MSP/8c|058|Growlithe}}{{MSP/8c|059|Arcanine}}{{MSP/8c|293|Whismur}}{{MSP/8c|294|Loudred}}{{MSP/8c|295|Exploud}}{{MSP/8c|309|Electrike}}{{MSP/8c|310|Manectric}}{{MSP/8c|744|Rockruff}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745Mn|Lycanroc}}{{MSP/8c|745D|Lycanroc}}|Howl|Normal|Status|—|—|40}}
+{{learnlist/breed8|{{MSP/8c|083|Farfetch'd}}{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}{{MSP/8c|359|Absol}}{{MSP/8c|570|Zorua}}{{MSP/8c|571|Zoroark}}{{MSP/8c|810|Grookey}}{{MSP/8c|811|Thwackey}}{{MSP/8c|812|Rillaboom}}|Knock Off|Dark|Physical|65|100|20||'''}}
+{{learnlist/breed8|{{MSP/8c|448|Lucario}}{{MSP/8c|619|Mienfoo}}{{MSP/8c|620|Mienshao}}{{MSP/8c|678|Meowstic}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745D|Lycanroc}}|Quick Guard|Fighting|Status|—|—|15}}
+{{learnlist/breed8|{{MSP/8c|274|Nuzleaf}}{{MSP/8c|275|Shiftry}}{{MSP/8c|509|Purrloin}}{{MSP/8c|510|Liepard}}{{MSP/8c|551|Sandile}}{{MSP/8c|552|Krokorok}}{{MSP/8c|553|Krookodile}}{{MSP/8c|570|Zorua}}{{MSP/8c|571|Zoroark}}{{MSP/8c|877|Morpeko}}|Torment|Dark|Status|—|100|15}}
+{{learnlist/breedf/8|Thievul|Dark|Dark|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Thievul|Dark|Dark|8}}
+{{learnlist/tutor8|Burning Jealousy|Fire|Special|70|100|5|||no|yes}}
+{{learnlist/tutor8|Lash Out|Dark|Physical|75|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Thievul|Dark|Dark|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Thievul|Dark|Dark|8}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Thievul|Dark|Dark|8}}
+
+===Side game data===
+{{Spindata/Head|type=Dark}}
+{{Spindata/GO|col=6|type=Dark|ndex=0828
+|hatch=N/A
+|buddy=1
+|candy=Nickit
+|evolution=N/A
+|stamina=172
+|attack=172
+|defense=164
+|fast={{m|Snarl}}, {{m|Quick Attack}}, {{m|Sucker Punch}}{{tt|*|From April 1, 2025 onward}}
+|special={{m|Night Slash}}, {{m|Play Rough}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Dark
+|pictype=art
+|no1=0827
+|name1=Nickit
+|type1-1=Dark
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 18}}
+|no2=0828
+|name2=Thievul
+|type1-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Dark}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=828}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0828}}
+{{Spritebox/Footer|828|Thievul}}
+
+==In animation==
+===Main series===
+[[File:Thievul trio.png|thumb|250px|Thievul in {{aniseries|JN}}]]
+====Major appearances====
+=====[[Thievul trio]]=====
+Thievul made its animated series debut in ''[[JN127|Just a Scone's Throw From Here!]]'', where a trio of {{p|Nickit}} evolved while battling {{TRT}}.
+
+====Minor appearances====
+Thievul debuted in ''[[M23|Secrets of the Jungle]]''.
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN127|Thievul|Goh's Rotom Phone|Thievul, the Fox Pokémon. A {{t|Dark}} type. Thievul use their flexible bodies and sharp claws to steal {{pkmn|food}}.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Team Yell Thievul Adventures.png|thumb|200px|Thievul in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A Thievul debuted in ''[[PASS04|Zap!! A Rising Beam of Light]]'', under the ownership of a {{tc|Team Yell Grunt}}.
+{{-}}
+
+==In the TCG==
+{{main|Thievul (TCG)}}
+==Trivia==
+* In English, the {{pkmn|category}} "Fox Pokémon" is shared by {{p|Vulpix}}, {{p|Fennekin}}, {{p|Nickit}}, and their [[Evolution]]s.
+** In Japanese, the hiragana category "きつねポケモン" (''Fox Pokémon'') is shared by the evolutionary lines of Vulpix and Nickit, while the katakana version "キツネポケモン" (''Fox Pokémon'') is shared by Fennekin and its Evolutions.
+
+===Origin===
+Thievul appears to be based on the {{wp|red fox}}, possibly borrowing patterns from the {{wp|cross fox}}, a variation of the red fox. Its gray shiny coloration resembles that of {{wp|silver fox (animal)|silver foxes}}, another variation of the red fox. Its facial features and moustache-like whiskers also bear a resemblance to stereotypical depictions of thieves and burglars, as well as the fictional {{wp|gentleman thief}} trope and {{wp|highwaymen}} such as {{wp|Dick Turpin}}. Its front legs resemble gloves, which thieves and burglars would wear. Thievul's relationship with {{p|Boltund}} may also be a reference to {{wp|fox hunting}}, where red foxes were hunted by English foxhounds, which Boltund appears to be based on.
+
+====Name origin====
+Thievul may be a combination of ''thieve/thief'', ''evil'', and ''vulpine'' (of or pertaining to foxes; foxlike).
+
+Foxly may be a combination of ''fox'' and ''sly''.
+
+==In other languages==
+{{Other languages|type=Dark|type2=Dark
+|ja=フォクスライ ''Foxly''|jameaning=From ''fox'' and ''sly''
+|fr=Roublenard|frmeaning=From ''{{tt|roublard|wily}}'' and ''{{tt|renard|fox}}''
+|es=Thievul|esmeaning=Same as English name
+|de=Gaunux|demeaning=From ''{{tt|Gauner|crook, sly person}}'' and ''{{tt|Fuchs|fox}}''
+|it=Thievul|itmeaning=Same as English name
+|ko=폭슬라이 ''Foxly''|komeaning=Transcription of Japanese name
+|zh_cmn=狐大盜 / 狐大盗 ''Húdàdào''{{tt|*|Traditional Chinese, Simplified Chinese (Prior to October 20, 2020)}}<br>猾大狐 ''Huádàhú''{{tt|*|Simplified Chinese (October 20, 2020 - present)}}|zh_cmnmeaning=From {{tt|狐 ''hú''|fox}}, {{tt|大 ''dà''|great}}, and {{tt|大盜 ''dàdào''|thief}}<br>From {{tt|狡猾 ''jiǎohuá''|crafty}}, {{tt|大 ''dà''|great}}, and {{tt|狐 ''hú''|fox}}
+|zh_yue=狐大盜 ''Wùhdaaihdouh''|zh_yuemeaning=From {{tt|狐 ''wùh''|fox}}, {{tt|大 ''daaih''|great}}, and {{tt|大盜 ''daaihdouh''|thief}}
+|hi=चालूफ़ॉक्स ''Chalufox''|himeaning=From {{tt|चालू ''cālū''|slang for smartass/cunning}} and ''fox''
+|th=ฟ็อกสไล ''Foksalai''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Thievul trio]]
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=0827|prev=Nickit|nextnum=0829|next=Gossifleur}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Gaunux]]
+[[es:Thievul]]
+[[fr:Roublenard]]
+[[it:Thievul]]
+[[ja:フォクスライ]]
+[[zh:狐大盗]]

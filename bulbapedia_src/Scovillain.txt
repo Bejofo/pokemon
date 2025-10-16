@@ -1,0 +1,326 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Fire}}
+{{PokémonPrevNext/GO|species=Scovillain}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0951|prev=Capsakid|nextnum=0953|next=Rellor|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Scovillain
+|jname=スコヴィラン
+|jtranslit=Sukoviran
+|tmname=Scovillain
+|ndex=0952
+|type1=Grass
+|type2=Fire
+|category=Spicy Pepper
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=33.1
+|weight-kg=15.0
+|abilityn=2
+|ability1=Chlorophyll
+|ability2=Insomnia
+|abilityd=Moody
+|egggroupn=1
+|egggroup1=Grass
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=2
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=170
+|lv100exp=1000000
+|gendercode=127
+|color=Green
+|catchrate=75
+|body=06
+|pokefordex=scovillain
+|generation=9
+|friendship=50
+}}
+'''Scovillain''' ([[List of Japanese Pokémon names|Japanese]]: '''スコヴィラン''' ''Scovillain'') is a dual-type {{2t|Grass|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Capsakid}} when exposed to a [[Fire Stone]].
+
+==Biology==
+[[File:Two Red Headed Scovillain.png|250px|thumb|left|[[Karatō]]'s [[Rotom Phone]] picture of a rare, two red-headed Scovillain]]
+Scovillain is a monstrous, bipedal Pokémon which resembles a pepper plant. It has a dark-green body and a leafy growth surrounding its neck which resembles a collar. Two leafy arms grow out of this growth. It has a short tail and its feet end in a clawed toe at each side. Its two pepper-like heads are attached to its body by stems. The red head on the right has an angry expression, while the light green head on the left appears more mischievous. Both heads have black eyes, stick their tongues out, and possess sharp fangs, the bottom pairs of which protrude below their lower jaws.
+
+Scovillain is described as a ferocious Pokémon whose rampage is unstoppable. The spicy chemicals in its brain stimulate both heads, turning the green head vicious while providing a source for the red head to convert into spicy, fiery energy, which it blasts its surroundings with. As revealed in [[HZ102]], Scovillain can naturally have two green heads, red heads, or a green head on the right and a red head on the left, but these are rare occurrences.
+
+Scovillain is the [[signature move|only known Pokémon]] capable of learning the move {{m|Spicy Extract}}.
+{{-}}
+
+===Evolution===
+Scovillain evolves from {{p|Capsakid}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-2
+|pictype=art
+|type1=Grass
+|type2=Fire
+|no1=0951
+|name1=Capsakid
+|type1-1=Grass
+|evo1=
+|no2=0952
+|name2=Scovillain
+|type1-2=Grass
+|type2-2=Fire}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Fire}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=251|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fire color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Scovillain SV.png|x200px]]
+|-
+| Scovillain in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Fire}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Six)|Area Six]]<br>North Province: [[North Province (Area One)|Area One]], [[North Province (Area Three)|Area Three]], [[Dalizapa Passage]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Scovillain|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Fire
+|HP=65
+|Attack=108
+|Defense=65
+|SpAtk=108
+|SpDef=65
+|Speed=75
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Fire
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=100
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=25
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Scovillain|Grass|Fire|9}}
+{{learnlist/level9|1|Fire Fang|Fire|Physical|65|95|15||'''}}
+{{learnlist/level9|1|Leafage|Grass|Physical|40|100|40||'''}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Spicy Extract|Grass|Status|—|—|15}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/level9|4|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|10|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|13|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|17|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|21|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|24|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|28|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/level9|33|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/level9|38|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level9|44|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|48|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/level9|48|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/levelf/9|Scovillain|Grass|Fire|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Scovillain|Grass|Fire|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM008|Fire Fang|Fire|Physical|65|95|15||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM157|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM195|Burning Jealousy|Fire|Special|70|100|5||'''}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM207|Temper Flare|Fire|Physical|75|100|10||'''}}
+{{learnlist/tmf/9|Scovillain|Grass|Fire|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Scovillain|Grass|Fire|9}}
+{{learnlist/breed9|{{MSP/H|0192|Sunflora}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed9|{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0286|Breloom}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0952|Scovillain}}|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/breedf/9|Scovillain|Grass|Fire|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Scovillain|Grass|Fire|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Scovillain|Grass|Fire|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Fire}}
+{{Spindata/GO|col=6|type=Grass|ndex=0952
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=163
+|attack=216
+|defense=130
+|fast={{m|Leafage}}, {{m|Fire Fang}}
+|special={{m|Leaf Storm}}, {{m|Grass Knot}}, {{m|Overheat}}, {{m|Flamethrower}}
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|pictype=art
+|type1=Grass
+|type2=Fire
+|no1=0951
+|name1=Capsakid
+|type1-1=Grass
+|evo1={{Bag/s|Fire Stone|SV}}<br>{{color2|000|Fire Stone}}
+|no2=0952
+|name2=Scovillain
+|type1-2=Grass
+|type2-2=Fire}}
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=fire}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0952}}-->
+{{Spritebox/HOME|ndex=0952}}
+{{Spritebox/Footer|952|Scovillain}}
+
+==In animation==
+[[File:Karato Scovillain.png|thumb|250px|Scovillain in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+A Scovillain appeared in [[HZ102]], under the ownership of [[Karatō]]. It had ran away from its Trainer due to his constant use of the [[Strong Sphere]], which caused it to enter a [[Laquium]]-induced rampage, forcing [[Liko]] to subdue it in battle before having [[Pagogo]] purify it.
+
+====Minor appearances====
+Scovillain debuted in ''[[HZ067|Shine on, Terastallization! Liko vs. Roy!]]'', under the ownership of a Trainer.
+
+===Discover Pokémon Together===
+A Scovillain appears in ''{{DL|Discover Pokémon Together|The Mysterious Mismagius}}''. It attacked a {{p|Maushold}} before being stopped by a {{p|Mismagius}}.
+
+===POKÉTOON===
+A Scovillain appeared during a video in [[PT16]], under the ownership of a Trainer.
+
+==In the manga==
+[[File:Arven Scovillain Adventures.png|thumb|200px|Scovillain in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Scovillain debuted in ''[[PASV03|Battle! Team Star, the Delinquents!!]]''. {{Violet}} caught one at [[West Province (Area One)]], then immediately [[trade]]d it to {{adv|Arven}} for his {{TP|Arven|Mabosstiff}}.
+{{-}}
+
+==In the TCG==
+{{main|Scovillain (TCG)}}
+
+==Trivia==
+* Scovillain is the only {{type|Fire}} Pokémon in the {{egg3|Grass}}, and the only {{DL|List of Pokémon by color|green}} Fire-type Pokémon.
+* Scovillain is the only Pokémon with {{a|Chlorophyll}} that is not weak to {{type|Fire}} attacks, which have increased power under [[harsh sunlight]].
+* Excluding [[Legendary Pokémon]], whose names are often the same in all localizations of Pokémon games, Scovillain is the only [[Generation IX]] Pokémon whose English and Japanese names are the same.
+* Of all Pokémon (or Pokémon evolutionary lines) who {{DL|List of Pokémon with unique type combinations|List of Pokémon with formerly unique type combinations|formerly had unique type combinations}}, Scovillain held its unique typing for the shortest period of time. When {{g|Scarlet and Violet}} launched on November 18, 2022, Scovillain's Grass/Fire type was unique, but it lost this distinction with the release of [[The Teal Mask]] and {{form|Ogerpon|Hearthflame Mask}} {{p|Ogerpon}} on September 13, 2023 — 299 days later.
+
+===Origin===
+Scovillain seems to be based on a {{wp|chili pepper}} plant. The red head seems to be based on a ripe, mature chili, while the green head seems to represent an immature chili that is not as pungent. The shape of the heads seems to be based on the {{wp|habanero}} (as alluded to by its Japanese {{pkmn|category}}) or the {{wp|Carolina Reaper}} (the spiciest chili in the world at the time of debut).
+
+Scovillain's red head being the only one to produce spicy and fire energy may allude to the {{wp|Padrón pepper}}, a variety of pepper cultivated in Galicia, {{wp|Spain}}. The flavor of these peppers can vary from mild to very spicy, which has given way to the Galician saying ''"Os pementos de Padrón, uns pican e outros non"'' ("Padrón peppers, some are hot, some are not"). Scovillain’s appearance and behavior also suggest inspiration from villains in {{wp|Western films}}; in particular, its typical stance recalls the classic hands-on-belt pose common among {{wp|cowboys}} and the gunslinger's pre-duel stance before a showdown. All of this, together with its Paldean origin, may reference Spain's role as a major filming location for many iconic {{wp|Spaghetti Western}}s.
+
+Its polarized expressions may be based on the {{wp|sock and buskin}} theater masks, with the green and red heads representing {{wp|Thalia (Muse)|Thalia}} (muse of comedy) and {{wp|Melpomene}} (muse of tragedy), respectively. 
+
+====Name origin====
+Scovillain may be a combination of ''Scoville'' (as in the {{wp|Scoville scale}}, the measurement scale for chili pepper pungency) and ''villain''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Fire
+|ja=スコヴィラン ''Scovillain''|jameaning=From ''Scoville scale'' and ''villain''
+|fr=Scovilain|frmeaning=Similar to English/Japanese name
+|es=Scovillain|esmeaning=Same as English/Japanese name
+|de=Halupenjo|demeaning=From ''{{tt|Halunke|scoundrel}}'' and ''{{wp|Jalapeño}}''
+|it=Scovillain|itmeaning=Same as English/Japanese name
+|ko=스코빌런 ''Seukobilleon''|komeaning=Transcription of Japanese name
+|zh_cmn=狠辣椒 ''Hěnlàjiāo''|zh_cmnmeaning=From {{tt|狠 ''hěn''|vicious}} and {{tt|辣椒 ''làjiāo''|chili pepper}}
+|zh_yue=狠辣椒 ''Hánlaahtjīu''|zh_yuemeaning=From {{tt|狠 ''hán''|vicious}} and {{tt|辣椒 ''laahtjīu''|chili pepper}}
+|hi=चिलीफ़ंगा ''Chillifunga''|himeaning=From ''chilli''
+|th=สโกวิลเลิน ''Sakowinloen''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0951|prev=Capsakid|nextnum=0953|next=Rellor}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Halupenjo]]
+[[es:Scovillain]]
+[[fr:Scovilain]]
+[[it:Scovillain]]
+[[ja:スコヴィラン]]
+[[zh:狠辣椒]]

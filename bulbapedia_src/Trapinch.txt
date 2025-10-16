@@ -1,0 +1,592 @@
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/GO|species=Trapinch}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0327|prev=Spinda|nextnum=0329|next=Vibrava|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Trapinch
+|jname=ナックラー
+|jtranslit=Nakkurā
+|tmname=Nuckrar
+|ndex=0328
+|typebox=1
+|type1=Ground
+|category=Ant Pit
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=33.1
+|weight-kg=15.0
+|abilityn=d
+|ability1=Hyper Cutter
+|ability2=Arena Trap
+|abilityd=Sheer Force
+|egggroupn=2
+|egggroup1=Bug
+|egggroup2=Dragon
+|egggroup2note=<sup>{{color2|000|Generation VIII|Gen VIII}}+</sup>
+|eggcycles=20
+|evtotal=1
+|evat=1
+|expyield=58
+|oldexp=73
+|lv100exp=1,059,860
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=14
+|pokefordex=trapinch
+|generation=3
+|friendship=70
+}}
+'''Trapinch''' ([[List of Japanese Pokémon names|Japanese]]: '''ナックラー''' ''Nuckrar'') is a {{type|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] into {{p|Vibrava}} starting at [[level]] 35, which evolves into {{p|Flygon}} starting at level 45.
+
+==Biology==
+Trapinch is an orange, insectoid {{OBP|Pokémon|species}}. It has a round body with a white underside and four stumpy legs. It also has a proportionally large head, small black eyes with twinkle-shaped pupils, and a zigzagging mouth.
+
+Trapinch's large jaws are powerful enough to crush any boulders that get in its way as it digs through the sand of the {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|arid deserts}} in which it lives. It can go a week without water or food. Instead of actively hunting prey, it digs into the sand to build its bowl- or cone-shaped nests, waiting for prey to tumble inside and become trapped. When night falls, Trapinch will dig itself a spot underneath the sand and go to sleep. Due to the size of its head in contrast to its small body, Trapinch will be unable to get up after flipping over onto its back, making it vulnerable to natural predators such as {{p|Sandile}}.
+
+===Evolution===
+Trapinch evolves into {{p|Vibrava}}, which evolves into {{p|Flygon}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Ground
+|pictype=art
+|no1=0328
+|name1=Trapinch
+|type1-1=Ground
+|evo1=
+|no2=0329
+|name2=Vibrava
+|type1-2=Ground
+|type2-2=Dragon
+|evo2=
+|no3=0330
+|name3=Flygon
+|type1-3=Ground
+|type2-3=Dragon}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=116|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Trapinch</sc>'s nest is a sloped, bowl-like pit dug in sand. This {{ScPkmn}} patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Trapinch</sc> is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This {{ScPkmn}} can go a whole week without access to any water.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its big jaws crunch through boulders. Because its head is so big, it has a hard time getting back upright if it tips over onto its back.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=121|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=003|label1=Mountain|reg2=Hoenn|num2=121}}
+{{Dex/Entry1|v=X|t=FFF|entry=It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Trapinch's nest is a sloped, bowl-like pit dug in sand. This Pokémon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Trapinch is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This Pokémon can go a whole week without access to any water.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=235|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=304|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=It can live for a week without eating a thing. It waits patiently at the bottom of its nest for prey to appear.}}
+{{Dex/Entry1|v=Moon|entry=As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Its jaws are strong enough to crush rocks but so heavy that it can't get up if it flips over. Sandile seize those moments as their chance.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=It builds nests that double as traps, lying in wait for its prey to get caught. When night falls, it digs itself a spot beneath the sand to sleep.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=321|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=44}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon lives in arid deserts. It patiently awaits prey inside its funnel-shaped nest.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{ground color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{ground color light}};" | [[File:Pokédex Image Trapinch SM.png|x200px]]
+| style="border:2px solid #{{ground color dark}}; background:#{{ground color light}}; {{roundy|5px}};" | [[File:Pokédex Image Trapinch SV Blueberry.png|x200px]]
+|-
+| Trapinch in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Trapinch in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ground}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{rt|111|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{rt|111|Hoenn}}, [[Mirage Tower]]}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area={{DL|Poké Spot|Rock Poké Spot}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|228|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}} (Desert with 49 Peak points)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1|v=White|area=[[White Forest]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Desert Resort]], [[Reversal Mountain]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Rugged Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|13|Kalos}}, [[Friend Safari]] ([[Friend Safari#Ground-type Safari|Ground]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=fff|area={{rt|111|Hoenn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Haina Desert]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Haina Desert]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|6|Galar}}, [[Hammerlocke Hills]]{{sup/8|Sh}}<br>[[Rolling Fields/Dens|Rolling Fields]], [[Axew's Eye/Dens|Axew's Eye]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|228|Sinnoh}} ([[Poké Radar]])<br>[[Grand Underground]] - [[Rocky Cave]], [[Big Bluff Cavern]], [[Sandsear Cave]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Blueberry Academy)|Trapinch|2★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Hatch from {{pkmn|Egg}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|3|Phobos Drill}}, Endless Level 27, Forever Level 27, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Silent Chasm]] (6F-9F), [[Wish Cave]] (21F-28F), [[Desert Region]] (1F-11F), [[Joyous Tower]] (21F-24F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Northern Desert]] (1F-15F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Northern Desert]] (1F-15F)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Spike Ball Alert!|Vehicle Gallery: Spike Ball Alert!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 3|Distortion Island: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Trailhead Field|White Ruins: Trailhead Field]] <small>(All Areas)</small>, [[Plasma Tundra#Sacred Blade Cliff|Plasma Tundra: Sacred Blade Cliff]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Dragonite Sea]], [[Jirachi Sea]], [[Celebi Sea]], [[Zygarde Sea]], [[Jirachi Sea]]<sup>Final</sup>, [[Celebi Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD red color}}|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Silent Chasm]] (8F-9F), [[Wish Cave]] (24F-29F), [[Desert Region]] (1F-11F), [[Joyous Tower]] (26F-28F), [[Purity Forest]] (24F-28F)<br/>Fainted Pokémon: [[Mt. Steel]], [[Pitfall Valley]], [[Oddity Cave]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Sweltering Sands]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 358]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Ground}}
+{{eventAvail|{{gameabbrev5|BW}}|Year of the Dragon Egg Trapinch|Japanese|Japan|1|January 6 to February 5, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Trapinch}}
+{{eventAvail|{{gameabbrev5|BW}}|Year of the Dragon Trapinch|Korean|Wi-Fi|1|August 23 to October 4, 2012|link=List of Wi-Fi Korean event Pokémon distributions in Generation V#Trapinch}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Ground}}
+{{HeldItems/Games2|Ruby|Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Ruby and Sapphire Versions}}
+{{HeldItems/Items1|Soft Sand|5|rows=12}}
+{{HeldItems/Games1|Emerald|tcolor=fff|Pokémon Emerald Version}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black|White|tcolor1={{black color}}|gcolor1=fff|Pokémon Black and White Versions}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|X|Y|tcolor1=fff|Pokémon X and Y}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=FFF|tcolor2=FFF|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ground
+|HP=     45
+|Attack=100
+|Defense=45
+|SpAtk=  45
+|SpDef=  45
+|Speed=  10}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|Speed=1
+|SpeedMax=2
+|Power=3
+|PowerMax=5
+|Technique=2
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=   50
+|Ground=  100
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   200
+|Grass=   200
+|Electric=  0
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|ground=yes
+|newelectric=1}}
+
+===Learnset===
+Trapinch is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Trapinch|Ground|Ground|3}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|8|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|12|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level9|16|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level9|20|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|24|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level9|28|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level9|32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level9|36|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|40|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level9|44|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/level9|48|Fissure|Ground|Physical|—|30|5}}
+{{learnlist/levelf/9|Trapinch|Ground|Ground|3}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Trapinch|Ground|Ground|3}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tmf/9|Trapinch|Ground|Ground|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Trapinch|Ground|Ground|3}}
+{{learnlist/breed9|{{MSP/H|0168|Ariados}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0401|Kricketot}}{{MSP/H|0415|Combee}}{{MSP/H|0540|Sewaddle}}{{MSP/H|0541|Swadloon}}{{MSP/H|0542|Leavanny}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0636|Larvesta}}{{MSP/H|0637|Volcarona}}{{MSP/H|0664|Scatterbug}}{{MSP/H|0736|Grubbin}}{{MSP/H|0737|Charjabug}}{{MSP/H|0738|Vikavolt}}{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}{{MSP/H|0953|Rellor}}{{MSP/H|0954|Rabsca}}{{tt|*|Larvesta learned Bug Bite via level-up prior to Version 2.0.1; it can still learn Bug Bite via TM182}}|Bug Bite|Bug|Physical|60|100|20}}
+{{learnlist/breed9|{{MSP/H|0330|Flygon}}{{MSP/H|0469|Yanmega}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|Feint|Normal|Physical|30|100|10}}
+{{learnlist/breed9|{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|First Impression|Bug|Physical|90|100|10}}
+{{learnlist/breed9|{{MSP/H|0129|Magikarp}}{{MSP/H|0130|Gyarados}}{{MSP/H|0349|Feebas}}{{MSP/H|0350|Milotic}}{{MSP/H|0540|Sewaddle}}{{MSP/H|0541|Swadloon}}{{MSP/H|0704|Goomy}}{{MSP/H|0705|Sliggoo}}{{MSP/H|0705-Hisui|Sliggoo}}{{MSP/H|0706|Goodra}}{{MSP/H|0706-Hisui|Goodra}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed9|{{MSP/H|0123|Scyther}}{{MSP/H|0212|Scizor}}{{MSP/H|0900|Kleavor}}{{MSP/H|0207|Gligar}}{{MSP/H|0472|Gliscor}}{{MSP/H|0253|Grovyle}}{{MSP/H|0254|Sceptile}}{{MSP/H|0402|Kricketune}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/breed9|{{MSP/H|0284|Masquerain}}{{MSP/H|0415|Combee}}{{MSP/H|0637|Volcarona}}{{MSP/H|0666|Vivillon}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}|Gust|Flying|Special|40|100|35}}
+{{learnlist/breed9|{{MSP/H|0123|Scyther}}{{MSP/H|0212|Scizor}}{{MSP/H|0900|Kleavor}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0207|Gligar}}{{MSP/H|0472|Gliscor}}{{MSP/H|0252|Treecko}}{{MSP/H|0253|Grovyle}}{{MSP/H|0254|Sceptile}}{{MSP/H|0283|Surskit}}{{MSP/H|0284|Masquerain}}{{MSP/H|0313|Volbeat}}{{MSP/H|0885|Dreepy}}{{MSP/H|0886|Drakloak}}{{MSP/H|0887|Dragapult}}|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/breedf/9|Trapinch|Ground|Ground|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color}}; border: 3px solid #{{tcg fighting color dark}}"
+|-
+! style="background: #{{tcg fighting color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg fighting color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Fling}}
+| style="background:#fff; {{roundybr|5px}}" | [[Trapinch (EX Legend Maker 67)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ground}}
+{{Spindata/PinballRS|col=3|type=Ground|ndex=328|acquisition=Hatch}}
+{{Spindata/Trozei|col=3|type=Ground|ndex=328|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Ground|ndex=328
+|body=1
+|rate=8.3
+|area=Furnace Desert
+|P1=Learn to endure! Endurance will always help you!
+|P2=We should be careful. My HP has fallen by half already.
+|P3=I'm at the end of my endurance... I can't open my mouth...
+|PL=Leveled up! There's plenty of prey I can ambush!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ground|ndex=328
+|body=1
+|rate=8.2
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Ground|ndex=328
+|coset=3
+|conto={{p|Mr. Mime}}
+|recruitment=Retrieve the Popular Ribbon from {{p|Liepard}}
+|P1=Hey! Can you place one of your feet into a nest I made in the desert?
+|P2=I need to go back to my nest...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Ground
+|att=3
+|def=1
+|speed=1
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ground|ndex=328
+|walk=1.55
+|hp=46
+|attack=70
+|defense=46
+|speed=40
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ground|ndex=328
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=328|num=525
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=328
+|buddy=5
+|candy=Trapinch
+|hatch=N/A
+|evocandy=25
+|stamina=128
+|attack=162
+|defense=78
+|fast={{m|Mud Shot}}, {{m|Struggle Bug}}, {{m|Sand Attack}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Sand Tomb}}, {{m|Dig}}, {{m|Crunch}}, {{m|Scorching Sands}}{{tt|*|From September 1, 2023 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Ground|ndex=328|pdex=126
+|dex=Those bowl-shaped holes you see in [[Sweltering Sands|the desert]] are Trapinch nests. They’re very effective—both at protecting Trapinch and at funneling any {{pkmn|food}} to it that falls in.}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Ground
+|pictype=art
+|no1=0328
+|name1=Trapinch
+|type1-1=Ground
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}
+|no2=0329
+|name2=Vibrava
+|type1-2=Ground
+|type2-2=Dragon
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 45}}
+|no3=0330
+|name3=Flygon
+|type1-3=Ground
+|type2-3=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=328}}
+{{Spritebox/4|ndex=328}}
+{{Spritebox/5|ndex=328}}
+{{Spritebox/6|ndex=328|crop=62}}
+{{Spritebox/7|ndex=328|crop=62}}
+{{Spritebox/8|ndex=328}}
+<!--{{Spritebox/9|ndex=0328}}-->
+{{Spritebox/HOME|ndex=0328}}
+{{Spritebox/Footer|328|Trapinch}}
+
+==In animation==
+[[File:Goh Trapinch.png|thumb|250px|Trapinch in {{aniseries|JN}}]]
+===Major appearances===
+====[[Goh's Trapinch]]====
+In ''[[JN036|Making Battles in the Sand!]]'', [[Goh]] caught a Trapinch while he was investigating a sandstorm in [[Mauville City]]. It has since made further appearances in {{aniseries|JN}}.
+
+====Other====
+Multiple Trapinch debuted in ''[[AG106|Beg, Burrow and Steal]]''. They had dug [[Trapinch underground labyrinth|a complex underground labyrinth]] containing a lake, which {{OBP|Hal|AG106}} wanted to find after he previously came across it when he was young. When Hal, {{Ash}}, {{ashfr}}, [[Elisa]], and {{TRT}} got lost in the labyrinth, they eventually found the underground lake.
+
+In ''[[DP072|Pokémon Ranger and the Kidnapped Riolu! (Part 2)]]'', [[Solana]] used her Capture Styler on a Trapinch and had it use {{m|Rock Tomb}} to trap {{OBP|J's client|DP071}}'s henchmen's Pokémon that were attacking {{an|Dawn}}, {{an|Brock}}, and [[Officer Jenny]]'s Pokémon.
+
+In ''[[DP145|A Rivalry to Gible On!]]'', a Trapinch living at [[Mt. Shady]] used its {{a|Arena Trap}} to capture Ash while he and [[Khoury]] were trying to catch a {{p|Gible}}.
+
+In ''[[JN090|Showdown at the Gates of Warp!]]'', due to {{OBP|Dialga|recurring}} and {{OBP|Palkia|recurring}}'s influence, [[Goh's Flygon]] [[devolution|devolved]] into a Vibrava and then into a Trapinch. It was later reverted in the same episode. The same also occurred with [[Alternate World Goh]]'s Flygon.
+
+===Minor appearances===
+[[File:Ash Goh Gastly Dratini Trapinch Aerodactyl Eggs.png|thumb|250px|A Trapinch Egg (far right) in {{aniseries|JN}}]]
+A {{pkmn|Coordinator}}'s Trapinch appeared in ''[[AG115|Mean With Envy]]''.
+
+A Trapinch appeared in a visualization in ''[[AG121|Hi Ho Silver Wind!]]''.
+
+A Coordinator's Trapinch appeared in ''[[AG122|Deceit and Assist]]''.
+
+In ''[[AG135|Numero Uno Articuno]]'', [[Noland]]'s Trapinch was living at the {{gdis|Battle Factory|III}}.
+
+A Coordinator's Trapinch appeared in ''[[AG143|The Saffron Con]]''.
+
+In ''[[DP033|All Dressed Up with Somewhere To Go!]]'', a Trapinch was dressed up as a {{p|Turtwig}}.
+
+A {{pkmn|Trainer}}'s Trapinch appeared in ''[[SM006|A Shocking Grocery Run!]]''.
+
+In ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', a Trapinch was playing in {{an|Lillie}}'s garden. It reappeared in ''[[SM030|The Ol' Raise and Switch!]]''.
+
+In ''[[SM075|Some Kind of Laziness!]]'', a Trapinch ate an [[Oran Berry]] that slid into its pit in the middle of the [[Haina Desert]].
+
+In ''[[SM086|I Choose Paradise!]]'', a Trainer's Trapinch was at the [[Pokémon Paradise Resort]].
+
+In ''[[SM090|Securing the Future!]]'', five Trainers' Trapinch joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|true form}}.
+
+In ''[[SM096|Don't Ignore the Small Stufful!]]'', a Trapinch was staying at [[Aether Paradise]].
+
+In ''[[SM131|The Battlefield of Truth and Love!]]'', a Trainer's Trapinch was at [[Manalo Stadium]].
+
+A Trainer's Trapinch appeared in ''[[JN070|Take My Thief! Please!]]''.
+
+A Trainer's Trapinch appeared in ''[[JN092|The Winding Path to Greatness!]]''.
+
+A Trapinch appeared in ''[[JN095|The Good, The Bad, and The Lucky!]]''.
+
+A Trainer's Trapinch appeared in ''[[JN109|Aim For The Eight!]]''.
+
+A Trapinch appeared in ''[[HZ057|The Terapagos I Don't Know]]'', under the ownership of a student.
+
+A Trainer's Trapinch appeared in a video in [[HZ097]].
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG106|Trapinch|Ash's Pokédex|Trapinch, the Ant Pit Pokémon. Trapinch dig cone-shaped holes in desert areas. Its large and powerful jaws are capable of crushing stone.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN036|Trapinch|Goh's Rotom Phone|Trapinch, the Ant Pit Pokémon. A {{t|Ground}} type. Trapinch's nest is at the bottom of a cone-shaped hole, where it patiently waits for something to fall in. It can break rocks apart with its huge jaws.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Hugh Trapinch Adventures.png|thumb|200px|Trapinch in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A {{pkmn|Trainer}}'s Trapinch appeared in ''[[PS212|Bubble Bubble Toil and Azumarill I]]''.
+
+The {{gdis|Battle Factory|III}} rented a Trapinch, which was stolen by [[Guile Hideout]] in ''[[PS327|Facing Gulpin Is Hard to Swallow]]''.
+
+A Trapinch appeared in ''[[PS525|The Transfer Student]]'', under the ownership of [[Hugh]]. It later evolved into {{p|Vibrava}}.
+
+In ''[[PS547|The Final Battle]]'', a Trapinch liberated by [[Team Plasma]] was stuck in [[N's Castle]].
+{{-}}
+
+==In the TCG==
+{{main|Trapinch (TCG)}}
+
+==Trivia==
+* Trapinch is the only member of its evolutionary line to have a [[Hidden Ability]].
+* Trapinch has the lowest base {{stat|Speed}} stat of all {{type|Ground}} Pokémon.
+* Trapinch's base {{stat|Attack}} stat is higher than that of its evolved form and is the same as that of its final evolved form. That may be a reference to the fact that antlion larvae are more aggressive and predatory than their adult stages.
+** It also has the highest base Attack stat of all Pokémon that can [[Evolution|evolve]] twice.
+** Because of this, evolving a Trapinch in [[Pokémon GO]] will result in its CP going down, a trait otherwise only seen in cocoon Pokémon such as {{p|Kakuna}}.
+* As of [[Generation VIII]], Trapinch and its evolved forms are the only Pokémon that are in the {{egg|Bug}} and {{egg|Dragon}} [[Egg Group]]s.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Trapinch, Vibrava and Flygon}}
+Trapinch appears to be based on the larval stage of the {{wp|antlion}}, which live in conical sandy pits before maturing into winged adults. Its head resembles a cartoonish depiction of {{wp|trapping#Foothold traps|foothold traps}}.
+
+====Name origin====
+Trapinch may be a combination of ''trap'' and ''pinch''.
+
+Nuckrar may be derived from ''{{wp|nutcracker}}''. It may also allude to ''{{wp|knucker}}'', a type of folkloric dragon which lives in a hole.
+
+==In other languages==
+{{Other languages|type=Ground|type2=Ground
+|ja=ナックラー ''Nuckrar''|jameaning=From ''nutcracker''
+|fr=Kraknoix|frmeaning=From {{tt|''craque-noix''|nutcracker}}
+|es=Trapinch|esmeaning=Same as English name
+|de=Knacklion|demeaning=From {{tt|''Knacken''|snap}} and ''antlion''
+|it=Trapinch|itmeaning=Same as English name
+|ko=톱치 ''Topchi''|komeaning=From {{tt|톱 ''top''|saw}} and {{tt|치 (齒) ''chi''|tooth}}
+|zh_cmn=大顎蟻 / 大颚蚁 ''Dà'èyǐ''|zh_cmnmeaning=From {{tt|大 ''dà''|big}}, {{tt|顎 / 颚 ''è''|jaw}}, and {{tt|蟻 / 蚁 ''yǐ''|ant}}
+|zh_yue=大顎蟻 ''Daaihngohkngáih''|zh_yuemeaning=From {{tt|大 ''daaih''|big}}, {{tt|顎 ''ngohk''|jaw}}, and {{tt|蟻 ''ngáih''|ant}}
+|hi=मसरौ ''Masrau''|himeaning=
+|ru=Трапинч ''Trapinch''|rumeaning=Transcription of English name
+|th=นัคครา ''Nakkhra''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Goh's Trapinch]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0327|prev=Spinda|nextnum=0329|next=Vibrava}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Knacklion]]
+[[es:Trapinch]]
+[[fr:Kraknoix]]
+[[it:Trapinch]]
+[[ja:ナックラー]]
+[[zh:大颚蚁]]

@@ -1,0 +1,578 @@
+{{PokémonPrevNext/Head|type=Steel|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Bronzor}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0435|prev=Skuntank|nextnum=0437|next=Bronzong|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Bronzor
+|jname=ドーミラー
+|jtranslit=Dōmirā
+|tmname=Dohmirror
+|ndex=0436
+|typebox=1
+|type1=Steel
+|type2=Psychic
+|category=Bronze
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=133.4
+|weight-kg=60.5
+|abilityn=d
+|ability1=Levitate
+|ability2=Heatproof
+|abilityd=Heavy Metal
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=1
+|evde=1
+|expyield=60
+|oldexp=72
+|lv100exp=1,000,000
+|gendercode=255
+|color=Green
+|catchrate=255
+|body=01
+|pokefordex=bronzor
+|generation=4
+|friendship=70
+}}
+'''Bronzor''' ([[List of Japanese Pokémon names|Japanese:]] '''ドーミラー''' ''Dohmirror'') is a dual-type {{2t|Steel|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s into {{p|Bronzong}} starting at [[level]] 33.
+
+==Biology==
+[[File:Bronzor reveal the truth.png|thumb|left|250px|Bronzor reflecting the truth after being polished]]
+Bronzor is a flat, circular, blue-green {{OBP|Pokémon|species}}. Six dark blue spheres bulge from its rim. It has two round, yellow eyes and a large nose-like sphere surrounded by four small circles in its center. A crest resembling an {{wp|herb}} or branch is on its back.
+
+Bronzor's crest is said to possess a mysterious power and is held sacred. It was first seen in ancient tombs and timeworn places; objects resembling this Pokémon have also been found in tombs. Scientists believe Bronzor used to be reflective and have unsuccessfully tried performing X-rays on its body. The pattern of Bronzor in [[Galar]] cannot be found in any of its cultures, and the reason is unknown. There is lore on how polishing Bronzor will make its surface reflect the truth. However, it hates being polished. Bronzor uses an unknown energy to help it float around. It typically lives in mountainous paths.
+
+Prior to [[Generation VIII]], Bronzor and its evolved form, {{p|Bronzong}}, were the [[Signature Ability|only known Pokémon]] that could have {{a|Heatproof}} as an [[Ability]].
+
+===Evolution===
+Bronzor evolves into {{p|Bronzong}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Steel
+|type2=Psychic
+|pictype=art
+|no1=0436
+|name1=Bronzor
+|type1-1=Steel
+|type2-1=Psychic
+|evo1=
+|no2=0437
+|name2=Bronzong
+|type1-2=Steel
+|type2-2=Psychic}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Steel|type2=Psychic}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=088|reg2=Johto}}
+{{Dex/Entry1|v=Diamond|entry=Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.}}
+{{Dex/Entry1|v=Pearl|entry=X-ray photos were taken to check its body structure. Nothing appeared, however.}}
+{{Dex/Entry1|v=Platinum|entry=There are researchers who believe this Pokémon reflected like a mirror in the distant past.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Ancient people believed that the pattern on <sc>Bronzor</sc>'s back contained a mysterious power.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=250|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=There are researchers who believe this Pokémon reflected like a mirror in the distant past.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Ancient people believed that the pattern on Bronzor's back contained a mysterious power.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Ancient people believed that the pattern on Bronzor's back contained a mysterious power.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=118|reg2=Galar|num2=087|label2=Crown Tundra|reg3=Sinnoh|num3=088|reg4=Hisui|num4=180}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It appears in ancient ruins. The pattern on its body doesn't come from any culture in the Galar region, so it remains shrouded in mystery.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=Implements shaped like Bronzor were discovered in ancient tombs. It is unknown whether they are related.}}
+{{Dex/Entry1|v=Shining Pearl|entry=X-ray photos were taken to check its body structure, but nothing was seen.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Floats using a mysterious energy. The pattern engraved upon its back is held as sacred and can sometimes be found in imagery from ancient cemeteries and other such timeworn places.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=153|reg2=Kitakami|num2=154|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=Ancient people believed that the pattern on Bronzor’s back contained a mysterious power.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{psychic color dark}}; background:#{{steel color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{steel color light}}; background:#{{steel color light}} | [[File:Pokédex Image Bronzor SV.png|x200px]]
+|style="border:2px solid #{{steel color light}}; background:#{{steel color light}} | [[File:Pokédex Image Bronzor SV Kitakami.png|x200px]]
+|-
+| Bronzor in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Bronzor in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Steel|type2=Psychic}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|206|Sinnoh}}, [[Wayward Cave]], [[Turnback Cave]], [[Mt. Coronet]]}}
+{{Availability/Entry1|v=Platinum|area={{rt|211|Sinnoh}}, [[Wayward Cave]], [[Turnback Cave]], [[Mt. Coronet]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}} (Peak with 35 Peak points and 14 Forest points)<br>[[Slowpoke Well]], [[Union Cave]], [[Mt. Mortar]], [[Dark Cave]], [[Whirl Islands]], [[Mt. Silver Cave]], [[Ice Path]], [[Cliff Cave]], [[Diglett's Cave]], [[Mt. Moon]], [[Cerulean Cave]], [[Rock Tunnel]], [[Seafoam Islands]], {{ka|Victory Road}}, [[Tohjo Falls]] {{color2|{{sinnoh color dark}}|Sinnoh Sound|(Sinnoh Sound)}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Icy Mountain Rd.}}, {{pw|Winner's Path}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Bronzong}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Abundant Shrine]]<br>[[Abundant Shrine]] ([[Hidden Grotto]]){{tt|*|Near Youngster Wes}} <br> [[Unova Link|Transfer]] from {{pkmn|Dream Radar}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Bronzong}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Mt. Pyre]] exterior ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|2|v=Sword|t=FFF|area=[[South Lake Miloch]], [[Giant's Seat]], [[Bridge Field]]<br>[[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Seat/Dens|Giant's Seat]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|2|v=Shield|t=FFF|area=[[South Lake Miloch]], [[Giant's Seat]], [[Bridge Field]], [[Stony Wilderness]]<br>[[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Seat/Dens|Giant's Seat]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|2|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Foot]], [[Three-Point Pass]]<br>[[Brawlers' Cave/Dens|Brawlers' Cave]], [[Courageous Cavern/Dens|Courageous Cavern]], [[Stepping-Stone Sea/Dens|Stepping-Stone Sea]], [[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Path to the Peak/Dens|Path to the Peak]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|206|Sinnoh}}, [[Wayward Cave]], [[Turnback Cave]], [[Mt. Coronet]]<br>[[Grand Underground]] - [[Rocky Cave]], [[Icy Cave]], [[Dazzling Cave]], [[Stargleam Cavern]], [[Big Bluff Cavern]], [[Glacial Cavern]] (After obtaining {{TM|96|Strength}})}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Crimson Mirelands]]:''' massive [[mass outbreak]]s<br>'''[[Coronet Highlands]]:''' [[Ancient Quarry]], near [[Clamberclaw Cliffs]], near [[Celestica Ruins]], near [[Primeval Grotto]], [[Stonetooth Rows]]{{Sup/t|D}}, massive mass outbreaks<br>'''[[Alabaster Icelands]]:''' [[Lake Acuity]], [[Snowpoint Temple]], massive mass outbreaks
+<div style="border-bottom: 1px solid black;"></div>
+'''Coronet Highlands:''' [[Wayward Wood]], near Ancient Quarry, [[Sonorous Path]], [[Lonely Spring]], Clamberclaw Cliffs, Primeval Grotto<sup>Shaking ore deposits</sup><br>'''Alabaster Icelands:''' Lake Acuity<sup>Shaking ore deposits</sup>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Two)|Area Two]], [[South Province (Area Three)|Area Three]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]]<br>East Province: [[East Province (Area Two)|Area Two]]<br>West Province: [[West Province (Area One)|Area One]], [[West Province (Area Two)|Area Two]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Bronzor|3★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Fellhorn Gorge]], [[Oni Mountain]], [[Infernal Pass]], [[Crystal Pool]], [[Chilling Waterhead]], [[Wistful Fields]], [[Paradise Barrens]], [[Kitakami Wilds]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Steel|type2=Psychic}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Spacial Rift]] (B7F-B12F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Spacial Rift]] (B7F-B12F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Hippowdon Temple]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Granite Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Daybreak Ruins]], [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area= Tower: [[Frozen Tundra]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#A Flowing Desert|Vehicle Gallery: A Flowing Desert]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 3|Colossal Forest: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Wishing Star Tower|Starlight Islands: Wishing Star Tower]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Jirachi Sea]], [[Arceus Sea]], [[Jirachi Sea]]<sup>Final</sup>, [[Garchomp Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Silbern Museum|Silbern Museum: Stage 91]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Steel|type2=Psychic}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Metal Coat|5|rows=2}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games1|Pokéwalker|gcolor=FF3333|Pokéwalker}}
+{{HeldItems/Items1|Occa Berry|100}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Items1|Metal Coat|5|rows=4}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Iron Chunk|30|Ball of Mud|15|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Steel
+|type2=Psychic
+|HP=57
+|Attack=24
+|Defense=86
+|SpAtk=24
+|SpDef=86
+|Speed=23}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Steel
+|type2=Psychic
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=4
+|Technique=1
+|TechniqueMax=1
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|type2=Psychic
+|Normal=50
+|Fighting=100
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=50
+|Bug=100
+|Ghost=200
+|Steel=50
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=25
+|Ice=50
+|Dragon=50
+|Dark=200
+|Fairy=50
+|notes=yes
+|levitate=maybe
+|heatproof=maybe
+|newfire=1
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=1
+|oldghost2=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Bronzor|Steel|Psychic|4}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level9|4|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/level9|8|Payback|Dark|Physical|50|100|10}}
+{{learnlist/level9|12|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/level9|16|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/level9|20|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level9|24|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/level9|28|Extrasensory|Psychic|Special|80|100|20||'''}}
+{{learnlist/level9|32|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/level9|36|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level9|40|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level9|44|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Bronzor|Steel|Psychic|4}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Bronzor|Steel|Psychic|4}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM101|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM124|Ice Spinner|Ice|Physical|80|100|15}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM138|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM217|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tm9|TM218|Expanding Force|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tmf/9|Bronzor|Steel|Psychic|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Bronzor|Steel|Psychic|4}}
+{{learnlist/breed9|[[File:Bag Mirror Herb SV Sprite.png|32px]]{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Gravity|Psychic|Status|—|—|5|grid=2}}
+{{learnlist/breed9|[[File:Bag Mirror Herb SV Sprite.png|32px]]{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Recycle|Normal|Status|—|—|10|grid=2}}
+{{learnlist/breedf/9|Bronzor|Steel|Psychic|4}}
+
+===Side game data===
+{{Spindata/Head|type=Steel|type2=Psychic}}
+{{Spindata/MDTDS|col=6|type=Steel|ndex=436
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Steel|ndex=436
+|coset=3
+|conto={{p|Bronzong}}, {{p|Dwebble}}
+|recruitment=Escort to open the locked door at the [[Valley of Strong Winds]]
+|P1=Yep! I look like an [[Expedition Gadget]]. But don't connect me to anything weird!
+|P2=Argh… My body's about to shatter…
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Steel
+|group=Steel
+|assist=Steel
+|field=Crush
+|fieldpower=1
+|num=248
+|browser=It launches iron balls and strange orbs to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Steel
+|group=Steel
+|assist=Steel
+|field=Psy Power
+|fieldpower=1
+|num=184
+|pastnum=176
+|browser=It attacks by making iron balls fall.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Steel
+|att=1
+|def=3
+|speed=2
+}}
+{{Spindata/RumbleBlast|col=3|type=Steel
+|att=1
+|def=3
+|speed=2
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Steel|ndex=436
+|walk=2.08
+|hp=50
+|attack=66
+|defense=57
+|speed=50
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Steel|ndex=436
+|Pad=Bronzor is guarding the way to the pyramid in the [[Granite Zone]].
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Steel|ndex=436
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Steel|ndex=436|num=135
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Block Smash
+|skilldesc=Clears one unbreakable-block disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Steel|ndex=436
+|hatch=5 km
+|buddy=3
+|candy=Bronzor
+|evocandy=50
+|stamina=149
+|attack=43
+|defense=154
+|fast={{m|Tackle}}, {{m|Confusion}}
+|special={{m|Gyro Ball}}, {{m|Psyshock}}, {{m|Heavy Slam}}, {{m|Payback}}{{tt|*|From April 12, 2021 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Steel
+|type2=Psychic
+|pictype=art
+|no1=0436
+|name1=Bronzor
+|type1-1=Steel
+|type2-1=Psychic
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 33}}
+|no2=0437
+|name2=Bronzong
+|type1-2=Steel
+|type2-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Steel|type2=Psychic}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=436}}
+{{Spritebox/5|ndex=436}}
+{{Spritebox/6|ndex=436|crop=49}}
+{{Spritebox/7|ndex=436|crop=47}}
+{{Spritebox/8/SwShLA|ndex=436|LAcrop=110}}
+<!--{{Spritebox/9|ndex=0436}}-->
+{{Spritebox/HOME|ndex=0436}}
+{{Spritebox/Footer|0436|Bronzor}}
+
+====Other sprites====
+{| style="background: #{{steel color}}; margin:auto; text-align:center; font-size: 80%; {{roundy|20px}}; border: 2px solid #{{steel color dark}}"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:180px"| [[File:Spr 4d 436Bronzy.png]]
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:180px"| [[File:Spr 4d 436Saucy.png]]
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:180px"| [[File:Spr 4d 436Wheelie.png]]
+|-
+| Bronzy in {{color2|000|Pokémon Super Contests}}
+| Saucy in {{color2|000|Pokémon Super Contests}}
+| Wheelie in {{color2|000|Pokémon Super Contests}}
+|}
+
+==In animation==
+[[File:Tepen Bronzor.png|thumb|250px|Bronzor in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Bronzor made its animated series debut in ''[[DP060|Journey to the Unown!]]'', under the ownership of [[Saturn]]. Saturn used Bronzor to help light the way through the [[Solaceon Ruins]]. It appeared again in ''[[DP096|Losing Its Lustrous]]'' and ''[[DP097|Double Team Turnover!]]''. In the same episode, it was revealed that a Bronzor was also owned by [[Mars]]. Both, however, were easily defeated by [[Cynthia's Garchomp]].
+
+In ''[[DP108|Dealing With Defensive Types!]]'', [[Byron]] used a Bronzor during his [[Gym]] {{pkmn|battle}} against {{Ash}}. It battled {{AP|Chimchar}} and was defeated despite having the [[Ability]] {{a|Heatproof}}.
+
+In ''[[M13|Zoroark: Master of Illusions]]'', [[Karl]] often uses a Bronzor to provide light for dark places. It was later used to levitate {{OBP|Zorua|M13}}, who had {{a|Illusion|transformed}} into {{OBP|Celebi|M13}} as part of a scheme to distract [[Grings Kodai]] from the real Celebi.
+
+In ''[[HZ028|The Stolen Treasure]]'', a Bronzor appeared under the ownership of [[Tepen]].
+
+====Minor appearances====
+Bronzor debuted in ''[[M10|The Rise of Darkrai]]'', where it briefly battled a {{p|Gible}}.
+
+A {{pkmn|Trainer}}'s Bronzor appeared in ''[[HZ039|Tinkatink's Ideal Hammer]]''.
+
+A Trainer's Bronzor appeared in ''[[HZ050|Trending Terastallization! Dance, Dance, Quaxly!]]''.
+
+A Trainer's Bronzor appeared in ''[[HZ069|Roy is Crocalor, and Crocalor is Roy!]]''.
+
+===Pokémon: Paldean Winds===
+[[File:Asado Desert PPW.png|thumb|250px|Bronzor in [[Pokémon: Paldean Winds]]]]
+A {{pkmn2|wild}} Bronzor appeared in ''[[PPW04|Breathe Together]]''.
+
+===POKÉTOON===
+Four Bronzor appeared in [[PT16]].
+{{-}}
+
+==In the manga==
+[[File:Mars Bronzor Adventures.png|thumb|200px|Bronzor in [[Pokémon Adventures]]]]
+===Movie adaptations===
+Bronzor appears in {{ma|The Rise of Darkrai}} manga adaptation.
+
+===Pocket Monsters DP===
+A Bronzor appeared in [[PMDP13]], under the ownership of [[Mars]].
+
+A Bronzor appeared in [[PMDP60]], under the ownership of [[Charon]].
+
+===Pokémon Adventures===
+Bronzor appears in ''[[PS343|Honey for Combee]]'', as one of [[Mars]]'s Pokémon. She used it to attack the manager of the [[Valley Windworks]] and hold him hostage. When he managed to use his {{p|Drifloon}} to call for help, she tried to have her {{p|Zubat}} bite him in the neck. After growing bored as she always does, she had it use {{m|Sandstorm}} and left with an electricity-generating wind turbine.
+
+Two Bronzor appeared in ''[[PS349|Passing by Probopass and Maneuvering around Magnezone]]''.
+
+===Pokémon Diamond and Pearl Adventure!===
+A Bronzor is one of the Pokémon [[Byron]] uses in his Gym battle with [[Hareta]] in ''[[DPA09|Challenge! The Fortress Of Steel!!]]''.
+
+[[Mars]] used a Bronzor during the raid of the [[Veilstone Game Corner]] in ''[[DPAS2|Deoxys, The Phantom Pokémon! (Part 2)]]''.
+
+==In the TCG==
+{{main|Bronzor (TCG)}}
+
+==Trivia==
+[[File:Spr b 4d 436b.png|frame|Bronzor's early backsprite]]
+* If Bronzor is turned upside-down, it will look exactly the same from the front, meaning its front has rotational symmetry. It also has horizontal and vertical reflective symmetry. However, its back sprite only has vertical reflective symmetry.
+* There is an unused sprite within {{game|Diamond and Pearl|s}} for Bronzor's back sprite which is just a duplicate of its front sprite.
+* In the games, all three {{tc|Commander}}s of [[Team Galactic]] that can be battled have a Bronzor.
+* As both of this Pokémon's {{Abilities}} are used at the same time in the [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]] and it wasn't weak to {{t|Ghost}} and {{type|Dark}} moves at the time, Bronzor doesn't have any weaknesses in those games.
+* Bronzor has the lowest base {{stat|Attack}} of all {{type|Steel}} Pokémon.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Bronzor and Bronzong}}
+Bronzor is based on a 鈴鏡 ''{{wp|Rei-kyō}}'', a type of {{wp|bronze mirror}}. On its back, Bronzor has carved in a shape of a grain spike just like its evolved form, {{p|Bronzong}}, which can summon rain for better harvest.
+
+Bronzor and the fact that it evolves into Bronzong also seems to be based on an old Japanese myth present in the book ''{{wp|Kwaidan: Stories and Studies of Strange Things}}'' by {{wp|Lafcadio Hearn}}. The priests of Mugenyama wanted to forge a bell for their temple, so they asked the local women to donate their bronze mirrors for this purpose. A woman contributed her mirror, but later regretted it. Because of her repentance, the mirror {{a|Heatproof|wouldn't melt}} in the furnace until she killed herself. Before her suicide, she said that whoever would break the bell would be given great wealth by her ghost. A multitude of people tried to break the bell by ringing it furiously, so the tired priests rolled it down a hill into a swamp in frustration.
+
+====Name origin====
+Bronzor may be a combination of ''bronze'' and ''mirror''.
+
+Dohmirror may be a combination of 銅鏡 ''dōkyō'' (bronze mirror) and ''mirror''.
+
+==In other languages==
+{{Other languages|type=Steel|type2=Psychic
+|ja=ドーミラー ''Dohmirror''|jameaning=From {{tt|銅鏡 ''dōkyō''|bronze mirror}} and ''mirror''
+|fr=Archéomire|frmeaning=From ''{{tt|archéo-|archeo- (prefix for ancient)}}'' and ''{{tt|miroir|mirror}}''
+|es=Bronzor|esmeaning=Same as English name
+|de=Bronzel|demeaning=From ''Bronze'' and ''{{tt|Spiegel|mirror}}''
+|it=Bronzor|itmeaning=Same as English name
+|ko=동미러 ''Dongmirror''|komeaning=From {{tt|동경 (銅鏡) ''donggyeong''|bronze mirror}} and ''mirror''
+|zh_cmn=銅鏡怪 / 铜镜怪 ''Tóngjìngguài''|zh_cmnmeaning=From {{tt|銅鏡 / 铜镜 ''tóngjìng''|bronze mirror}} and {{tt|怪 ''guài''|monster}}
+|zh_yue=銅鏡怪 ''Tùhnggenggwaai''|zh_yuemeaning=From {{tt|銅鏡 ''tùhnggeng''|bronze mirror}} and {{tt|怪 ''gwaai''|monster}}
+|hi=ब्रॉन्ज़ाइना ''Bronzaina''|himeaning=From ''bronze'' and {{tt|आईना ''aaina''|mirror}}
+|th=โดมิเรอร์ ''Domiroe''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Steel|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0435|prev=Skuntank|nextnum=0437|next=Bronzong}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Bronzel]]
+[[es:Bronzor]]
+[[fr:Archéomire]]
+[[it:Bronzor]]
+[[ja:ドーミラー]]
+[[zh:铜镜怪]]

@@ -1,0 +1,583 @@
+{{PokémonPrevNext/Head|type=Water|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Jellicent}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0592|prev=Frillish|nextnum=0594|next=Alomomola|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Jellicent
+|jname=ブルンゲル
+|jtranslit=Burungeru
+|tmname=Burungel
+|category=Floating
+|typebox=1
+|type1=Water
+|type2=Ghost
+|abilityn=d
+|ability1=Water Absorb
+|ability2=Cursed Body
+|abilityd=Damp
+|ndex=0593
+|height-ftin=7'03"
+|height-m=2.2
+|weight-lbs=297.6
+|weight-kg=135.0
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=20
+|expyield=168
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|evtotal=2
+|evsd=2
+|catchrate=60
+|body=10
+|pokefordex=jellicent
+|generation=5
+|friendship=70
+}}
+'''Jellicent''' ([[List of Japanese Pokémon names|Japanese]]: '''ブルンゲル''' ''Burungel'') is a dual-type {{2t|Water|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Frillish}} starting at [[level]] 40.
+
+==Biology==
+Jellicent is a large jellyfish-like {{OBP|Pokémon|species}} whose appearance varies based on gender. Both genders have five tentacles, two of which are long with petal-shaped ends. The remaining three are short and tapered. A male is blue with a short white crown, and a white collar whose front portion resembles a mustache. Its eyes are red with blue sclerae, and there is one eyelash over each eye. Its long tentacles have white edges, while its short tentacles have white spots. A female is pink with a tall white crown and a puffy white collar. Its eyes are blue with red sclerae and surrounded by two eyelashes. Just below its eyes is a red heart-shaped marking which resembles a mouth. The long tentacles have white edges like the male, but the short ones have white frills.
+
+Jellicent can absorb seawater and project it from its head, which lets it move forward in the sea. Jellicent's body composition is similar to seawater. Schools of Jellicent are known to gather for prey during a full moon. Any fancy cruise ships, tankers, or crew that wander into the oceans where it dwells are never found again, and it is rumored that it drags these ships or tankers into the sea and preys on its passengers. It can create lairs from sunken ships. It is known to feed on life energy, where the more it drains, the bigger its crown gets. Jellicent are highly feared by fishers.
+
+===Evolution===
+Jellicent evolves from {{p|Frillish}}.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Male'''
+{{evobox-2
+|type1=Water
+|type2=Ghost
+|pictype=sprite
+|no1=0592Frillish-Male
+|name1=Frillish
+|type1-1=Water
+|type2-1=Ghost
+|evo1=
+|no2=0593Jellicent-Male
+|name2=Jellicent
+|type1-2=Water
+|type2-2=Ghost}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Female'''
+{{evobox-2
+|type1=Water
+|type2=Ghost
+|pictype=sprite
+|no1=0592Frillish-Female
+|name1=Frillish
+|type1-1=Water
+|type2-1=Ghost
+|evo1=
+|no2=0593Jellicent-Female
+|name2=Jellicent
+|type1-2=Water
+|type2-2=Ghost}}
+</div>
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Ghost}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=099|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=181|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.}}
+{{Dex/Entry1|v=White|entry=They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=319|label1={{gameIcon|US}}{{gameIcon|UM}}:|reg2=Kanto}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Jellicent is always hanging around fancy cruise ships and tankers, hoping to drag away its prey.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Fishermen are terrified of Jellicent. It's rumored to drag them into the sea and steal their lives away.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=306|reg2=Galar|num2=193|label2=Isle of Armor|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Form|Male}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Most of this Pokémon's body composition is identical to sea water. It makes sunken ships its lair.{{tt|*|Used for both genders in-game}}}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.{{tt|*|Used for both genders in-game}}}}
+{{Dex/Form|Female}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=These Pokémon have body compositions that are mostly identical to seawater. They make their lairs from sunken ships.{{tt|*|Unused in the final release of the game}}}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The crown on its head gets bigger and bigger as it absorbs more and more of the life-force of other creatures.{{tt|*|Unused in the final release of the game}}}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{water color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{ghost color dark}}; background:#{{water color light}}| [[File:Pokédex Image Jellicent USUM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{ghost color dark}}; background:#{{water color light}}| [[File:Pokédex Image Jellicent-Female USUM.png|x200px]]
+|-
+|Male Jellicent in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|Female Jellicent in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Ghost}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Route]]s {{rtn|4|Unova}}, {{rtn|17|Unova}}, {{rtn|18|Unova}}, [[Driftveil City]], [[P2 Laboratory]] ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry1|v=Black 2|t=FFF|area=[[Route]]s {{rtn|4|Unova}}, {{rtn|13|Unova}}, {{rtn|17|Unova}}, {{rtn|18|Unova}} and {{rtn|21|Unova}}, [[Virbank City]], [[Virbank Complex]], [[Undella Town]], [[Seaside Cave]], [[Humilau City]], [[P2 Laboratory]] ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})<br>[[Undella Bay]]{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}} ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})<br>[[Undella Bay]]{{tt|*|respawns weekly, always has Damp, always male}}{{dotw|Mo}}}}
+{{Availability/Entry1|v=White 2|area=[[Route]]s {{rtn|4|Unova}}, {{rtn|13|Unova}}, {{rtn|17|Unova}}, {{rtn|18|Unova}} and {{rtn|21|Unova}}, [[Virbank City]], [[Virbank Complex]], [[Undella Town]], [[Seaside Cave]], [[Humilau City]], [[P2 Laboratory]] ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})<br>[[Undella Bay]]{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}<br>[[Undella Bay]]{{tt|*|respawns weekly, always has Damp, always female}}{{dotw|Th}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Frillish}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Frillish}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|9|Galar}}, [[Lake of Outrage]]<br>[[Watchtower Ruins/Dens|Watchtower Ruins]], [[West Lake Axewell/Dens|West Lake Axewell]], [[Stony Wilderness/Dens|Stony Wilderness]], [[Giant's Mirror/Dens|Giant's Mirror]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Workout Sea]], [[Stepping-Stone Sea]], [[Insular Sea]], [[Honeycalm Island]], [[Honeycalm Sea]]<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Ghost}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Chill Battle#Unidentified Flying Objects|Chill Battle: Unidentified Flying Objects]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 1|Infinite Ruins: Stage 1]] <small>('''Male''')</small><br>[[Infinite Ruins#Stage 2|Infinite Ruins: Stage 2]] <small>('''Female''')</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Seabreeze Trail|White Ruins: Seabreeze Trail]] <small>(All Areas)</small>, [[Starlight Islands#Upside-Down Island|Starlight Islands: Upside-Down Island]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 430]] <small>('''Male''')</small><br>[[Zaffiro Coast|Zaffiro Coast: Stage 647]] <small>('''Male''')</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#Ninth release|''Pokémon Safari'']] <small>(Ninth release; '''Female''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Seasonal [[sync pair scout]]: {{sync|Acerola|Jellicent|Summer 2024}} <small>('''Male''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Ghost
+|HP=100
+|Attack=60
+|Defense=70
+|SpAtk=85
+|SpDef=105
+|Speed=60}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=200
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|waterabsorb=maybe}}
+
+===Learnset===
+Jellicent is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Jellicent|Water|Ghost|5}}
+{{learnlist/level8|1|Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/level8|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level8|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level8|1|Poison Sting|Poison|Physical|15|100|35}}
+{{learnlist/level8|1|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/level8|12|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level8|16|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level8|20|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level8|24|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level8|28|Recover|Normal|Status|—|—|10}}
+{{learnlist/level8|32|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level8|36|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/level8|43|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level8|48|Destiny Bond|Ghost|Status|—|—|5}}
+{{learnlist/level8|54|Water Spout|Water|Special|150|100|5||'''}}
+{{learnlist/levelf/8|Jellicent|Water|Ghost|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Jellicent|Water|Ghost|5}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM19|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm8|TM38|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM44|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM45|Dive|Water|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/tm8|TM70|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM77|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tr|TR16|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR45|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/tr|TR58|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR78|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tr|TR84|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tr|TR92|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tmf/8|Jellicent|Water|Ghost|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Jellicent|Water|Ghost|5}}
+{{learnlist/breed8|{{MSP/8c|593|Jellicent}}|Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/breed8|{{MSP/8c|871|Pincurchin}}|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/breed8|{{MSP/8c|092|Gastly}}{{MSP/8c|093|Haunter}}{{MSP/8c|094|Gengar}}{{MSP/8c|355|Duskull}}{{MSP/8c|356|Dusclops}}{{MSP/8c|477|Dusknoir}}{{MSP/8c|442|Spiritomb}}{{MSP/8c|607|Litwick}}{{MSP/8c|608|Lampent}}{{MSP/8c|609|Chandelure}}{{MSP/8c|708|Phantump}}{{MSP/8c|709|Trevenant}}{{MSP/8c|710|Pumpkaboo}}{{MSP/8c|711|Gourgeist}}|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/breed8|{{MSP/8c|422|Shellos}}{{MSP/8c|423|Gastrodon}}|Mist|Ice|Status|—|—|30|*}}
+{{learnlist/breed8|{{MSP/8c|577|Solosis}}{{MSP/8c|578|Duosion}}{{MSP/8c|579|Reuniclus}}{{MSP/8c|607|Litwick}}{{MSP/8c|608|Lampent}}{{MSP/8c|609|Chandelure}}{{MSP/8c|710|Pumpkaboo}}{{MSP/8c|711|Gourgeist}}{{MSP/8c|778|Mimikyu}}|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/breed8|{{MSP/8c|426|Drifblim}}|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/breedf/8|Jellicent|Water|Ghost|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Jellicent|Water|Ghost|5}}
+{{learnlist/tutor8|Poltergeist|Ghost|Physical|110|90|5||'''|no|yes}}
+{{learnlist/tutorf/8|Jellicent|Water|Ghost|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Jellicent|Water|Ghost|5}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Jellicent|Water|Ghost|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Jellicent|Water|Ghost|5}}
+{{learnlist/prevgen8|Jellicent|5|Bind|Normal|Physical|15|85|20|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Jellicent|5|Bubble|Water|Special|40|100|30||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Jellicent|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Jellicent|5|Constrict|Normal|Physical|10|100|35|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Jellicent|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Jellicent|5|Dream Eater|Psychic|Special|100|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Jellicent|5|Flash|Normal|Status|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Jellicent|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Jellicent|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Jellicent|5|Magic Coat|Psychic|Status|—|—|15|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Jellicent|5|Ominous Wind|Ghost|Special|60|100|5||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Jellicent|5|Psych Up|Normal|Status|—|—|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Jellicent|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Jellicent|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Jellicent|5|Shock Wave|Electric|Special|60|—|20|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Jellicent|5|Spite|Ghost|Status|—|100|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Jellicent|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Jellicent|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Jellicent|5|Water Sport|Water|Status|—|—|15|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Jellicent|5|Wring Out|Normal|Special|—|100|5|V=yes<!--level-->|VI=yes<!--level,level-->|VII=yes<!--level,level-->|x=yes}}
+{{learnlist/prevgenf/8|Jellicent|Water|Ghost|5}}
+
+===Side game data===
+====Male Jellicent====
+{{Spindata/Head|type=Water|type2=Ghost}}
+{{Spindata/PSMD|col=6|type=Water|ndex=593
+|coset=3 (♂)
+|conto={{p|Minun}}, Jellicent (♀)
+|recruitment=Visit Jellicent's secret base
+|P1=I like to sink! *blub blub*
+|P2=Oof… I'm shriveling up…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=593 m
+|walk=1.5
+|hp=59
+|attack=78
+|defense=57
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=593
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=593|stype=Ghost|num=569
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Prank
+|skilldesc=Sometimes changes when a foe will next disrupt your play.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=593
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=225
+|attack=159
+|defense=178
+|fast={{m|Bubble}}, {{m|Hex}}
+|special={{m|Shadow Ball}}, {{m|Ice Beam}}, {{m|Bubble Beam}}, {{m|Surf}}{{tt|*|From March 1, 2023 onward}}
+}}
+|}
+
+====Female Jellicent====
+{{Spindata/Head|type=Water|type2=Ghost}}
+{{Spindata/PSMD|col=6|type=Water|ndex=593 f
+|coset=3 (♀)
+|conto={{p|Minun}}, Jellicent (♂)
+|recruitment=Visit Jellicent's secret base
+|P1=The bottom of the ocean is such a calm place.
+|P2=Ugh… I need to sink to the bottom of the sea…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=593 f
+|walk=1.5
+|hp=59
+|attack=78
+|defense=57
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=593F
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=593F|stype=Ghost|num=569
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=0593 f
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=225
+|attack=159
+|defense=178
+|fast={{m|Bubble}}, {{m|Hex}}
+|special={{m|Shadow Ball}}, {{m|Ice Beam}}, {{m|Bubble Beam}}, {{m|Surf}}{{tt|*|From March 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+====Male====
+{{evobox-2
+|type1=Water
+|type2=Ghost
+|pictype=sprite
+|no1=0592Frillish-Male
+|name1=Frillish
+|type1-1=Water
+|type2-1=Ghost
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}
+|no2=0593Jellicent-Male
+|name2=Jellicent
+|type1-2=Water
+|type2-2=Ghost
+}}
+
+====Female====
+{{evobox-2
+|type1=Water
+|type2=Ghost
+|pictype=sprite
+|no1=0592Frillish-Female
+|name1=Frillish
+|type1-1=Water
+|type2-1=Ghost
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}
+|no2=0593Jellicent-Female
+|name2=Jellicent
+|type1-2=Water
+|type2-2=Ghost
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Ghost}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5/Gender|ndex=593}}
+{{Spritebox/6/Gender|ndex=593|crop=98}}
+{{Spritebox/7/Gender|ndex=593|crop=99}}
+{{Spritebox/8/Gender|ndex=593}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/Gender|ndex=0593}}
+{{Spritebox/Footer|593|Jellicent}}
+
+==In animation==
+[[File:Male Jellicent anime.png|thumb|250px|Male Jellicent in {{aniseries|BW}}]]
+[[File:Female Jellicent anime.png|thumb|250px|Female Jellicent in {{aniseries|BW}}]]
+===Main series===
+====Major appearances====
+Both male and female Jellicent made their animated series debut in ''[[BW078|Guarding the Guardian of the Mountain!]]'', under the ownership of [[Rizzo]]. They were used to fight a {{pkmn2|wild}} {{p|Volcarona}} and [[Ash's Krokorok]], but were soon defeated by [[Brycen]]'s {{p|Beartic}}.
+
+In ''[[BW094|The Road to Humilau!]]'', [[Marlon]]'s male Jellicent battled {{un|Cameron}}'s {{p|Ferrothorn}} in a [[Gym]] {{pkmn|battle}}, and was defeated by its {{m|Thunderbolt}}.
+
+In ''[[JN134|In the Palms of our Hands!]]'', a male Jellicent appeared under the ownership of [[Danika]].
+
+====Minor appearances====
+Both male and female Jellicent debuted in the opening sequences of ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]''; the female Jellicent was exclusive to the former movie and the male Jellicent was exclusive to the latter.
+
+In ''[[BW106|Strong Strategy Steals the Show!]]'', [[Manning]]'s female Jellicent briefly battled [[Russet]]'s {{p|Eelektross}} and was defeated.
+
+A male and female Jellicent appeared in ''[[HZ031|Song Within the Mist]]'' and ''[[HZ032|Lapras's Feelings for its Friends]]'', as part of {{TP|Lucius|Lapras}}'s crew. The female Jellicent reappeared in ''[[HZ087|Guided by the Black Rayquaza!]]'', during a flashback.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW078|Jellicent|Ash's Pokédex|Jellicent, the Floating Pokémon and the evolved form of {{p|Frillish}}. Using life energy for food, Jellicent swims by absorbing seawater, then expelling it.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon: Twilight Wings===
+In ''[[TW04|Early-Evening Waves]]'', two male Jellicent were living in a lake where [[Nessa]] was doing a photo shoot.
+
+===GOTCHA!===
+A male Jellicent briefly appeared in [[GOTCHA!]], under the ownership of [[Marlon]].
+
+===POKÉTOON===
+A male Jellicent appeared in ''[[PT06|Help! I've Turned into a Gengar]]''.
+
+==In the manga==
+[[File:Marlon Jellicent Adventures.png|thumb|200px|left|Male Jellicent in [[Pokémon Adventures]]]]
+[[File:Shauntal Jellicent Adventures.png|thumb|200px|Female Jellicent in Pokémon Adventures]]
+===Be the Best! Pokémon B+W===
+A Jellicent appeared in ''[[PBW7|Victini - A New Friend!]]'', under the ownership of [[Muteki]]. It was used alongside a {{p|Hydreigon}} in a Double Battle against [[Monta]].
+
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Jellicent appeared in ''[[FAT5|Clash! White Hero vs Black Hero]]''.
+
+===Pokémon Adventures===
+[[Shauntal]] has a female Jellicent, which was used to provoke {{DL|Forces of nature (Adventures)|Thundurus}} and {{DL|Forces of nature (Adventures)|Tornadus}} into fighting each other in ''[[PS490|A Stormy Time in the Battle Subway]]''.
+
+In ''[[PS514|The Tournament Continues]]'', [[Marlon]] used a male Jellicent in the {{un|Pokémon League}} to battle the [[Colress|Hood Man]]'s {{p|Beheeyem}} and lost.
+
+===Pokémon RéBURST===
+A female Jellicent appeared as the [[Burst]] form of Rurimaru.
+
+==In the TCG==
+{{main|Jellicent (TCG)}}
+
+==Trivia==
+[[File:593Jellicent Female Dream.png|thumb|150px|{{pkmn|Dream World}} artwork of female Jellicent]]
+* Although female {{pkmn|Dream World}} artwork exists, any {{p|Frillish}} or Jellicent uploaded to the {{pkmn|Global Link}} will use the male artwork, regardless of their gender.
+* Frillish and Jellicent were originally pure Water-type. The Ghost type was added to their typing for balancing reasons, with [[Ken Sugimori]] noting that the designer for the Frillish line was disappointed that they ended up becoming scary Pokémon.<ref name=ND204>''Nintendo Dream'' Vol. 204, April 2011 ([https://web.archive.org/web/20110704155314/http://shellspider.blog101.fc2.com/blog-entry-502.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream-2/ Translation by Dr. Lava])</ref>
+
+===Origin===
+Jellicent and its pre-evolved form are most likely based on {{wp|jellyfish}}; Jellicent's size and bulbous body may be drawn from the genus {{wp|Stygiomedusa}}, also known as the giant phantom jelly, which is large in size and possesses fabric-like tentacles. It also shares traits with the {{wp|crown jellyfish}} and {{wp|jelly blubber}}. Jellicent's frills and collars seem to be based on typical monarch attire; the male's appearance is based on a king's while the female's is based on a queen's.
+
+Jellicent, as well as its pre-Evolution, also seem to draw heavy inspiration from {{wp|Nurarihyon}}, a jellyfish ''{{wp|yōkai}}'' that is either shown as a demonized jellyfish or as a jellyfish-like man who wears refined, sometimes regal, clothing. It is also possible that they were inspired by the Kurage no Hinotama, a sort of jellyfish-like {{wp|will-o'-the-wisp}}. Jellicent's dangerous ability to prey on humans, in self-defense of its habitat, is possibly based on the {{wp|box jellyfish}} and other highly venomous species of jellyfish that are capable of killing humans. The two larger tentacles Jellicent possesses are more similar to those of {{wp|squid}}s than the tentacles of real jellyfish. Jellicent also has traits in common with {{wp|sea monster}}s like the {{wp|Kraken}}, most notably its rumored penchant for destroying ships and feeding on the crew.
+
+====Name origin====
+Jellicent may be a combination of ''jellyfish'' and ''magnificent'' or ''translucent''.
+
+Burungel may be a combination of ブルンブルン ''burunburun'' (onomatopoeia for shaking) and ゲル ''{{wp|gel}}''.
+
+==In other languages==
+{{Other languages|type=Water|type2=Ghost
+|ja=ブルンゲル ''Burungel''|jameaning=From {{tt|ブルンブルン ''burunburun''|onomatopoeia for shaking}} and ''gel''
+|fr=Moyade|frmeaning=From ''{{tt|méduse|jellyfish}}'' and ''{{tt|noyade|drowning}}''
+|es=Jellicent|esmeaning=Same as English name
+|de=Apoquallyp|demeaning=From ''{{tt|Apokalypse|apocalypse}}'', ''{{tt|Qualle|jellyfish}}'', and ''{{wp|Polyp (zoology)|Polyp}}''
+|it=Jellicent|itmeaning=Same as English name
+|ko=탱탱겔 ''Taengtaenggel''|komeaning=From {{tt|탱탱하다 ''taengtaenghada''|to have a bouncy surface}} and ''gel''
+|zh_cmn=胖嘟嘟 ''Pàngdūdū''|zh_cmnmeaning=From {{tt|胖嘟嘟 ''pàngdūdū''|chubby}}
+|zh_yue=胖嘟嘟 ''Buhndyūtdyūt''|zh_yuemeaning=From {{tt|胖嘟嘟 ''buhndyūtdyūt''|chubby}}
+|hi=जेलीहिल ''Jellyhill''|himeaning=From ''jelly'' and {{tt|हिलना ''hilnā''|to move/to shake}}
+|ru=Джеллисент ''Dzhellisent''|rumeaning=Transcription of English name
+|th=บูรุนเจล ''Burunchen''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0592|prev=Frillish|nextnum=0594|next=Alomomola}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Apoquallyp]]
+[[es:Jellicent]]
+[[fr:Moyade]]
+[[it:Jellicent]]
+[[ja:ブルンゲル]]
+[[zh:胖嘟嘟]]

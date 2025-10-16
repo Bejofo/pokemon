@@ -1,0 +1,492 @@
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/GO|species=Purrloin}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=0508|prev=Stoutland|nextnum=0510|next=Liepard|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Purrloin
+|jname=チョロネコ
+|tmname=Choroneko
+|category=Devious
+|ndex=0509
+|typebox=1
+|type1=Dark
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=22.3
+|weight-kg=10.1
+|abilityn=d
+|ability1=Limber
+|ability2=Unburden
+|abilityd=Prankster
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=56
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|evtotal=1
+|evsp=1
+|catchrate=255
+|body=08
+|pokefordex=purrloin
+|generation=5
+|friendship=70
+}}
+'''Purrloin''' ([[List of Japanese Pokémon names|Japanese]]: '''チョロネコ''' ''Choroneko'') is a {{type|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Liepard}} starting at level 20.
+
+==Biology==
+Purrloin is a primarily purple, feline {{OBP|Pokémon|species}}. Its head has tufted fur on its ears and cheeks. There are long, tapered violet markings above its green eyes. It has a diminutive black nose on its creamy muzzle, and a small, oval, cream-colored marking above each eye. Its neck, shoulders, back, and hind paws are also cream-colored. The tip of its tail has a curved, vaguely scythe-like extension. Purrloin is a quadrupedal Pokémon, but it can stand and walk on its hind legs as well.
+
+Purrloin is a mischievous Pokémon that likes to steal from people. Purrloin feels amusement from the frustration of those it steals from. It will put on a cute act in order to get its victims to let their guard down. Should this facade succeed, the victim is left with stinging scratches and broken pride from Purrloin's laughter. However, it is often forgiven even if it is caught stealing due to its charm. When angered, it fights back with its claws. In [[Galar]], Purrloin has a fierce rivalry with {{p|Nickit}}.
+
+===Evolution===
+Purrloin evolves into {{p|Liepard}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|pictype=art
+|type1=Dark
+|no1=0509
+|name1=Purrloin
+|type1-1=Dark
+|evo1=
+|no2=0510
+|name2=Liepard
+|type1-2=Dark}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=015|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=012|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.}}
+{{Dex/Entry1|v=White|entry=Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Their cute act is a ruse. They trick people and steal their valuables just to see the looks on their faces.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=042|label1=Mountain|reg2=Hoenn }}
+{{Dex/Entry1|v=X|t=FFF|entry=Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=044|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Route]]s {{rtn|2|Unova}} and {{rtn|3|Unova}}, [[Dreamyard]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|3|Unova}}, {{rtn|19|Unova}}, and {{rtn|20|Unova}}<br>{{rt|2|Unova}} ([[N's Pokémon]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Liepard}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|2|Galar}}, [[Lake of Outrage]], [[Dappled Grove]], [[West Lake Axewell]], [[Watchtower Ruins]], [[East Lake Axewell]], [[North Lake Miloch]], [[Motostoke Riverbank]]<br>[[West Lake Axewell/Dens|West Lake Axewell]], [[Bridge Field/Dens|Bridge Field]], [[Stony Wilderness/Dens|Stony Wilderness]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Challenger's Ground]], [[World Axle - B1F]]; Field: [[Challenger's Ground]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Guard the Fort!|Frenzy Square: Guard the Fort!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 1|Infinite Ruins: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Halloween Village|Starlight Islands: Halloween Village]] <small>(All Areas)</small>, [[Legend Terrain#Primeval Thicket|Legend Terrain: Primeval Thicket]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 10|Area 10: Stage 07]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Gengar Sea]], [[Mimikyu Sea]], [[Buzzwole Sea]], [[Zygarde Sea]], [[Mimikyu Sea]]<sup>Final</sup>, [[Buzzwole Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Sandy Bazaar|Sandy Bazaar: Stage 13]]<br>[[Nacht Carnival|Nacht Carnival: Stage 508]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Trainer Lodge]] Friendship Level 100: {{sync|Cheren|Purrloin}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dark
+|HP=41
+|Attack=50
+|Defense=37
+|SpAtk=50
+|SpDef=37
+|Speed=66}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1}}
+
+===Learnset===
+Purrloin is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Purrloin|Dark|Dark|5}}
+{{learnlist/level8|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|4|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level8|5|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/level8|12|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level8|16|Torment|Dark|Status|—|100|15}}
+{{learnlist/level8|21|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/level8|24|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level8|28|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level8|32|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level8|36|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level8|40|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/levelf/8|Purrloin|Dark|Dark|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Purrloin|Dark|Dark|5}}
+{{learnlist/tm8|TM02|Pay Day|Normal|Physical|40|100|20}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM85|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR30|Encore|Normal|Status|—|100|5}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tr|TR58|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tr|TR59|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR73|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR81|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/tr|TR90|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tmf/8|Purrloin|Dark|Dark|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Liepard|Dark|Dark|5}}
+{{learnlist/breed8|{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|448|Lucario}}{{MSP/8c|831|Wooloo}}{{MSP/8c|832|Dubwool}}|Copycat|Normal|Status|—|—|20}}
+{{learnlist/breed8|{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|263|Zigzagoon}}{{MSP/8c|264|Linoone}}{{MSP/8c|677|Espurr}}{{MSP/8c|678|Meowstic}}{{MSP/8c|820|Greedent}}|Covet|Normal|Physical|60|100|25}}
+{{learnlist/breed8|{{MSP/8c|025|Pikachu}}{{MSP/8c|026|Raichu}}{{MSP/8c|026A|Raichu}}{{MSP/8c|359|Absol}}{{MSP/8c|587|Emolga}}{{MSP/8c|744|Rockruff}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745Mn|Lycanroc}}{{MSP/8c|745D|Lycanroc}}|Double Team|Normal|Status|—|—|15}}
+{{learnlist/breed8|{{MSP/8c|025|Pikachu}}{{MSP/8c|026|Raichu}}{{MSP/8c|026A|Raichu}}{{MSP/8c|037|Vulpix}}{{MSP/8c|038|Ninetales}}{{MSP/8c|078|Rapidash}}{{MSP/8c|078G|Rapidash}}{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|215|Sneasel}}{{MSP/8c|461|Weavile}}{{MSP/8c|255|Torchic}}{{MSP/8c|256|Combusken}}{{MSP/8c|257|Blaziken}}{{MSP/8c|309|Electrike}}{{MSP/8c|310|Manectric}}{{MSP/8c|359|Absol}}{{MSP/8c|427|Buneary}}{{MSP/8c|428|Lopunny}}{{MSP/8c|448|Lucario}}{{MSP/8c|587|Emolga}}{{MSP/8c|659|Bunnelby}}{{MSP/8c|660|Diggersby}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745D|Lycanroc}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}{{MSP/8c|827|Nickit}}{{MSP/8c|828|Thievul}}{{MSP/8c|877|Morpeko}}|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/breed8|{{MSP/8c|027|Sandshrew}}{{MSP/8c|027A|Sandshrew}}{{MSP/8c|028|Sandslash}}{{MSP/8c|028A|Sandslash}}{{MSP/8c|050|Diglett}}{{MSP/8c|051|Dugtrio}}{{MSP/8c|052|Meowth}}{{MSP/8c|052G|Meowth}}{{MSP/8c|053|Persian}}{{MSP/8c|863|Perrserker}}{{MSP/8c|083|Farfetch'd}}{{MSP/8c|215|Sneasel}}{{MSP/8c|461|Weavile}}{{MSP/8c|255|Torchic}}{{MSP/8c|256|Combusken}}{{MSP/8c|257|Blaziken}}{{MSP/8c|264|Linoone}}{{MSP/8c|613|Cubchoo}}{{MSP/8c|614|Beartic}}{{MSP/8c|631|Heatmor}}{{MSP/8c|674|Pancham}}{{MSP/8c|675|Pangoro}}|Slash|Normal|Physical|70|100|20}}
+{{learnlist/breed8|{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}{{MSP/8c|206|Dunsparce}}{{MSP/8c|449|Hippopotas}}{{MSP/8c|450|Hippowdon}}{{MSP/8c|517|Munna}}{{MSP/8c|518|Musharna}}|Yawn|Normal|Status|—|—|10}}
+{{learnlist/breedf/8|Purrloin|Dark|Dark|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Purrloin|Dark|Dark|5}}
+{{learnlist/tutor8|Lash Out|Dark|Physical|75|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Purrloin|Dark|Dark|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Purrloin|Dark|Dark|5}}
+{{learnlist/prevgen8|Purrloin|5|Aerial Ace|Flying|Physical|60|—|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Purrloin|5|Assist|Normal|Status|—|—|20|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Purrloin|5|Captivate|Normal|Status|—|100|20|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Purrloin|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Purrloin|5|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Purrloin|5|Dream Eater|Psychic|Special|100|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Purrloin|5|Echoed Voice|Normal|Special|40|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Purrloin|5|Embargo|Dark|Status|—|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Purrloin|5|Feint Attack|Dark|Physical|60|—|20||'''|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Purrloin|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Purrloin|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Purrloin|5|Knock Off|Dark|Physical|65|100|20||'''|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Purrloin|5|Psych Up|Normal|Status|—|—|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Purrloin|5|Pursuit|Dark|Physical|40|100|20||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Purrloin|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Purrloin|5|Role Play|Psychic|Status|—|—|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Purrloin|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Purrloin|5|Snatch|Dark|Status|—|—|10|V=yes<!--level,tutor-->|VI=yes<!--level,tutor-->|VII=yes<!--level,tutor-->|x=yes}}
+{{learnlist/prevgen8|Purrloin|5|Spite|Ghost|Status|—|100|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Purrloin|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Purrloin|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Purrloin|Dark|Dark|5}}
+
+===Side game data===
+{{Spindata/Head|type=Dark}}
+{{Spindata/PSMD|col=6|type=Dark|ndex=509
+|coset=5
+|conto={{p|Abra}}, {{p|Ducklett}}, {{p|Goodra}}
+|recruitment=Talk to in [[Baram Town]]
+|P1=Huh? You look pretty decent. Not as good as me though.
+|P2=I don't like this place at all...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Dark
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Dark|ndex=509
+|walk=2.08
+|hp=45
+|attack=66
+|defense=44
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Dark|ndex=509
+|pad=She is a capricious lady. Even with her mischievous behavior, she has a mysterious noble look. No Pokémon hates her.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Dark|ndex=509
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Dark|ndex=509|num=34
+|min=40
+|max=115
+|raisemaxlevel=15
+|skill=Opportunist
+|skilldesc=Rarely increases damage.
+|swapper=Flash Mob
+}}
+|-
+{{Spindata/GO|col=6|type=Dark|ndex=509
+|hatch=2 km
+|buddy=1
+|candy=Purrloin
+|evocandy=50
+|stamina=121
+|attack=98
+|defense=73
+|fast={{m|Scratch}}, {{m|Sucker Punch}}
+|special={{m|Night Slash}}, {{m|Play Rough}}, {{m|Dark Pulse}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|pictype=art
+|type1=Dark
+|no1=0509
+|name1=Purrloin
+|type1-1=Dark
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0510
+|name2=Liepard
+|type1-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Dark}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=509}}
+{{Spritebox/6|ndex=509|crop=72}}
+{{Spritebox/7|ndex=509|crop=71}}
+{{Spritebox/8|ndex=509}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0509}}
+{{Spritebox/Footer|509|Purrloin}}
+
+==In animation==
+===Main series===
+[[File:Ricard Nouveau Purrloin.png|thumb|250px|Purrloin in {{aniseries|BW}}]]
+====Major appearances====
+Purrloin made its animated series debut in ''[[BW044|Purrloin: Sweet or Sneaky?]]'', under the ownership of [[Misha]]. {{AP|Oshawott}} and {{MTR}} both fell in love with Purrloin, but Misha later revealed it was actually a boy and had been tricking them with feminine behavior.
+
+In ''[[BW080|Clash of the Connoisseurs!]]'', [[Ricard Nouveau]] used a Purrloin in a battle against {{an|Cilan}}. It battled {{TP|Cilan|Crustle}} and was eventually defeated by a combination of {{m|Shell Smash}} and {{m|Rock Wrecker}}. Purrloin reappeared in a flashback in ''[[BW140|Survival of the Striaton Gym!]]''.
+
+In ''[[BW125|Cilan and the Case of the Purrloin Witness!]]'', [[Mrs. Ripple]] owns a Purrloin. Having witnessed the theft of the Eye of Liepard, it tried to help Cilan's investigation, but Cilan was scared of Purrloin. However, it eventually revealed [[Teaque]] as the culprit of the theft.
+
+====Minor appearances====
+Purrloin debuted in [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']].
+
+A {{pkmn|Trainer}}'s Purrloin appeared in ''[[BW069|Climbing the Tower of Success!]]''.
+
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', the {{OBP|Swords of Justice|M15}} legend featured a Purrloin.
+
+A Purrloin appeared in a flashback in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+A Purrloin appeared in a flashback in ''[[BW128|To Catch a Rotom!]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', a Purrloin was living at [[Pokémon Hills]].
+
+A Trainer's Purrloin appeared in a fantasy or a flashback in ''[[BW134|The Journalist from Another Region!]]''.
+
+In ''[[XY039|Summer of Discovery!]]'', ''[[XY041|Foggy Pokémon Orienteering!]]'', and ''[[XY042|Battling Into the Hall of Fame!]]'', a Trainer's Purrloin attended the [[Pokémon Summer Camp]].
+
+A {{pkmn|Performer}}'s Purrloin appeared in ''[[XY040|Day Three Blockbusters!]]''.
+
+A Trainer's Purrloin appeared in ''[[XY066|Confronting the Darkness!]]''.
+
+A Trainer's Purrloin appeared in ''[[XY084|Adventures in Running Errands!]]''.
+
+A Trainer's Purrloin appeared in ''[[XY091|A Performance Pop Quiz!]]''.
+
+In ''[[XY105|Party Dancecapades!]]'', a Performer's Purrloin attended [[Monsieur Pierre]]'s dance party.
+
+Three Trainers' Purrloin appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+Four Purrloin appeared in ''[[XY138|The First Day of the Rest of Your Life!]]'', each under the ownership of a different Trainer.
+
+Five Purrloin appeared in ''[[HZ040|Farewell, Sprigatito?]]'' at [[Marnya's house]].
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW044|Purrloin|Ash's Pokédex|Purrloin, the Devious Pokémon. Purrloin fools people into letting their guard down so it can steal their possessions. When angered, it uses its claws to fight back.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon Evolutions===
+[[File:N Purrloin Evolutions.png|thumb|250px|Purrloin in [[Pokémon Evolutions]]]]
+In ''[[PE04|The Plan]]'', a Purrloin appeared in a flashback, under the ownership of [[N]]. It appeared by his side while N listened to [[Ghetsis]]'s speech in [[Accumula Town]] about the liberation of Pokémon.
+{{-}}
+
+==In the manga==
+[[File:N Purrloin Adventures.png|thumb|200px|Purrloin in [[Pokémon Adventures]]]]
+===Pocket Monsters BW===
+[[N]]'s Purrloin was only shown interacting with him while {{TP|Red|Clefairy}} was recording his voice to sell CD's.
+
+===Pocket Monsters BW: Good Partners===
+A Purrloin first appeared in [[BWGP02]], where [[Takurō]] {{pkmn2|caught}} it after it was abandoned by its {{pkmn|Trainer}}.
+
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Purrloin first appeared in ''[[FAT1|Justice Trainer Shin Appears!]]'', under the ownership of [[N]]. It was used to deliver a letter to Togari.
+
+===Pokémon RéBURST===
+[[Rug]] has a Purrloin, which she uses as her [[Burst]] form.
+
+===Pokémon Adventures===
+A {{pkmn|Trainer}}'s Purrloin appeared in ''[[PS466|An Odd Speech]]''.
+
+A Purrloin appeared in ''[[PS467|Letting Go]]'', under the ownership of {{adv|N}}. He was used to battle {{adv|Black}} in [[Accumula Town]].
+
+A {{tc|Team Plasma Grunt}} used a Purrloin in ''[[PS522|Homecoming]]''.
+
+Prior to ''[[PS531|Unforgettable Memories]]'', [[Hugh]] received a Purrloin from his grandfather, and later gave it to his younger sister for her birthday. It was stolen by [[Team Plasma]] when Hugh and his sister were out battling.
+
+A Purrloin appeared in ''[[PASS40|Rumble!! The Darkest Day Returns]]'', being one of many Pokémon to suddenly [[Dynamax]] due to the [[Darkest Day]].
+
+==In the TCG==
+{{main|Purrloin (TCG)}}
+
+==Other appearances==
+==={{DetPikMov}}===
+A Purrloin appeared in {{DetPikMov}}.
+
+==Trivia==
+* Purrloin was seen first in the [[Pokémon Sunday]] special episode preview on September 6, 2010. It was later removed from the same preview, much like the revelation of {{p|Zekrom}}'s secondary type earlier.
+* Purrloin is the only Pokémon with a base stat total of 281.
+* Purrloin shares its {{pkmn|category}} with {{p|Morgrem}}. They are both known as the Devious Pokémon.
+
+===Origin===
+Purrloin appears to be based on a {{wp|bicolor cat|tuxedo cat}}. Its fur pattern, behavior, and feline influence suggest that it may also be based on a female thief, commonly known as a {{wp|Burglary|cat burglar}}.
+
+====Name origin====
+Purrloin may be a combination of ''purr'' (a sound a cat makes) and ''purloin'' (to steal).
+
+Choroneko may be a combination of ちょろまかす ''choromakasu'' (to pilfer) and 猫 ''neko'' (cat).
+
+==In other languages==
+{{Other languages|type=Dark|type2=Dark
+|ja=チョロネコ ''Choroneko''|jameaning=From {{tt|ちょろまかす ''choromakasu''|to pilfer}} and {{tt|猫 ''neko''|cat}}
+|fr=Chacripan|frmeaning=From ''{{tt|chat|cat}}'' and ''{{tt|sacripant|rascal}}''
+|es=Purrloin|esmeaning=Same as English name
+|de=Felilou|demeaning=From the genus ''{{wp|Felis}}'' and ''{{tt|filou|French for 'rascal'}}''
+|it=Purrloin|itmeaning=Same as English name
+|ko=쌔비냥 ''Ssaebinyang''|komeaning=From {{tt|쌔비다 ''ssabida''|to steal}} and {{tt|고양이 ''goyang-i''|cat}}
+|zh_cmn=扒手貓 / 扒手猫 ''Páshǒumāo''|zh_cmnmeaning=From {{tt|扒手 ''páshǒu''|pickpocket}} and {{tt|貓 / 猫 ''māo''|cat}}
+|zh_yue=扒手貓 ''Pàhsáumāau''|zh_yuemeaning=From {{tt|扒手 ''pàhsáu''|pickpocket}} and {{tt|貓 ''māau''|cat}}
+|hi=चोरोकैट ''Chorocat''|himeaning=From {{tt|चोर ''chor''|thief}} and ''cat''
+|ru=Пуррлойн ''Purrloyn''|rumeaning=Transcription of English name
+|th=โจโรเนโกะ ''Choroneko''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=0508|prev=Stoutland|nextnum=0510|next=Liepard}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Felilou]]
+[[es:Purrloin]]
+[[fr:Chacripan]]
+[[it:Purrloin]]
+[[ja:チョロネコ]]
+[[zh:扒手猫]]

@@ -1,0 +1,333 @@
+{{PokémonPrevNext/Head|type=Dragon|type2=Dark}}
+{{PokémonPrevNext/GO|species=Roaring Moon}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=1004|prev=Chi-Yu|nextnum=1006|next=Iron Valiant|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Roaring Moon
+|jname=トドロクツキ
+|tmname=Todorokutsuki
+|ndex=1005
+|type1=Dragon
+|type2=Dark
+|category=Paradox
+|height-ftin=6'07"
+|height-m=2.0
+|weight-lbs=837.8
+|weight-kg=380.0
+|abilitylayout=1
+|ability1=Protosynthesis
+|ability2=
+|abilityd=
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|egggroup2=
+|eggcycles=50
+|evtotal=3
+|evhp=0
+|evat=3
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=295
+|lv100exp=1250000
+|gendercode=255
+|color=Blue
+|catchrate=10
+|body=08
+|pokefordex=roaring-moon
+|generation=9
+|friendship=0
+}}
+'''Roaring Moon''' ([[List of Japanese Pokémon names|Japanese]]: '''トドロクツキ''' ''Todorokutsuki'') is a dual-type {{2t|Dragon|Dark}} [[Paradox Pokémon]] introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It is said to be an ancient relative of [[Mega Evolution|Mega]] {{p|Salamence}} or a counterpart of it from a parallel timeline.
+
+==Biology==
+[[File:1005Roaring Moon Dream.png|thumb|left|220px|Roaring Moon standing on the ground]]
+Roaring Moon is a quadrupedal, draconic {{OBP|Pokémon|species}} with a long, tapering tail. It is primarily blue with a red underside with four yellow markings. There are red markings on the underside of its tail, and stripes on the inner surface of its hind legs. Additionally, there are raised white ridges above its eyes. Jagged, light blue spikes protrude from either side of its head. Its mouth features sharp teeth, with a pair of three teeth on the upper jaw and a pair of single teeth in the lower. Each of its legs has three, long claws, with its front legs being longer and bulkier, and sporting three protruding scales close to the knees. On its back rests very large red wings that begin with a three-pronged yellow pattern on both sides, that then curl upward into a crescent moon-like shape which gives the Pokémon its name, with blue-tipped feather-like protrusions on the ends. Below its wings is a jagged cape-like structure with a black underside. 
+
+According to an article from an April issue of {{DL|Magazines in the Pokémon world|Occulture}} magazine, Roaring Moon is named after a similarly described being in the [[Scarlet Book]]. The article says it looks similar to {{p|Salamence}} that has undergone a [[Mega Evolution|certain phenomenon]] that occurs [[Kalos|elsewhere]] in the {{Pkmn|world}}, but it's unclear if there is any connection. It's said that Roaring Moon scatters feathers as it flies around at high speeds seeking prey. It's thought to be more savage than Salamence and that it should be avoided at all costs.
+
+According to [[Professor Sada|AI Sada]], Roaring Moon is an ancient Pokémon related to Salamence. However, according to a version of Professor Sada that appeared at the [[Crystal Pool]], Roaring Moon is a counterpart of Salamence from another timeline. Its true origin is unknown. Roaring Moon was brought to the depths of [[Area Zero]] by a [[time machine]] built by Professor Sada ten years ago. 200 years ago, [[Heath]] also encountered Roaring Moon, as seen in the Scarlet Book, though it is unclear how it arrived there at the time.
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dragon|type2=Dark}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=397|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It is possible that this is the creature listed as Roaring Moon in [[Scarlet Book|an expedition journal]] that still holds many mysteries.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=According to an article in a dubious magazine, this Pokémon has some connection to [[Mega Evolution|a phenomenon that occurs in a certain region]].}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{dark color dark}}; background:#{{dragon color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{dragon color light}}; background:#{{dragon color light}} | [[File:Pokédex Image Roaring Moon SV.png|x200px]]
+|-
+| Roaring Moon in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Dragon|type2=Dark}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|1|v=Scarlet|t=FFF|area=[[Area Zero]]}}
+{{Availability/Entry1/None|1|v=Violet|area=[[Union Circle]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+====In events====
+{{eventAvail/h|Language/Region|type=Dragon|type2=Dark}}
+{{eventAvail|{{gameabbrev9|SV}}|CoroCoro Roaring Moon|All|Online|75|December 15, 2023 to February 14, 2024|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#CoroCoro Roaring Moon & Iron Valiant}}
+|}
+
+=====[[Poké Portal News]]=====
+{{eventAvail/h|Tera Type|type=Dragon|type2=Dark|lochide=yes}}
+{{eventAvail|{{gameabbrev9|S}}|Roaring Moon and Iron Valiant the Unrivaled|Dragon|hide|100|October 3 to 12, 2025|link=Poké Portal News#October 3 to 12, 2025}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Dragon|type2=Dark}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=FFF|gcolor2=FFF|tcolor2={{Violet color}}|Pokémon Scarlet and Violet}}
+{{HeldItems/Items1|Booster Energy|size=24px|5}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Dragon
+|type2=Dark
+|HP=105
+|Attack=139
+|Defense=71
+|SpAtk=55
+|SpDef=101
+|Speed=119
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dragon
+|type2=Dark
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=50
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=0
+|Ice=200
+|Dragon=200
+|Dark=50
+|Fairy=400
+|notes=yes
+|dark=yes
+|newpsychic=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Roaring Moon|Dragon|Dark|9}}
+{{learnlist/level9|1|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Bite|Dark|Physical|60|100|25||'''}}
+{{learnlist/level9|1|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Jaw Lock|Dark|Physical|80|100|10||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Scale Shot|Dragon|Physical|25|90|20||'''}}
+{{learnlist/level9|7|Incinerate|Fire|Special|60|100|15}}
+{{learnlist/level9|14|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|21|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level9|28|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/level9|35|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/level9|42|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/level9|49|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level9|56|Dragon Dance|Dragon|Status|—|—|20}}
+{{learnlist/level9|63|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/level9|70|Fly|Flying|Physical|90|95|15}}
+{{learnlist/level9|77|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/level9|84|Roost|Flying|Status|—|—|5}}
+{{learnlist/level9|91|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/levelf/9|Roaring Moon|Dragon|Dark|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Roaring Moon|Dragon|Dark|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM008|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm9|TM024|Fire Spin|Fire|Special|35|85|15}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/tm9|TM044|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM078|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm9|TM097|Fly|Flying|Physical|90|95|15}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM100|Dragon Dance|Dragon|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20||'''}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||'''}}
+{{learnlist/tm9|TM200|Scale Shot|Dragon|Physical|25|90|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM222|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/tm9|TM226|Dragon Cheer|Dragon|Status|—|—|15}}
+{{learnlist/tmf/9|Roaring Moon|Dragon|Dark|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Roaring Moon|Dragon|Dark|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Roaring Moon|Dragon|Dark|9}}
+
+===Side game data===
+{{Spindata/Head|type=Dragon|type2=Dark}}
+{{Spindata/GO|col=6|type=Dragon|ndex=1005
+|hatch=N/A
+|buddy=20
+|evolution=N/A
+|stamina=233
+|attack=280
+|defense=196
+|fast=
+|special=
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Dragon
+|type2=Dark
+|pictype=art
+|no1=1005
+|name1=Roaring Moon
+|type1-1=Dragon
+|type2-1=Dark}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=dragon|type2=dark}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=1005}}-->
+{{Spritebox/HOME|ndex=1005}}
+{{Spritebox/Footer|1005|Roaring Moon}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+==In the TCG==
+{{main|Roaring Moon (TCG)}}
+
+==Trivia==
+* Roaring Moon and {{p|Iron Valiant}} can be considered counterparts of one another.
+** They share a [[Base stats|base stat]] total of 590 instead of the 570 found in most other non-{{pkmn2|Legendary}} Paradox Pokémon.
+** Both are separated from the other non-Legendary Paradox Pokémon in [[List of Pokémon by Paldea Pokédex number|Paldea Pokédex]] and [[List of Pokémon by National Pokédex number|National Pokédex]] numbering.
+** Both are not covered in any editions of {{DL|Magazines in the Pokémon world|Occulture}} magazine in the [[Naranja Academy]]{{sup/9|S}}/[[Uva Academy]]{{sup/9|V}} entrance hall, with the editions covering them being found in the lab on [[Poco Path]] instead.
+** They are both the final and highest-[[level]]ed Pokémon used by [[Professor Sada]]{{sup/9|S}}/[[Professor Turo]]{{sup/9|V}} in their first {{pkmn|battle}}, as well as the only Pokémon on their team with the held item [[Booster Energy]].
+** Both possess a weakness and resistance to their own type attacks. Roaring Moon, Dragon/Dark, is weak to Dragon and resistant to Dark; Iron Valiant, Fairy/Fighting, is weak to Fairy and resistant to Fighting.
+** Both became 7 star raids at the same time.
+
+===Origin===
+Roaring Moon is based on {{p|Salamence}}, specifically its [[Mega Evolution|Mega-Evolved]] form. By extension, it also appears to be based on {{wp|European dragon}}s. Its feathers are similar to those of {{wp|feathered dinosaur}}s. The shape of its wings resembles a {{wp|crescent moon}}, commonly used as an icon in Islamic societies such as {{wp|Al-Andalus}} (the regions of Iberia that were under Muslim rule in the Middle Ages). The ridged white part on top of its head is vaguely reminiscent of {{p|Bagon}}'s protective growth.
+
+====Name origin====
+Roaring Moon is literally ''roaring moon''.
+
+Todorokutsuki can be taken literally as 轟く月 ''todoroku tsuki'' (roaring moon).
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Dark
+|ja=トドロクツキ ''Todorokutsuki''|jameaning=From {{tt|轟く月 ''todoroku tsuki''|roaring moon}}
+|fr=Rugit-Lune|frmeaning=From ''{{tt|rugir|to roar}}'' and ''{{tt|lune|moon}}''
+|es=Bramaluna|esmeaning= From ''{{tt|bramar|roar}}'' and ''{{tt|luna|moon}}''
+|de=Donnersichel|demeaning=From ''{{tt|Donner|thunder}}'' and ''{{tt|Sichel|crescent}}''
+|it=Lunaruggente|itmeaning=From ''{{tt|luna|moon}}'' and ''{{tt|ruggente|roaring}}''
+|ko=고동치는달 ''Godongchineundal''|komeaning=From {{tt|고동치는달 ''godongchineun dal''|pulsating moon}}
+|zh_cmn=轟鳴月 / 轰鸣月 ''Hōngmíngyuè''|zh_cmnmeaning=From {{tt|轟鳴 / 轰鸣 ''hōngmíng''|to roar}} and {{tt|月 ''yuè''|moon}}
+|zh_yue=轟鳴月 ''Gwāngmìhngyuht''|zh_yuemeaning=From {{tt|轟鳴 ''gwāngmìhng''|to roar}} and {{tt|月 ''yuht''|moon}}
+|hi=चाँदरोर ''Chaandroar''|himeaning=From {{tt|चाँद ''cā̃nd'' / चांद ''cānd''|moon}} and ''roar''
+|pt_br=Lua Estrondo|pt_brmeaning=From ''{{tt|lua|moon}}'' and ''{{tt|estrondo|boom}}''
+|th=จันทร์คำรน ''Chankhamron''|thmeaning=From ''{{tt|จันทร์ chan|moon}}'' and ''{{tt|คำรน khamron|roar}}''
+|ru=Ревущий Месяц ''Revushchiy Mesyats''|rumeaning=From {{tt|ревущий ''revushchiy''|roaring (masculine participle)}} and {{tt|месяц ''mesyats''|moon}}
+}}
+
+==Related articles==
+* [[Paradox Pokémon]]
+* [[Scarlet Book]]
+
+==References==
+<references/>
+
+==External links==
+
+{{Paradox Pokémon}}
+
+{{PokémonPrevNext/Head|type=Dragon|type2=Dark}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=1004|prev=Chi-Yu|nextnum=1006|next=Iron Valiant}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Paradox Pokémon]]
+[[Category:Ancient Pokémon]]
+
+[[de:Donnersichel]]
+[[es:Bramaluna]]
+[[fr:Rugit-Lune]]
+[[it:Lunaruggente]]
+[[ja:トドロクツキ]]
+[[zh:轰鸣月]]

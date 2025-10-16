@@ -1,0 +1,727 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Ground}}
+{{PokémonPrevNext/GO|species=Larvitar}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0245|prev=Suicune|nextnum=0247|next=Pupitar|round=none}}
+{{PokémonPrevNext/Disambig|species=Larvitar}}
+|}
+{{Pokémon Infobox
+|name=Larvitar
+|jname=ヨーギラス
+|jtranslit=Yōgirasu
+|tmname=Yogiras
+|category=Rock Skin
+|typebox=1
+|type1=Rock
+|type2=Ground
+|abilityn=d
+|ability1=Guts
+|abilityd=Sand Veil
+|ndex=0246
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=158.7
+|weight-kg=72.0
+|egggroupn=1
+|egggroup1=Monster
+|gendercode=127
+|eggcycles=40
+|evtotal=1
+|evat=1
+|expyield=60
+|oldexp=67
+|lv100exp=1,250,000
+|color=Green
+|catchrate=45
+|body=06
+|pokefordex=larvitar
+|generation=2
+|friendship=35
+}}
+'''Larvitar''' ([[List of Japanese Pokémon names|Japanese]]: '''ヨーギラス''' ''Yogiras'') is a dual-type {{2t|Rock|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] into {{p|Pupitar}} starting at [[level]] 30, which evolves into {{p|Tyranitar}} starting at level 55.
+
+==Biology==
+[[File:LarvitarObsidianFlames105.jpg|thumb|150px|left|Larvitar feeding on soil]]
+Larvitar is a small, green reptilian {{OBP|Pokémon|species}} with rocky skin. It has a blunt spike on top of its head, a short, rounded snout, and triangular, black markings below and on the upper corners of its red eyes. Red scales cover its diamond-shaped belly, and there are several small diamond-shaped holes in its body. Its short arms lack fingers, while its feet have a single toenail each. It has a tail with a conical center surrounded by a ring of plate-like scales, causing it to resemble a tunnel-boring machine. 
+
+Larvitar is born deep underground, far from its parent. It emerges to the surface and grows by consuming soil, and it will enter its pupal stage upon eating an entire mountain's worth of earth. This pupal stage is an [[Evolution]] called {{p|Pupitar}}. Larvitar usually lives in {{DL|List of Pokémon by habitat|Mountain Pokémon|mountains}}, hills, and caves. It adapts poorly to bright lights. As mentioned in {{g|Sleep}}, it is possible to find a Larvitar holding a half-eaten clump of earth while it sleeps.<ref>[[Sleep style|Sleep Style Dex]]</ref> It is believed this is due to Larvitar falling asleep after filling its belly.
+
+===Evolution===
+Larvitar evolves into {{p|Pupitar}}, which evolves into {{p|Tyranitar}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Rock
+|type2=Ground
+|pictype=art
+|no1=0246
+|name1=Larvitar
+|type1-1=Rock
+|type2-1=Ground
+|evo1=
+|no2=0247
+|name2=Pupitar
+|type1-2=Rock
+|type2-2=Ground
+|evo2=
+|no3=0248
+|name3=Tyranitar
+|type1-3=Rock
+|type2-3=Dark}}
+</div>
+
+==Game data==
+===NPC appearances===
+* {{vg|Pokémon Ranger}}: [[Go-Rock Quads|Billy]] uses a Larvitar to back up his {{p|Tyranitar}}.
+
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Ground}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=244}}
+{{Dex/Entry1|v=Gold|entry=It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.}}
+{{Dex/Entry1|v=Silver|entry=It is born deep underground. It can't emerge until it has entirely consumed the soil around it.}}
+{{Dex/Entry1|v=Crystal|entry=Born deep underground, this {{ScPkmn}} [[Evolution|becomes]] [[Pupitar (Pokémon)|a pupa]] after eating enough dirt to make a mountain.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It is born deep underground. It can't emerge until it has entirely consumed the soil around it. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Larvitar</sc> is born deep under the ground. To come up to the surface, this {{ScPkmn}} must eat its way through the soil above. Until it does so, <sc>Larvitar</sc> cannot see its parent's face.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A <sc>Larvitar</sc> is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.}}
+{{Dex/Entry1|v=FireRed|entry=It is born deep underground. It can't emerge until it has entirely consumed the soil around it.}}
+{{Dex/Entry1|v=LeafGreen|entry=It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=249}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.}}
+{{Dex/Entry1|v=HeartGold|entry=It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.}}
+{{Dex/Entry1|v=SoulSilver|entry=It is born deep underground. It can't emerge until it has entirely consumed the soil around it.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=292|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=102|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=247|label1={{gameIcon|US}}{{gameIcon|UM}}:|reg2=Kanto}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Born underground, it eats its way through dirt to the surface, where its parents are. It doesn't deal well with the bright light it finds there.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Raised on nutrients it finds in the dirt, it eats roughly a mountain's worth of dirt before it becomes a pupa.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=383|reg2=Galar|num2=139|label2=Crown Tundra|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=This Pokémon eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=316|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=Born deep underground, this Pokémon becomes a pupa after eating enough dirt to make a mountain.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It is born deep underground. It can't emerge until it has entirely consumed the soil around it.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{rock color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{rock color light}};" | [[File:Pokédex Image Larvitar USUM.png|x200px]]
+| style="border:2px solid #{{ground color dark}}; background:#{{rock color light}}; {{roundy|5px}};" | [[File:Pokédex Image Larvitar SV.png|x200px]]
+|-
+| Larvitar in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Larvitar in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Ground}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Mt. Silver Cave]]}}
+{{Availability/Entry1|v=Crystal|area=[[Mt. Silver Cave]]{{Sup/t|M}}{{Sup/t|D}}<br>[[Celadon Game Corner]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Sevault Canyon]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Trade]] {{p|Wooper}} to [[Duking]] in [[Pyrite Town]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Diamond|area={{rt|207|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1/None|v=Pearl}}
+{{Availability/Entry1|v=Platinum|area={{rt|206|Sinnoh}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}} (Mountain, default{{sup/t|M}}{{sup/t|D}}, and with 5 Peak points)<br/>[[Mt. Silver Cave]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2||v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Pupitar}} or {{p|Tyranitar}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{pkmn|breeding|Breed}} {{p|Pupitar}} or {{p|Tyranitar}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Rugged Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|2|v=X|t=fff|area={{pkmn|breeding|Breed}} {{p|Pupitar}} or {{p|Tyranitar}}}}
+{{Availability/Entry1|2|v=Y|t=FFF|area=[[Terminus Cave]] ([[Horde Encounter]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Diglett's Tunnel]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1/None|1|v=Sword|area=[[Trade]], use [[Dynamax Crystal]] ★And15 at [[Watchtower Lair]], [[Wild Area News]]}}
+{{Availability/Entry1|1|v=Shield|t=FFF|area=[[Lake of Outrage]]<br>[[Giant's Seat/Dens|Giant's Seat]], [[Rolling Fields/Dens|Rolling Fields]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|1|v=Shield Expansion Pass|color={{shield color dark}}|t=fff|link=Pokémon Sword and Shield Expansion Pass|area=[[Roaring-Sea Caves]]}}
+{{Availability/Entry1|1|v=Brilliant Diamond|area={{rt|207|Sinnoh}} ([[Poké Radar]])<br>[[Grand Underground]] - [[Rocky Cave]], [[Big Bluff Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|1|v=Shining Pearl}}
+{{Availability/Entry1/None|1|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|1|v=Scarlet|t=FFF|area=South Province: [[South Province (Area Five)|Area Five]], [[Alfornada Cavern]]<br>East Province: [[East Province (Area Three)|Area Three]]<br>West Province: [[West Province (Area One)|Area One]], [[Asado Desert]]<br>North Province: [[Dalizapa Passage]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Larvitar|3★}})}}
+{{Availability/Entry1/None|1|v=Violet|area=[[Union Circle]]<br>[[Tera Raid Battle|Tera Raid Battle Search]] ({{DL|List of 3★ Tera Raid Battles (Paldea)|Larvitar|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Ground}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 3]], [[Secret Storage 15]], Endless Level 10, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Southern Cavern]] (16F-26F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Sekra Range]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Northern Desert]] (1F-8F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Northern Desert]] (1F-8F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Peril Cliffs]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Faldera Island]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Terrera]], [[Cragspur]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#Walking a Thin Line|Secret Warehouse: Walking a Thin Line]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 5|Distortion Island: Stage 5]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Sacred Blade Cliff|Plasma Tundra: Sacred Blade Cliff]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Castform Sea]], [[Entei Sea]], [[Lugia Sea]], [[Zygarde Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Entei Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Southern Cavern]] (16F-26F), [[Fantasy Strait]] (20F-21F)<br/>Fainted Pokémon: [[Silent Chasm]], [[Northern Range]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Basic 4)<br>[[Taupe Hollow]], [[Greengrass Isle]]<sup>Expert</sup> (from Basic 1)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Wacky Workshop|Wacky Workshop: Stage 169]]<br>[[Zaffiro Coast|Zaffiro Coast: Stage 632]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Rock|type2=Ground}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Rage Larvitar|English|United States|5|November 1 to 7, 2002|link=List of PCNY event Pokémon distributions in Generation II#Rage Larvitar}}
+{{eventAvail|{{gameabbrev5|BW}}|Video Game Championships 2012 Larvitar|English|Europe and the United States|5{{shinystar|V}}|March 3 to July 1, 2012|link=List of local English event Pokémon distributions in Generation V#Video Game Championships 2012 Larvitar}}
+{{eventAvail|{{gameabbrev5|BW}}|Video Game Championships 2012 Larvitar|French|Europe and the United States|5{{shinystar|V}}|March 3 to July 1, 2012|link=List of local French event Pokémon distributions in Generation V#Video Game Championships 2012 Larvitar}}
+{{eventAvail|{{gameabbrev5|BW}}|Video Game Championships 2012 Larvitar|German|Europe and the United States|5{{shinystar|V}}|March 3 to July 1, 2012|link=List of local German event Pokémon distributions in Generation V#Video Game Championships 2012 Larvitar}}
+{{eventAvail|{{gameabbrev5|BW}}|Video Game Championships 2012 Larvitar|Italian|Europe and the United States|5{{shinystar|V}}|March 3 to July 1, 2012|link=List of local Italian event Pokémon distributions in Generation V#Video Game Championships 2012 Larvitar}}
+{{eventAvail|{{gameabbrev5|BW}}|Video Game Championships 2012 Larvitar|Spanish|Europe and the United States|5{{shinystar|V}}|March 3 to July 1, 2012|link=List of local Spanish event Pokémon distributions in Generation V#Video Game Championships 2012 Larvitar}}
+|}
+
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Rock|type2=Ground|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17|April 28 to May 11, 2020|link=Wild Area News#April 28 to May 11, 2020}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Rock|type2=Ground
+|event1=Chople Berry|event1type=Berry|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|type2=Ground
+|HP=     50
+|Attack= 64
+|Defense=50
+|SpAtk=  45
+|SpDef=  50
+|Speed=  41}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|type2=Ground
+|Speed=3
+|SpeedMax=3
+|Power=2
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=3
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Ground
+|Normal=   50
+|Fighting=200
+|Flying=   50
+|Poison=   25
+|Ground=  200
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=   200
+|Fire=     50
+|Water=   400
+|Grass=   400
+|Electric=  0
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|ground=yes
+|newelectric=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Larvitar|Rock|Ground|2}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|3|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level9|6|Payback|Dark|Physical|50|100|10||''}}
+{{learnlist/level9|9|Bite|Dark|Physical|60|100|25||''}}
+{{learnlist/level9|12|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level9|15|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level9|18|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/level9|21|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|24|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level9|27|Crunch|Dark|Physical|80|100|15||''}}
+{{learnlist/level9|31|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level9|33|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level9|36|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level9|39|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level9|42|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/levelf/9|Larvitar|Rock|Ground|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Larvitar|Rock|Ground|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15||''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||''}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM100|Dragon Dance|Dragon|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15||''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Larvitar|Rock|Ground|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Larvitar|Rock|Ground|2}}
+{{learnlist/breed9|{{MSP/H|0408|Cranidos}}{{MSP/H|0409|Rampardos}}{{MSP/H|0410|Shieldon}}{{MSP/H|0411|Bastiodon}}|Ancient Power|Rock|Special|60|100|5||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0252|Treecko}}{{MSP/H|0253|Grovyle}}{{MSP/H|0254|Sceptile}}{{MSP/H|0610|Axew}}{{MSP/H|0611|Fraxure}}{{MSP/H|0612|Haxorus}}|Assurance|Dark|Physical|60|100|10||''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0079|Slowpoke}}{{MSP/H|0079-Galar|Slowpoke}}{{MSP/H|0080|Slowbro}}{{MSP/H|0080-Galar|Slowbro}}{{MSP/H|0199|Slowking}}{{MSP/H|0199-Galar|Slowking}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0712|Bergmite}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713-Hisui|Avalugg}}|Curse|Ghost|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0610|Axew}}{{MSP/H|0611|Fraxure}}{{MSP/H|0612|Haxorus}}|Dragon Dance|Dragon|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0408|Cranidos}}{{MSP/H|0409|Rampardos}}{{MSP/H|0610|Axew}}{{MSP/H|0611|Fraxure}}{{MSP/H|0612|Haxorus}}|Focus Energy|Normal|Status|—|—|30|grid=8}}
+{{learnlist/breed9|{{MSP/H|0007|Squirtle}}{{MSP/H|0008|Wartortle}}{{MSP/H|0009|Blastoise}}{{MSP/H|0247|Pupitar}}{{MSP/H|0248|Tyranitar}}{{MSP/H|0712|Bergmite}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713-Hisui|Avalugg}}|Iron Defense|Steel|Status|—|—|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0410|Shieldon}}{{MSP/H|0411|Bastiodon}}|Iron Head|Steel|Physical|80|100|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0357|Tropius}}{{MSP/H|0610|Axew}}{{MSP/H|0611|Fraxure}}{{MSP/H|0612|Haxorus}}|Outrage|Dragon|Physical|120|100|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0111|Rhyhorn}}{{MSP/H|0112|Rhydon}}{{MSP/H|0464|Rhyperior}}{{MSP/H|0357|Tropius}}|Stomp|Normal|Physical|65|100|20|grid=8}}
+{{learnlist/breedf/9|Larvitar|Rock|Ground|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color}}; border: 3px solid #{{tcg fighting color dark}}"
+|-
+! style="background: #{{tcg fighting color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg fighting color light}}; {{roundytr|5px}}" | Card
+|- style="background:#fff"
+| {{m|Comet Punch}}
+| [[Larvitar (McDonald Pack 18)]]
+|- style="background:#fff"
+| {{m|Fury Attack}}
+| [[Larvitar (EX Team Rocket Returns 62)]]
+|- style="background:#fff"
+| {{m|Horn Attack}}
+| [[Larvitar δ (EX Dragon Frontiers 52)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Sand-Attack}}
+| style="background:#fff; {{roundybr|5px}}" | [[Larvitar (POP Series 1 11)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Rock}}
+{{Spindata/Trozei|col=6|type=Rock|ndex=246|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Rock|ndex=246
+|body=1
+|rate=12.2
+|area=Mt. Cleft
+|P1=I'd like to chow down on a mountain!
+|P2=Huh? My health is down to half already!
+|P3=I'm bone tired... Even eating dirt won't perk me up...
+|PL=I leveled up! Now is it OK to chow down a mountain?
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Rock|ndex=246
+|body=1
+|rate=8.2
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Rock|ndex=246
+|coset=8
+|conto={{p|Sunkern}}, {{p|Elekid}}, {{p|Cranidos}}
+|recruitment=Go to find with {{p|Cranidos}}
+|P1=Dirt is pretty yummy! Larvee-larvee!
+|P2=I'm so going to faint. Larvee-larvee…
+}}
+|-
+{{Spindata/Ranger|col=6|type=Rock
+|group=Ground
+|assist=Rock
+|fieldpower=1
+|field=Cut
+|loop=3
+|MinEXP=25
+|MaxEXP=35
+|num=193
+|browser=Larvitar is small, but its bite is powerful. It can easily chomp down a wooden fence.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Rock
+|group=Ground
+|assist=Rock
+|field=Crush
+|fieldpower=1
+|num=120
+|browser=It hurls rocks and stones to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Rock
+|group=Ground
+|assist=Ground
+|field=Crush
+|fieldpower=2
+|num=216
+|pastnum=087
+|browser=It triggers tremors and opens fissures that make Pokémon Paused.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Rock
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Rock|ndex=246
+|walk=2.08
+|hp=48
+|attack=68
+|defense=48
+|speed=60
+}}
+|-
+{{Spindata/Conquest|col=6|type=Rock|ndex=246
+|HP=2
+|atk=2
+|def=2
+|spd=2
+|range=3
+|move=Rock Tomb
+|ability1=Sandpit
+|ability2=Guts
+|ability3=Stealth
+|evo=Evolves into {{p|Pupitar}} when its Attack is 74 or higher
+|link=[[Kageie]], [[Katsuyori]], and [[Sōun]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=246
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=246|num=208
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Risk-Taker
+|skilldesc=Increases damage randomly.
+}}
+|-
+{{Spindata/GO|col=6|type=Rock|ndex=246
+|hatch=N/A
+|buddy=5
+|candy=Larvitar
+|evocandy=25
+|stamina=137
+|attack=115
+|defense=93
+|fast={{m|Bite}}, {{m|Rock Smash}}
+|special={{m|Stomp}}, {{m|Crunch}}, {{m|Ancient Power}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0246
+|sleeptype=Slumbering
+|type=Rock
+|dexentry=Larvitar feeds on soil. On very rare occasions you might find one holding a half-eaten clump of earth as it sleeps. Perhaps it grew sleepy after filling its belly.
+|sleepstyle1=Stretching Sleep
+|sleepstyle2=Face-Rubbing Sleep
+|sleepstyle3=Earth-Eating Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=5
+|specialty=Ingredients
+|evolution=Lv. 23
+|pokemon=Larvitar
+|candyNum=40
+|berry=Sitrus
+|ingredient1=Warming Ginger
+|ingredient2=Greengrass Soybeans
+|ingredient3=Bean Sausage
+|carrylimit=9
+|skillname=Charge Energy S
+|skilldesc=Restores 12 Energy to the user.
+}}
+|}
+
+In {{g|GO}}, Larvitar can be obtained by completing 2/6 of the [[Special Research]], ''An Inter-egg-sting Development''. It can also be obtained by completing the Special Research, ''A Seven-Colored Shadow''.
+
+===Evolution data===
+{{Evobox-3
+|type1=Rock
+|type2=Ground
+|pictype=art
+|no1=0246
+|name1=Larvitar
+|type1-1=Rock
+|type2-1=Ground
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0247
+|name2=Pupitar
+|type1-2=Rock
+|type2-2=Ground
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 55}}
+|no3=0248
+|name3=Tyranitar
+|type1-3=Rock
+|type2-3=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Ground}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=246}}
+{{Spritebox/3|ndex=246}}
+{{Spritebox/4|ndex=246}}
+{{Spritebox/5|ndex=246}}
+{{Spritebox/6|ndex=246|crop=66}}
+{{Spritebox/7|ndex=246|crop=66}}
+{{Spritebox/8|ndex=246}}
+<!--{{Spritebox/9|ndex=0246}}-->
+{{Spritebox/HOME|ndex=0246}}
+{{Spritebox/Footer|246|Larvitar}}
+
+==In animation==
+===Main series===
+[[File:Chris Larvitar.png|thumb|250px|Larvitar in {{aniseries|BW}}]]
+[[File:Larvitar Egg.png|thumb|220px|A Larvitar {{pkmn|Egg}} in {{aniseries|GS}}]]
+====Major appearances====
+=====[[Ash's Larvitar]]=====
+Larvitar made its animated series debut in ''[[EP258|Hatch Me If You Can]]''. In the episode, {{Ash}} had a Larvitar that he hatched from an {{pkmn|Egg}} given to him by [[Professor Elm]], intended to be delivered to its mother living on [[Mt. Silver]]. It constantly froze with shyness when it is approached by anyone other than {{Ash}} or {{AP|Pikachu}} prior to ''[[EP264|Mother of All Battles]]''.
+
+=====Other=====
+Larvitar debuted in ''[[PK10|Pikachu's PikaBoo]]''. {{AP|Pikachu}} and its friends invited it and its own friends to a game of {{wp|hide-and-seek}}, though Larvitar refused because it holds its responsibility for being charge of guarding the garden. Later, it felt angry about its duty being compromised and viciously kicked a rock at a lawnmower, which went ridiculously haywire, causing it the chase Pikachu and its friends which causes Larvitar to become contrite, though the situation was eventually resolved.
+
+In ''[[AG188|Pinch Healing]]'', a Larvitar was being babysat by a Poké-Sitter named {{OBP|Matt|AG188}}. Ash and {{ashfr}} decided to help him with his job. The Larvitar was particularly shy and would use {{m|Sandstorm}} when confronted. By the end of the episode, however, it warmed up to the group, particularly {{an|May}}.
+
+In ''[[BW088|The Mystery of the Missing Cubchoo!]]'', a Larvitar befriended {{OBP|Chris|BW088}}'s {{p|Cubchoo}} and joined his team at the end of the episode.
+
+====Minor appearances====
+In ''[[AG159|Off the Unbeaten Path]]'', a {{pkmn|Trainer}}'s Larvitar participated in the [[Pokémon Orienteering]] competition.
+
+In ''[[AG168|Three Jynx and a Baby!]]'', [[Jessie]]'s fantasy featured a Larvitar.
+
+A Larvitar appeared in ''[[DP010|Not on MY Watch Ya Don't!]]''.
+
+A Larvitar appeared in Jessie's fantasy ''[[DP038|One Big Happiny Family!]]''.
+
+In ''[[DP141|Challenging a Towering Figure!]]'', a Trainer's Larvitar battled [[Dawn's Piplup]] during the [[Festival Battle Challenge]].
+
+A Larvitar appeared in ''[[PK24|Meloetta's Moonlight Serenade]]''.
+
+Multiple Larvitar appeared in ''[[M21|The Power of Us]]'', with three under the ownership of different Trainers and the rest appearing during a flashback.
+
+A Trainer's Larvitar appeared in ''[[SM146|Thank You, Alola! The Journey Continues!]]'' 
+
+A Trainer's Larvitar appeared in ''[[JN004|Settling the Scorbunny!]]''. It reappeared in ''[[JN091|The Spectral Express!]]''.
+
+A Larvitar appeared in a flashback in ''[[JN032|Time After Time!]]''.
+
+In a flashback in ''[[JN051|Trials of a Budding Master!]]'', a Trainer's Larvitar battled Ash in a [[World Coronation Series]] match.
+
+A Trainer's Larvitar appeared in ''[[HZ048|Sparkle! The Glow of Flame and Art]]''.
+
+A Larvitar appeared in [[HZ094]].
+
+A Trainer's Larvitar appeared in [[HZ095]].
+
+A {{tc|Student}}'s Larvitar appeared in [[HZ101]].
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP258|Larvitar|Ash's Pokédex|Larvitar, the Rock Skin Pokémon. Larvitar generally hatch deep within the earth and take a long time before coming to the surface.}}
+{{Animedexfooter/Pokémon|Johto}}
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', a Larvitar briefly appeared under the ownership of a {{pkmn|Trainer}} in [[Ecruteak City]].
+
+===POKÉTOON===
+A {{pkmn2|wild}} Larvitar appeared in [[PT16]].
+
+==In the manga==
+[[File:Ash Larvitar Egg AP.png|thumb|120px|left|A Larvitar {{pkmn|Egg}} in [[Ash & Pikachu]]]]
+[[File:Crystal Larvitar Adventures.png|thumb|120px|Larvitar in [[Pokémon Adventures]]]]
+===Ash & Pikachu===
+{{main|Ash's Larvitar}}
+At the end of ''[[SP15|A Mysterious Egg!!]]'', {{Ash}}'s Larvitar hatched from its {{pkmn|Egg}}.
+
+===Pokémon Adventures===
+{{adv|Crystal}}'s {{p|Arcanine}}, [[Archy]], was attacked by a Larvitar and injured five years prior to ''[[PS117|Slugging It Out With Slugma]]'', causing him to go on a rampage until Crystal calmed him down. In ''[[PS135|Lively Larvitar]]'', Larvitar re-encountered Crystal when she returned to [[Mt. Mortar]]. It tormented her and Archy until her newly evolved {{p|Bayleef}}, [[Megaree]], defeated it, allowing her to catch it and regain her shattered confidence from failing to catch {{DL|Legendary beasts (Adventures)|Suicune}} earlier.
+
+In the [[Trick Master]]'s flashback in ''[[PS332|The Final Battle V]]'', a Larvitar was calmed down by the homeland soil.
+
+A Larvitar appeared in ''[[PS442|Out-Odding Oddish]]'', under the ownership of a [[Pokéathlon]] participant.
+
+A Trainer's Larvitar appeared in ''[[PS547|The Final Battle]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Larvitar appeared in [[GDZ51]].
+
+A Larvitar appeared in [[GDZ53]], under the ownership of [[Nagi]].
+
+===Pokémon Pocket Monsters===
+{{PPM|Red}} {{pkmn2|caught}} a Larvitar prior to ''[[PM104|The Great Helper!!]]''.
+
+==In the TCG==
+{{main|Larvitar (TCG)}}
+
+==In the TFG==
+One Larvitar figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Larvitar|16}}
+
+==Trivia==
+* Larvitar's sprite animation changes between {{game|Diamond and Pearl|s}} and {{game|Platinum}}, but its static sprite does not change.
+
+===Origin===
+Larvitar appears to share similarities with {{wp|dinosaur}}s and {{wp|kaiju}}. Its penchant for eating mountains, fences, or probably anything else may also come from the legend of the {{wp|Tarasque}}.
+
+====Name origin====
+Larvitar may be derived from ''{{wp|larva}}'', and ''{{wp|tar}}'' (alluding to the misconception of petroleum and tar originating from dinosaurs) or ''{{wp|Reptar}}''. It may also involve ''{{wp|Tarasque}}''..
+
+Yogiras may be a combination of 幼児 ''yōji'' (baby or child) or 幼生 ''yōsei'' (larva), 嫌い ''kirai'' (hated), and ソーラス ''sōrasu'', a corruption of サウルス ''saurusu'' (''-saurus'', Greek-derived suffix for dinosaur names).
+
+==In other languages==
+{{Other languages|type=Rock|type2=Ground
+|ja=ヨーギラス ''Yogiras''|jameaning=From {{tt|幼児 ''yōji''|baby or child}} or {{tt|幼生 ''yōsei''|larva}}, {{tt|嫌い ''kirai''|hated}}, and {{tt|ソーラス ''sōrasu''|from ''-saurus'', Greek-derived suffix for dinosaur names}}
+|fr=Embrylex|frmeaning=From ''{{tt|embryon|embryo}}'' and ''{{tt|silex|flint}}''
+|es=Larvitar|esmeaning=Same as English name
+|de=Larvitar|demeaning=Same as English name
+|it=Larvitar|itmeaning=Same as English name
+|ko=애버라스 ''Aebeoras''|komeaning=From {{tt|애 ''ae''|kid}}, {{tt|애벌레 ''aebulle''|larva}}, and partial transcription of Japanese name
+|zh_cmn=幼基拉斯 ''Yòujīlāsī''{{tt|*|Games}}<br>由基拉 ''Yóujīlā''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From the transcription of its Japanese name and {{tt|幼 ''yòu''|young}}<br>Partial transcription of its Japanese name
+|zh_yue=幼基拉斯 ''Yaugēilāaisī''{{tt|*|Games}}<br>由基拉 ''Yàuhgēilāai''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From the transcription of its Japanese name and {{tt|幼 ''yau''|young}}<br>Partial transcription of its Japanese name
+|hi=लारवार ''Larvaar''|himeaning=From ''larva''
+|ru=Ларвитар ''Larvitar''|rumeaning=Transcription of English name
+|th=โยกิราส ''Yokirat''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Ash's Larvitar]]
+* [[Tyranitar (UNITE)]]
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Rock|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0245|prev=Suicune|nextnum=0247|next=Pupitar}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Larvitar]]
+[[es:Larvitar]]
+[[fr:Embrylex]]
+[[it:Larvitar]]
+[[ja:ヨーギラス]]
+[[zh:幼基拉斯]]

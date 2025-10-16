@@ -1,0 +1,509 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/GO|species=Foongus}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0589|prev=Escavalier|nextnum=0591|next=Amoonguss|round=none}}
+{{PokémonPrevNext/Disambig|species=Foongus}}
+|}
+{{Pokémon Infobox
+|name=Foongus
+|jname=タマゲタケ
+|tmname=Tamagetake
+|category=Mushroom
+|typebox=1
+|type1=Grass
+|type2=Poison
+|abilityn=d
+|ability1=Effect Spore
+|abilityd=Regenerator
+|ndex=0590
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=2.2
+|weight-kg=1.0
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|expyield=59
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|catchrate=190
+|evtotal=1
+|evhp=1
+|body=04
+|pokefordex=foongus
+|generation=5
+|friendship=70
+}}
+'''Foongus''' ([[List of Japanese Pokémon names|Japanese]]: '''タマゲタケ''' ''Tamagetake'') is a dual-type {{2t|Grass|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Amoonguss}} starting at [[level]] 39.
+
+==Biology==
+Foongus is a white, mushroom-like {{OBP|Pokémon|species}} with a cap that looks quite similar to a {{i|Poké Ball}}. It has stubby, digit-less arms, a tiny mouth with large pink lips, and pinprick-like dark eyes. A theory suggests that the developer of modern Poké Balls actually modeled it after Foongus's cap due to liking the Pokémon, although this is supposition. 
+
+Foongus uses its Poké Ball-like pattern to lure people and Pokémon in grassy areas, before releasing a cloud of poisonous spores to defend itself. The spores can be used as a stomach medicine if thoroughly dried. Foongus moves by either hopping or turning on its side and rolling on its cap. It is one of the [[List of Pokémon by height|shortest]] {{type|Grass}} Pokémon. It prefers damp places, such as around trees.
+
+===Evolution===
+Foongus evolves into {{p|Amoonguss}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|type1=Grass
+|type2=Poison
+|no1=0590
+|name1=Foongus
+|type1-1=Grass
+|type2-1=Poison
+|evo1=
+|no2=0591
+|name2=Amoonguss
+|type1-2=Grass
+|type2-2=Poison}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Poison}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=096|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=161|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.}}
+{{Dex/Entry1|v=White|entry=For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=053|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=077|label1=Isle of Armor|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=No one knows what the Poké Ball-like pattern on Foongus means or why Foongus has it.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The spores released from this Pokémon's hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=205|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=There is a theory that the developer of the modern-day Poké Ball really liked Foongus, but this has not been confirmed.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon prefers damp places. It spurts out poison spores to repel approaching enemies.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{poison color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Foongus SV.png|x200px]]
+|-
+| Foongus in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Poison}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|6|Unova}}, {{rtn|7|Unova}}, and {{rtn|10|Unova}} (both in [[tall grass]] and as fake items)}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|6|Unova}} and {{rtn|7|Unova}} (both in [[tall grass]] and as fake items{{tt|*|respawn on participation in special Funfest Mission}})<br>[[Route]]s {{rtn|5|Unova}}, {{rtn|6|Unova}}, and {{rtn|13|Unova}} ([[Hidden Grotto]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Route]]s {{rtn|15|Kalos}}, {{rtn|16|Kalos}}, and {{rtn|20|Kalos}}, [[Pokémon Village]] ([[Horde Encounter]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Forest of Focus]]}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=fff|t2=fff|area=East Province: [[Tagtree Thicket]]<br>West Province: [[West Province (Area Three)|Area Three]]<br>North Province: [[North Province (Area Two)|Area Two]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Foongus|2★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Poison}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Autumn: [[Volcanic Slope]], [[Firebreathing Mountain]]; Field: [[Volcanic Slope]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Desolate Canyon]] (1F-7F), [[Forest Grotto]] (1F-7F), [[Mountain Pass]] (1F-7F), [[Inflora Forest]] (1F-8F), [[Breezy Meadow]] (1F-8F), [[Tempting Path]] (1F-9F), [[Moonlit Forest]] (Uncharted Road), [[Rusty Mountain]] (Uncharted Road)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 1|Safari Jungle: Stage 1]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Fluffy Meadow|Pearl Marsh: Fluffy Meadow]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 23|Area 23: Stage 11]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Snorlax Sea]], [[Celebi Sea]], [[Celebi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Secret Side Path]]<sup><span style="color:#3A546B;">Night</span></sup>, [[Florio Nature Park]]<sup><span style="color:#3A546B;">Night</span> with [[Secret Side Path]]</sup>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 524]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Grass|type2=Poison}}
+{{HeldItems/Games2|Black|White|tcolor1=FFF|Pokémon Black and White Versions}}
+{{HeldItems/Items3|TinyMushroom|50|Big Mushroom|5|BalmMushroom|1|availNote3=[[Dark grass]] only,&#32;|rows=2}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Items2|Tiny Mushroom|50|Big Mushroom|5}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items2|Tiny Mushroom|50|Big Mushroom|5|availNote1=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;|availNote2=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=FFF|tcolor2=FFF|Pokémon Scarlet and Violet}}
+{{HeldItems/Items1|Tiny Mushroom|5}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|type2=Poison
+|HP=69
+|Attack=55
+|Defense=45
+|SpAtk=55
+|SpDef=55
+|Speed=15}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Poison
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=200
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=50}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Foongus|Grass|Poison|5}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|4|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|8|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|12|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|16|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/level9|20|Clear Smog|Poison|Special|50|—|15||'''}}
+{{learnlist/level9|24|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|28|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|32|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/level9|36|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level9|40|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/level9|44|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/level9|48|Spore|Grass|Status|—|100|15}}
+{{learnlist/levelf/9|Foongus|Grass|Poison|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Foongus|Grass|Poison|5}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tmf/9|Foongus|Grass|Poison|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Foongus|Grass|Poison|5}}
+{{learnlist/breed9|{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Defense Curl|Normal|Status|—|—|40|grid=7}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0948|Toedscool}}{{MSP/H|0949|Toedscruel}}|Poison Powder|Poison|Status|—|75|35|grid=7}}
+{{learnlist/breed9|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Rollout|Rock|Physical|30|90|20|grid=7}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0286|Breloom}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0952|Scovillain}}|Worry Seed|Grass|Status|—|100|10|grid=7}}
+{{learnlist/breedf/9|Foongus|Grass|Poison|5}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Poison}}
+{{Spindata/PSMD|col=6|type=Grass|ndex=590
+|coset=3
+|conto={{p|Lillipup}}
+|recruitment=Feed an [[Food (Mystery Dungeon)|Apple]] to in a dungeon
+|P1=They think I look like {{i|Poké Ball|something}}. I wonder what they have in mind…
+|P2=Bleah… What do I look like again? I can't remember anything…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=1
+|def=2
+|speed=2
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=590
+|walk=1.67
+|hp=53
+|attack=67
+|defense=48
+|speed=50
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=590
+|pad={{p|Amoonguss}} is a dreamer and confused him a lot. As a result, he came to think that he should stay as he is.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=590
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=590|num=672
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=590
+|hatch=5 km
+|buddy=3
+|candy=Foongus
+|evocandy=50
+|stamina=170
+|attack=97
+|defense=91
+|fast={{m|Astonish}}, {{m|Feint Attack}}
+|special={{m|Energy Ball}}, {{m|Body Slam}}, {{m|Grass Knot}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Grass|ndex=590|pdex=216
+|dex=The pattern on Foongus’s cap looks just like a {{i|Poké Ball}}—a device you don’t see often around [[Lental]]. No one can really explain why it looks the way it does.}}
+|}
+
+In {{g|GO}}, Foongus could be obtained by completing the [[Special Research]], ''Distracted by Something Shiny''.
+
+===Evolution data===
+{{evobox-2
+|type1=Grass
+|type2=Poison
+|no1=0590
+|name1=Foongus
+|type1-1=Grass
+|type2-1=Poison
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 39}}
+|no2=0591
+|name2=Amoonguss
+|type1-2=Grass
+|type2-2=Poison
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Poison}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=590}}
+{{Spritebox/6|ndex=590|crop=49}}
+{{Spritebox/7|ndex=590|crop=36}}
+{{Spritebox/8|ndex=590}}
+<!--{{Spritebox/9|ndex=0590}}-->
+{{Spritebox/HOME|ndex=0590}}
+{{Spritebox/Footer|590|Foongus}}
+
+==In animation==
+[[File:Foongus anime.png|thumb|250px|Foongus in {{aniseries|BW}}]]
+===Main series===
+====Major appearances====
+Multiple Foongus debuted in ''[[BW032|Facing Fear with Eyes Wide Open!]]'', when they {{status|poisoned}} {{Ash}} and {{ashfr}}' Pokémon after {{AP|Scraggy}} used {{m|Headbutt}} on one of the Mushroom Pokémon.
+
+In ''[[BW080|Clash of the Connoisseurs!]]'', [[Marigold]] played with a Foongus. Then, she hid it from [[Mr. Hatterly|her father]] as she was afraid he would not like it.
+
+In ''[[BW087|Expedition to Onix Island!]]'', a Foongus was living at a {{OBP|Deserted Island|BW087|deserted island}}. It ended up attacking {{an|Dawn}} when she got too close.
+
+In ''[[BW138|Go, Go Gogoat!]]'', multiple Foongus were living at an {{OBP|unnamed island|BW138}} in the [[Decolore Islands]]. They attacked Ash and his friends with {{m|Poison Powder}}.
+
+In ''[[HZ028|The Stolen Treasure]]'', a Foongus appeared under the ownership of [[Tepen]].
+
+====Minor appearances====
+Multiple Foongus appeared in ''[[BW051|Lost at the Stamp Rally!]]''.
+
+Multiple Foongus appeared in ''[[BW053|A Maractus Musical!]]''.
+
+In ''[[BW056|The Lonely Deino!]]'', a Foongus was under [[Bobby]]'s care. It was later picked up by its {{pkmn|Trainer}}.
+
+A Foongus appeared in ''[[BW057|The Mighty Accelguard to the Rescue!]]'', under the ownership of a shopper at the {{DL|Driftveil City|Market|Driftveil Market}}.
+
+A Trainer's Foongus appeared in ''[[BW067|Cilan Takes Flight!]]''.
+
+A Trainer's Foongus appeared in ''[[BW069|Climbing the Tower of Success!]]''.
+
+A Foongus appeared in ''[[BW071|Search for the Clubultimate!]]''.
+
+A Foongus appeared in ''[[BW083|Rocking the Virbank Gym! Part 1]]''.
+
+Multiple Foongus appeared in ''[[BW085|All for the Love of Meloetta!]]''.
+
+Multiple Foongus appeared in ''[[BW090|Jostling for the Junior Cup!]]'', all under the ownership of a Trainer.
+
+A Trainer's Foongus appeared in ''[[BW103|Curtain Up, Unova League!]]''.
+
+In ''[[BW104|Mission: Defeat Your Rival!]]'', [[Flora]]'s Foongus was seen with her in a [[Pokémon Center]].
+
+Two Foongus appeared in ''[[BW106|Strong Strategy Steals the Show!]]'', both under the ownership of a Trainer.
+
+A Trainer's Foongus appeared in ''[[BW107|Cameron's Secret Weapon!]]''.
+
+In ''[[BW127|The Island of Illusions!]]'', a Foongus was living at [[Grand Spectrala Islet]].
+
+Multiple Foongus appeared in ''[[BW136|A Pokémon of a Different Color!]]''.
+
+Multiple Foongus appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Trainer's Foongus appeared in ''[[XY057|Thawing an Icy Panic!]]'' and ''[[XY059|Under the Pledging Tree!]]''. In the latter episode, it attended the [[Coumarine City Festival]].
+
+In ''[[XY071|So You're Having a Bad Day!]]'', {{an|Bonnie}} and {{MTR}} landed on top of multiple Foongus. While Meowth was able to escape unscathed, Bonnie fell victim to their {{m|Spore}}s.
+
+A Foongus appeared in ''[[M23|Secrets of the Jungle]]''.
+
+A Trainer's Foongus appeared in ''[[HZ058|Food Fit for a Kingambit!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW032|Foongus|Ash's Pokédex|Foongus, the Mushroom Pokémon. Foongus release {{m|Poison Powder|poisonous spores}} to repel anyone who tries to catch them. For unknown reasons, they resemble {{i|Poké Ball}}s.}}
+{{Animedexbody|BW138|Foongus|Ash's Pokédex|Foongus, the Mushroom Pokémon. It has the appearance of a Poké Ball which lures people close. That's when Foongus releases its poison spores.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon Evolutions===
+A Foongus briefly appeared in ''[[PE04|The Plan]]'', under the ownership of a {{tc|Pokémon Breeder}} who was listening to [[Ghetsis]]'s speech in [[Accumula Town]].
+
+==In the manga==
+[[File:Whi-Two Foongus.png|thumb|170px|Foongus in [[Pokémon Adventures]]]]
+===Movie adaptations===
+A Foongus appeared in the {{ma|Diancie and the Cocoon of Destruction|manga adaptation}} of ''[[M17|Diancie and the Cocoon of Destruction]]'' as a resident of [[Allearth Forest]].
+
+===Pokémon Adventures===
+{{main|Foongy}}
+A Foongus appeared in ''[[PS479|The Case of the Missing Pokémon]]'', where it was one of the Pokémon kidnapped by [[Team Plasma]]. It was later found in a stronghold and returned to its {{pkmn|Trainer}}.
+
+A Foongus appeared in ''[[PS494|Up in the Air]]''.
+
+A Foongus appeared in a flashback in ''[[PS510|A Wretched Reunion]]''.
+
+Foongus is a Pokémon owned by {{adv|Whitley}}. She used him to defeat a {{p|Sigilyph}}, earning his Trainer a Pokédex. This Foongus is nicknamed "Foongy". Foongus was a Pokémon liberated by [[Team Plasma]]. He first appeared in ''[[PS524|A Difficult Parting]]''.
+
+Multiple Foongus appeared in ''[[PS583|Scizor Defends]]'' as residents of the [[Pokémon Village]]. One of them reappeared in ''[[PS589|Charizard Transforms]]''.
+
+A Foongus appeared in ''[[PS588|Chesnaught Protects]]''.
+
+A Foongus appeared in a flashback in ''[[PS590|Yveltal Steals]]''.
+
+A Foongus appeared in ''[[PS593|Xerneas Gives]]''.
+
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Foongus appeared in ''[[FAT2|The King's Identity...!!]]''.
+
+A Foongus appeared in ''[[FAT5|Clash! White Hero vs Black Hero]]''.
+
+===Pokémon RéBURST===
+A Foongus appeared in [[RB15]].
+
+A Foongus appeared in [[RB26]].
+
+A Foongus appeared in [[RB76]].
+
+==In the TCG==
+{{main|Foongus (TCG)}}
+
+==Trivia==
+* Foongus, along with its Evolution, is similar to {{p|Voltorb}} and {{p|Electrode}} in that it resembles a {{i|Poké Ball}}.
+** However, unlike Voltorb and Electrode, it only has a Poké Ball design on it, instead of being in the shape of one.
+** Likewise, it features the whole design, complete with the circle resembling the button in the middle (contrary to Voltorb's evolutionary line having just the shape and general colors, and according to the Pokédex, being transformed Poké Balls themselves).
+** Foongus's {{Shiny}} form's coloration is reminiscent of that of the [[Master Ball]]. It shares this trait with its evolved form.
+* Foongus and its evolved form share their species name with {{p|Paras}}, {{p|Parasect}}, {{p|Shroomish}}, and {{p|Breloom}}. They are all known as the Mushroom Pokémon.
+** All six Pokémon also share a common [[move]], {{m|Spore}}; and [[Ability]], {{a|Effect Spore}}.
+** In [[Pokémon GO]], they all give more [[Stardust (GO)|Stardust]] than most other Pokémon upon capture.
+* Foongus is tied with {{rf|Paldean}} {{p|Wooper}} for the lowest base {{stat|Speed}} stat of all {{type|Poison}} Pokémon.
+** It is also tied with {{p|Budew}} and {{p|Shroodle}} for the [[List of Pokémon by height|shortest]] Poison-type Pokémon.
+* According to [[Ken Sugimori]], Foongus, {{p|Amoonguss}}, {{p|Ferroseed}}, and {{p|Ferrothorn}} were all designed by the same designer.<ref name=ND205>''Nintendo Dream'' Vol. 205, May 2011 ([https://web.archive.org/web/20110402003550/http://shellspider.blog101.fc2.com/blog-entry-562.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream/ Translation by Dr. Lava])</ref>
+
+===Origin===
+Foongus appears to be based on ''{{wp|Amanita muscaria}}'' or mushrooms of the ''{{wp|Agaricus}}'' genus, due to it being {{type|Poison}}. Like {{p|Voltorb}} and its {{p|Electrode|evolved form}}, the idea of them being mistaken for the standard Item Balls is similar to a {{wp|Mimic (Dungeons & Dragons)|mimic}}, a monster archetype commonly found in RPGs. It disguising as an useful object and its Poison-type could also generally be a reference to {{wp|mushroom poisoning|poisonous mushrooms}} which look like {{wp|edible mushroom}}s.
+
+====Name origin====
+Foongus may be a combination of ''fool'' (to deceive) and ''fungus''. Together with {{p|Amoonguss|its Evolution}}, their names are a corruption of the phrase, "Fungus among us." This is confirmed by Ali the [[Student (Trainer class)|Student]] in [[North Province (Area Two)]] in [[Pokémon Scarlet and Violet]].
+
+Tamagetake may be a combination of 玉 ''tama'' (sphere), 魂消る ''tamageru'' (to be astonished), and 茸 ''take'' ({{wp|mushroom}}).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Poison
+|ja=タマゲタケ ''Tamagetake''|jameaning=From {{tt|玉 ''tama''|sphere}}, {{tt|魂消る ''tamageru''|to be astonished}}, and {{tt| 茸 ''take''|mushroom}}
+|fr=Trompignon|frmeaning=From ''{{tt|tromper|to deceive}}'' and ''{{tt|champignon|mushroom}}''
+|es=Foongus|esmeaning=Same as English name
+|de=Tarnpignon|demeaning=From ''{{tt|Tarnung|camouflage}}'' and ''{{tt|Champignon|white mushroom}}''
+|it=Foongus|itmeaning=Same as English name
+|ko=깜놀버슬 ''Kamnolberseul''|komeaning=From {{tt|깜놀 ''kkamnol''|contraction of the word ''surprised''}}, {{tt|버섯 ''beoseot''|mushroom}}, and {{tt|구슬 ''guseul''|sphere}}
+|zh_cmn=哎呀球菇 ''Āiyāqiúgū''{{tt|*|Games}}<br>寶貝球菇 ''Bǎobèiqiúgū''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|哎呀 ''Āiyā!''|interjection indicating surprise}}, {{tt|球 ''qiú''|sphere, ball}}, and {{tt|菇 ''gū''|mushroom}}<br>From {{tt|寶貝球 ''Bǎobèi-qiú''|Poké Ball}}, {{tt|寶貝 ''bǎobèi''|baby}}, {{tt|球 ''qiú''|sphere, ball}}, and {{tt|菇 ''gū''|mushroom}}
+|zh_yue=哎呀球菇 ''Āaiyākàuhgū''{{tt|*|Games}}<br>精靈球菇 ''Jīnglìhngkàuhgū''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|哎呀 ''Āaiyā!''|interjection indicating surprise}}, {{tt|球 ''kàu''|sphere, ball}}, and {{tt|菇 ''gū''|mushroom}}<br>From {{tt|精靈球 ''Jīnglìhng-kàuh''|Poké Ball}}, {{tt|球 ''kàuh''|sphere, ball}}, and {{tt|菇 ''gū''|mushroom}}
+|hi=मशहैरान ''Mushhairan''|himeaning=From ''mushroom'' or {{tt|मशहूर ''maśhūr''|famous/reputed}} and {{tt|हैरान ''hairān''|surprised/astonished}}
+|ru=Фунгус ''Fungus''|rumeaning=Transcription of English name
+|th=ทามาเกะทาเคะ ''Thamakethakhe''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+*[[Foongy]]
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0589|prev=Escavalier|nextnum=0591|next=Amoonguss}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Tarnpignon]]
+[[es:Foongus]]
+[[fr:Trompignon]]
+[[it:Foongus]]
+[[ja:タマゲタケ]]
+[[zh:哎呀球菇]]

@@ -1,0 +1,301 @@
+{{PokémonPrevNext/Head|type=Fire|type2=Bug}}
+{{PokémonPrevNext/GO|species=Sizzlipede}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=0849|prev=Toxtricity|nextnum=0851|next=Centiskorch|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Sizzlipede
+|jname=ヤクデ
+|tmname=Yakude
+|ndex=0850
+|type1=Fire
+|type2=Bug
+|category=Radiator
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=2.2
+|weight-kg=1.0
+|abilityn=d
+|ability1=Flash Fire
+|ability2=White Smoke
+|abilityd=Flame Body
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|evtotal=1
+|evat=1
+|expyield=61
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=190
+|body=10
+|pokefordex=sizzlipede
+|generation=8
+|friendship=50
+}}
+'''Sizzlipede''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤクデ''' ''Yakude'') is a dual-type {{2t|Fire|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Centiskorch}} starting at [[level]] 28.
+
+==Biology==
+Sizzlipede is an insectoid {{OBP|Pokémon|species}} with a long, flat body. Its thorax and head are mainly red-orange with dark brown sections across its body and yellow rings on its underside which can get very hot. Two fiery whiskers protrude from its face, and it uses its short stubby legs to move around.
+ 
+Sizzlipede uses its coils to wrap around the prey before using its heated body to cook it. Sizzlipede, much like its evolved form Centiskorch, can generate heat using the flammable gas stored within its body. Once the prey is cooked to well-done, it will voraciously nibble at them piece by piece until the last morsel. Sizzlipede is related to {{p|Skorupi}}, with the two sharing a common ancestor. It is a similar species to {{p|Venipede}}, but often gets into fights with it whenever the two meet.
+
+===Evolution===
+Sizzlipede evolves into {{p|Centiskorch}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Fire
+|type2=Bug
+|pictype=art
+|no1=0850
+|name1=Sizzlipede
+|type1-1=Fire
+|type2-1=Bug
+|evo1=
+|no2=0851
+|name2=Centiskorch
+|type1-2=Fire
+|type2-2=Bug}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fire|type2=Bug}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=159|reg2=Galar|label2=Crown Tundra|num2=099|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It wraps prey up with its heated body, cooking them in its coils. Once they're well-done, it will voraciously nibble them down to the last morsel.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire|type2=Bug}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|3|Galar}}, [[Motostoke Stadium]]{{tt|*|Only as part of the Gym Challenge}}<br>[[Stony Wilderness/Dens|Stony Wilderness]], [[Giant's Cap/Dens|Giant's Cap]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Dusty Bowl/Dens|Dusty Bowl]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Foot]]<br>[[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=fire|type2=Fire|lochide=yes}}
+{{eventAvail|{{gameabbrev8|Sh}}|Wild Area News|No|hide|17|November 15, 2019 to January 9, 2020|link=Wild Area News#November 15 to December 4, 2019}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fire
+|type2=Bug
+|HP=50
+|Attack=65
+|Defense=45
+|SpAtk=50
+|SpDef=50
+|Speed=45
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fire
+|type2=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=400
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=200
+|Grass=25
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|flashfire=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Sizzlipede|Fire|Bug|8}}
+{{learnlist/level8|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level8|1|Smokescreen|Normal|Status|—|100|20}}
+{{learnlist/level8|5|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level8|10|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level8|15|Flame Wheel|Fire|Physical|60|100|25||'''}}
+{{learnlist/level8|20|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level8|25|Coil|Poison|Status|—|—|20}}
+{{learnlist/level8|30|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level8|35|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/level8|40|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level8|45|Fire Lash|Fire|Physical|80|100|15||'''}}
+{{learnlist/level8|50|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/level8|55|Burn Up|Fire|Special|130|100|5||'''}}
+{{learnlist/levelf/8|Sizzlipede|Fire|Bug|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Sizzlipede|Fire|Bug|8}}
+{{learnlist/tm8|TM13|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM74|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM97|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR32|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tr|TR36|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/tr|TR61|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tr|TR72|Power Whip|Grass|Physical|120|85|10}}
+{{learnlist/tr|TR84|Scald|Water|Special|80|100|15}}
+{{learnlist/tr|TR88|Heat Crash|Fire|Physical|—|100|10||'''}}
+{{learnlist/tmf/8|Sizzlipede|Fire|Bug|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Sizzlipede|Fire|Bug|8}}
+{{learnlist/breed8|{{MSP/8c|543|Venipede}}{{MSP/8c|544|Whirlipede}}{{MSP/8c|545|Scolipede}}{{MSP/8c|767|Wimpod}}{{MSP/8c|768|Golisopod}}|Defense Curl|Normal|Status|—|—|40|grid=7}}
+{{learnlist/breed8|{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}|Knock Off|Dark|Physical|65|100|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|213|Shuckle}}{{MSP/8c|543|Venipede}}{{MSP/8c|544|Whirlipede}}{{MSP/8c|545|Scolipede}}|Rollout|Rock|Physical|30|90|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|213|Shuckle}}{{MSP/8c|415|Combee}}{{MSP/8c|616|Shelmet}}{{MSP/8c|617|Accelgor}}{{MSP/8c|742|Cutiefly}}{{MSP/8c|743|Ribombee}}{{MSP/8c|767|Wimpod}}{{MSP/8c|768|Golisopod}}{{MSP/8c|824|Blipbug}}{{MSP/8c|825|Dottler}}{{MSP/8c|826|Orbeetle}}{{MSP/8c|872|Snom}}{{MSP/8c|873|Frosmoth}}|Struggle Bug|Bug|Special|50|100|20||'''|grid=7}}
+{{learnlist/breedf/8|Sizzlipede|Fire|Bug|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Sizzlipede|Fire|Bug|8}}
+{{learnlist/tutor8|Scorching Sands|Ground|Special|70|100|10|||no|yes}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Sizzlipede|Fire|Bug|8}}
+
+====By {{pkmn2|event}}s====
+{{learnlist/eventh/8|Sizzlipede|Fire|Bug|8}}
+{{learnlist/event8|[[Wild Area News#December 4, 2019 - January 9, 2020|Wild Area News]]{{sup/8|Sh}}|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/eventf/8|Sizzlipede|Fire|Bug|8}}
+
+===Side game data===
+{{Spindata/Head|type=Fire|type2=Bug}}
+{{Spindata/GO|col=6|type=Fire|ndex=0850
+|egg=N/A
+|buddy=5
+|candy=Sizzlipede
+|evocandy=50
+|stamina=137
+|attack=118
+|defense=90
+|fast={{m|Bug Bite}}, {{m|Ember}}
+|special={{m|Crunch}}, {{m|Heat Wave}}, {{m|Bug Buzz}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Fire
+|type2=Bug
+|pictype=art
+|no1=0850
+|name1=Sizzlipede
+|type1-1=Fire
+|type2-1=Bug
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 28}}
+|no2=0851
+|name2=Centiskorch
+|type1-2=Fire
+|type2-2=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=Fire|type2=Bug}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=850}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0850}}
+{{Spritebox/Footer|850|Sizzlipede}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+[[File:Rampaging Dynamax Pokémon Adventures.png|thumb|250px|Sizzlipede in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A [[Dynamax]]ed Sizzlipede appeared in ''[[PASS27|Shock!! Chairman Rose's Plan]]'' during the [[Darkest Day]].
+{{-}}
+
+==In the TCG==
+{{main|Sizzlipede (TCG)}}
+==Trivia==
+* Sizzlipede and its Evolution were designed by [[James Turner]].<ref>[https://twitter.com/JamesTurner_42/status/1726989880151220600 Tweet by James Turner (@JamesTurner_42).] Posted on November 21, 2023.</ref>
+* Sizzlipede is the lightest {{OBP|Pokémon|species}} to learn {{m|Heat Crash}}.
+* Despite the {{p|Scolipede}} and Centiskorch evolutionary lines living in different parts of the [[Galar]] [[region]], both {{p|Venipede}} and Scolipede's [[Pokédex entry|Pokédex entries]] speak of their hostile relationship with the latter family.
+* Sizzlipede and its evolved form, {{p|Centiskorch}}, are the only {{type|Fire}} Pokémon [[List of Pokémon by shape#Pokémon with tentacles or a multiped body|with a multiped body]].
+
+===Origin===
+Sizzlipede seems to be based on {{wp|radiator}}s and on {{wp|centipede}}s, like ''Orphaneus brevilabiatus'', also known as fire centipede due to its bioluminescence. It may also be inspired by millipedes with the same ability, like the {{wp|Motyxia|Sierra luminous millipedes}}.
+
+====Name origin====
+Sizzlipede may be a combination of ''sizzle'' and ''millipede'' or ''centipede''.
+
+Yakude may be a combination of 焼く ''yaku'' (to burn) and 蚰蜒 ''yasude'' (millipede) or 百足 ''mukade'' (centipede).
+
+==In other languages==
+{{Other languages|type=Fire|type2=Bug
+|ja=ヤクデ ''Yakude''|jameaning=From {{tt|焼く ''yaku''|to burn}} and {{tt|蚰蜒 ''yasude''|millipede}} or {{tt|百足 ''mukade''|centipede}}
+|fr=Grillepattes|frmeaning=From ''{{tt|griller|grille}}'' and ''{{tt|mille-pattes|millipede}}''
+|es=Sizzlipede|esmeaning=Same as English name
+|de=Thermopod|demeaning=From {{tt|θερμός ''thermós''|Ancient Greek for hot}} and ''{{wp|Centipede|Chilopoda}}''
+|it=Sizzlipede|itmeaning=Same as English name
+|ko=태우지네 ''Taeujine''|komeaning=From {{tt|태우다 ''taeuda''|to burn}} and {{tt|지네 ''jine''|centipede}}
+|zh_cmn=燒火蚣 / 烧火蚣 ''Shāohuǒgōng''|zh_cmnmeaning=From {{tt|燒火 / 烧火 ''shāohuǒ''|to make fire}} and {{tt|蜈蚣 ''wúgōng''|centipede}}
+|zh_yue=燒火蚣 ''Sīufógūng''|zh_yuemeaning=From {{tt|燒火 ''sīufó''|to make fire}} and {{tt|蜈蚣 ''ǹgh-gūng''|centipede}}
+|hi=जूराबर्न ''Jooraburn''|himeaning=From {{tt|कनखजूरा ''kankhajūrā''|centipede}} and ''burn''
+|th=ยาคุเดะ ''Yakhude''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Fire|type2=Bug}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=0849|prev=Toxtricity|nextnum=0851|next=Centiskorch}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Thermopod]]
+[[es:Sizzlipede]]
+[[fr:Grillepattes]]
+[[it:Sizzlipede]]
+[[ja:ヤクデ]]
+[[zh:烧火蚣]]

@@ -1,0 +1,306 @@
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/GO|species=Silicobra}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0842|prev=Appletun|nextnum=0844|next=Sandaconda|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Silicobra
+|jname=スナヘビ
+|tmname=Sunahebi
+|ndex=0843
+|type1=Ground
+|category=Sand Snake
+|height-ftin=7'03"
+|height-m=2.2
+|weight-lbs=16.8
+|weight-kg=7.6
+|abilityn=d
+|ability1=Sand Spit
+|ability2=Shed Skin
+|abilityd=Sand Veil
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Dragon
+|eggcycles=20
+|evtotal=1
+|evde=1
+|expyield=63
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|catchrate=255
+|body=02
+|pokefordex=silicobra
+|generation=8
+|friendship=50
+}}
+'''Silicobra''' ([[List of Japanese Pokémon names|Japanese]]: '''スナヘビ''' ''Sunahebi'') is a {{type|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Sandaconda}} starting at [[level]] 36.
+
+==Biology==
+Silicobra is a {{OBP|Pokémon|species}} which resembles a small snake. Its body is mostly brownish white with a few darker spots, and its tail is curled at the tip. It has oval green eyes with black pupils, each one surrounded by a brown spot similar to a sand stain and a brown protuberant ridge above it. Paired with its crooked downward mouth, its face is similar to a frown. It also has two big nostrils.
+
+Silicobra has a dark yellow pouch around its neck, which it uses to store more than 17 pounds (8 kg) of sand. The pouch gets more elastic with every time Silicobra sheds its skin. Silicobra collects sand by swallowing it and shoots the sand from its nostrils, an ability it uses to blind predators so it can escape by burrowing into the ground. It also burrows into the sand in order to ambush its prey. Because Silicobra's nostrils are specialized for shooting out sand, it has a poor sense of smell.
+
+Silicobra and its Evolution, {{p|Sandaconda}}, are the [[Signature Ability|only known Pokémon]] that can have {{a|Sand Spit}} as an [[Ability]].
+
+===Evolution===
+Silicobra evolves into {{p|Sandaconda}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=0843
+|name1=Silicobra
+|type1-1=Ground
+|evo1=
+|no2=0844
+|name2=Sandaconda
+|type1-2=Ground}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=312|reg2=Galar|label2=Isle of Armor|num2=174|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than {{tt|17 pounds|8 kg}} of sand.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=270|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Silicobra’s neck pouch, which can inflate and deflate like a balloon, gets more elastic each time Silicobra sheds its skin.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Silicobra's large nostrils are specialized for spraying sand, so this Pokémon is not very good at telling apart different smells.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{ground color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{ground color light}}; background:#{{ground color light}} | [[File:Pokédex Image Silicobra SV.png|x200px]]
+|-
+| Silicobra in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ground}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Galar Route 6|Route 6]]<br>[[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Forest of Focus]], [[Training Lowlands]], [[Challenge Road]], [[Potbottom Desert]]}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[East Province (Area Three)|Area Three]]<br>West Province: [[Asado Desert]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Silicobra|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+====In side games====
+{{Availability/Header|type=Ground}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Sweltering Sands]], [[Barren Badlands]]<sup><span style="color:#F05D31;">Day</span></sup>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ground
+|HP=52
+|Attack=57
+|Defense=75
+|SpAtk=35
+|SpDef=50
+|Speed=46
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Silicobra|Ground|Ground|8}}
+{{learnlist/level9|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|5|Minimize|Normal|Status|—|—|10}}
+{{learnlist/level9|10|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/level9|15|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|20|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|25|Glare|Normal|Status|—|100|30}}
+{{learnlist/level9|30|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level9|35|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level9|40|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level9|45|Coil|Poison|Status|—|—|20}}
+{{learnlist/level9|50|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/levelf/9|Silicobra|Ground|Ground|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Silicobra|Ground|Ground|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM026|Poison Tail|Poison|Physical|50|100|25}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM106|Drill Run|Ground|Physical|80|95|10||'''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM200|Scale Shot|Dragon|Physical|25|90|20}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tmf/9|Silicobra|Ground|Ground|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Silicobra|Ground|Ground|8}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0326|Grumpig}}{{MSP/H|0336|Seviper}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0916|Oinkologne}}|Belch|Poison|Special|120|90|10}}
+{{learnlist/breed9|{{MSP/H|0147|Dratini}}{{MSP/H|0148|Dragonair}}{{MSP/H|0149|Dragonite}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}{{MSP/H|0443|Gible}}{{MSP/H|0444|Gabite}}{{MSP/H|0445|Garchomp}}{{MSP/H|0633|Deino}}{{MSP/H|0634|Zweilous}}{{MSP/H|0635|Hydreigon}}{{MSP/H|0841|Flapple}}{{MSP/H|0886|Drakloak}}{{MSP/H|0887|Dragapult}}{{MSP/H|0967|Cyclizar}}|Dragon Rush|Dragon|Physical|100|75|10}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0231|Phanpy}}{{MSP/H|0417|Pachirisu}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0886|Drakloak}}{{MSP/H|0887|Dragapult}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/breed9|{{MSP/H|0050|Diglett}}{{MSP/H|0050-Alola|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0328|Trapinch}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0968|Orthworm}}|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/breed9|{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0980|Clodsire}}{{MSP/H|0336|Seviper}}{{MSP/H|0690|Skrelp}}{{MSP/H|0691|Dragalge}}{{MSP/H|0706|Goodra}}|Poison Tail|Poison|Physical|50|100|25}}
+{{learnlist/breedf/9|Silicobra|Ground|Ground|8}}
+
+===Side game data===
+{{Spindata/Head|type=Ground}}
+{{Spindata/GO|col=6|type=Ground|ndex=0843
+|hatch=N/A
+|buddy=3
+|candy=Silicobra
+|evocandy=50
+|stamina=141
+|attack=103
+|defense=123
+|fast={{m|Mud-Slap}}, {{m|Mud Shot}}
+|special={{m|Dig}}, {{m|Bulldoze}}, {{m|Earth Power}}, {{m|Wrap}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Ground|ndex=843|pdex=131
+|dex=Silicobra is often hiding inside the sand, waiting to catch some {{pkmn|food}}. But it jumps right out of its hiding place when something catches its interest... It must be a very curious Pokémon!}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=0843
+|name1=Silicobra
+|type1-1=Ground
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 36}}
+|no2=0844
+|name2=Sandaconda
+|type1-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=843}}
+<!--{{Spritebox/9|ndex=0843}}-->
+{{Spritebox/HOME|ndex=0843}}
+{{Spritebox/Footer|843|Silicobra}}
+
+==In animation==
+===Main series===
+[[File:Silicobra anime.png|thumb|250px|Silicobra in {{aniseries|JN}}]]
+====Major appearances====
+====Minor appearances====
+Silicobra debuted in ''[[JN028|Sobbing Sobble!]]'', where [[Goh]] attempted to {{pkmn2|caught|catch}} it while in [[Wyndon]] using his newly caught {{TP|Goh|Sobble}}. However, he failed, and Sobble subsequently ran off.
+
+A {{pkmn|Trainer}}'s Silicobra appeared in ''[[HZ048|Sparkle! The Glow of Flame and Art]]''.
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN028|Silicobra|Goh's Rotom Phone|Silicobra, the Sand Snake Pokémon. A {{t|Ground}} type. When Silicobra digs a hole, it swallows sand that it store in a pouch in its neck, so it can spray it out later.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+==In the TCG==
+{{main|Silicobra (TCG)}}
+==Trivia==
+* Silicobra's Japanese name and {{pkmn|category}} are identical, with the only difference being in how they are written: Silicobra's Japanese name is written in katakana (スナヘビ), while its category name is written in hiragana (すなへび). Silicobra is the only Pokémon with this distinction.
+
+===Origin===
+Silicobra resembles various snakes, and the sand pouch around its neck is similar to the hood of a {{wp|cobra}}. It may be specifically based on the {{wp|false cobra}}, a species that lives in deserts of North Africa and the Middle East, named so because much like a cobra, it can flare its neck into a hood when threatened.
+
+With its ability to shoot sand from its nostrils as a defense mechanism, Silicobra may be inspired by {{wp|spitting cobra}}s, which spit venom out of their fangs in much the same way.
+
+====Name origin====
+Silicobra may be a combination of ''{{wp|silicon}}'' (basic constituent of sand) and ''{{wp|cobra}}''. It may also incorporate ''{{wp|silt}}''.
+
+Sunahebi may be a combination of 砂 ''suna'' (sand) and 蛇 ''hebi'' (snake).
+
+==In other languages==
+{{Other languages|type=Ground|type2=Ground
+|ja=スナヘビ ''Sunahebi''|jameaning=From {{tt|砂 ''suna''|sand}} and {{tt|蛇 ''hebi''|snake}}
+|fr=Dunaja|frmeaning=From ''dune'' and ''{{wp|Naja|{{tt|Naja|genus of cobras}}}}''
+|es=Silicobra|esmeaning=Same as English name
+|de=Salanga|demeaning=From ''Sand'' and ''{{tt|Schlange|snake}}''
+|it=Silicobra|itmeaning=Same as English name
+|ko=모래뱀 ''Moraebaem''|komeaning=From {{tt|모래 ''morae''|sand}} and {{tt|뱀 ''baem''|snake}}
+|zh_cmn=沙包蛇 ''Shābāoshé''|zh_cmnmeaning=From {{tt|沙 ''shā''|sand}}, {{tt|包 ''bāo''|to wrap; pouch}} , {{tt|沙包 ''shābāo''|sandbag, punching bag}}, and {{tt|蛇 ''shé''|snake}}
+|zh_yue=沙包蛇 ''Sābāausèh''|zh_yuemeaning=From {{tt|沙 ''sā''|sand}}, {{tt|包 ''bāau''|to wrap; pouch}} , {{tt|沙包 ''sābāau''|sandbag, punching bag}}, and {{tt|蛇 ''sèh''|snake}}
+|hi=सैंडसर्प ''Sandserp''|himeaning=From ''sand'' and {{tt|सर्प ''sarp''|snake}} (or ''serpent'' / ''serpentine'')
+|th=ซึนะเฮบิ ''Suenahebi''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0842|prev=Appletun|nextnum=0844|next=Sandaconda}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Salanga]]
+[[es:Silicobra]]
+[[fr:Dunaja]]
+[[it:Silicobra]]
+[[ja:スナヘビ]]
+[[zh:沙包蛇]]

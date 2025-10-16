@@ -1,0 +1,745 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Tangela}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0113|prev=Chansey|nextnum=0115|next=Kangaskhan|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Tangela
+|jname=モンジャラ
+|tmname=Monjara
+|ndex=0114
+|typebox=1
+|type1=Grass
+|category=Vine
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=77.2
+|weight-kg=35.0
+|abilityn=d
+|ability1=Chlorophyll
+|ability2=Leaf Guard
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Regenerator
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=1
+|evde=1
+|expyield=87
+|oldexp=166
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|catchrate=45
+|body=07
+|pokefordex=tangela
+|generation=1
+|friendship=70
+}}
+'''Tangela''' ([[List of Japanese Pokémon names|Japanese]]: '''モンジャラ''' ''Monjara'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Tangrowth}} when [[level]]ed up while knowing {{m|Ancient Power}}.
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+[[File:Tangela178PokémonCard151.jpg|thumb|150px|left|Tangela swinging on a tree branch]]
+Tangela is a {{wp|plant}} {{OBP|Pokémon|species}} covered by blue, seaweed-like vines that obscure its face. There is a small opening in the vines that reveals its eyes surrounded by a black space. The vines give Tangela a round shape, but it is unknown what it looks like without them. Its vines are covered in fine hair and are always growing. If damaged or lost, replacements are {{a|Regenerator|quickly grown back}}. There is a pair of red boot-like feet poking out from under the vines, but no visible arms.
+
+Tangela can ensnare and entangle anything that moves too close to it with its vines. The vines constantly jiggle and sway, unnerving enemies and causing a tickling sensation if ensnared. Tangela's vines will snap off easily and painlessly if the target pulls on them, so it can quickly escape. The vines of Tangela are said to have a refreshing flavor and scent. In [[Galar]], its vines are used as herbs. Tangela has been sighted in {{DL|List of Pokémon by habitat|Grassland Pokémon|temperate grasslands}} and swamps, and has been known to playfully swing on tree branches using its vines.
+
+===Evolution===
+Tangela evolves into {{p|Tangrowth}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Grass
+|pictype=art
+|no1=0114
+|name1=Tangela
+|type1-1=Grass
+|evo1=
+|no2=0465
+|name2=Tangrowth
+|type1-2=Grass}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=114}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.}}
+{{Dex/Entry1|v=Yellow|entry=Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Its identity is obscured by countless blue vines that are similar to seaweed. Will become entangled with anything.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=179}}
+{{Dex/Entry1|v=Gold|entry=The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.}}
+{{Dex/Entry1|v=Silver|entry=It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.}}
+{{Dex/Entry1|v=Crystal|entry=During battle, it constantly moves the vines that cover its body in order to annoy its opponent.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=The vines that cloak its entire body are always jiggling. They effectively unnerve its foes. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=114}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Tangela</sc>'s vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.}}
+{{Dex/Entry1|v=FireRed|entry=Blue plant vines cloak the {{ScPkmn}}'s identity in a tangled mass. It entangles anything that gets close.}}
+{{Dex/Entry1|v=LeafGreen|entry=The whole body is swathed with wide vines that are similar to seaweed. The vines sway as it walks.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=181|label1={{gameIcon|Pt}}:|reg2=Johto|num2=182}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.}}
+{{Dex/Entry1|v=Platinum|entry=The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.}}
+{{Dex/Entry1|v=HeartGold|entry=The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.}}
+{{Dex/Entry1|v=SoulSilver|entry=It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=217|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|entry=Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=114}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=080|label1=Isle of Armor|reg2=Sinnoh|reg3=Hisui|num3=095}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The vines of a Tangela have a distinct scent. In some parts of Galar, Tangela vines are used as herbs.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed—they're useful as a spice.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=grass}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{rt|21|Kanto}}<br>[[In-game trade#Red and Blue|Trade]] {{p|Venonat}} at the [[Cinnabar Lab|Pokémon Lab]] on [[Cinnabar Island]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{rt|21|Kanto}}}}
+{{Availability/Entry1|v=Yellow|area={{safari|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|21|Kanto}}, {{rtn|28|Kanto}}, and {{rtn|44|Johto}}, [[Mt. Silver]]}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|21|Kanto}}, {{rtn|28|Kanto}}, and {{rtn|44|Johto}}, [[Mt. Silver]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{rt|21|Kanto}}, [[Treasure Beach]]<br>[[In-game trade#FireRed and LeafGreen|Trade]] {{p|Venonat}} at the [[Cinnabar Lab|Pokémon Lab]] on [[Cinnabar Island]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl|area=[[Trade]], {{pkmn|breeding|breed}} {{DL|Tangrowth (Pokémon)|In events|event}} {{p|Tangrowth}}}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|21|Kanto}}, {{rtn|28|Kanto}}, and {{rtn|44|Johto}}, [[Mt. Silver]]<br>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|18|Kanto}}, {{rtn|21|Kanto}}, [[Fuchsia City]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Big Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|13|Unova}}, [[Giant Chasm]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|13|Unova}}, [[Giant Chasm]]<br>{{rt|13|Unova}} ([[Hidden Grotto]]){{tt|*|Near entrance to Giant Chasm}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Grass-type Safari|Grass]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Mirage Forests|Mirage Forest]] (north of [[Lilycove City]], east of [[Mossdeep City]], west of {{rt|114|Hoenn}}, north of {{rt|124|Hoenn}}), [[Mirage Islands|Mirage Island]] (west of [[Dewford Town]]), [[Mirage Mountains|Mirage Mountain]] (north of {{rt|125|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area={{rt|21|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Forest of Focus]]<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Grand Underground]] - [[Swampy Cave]], [[Bogsunk Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Crimson Mirelands]]:''' [[Gapejaw Bog]] and nearby, near [[Cottonsedge Prairie]], massive [[mass outbreak]]s<br>'''[[Cobalt Coastlands]]:''' near [[Crossing Slope]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=grass}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Red Field|Red]] and [[Blue Field]]: [[Cinnabar Island]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 13]], Endless Level 43, Forever Level 2, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Lapis Cave]] (9F-12F), [[Joyous Tower]] (47F-50F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Krokka Tunnel]], [[Waterworks]], [[Jungle Relic]], [[Sekra Range]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Waterfall Cave]] (B1F-B8F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Waterfall Cave]] (B1F-B8F)}}
+{{Availability/Entry1|v=Ranch|color={{diamond color}}|link=My Pokémon Ranch|area=[[Hayley's trades]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie]] <small>(Normal Mode A & S, Advanced Mode C & A)</small>}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Soothing Shore]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Wonder Area#Go Big or Go Home!|Wonder Area: Go Big or Go Home!]],<br>[[Chill Battle#Chill Battle|Unidentified Flying Objects]], [[Chill Battle#Garden Keepers|Chill Battle: Garden Keepers]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 1|Safari Jungle: Stage 1]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Mineral Crust Hollow|Legend Terrain: Mineral Crust Hollow]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Pinsir Sea]], [[Celebi Sea]], [[Garchomp Sea]], [[Bulbasaur Sea]], [[Arceus Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Celebi Sea]]<sup>Final</sup>, [[Garchomp Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Lapis Cave]] (9F-14F), [[Joyous Tower]] (47F-50F), [[Purity Forest]] (48F-50F), [[Oddity Cave]] (7F-8F), [[Remains Island]] (7F-9F), [[Marvelous Sea]] (7F-9F), [[Fantasy Strait]] (7F-9F)<br/>Mystery House: [[Pitfall Valley]], [[Darknight Relic]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Wacky Workshop|Wacky Workshop: Stage 178]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area={{mas|Battle Point|BP Sync Pair Voucher}}: {{sync|Erika|Tangela}}<br>[[Egg event]]s (''{{DL|Egg event|Grass- and Poison-Type Egg Event}}'', ''{{DL|Egg event|Grass-, Ghost-, and Poison-Type Egg Event}}''): {{sync/player|egg|Tangela}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=grass}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Synthesis Tangela|English|United States|5|November 1 to 7, 2002;<br>January 3 to 9, 2003|link=List of PCNY event Pokémon distributions in Generation II#Synthesis Tangela}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=grass}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Bitter Berry|image=None.png|100|rows=2}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|FireRed|LeafGreen|Pokémon FireRed and LeafGreen}}
+{{HeldItems/Items1|Stardust|100|availNote=[[In-game trade]], &#32;}}
+{{HeldItems/Games1|XD|tcolor=fff|Pokémon XD: Gale of Darkness}}
+{{HeldItems/Items1|Miracle Seed|100}}
+{{HeldItems/Games1|Ranch|gcolor=a46931|My Pokémon Ranch}}
+{{HeldItems/Items1|Coba Berry|100}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Medicinal Leek|40|Ball of Mud|15|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=65
+|Attack=55
+|Defense=115
+|SpAtk=100
+|SpDef=40
+|Special=100
+|Speed=60
+|type=Grass}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=4
+|Technique=4
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=grass
+|Normal=100
+|Flying=200
+|Fighting=100
+|Ground=50
+|Rock=100
+|Bug=200
+|Poison=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+Tangela is available in {{pkmn|Sword and Shield}} Version 1.2.0+, {{pkmn|Brilliant Diamond and Shining Pearl}}, and [[Pokémon Legends: Arceus]].
+
+====By [[Level|leveling up]]====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/levelh/8|Tangela|Grass|Grass|1}}
+{{learnlist/level8|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level8|1|Bind|Normal|Physical|15|85|20}}
+{{learnlist/level8|4|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level8|8|Growth|Normal|Status|—|—|20}}
+{{learnlist/level8|12|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level8|16|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level8|20|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/level8|24|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level8|28|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/level8|32|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level8|36|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/level8|40|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level8|44|Tickle|Normal|Status|—|100|20}}
+{{learnlist/level8|48|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/level8|52|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/level8|56|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/levelf/8|Tangela|Grass|Grass|1}}
+
+{{gameabbrev8|LA}}
+{{learnlist/levelh/LA|Tangela|Grass|Grass|1}}
+{{learnlist/levelLA|1|10|Absorb|Grass|Special|30|40|20|100|100|20||'''}}
+{{learnlist/levelLA|6|15|Stun Spore|Grass|Status|—|—|—|80|100|20||}}
+{{learnlist/levelLA|11|20|Poison Powder|Poison|Status|—|—|—|80|100|20||}}
+{{learnlist/levelLA|15|24|Acid Spray|Poison|Special|40|50|30|100|100|20||}}
+{{learnlist/levelLA|18|28|Double Hit|Normal|Status|—|—|—|—|—|10||}}
+{{learnlist/levelLA|25|35|Energy Ball|Grass|Special|80|100|60|100|100|10||'''}}
+{{learnlist/levelLA|34|45|Ancient Power|Rock|Special|60|75|45|100|100|15||}}
+{{learnlist/levelLA|43|54|Sleep Powder|Grass|Status|—|—|—|80|100|20||}}
+{{learnlist/levelf/8|Tangela|Grass|Grass|1}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Tangela|Grass|Grass|1}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm8|TM18|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM50|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM60|Power Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM88|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR17|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR59|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tr|TR71|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tr|TR72|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tmf/8|Tangela|Grass|Grass|1}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Tangela|Grass|Grass|1}}
+{{learnlist/tm8|TM09|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm8|TM15|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM19|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|—|—|15||}}
+{{learnlist/tm8|TM33|Reflect|Psychic|Status|—|—|20||}}
+{{learnlist/tm8|TM34|Shock Wave|Electric|Special|60|—|20||}}
+{{learnlist/tm8|TM36|Sludge Bomb|Poison|Special|90|100|10||}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|—|—|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|—|100|15||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM68|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm8|TM70|Flash|Normal|Status|—|100|20||}}
+{{learnlist/tm8|TM75|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm8|TM77|Psych Up|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM86|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|—|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||}}
+{{learnlist/tm8|TM98|Rock Smash|Fighting|Physical|40|100|15||}}
+{{learnlist/tmf/8|Tangela|Grass|Grass|1}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Tangela|Grass|Grass|2}}
+{{learnlist/breed8|{{MSP/8c|102|Exeggcute}}{{MSP/8c|103|Exeggutor}}{{MSP/8c|103A|Exeggutor}}|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/breed8|{{MSP/8c|546|Cottonee}}{{MSP/8c|547|Whimsicott}}{{MSP/8c|810|Grookey}}{{MSP/8c|811|Thwackey}}{{MSP/8c|812|Rillaboom}}|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/breed8|{{MSP/8c|270|Lotad}}{{MSP/8c|271|Lombre}}{{MSP/8c|272|Ludicolo}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|102|Exeggcute}}{{MSP/8c|103|Exeggutor}}{{MSP/8c|103A|Exeggutor}}{{MSP/8c|315|Roselia}}{{MSP/8c|407|Roserade}}{{MSP/8c|420|Cherubi}}{{MSP/8c|421|Cherrim}}{{MSP/8c|546|Cottonee}}{{MSP/8c|547|Whimsicott}}{{MSP/8c|556|Maractus}}{{MSP/8c|708|Phantump}}{{MSP/8c|709|Trevenant}}{{MSP/8c|764|Comfey}}{{MSP/8c|841|Flapple}}{{MSP/8c|842|Appletun}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed8|{{MSP/8c|270|Lotad}}{{MSP/8c|271|Lombre}}{{MSP/8c|272|Ludicolo}}{{MSP/8c|273|Seedot}}{{MSP/8c|274|Nuzleaf}}{{MSP/8c|275|Shiftry}}|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/breed8|{{MSP/8c|590|Foongus}}{{MSP/8c|591|Amoonguss}}|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/breedf/8|Tangela|Grass|Grass|2}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Tangela|Grass|Grass|2}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}|Amnesia|Psychic|Status|—|—|20|*|}}
+{{learnlist/breed8|{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}|Confusion|Psychic|Special|50|100|25||}}
+{{learnlist/breed8|{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}|Endeavor|Normal|Physical|—|100|5||}}
+{{learnlist/breed8|{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}|Flail|Normal|Physical|—|100|15||}}
+{{learnlist/breed8|{{MSP/H|0071|Victreebel}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0192|Sunflora}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0315|Roselia}}{{MSP/H|0407|Roserade}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0420|Cherubi}}{{MSP/H|0421|Cherrim}}|Leech Seed|Grass|Status|—|90|10||}}
+{{learnlist/breed8|{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0114|Tangela}}{{MSP/H|0465|Tangrowth}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0315|Roselia}}{{MSP/H|0407|Roserade}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/breed8|{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}|Nature Power|Normal|Status|—|—|20||}}
+{{learnlist/breed8|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}|Power Swap|Psychic|Status|—|—|10|*|}}
+{{learnlist/breed8|{{MSP/H|0046|Paras}}{{MSP/H|0047|Parasect}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}|Rage Powder|Bug|Status|—|—|20||}}
+{{learnlist/breedf/8|Tangela|Grass|Grass|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/tutorh/8|Tangela|Grass|Grass|2}}
+{{learnlist/tutor8|Grassy Glide|Grass|Physical|70|100|20||'''|no|yes}}
+{{learnlist/tutorf/8|Tangela|Grass|Grass|2}}
+
+{{gameabbrev8|LA}}
+{{learnlist/tutorh/PLA|Tangela|Grass|Grass|1}}
+{{learnlist/tutorPLA|Energy Ball|Grass|Special|80|100|60|100|100|10||'''}}
+{{learnlist/tutorPLA|Giga Impact|Normal|Physical|120|150|100|90|95|5||}}
+{{learnlist/tutorPLA|Hyper Beam|Normal|Special|120|150|100|90|95|5||}}
+{{learnlist/tutorPLA|Rest|Psychic|Status|—|—|—|—|—|10||}}
+{{learnlist/tutorPLA|Rock Smash|Fighting|Physical|40|50|30|100|100|20||}}
+{{learnlist/tutorPLA|Sludge Bomb|Poison|Special|80|100|60|100|100|10||}}
+{{learnlist/tutorf/8|Tangela|Grass|Grass|1}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Tangela|Grass|Grass|1}}
+{{learnlist/prevgen8|Tangela|1|Bide|Normal|Physical|—|—|10|I=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Constrict|Normal|Physical|10|100|35|I=yes<!--level-->|II=yes<!--level-->|III=yes<!--level-->|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level,level-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Curse|Ghost|Status|—|—|10|II=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Cut|Normal|Physical|50|95|30|I=yes<!--TM-->|II=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Double Team|Normal|Status|—|—|15|I=yes<!--TM-->|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Double-Edge|Normal|Physical|120|100|15|I=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Tangela|1|Flash|Normal|Status|—|100|20|II=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Frustration|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Headbutt|Normal|Physical|70|100|15|II=yes<!--TM-->|IV=yes<!--tutor-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Hidden Power|Normal|Special|60|100|15|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Infestation|Bug|Special|20|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Mimic|Normal|Status|—|—|10|I=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Tangela|1|Morning Sun|Normal|Status|—|—|5|III=event<!--XD-->}}
+{{learnlist/prevgen8|Tangela|1|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--level,TM-->|V=yes<!--level,breed-->|VI=yes<!--level,breed-->|VII=yes<!--level,breed-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Pain Split|Normal|Status|—|—|20|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Tangela|1|Psych Up|Normal|Status|—|—|10|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Rage|Normal|Physical|20|100|20|I=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Return|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Tangela|1|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Shock Wave|Electric|Special|60|—|20|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Tangela|1|Skull Bash|Normal|Physical|130|100|10|I=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Swagger|Normal|Status|—|85|15|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Sweet Scent|Normal|Status|—|100|20|II=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Synthesis|Grass|Status|—|—|5|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Tangela|1|Take Down|Normal|Physical|90|85|20|I=yes<!--TM-->}}
+{{learnlist/prevgen8|Tangela|1|Toxic|Poison|Status|—|90|10|I=yes<!--TM-->|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Tangela|1|Wake-Up Slap|Fighting|Physical|70|100|10|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Tangela|1|Worry Seed|Grass|Status|—|100|10|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Tangela|1|Wring Out|Normal|Special|—|100|5|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgenf/8|Tangela|Grass|Grass|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Double Kick}}
+| style="background:#fff; {{roundybr|5px}}" | [[Tangela (Aquapolis 112)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/Pinball|col=3|type=Grass|ndex=114|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=114|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=114
+|body=1
+|rate=7.4
+|area=Jungle
+|P1=Careful. You don't want to get tangled up in my vines.
+|P2=I don't like this! I'm already down to half health!
+|P3=I'm faltering... You have to help me...
+|PL=Oh, yes, yes! I've gotten my level!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=114
+|body=1
+|rate=6.4
+|IQ=G
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=114
+|coset=3
+|conto={{p|Pidgey}}, {{p|Venomoth}}
+|recruitment=Introduced by {{p|Pidgey}}
+|P1=What do you think is beneath all my thick tangles?
+|P2=Argh... This is getting rough...
+}}
+|-
+{{Spindata/Ranger|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|fieldpower=1
+|field=Cross
+|loop=2
+|MinEXP=30
+|MaxEXP=70
+|num=069
+|browser=Tangela can extend its vine and lasso a Post to cross a gap.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=114
+|walk=1.58
+|hp=52
+|attack=76
+|defense=55
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=114
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=114|num=224
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Stabilize
+|skilldesc=Sometimes erases one of the foe's disruptions on the board.
+|swapper=Constrict
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=114
+|hatch=N/A
+|buddy=3
+|candy=Tangela
+|evocandy=100 + {{bag/GO|Sinnoh Stone}}
+|stamina=163
+|attack=183
+|defense=169
+|fast={{m|Vine Whip}}, {{m|Infestation}}{{tt|*|From February 16, 2017 onward}}
+|special={{m|Grass Knot}}{{tt|*|From February 16, 2017 onward}}, {{m|Sludge Bomb}}, {{m|Solar Beam}}, {{m|Power Whip}}{{tt|†|Prior to February 16, 2017}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+Tangela [[Evolution|evolve]]s into {{p|Tangrowth}} when [[level]]ed up while knowing {{m|Ancient Power}}. Tangela cannot evolve into Tangrowth in {{LGPE}}, as Tangrowth is not present in those games.
+{{Evobox-2
+|type1=Grass
+|pictype=art
+|no1=0114
+|name1=Tangela
+|type1-1=Grass
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Bag TM Rock SV Sprite.png|40px|link=Ancient Power (move)]]<br>{{color2|000|Level|Level up}}<br>knowing {{color2|000|Ancient Power (move)|Ancient Power}}
+|no2=0465
+|name2=Tangrowth
+|type1-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/1|ndex=114}}
+{{Spritebox/2|ndex=114}}
+{{Spritebox/3|ndex=114}}
+{{Spritebox/4|ndex=114}}
+{{Spritebox/5|ndex=114}}
+{{Spritebox/6|ndex=114|crop=55}}
+{{Spritebox/7/PE|ndex=114|crop=58|PEcrop=110}}
+{{Spritebox/8/SwShLA|ndex=114|LAcrop=107}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0114}}
+{{Spritebox/Footer|114|Tangela}}
+
+==In animation==
+[[File:Tangela anime.png|thumb|250px|Tangela in {{aniseries|JN}}]]
+===Main series===
+====Major appearances====
+Tangela debuted in ''[[EP026|Pokémon Scent-sation!]]'', under the ownership of [[Erika]], who used it during her [[Gym]] {{pkmn|battle}} against {{Ash}}. It is a strong Pokémon that uses its vines and Stun Spore in order to incapacitate the opponent. During the battle, it managed to take out {{AP|Bulbasaur}} by using this combination. Erika then [[recall]]ed Tangela when Ash sent out his {{AP|Charmander}}. A second Tangela was seen in [[Celadon Gym]] as well. Erika's Tangela also appeared in ''[[M20|I Choose You!]]'', which is set in an alternate continuity of the main series; it was seen battling {{OBP|Ash's Pikachu|M20|Pikachu}} but was defeated.
+
+In ''[[AG065|Gulpin it Down]]'', [[Officer Jenny]] used a Tangela during an effort to stop the massive army of {{p|Gulpin}} that was encroaching the town.
+
+====Minor appearances====
+A Tangela appeared in ''[[EP034|The Kangaskhan Kid]]''.
+
+In ''[[EP052|Princess vs. Princess]]'', a Tangela battled [[Brock's Vulpix]] during the [[Queen of the Princess Festival]].
+
+In ''[[EP064|It's Mr. Mime Time]]'', [[Stella]] used a Tangela for her circus.
+
+In ''[[PK01|Pikachu's Vacation]]'', a Tangela was at the [[Pokémon Theme Park]].
+
+In ''[[EP080|Friends to the End]]'', a {{pkmn|Trainer}}'s Tangela attended the closing ceremonies of the [[Indigo Plateau Conference]].
+
+In ''[[M02|The Power of One]]'', a Tangela sensed the disturbance caused by [[Lawrence III]].
+
+A {{pkmn2|wild}} Tangela appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP169|Beauty and the Breeder]]'', a {{tc|Pokémon Breeder}}'s Tangela participated in the [[Pokémon Beauty Contest]].
+
+In ''[[EP178|The Grass Route]]'', a Trainer's Tangela competed in the [[Grass Tournament]].
+
+A Tangela appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+In ''[[EP223|Throwing in the Noctowl]]'', a Tangela lived at [[Wings Alexander]]'s barn.
+
+In ''[[EP227|For Ho-Oh the Bells Toll!]]'', multiple Tangela protected the [[Bell Tower|Tin Tower]] after {{TRT}} stole the [[Clear Bell|Crystal Bells]].
+
+In ''[[AG144|A Hurdle for Squirtle]]'', a {{pkmn|Coordinator}}'s Tangela competed in the [[Saffron City]] [[Pokémon Contest]].
+
+A Tangela appeared in ''[[AG156|From Cradle to Save]]'', under the ownership of a student at the [[Pokémon Ninja School]].
+
+In ''[[SM042|Alola, Kanto!]]'', four Tangela were living at Professor Oak's Laboratory.
+
+Two Tangela got tied up into each other's vines in ''[[JN067|Sleuths for Truth!]]''.
+
+A Trainer's Tangela appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Tangela appeared in [[HZ094]].
+
+A Trainer's Tangela appeared in [[HZ095]].
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP026|Tangela|Ash's Pokédex|Tangela, a Vine Pokémon. Its body is wrapped in vines. The rest of its form is hidden beneath these vines.}}
+{{Animedexfooter/Pokémon|Kanto}}
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', a Tangela briefly appeared under the ownership of a {{pkmn|Trainer}} in [[Ecruteak City]].
+{{-}}
+
+==In the manga==
+[[File:Lunick Tangela PR.png|thumb|250px|Tangela in [[Pokémon Ranger the Comic: Double Mission]]]]
+===Magical Pokémon Journey===
+A Tangela appeared in ''[[PPP04|Tangela's Secret]]''.
+
+===Pokémon Adventures===
+Multiple Tangela debuted in ''[[PS013|Sigh for Psyduck]]'' as corpses used by [[Koga]]'s {{p|Gastly}}.
+
+A Tangela appeared as a silhouette when {{adv|Green}} talks about {{adv|Mew}} in ''[[PS017|The Jynx Jinx]]''.
+
+Tangela physically debuted in ''[[PS019|Blame it on Eevee]]''. Like her counterparts in other media, [[Erika]] of [[Pokémon Adventures]] has a Tangela in her arsenal. This Tangela goes by the [[nickname]] of Angela in the English translations, or Mon-chan in Japanese.
+
+In ''[[PS119|A Flaaffy Kerfuffle]]'', a Tangela appeared as one of the Pokémon in {{adv|Professor Oak}}'s fantasy when he explains that {{pkmn|Trainer}}s should only have six Pokémon with them.
+
+A Tangela appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+A Tangela appeared in ''[[PS333|The Final Battle VI]]'', under the ownership of the {{Gdis|Battle Factory|III}}. It was stolen alongside a {{p|Hypno}}.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Tangela appeared in [[GDZ26]].
+
+===Pokémon Pocket Monsters===
+A Tangela appeared in ''[[PM010|Big Struggle with the Powerful Opponent Venusaur!!]]''.
+
+A Tangela appeared in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]'', where it was one of the Pokémon that took part in a baseball match.
+
+{{OBP|Professor Oak|Pocket Monsters}} owns a Tangela, which debuted in ''[[PM040|Save the Pokémon Zoo!!]]''.
+
+===Pokémon Ranger the Comic: Double Mission===
+A Tangela was one of the Pokémon [[Lunick]] captures in ''[[PR1|Pokémon Ranger the Comic: Double Mission Episode One]]''. Lunick used Tangela's vines to rescue a girl from a burning building.
+
+===Pokémon Zensho===
+A Tangela appeared in [[PZ05]].
+
+==In the TCG==
+{{main|Tangela (TCG)}}
+
+==Trivia==<!--DO NOT ADD TRIVIA STATING THAT TANGELA WAS THE ONLY PURE GRASS TYPE INTRODUCED IN GENERATION I; THIS HAS BEEN REMOVED COUNTLESS TIMES BEFORE BECAUSE IT IS NOT NOTABLE-->
+* In the [[Pokémon Red and Green beta|Pokémon Red and Blue beta]], Tangela was originally known as "Meduza," a name derived from the Greek mythological character {{wp|Medusa}}.
+
+===Origin===
+Due to the mystery around Tangela's appearance under its {{wp|vine}}s, it may be based on the {{wp|List of swamp monsters|swamp monster}} from the short story "{{wp|It! (short story)|It!}}" by {{wp|Theodore Sturgeon}}. In addition, it may also be inspired by the Sargassum seaweed monsters written by the English writer {{wp|William Hope Hodgson}}, which inspired monsters in Japanese pop culture.
+
+It may also be based on ''{{wp|Selaginella lepidophylla}}'', a plant that forms {{wp|tumbleweed}}s; and {{wp|Medusa}}, a {{wp|Gorgons|Gorgon}} of {{wp|Greek mythology}} (which is especially supported by the fact that Tangela's beta name was "Meduza"). In addition, it may be based on a {{wp|Green Man}}, a motif represented as a face surrounded by leaves and vines. All of these potential inspirations may have also influenced Tangela's {{Shiny}} variant's green coloration.
+
+Its [[Pokédex entry|Pokédex entries]] state that its vines will be entangled with its surroundings. This may be a reference to {{wp|thigmotropism}}, a biological reaction plants have towards contact that encourages them to coil around objects they touch as they grow, allowing stability in their stems and branches.
+
+====Name origin====
+Tangela may be a combination of ''tangle'' and ''-ella'' (suffix used to form taxonomic names).
+
+Monjara may be a combination of ''monster'', もじゃもじゃ ''mojamoja'' (shaggy or unkempt), and 毛むくじゃら ''kemukujara'' (densely covered in thick hair).
+
+==In other languages==
+{{Other languages|type=grass|type2=grass
+|ja=モンジャラ ''Monjara''|jameaning=From ''monster'', {{tt|もじゃもじゃ ''mojamoja''|shaggy or unkempt}}, and {{tt|毛むくじゃら ''kemukujara''|densely covered in thick hair}}
+|fr=Saquedeneu|frmeaning=From ''{{tt|sac de noeuds|knot bag}}''
+|es=Tangela|esmeaning=Same as English name
+|de=Tangela|demeaning=Same as English name
+|it=Tangela|itmeaning=Same as English name
+|ko=덩쿠리 ''Deongkuri''{{tt|*|Generation IV onwards}}<br>덩구리 ''Deongguri''{{tt|*|Prior to Generation III}}|komeaning=From {{tt|덩굴 ''deonggul''|vine}} or {{tt|넝쿨 ''neongkul''|vine}}
+|zh_cmn=蔓藤怪 ''Mànténgguài''|zh_cmnmeaning=From {{tt|蔓藤 ''mànténg''|vine}} and {{tt|怪 ''guài''|monster}}
+|zh_yue=蔓藤怪 ''Maahntàhnggwaai''{{tt|*|Games}}<br>長藤怪 ''Chèuhngtàhnggwaai''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|蔓藤 ''maahntàhng''|vine}} and {{tt|怪 ''gwaai''|monster}}<br>From {{tt|長 ''chèuhng''|vine}}, {{tt|藤 ''tàhng''|vine}}, and {{tt|怪 ''gwaai''|monster}}
+|hi=उलझारा ''Uljhara''|himeaning=From {{tt|उलझा ''ulajha|entangled}}'' and {{tt|モンジャラ ''Monjara''|Japanese name of Tangela}}
+|ru=Тангела ''Tangela''|rumeaning=Transcription of English name
+|th=มอนจารา ''Monchara''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0113|prev=Chansey|nextnum=0115|next=Kangaskhan}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Pokémon that evolve with certain moves]]
+[[Category:Pokémon that evolve with Ancient Power]]
+[[Category:Pokémon that run from battle]]
+
+[[de:Tangela]]
+[[es:Tangela]]
+[[fr:Saquedeneu]]
+[[it:Tangela]]
+[[ja:モンジャラ]]
+[[zh:蔓藤怪]]

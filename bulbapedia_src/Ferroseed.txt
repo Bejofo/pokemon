@@ -1,0 +1,460 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Steel}}
+{{PokémonPrevNext/GO|species=Ferroseed}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0596|prev=Galvantula|nextnum=0598|next=Ferrothorn|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Ferroseed
+|jname=テッシード
+|jtranslit=Tesshīdo
+|tmname=Tesseed
+|category=Thorn Seed
+|typebox=1
+|type1=Grass
+|type2=Steel
+|abilityn=1
+|abilitylayout=1
+|ability1=Iron Barbs
+|ndex=0597
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=41.4
+|weight-kg=18.8
+|egggroupn=2
+|egggroup1=Grass
+|egggroup2=Mineral
+|eggcycles=20
+|expyield=61
+|lv100exp=1,000,000
+|gendercode=127
+|color=Gray
+|catchrate=255
+|evtotal=1
+|evde=1
+|body=01
+|pokefordex=ferroseed
+|generation=5
+|friendship=70
+}}
+'''Ferroseed''' ([[List of Japanese Pokémon names|Japanese]]: '''テッシード''' ''Tesseed'') is a dual-type {{2t|Grass|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Ferrothorn}} starting at [[level]] 40.
+
+==Biology==
+Ferroseed is a cave-dwelling {{OBP|Pokémon|species}} resembling a {{wp|durian}}. It has many green thorns around its body that are used for protection. It has a metallic body with black stripes and polygonal spots, along with small yellow eyes with black pupils. 
+
+Ferroseed prefer living in mossy caves. It can stick its spikes into cave walls to absorb the minerals from the rocks. If threatened, it can shoot a barrage of spikes so it can escape by rolling away. Ferroseed's aim at throwing spikes will not be good at first, requiring practice to improve it. As seen in the {{aniseries|BW}} episode ''[[BW081|Crisis at Ferroseed Research!]]'', Ferroseed can absorb nutrients from rocks and use them to grow moss for oxygen; different rocks create different types of moss with a variety of effects. Notably, its spikes can grow big and strong from consuming the moss. Absorbing nutrients from rocks that come from [[Chargestone Cave]] yields disastrous results.
+
+Prior to [[Generation VII]], Ferroseed and its evolved form, {{p|Ferrothorn}}, were the [[Signature Ability|only known Pokémon]] that could have {{a|Iron Barbs}} as an [[Ability]].
+
+===Evolution===
+Ferroseed evolves into {{p|Ferrothorn}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|type1=Grass
+|type2=Steel
+|no1=0597
+|name1=Ferroseed
+|type1-1=Grass
+|type2-1=Steel
+|evo1=
+|no2=0598
+|name2=Ferrothorn
+|type1-2=Grass
+|type2-2=Steel}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Steel}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=103|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=175|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.}}
+{{Dex/Entry1|v=White|entry=They stick their spikes into cave walls and absorb the minerals they find in the rock.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=069|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=189|reg2=Galar|num2=179|label2=Crown Tundra|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It defends itself by launching spikes, but its aim isn't very good at first. Only after a lot of practice will it improve.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed's spikes grow big and strong.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Chargestone Cave]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Chargestone Cave]]<br>[[Chargestone Cave]] ([[N's Pokémon]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Reflection Cave]], [[Glittering Cave]], [[Friend Safari]] ([[Friend Safari#Steel-type Safari|Steel]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|4|Galar}}, [[Bridge Field]], [[Motostoke Riverbank]], [[Stony Wilderness]]<br>[[Bridge Field/Dens|Bridge Field]], [[Dappled Grove/Dens|Dappled Grove]], [[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Giant's Seat/Dens|Giant's Seat]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Lakeside Cave]]}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#A Very Chaotic Battle!|Toy Collection: A Very Chaotic Battle!]], [[Chill Battle#Unidentified Flying Objects|Chill Battle: Unidentified Flying Objects]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 1|Dragon Hill: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Rugged Flats|Black Realm: Rugged Flats]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Jirachi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 456]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Grass|type2=Steel|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17, 30|September 1 to 30, 2020|link=Wild Area News#September 1 to 30, 2020}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Grass|type2=Steel}}
+{{HeldItems/Games2|Black|White|tcolor1=fff|Pokémon Black and White Versions}}
+{{HeldItems/Items1|Sticky Barb|5|rows=4}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|type2=Steel
+|HP=44
+|Attack=50
+|Defense=91
+|SpAtk=24
+|SpDef=86
+|Speed=10}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Steel
+|Normal=50
+|Fighting=200
+|Flying=100
+|Poison=0
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=400
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=50
+|Ice=100
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=2
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+===Learnset===
+Ferroseed is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Ferroseed|Grass|Steel|5}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level8|5|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level8|10|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/level8|15|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/level8|20|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/level8|25|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level8|30|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level8|35|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level8|41|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level8|45|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/level8|50|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/levelf/8|Ferroseed|Grass|Steel|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Ferroseed|Grass|Steel|5}}
+{{learnlist/tm8|TM07|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM20|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM42|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/tm8|TM50|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR23|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR52|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tr|TR57|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tr|TR59|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tr|TR70|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tr|TR74|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tr|TR76|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tmf/8|Ferroseed|Grass|Steel|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Ferroseed|Grass|Steel|5}}
+{{learnlist/breed8|{{MSP/8c|568|Trubbish}}{{MSP/8c|569|Garbodor}}{{MSP/8c|841|Flapple}}|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/breed8|{{MSP/8c|874|Stonjourner}}|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/breed8|{{MSP/8c|114|Tangela}}{{MSP/8c|465|Tangrowth}}{{MSP/8c|271|Lombre}}{{MSP/8c|272|Ludicolo}}{{MSP/8c|810|Grookey}}{{MSP/8c|811|Thwackey}}{{MSP/8c|812|Rillaboom}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|102|Exeggcute}}{{MSP/8c|103|Exeggutor}}{{MSP/8c|103A|Exeggutor}}{{MSP/8c|315|Roselia}}{{MSP/8c|407|Roserade}}{{MSP/8c|420|Cherubi}}{{MSP/8c|421|Cherrim}}{{MSP/8c|546|Cottonee}}{{MSP/8c|547|Whimsicott}}{{MSP/8c|556|Maractus}}{{MSP/8c|708|Phantump}}{{MSP/8c|709|Trevenant}}{{MSP/8c|764|Comfey}}{{MSP/8c|841|Flapple}}{{MSP/8c|842|Appletun}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed8|{{MSP/8c|043|Oddish}}{{MSP/8c|044|Gloom}}{{MSP/8c|045|Vileplume}}{{MSP/8c|182|Bellossom}}{{MSP/8c|315|Roselia}}{{MSP/8c|407|Roserade}}{{MSP/8c|568|Trubbish}}{{MSP/8c|569|Garbodor}}{{MSP/8c|590|Foongus}}{{MSP/8c|591|Amoonguss}}|Toxic|Poison|Status|—|90|10}}
+{{learnlist/breedf/8|Ferroseed|Grass|Steel|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Ferroseed|Grass|Steel|5}}
+{{learnlist/tutor8|Steel Beam|Steel|Special|140|95|5||'''|yes|no}}
+{{learnlist/tutor8|Steel Roller|Steel|Physical|130|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Ferroseed|Grass|Steel|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Ferroseed|Grass|Steel|5}}
+{{learnlist/prevgen8|Ferroseed|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferroseed|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferroseed|5|Endeavor|Normal|Physical|—|100|5|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ferroseed|5|Flash|Normal|Status|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ferroseed|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ferroseed|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ferroseed|5|Hone Claws|Dark|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferroseed|5|Magnet Rise|Electric|Status|—|—|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ferroseed|5|Mirror Shot|Steel|Special|65|85|10||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Ferroseed|5|Nature Power|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferroseed|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ferroseed|5|Rock Climb|Normal|Physical|90|85|20|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Ferroseed|5|Rock Polish|Rock|Status|—|—|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferroseed|5|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Ferroseed|5|Rollout|Rock|Physical|30|90|20|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->}}
+{{learnlist/prevgen8|Ferroseed|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ferroseed|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferroseed|5|Worry Seed|Grass|Status|—|100|10|V=yes<!--breed,tutor-->|VI=yes<!--breed,tutor-->|VII=yes<!--breed,tutor-->}}
+{{learnlist/prevgenf/8|Ferroseed|Grass|Steel|5}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Steel}}
+{{Spindata/PSMD|col=6|type=Grass|ndex=597
+|coset=18
+|conto={{p|Lunatone}}, {{p|Solrock}}, {{p|Regigigas}}
+|recruitment=Escort to open the locked door at [[Friendly Meadow]]
+|P1=They call me Mr. Ferroseed and cry out bravo!
+|P2=Gruh… So much for Mr. Ferroseed!
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=1
+|def=3
+|speed=1
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=597
+|walk=1.67
+|hp=46
+|attack=68
+|defense=57
+|speed=40
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=597
+|pad=Ferroseed are rough and curious, but they are surprisingly cool. They can't go back to the place where they were without help.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=597
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=597|num=627
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=597
+|hatch=10 km
+|buddy=3
+|candy=Ferroseed
+|evocandy=50
+|stamina=127
+|attack=82
+|defense=155
+|fast={{m|Tackle}}, {{m|Metal Claw}}
+|special={{m|Gyro Ball}}, {{m|Flash Cannon}}, {{m|Iron Head}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|type1=Grass
+|type2=Steel
+|no1=0597
+|name1=Ferroseed
+|type1-1=Grass
+|type2-1=Steel
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}
+|no2=0598
+|name2=Ferrothorn
+|type1-2=Grass
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Steel}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=597}}
+{{Spritebox/6|ndex=597|crop=65}}
+{{Spritebox/7|ndex=597|crop=66}}
+{{Spritebox/8|ndex=597}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0597}}
+{{Spritebox/Footer|597|Ferroseed}}
+
+==In animation==
+[[File:Ferroseed anime.png|thumb|250px|Ferroseed in {{aniseries|BW}}]]
+===Major appearances===
+Ferroseed debuted in ''[[BW081|Crisis at Ferroseed Research!]]'', where [[Professor Malveaux]] was conducting research on them using electric stones from [[Chargestone Cave]]. However, the experiment went out of control, resulting in moss spreading around the [[Ferroseed Research Institute]].
+
+===Minor appearances===
+In ''[[JN044|Sword and Shield: "From Here to Eternatus!"]]'', one of the {{tc|Macro Cosmos's|Macro Cosmos employees}} used a Ferroseed to confront [[Sonia]], only for [[Raihan]] to appear and defeat it with his {{p|Duraludon}} in [[JN045|the next episode]].
+
+A Trainer's Ferroseed appeared in ''[[HZ039|Tinkatink's Ideal Hammer]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW081|Ferroseed|Ash's Pokédex|Ferroseed, the Thorn Seed Pokémon. Ferroseed absorb minerals from rock by penetrating the walls of caves using their spikes.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:Chargestone Cave Adventures.png|thumb|200px|Ferroseed in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Ferroseed was first seen being released by its Trainer after [[Ghetsis]]'s speech in [[Accumula Town]] in ''[[PS466|An Odd Speech]]''.
+
+A Ferroseed appeared in ''[[PS493|Underground Showdown]]''.
+
+A Ferroseed appeared in a fantasy in ''[[PS507|A Misunderstanding]]''.
+{{-}}
+
+==In the TCG==
+{{main|Ferroseed (TCG)}}
+
+==Trivia==
+* No other {{OBP|Pokémon|species}} has the same [[Egg Group]] combination as Ferroseed and its evolved form, {{p|Ferrothorn}}.
+** Ferroseed and its evolved form are also the only {{type|Steel}} Pokémon in the {{egg3|Grass}}.
+* Ferroseed has the lowest base {{stat|Speed}} stat of all Steel-type Pokémon.
+** It also ties with {{p|Gossifleur}} for the lowest base {{stat|Speed}} stat of all {{type|Grass}} Pokémon.
+** It also has the lowest base {{stat|Special Attack}} stat of all Grass-type Pokémon.
+* From [[Generation VI]] onward, Ferroseed's [[Hidden Ability]] is the same as its first [[Ability]], {{a|Iron Barbs}}, unlike its evolved form, which has a different Hidden Ability, {{a|Anticipation}}. A Ferroseed with Iron Barbs as its Hidden Ability can evolve into an Anticipation Ferrothorn and can be [[Pokémon breeding|bred]] to produce more Ferroseed with Iron Barbs as their Hidden Ability.
+* According to [[Ken Sugimori]], {{p|Foongus}}, {{p|Amoonguss}}, Ferroseed, and {{p|Ferrothorn}} were all designed by the same designer.<ref name=ND205>''Nintendo Dream'' Vol. 205, May 2011 ([https://web.archive.org/web/20110402003550/http://shellspider.blog101.fc2.com/blog-entry-562.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream/ Translation by Dr. Lava])</ref>
+*Starting from [[Generation VI]], Ferroseed is depicted as being embedded into the ground during battles, leaving only its top half visible.
+
+===Origin===
+Ferroseed is based on certain plants whose seeds stick to clothing,<ref name=ND205/> such as {{wp|Xanthium|cockleburs}}, {{wp|Arctium|burdocks}}, or {{wp|Galium aparine|cleavers}}. It may also be based on {{wp|durian}}s, conkers (seeds from {{wp|Aesculus hippocastanum|horse-chestnut trees}}), or {{wp|datura}} fruits, all of which are known for their tough skin and thorns. It may also be based on a {{wp|mace (bludgeon)|mace}} or {{wp|flail (weapon)|flail}}.
+
+====Name origin====
+Ferroseed may be a combination of ''ferrous'' (containing iron) and ''seed''.
+
+Tesseed may be a combination of 鉄 ''tetsu'' (iron) and ''seed''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Steel
+|ja=テッシード ''Tesseed''|jameaning=From {{tt|鉄 ''tetsu''|iron}} and ''seed''
+|fr=Grindur|frmeaning=From ''{{tt|grain|seed}}'' and ''{{tt|dur|hard}}''
+|es=Ferroseed|esmeaning=Same as English name
+|de=Kastadur|demeaning=From ''{{tt|Kastanie|chestnut}}'' and ''{{tt|durus|Latin for 'hard'}}''
+|it=Ferroseed|itmeaning=Same as English name
+|ko=철시드 ''Cheolseed''|komeaning=From {{tt|철 (鐵) ''cheol''|iron}} and ''seed''
+|zh_cmn=種子鐵球 / 种子铁球 ''Zhǒngzǐtiěqiú''|zh_cmnmeaning=From {{tt|種子 / 种子 ''zhǒngzǐ''|seed}} and {{tt|鐵球 / 铁球 ''tiěqiú''|iron ball}}
+|zh_yue=種子鐵球 ''Júngjítitkàuh''|zh_yuemeaning=From {{tt|種子 ''júngjí''|seed}} and {{tt|鐵球 ''titkàuh''|iron ball}}
+|hi=लौसीडो ''Lauseedo''|himeaning=From {{tt|लोहा ''lohā''|iron}} and ''seed''
+|ru=Ферросид ''Ferrosid''|rumeaning=Transcription of English name
+|th=เทสซีด ''Thetsit''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0596|prev=Galvantula|nextnum=0598|next=Ferrothorn}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Kastadur]]
+[[es:Ferroseed]]
+[[fr:Grindur]]
+[[it:Ferroseed]]
+[[ja:テッシード]]
+[[zh:种子铁球]]

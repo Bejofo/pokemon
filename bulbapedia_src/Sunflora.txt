@@ -1,0 +1,605 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Sunflora}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0191|prev=Sunkern|nextnum=0193|next=Yanma|round=none}}
+{{PokémonPrevNext/Disambig|species=Sunflora}}
+|}
+{{Pokémon Infobox
+|name=Sunflora
+|jname=キマワリ
+|tmname=Kimawari
+|ndex=0192
+|typebox=1
+|type1=Grass
+|category=Sun
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=18.7
+|weight-kg=8.5
+|abilityn=d
+|ability1=Chlorophyll
+|ability2=Solar Power
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Early Bird
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=149
+|oldexp=146
+|lv100exp=1,059,860
+|gendercode=127
+|color=Yellow
+|catchrate=120
+|body=12
+|pokefordex=sunflora
+|generation=2
+|friendship=70
+}}
+'''Sunflora''' ([[List of Japanese Pokémon names|Japanese]]: '''キマワリ''' ''Kimawari'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s from {{p|Sunkern}} when exposed to a [[Sun Stone]].
+
+==Biology==
+[[File:Goh Mr. Norris Sunflora.png|thumb|left|250px|Sunflora closes its petals when asleep]]
+Sunflora is a {{wp|plant}} {{OBP|Pokémon|species}} with a {{wp|Helianthus|sunflower}}-like design, having a green trunk and limbs. Its head is circular and cream-colored, with yellow petals growing along the rim. The petals become more vivid as the weather becomes warmer. Sunflora's face has two eyes that appear perpetually closed, and a thin line running vertical beside each eye. Sunflora has leaves extending like arms from its round body and two toes on each foot.
+
+Sunflora converts {{wp|Photosynthesis|sunlight into nutrition}}. Because of this, it tends to pursue sunlight and is always looking in the direction of the sun. While the sun is up, it moves around in a hectic manner. When the sun sets, it comes to a complete stop and closes its petals. In addition to sunlight, Sunflora needs plenty of water. [[EP135|The animated series]] demonstrates that sunlight can cause a Sunflora's head to grow. Too much sunlight exposure will grow their heads so big that it will immobilize a Sunflora. Sunflora is rarely seen in the wild, but it can sometimes be found in {{DL|List of Pokémon by habitat|Grassland Pokémon|temperate grassy meadows}}.
+
+===Evolution===
+Sunflora evolves from {{p|Sunkern}}.
+
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|type1=Grass
+|no1=0191
+|name1=Sunkern
+|type1-1=Grass
+|evo1=
+|no2=0192
+|name2=Sunflora
+|type1-2=Grass
+}}</div>
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: {{mdc|Sunflora|2}} is a member of [[Wigglytuff's Guild|Wigglytuff Guild]]. She tends to fret and say "Oh my gosh!" at everything. She keeps her Oh My Gosh Diary in her room and updates it over the course of the game.
+* {{g|Mystery Dungeon: Explorers of Sky}}: In addition to what happened in Explorers of Time and Darkness, there is a special episode titled ''[[Today's "Oh My Gosh"]]''. It shows Sunflora attempting a mission issued to her by {{p|Magnezone}} and {{mdc|Wigglytuff|2}}, which is to capture a {{p|Haunter}}, also known as "The Invincible Haunter". She and {{mdc|Loudred|2}} defeat Haunter at the end of the special episode.
+
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=103}}
+{{Dex/Entry1|v=Gold|entry=It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.}}
+{{Dex/Entry1|v=Silver|entry=In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.}}
+{{Dex/Entry1|v=Crystal|entry=As the hot season approaches, the petals on this {{ScPkmn}}'s face become more vivid and lively.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Sunflora</sc> converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=<sc>Sunflora</sc> convert solar energy into nutrition. They are highly active in the warm daytime but suddenly stop moving as soon as the sun sets.}}
+{{Dex/Entry1|v=FireRed|entry=In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.}}
+{{Dex/Entry1|v=LeafGreen|entry=It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=104}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.}}
+{{Dex/Entry1|v=HeartGold|entry=It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.}}
+{{Dex/Entry1|v=SoulSilver|entry=In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=021|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Since it converts sunlight into energy, it is always looking in the direction of the sun.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=As the hot season approaches, the petals on this Pokémon's face become more vivid and lively.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=32|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Since it converts sunlight into energy, it is always looking in the direction of the sun.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{grass color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{grass color dark}}; background:#{{grass color light}}; {{roundy|5px}};" | [[File:Pokédex Image Sunflora SV.png|x200px]]
+|-
+| Sunflora in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Realgam Tower|Realgamtwr Dome]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|12|Unova}} ({{DL|Phenomenon|rustling grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Six)|Area Six]]<br>East Province: [[East Paldean Sea]], [[Tagtree Thicket]]<br>North Province: [[North Province (Area Two)|Area Two]], [[North Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Sunflora|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 54, Endless Level 58, Forever Level 4, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Sunkern}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Happy Outlook]] (B1F-B19F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Happy Outlook]] (B1F-B19F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F)}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Mitonga Road]], [[Dark Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Echo Valley]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#The Garden at the End of Time|Flower Garden: The Garden at the End of Time]], [[Verdant Plaza#Four Seasons in the Forest|Verdant Plaza: Four Seasons in the Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 2|Safari Jungle: Stage 2]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Sunlit Forest|Sapphire Sea: Sunlit Forest]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Snorlax Sea]], [[Castform Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Entei Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Sinister Woods]] (2F-8F), [[Joyous Tower]] (19F-23F), [[Purity Forest]] (20F-24F)<br/>Fainted Pokémon: [[Grand Sea]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#First release|''Pokémon Safari'']] <small>(First release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=     75
+|Attack= 75
+|Defense=55
+|SpAtk= 105
+|SpDef=  85
+|Speed=  30}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=2
+|SpeedMax=2
+|Power=3
+|PowerMax=5
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  200
+|Ground=   50
+|Rock=    100
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Sunflora|Grass|Grass|2}}
+{{learnlist/level9|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|4|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/level9|7|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|10|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|13|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|16|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|19|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/level9|22|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|25|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|28|Petal Dance|Grass|Special|120|100|10||'''}}
+{{learnlist/level9|31|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/level9|34|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|39|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|43|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/level9|50|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/levelf/9|Sunflora|Grass|Grass|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Sunflora|Grass|Grass|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM206|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Sunflora|Grass|Grass|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Sunflora|Grass|Grass|2}}
+{{learnlist/breed9|{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0842|Appletun}}{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0187|Hoppip}}|Encore|Normal|Status|—|100|5|*}}
+{{learnlist/breed9|{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0812|Rillaboom}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0192|Sunflora}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Morning Sun|Normal|Status|—|—|5}}
+{{learnlist/breedf/9|Sunflora|Grass|Grass|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Sunflora|Grass|Grass|2}}
+{{learnlist/prevo9|0191|Sunkern|||||Synthesis|Grass|Status|—|—|5|}}
+{{learnlist/prevof/9|Sunflora|Grass|Grass|2}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/Trozei|col=6|type=Grass|ndex=192|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=192
+|body=1
+|rate=Evolve
+|area=Jungle
+|P1=The sun is my source of energy.
+|P2=Huh? My HP's down half-way already? Better beware.
+|P3=I'm wilting... Sunlight's energy isn't getting through...
+|PL=Awesome! There's my level! The sunlight's brilliant!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=192
+|body=1
+|rate=-12
+|IQ=B
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=192
+|coset=3
+|conto={{p|Loudred}}, {{p|Corphish}}, {{p|Croagunk}}
+|recruitment=Visit {{p|Corphish}}'s secret base
+|P1=Oh My Gosh! How exciting!
+|P2=Oh My Gosh! Am I taking damage? Oh My Gosh!
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=2
+|num=011
+|pastnum=029
+|browser=It creates vines around itself that make Pokémon Slowed
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=192
+|walk=1.67
+|hp=54
+|attack=76
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=192
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=192|num=645
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Constrict
+|skilldesc=Delays your opponent's disruptions even more.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=192
+|hatch=N/A
+|buddy=3
+|candy=Sunkern
+|evolution=N/A
+|stamina=181|attack=185|defense=135
+|fast={{m|Razor Leaf}}, {{m|Bullet Seed}}
+|special={{m|Solar Beam}}, {{m|Petal Blizzard}}, {{m|Sludge Bomb}}, {{m|Leaf Storm}}{{tt|*|From April 12, 2021 onward}}
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|type1=Grass
+|no1=0191
+|name1=Sunkern
+|type1-1=Grass
+|evo1={{Bag/s|Sun Stone|SV}}<br>{{color2|000|Sun Stone}}
+|no2=0192
+|name2=Sunflora
+|type1-2=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=192}}
+{{Spritebox/3|ndex=192}}
+{{Spritebox/4|ndex=192}}
+{{Spritebox/5|ndex=192}}
+{{Spritebox/6|ndex=192|crop=72}}
+{{Spritebox/7|ndex=192|crop=68}}
+<!--{{Spritebox/8/BDSP|ndex=192}}
+{{Spritebox/9|ndex=0192}}-->
+{{Spritebox/HOME|ndex=0192}}
+{{Spritebox/Footer|192|Sunflora}}
+
+==In animation==
+[[File:Mr. Norris Sunflora.png|thumb|250px|Sunflora in {{aniseries|JN}}]]
+===Main series===
+====Major appearances====
+=====[[Sunflora (Explorers of Time, Darkness, and Sky)]]=====
+In ''[[Pokémon Mystery Dungeon: Explorers of Time & Darkness]]'', a Sunflora from [[Wigglytuff's Guild]] traveled along with the new Exploration [[Team Poképals]] for their first mission. It reappeared in ''[[Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness]]''.
+
+=====Other=====
+Multiple Sunflora debuted in ''[[EP135|Grin to Win!]]'', when the citizens of [[Bloomingvale]] held their annual [[Sunflora Festival]]. Some of the Sunflora, all of them with [[nickname]]s, appeared under the ownership of [[Sonrisa]] and {{OBP|Cyrus|EP135}}.
+
+In ''[[EP187|Moving Pictures]]'', a Sunkern used {{Ash}}'s [[Sun Stone]] to evolve into a Sunflora. [[Sophia]] and [[Marcello]] take pictures of many Sunflora every year, this year in particular being their {{wp|Golden jubilee|golden anniversary}}.
+
+In ''[[DP036|A Secret Sphere of Influence!]]'', [[Nando]]'s Sunflora fled after its {{pkmn|Trainer}} was accused of stealing the [[Adamant Orb]]. It later proved Nando's innocence by tracking down {{TRT}}, who were the ones behind the theft of the orb. In ''[[DP049|Dawn's Early Night!]]'', Sunflora competed in the Hearthome City Contest; and in ''[[DP176|Coming Full-Festival Circle!]]'', it helped Nando get to the semifinals alongside {{p|Kricketune}} and {{p|Roserade}} in another {{pkmn|battle}}.
+
+In ''[[DP137|Three Sides to Every Story!]]'', multiple Sunflora help {{OBP|Lulu|DP137}} tend to her garden.
+
+In ''[[BW111|There's a New Gym Leader in Town!]]'', multiple Sunflora were scared off by Ash when he discovered one camouflaging itself in a field of sunflowers at [[Cheren]]'s [[Pokémon academy|Trainers' School]].
+
+In ''[[XY057|Thawing an Icy Panic!]]'', multiple Sunflora were living on [[Ramos]]'s ranch. They stopped the snowstorm created by {{p|Vanillish}} and {{p|Vanilluxe}}.
+
+A Sunflora appeared in ''[[JN032|Time After Time!]]'', under the ownership of [[Mr. Norris]]. In the past, [[Goh]] borrowed it to help cut through the grass in [[Ilex Forest]].
+
+====Minor appearances====
+In ''[[EP146|Tricks of the Trade]]'', a Sunflora was at the [[Pokémon Swap Meet]] in [[Palmpona]].
+
+In ''[[PK07|Pikachu & Pichu]]'', a Sunflora was living in [[Big Town]].
+
+In ''[[EP169|Beauty and the Breeder]]'', a {{tc|Pokémon Breeder}}'s Sunflora participated in the [[Pokémon Beauty Contest]].
+
+Four Sunflora appeared in ''[[EP178|The Grass Route]]'', with two under the ownership of [[Ephraim's parents]] and the other two being {{pkmn2|wild}}.
+
+A Sunflora appeared in ''[[PK10|Pikachu's PikaBoo]]''.
+
+In ''[[EP207|Got Miltank?]]'', a Sunflora were living at the Pokémon-exclusive oasis.
+
+In ''[[EP249|I Politoed Ya So!]]'', {{OBP|Tammy|EP249}} uses three Sunflora in her cheerleading squad.
+
+In ''[[EP252|Fangs for Nothin']]'', multiple Sunflora were living on the [[Dragon Holy Land]].
+
+In ''[[AG015|Gonna Rule The School!]]'', the [[Pokémon Trainers' School]] lent a Sunflora to the school's underage students for use in lessons.
+
+In ''[[AG073|Grass Hysteria!]]'', multiple Sunflora were living in the [[Forbidden Forest]].
+
+In ''[[AG086|Lights, Camerupt, Action!]]'', a Sunflora acted in one of [[Elijah]]'s movies.
+
+A {{pkmn|Coordinator}}'s Sunflora appeared in ''[[AG122|Deceit and Assist]]''.
+
+A Coordinator's Sunflora appeared in ''[[AG160|Harley Rides Again]]''.
+
+In ''[[DP010|Not on MY Watch Ya Don't!]]'', Team Rocket hypnotized and kidnapped a Sunflora.
+
+A Sunflora appeared in ''[[DP017|Wild in the Streets!]]''.
+
+A Sunflora appeared in ''[[M10|The Rise of Darkrai]]''.
+
+A Sunflora appeared in ''[[DP078|Pruning a Passel of Pals!]]''.
+
+In ''[[DP135|Beating the Bustle and Hustle!]]'', a Trainer's Sunflora participated in the fake ''[[Sinnoh Pokémon Hustle]]'' that {{TRT}} had set up.
+
+A Sunflora appeared in ''[[M12|Arceus and the Jewel of Life]]''.
+
+Multiple wild Sunflora appeared in ''[[DP138|Strategy Begins at Home!]]''.
+
+In ''[[M13|Zoroark: Master of Illusions]]'', multiple Sunflora were living in [[Crown City]]. One took part in surrounding {{OBP|Zorua|M13}} in the park along with the other Pokémon with the intention of attacking him in retribution for what {{OBP|Zoroark|M13}} did to the city. Before a fight could break out, the Sunkern, along with the other Pokémon, were calmed down by {{OBP|Celebi|M13}}.
+
+Seven Sunflora appeared in ''[[M21|The Power of Us]]'', with six under the ownership of different Trainers and the seventh being wild.
+
+In ''[[HZ010|Nemona and Brassius and…]]'', in an attempt to make [[Brassius]] happy, [[Liko]], [[Roy]], and [[Nemona]] collected multiple Sunflora.
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP135|Sunflora|Ash's Pokédex|Sunflora, the Sun Pokémon. This smiling Pokémon loves the sun, but it also needs plenty of water to ensure healthy development.}}
+{{Animedexfooter/Pokémon|Johto}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW111|Sunflora|Ash's Pokédex|Sunflora, the Sun Pokémon. Sunflora gets its energy from sunlight and its movements follow the rays of the sun.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===POKÉTOON===
+[[File:Sunflora PT.png|thumb|250px|Sunflora in [[POKÉTOON]]]]
+A Sunflora appeared in [[PT12]], under the ownership of a Trainer.
+{{-}}
+
+==In the manga==
+[[File:Sunbo.png|thumb|250px|Sunflora in [[Pokémon Adventures]]]]
+===Movie adaptations===
+In ''{{ma|The Rise of Darkrai}}'', a Sunflora was hit by {{OBP|Darkrai|M10}}'s Dark Void, like in the film.
+
+In the {{ma|Diancie and the Cocoon of Destruction|manga adaptation}} of ''[[M17|Diancie and the Cocoon of Destruction]]'', a Sunflora lived in [[Allearth Forest]].
+
+===Pokémon Adventures===
+In ''[[PS172|The Last Battle VI]]'', {{adv|Gold}}'s {{p|Sunkern}}, Sunbo, evolved into Sunflora due to the rocks in [[Ilex Forest]] reflecting solar energy like the Sun Stone. As a Sunflora, she has continued her support role in Gold's party, mainly using {{m|Sunny Day}} to power up [[Exbo]]'s {{type|Fire}} moves.
+
+In [[PASV09]], {{Scarlet}} received the task of collecting as many Sunflora as possible in order to battle [[Brassius]].
+
+===Pokémon Gold & Silver: The Golden Boys===
+Three Sunflora appeared in ''[[GB20|A Serious Crisis!! The Battle With The Lugia]]''.
+
+A Trainer's Sunflora appeared in ''[[GB23|Let's Fight For The Future!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Sunflora appeared in [[GDZ61]].
+
+===Pokémon Mystery Dungeon: Blazing Exploration Team===
+In [[BET2]], a Sunflora was a member of [[List of Wigglytuff's Guild members|Wigglytuff's Guild]].
+
+===Pokémon Mystery Dungeon: Ginji's Rescue Team===
+A Sunflora appeared in ''[[GRT2|I Want to be Human Again!]]''.
+
+A Sunflora appeared in ''[[GRT6|Tears and Emotions - It's the Final Chapter!]]''.
+
+==In the TCG==
+{{main|Sunflora (TCG)}}
+
+==Trivia==
+[[File:Meowth Sunflora.png|thumb|250px|{{MTR}} disguised as a Sunflora]]
+* Sunflora shares its {{pkmn|category}} name with {{p|Espeon}} and {{p|Volcarona}}. They are all known as the Sun Pokémon.
+* Sunflora is {{MTR}}'s most frequently used {{OBP|Pokémon|species}} [[List of Team Rocket's disguises|disguise]] in ''[[Pokémon the Series]]'', having been used seven times.
+* Sunflora and its pre-evolved form are the only Pokémon to have {{a|Early Bird}} as its [[Hidden Ability]].
+* In {{game|Crystal}}, a [[List of glitches in Generation II#Heavy Ball junk data glitch|bug]] causes the capture formula for the [[Heavy Ball]] to incorrectly retrieve this Pokémon's weight, giving it a +40 catch rate modifier. This also affects {{p|Kadabra}} and {{p|Tauros}}.
+
+===Origin===
+Sunflora seems to be based on a {{wp|Helianthus|sunflower}} and its close association with the {{wp|Sun}}.
+
+====Name origin====
+Sunflora may be a combination of ''sun'' or ''{{wp|sunflower}}'' and ''{{wp|flora}}''.
+
+Kimawari may be a combination of 黄 ''ki'' (yellow) or 吉 ''ki'' (joy) and 向日葵 ''himawari'' (sunflower).
+
+==In other languages==
+{{Other languages|type=grass|type2=grass
+|ja=キマワリ ''Kimawari''|jameaning=From {{tt|黄 ''ki''|yellow}} or {{tt|吉 ''ki''|joy}} and {{tt|向日葵 ''himawari''|sunflower}}
+|fr=Héliatronc|frmeaning=From ''{{tt|hélianthe|sunflower}}'' and ''{{tt|tronc|tree trunk}}''
+|es=Sunflora|esmeaning=Same as English name
+|de=Sonnflora|demeaning=From {{tt|''Sonnenblume''|sunflower}} and ''{{wp|Flora}}''
+|it=Sunflora|itmeaning=Same as English name
+|ko=해루미 ''Haerumi''|komeaning=From {{tt|해바라기 ''haebaragi''|sunflower}}
+|zh_cmn=向日花怪 ''Xiàngrìhuāquài''|zh_cmnmeaning=From {{tt|向日葵 ''xiàngrìkuí''|sunflower}}, {{tt|花 ''huā''|flower}}, and {{tt|怪 ''quài''|monster}}
+|zh_yue=向日花怪 ''Heungyahtfāgwaai''|zh_yuemeaning=From {{tt|向日葵 ''heungyahtkwàih''|sunflower}}, {{tt|花 ''fā''|flower}}, and {{tt|怪 ''gwaai''|monster}}
+|he=סאנפלורה ''Sunflora''|hemeaning=Transcription of English name
+|hi=खुशमुखी ''Khushmukhi''|himeaning=From {{tt|खुश ''khush''|happy}}, {{tt|मुख ''mukh''|mouth/face}}, {{tt|सूरजमुखी ''soorajmukhi''|sunflower}} and {{tt|खुश मुखी ''Khush mukhi''|cheerful}}
+|ru=Санфлора ''Sanflora''|rumeaning=Transcription of English name
+|th=คิมาวาริ ''Khimawari''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Sunflora (Explorers of Time, Darkness, and Sky)]]
+* [[Team Poképals]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0191|prev=Sunkern|nextnum=0193|next=Yanma}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+
+[[de:Sonnflora]]
+[[es:Sunflora]]
+[[fr:Héliatronc]]
+[[it:Sunflora]]
+[[ja:キマワリ]]
+[[zh:向日花怪]]

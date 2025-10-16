@@ -1,0 +1,411 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Yungoos}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0733|prev=Toucannon|nextnum=0735|next=Gumshoos|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Yungoos
+|jname=ヤングース
+|tmname=Youngoose
+|jtranslit=Yangūsu
+|ndex=0734
+|type1=Normal
+|category=Loitering
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=13.2
+|weight-kg=6.0
+|abilityn=d
+|ability1=Stakeout
+|ability2=Strong Jaw
+|abilityd=Adaptability
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=1
+|evat=1
+|expyield=51
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=08
+|pokefordex=yungoos
+|generation=7
+|friendship=70
+}}
+'''Yungoos''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤングース''' ''Youngoose'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] into {{p|Gumshoos}} when [[level]]ed up in the [[Time-based Evolution|day]] starting at level 20.
+
+==Biology==
+Yungoos is a long-bodied {{OBP|Pokémon|species}} similar to a mongoose. It is covered in brown fur with a yellow stripe down its back and underside. It has short, rounded ears on the sides of its head, a short snout with a pink nose, and a large mouth full of pointed teeth. There are three black claws on each of its four short legs. Despite its length, Yungoos is thick-bodied and has a wide, flat tail with longer fur on the tip.
+
+Yungoos has a voracious appetite and is always hungry, which in turn makes it more ferocious. Much of its body is dominated by its stomach, and it is able to digest food quickly. Its strong teeth allow it to crush and consume the hardest of objects. This Pokémon stalks through its territory searching for food until it passes out from exhaustion. However, it is believed that Yungoos decides its territory based on safety so that it can collapse anywhere without fear.<ref>[http://www.pokemon-sunmoon.com/en-us/pokemon/yungoos/Pokémon Sun and Moon site | Yungoos]</ref> It is able to eat anything, but usually prefers fresh hunt. This Pokémon is found in [[Alola]], although it is not native to the region and was imported there. Prior to [[Generation VIII]], Yungoos and its evolved form, {{p|Gumshoos}}, were the [[Signature Ability|only known Pokémon]] that could have {{a|Stakeout}} as an [[Ability]].
+
+===Evolution===
+Yungoos evolves into {{p|Gumshoos}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0734
+|name1=Yungoos
+|type1-1=Normal
+|evo1=
+|no2=0735
+|name2=Gumshoos
+|type1-2=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=013|reg2=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.}}
+{{Dex/Entry1|v=Moon|entry=It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Its stomach takes up most of its long torso. It's a big eater, so the amount Trainers have to spend on its food is no laughing matter.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=27|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It spends its waking hours searching for food. When Yungoos is hungry, its ferocity gains a certain edge.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{normal color dark}}; background:#{{normal color light}}| [[File:Pokédex Image Yungoos SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{normal color dark}}; background:#{{normal color light}}| [[File:Pokédex Image Yungoos USUM.png|x200px]]
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Yungoos SV.png|x200px]]
+|-
+| Yungoos in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Yungoos in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Yungoos in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|v=Sun|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|2|Alola}}, {{rtn|3|Alola}}, {{rtn|4|Alola}}, {{rtn|6|Alola}}, {{rtn|8|Alola}}, [[Hau'oli City]], [[Kala'e Bay]]{{Sup/t|D}}<br/>[[Verdant Cavern]]}}
+{{Availability/Entry1|v=Moon|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|2|Alola}}, {{rtn|3|Alola}}, {{rtn|4|Alola}}, {{rtn|6|Alola}}, {{rtn|8|Alola}}, [[Hau'oli City]], [[Kala'e Bay]]{{Sup/t|D}}}}
+{{Availability/Entry1|v=Ultra Sun|t=FFF|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|2|Alola}}, {{rtn|4|Alola}}, {{rtn|6|Alola}}, {{rtn|8|Alola}}, [[Kala'e Bay]]{{Sup/t|D}}<br/>[[Verdant Cavern]]}}
+{{Availability/Entry1|v=Ultra Moon|t=FFF|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|2|Alola}}, {{rtn|4|Alola}}, {{rtn|6|Alola}}, {{rtn|8|Alola}}, [[Kala'e Bay]]{{Sup/t|D}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Three)|Area Three]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]], [[Inlet Grotto]]<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]]<br>West Province: [[West Province (Area One)|Area One]], [[West Province (Area Two)|Area Two]], [[Asado Desert]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Yungoos|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Rowlet Sea]], [[Buzzwole Sea]], [[Rowlet Sea]]<sup>Final</sup>, [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Pokémon Safari]]'' <small>(Week 1-2)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Normal}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Items1|Pecha Berry|5|rows=3}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=FFF|tcolor2=FFF|Pokémon Scarlet and Violet}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|HP=48
+|Attack=70
+|Defense=30
+|SpAtk=30
+|SpDef=30
+|Speed=45
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Yungoos|Normal|Normal|7}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|3|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|7|Payback|Dark|Physical|50|100|10}}
+{{learnlist/level9|10|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|13|Work Up|Normal|Status|—|—|30}}
+{{learnlist/level9|19|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|22|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level9|25|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/level9|28|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level9|31|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level9|34|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level9|37|Yawn|Normal|Status|—|—|10}}
+{{learnlist/level9|40|Thrash|Normal|Physical|120|100|10||'''}}
+{{learnlist/level9|43|Rest|Psychic|Status|—|—|5}}
+{{learnlist/levelf/9|Yungoos|Normal|Normal|7}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Yungoos|Normal|Normal|7}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM008|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/tm9|TM010|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM063|Psychic Fangs|Psychic|Physical|85|100|10}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tmf/9|Yungoos|Normal|Normal|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Yungoos|Normal|Normal|7}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/breed9|{{MSP/H|0024|Arbok}}{{MSP/H|0058|Growlithe}}{{MSP/H|0058-Hisui|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059-Hisui|Arcanine}}{{MSP/H|0136|Flareon}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0228|Houndour}}{{MSP/H|0229|Houndoom}}{{MSP/H|0232|Donphan}}{{MSP/H|0262|Mightyena}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/breed9|{{MSP/H|0024|Arbok}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0262|Mightyena}}{{MSP/H|0419|Floatzel}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0471|Glaceon}}|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0231|Phanpy}}{{MSP/H|0417|Pachirisu}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/breed9|{{MSP/H|0024|Arbok}}{{MSP/H|0135|Jolteon}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0229|Houndoom}}{{MSP/H|0232|Donphan}}{{MSP/H|0262|Mightyena}}{{MSP/H|0450|Hippowdon}}|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/breedf/9|Yungoos|Normal|Normal|7}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Shuffle|col=6|type=Normal|ndex=734|num=799
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Barrier Break
+|skilldesc=Rarely removes all barrier-type disruptions.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=734
+|walk=1.55
+|hp=47
+|attack=66
+|defense=41
+|speed=60
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=734
+|hatch=2 Km
+|buddy=1
+|candy=Yungoos
+|evocandy=50 + [[File:Sunny icon GO.png|20px|Day mode|link=Time]]
+|stamina=134
+|attack=122
+|defense=56
+|fast={{m|Tackle}}, {{m|Bite}}
+|special={{m|Hyper Fang}}, {{m|Crunch}}, {{m|Rock Tomb}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0734
+|name1=Yungoos
+|type1-1=Normal
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Day Icon SV.png|40px|link=Time]]<br>{{color2|000|Level|Level 20}}<br><small>during the {{color2|000|Time|day}}</small>
+|no2=0735
+|name2=Gumshoos
+|type1-2=Normal
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=734|crop=80}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9|ndex=0734}}-->
+{{Spritebox/HOME|ndex=0734}}
+{{Spritebox/Footer|734|Yungoos}}
+
+==In animation==
+[[File:Yungoos anime.png|thumb|250px|Yungoos in {{aniseries|SM}}]]
+===Major appearances===
+Yungoos debuted in ''[[SM001|Alola to New Adventure!]]'', under the ownership of [[Zipp]]. They battled [[Kiawe's Turtonator]] and [[Ash's Pikachu]], but were swiftly defeated by Turtonator's {{m|Inferno Overdrive}}.
+
+An {{DL|Totem Pokémon|Ally Yungoos}} accompanied {{DL|Totem Pokémon|Totem Gumshoos}} in ''[[SM009|To Top a Totem!]]''. Both battled Pikachu and {{AP|Rowlet}} as part of the [[Verdant Cavern]] trial, but the were soon defeated. It reappeared in a flashback in ''[[SM010|Trial and Tribulation!]]''.
+
+Another {{tc|Team Skull Grunt}} used a Yungoos in ''[[SM065|Turning Heads and Training Hard!]]''. It was quickly defeated by [[Ilima]] and his {{p|Eevee}}. It reappeared in ''[[SM129|Battle Royal 151!]]''. It reappeared once more in ''[[SM146|Thank You, Alola! The Journey Continues!]]''.
+
+===Minor appearances===
+{{an|Giovanni}} used the image of a Yungoos in ''[[SM003|Loading the Dex!]]'' when he told {{TRT}} about the rare Pokémon that appear in the [[Alola]] [[region]].
+
+A {{pkmn|Trainer}}'s Yungoos competed in the [[Pokémon Pancake Race]] in ''[[SM013|Racing to a Big Event!]]''.
+
+A Yungoos was injured in ''[[SM037|Rising from the Ruins!]]'', but healed by {{DL|Guardian deities (anime)|Tapu Lele}}.
+
+A Trainer's Yungoos appeared in ''[[SM081|A Young Royal Flame Ignites!]]''.
+
+A Trainer's Yungoos was at the [[Pokémon Paradise Resort]] in ''[[SM086|I Choose Paradise!]]''.
+
+{{an|Brock}} treated a Trainer's Yungoos at the [[Pokémon Center]] in ''[[SM102|Alola, Alola!]]'' after it hurt its jaw.
+
+A Yungoos was on set filming ''Little Magikarp's Melody'' in ''[[SM113|This Magik Moment!]]''.
+
+A Trainer's Yungoos appeared in ''[[SM117|Drawn with the Wind!]]''.
+
+Four Yungoos appeared in ''[[SM125|A Timeless Encounter!]]'', with one appearing in a picture.
+
+Three Yungoos appeared in ''[[SM126|Pikachu's Exciting Adventure!]]''.
+
+A Trainer's Yungoos competed in the [[Battle Royal]] preliminary round of the [[Manalo Conference]] in ''[[SM129|Battle Royal 151!]]'', but ended up losing.
+
+A Trainer's Yungoos appeared in ''[[SM130|Battling Besties!]]''.
+
+A Trainer's Yungoos watched the battle in ''[[SM144|From Z to Shining Z!]]'' between Ash's Pikachu and {{DL|Guardian deities (anime)|Tapu Koko}}.
+
+A Trainer's Yungoos was captured by the [[Matori Matrix]] in ''[[JN024|A Little Rocket R & R!]]'' but helped thwart them.
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM009|Yungoos and Gumshoos|Rotom Pokédex|Yungoos, the Loitering Pokémon. {{p|Gumshoos}}, the Stakeout Pokémon. Both are {{t|Normal}} types. Yungoos have sturdy fangs and jaws, and when they evolve into Gumshoos, they gain a certain tenacity and patience.}}
+{{Animedexfooter/Pokémon|Alola}}
+
+===POKÉTOON===
+A Yungoos appeared in ''[[PT07|Snorunt's Summer Vacation]]''.
+
+==In the manga==
+[[File:Preschooler Yungoos Adventures.png|thumb|200px|Yungoos in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Yungoos debuted in ''[[PASM04|The Decision and the Tournament of Six]]'', under the ownership of a {{pkmn|Trainer}}.
+
+A Yungoos appeared in ''[[PASM15|Shipwreck and "Oh, What Sharp Teeth You Have, Bruxish!"]]'', where it was seen with two {{tc|Preschooler}}s at the [[Aether House]].
+
+[[Ilima]]'s Yungoos first appeared in ''[[PASM16|A Photoshoot and the Abandoned Thrifty Megamart]]''.
+
+A Trainer's Yungoos appeared in ''[[PASM19|Truth and the Mastermind Behind Team Skull]]''.
+
+A {{tc|Team Star Grunt}}'s Yungoos appeared in ''[[PASV03|Battle! Team Star, the Delinquents!!]]''.
+
+Three Yungoos appeared in ''[[PASV06|Skillful! The Mysterious Treasure Hunter!!]]''.
+{{-}}
+
+==In the TCG==
+{{main|Yungoos (TCG)}}
+==Trivia==
+* Yungoos may be considered a counterpart of {{rf|Alolan}} {{p|Rattata}}. They can be caught at certain times of the day (Yungoos at day, Alolan Rattata at night). They also evolve into {{p|Gumshoos}} and Alolan {{p|Raticate}}, respectively, at level 20 at their respective times. Also, their evolved forms are the Totem Pokémon in their respective games (Gumshoos in {{pkmn|Sun and Moon|Sun}} and {{pkmn|Ultra Sun and Ultra Moon|Ultra Sun}}, Raticate in {{pkmn|Sun and Moon|Moon}} and {{pkmn|Ultra Sun and Ultra Moon|Ultra Moon}}).
+* Yungoos and its Evolution are the only Pokémon that have {{a|Stakeout}} as a standard [[Ability]] instead of a [[Hidden Ability]].
+
+===Origin===
+Yungoos appears to be based on a {{wp|mongoose}}, such as the {{wp|small Indian mongoose}}, which was imported to {{wp|Hawaii}} to counter the rat problems on sugar cane plantations. However, the small Indian mongoose is diurnal while rats are nocturnal, thus the small Indian mongoose was ineffective at its intended role and became an {{wp|invasive species}}. This is reflected in-game by the fact that Yungoos can only be found during the day, while Alolan Rattata can only be found at night.
+
+In an interview with Game Informer published on October 19, 2016, [[Junichi Masuda]] and [[Shigeru Ohmori]] of [[GAME FREAK]] stated that the similarities between Yungoos and {{wp|Donald Trump}} were unintentional.<ref>Hilliard, Kyle (October 19, 2016). "[https://web.archive.org/web/20240522180212/https://www.gameinformer.com/b/features/archive/2016/10/19/burning-questions-for-pokemon-sun-and-moon.aspx Burning Questions For Pokémon Sun & Moon.]" ''Game Informer'' (Archived on May 22, 2024.)</ref>
+
+====Name origin====
+Yungoos and Youngoose may be a combination of ''young'' or ヤンキー ''yankī'' (a certain style of juvenile delinquent) and ''mongoose''.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ヤングース ''Youngoose''|jameaning=From ''young'', {{tt|ヤンキー ''yankī''|juvenile delinquent}}, and ''mongoose''
+|fr=Manglouton|frmeaning=From {{tt|''mangouste''|mongoose}} and {{tt|''glouton''|glutton}}
+|es=Yungoos|esmeaning=Same as English name
+|de=Mangunior|demeaning=From {{tt|''Manguste''|mongoose}} and ''Junior''
+|it=Yungoos|itmeaning=Same as English name
+|ko=영구스 ''Yeongguseu''|komeaning=Transliteration of its Japanese name
+|zh_cmn=貓鼬少 / 猫鼬少 ''Māoyòushào''|zh_cmnmeaning=From {{tt|貓鼬 / 猫鼬 ''māoyòu''|mongoose}} and {{tt|少 ''shào''|young; young master}} or {{tt|惡少 / 恶少 ''èshào''|ruffian}}
+|zh_yue=貓鼬少 ''Māauyauhsiu''|zh_yuemeaning=From {{tt|貓鼬 ''māauyauh''|mongoose}} and {{tt|少 ''siu''|young; young master}} or {{tt|惡少 / 恶少 ''oksiu''|ruffian}}
+|hi=यंगूस ''Yungoos''|himeaning=Transcription of English/Japanese name
+|ru=Янгус ''Yangus''|rumeaning=Transcription of English name
+|th=ยังกูส ''Yangkut''|thmeaning=Transcription of Japanese name
+}}{{-}}
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0733|prev=Toucannon|nextnum=0735|next=Gumshoos}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve based on time]]
+[[Category:Pokémon that evolve only during the day]]
+
+[[de:Mangunior]]
+[[es:Yungoos]]
+[[fr:Manglouton]]
+[[it:Yungoos]]
+[[ja:ヤングース]]
+[[zh:猫鼬少]]

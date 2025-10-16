@@ -1,0 +1,1154 @@
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/GO|species=Diglett}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0049|prev=Venomoth|nextnum=0051|next=Dugtrio|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Diglett
+|jname=ディグダ
+|jtranslit=Diguda
+|tmname=Digda
+|forme=2
+|form1=Diglett
+|form2=Alolan Diglett
+|image2=0050Diglett-Alola.png
+|ndex=0050
+|type1=Ground
+|form2type1=Ground
+|form2type2=Steel
+|category=Mole
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=1.8
+|weight-kg=0.8
+|weight-lbs2=2.2
+|weight-kg2=1.0
+|abilitylayout=2+1
+|abilitycold=2
+|ability1=Sand Veil
+|ability2=Arena Trap
+|ability2-1=Sand Veil
+|ability2-2=Tangling Hair
+|abilityd=Sand Force
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=1
+|evsp=1
+|expyield=53
+|oldexp=81
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=05
+|pokefordex=diglett
+|generation=1
+|friendship=70
+}}
+'''Diglett''' ([[List of Japanese Pokémon names|Japanese]]: '''ディグダ''' ''Digda'') is a {{type|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Dugtrio}} starting at [[level]] 26.
+
+In [[Alola]], Diglett has a dual-type {{2t|Ground|Steel}} [[regional form]]. It evolves into {{rf|Alolan}} Dugtrio starting at level 26.
+
+It is [[Ecologically similar Pokémon|ecologically similar]] to {{p|Wiglett}}; however, the two are separate species.
+
+==Biology==
+Diglett is a tiny, brown {{OBP|Pokémon|species}} that seems to be perpetually buried within the earth, leaving only its head visible. Its small stature makes it both the [[List of Pokémon by weight|lightest]] and [[List of Pokémon by height|shortest]] {{type|Ground}}. It has beady black eyes and a large, round, pink nose. A Diglett in [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]] mentions that it has feet, though their size and appearance are unknown. It spends much of its time underground and has very thin skin. If Diglett is exposed to sunlight, its blood will heat up and cause it to grow weak.
+
+Diglett lives in tunnels and {{DL|List of Pokémon by habitat|Cave Pokémon|caves}} under the earth, where it feeds on tree roots and vegetables. It is known to live in burrows left behind by {{p|Onix}}. It also sometimes lives in burrows near forests and has even [[PK04|been shown]] to live inside of trees. Diglett digs regularly through the earth at a shallow depth, leaving perfectly tilled soil in its wake. Some farmers welcome Diglett because it tills their fields and its droppings enrich the soil, but others consider it a pest for eating their vegetables. As mentioned in [[Pokémon Sleep]], Diglett is known to sleep underground during the night. Seeing a Diglett asleep above ground is considered to be good luck.<ref>[[Sleep style|Sleep Style Dex]]</ref>
+
+In [[Generation II]], Diglett and its evolved form, {{p|Dugtrio}}, were the [[Signature move|only known Pokémon]] capable of learning the move {{m|Fissure}}.
+
+===Forms===
+Diglett has a [[regional form]]: {{rf|Alolan}} Diglett.
+
+In [[Alola]], Diglett has developed three fine gold whiskers on its head from living in soil with high iron content and volcanic environment. These whiskers function as sensors and allow it to monitor its surroundings without coming above ground, though it will still occasionally poke its head out to see outside. The whiskers can also be used for communication, wobbling around to relay mood or emotion. They stand straight up for anger, swing around for happiness, and droop for sadness.<ref>[https://www.Pokémon-sunmoon.com/en-us/Pokémon/alolan-diglett/ Pokémon Sun and Moon site | Alolan Diglett]</ref> 
+
+Needing to be able to dig through Alola's volcanic rock, Alolan Diglett is notably stronger than its non-Alolan counterparts. In Alola, their tunneling activity has resulted in creating cultivated soil. This cultivated soil is good enough for agriculture. The people in the Alola region are said to be very grateful for the actions of Alolan Diglett. However, they are still very small, tying with {{p|Klefki}} and {{p|Meltan}} as the shortest {{type|Steel}}. They can also be found in the [[Coastal Biome]] of [[Blueberry Academy]]'s [[Terarium]], where Alola's island life is simulated.
+
+Alolan Diglett and its Evolution are the [[Signature Ability|only known Pokémon]] that can have {{a|Tangling Hair}} as an [[Ability]].
+
+Despite Diglett having a strong resemblance to {{p|Wiglett}} from the [[Paldea]] region, the two Pokémon species are not biologically related, having entirely separate diets and habitats.<ref>[https://wpes.pokemon.co.jp/en/ World Pokémon Ecological Society]</ref> Their resemblance to each other is said to be a coincidental result of adaptations to their respective environments.<ref>[https://scarletviolet.pokemon.com/en-us/pokemon/wiglett/ Pokémon Scarlet and Violet site | Wiglett]</ref>
+
+===Evolution===
+Diglett evolves into {{p|Dugtrio}}.
+
+{{rf|Alolan}} Diglett evolves into Alolan Dugtrio.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Diglett'''
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=0050
+|name1=Diglett
+|type1-1=Ground
+|evo1=
+|no2=0051
+|name2=Dugtrio
+|type1-2=Ground}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Alolan Diglett'''
+{{Evobox-2
+|type1=Ground
+|type2=Steel
+|pictype=sprite
+|no1=0050Diglett-Alola
+|name1=Diglett
+|form1=Alolan Form
+|type1-1=Ground
+|type2-1=Steel
+|evo1=
+|no2=0051Dugtrio-Alola
+|name2=Dugtrio
+|form2=Alolan Form
+|type1-2=Ground
+|type2-2=Steel}}
+</div>
+</div>
+
+==Game data==
+===NPC appearances===
+* {{g|Sword and Shield}} - [[The Isle of Armor]]: There is a side quest where the player is tasked with finding 150 Alolan Diglett scattered throughout the [[Isle of Armor]].
+* {{g|Brilliant Diamond and Shining Pearl}}: Diglett and {{p|Dugtrio}} can be found roaming the halls of the [[Grand Underground]]. When 40 Diglett (or Dugtrio, which counts as 3) have been found, all players in the same Grand Underground session will receive a variety of bonuses for a period of 4 minutes. These include raising the odds of finding a [[Shiny Pokémon]] in a Pokémon Hideaway from 1/4096 to 1/2048, and forcing all Stone Boxes found when mining to become Pretty Stone Boxes.
+* {{g|Pinball}}: Numerous Diglett appear in a bonus stage accessible from the Red Table, where the aim is to knock all the Diglett out. Once achieved a {{p|Dugtrio}} appears which must be knocked out. More Diglett appear on the Red Table itself and earn the player points upon being hit.
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]]: The third story mission of the game is to rescue a Diglett from [[Mt. Steel]]. Afterwards, Diglett can be found near [[Pelipper Post Office]]. Diglett's hero is its father, {{p|Dugtrio}}, who it thinks can do anything.
+* [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]: Diglett is one of the members of [[Wigglytuff's Guild|Wigglytuff Guild]]. His primary role is sentry duty, to examine visitors' footprints and say what Pokémon they are. Like in the first game, Diglett also has a father who it thinks can swim in the sea.
+* [[Pokémon Mystery Dungeon: Rescue Team DX]]: A group of Diglett will accidentally burrow their way to the player's home from the Pelipper Post Office. As an apology, the player is given free access to use the tunnel to immediately go to the post office directly from their home.
+
+===Pokédex entries===
+{{Dex/Header|type=Ground}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=050}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Lives about {{tt|one yard|1 meter}} underground where it feeds on plant roots. It sometimes appears above ground.}}
+{{Dex/Entry1|v=Yellow|entry=It prefers dark places. It spends most of its time underground, though it may pop up in caves.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Its head pokes up approximately {{tt|eight inches|20 centimeters}} out of the ground. However, its real size remains a mystery to this day.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=132}}
+{{Dex/Entry1|v=Gold|entry=Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.}}
+{{Dex/Entry1|v=Silver|entry=If a <sc>Diglett</sc> <sc>Digs</sc> through a field, it leaves the soil perfectly tilled and ideal for planting crops.}}
+{{Dex/Entry1|v=Crystal|entry=It digs underground and chews on tree roots, sticking its head out only when the sun isn't bright.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>If a <sc>Diglett</sc> <sc>Dig</sc>s through a field, it leaves the soil perfectly tilled and ideal for planting crops. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=050}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Diglett</sc> are raised in most farms. The reason is simple - wherever this {{ScPkmn}} burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=<sc>Diglett</sc> are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.}}
+{{Dex/Entry1|v=FireRed|entry=It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.}}
+{{Dex/Entry1|v=LeafGreen|entry=Lives about {{tt|one yard|1 meter}} underground where it feeds on plant roots. It sometimes appears aboveground.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=134}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.}}
+{{Dex/Entry1|v=HeartGold|entry=Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.}}
+{{Dex/Entry1|v=SoulSilver|entry=If a <sc>Diglett</sc> digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=001|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Diglett are raised in most farms. The reason is simple— wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=071|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=085|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=050}}
+{{Dex/Entry1|v=Sun|entry=It chews on plant roots underground. Farmers whose vegetables are vulnerable find it can be quite a pest.}}
+{{Dex/Entry1|v=Moon|entry=Many farmers cherish and nurture Diglett because its droppings enrich the soil it lives in.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It travels through tunnels that it digs underground. It hates sunlight, so it comes out only after the sun goes down.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Around their crops, farmers plant the kind of tree that Diglett like to eat as a way of getting Diglett to plow the fields for them.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=It prefers dark places. It spends most of its time underground, though it may pop up in caves.}}
+{{Dex/Form|Alolan Diglett}}
+{{Dex/Entry1|v=Sun|entry=Its head sports an altered form of whiskers made of metal. When in communication with its comrades, its whiskers wobble to and fro.}}
+{{Dex/Entry1|v=Moon|entry=Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Although it's powerful enough to dig right through volcanic rock, it doesn't allow itself to be seen very often.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=The need to dig through volcanic rock in the ground has made them more powerful than the Diglett of other regions.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=After living in soil with high iron content for some time, three steel whiskers sprouted from the top of its head.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=164|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=This Pokémon lives underground. Because of its dark habitat, it is repelled by bright sunlight.}}
+{{Dex/Form|Alolan Diglett}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=The metal-rich geology of this Pokémon's habitat caused it to develop steel whiskers on its head.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its three hairs change shape depending on Diglett's mood. They're a useful communication tool among these Pokémon.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=148|reg2=Kitakami|reg3=Blueberry|num3=66}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.}}
+{{Dex/Form|Alolan Diglett}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The things growing from its head are whiskers that have become metallic. Diglett communicates with its comrades by waving them.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Its golden whiskers function as sensors. It pokes them out of its burrow to monitor its surroundings.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{ground color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{ground color light}};" | [[File:Pokédex Image Diglett SM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{steel color dark}}; background:#{{ground color light}};" | [[File:Pokédex Image Diglett-Alola SM.png|x200px]]
+|-
+| Diglett in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Alolan Diglett in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+| style="border:2px solid #{{ground color dark}}; background:#{{ground color light}}; {{roundy|5px}};" | [[File:Pokédex Image Diglett SV.png|x200px]]
+| style="border:2px solid #{{steel color dark}}; background:#{{ground color light}}; {{roundy|5px}};" | [[File:Pokédex Image Diglett SV Blueberry.png|x200px]]
+|-
+| Diglett in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Alolan Diglett in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|}
+
+===Game locations===
+{{Availability/Header|type=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=FFF|area=[[Diglett's Cave]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=FFF|link=Pokémon Blue Version (Japanese)|area=[[Diglett's Cave]]}}
+{{Availability/Entry1|v=Yellow|area=[[Diglett's Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Diglett's Cave]]}}
+{{Availability/Entry1|v=Crystal|area=[[Diglett's Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Diglett's Cave]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|228|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|228|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|48|Johto}}, [[Diglett's Cave]]<br/>{{safari|Johto}} (tall grass in Marshland with 5 Peak points)<br>[[Vermilion City]] ({{m|Rock Smash}})}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Pokémon breeding|Breed]] {{p|Dugtrio}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Fiery Path]] ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|5|Alola}} and {{rtn|7|Alola}}, [[Diglett's Tunnel]], [[Lush Jungle]] (Cave), [[Seaward Cave]], [[Ten Carat Hill]], [[Verdant Cavern]] <small>('''Alolan Form''')</small><br>[[Pokémon Bank]] <small>('''Kantonian Form''')</small>}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Route]]s {{rtn|5|Alola}} and {{rtn|7|Alola}}, [[Diglett's Tunnel]], [[Verdant Cavern]] <small>('''Alolan Form''')</small><br>[[Pokémon Bank]] <small>('''Kantonian Form''')</small>}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Diglett's Cave]] <small>('''Kantonian Form''')</small><br/>[[In-game trade|Trade]] Kantonian Diglett in [[Lavender Town]] <small>('''Alolan Form''')</small>
+}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|4|Galar}}, [[Galar Mine]], [[Rolling Fields]], [[Giant's Mirror]] <small>('''Kantonian Form''')</small><br>[[Bridge Field/Dens|Bridge Field]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]]) <small>('''Kantonian Form''')</small><br>[[Trade]] <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[List of in-game event Pokémon in Pokémon Sword and Shield#Alolan Diglett|Reward]] for finding 150 {{rf|Alolan}} Diglett <small>('''Alolan Form''')</small>}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|228|Sinnoh}} <small>('''Kantonian Form''')</small><br>Unobtainable <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Two)|Area Two]], [[South Province (Area Six)|Area Six]], [[Inlet Grotto]], [[Alfornada Cavern]] <small>('''Kantonian Form''')</small><br>East Province: [[East Province (Area Three)|Area Three]] <small>('''Kantonian Form''')</small><br>West Province: [[Asado Desert]] <small>('''Kantonian Form''')</small><br>South Province: [[South Province (Area Two)|Area Two]] ({{t|Rock}} {{Tera}} [[Type]]) <small>('''Kantonian Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Diglett|2★}}) <small>('''Kantonian Form''')</small><br>[[Trade]] <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Coastal Biome]], [[Torchlit Labyrinth]] <small>('''Alolan Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Blueberry Academy)|Diglett - Alolan Form|3★}}) <small>('''Alolan Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Tunnel]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Red Field|Red]] and [[Blue Field]]: [[Rock Tunnel|Rock Mountain]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field|Back Yard]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|3|Phobos Drill}}, Endless Level 30, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Southern Cavern]] (B1F-B7F), [[Joyous Tower]] (4F-6F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Krokka Tunnel]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Shimmer Desert]] (1F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Shimmer Desert]] (1F-9F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area={{OBP|Rocky Cave|Rumble}} <small>(Normal Mode B)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Cavern Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Misty Edgewater]], [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#It's Drill Time!|Variety Battle: It's Drill Time!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 1|Safari Jungle: Stage 1]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Heat-Wave Desert|Fairy Land: Heat-Wave Desert]] <small>(All Areas)</small>, [[Legend Terrain#Sky Crest Range|Legend Terrain: Sky Crest Range]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Zapdos Sea]], [[Celebi Sea]], [[Lugia Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Celebi Sea]]<sup>Final</sup> <small>('''Kantonian Form''')</small><br>[[Zygarde Sea]], [[Zygarde Sea]]<sup>Final</sup> <small>('''Alolan Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Southern Cavern]] (1F-7F), [[Joyous Tower]] (4F-6F)<br/>Fainted Pokémon: [[Desert Region]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Barren Badlands]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]], [[Cyan Beach]], [[Taupe Hollow]], [[Old Gold Power Plant]] (from Basic 1) <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Prasino Woods|Prasino Woods: Stage 569]] <small>('''Kantonian Form''')</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#17th release|''Pokémon Safari'']] <small>(17th release; '''Alolan Form''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Egg event]] (''{{DL|Egg event|Ground- and Fighting-Type Egg Event}}''): {{sync/player|egg|Diglett}} <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====Alolan Diglett=====
+{{eventAvail/h|Region|type=Ground|type2=Steel}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Sun & Moon Alolan Diglett|Korean region|Online|10|May 2 to June 30, 2017|link=List of Korean region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Alolan Diglett}}
+|}
+
+===Held items===
+====Diglett====
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Ground}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Soft Sand|5|rows=6}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=FFF|tcolor2=FFF|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+
+====Alolan Diglett====
+{{HeldItems/header|type=Ground|type2=Steel}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Items1|Soft Sand|5|rows=2}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+|}
+
+===Stats===
+====Base stats====
+=====Diglett=====
+{{Stats
+|type=Ground
+|HP=10
+|Attack=55
+|Defense=25
+|SpAtk=35
+|SpDef=45
+|Speed=95
+|Special=45
+}}
+
+=====Alolan Diglett=====
+{{Stats
+|type=Ground
+|type2=Steel
+|HP=10
+|Attack=55
+|Defense=30
+|SpAtk=35
+|SpDef=45
+|Speed=90
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|Speed=4
+|SpeedMax=5
+|Power=1
+|PowerMax=2
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=1
+|JumpMax=1
+}}
+
+===Type effectiveness===
+====Diglett====
+{{TypeEffectiveness
+|type1=Ground
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=1
+}}
+
+* In addition, Diglett is immune to the move {{m|Telekinesis}}.
+
+====Alolan Diglett====
+{{TypeEffectiveness
+|type1=Ground
+|type2=Steel
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=25
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=200
+|Water=200
+|Grass=100
+|Electric=0
+|Psychic=50
+|Ice=100
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|ground=yes
+|newelectric=1
+|steel=yes
+|newpoison=½
+}}
+
+* In addition, Alolan Diglett is immune to the move {{m|Telekinesis}}.
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Diglett=====
+{{learnlist/levelh/9|Diglett|Ground|Ground|1}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|4|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|8|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|12|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level9|16|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|20|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level9|24|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level9|28|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level9|32|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level9|36|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|40|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level9|44|Fissure|Ground|Physical|—|30|5}}
+{{learnlist/levelf/9|Diglett|Ground|Ground|1}}
+
+=====Alolan Diglett=====
+{{learnlist/levelh/9|Diglett|Ground|Steel|7}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|1|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level9|4|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|8|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|12|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level9|16|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|20|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level9|24|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level9|28|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level9|32|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level9|36|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|40|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level9|44|Fissure|Ground|Physical|—|30|5}}
+{{learnlist/levelf/9|Diglett|Ground|Steel|7}}
+
+====By [[TM]]====
+=====Diglett=====
+{{learnlist/tmh/9|Diglett|Ground|Ground|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Diglett|Ground|Ground|1}}
+
+=====Alolan Diglett=====
+{{learnlist/tmh/9|Diglett|Ground|Steel|7}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tmf/9|Diglett|Ground|Steel|7}}
+
+====By {{pkmn|breeding}}====
+=====Diglett=====
+{{learnlist/breedh/9|Diglett|Ground|Ground|2}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed9|{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}|Final Gambit|Fighting|Special|—|100|5}}
+{{learnlist/breed9|{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0273|Seedot}}{{MSP/H|0287|Slakoth}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}{{MSP/H|0875|Eiscue}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0971|Greavard}}{{MSP/H|0972|Houndstone}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0863|Perrserker}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215|Sneasel|form=-Hisui}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0335|Zangoose}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0570|Zorua}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571|Zoroark|form=-Hisui}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/breed9|{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}|Memento|Dark|Status|—|100|10}}
+{{learnlist/breedf/9|Diglett|Ground|Ground|2}}
+
+=====Alolan Diglett=====
+{{learnlist/breedh/9|Diglett|Ground|Steel|7}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed9|{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}|Final Gambit|Fighting|Special|—|100|5}}
+{{learnlist/breed9|{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0273|Seedot}}{{MSP/H|0287|Slakoth}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}{{MSP/H|0875|Eiscue}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0971|Greavard}}{{MSP/H|0972|Houndstone}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0863|Perrserker}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215|Sneasel|form=-Hisui}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0335|Zangoose}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0570|Zorua}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571|Zoroark|form=-Hisui}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/breed9|{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}|Memento|Dark|Status|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0863|Perrserker}}{{MSP/H|0448|Lucario}}|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0863|Perrserker}}{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0128|Tauros}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128-Paldea Blaze|Tauros}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0522|Blitzle}}{{MSP/H|0523|Zebstrika}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0766|Passimian}}{{MSP/H|0775|Komala}}{{MSP/H|0877|Morpeko}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breedf/9|Diglett|Ground|Steel|7}}
+
+====Special moves====
+=====Diglett=====
+{{learnlist/eventh/9|Diglett|Ground|Ground|1}}
+{{learnlist/event9|[[South Province (Area Two)|Wild Tera Pokémon]]|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/eventf/9|Diglett|Ground|Ground|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color}}; border: 3px solid #{{tcg fighting color dark}}"
+|-
+! style="background: #{{tcg fighting color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg fighting color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff" | {{m|Peck}}
+| style="background:#fff" | [[Diglett (Asobikata promo)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Sand Tomb}}
+| style="background:#fff; {{roundybr|5px}}" | [[Diglett (EX Crystal Guardians 50)]]
+|}
+
+===Side game data===
+====Diglett====
+{{Spindata/Head|type=Ground}}
+{{Spindata/Pinball|col=3|type=Ground|ndex=050|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Ground|ndex=050|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Ground|ndex=050
+|body=1
+|rate=10.9
+|area=Boulder Cave
+|P1=Please don't whack me on the head!
+|P2=My health is down to half.
+|P3=I can't keep going... Can I burrow out of this?
+|PL=Oh, wow! I must have leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ground|ndex=050
+|body=1
+|rate=8.2
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Ground|ndex=050
+|coset=3
+|conto={{p|Dugtrio}}, {{p|Skarmory}}, {{p|Chimecho}}
+|recruitment=Item delivery
+|P1=I'm working on this adventure!
+|P2=I'm getting a bit tired…
+}}
+|-
+{{Spindata/Ranger|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|fieldpower=0
+|field=None
+|loop=2
+|MinEXP=22
+|MaxEXP=36
+|num=061
+|browser=Diglett burrows about underground. It sometimes rests with its head poking out.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ground
+|att=2
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ground
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ground|ndex=050
+|walk=2.92
+|hp=29
+|attack=66
+|defense=43
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ground|ndex=050
+|Pad=Diglett cunningly moved the Mine Cart Rail hidden inside the Berry Storage in the [[Cavern Zone]] and placed it under {{P|Snorlax}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Ground|ndex=050
+|pad=He is shy and hides quickly, but he actually wants to become friends with everyone in PokéPark.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ground|ndex=050
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Ground|ndex=050|num=704
+|min=30
+|max=120
+|raisemaxlevel=20
+|skill=Stabilize+
+|skilldesc=Sometimes erases two of the foe's disruptions on the board.
+|swapper=Super Cheer
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=050
+|hatch=N/A{{tt|*|5&nbsp;km Eggs obtained prior to February 8, 2017 can hatch into Diglett}}
+|buddy=3
+|candy=Diglett
+|evocandy=50
+|stamina=67
+|attack=109
+|defense=78
+|fast={{m|Mud-Slap}}{{tt|*|From August 19, 2016 onward}}, {{m|Scratch}}, {{m|Mud Shot}}{{tt|×|Prior to August 19, 2016}}
+|special={{m|Dig}}, {{m|Mud Bomb}}, {{m|Rock Tomb}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Ground|ndex=050|pdex=225
+|dex=Diglett aren’t fond of sunlight, so they live in the ground. The holes left behind by burrowing {{p|Onix}} provide cover from the bright sun, making them perfect homes for Diglett!}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0050
+|pokemon=Diglett
+|sleeptype=Snoozing
+|type=Ground
+|dexentry=It usually lives underground, so at night, it tends to sleep there as well. If you happen to see one sleep above ground, it may be a sign of good luck
+|sleepstyle1=Underground Sleep
+|sleepstyle2=Aboveground Sleep
+|sleepstyle3=Mid-Dig Sleep
+|friendpoints=5
+|specialty=Ingredients
+|evolution=Lv. 20
+|candyNum=40
+|berry=Figy
+|ingredient1=Snoozy Tomato
+|ingredient2=Large Leek
+|ingredient3=Greengrass Soybeans
+|carrylimit=10
+|skillname=Charge Strength S
+|skilldesc=Increases {{sleep|Snorlax}}'s Strength by 400.
+}}
+|}
+
+In {{g|GO}}, Diglett could be obtained by completing 1/4 of the [[Special Research]], ''Distracted by Something Shiny''.
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{ground color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{ground color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{ground color dark}}; background:#{{ground color light}};"| [[File:GO050Fashion2022.png|100px]]
+|-
+| Fashionable costume
+|}
+
+====Alolan Diglett====
+{{Spindata/Head|type=Ground|type2=Steel}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=050A|stype=Steel|num=704
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Rock Break+
+|skilldesc=Sometimes destroys three breakable-rock disruptions.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ground|ndex=050A
+|walk=2.92
+|hp=29
+|attack=66
+|defense=44
+|speed=60
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=050A
+|hatch=N/A
+|buddy=3
+|candy=Diglett
+|evocandy=50
+|stamina=67
+|attack=108
+|defense=81
+|fast={{m|Mud-Slap}}, {{m|Metal Claw}}, {{m|Sand Attack}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Dig}}, {{m|Mud Bomb}}, {{m|Rock Tomb}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+====Diglett====
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=0050
+|name1=Diglett
+|type1-1=Ground
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 26}}
+|no2=0051
+|name2=Dugtrio
+|type1-2=Ground}}
+
+====Alolan Diglett====
+{{Evobox-2
+|type1=Ground
+|type2=Steel
+|pictype=sprite
+|no1=0050Diglett-Alola
+|name1=Diglett
+|form1=Alolan Form
+|type1-1=Ground
+|type2-1=Steel
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 26}}
+|no2=0051Dugtrio-Alola
+|name2=Dugtrio
+|form2=Alolan Form
+|type1-2=Ground
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground}}
+{{Spritebox/1|ndex=050}}
+{{Spritebox/2|ndex=050}}
+{{Spritebox/3|ndex=050}}
+{{Spritebox/4|ndex=050}}
+{{Spritebox/5|ndex=050}}
+{{Spritebox/6|ndex=050|crop=45}}
+{{Spritebox/7/2Forms/PE|ndex=050|form1=A|crop=45|PEcrop=88}}
+{{Spritebox/8/2Forms|ndex=050|form1=A}}
+<!--{{Spritebox/9/2Forms|ndex=0050|form1=A}}-->
+{{Spritebox/HOME/2Forms|ndex=0050|form1=A}}
+{{Spritebox/Footer|050|Diglett}}
+
+==In animation==
+===Main series===
+[[File:Goh Diglett.png|thumb|250px|Diglett in {{aniseries|JN}}]]
+[[File:DJ Leo Diglett.png|thumb|250px|{{rf|Alolan}} Diglett in {{aniseries|SM}}]]
+====Major appearances====
+Multiple Diglett debuted in ''[[EP031|Dig Those Diglett!]]'', where they were causing trouble for a construction crew that was planning on building the [[Gaiva Dam]]. The foreman enlisted {{pkmn|Trainer}}s to help exterminate the Diglett. However, the Trainers' Pokémon refused to fight them because they were helping to plant trees in the forest.
+
+In ''[[EP114|The Underground Round-Up]]'', {{OBP|Poncho|EP114}} used multiple Diglett to {{m|dig}} tunnels underneath an {{p|Electrode}}-infested town. The tunnels sent the Electrode to an open field where they'd live in peace. Poncho also had a Diglett inside his hat.
+
+In ''[[EP218|Plant It Now...Diglett Later]]'', multiple Diglett were helping [[Diglett Village]]'s citizens with planting crops. They were also the apparent target of [[Band of Diglett thieves|some thieves]].
+
+In ''[[AG155|The Green Guardian]]'', [[Solana]] used her [[Capture Styler]] to receive a Diglett's assistance in building an underground tunnel that {{Ash}} and {{ashfr}} could use to bypass vines and get to {{p|Celebi}}.
+
+In ''[[Pokémon Mystery Dungeon: Explorers of Time & Darkness]]'', multiple Diglett were members of the [[Wigglytuff's Guild]]. They sound the alarm whenever intruders step into the Guild.
+
+In ''[[XY117|Making Friends and Influencing Villains!]]'', three Diglett helped befriend a {{Shiny}} {{p|Phantump}}.
+
+In ''[[SM023|Getting the Band Back Together!]]'', an {{rf|Alolan}} Diglett was caught by [[DJ Leo]]. In ''[[SM055|The Professors' New Adventure!]]'', it attended the wedding of {{an|Professor Kukui}} and {{an|Professor Burnet}} with DJ Leo.
+
+Three Alolan Diglett appeared in ''[[SM035|Currying Favor and Flavor!]]''. One created a pit that Ash fell into, then chased the group out of its tunnel.
+
+In ''[[JN052|How Are You Gonna Keep 'Em Off of the Farm?]]'', multiple Diglett led by a Dugtrio were eating the crops on [[Laxton Farm]]. [[Goh]] managed to catch {{DL|List of Goh's Pokémon|Diglett|one of them}}, while the others stayed with [[Laxton]] to help him with his farm.
+
+====Minor appearances====
+In ''[[PK01|Pikachu's Vacation]]'', a Diglett was at the [[Pokémon Theme Park]].
+
+A Diglett briefly appeared in ''[[EP069|Lights, Camera, Quack-tion]]''.
+
+In ''[[EP081|Pallet Party Panic]]'', a Diglett was at a party in [[Pallet Town]].
+
+In ''[[EP088|In the Pink]]'', a {{DL|List of alternately colored Pokémon in animation|Pink Pokémon|pink}} Diglett was a resident of [[Pinkan Island]].
+
+In ''[[M02|The Power of One]]'', multiple Diglett sensed the disturbance caused by [[Lawrence III]]. They inadvertently carried {{an|Professor Oak}}'s [[Bicycle|bike]] away whilst migrating to [[Shamouti Island]].
+
+Multiple {{pkmn2|wild}} Diglett appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP116|The Rivalry Revival]]'', multiple Diglett were living at [[Professor Oak's Laboratory]].
+
+In ''[[EP133|Tanks a Lot!]]'', multiple Diglett were forced to flee from {{TRT}}'s rampaging [[Team Rocket's mechas|Arbotank]].
+
+In ''[[EP143|Going Apricorn!]]'', multiple Diglett were protecting an [[Apricorn]] tree from Team Rocket.
+
+In ''[[PK07|Pikachu & Pichu]]'', a Diglett was a resident of [[Big Town]].
+
+Two Diglett appeared in ''[[The Legend of Thunder!]]''.
+
+Multiple Diglett appeared in the opening intro of ''[[M04|Celebi: The Voice of the Forest]]'', which was reused for ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+A Diglett appeared in a fantasy in ''[[AG023|Gone Corphishin']]''.
+
+In ''[[AG188|Pinch Healing!]]'', three Diglett were residents of [[Fennel Valley]].
+
+Multiple Diglett appeared in ''[[DP110|Steeling Peace of Mind!]]''.
+
+A Diglett appeared in ''[[DP126|Classroom Training!]]'', under the ownership of the {{ci|Snowpoint}} {{pkmn|Trainers' School}}.
+
+In ''[[DP145|A Rivalry to Gible On!]]'', multiple Diglett were residents of [[Mt. Shady]].
+
+In ''[[PK24|Meloetta's Moonlight Serenade]]'', multiple Diglett were watching {{an|Meloetta}}'s concert.
+
+Two Diglett appeared in ''[[BW142|The Dream Continues!]]''.
+
+Two Diglett appeared in a flashback or a fantasy in ''[[XY035|The Forest Champion!]]''.
+
+Multiple Diglett appeared in ''[[M18|Hoopa and the Clash of Ages]]''.
+
+In ''[[PK27|Pikachu and the Pokémon Music Squad]]'', a Diglett was residing in a forest.
+
+A Diglett appeared in a flashback in ''[[XY108|A Watershed Moment!]]''.
+
+In ''[[SM017|Crystal-Clear Sleuthing!]]'', an {{rf|Alolan}} Diglett was in the grounds outside the [[Pokémon School]].
+
+Multiple Diglett appeared in ''[[M20|I Choose You!]]''.
+
+In ''[[SM085|The Long Vault Home!]]'', an Alolan Diglett popped up out of the ground as Ash was about to jump, causing him to trip and crash into a {{p|Stakataka}}.
+
+Multiple Alolan Diglett appeared in ''[[SM110|Keeping Your Eyes on the Ball!]]''.
+
+Five Alolan Diglett appeared in ''[[SM125|A Timeless Encounter!]]'', with four appearing in the past and the other one appearing in a picture.
+
+A Trainer's Alolan Diglett appeared in ''[[SM130|Battling Besties!]]''.
+
+Two Trainers' Alolan Diglett appeared in ''[[SM141|Exhibition Unmasked!]]''.
+
+A Diglett appeared in a flashback in ''[[JN001|Enter Pikachu!]]''.
+
+Four Diglett appeared in ''[[JN002|Legend? Go! Friends? Go!]]''.
+
+A Diglett appeared in ''[[JN006|Working My Way Back to Mew!]]''.
+
+Two Diglett appeared in ''[[JN016|A Chilling Curse!]]''.
+
+In ''[[JN021|Caring for a Mystery!]]'', two Diglett battled a wild {{AP|Riolu}} after it attacked them.
+
+A Diglett appeared in ''[[JN069|Errand Endurance!]]''.
+
+A Trainer's Diglett appeared in ''[[JN070|Take My Thief! Please!]]''.
+
+In ''[[JN135|Heroes Unite!]]'', a Diglett appeared during a flashback.
+
+A Diglett appeared in ''[[JNS05|Distant Blue Sky!]]''.
+
+A Diglett appeared in ''[[JN137|The Road Most Traveled!]]''.
+
+Two Diglett appeared in ''[[HZ004|The Treasure After the Storm!]]''. One of them reappeared during a flashback in ''[[HZ062|A New Song for Fuecoco]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP031|Diglett|Ash's Pokédex|Diglett. The movement of these {{t|Ground}} Pokémon can be easily detected by their tracks of upturned earth.}}
+{{Animedexfooter/Pokémon|Kanto}}
+{{Animedexheader|Orange}}
+{{Animedexbody|EP114|Diglett|Ash's Pokédex|Diglett, the Mole Pokémon. Diglett love to create underground tunnel systems.}}
+{{Animedexfooter/Pokémon|Orange}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN052|Diglett|Goh's Rotom Phone|Diglett, the Mole Pokémon. A {{t|Ground}} type. Diglett gnaws on roots below ground. Depending on the kind of vegetables, it can cause great damage to a harvest.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon: Twilight Wings===
+In ''[[TW08|The Gathering of Stars]]'', an {{rf|Alolan}} Diglett was at the [[Isle of Armor]].
+
+===POKÉTOON===
+Multiple {{pkmn2|wild}} Diglett appeared in [[PT16]].
+
+===Pokémon Concierge===
+[[File:Pokémon Concierge Diglett.png|thumb|250px|Diglett in [[Pokémon Concierge]]]]
+A Diglett appeared in ''[[PC02|What's On Your Mind, Psyduck?]]''. While [[Haru]] was riding her scooter in search of {{p|Psyduck}}, it suddenly popped out of the ground right in front of her, causing her to swerve and crash into [[Tyler]]'s cart carrying some pie fillings.
+
+A Diglett appeared in ''[[PC03|I Hope I Can Evolve Too...]]'', playing with {{p|Dedenne}} and {{p|Seel}} using a pool float.
+
+Multiple Diglett appeared in ''[[PC05|A Pokémon to Help Me!]]'' and ''[[PC08|Where I Belong]]'', causing trouble at the [[Pokémon Resort]]'s vegetable garden.
+{{-}}
+
+==In the manga==
+[[File:Digler.png|thumb|250px|Diglett in [[Pokémon Adventures]]]]
+===Ash & Pikachu===
+Similar to her animated counterpart, [[Pietra]] owns a Diglett. It appeared in ''[[SP10|The Grand Rhydon Plan]]''.
+
+A Diglett appeared in ''[[SP18|The Keeper Of The Tree, Treecko!!]]''.
+
+===Magical Pokémon Journey===
+A Diglett appeared in ''[[PPP01|How Do You Do, Pikachu?]]''.
+
+===Movie adaptations===
+A Diglett appeared in ''{{ma|Celebi: a Timeless Encounter}}''.
+
+===Pocket Monsters Diamond & Pearl===
+A Diglett appeared in [[PDP01]].
+
+===Pocket Monsters DP===
+A Diglett appeared in [[PMDP16]].
+
+A Diglett appeared in [[PMDP19]].
+
+A Diglett appeared in [[PMDP59]].
+
+===Pocket Monsters HGSS===
+A Diglett appeared in [[PMHGSS01]].
+
+A Diglett appeared in [[PMHGSS11]].
+
+A Diglett appeared in [[PMHGSS18]].
+
+===Pokémon Adventures===
+A Diglett appeared in ''[[PS007|Raging Rhydon]]'' as a [[wild Pokémon]] in [[Mt. Moon]].
+
+{{adv|Red}} owned a Diglett that he {{pkmn2|caught}} off-panel in ''[[PS018|A Tale of Ninetales]]''. He used him against a wild [[Vee|Eevee]] in ''[[PS019|Blame It on Eevee]]'', but he was quickly defeated when Eevee evolved into {{p|Vaporeon}}.
+
+A group of wild Diglett appeared in ''[[PS067|Can You Diglett?]]'', where they were seen crossing the tunnel [[Bruno's Onix]] made when he battled Red. Afterwards, some of them evolved into Dugtrio.
+
+A Diglett appeared in ''[[PS117|Slugging It Out With Slugma]]'' as one of the Pokémon at Earl's Pokémon Academy in [[Violet City]].
+
+{{adv|Pearl}} caught a Diglett [[nickname]]d Digler to fill his team with six Pokémon. He first appeared in ''[[PS403|Cleaning Up Grimer]]''.
+
+Multiple wild Diglett appeared in the [[Wild Area]] in ''[[PASS04|Zap!! A Rising Beam of Light]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Diglett appeared in a background collage in ''[[GDZ09|Catch the Poliwag!]]''.
+
+[[Shu]] {{pkmn2|caught}} a Diglett in ''[[GDZ10|Hammer the Diglett!!]]''.
+
+A Diglett appeared in [[GDZ56]], where it was seen in a game at a game center.
+
+===Pokémon Journeys===
+Multiple Diglett appeared in ''[[JNM01|Legend? Check! Friends? Check!]]''.
+
+Two Diglett appeared in ''[[JNM08|Caring for a Mystery!]]''.
+
+===Pokémon Mystery Dungeon: Blazing Exploration Team===
+A Diglett appeared in [[BET2]] as a member of [[List of Wigglytuff's Guild members|Wigglytuff's Guild]].
+
+A Diglett appeared in [[BET4]].
+
+A Diglett appeared in [[BET5]].
+
+A Diglett appeared in [[BET6]].
+
+===Pokémon Mystery Dungeon: Ginji's Rescue Team===
+A Diglett appeared in ''[[GRT6|Tears and Emotions - It's the Final Chapter!]]''.
+
+===Pokémon Pocket Monsters===
+A Diglett appeared in ''[[PM006|Great Success in the Mountains or the Seas!?]]''.
+
+A Diglett appeared in ''[[PM019|Aim to be the No. 1 Pokémon!]]''.
+
+A Diglett appeared in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]'', where it was one of the Pokémon that took part in a baseball match.
+
+A Diglett appeared in ''[[PM027|Curry Showdown! Which is the Most Delicious?]]'' as one of the participants of a curry cooking competition.
+
+Giovanni was revealed to have seven Diglett in ''[[PM028|Seize the Dream of One Million Yen!!]]''. He sent them out to prevent anyone from winning the contest he hosted on TV.
+
+A Diglett appeared in ''[[PM031|Get The Last Badge!!]]'', under the ownership of {{PPM|Giovanni}}.
+
+{{PPM|Professor Oak}} owns a Diglett, which debuted in ''[[PM040|Save the Pokémon Zoo!!]]''.
+
+A Diglett appeared in ''[[PM069|Demanding Tests at the Pokémon School!]]''.
+
+A Diglett appeared in ''[[PM073|Escape from Magma!?]]''.
+
+A Diglett appeared in ''[[PM100|Ice World]]''.
+
+A Diglett appeared in ''[[PM102|To the Dragon's Den!!]]''.
+
+A Diglett appeared in {{PPM|Red}}'s fantasy in ''[[PM104|The Great Helper!!]]''.
+
+A Diglett appeared in ''[[PM108|The Exam Showdown!!]]''.
+
+A Diglett appeared in ''[[PM109|Master The Ultimate Skill!]]''.
+
+===Pokémon Ruby-Sapphire===
+A Diglett appeared in ''[[PMRS02|I Won't Let You Lead!!]]''.
+
+{{OBP|Ruby|Ruby-Sapphire}} has a Diglett at his house, as seen in ''[[PMRS03|Something Happened!! Let's Go After Pikachu!!]]''.
+
+A Diglett appeared in ''[[PMRS05|Let's Try To Be Idols!!]]''.
+
+A Diglett appeared in ''[[PMRS06|Extra Heavyweight Battle]]''.
+
+A Diglett appeared in ''[[PMRS53|Clefairy's Golf Debut!]]''.
+
+==In the TCG==
+{{main|Diglett (TCG)}}
+
+==Trivia==
+* Diglett and its evolved form share their {{pkmn|category}} with {{p|Drilbur}}. They are all known as the Mole Pokémon.
+* At the [[Heahea City]] Game Freak office in {{g|Sun and Moon}}, [[Shigeki Morimoto]] states that he made up Diglett when he was a little kid.
+* In the [[Pokémon Red and Green beta|Pokémon Red and Blue beta]], Diglett was originally to use its Japanese name, "Digda", as its English name. This name was retained in the German localization of the games.
+* Diglett and {{rf|Alolan}} Diglett have the lowest base {{stat|HP}} and {{stat|Defense}} stats of all {{type|Ground}} Pokémon.
+** Alolan Diglett has the lowest base HP and Defense stats of all {{type|Steel}} Pokémon.
+** Prior to [[Generation III]], Diglett had the lowest base HP stat of all Pokémon.
+* In ''[[Pokémon the Series]]'', {{Gary}} claims Diglett is able to pull its head underground faster than the speed of light. In the English dub, this is changed to simply ''at'' the speed of light.
+* Diglett is listed in [[Pokémon Stadium]] as having {{m|Acid}} as a valid move, despite not being able to learn the move.<ref>[https://tcrf.net/index.php?title=Pok%C3%A9mon_Stadium_(International)&oldid=337303#Unused_Event_Move Pokémon Stadium (International) - The Cutting Room Floor]</ref>
+* Despite being the only species seen within the halls of the [[Grand Underground]] in [[Pokémon Brilliant Diamond and Shining Pearl]], Diglett and Dugtrio cannot actually be caught or traditionally encountered in any of the Pokémon Hideaways.
+
+===Design quirks===
+[[File:Diglett feet reference PMD.png|frame|Diglett mentioning having feet in Pokémon Mystery Dungeon]]
+* In [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]] and their [[Pokémon Mystery Dungeon: Rescue Team DX|remake]], after the first [[Mt. Steel]] mission, Diglett mentions having feet. It is mentioned again as being one of the seven mysteries of Pokémon in a letter, alongside {{p|Arbok}}'s pattern changes and the inside of {{p|Forretress}}'s shell.
+**Its ability to learn moves like {{m|Scratch}}, {{m|Hone Claws}} and {{m|Slash}} imply it has claws on its hands and feet. This also applies to its Alolan counterpart who can learn {{m|Metal Claw}}.
+* Due to being embedded in the ground, Diglett and {{p|Dugtrio}} have special interactions with certain mechanics in the [[Pokémon games]].
+** In {{game|HeartGold and SoulSilver|s}}, if Diglett is the {{player}}'s [[Walking Pokémon|partner Pokémon]], and the player goes to the [[Pokémon Center]], Diglett jumps to its [[Poké Ball]] to be healed.
+** In the [[Pokéathlon]], Diglett and Dugtrio are unable to jump. In Hurdle Dash, they dig under hurdles instead of jumping them, in Lamp Jump they cannot move, and in Disc Catch they can only move but not jump to catch the discs.
+** Since [[Generation V]], when Diglett and Dugtrio are sent out, they merely fade onto the screen instead of dropping down like all other Pokémon.<!--even those that fly or levitate go down-->
+** In the [[Poké Transfer]], Diglett and Dugtrio run between bushes rather than jump.
+** On the "Compare" screen of {{g|X and Y}}'s Pokédex, if the player taps the menu sprite of Diglett, Dugtrio, or {{me|Gengar}}, the Flying-type Pokémon will give up and disperse before even trying to lift it.
+** Diglett, Dugtrio, {{p|Sandygast}}, {{p|Palossand}}, and {{me|Gengar}} are immune to {{m|Telekinesis}}. However, a Pokémon {{m|transform}}ed into one of these can be affected by Telekinesis.
+** If a [[Z-Move]] animation, such as {{m|Supersonic Skystrike}}, results in showing Diglett or Dugtrio in the air, it is shown embedded in a floating chunk of ground.
+** Hurricane will not lift Diglett or Dugtrio off the ground in the [[Generation VI]] animation like it does with other Pokémon.
+** Since version 0.177.1 (Android)/1.143.1 (iOS) of {{g|GO}}, Diglett will not float in the air when it is evolved into Dugtrio, unlike other Pokémon.<ref>(June 17, 2020). "[https://www.reddit.com/r/TheSilphRoad/comments/havuzx/now_diglett_evolves_respectfully_on_the_ground/ Now Diglett evolves respectfully on the ground!]" Reddit (r/TheSilphRoad).</ref>
+
+===Origin===
+Diglett appears to be based on an artificial {{wp|mole (animal)|mole}} used in the {{wp|Whac-A-Mole}} arcade games. This is referenced by its full health phrase in [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]], "''Please don't whack me on the head!''".
+
+Alolan Diglett's hair may be based on {{wp|Pele's hair}}, a thin {{wp|volcanic glass}} formed near {{wp|Hawaii}}an {{wp|volcano}}es. The darker soil surrounding its body may be a reference to {{wp|black sand}}, which is found on beaches near volcanoes. Its {{t|Steel}} type may be a reference to another kind of magnetic black sand found in {{wp|placer deposit}}s.
+
+====Name origin====
+Diglett may be a combination of ''dig'' and the suffix ''-let'' (indicating small size).
+
+Digda may be derived from ''dig''.
+
+==In other languages==
+{{Other languages|type=Ground|type2=Ground
+|ja=ディグダ ''Digda''|jameaning=From ''dig''
+|fr=Taupiqueur|frmeaning=From ''{{tt|taupe|mole}}'' and ''{{tt|marteau-piqueur|jackhammer}}''
+|es=Diglett|esmeaning=Same as English name
+|de=Digda|demeaning=Same as Japanese name
+|it=Diglett|itmeaning=Same as English name
+|ko=디그다 ''Digda''|komeaning=Transcription of Japanese name
+|zh_cmn=地鼠 ''Dìshǔ''|zh_cmnmeaning=From {{tt|地 ''dì''|ground}}, {{tt|鼠 ''shǔ''|rat}}, and {{tt|地鼠 ''dìshǔ''|mole}}
+|zh_yue=地鼠 ''Deihsyú''|zh_yuemeaning=From {{tt|地 ''deih''|ground}}, {{tt|鼠 ''syú''|rat}}, and {{tt|地鼠 ''deihsyú''|mole}}
+|he=דיגלט ''Diglet''|hemeaning=Transcription of English name
+|hi=डिगलेट ''Diglett''|himeaning=Transcription of English name
+|lt=Digletas|ltmeaning=From the English name
+|ru=Диглетт ''Diglett''|rumeaning=Transcription of English name
+|th=ดิกดา ''Dikda''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Regional form]]
+* {{p|Wiglett}}
+* [[Ecologically similar Pokémon]]
+* [[Pokémon fusion]]
+
+==References==
+<references />
+
+==External links==
+
+{{Alolan forms}}
+{{Ecologically similar Pokémon}}
+
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0049|prev=Venomoth|nextnum=0051|next=Dugtrio|round=yes}}
+|}
+
+{{Project Pokédex notice}}
+[[Category:Pokémon that appear in Pokémon Snap]]
+
+[[de:Digda]]
+[[es:Diglett]]
+[[fr:Taupiqueur]]
+[[it:Diglett]]
+[[ja:ディグダ]]
+[[zh:地鼠]]

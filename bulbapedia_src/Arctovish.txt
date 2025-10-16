@@ -1,0 +1,292 @@
+{{PokémonPrevNext/Head|type=Water|type2=Ice}}
+{{PokémonPrevNext/GO|species=Arctovish}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0882|prev=Dracovish|nextnum=0884|next=Duraludon|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Arctovish
+|jname=ウオチルドン
+|jtranslit=Uochirudon
+|tmname=Uochilldon
+|ndex=0883
+|type1=Water
+|type2=Ice
+|category=Fossil
+|height-ftin=6'07"
+|height-m=2.0
+|weight-lbs=385.8
+|weight-kg=175.0
+|abilityn=d
+|ability1=Water Absorb
+|ability2=Ice Body
+|abilityd=Slush Rush
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|eggcycles=35
+|evtotal=2
+|evde=2
+|expyield=177
+|lv100exp=1,250,000
+|gendercode=255
+|color=Blue
+|catchrate=45
+|body=03
+|pokefordex=arctovish
+|generation=8
+|friendship=50
+}}
+'''Arctovish''' ([[List of Japanese Pokémon names|Japanese]]: '''ウオチルドン''' ''Uochilldon'') is a dual-type {{2t|Water|Ice}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It is revived from combining a [[Fossilized Fish]] and a [[Fossilized Dino]]. It is not known to [[Evolution|evolve]] into or from any other Pokémon, but appears to be related to {{p|Arctozolt}} and {{p|Dracovish}}.
+
+==Biology==
+Arctovish is a fish-plesiosaur hybrid fossil {{OBP|Pokémon|species}}. The plesiosaur half is colored blue and white. Arctovish has a blue tail with a fin on top. The flippers are colored blue with white patches on the end and with white spots. The fish half is applied upside down. It has a round blue head with black rectangle pupils, and the mouth is located on top of its head. It has white fins connected to its fish head.
+
+It has trouble eating due to its mouth being on top of its head, even though it captures prey by freezing its surroundings. The skin on Arctovish's face is impervious to attacks. It allegedly became extinct despite this due to breathing difficulties, though this is likely not the case due to Arctovish being combined from two separate Pokémon that each had their niches before going extinct.
+
+Arctovish and its counterpart {{p|Dracovish}} are [[Signature move|the only known Pokémon]] capable of learning the [[move]] {{m|Fishious Rend}}.
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Ice}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=377|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Though it's able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Ice}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=Revive from [[Fossilized Fish]] and [[Fossilized Dino]] by [[Cara Liss]] on {{rt|6|Galar}}}}
+{{Availability/Entry1|v=Expansion Pass|color={{galar color}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Snowslide Slope/Dens|Snowslide Slope]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Water
+|type2=Ice
+|HP=90
+|Attack=90
+|Defense=100
+|SpAtk=80
+|SpDef=90
+|Speed=55
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Ice
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=25
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|waterabsorb=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Arctovish|Water|Ice|8}}
+{{learnlist/level8|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level8|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level8|7|Protect|Normal|Status|—|—|10}}
+{{learnlist/level8|14|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level8|21|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level8|28|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level8|35|Aurora Veil|Ice|Status|—|—|20}}
+{{learnlist/level8|42|Freeze-Dry|Ice|Special|70|100|20||'''}}
+{{learnlist/level8|49|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/level8|56|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level8|63|Fishious Rend|Water|Physical|85|100|10||'''}}
+{{learnlist/level8|70|Icicle Crash|Ice|Physical|85|90|10||'''}}
+{{learnlist/level8|77|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/levelf/8|Arctovish|Water|Ice|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Arctovish|Water|Ice|8}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM45|Dive|Water|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM51|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM54|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/tm8|TM64|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/tm8|TM67|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tr|TR16|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR32|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tr|TR74|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tr|TR75|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tr|TR97|Psychic Fangs|Psychic|Physical|85|100|10}}
+{{learnlist/tr|TR98|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tmf/8|Arctovish|Water|Ice|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Arctovish|Water|Ice|8}}
+{{learnlist/breed8null}}
+{{learnlist/breedf/8|Arctovish|Water|Ice|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Arctovish|Water|Ice|8}}
+{{learnlist/tutor8|Meteor Beam|Rock|Special|120|90|10|||no|yes}}
+{{learnlist/tutorf/8|Arctovish|Water|Ice|8}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Ice}}
+{{Spindata/GO|col=6|type=Water|ndex=0883
+|egg=N/A
+|buddy=5
+|candy=Arctovish
+|evolution=N/A
+|stamina=207
+|attack=171
+|defense=185
+|fast={{m|Water Gun}}, {{m|Powder Snow}}
+|special={{m|Brine}}, {{m|Avalanche}}, {{m|Ancient Power}}
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Water
+|type2=Ice
+|pictype=art
+|no1=0883
+|name1=Arctovish
+|type1-1=Water
+|type2-1=Ice}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Ice}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=883}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0883}}
+{{Spritebox/Footer|883|Arctovish}}
+
+==In animation==
+===Main series===
+[[File:Arctovish anime.png|thumb|250px|Arctovish in {{aniseries|JN}}]]
+====Major appearances====
+
+====Minor appearances====
+Arctovish debuted as an image in ''[[JN050|A Pinch of This, a Pinch of That!]]''.
+{{-}}
+
+==In the manga==
+[[File:Cara Liss Arctovish Adventures.png|thumb|left|150px|Arctovish in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Arctovish first appeared in ''[[PASS39|Clip-Clop!! The King's Horse]]'', where one was restored by [[Cara Liss]].
+{{-}}
+
+==In the TCG==
+{{main|Arctovish (TCG)}}
+==Trivia==
+* Arctovish shares its {{pkmn|category}} with {{p|Aerodactyl}}, {{p|Dracozolt}}, {{p|Arctozolt}}, and {{p|Dracovish}}. They are all known as the Fossil Pokémon.
+* Arctovish, Dracozolt, Arctozolt, and Dracovish are the only [[Fossil]] Pokémon to not be {{type|Rock}} or have a [[gender]].
+* Arctovish, along with the other Galarian fossil Pokémon, was designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/1319507626372153344 Tweet by ありがひとし/ArigaHitoshi (@ariga_megamix).] Posted on October 23, 2020.</ref>
+* In {{aniseries|JN}}, [[Cara Liss]] is the person who gives Arctovish its species name.
+
+===Origin===
+Arctovish, like {{p|Dracozolt}}, {{p|Arctozolt}}, and {{p|Dracovish}}, may be based on the concept of {{wp|Chimera (paleontology)|chimera}} in paleontology, which refers to fossils reconstructed from multiple different species or genus of animals, resulting in an inaccurate and mistaken understanding of the animals' biology. In the case of Arctovish, its top half appears to be based on the fish ''{{wp|Dunkleosteus}}'', though the frontal pair of fins resemble those possessed by {{wp|Sarcopterygii|lobe-finned fish}} such as {{wp|coelacanth}}s rather than the fins of ''Dunkleosteus''. The upper half may also be based on the ''{{wp|Ainiktozoon}}'', an arthropod fossil discovered in Scotland which was reconstructed upside-down. Its bottom half appears to be based on a marine reptile, like a {{wp|Plesiosauria|plesiosaur}}, {{wp|mosasaur}}, or {{wp|ichthyosaur}}. Arctovish and the other Galarian Fossil Pokémon may also be based on the {{wp|Crystal Palace Dinosaurs}}, a series of scientifically inaccurate dinosaur sculptures displayed at the {{wp|Crystal Palace Park}}.
+
+The Pokédex entries for all the Galarian Fossil Pokémon mention them being the cause of their extinction, which may be a reference to the outdated hypothesis that the dinosaurs were evolutionarily inert, which made them get bigger, stupider, and more sluggish, to the point they could not sustain themselves.
+
+Arctovish being unable to [[Pokémon breeding|breed]] could be a reference to {{wp|Hybrid_(biology)|cross-bred}} animals, which are born {{wp|Infertility|infertile}} (unable to produce offspring).
+
+====Name origin====
+Arctovish may be a combination of ''arctic'', ''fish'', and possibly ''vicious'' or ''{{wp|Ordovician|Ordovician}}''.
+
+Uochilldon may be a combination of 魚 ''uo'' (fish), ''chill'', and ''-don'' (common suffix in dinosaur names derived from the Ancient Greek word for tooth).
+
+==In other languages==
+{{Other languages|type=Water|type2=Ice
+|ja=ウオチルドン ''Uochilldon''|jameaning=From {{tt|魚 ''uo''|fish}}, ''chill'', and {{tt|''-don''|common suffix in dinosaur names}}
+|fr=Hydragla|frmeaning=From ''{{tt|hydro-|prefix for water}}'' or ''{{tt|Hydre|Hydra}}'' and ''{{tt|glagla|onomatopeia suggesting coldness and shivering}}''
+|es=Arctovish|esmeaning=Same as English name
+|de=Pescryodon|demeaning=From ''{{tt|pesce|Italian for fish}}'', ''{{tt|Kryo-|Greek-derived prefix for cold, freezing}}'', and {{tt|''-don''|common suffix in dinosaur names}}
+|it=Arctovish|itmeaning=Same as English name
+|ko=어치르돈 ''Eochilldon''|komeaning=From {{tt|어 (魚) ''eo''|fish}}, ''chill'', and {{tt|''-don''|common suffix in dinosaur names}}
+|zh_cmn=鰓魚海獸 / 鳃鱼海兽 ''Sāiyúhǎishòu''|zh_cmnmeaning=From {{tt|鰓 / 鳃 ''sāi''|gills}}, {{tt|魚 / 鱼 ''yú''|fish}}, and {{tt|海獸 / 海兽 ''hǎishòu''|marine mammal}}
+|zh_yue=鰓魚海獸 ''Sōiyùhhóisau''|zh_yuemeaning=From {{tt|鰓 ''sōi''|gills}}, {{tt|魚 ''yùh''|fish}}, and {{tt|海獸 ''hóisau''|marine mammal}}
+|hi=चिलोफ़िश ''Chillofish''|himeaning=From ''chill'' and ''fish''
+|th=อุโอจิรุดอน ''Uochirudon''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Fossil]]
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+{{Fossil}}{{PokémonPrevNext/Head|type=Water|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0882|prev=Dracovish|nextnum=0884|next=Duraludon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+
+[[de:Pescryodon]]
+[[es:Arctovish]]
+[[fr:Hydragla]]
+[[it:Arctovish]]
+[[ja:ウオチルドン]]
+[[zh:鳃鱼海兽]]

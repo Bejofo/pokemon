@@ -1,0 +1,316 @@
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/GO|species=Nacli}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0931|prev=Squawkabilly|nextnum=0933|next=Naclstack|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Nacli
+|jname=コジオ
+|tmname=Kojio
+|ndex=0932
+|type1=Rock
+|category=Rock Salt
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=35.3
+|weight-kg=16.0
+|abilityn=2
+|ability1=Purifying Salt
+|ability2=Sturdy
+|abilityd=Clear Body
+|egggroupn=1
+|egggroup1=Mineral
+|egggroup2=
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=1
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=56
+|lv100exp=1059860
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=01
+|pokefordex=nacli
+|generation=9
+|friendship=50
+}}
+'''Nacli''' ([[List of Japanese Pokémon names|Japanese]]: '''コジオ''' ''Kojio'') is a {{type|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Naclstack}} starting at [[level]] 24, which evolves into {{p|Garganacl}} starting at level 38.
+
+==Biology==
+Nacli is a Pokémon composed of rock salt. Its upper body is rugged and brown, with an off-white stripe circling it, while its lower body is a white salt cube with rectangular orange-yellow eyes that can glow red. A white salt cube is embedded on the top half of its body as well.
+
+Nacli are born deep within the earth, inside layers of rock salt. Bits of salt are scraped off of Nacli as it travels the ground, although Nacli is able to create and replenish the salt inside its body. The rear corners of Nacli's lower body are rounded as a result of this scraping<ref>[https://twitter.com/ariga_megamix/status/1663190119367720963 Hitoshi Ariga on Twitter]</ref>. As revealed in ''[[HZ057|The Terapagos I Don't Know]]'', Nacli lived in [[Paldea]]n lands since ancient times, forming bonds with humans. In the same episode, it is also thought that Nacli used to help humans in warding off evil spirits for hundreds of years. In the past, it was treasured by people who would use its salt; even today, Nacli salt is still used in foods such as ice cream, because it has a gentle flavor.
+
+Nacli and its [[Evolution]]s are the [[Signature Ability|only known Pokémon]] that can have {{a|Purifying Salt}} as an [[Ability]].
+
+===Evolution===
+Nacli evolves into {{p|Naclstack}}, which evolves into {{p|Garganacl}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|pictype=art
+|type1=Rock
+|no1=0932
+|name1=Nacli
+|type1-1=Rock
+|evo1=
+|no2=0933
+|name2=Naclstack
+|type1-2=Rock
+|evo2=
+|no3=0934
+|name3=Garganacl
+|type1-3=Rock}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=129|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli's body.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{rock color dark}}; background:#{{rock color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{rock color light}}; background:#{{rock color light}} | [[File:Pokédex Image Nacli SV.png|x200px]]
+|-
+| Nacli in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Two)|Area Two]], [[South Province (Area Three)|Area Three]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]], [[South Province (Area Six)|Area Six]], {{pal|Pokémon League}}<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]], [[East Paldean Sea]]<br>West Province: [[West Province (Area One)|Area One]], [[West Province (Area Two)|Area Two]], [[West Province (Area Three)|Area Three]], [[Asado Desert]]<br>North Province: [[North Province (Area One)|Area One]], [[North Province (Area Two)|Area Two]], [[North Province (Area Three)|Area Three]], [[Casseroya Lake]], [[Glaseado Mountain]]<br>[[Area Zero]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Nacli|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=IX}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Trainer Lodge]] Friendship Level 100: {{sync|Arven|Nacli}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Rock
+|HP=55
+|Attack=55
+|Defense=75
+|SpAtk=35
+|SpDef=35
+|Speed=25
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=200
+|Grass=200
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|purifyingsalt=maybe
+|newghost=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Nacli|Rock|Rock|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|5|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level9|7|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/level9|10|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level9|13|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/level9|16|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|20|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level9|25|Recover|Normal|Status|—|—|5}}
+{{learnlist/level9|30|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level9|33|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level9|35|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/level9|40|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/level9|45|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/levelf/9|Nacli|Rock|Rock|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Nacli|Rock|Rock|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM101|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm9|TM220|Meteor Beam|Rock|Special|120|90|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Nacli|Rock|Rock|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Nacli|Rock|Rock|9}}
+{{learnlist/breed9|{{MSP/H|0837|Rolycoly}}{{MSP/H|0838|Carkol}}{{MSP/H|0839|Coalossal}}{{MSP/H|0969|Glimmet}}{{MSP/H|0970|Glimmora}}|Ancient Power|Rock|Special|60|100|5||'''|grid=5}}
+{{learnlist/breed9|{{MSP/H|0712|Bergmite}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713|Avalugg|form=-Hisui}}|Curse|Ghost|Status|—|—|10|grid=5}}
+{{learnlist/breed9|{{MSP/H|0878|Cufant}}|Fissure|Ground|Physical|—|30|5|*|grid=5}}
+{{learnlist/breed9|{{MSP/H|0299|Nosepass}}{{MSP/H|0476|Probopass}}{{MSP/H|0969|Glimmet}}{{MSP/H|0970|Glimmora}}|Power Gem|Rock|Special|80|100|20||'''|grid=5}}
+{{learnlist/breedf/9|Nacli|Rock|Rock|9}}
+
+===Side game data===
+{{Spindata/Head|type=Rock}}
+{{Spindata/GO|col=6|type=Rock|ndex=0932
+|hatch=N/A
+|buddy=5
+|candy=Nacli
+|evocandy=25
+|stamina=146
+|attack=95
+|defense=108
+|fast={{m|Rock Throw}}, {{m|Mud Shot}}
+|special={{m|Rock Blast}}, {{m|Rock Tomb}}, {{m|Ancient Power}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|pictype=art
+|type1=Rock
+|no1=0932
+|name1=Nacli
+|type1-1=Rock
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 24}}
+|no2=0933
+|name2=Naclstack
+|type1-2=Rock
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 38}}
+|no3=0934
+|name3=Garganacl
+|type1-3=Rock
+}}
+
+===Sprites===
+{{Spritebox/Header|type=rock}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0932}}-->
+{{Spritebox/HOME|ndex=0932}}
+{{Spritebox/Footer|932|Nacli}}
+
+==In animation==
+[[File:Nacli anime.png|thumb|250px|Nacli in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+
+====Minor appearances====
+Nacli debuted in ''[[HZ042|Transform! Hero of the Seas, Palafin]]''.
+
+A Nacli appeared in ''[[HZ057|The Terapagos I Don't Know]]'', living in an ancient [[Paldea]]n fort ruins alongside a {{p|Charcadet}}. It reappeared in [[HZ102]].
+{{-}}
+
+==In the manga==
+===Pokémon Adventures===
+Nacli debuted in ''[[PASV03|Battle! Team Star, the Delinquents!!]]''.
+
+A Nacli appeared in [[PASV10]].
+
+{{adv|Arven}} was revealed to have caught a Nacli in [[PASV11]].
+
+==In the TCG==
+{{main|Nacli (TCG)}}
+
+==Trivia==
+* Nacli's evolutionary line was designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/1604786117487853568 Hitoshi Ariga on Twitter]</ref>
+* Nacli was briefly shown in a pre-release trailer on [https://www.youtube.com/watch?v=4YEEDqke-D0 6 October 2022] alongside {{p|Tandemaus}} and {{p|Squawkabilly}}, though it remained officially unrevealed until the release of [[Pokémon Scarlet and Violet]].
+* Nacli is tied with {{p|Roggenrola}} and {{p|Rockruff}} for the lowest base stat total of all {{type|Rock}} Pokémon.
+
+===Origin===
+<!--Do NOT add the Super Mushroom or Minecraft as possible origins. Specific copyright characters must NOT be used. Also, the designer has already given a definite origin.-->
+Nacli is based on a {{wp|Halite|rock salt}} crystal embedded in a small {{wp|sedimentary rock}}.<ref>[https://twitter.com/ariga_megamix/status/1605483704565895170 Hitoshi Ariga on Twitter]</ref> Its body shape resembles mushrooms, particularly those of the ''{{wp|Agaricus bisporus}}'' variety. Considering that it originated underground, it might also draw inspiration from {{wp|truffles}}. Additionally, its mushroom shape may be a reference to {{wp|mushroom rocks}}, which are naturally occurring rock formations.
+
+The scraping of its body along the ground leaving salt trails might be a literal interpretation of {{wp|salt road}}s, trade routes upon which salt was transported to foreign markets. Its glowing eyes may be based on {{wp|Salt lamp|Himalayan salt lamps}}.
+
+====Name origin====
+Nacli may be a combination of ''NaCl'' (chemical formula for {{wp|sodium chloride}}; table salt) and ''little'' or ''salty''. The ''-i'' at the end of its name may also refer to {{wp|iodine}}, a common element added to salt to prevent iodine deficiency.
+
+Kojio may be a combination of 小 ''ko'' (small) or 子 ''ko'' (child), 塩 ''shio'' (salt), and ''geo-'' (prefix for earth).
+
+==In other languages==
+{{Other languages|type=Rock|type2=Rock
+|ja=コジオ ''Kojio''|jameaning=From {{tt|小 ''ko''|small}}, {{tt|子 ''ko''|child}}, {{tt|塩 ''shio''|salt}}, and ''{{tt|geo-|prefix for earth}}''
+|fr=Selutin|frmeaning=From ''{{tt|sel|salt}}'' and ''{{tt|lutin|imp, goblin}}''
+|es=Nacli|esmeaning=Same as English name
+|de=Geosali|demeaning=From ''{{tt|geo-|prefix for earth}}'' and ''{{tt|salis|Latin for salt}}''
+|it=Nacli|itmeaning=Same as English name
+|ko=베베솔트 ''Bebesolteu''|komeaning=From ''{{tt|bébé|French for baby}}'' and ''salt''
+|zh_cmn=鹽石寶 / 盐石宝 ''Yánshíbǎo ''|zh_cmnmeaning=From {{tt|石鹽 / 石盐 ''shíyán''|rock salt}}, {{tt|寶石 / 宝石 ''bǎoshí''|jewel}}, and {{tt|寶寶 / 宝宝 ''bǎobao''|baby}}
+|zh_yue=鹽石寶 ''Yìhmsehkbóu''|zh_yuemeaning=From {{tt|石鹽 ''sehkyìhm''|rock salt}}, {{tt|寶石 ''bóusehk''|jewel}}, and {{tt|寶寶 ''bóubóu''|baby}}
+|hi=सॉल्टू ''Saltoo''|himeaning=From ''salt''
+|th=โคจีโอ ''Khochi-o''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0931|prev=Squawkabilly|nextnum=0933|next=Naclstack}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Geosali]]
+[[es:Nacli]]
+[[fr:Selutin]]
+[[it:Nacli]]
+[[ja:コジオ]]
+[[zh:盐石宝]]

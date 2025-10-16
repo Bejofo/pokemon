@@ -1,0 +1,478 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/GO|species=Whirlipede}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0543|prev=Venipede|nextnum=0545|next=Scolipede|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Whirlipede
+|jname=ホイーガ
+|jtranslit=Hoīga
+|tmname=Wheega
+|category=Curlipede
+|typebox=1
+|type1=Bug
+|type2=Poison
+|abilityn=d
+|ability1=Poison Point
+|ability2=Swarm
+|abilityd=Speed Boost
+|abilityold=Quick Feet
+|abilityoldcaption=Gen V{{tt|*|Will become Speed Boost when Whirlipede is transferred via Poké Transporter}} Hidden Ability
+|abilitydcaption=Gen VI+
+|ndex=0544
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=129.0
+|weight-kg=58.5
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|expyield=126
+|lv100exp=1,059,860
+|evtotal=2
+|evde=2
+|gendercode=127
+|color=Gray
+|catchrate=120
+|body=01
+|pokefordex=whirlipede
+|generation=5
+|friendship=70
+}}
+'''Whirlipede''' ([[List of Japanese Pokémon names|Japanese]]: '''ホイーガ''' ''Wheega'') is a dual-type {{2t|Bug|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Venipede}} starting at [[level]] 22 and evolves into {{p|Scolipede}} starting at level 30.
+
+==Biology==
+Whirlipede is an insectoid {{OBP|Pokémon|species}} encased in a hard, segmented shell. It has two pairs of purple, horn-like feelers with dark gray stripes, with one pair extended upward from its front and the other pointing downward from its lower rear. Two poisonous barbs flank either side of each segment of its shell. The shell itself is purple, with red rings in the middle of each segment and a darker gray border circling its open center. Whirlipede's eyes can be seen within the center, and have slitted pupils, yellow sclerae, and thick, gray eyelids. 
+
+Whirlipede remains motionless while storing energy for Evolution, but will move to stab approaching predators with its poisonous spikes. If attacked, it can quickly spin its body like a wheel and crash furiously into opponents. It can move to about the speed of 60 mph.
+
+===Evolution===
+Whirlipede evolves from {{p|Venipede}} and evolves into {{p|Scolipede}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0543
+|name1=Venipede
+|type1-1=Bug
+|type2-1=Poison
+|evo1=
+|no2=0544
+|name2=Whirlipede
+|type1-2=Bug
+|type2-2=Poison
+|evo2=
+|no3=0545
+|name3=Scolipede
+|type1-3=Bug
+|type2-3=Poison}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Poison}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=050|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=044|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.}}
+{{Dex/Entry1|v=White|entry=It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=121|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=075|label1=Isle of Armor|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over {{tt|60 mph|100 km/h}}.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it'll need for evolution.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Pinwheel Forest]] (inner) ({{DL|Tall grass|dark grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Pinwheel Forest]] (inner)<br>[[Lostlorn Forest]] ({{DL|Tall grass|dark grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Poison-type Safari|Poison]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Venipede}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Fields of Honor/Dens|Fields of Honor]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Sun-Dappled Bank]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Chrysalia]], [[Viperia]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace - Eastern Spire]] (1F-12F main story-line only), [[Glacier Palace - Western Spire]] (1F-12F), [[Worldcore]] (1F-13F), [[Silent Tundra]] (Uncharted Road, Gilded Hall), [[Dreamy Island]] (Uncharted Road, Gilded Hall), [[Moonlit Forest]] (Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#Guardians of the Flower Patch|Flower Garden: Guardians of the Flower Patch]], [[Variety Battle#Pokémon on a Roll|Variety Battle: Pokémon on a Roll]],<br>[[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 4|Sacred Plains: Stage 4]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Murky Cavern|Dark Land: Murky Cavern]] <small>(All Areas)</small>, [[Plasma Tundra#Endless Cave|Plasma Tundra: Endless Cave]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mewtwo Sea]], [[Zygarde Sea]], [[Mewtwo Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 439]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Roxie|Whirlipede}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Bug|type2=Poison}}
+{{HeldItems/Games2|Black|White|tcolor1=fff|Pokémon Black and White Versions}}
+{{HeldItems/Items2|Pecha Berry|50|Poison Barb|5}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|Pokémon Black and White Versions 2}}
+{{HeldItems/Items1|Poison Barb|5}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|type2=Poison
+|HP=40
+|Attack=55
+|Defense=99
+|SpAtk=40
+|SpDef=79
+|Speed=47}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Poison
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=50
+|Ground=100
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=25
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50}}
+
+===Learnset===
+Whirlipede is available in {{pkmn|Sword and Shield}} Version 1.2.0+.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Whirlipede|Bug|Poison|5}}
+{{learnlist/level8|1|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level8|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level8|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level8|1|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level8|1|Protect|Normal|Status|—|—|10}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level8|12|Poison Tail|Poison|Physical|50|100|25||'''}}
+{{learnlist/level8|16|Screech|Normal|Status|—|85|40}}
+{{learnlist/level8|20|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level8|26|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/level8|32|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level8|38|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level8|44|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level8|50|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/level8|56|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/levelf/8|Whirlipede|Bug|Poison|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Whirlipede|Bug|Poison|5}}
+{{learnlist/tm8|TM07|Pin Missile|Bug|Physical|25|95|20||'''}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM74|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM77|Hex|Ghost|Special|65|100|10}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tr|TR23|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR52|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tr|TR54|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tr|TR57|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tr|TR91|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/tmf/8|Whirlipede|Bug|Poison|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Whirlipede|Bug|Poison|5}}
+{{learnlist/breed8|{{MSP/8c|328|Trapinch}}{{MSP/8c|329|Vibrava}}{{MSP/8c|330|Flygon}}{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}{{MSP/8c|632|Durant}}{{MSP/8c|736|Grubbin}}{{MSP/8c|737|Charjabug}}{{MSP/8c|738|Vikavolt}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|850|Sizzlipede}}{{MSP/8c|851|Centiskorch}}|Bite|Dark|Physical|60|100|25|grid=7}}
+{{learnlist/breed8|{{MSP/8c|123|Scyther}}{{MSP/8c|212|Scizor}}{{MSP/8c|291|Ninjask}}{{MSP/8c|557|Dwebble}}{{MSP/8c|558|Crustle}}{{MSP/8c|588|Karrablast}}{{MSP/8c|589|Escavalier}}{{MSP/8c|595|Joltik}}{{MSP/8c|596|Galvantula}}{{MSP/8c|632|Durant}}{{MSP/8c|768|Golisopod}}|Fury Cutter|Bug|Physical|40|95|20||'''|grid=7}}
+{{learnlist/breedf/8|Whirlipede|Bug|Poison|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Whirlipede|Bug|Poison|5}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10||'''|no|yes}}
+{{learnlist/tutor8|Steel Roller|Steel|Physical|130|100|5|||no|yes}}
+{{learnlist/tutorf/8|Whirlipede|Bug|Poison|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Whirlipede|Bug|Poison|5}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Whirlipede|Bug|Poison|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Whirlipede|Bug|Poison|5}}
+{{learnlist/prevgen8|Whirlipede|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Whirlipede|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Whirlipede|5|Endeavor|Normal|Physical|—|100|5|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Whirlipede|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Whirlipede|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Whirlipede|5|Infestation|Bug|Special|20|100|20||'''|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Whirlipede|5|Pursuit|Dark|Physical|40|100|20|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Whirlipede|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Whirlipede|5|Rock Climb|Normal|Physical|90|85|20|V=yes<!--level,breed-->|VI=yes<!--level,breed-->|VII=yes<!--level,breed-->|x=yes}}
+{{learnlist/prevgen8|Whirlipede|5|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Whirlipede|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Whirlipede|5|Signal Beam|Bug|Special|75|100|15||'''|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Whirlipede|5|Steamroller|Bug|Physical|65|100|20||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Whirlipede|5|Struggle Bug|Bug|Special|50|100|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Whirlipede|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Whirlipede|5|Twineedle|Bug|Physical|25|100|20||'''|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgenf/8|Whirlipede|Bug|Poison|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Poison}}
+{{Spindata/PSMD|col=6|type=Bug|ndex=544
+|coset=31
+|conto={{p|Venipede}}
+|recruitment=Introduced by {{p|Venipede}}
+|P1=I can roll around like a wheel! But bumps on the road hurt me!
+|P2=I'm punctured and going flat...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=1
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=544
+|walk=1.33
+|hp=45
+|attack=71
+|defense=57
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=544
+|pad=He rolls around as he likes. Other Pokémon are annoyed when he rolls around them, but Whirlipede doesn't mind.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Bug|ndex=544
+|HP=1
+|atk=1
+|def=4
+|spd=2
+|range=2
+|move=Poison Tail
+|ability1=Poison Point
+|ability2=Jagged Edge
+|ability3=Hero
+|evo=Evolves from {{p|Venipede}} when its Defense is 50 or higher <br>Evolves into {{p|Scolipede}} when its Speed is 57 or higher |
+|link=[[Hideaki]] and [[Yasunaga]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=544
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=544|num=599
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Damage Streak
+|skilldesc=Increases damage when it is triggered in a row.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=544
+|hatch=N/A
+|buddy=1
+|candy=Venipede
+|evocandy=100
+|stamina=120
+|attack=100
+|defense=173
+|fast={{m|Bug Bite}}, {{m|Poison Sting}}
+|special={{m|Signal Beam}}, {{m|Sludge Bomb}}, {{m|Gyro Ball}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0543
+|name1=Venipede
+|type1-1=Bug
+|type2-1=Poison
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 22}}
+|no2=0544
+|name2=Whirlipede
+|type1-2=Bug
+|type2-2=Poison
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no3=0545
+|name3=Scolipede
+|type1-3=Bug
+|type2-3=Poison
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Poison}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=544}}
+{{Spritebox/6|ndex=544|crop=94}}
+{{Spritebox/7|ndex=544|crop=94}}
+{{Spritebox/8|ndex=544}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0544}}
+{{Spritebox/Footer|544|Whirlipede}}
+
+==In animation==
+[[File:Burgh Whirlipede.png|thumb|250px|Whirlipede in {{aniseries|BW}}]]
+===Main series===
+====Major appearances====
+Whirlipede debuted in ''[[BW023|Battling For The Love of Bug-Types!]]'', under the ownership of [[Burgh]]. It battled {{Ash}} during a [[Gym]] {{pkmn|battle}}, but it was defeated by his newly evolved {{AP|Swadloon}}.
+
+In ''[[BW076|A Restoration Confrontation! Part 2]]'', multiple Whirlipede attacked Ash, [[Ferris]], and a {{p|Tirtouga}} that Ferris had befriended.
+
+====Minor appearances====
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', the {{OBP|Swords of Justice|M15}} legend featured a Whirlipede.
+
+A Whirlipede appeared in ''[[BW119|Meowth, Colress and Team Rivalry!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW023|Whirlipede|Ash's Pokédex|Whirlipede, the Curlipede Pokémon and the [[Evolution|evolved]] form of {{p|Venipede}}. Whirlipede can {{m|Steamroller|spin its hard shelled body like a tire to smash into opponents}}.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon Generations===
+[[File:Team Plasma Scolipede Whirlipede Sigilyph PG.png|thumb|250px|Whirlipede in [[Pokémon Generations]]]]
+In ''[[PG13|The Uprising]]'', {{tc|Team Plasma Grunt}}s used multiple Whirlipede to battle [[Iris]] and the [[Unova]] [[Gym Leader]]s at [[N's Castle]].
+{{-}}
+
+==In the manga==
+[[File:Burgh Whirlipede Adventures.png|thumb|125px|Whirlipede in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+[[Burgh]] has a Whirlipede which he used to battle [[Gorm]] in ''[[PS475|The Mystery of the Missing Fossil]]''.
+
+[[Roxie]] has a Whirlipede that first appeared in ''[[PS535|Angry Boy]]''. She used it to battle against a group of {{tc|Team Plasma Grunt}}s at [[Castelia Sewers]].
+
+A {{tc|Team Plasma Grunt}}'s Whirlipede was seen in ''[[PS545|Deduction Time]]''.
+{{-}}
+
+==In the TCG==
+{{main|Whirlipede (TCG)}}
+
+==Trivia==
+* Like {{p|Spinda}}, its base stat total might be based on the fact that it and Spinda usually spin in circles, which are 360 degrees.
+* Despite the Scolipede and {{p|Centiskorch}} evolutionary lines living in different parts of the [[Galar]] [[region]], both Venipede and Scolipede's [[Pokédex entry|Pokédex entries]] speak of their hostile relationship with the latter family.
+* Whirlipede and its evolutionary relatives were designed by [[Tomohiro Kitakaze]].<ref>[https://twitter.com/kitakazeee/status/1123171470245367808 Tweet by 北風友裕 (@kitakazeee).] Posted on April 30, 2019.</ref>
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Venipede, Whirlipede and Scolipede}}
+Whirlipede may be based on {{wp|centipede}}s and curled up {{wp|pill millipede}}s, {{wp|Armadillidiidae|roly poly}}-like arthropods that curl up into a ball when in danger. It also resembles a rubber {{wp|tire}}.
+
+====Name origin====
+Whirlipede may be a combination of ''whirl'' and ''centipede'' or ''millipede''.
+
+Wheega may be a combination of ''wheel'' and 毬 ''iga'' (sphere).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Poison
+|ja=ホイーガ ''Wheega''|jameaning=From ''wheel'' and {{tt|毬 ''iga''|sphere}}
+|fr=Scobolide|frmeaning=From ''{{tt|scolopendre|centipede}}'' and ''{{tt|bolide|fast racing car}}''
+|es=Whirlipede|esmeaning=Same as English name
+|de=Rollum|demeaning=From ''{{tt|herumrollen|to roll about}}''
+|it=Whirlipede|itmeaning=Same as English name
+|ko=휠구 ''Hwilgu''|komeaning=From ''wheel'' and {{tt|구 (毬) ''gu''|sphere}}
+|zh_cmn=車輪毬 / 车轮球 ''Chēlúnqiú''|zh_cmnmeaning=From {{tt|車輪 / 车轮 ''chēlún''|car wheel}} and {{tt|毬 / 球 ''qiú''|ball, sphere}}
+|zh_yue=車輪毬 ''Chēlèuhnkàuh''|zh_yuemeaning=From {{tt|車輪 ''chēlèuhn''|car wheel}} and {{tt|毬 ''kàuh''|ball, sphere}}
+|hi=रिमॉथ ''Rimoth''|himeaning=From ''moth''
+|ru=Вирлипид ''Virlipid''|rumeaning=Transcription of English name
+|th=วีกา ''Wika''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0543|prev=Venipede|nextnum=0545|next=Scolipede}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Rollum]]
+[[es:Whirlipede]]
+[[fr:Scobolide]]
+[[it:Whirlipede]]
+[[ja:ホイーガ]]
+[[zh:车轮球]]

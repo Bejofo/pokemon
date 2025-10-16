@@ -1,0 +1,334 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Lechonk}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0914|prev=Quaquaval|nextnum=0916|next=Oinkologne|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Lechonk
+|jname=グルトン
+|tmname=Gourton
+|jtranslit=Guruton
+|ndex=0915
+|type1=Normal
+|category=Hog
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=22.5
+|weight-kg=10.2
+|abilityn=2
+|ability1=Aroma Veil
+|ability2=Gluttony
+|abilityd=Thick Fat
+|egggroupn=1
+|egggroup1=Field
+|egggroup2=
+|eggcycles=15
+|evtotal=1
+|evhp=1
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=51
+|lv100exp=1000000
+|gendercode=127
+|color=Gray
+|catchrate=255
+|body=08
+|pokefordex=lechonk
+|generation=9
+|friendship=50
+}}
+'''Lechonk''' ([[List of Japanese Pokémon names|Japanese]]: '''グルトン''' ''Gourton'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Oinkologne}} starting at [[level]] 18.
+
+==Biology==
+Lechonk is a stout Pokémon resembling a hog. Its body is almost entirely grayish black, except for the brown colorations on its face and ears, and the yellow growths under its eyes that resemble teardrops. Its ears are droopy with yellow insides, and they partially cover its eyes. It has a triangular pink snout with two huge oval nostrils as well as stubby feet ending in pink hooves. Its tail is short and curled.
+
+Lechonk has an excellent sense of smell, which it uses to find fragrant wild grasses and rich {{Berries}} to eat. This diet causes it to emanate a herbal body odor that repels bug Pokémon.<ref name = "officialpage"/> Lechonk is also known to feed on the sweet nectar on {{p|Appletun}}'s back. Lechonk has a timid and faint-hearted temperament, and will panic and charge forward if attacked or startled by an opponent. Despite its apparent bulk, Lechonk's body mainly consists not of fat but of muscle, built up by its habit of walking around to find food.<ref name = "officialpage">[https://scarletviolet.pokemon.com/en-us/pokemon/lechonk/ Lechonk — Pokémon Scarlet and Pokémon Violet | Official Website]</ref> Some Trainers use Lechonk to look for cooking ingredients, such as detached {{p|Crabominable}} pincers scattered on mountains. As seen in the {{aniseries|HZ}} episode ''[[HZ009|Welcome to Paldea!]]'', Lechonk will become hostile towards trainers carrying groceries or meals and attack them for their food.
+
+===Evolution===
+Lechonk evolves into {{p|Oinkologne}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Normal
+|no1=0915
+|name1=Lechonk
+|type1-1=Normal
+|evo1a=[[File:Male icon HOME.png|link=Gender|x20px]]<br><small>{{color2|000|Gender|Male}}</small>
+|no2a=0916
+|name2a=Oinkologne
+|form2a=Male
+|art2a=0916Oinkologne-Male
+|type1-2a=Normal
+|evo1b=[[File:Female icon HOME.png|link=Gender|x20px]]<br><small>{{color2|000|Gender|Female}}</small>
+|no2b=0916
+|name2b=Oinkologne
+|form2b=Female
+|art2b=0916Oinkologne-Female
+|type1-2b=Normal}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=10|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Lechonk SV.png|x200px]]
+|-
+| Lechonk in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Two)|Area Two]], [[South Province (Area Three)|Area Three]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]], [[Poco Path]], {{pal|Pokémon League}}<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Lechonk|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=IX}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Academy event]] (''[[Pasio Paranormal Studies Club]]''): {{sync|Florian|Lechonk}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Normal}}
+{{eventAvail|{{gameabbrev9|SV}}|Flying Terastal Lechonk|All|Online|15|March 31 to July 1, 2023|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Flying Terastal Lechonk}}
+|}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|HP=54
+|Attack=45
+|Defense=40
+|SpAtk=35
+|SpDef=45
+|Speed=35
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+|thickfat=maybe
+|newfire=½
+|newice=½
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Lechonk|Normal|Normal|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|5|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/level9|8|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/level9|12|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/level9|15|Covet|Normal|Physical|60|100|25||'''}}
+{{learnlist/level9|17|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level9|21|Headbutt|Normal|Physical|70|100|15||'''}}
+{{learnlist/level9|24|Yawn|Normal|Status|—|—|10}}
+{{learnlist/level9|27|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level9|30|Work Up|Normal|Status|—|—|30}}
+{{learnlist/level9|32|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/level9|35|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/levelf/9|Lechonk|Normal|Normal|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Lechonk|Normal|Normal|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM019|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Lechonk|Normal|Normal|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Lechonk|Normal|Normal|9}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}|Endeavor|Normal|Physical|—|100|5|grid=7}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0775|Komala}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}|Spit Up|Normal|Special|—|100|10||'''|grid=7}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0775|Komala}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}|Stockpile|Normal|Status|—|—|20|grid=7}}
+{{learnlist/breed9|{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}|Stuff Cheeks|Normal|Status|—|—|10|grid=7}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0775|Komala}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}|Swallow|Normal|Status|—|—|10|grid=7}}
+{{learnlist/breedf/9|Lechonk|Normal|Normal|9}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/GO|col=6|type=Normal|ndex=0915
+|hatch=2 km
+|buddy=1
+|candy=Lechonk
+|evocandy=50
+|stamina=144
+|attack=81
+|defense=79
+|fast={{m|Tackle}}, {{m|Take Down}}
+|special={{m|Dig}}, {{m|Trailblaze}}, {{m|Body Slam}}
+}}
+|}
+
+===Evolution data===
+{{Evobox/1branch2
+|type1=Normal
+|no1=0915
+|name1=Lechonk
+|type1-1=Normal
+|evo1a={{Bag/s|Rare Candy|SV}} + [[File:Male icon HOME.png|link=Gender|32px]]<br>{{color2|000|Level|Level 18}}<br><small>({{color2|000|Gender|male}})</small>
+|no2a=0916
+|name2a=Oinkologne
+|form2a=Male
+|art2a=0916Oinkologne-Male
+|type1-2a=Normal
+|evo1b={{Bag/s|Rare Candy|SV}} + [[File:Female icon HOME.png|link=Gender|32px]]<br>{{color2|000|Level|Level 18}}<br><small>({{color2|000|Gender|female}})</small>
+|no2b=0916
+|name2b=Oinkologne
+|form2b=Female
+|art2b=0916Oinkologne-Female
+|type1-2b=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=normal}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0915}}-->
+{{Spritebox/HOME|ndex=0915}}
+{{Spritebox/Footer|915|Lechonk}}
+
+==In animation==
+===Main series===
+[[File:Lechonk anime.png|thumb|250px|Lechonk in {{aniseries|HZ}}]]
+====Major appearances====
+
+====Minor appearances====
+Lechonk debuted in ''[[HZ009|Welcome to Paldea!]]''. It crossed paths with [[Liko]] and tried to steal the food that she got for [[Alex]], only to be stopped by her {{TP|Liko|Sprigatito}}.
+
+A {{pkmn|Trainer}}'s Lechonk appeared in ''[[HZ035|The Wild Pair, Friede and Cap!]]''.
+
+A Trainer's Lechonk appeared in ''[[HZ036|Mission: Find Oinkologne's Partner!]]''.
+
+A Trainer's Lechonk appeared in ''[[HZ049|Dot and Nidothing]]''.
+
+A Lechonk appeared in ''[[HZ051|The Flower Tower]]''.
+
+A Lechonk appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+A Trainer's Lechonk appeared in a video in [[HZ097]].
+
+===Discover Pokémon Together===
+A {{pkmn2|wild}} Lechonk is the featured Pokémon of ''{{DL|Discover Pokémon Together|Lechonk}}''.
+
+==In the manga==
+Multiple Lechonk debuted in ''[[PASV05|Challenge! DJ Giacomo!!]]''.
+
+A Lechonk appeared in a fantasy in [[PASV10]].
+
+==In the TCG==
+{{main|Lechonk (TCG)}}
+==Trivia==
+* Lechonk is the only {{OBP|Pokémon|species}} with a base stat total of 254.
+* Lechonk was the subject of [[The Pokémon Company]]'s [[April Fools' Day 2023]] campaign, titled "'''Discover Pokémon Together: Lechonk'''". Various Lechonk-themed distributions, promotions, and merchandises were released.<ref>(March 31, 2023). "[https://www.pokemon.com/us/pokemon-news/discover-pokemon-together-lechonk Discover Pokémon Together: Lechonk]." Pokémon.com.</ref>
+* Lechonk and female {{p|Oinkologne}} are the only Pokémon that have {{a|Aroma Veil}} as a standard [[Ability]] instead of a [[Hidden Ability]].
+
+===Origin===
+Lechonk appears to be based on a pig, specifically a juvenile {{wp|black Iberian pig}}, with which it shares its large appetite and diet of fruit and nuts that owes it its rotund shape. Its description as a "gourmand" that sniffs out only the most fragrant foods<ref name = "officialpage"/> may pull from {{wp|truffle hog}}s, domestic pigs used to locate {{wp|truffle}}s, a valuable foodstuff used in gourmet dishes. The brown color of its face gives the impression that it is covered in mud, a characteristic often associated with pigs.
+
+====Name origin====
+Lechonk may be a combination of ''lechón'' (Spanish for suckling piglet), ''oink'' (onomatopoeia for a sound pigs make), and possibly ''chonk'' (slang term for a fat or large animal).
+
+Gourton may be a combination of ''gourmet'', ''glutton'', and 豚 ''ton'' (pig).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=グルトン ''Gourton''|jameaning=From ''gourmet'', ''glutton'', and {{tt|豚 ''ton''|pig}}
+|fr=Gourmelet|frmeaning=From ''gourmet'' and ''{{tt|porcelet|piglet}}''
+|es=Lechonk|esmeaning=Same as English name
+|de=Ferkuli|demeaning=From ''{{tt|Ferkel|piglet}}'' and ''{{tt|kulinarisch|culinary}}''
+|it=Lechonk|itmeaning=Same as English name
+|ko=맛보돈 ''Matbodon''|komeaning=From {{tt|맛보다 ''matboda''|to taste}} and {{tt|돈 (豚) ''don''|pig}}
+|zh_cmn=愛吃豚 / 爱吃豚 ''Àichītún''|zh_cmnmeaning=From {{tt|愛吃 / 爱吃 ''àichī''|to love to eat}} and {{tt|豚 ''tún''|pig}}
+|zh_yue=愛吃豚 ''Oihektyùhn''|zh_yuemeaning=From {{tt|愛吃 ''oihek''|to love to eat}} and {{tt|豚 ''tyùhn''|pig}}
+|hi=शौकीशुका ''Shaukeeshuka|himeaning=From {{tt|शौक़ीन ''śhauqīn''|having hobbies}} and and {{tt|शूकर ''śhūkar''|pig/boar}}
+|th=กูร์ตง ''Kutong''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0914|prev=Quaquaval|nextnum=0916|next=Oinkologne}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Ferkuli]]
+[[es:Lechonk]]
+[[fr:Gourmelet]]
+[[it:Lechonk]]
+[[ja:グルトン]]
+[[zh:爱吃豚]]

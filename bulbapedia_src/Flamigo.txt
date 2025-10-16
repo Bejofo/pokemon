@@ -1,0 +1,311 @@
+{{PokémonPrevNext/Head|type=Flying|type2=Fighting}}
+{{PokémonPrevNext/GO|species=Flamigo}}
+{{PokémonPrevNext/Pokémon|type=Flying|prevnum=0972|prev=Houndstone|nextnum=0974|next=Cetoddle|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Flamigo
+|jname=カラミンゴ
+|jtranslit=
+|tmname=Karamingo
+|ndex=0973
+|type1=Flying
+|type2=Fighting
+|category=Synchronize
+|height-ftin=5'03"
+|height-m=1.6
+|weight-lbs=81.6
+|weight-kg=37.0
+|abilityn=1
+|ability1=Scrappy
+|ability2=Tangled Feet
+|abilityd=Costar
+|egggroupn=1
+|egggroup1=Flying
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=2
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=175
+|lv100exp=1059860
+|gendercode=127
+|color=Pink
+|catchrate=100
+|body=09
+|pokefordex=flamigo
+|generation=9
+|friendship=50
+}}
+'''Flamigo''' ([[List of Japanese Pokémon names|Japanese]]: '''カラミンゴ''' ''Karamingo'') is a dual-type {{2t|Flying|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+[[File:Flamigo untied neck attack.png|thumb|left|195px|Flamigo attacking with its neck untied]]
+Flamigo is an avian Pokémon resembling a {{wp|flamingo}}. It is mostly pink, with a rounded body and wings, and a long serpentine neck that's usually tied into a knot at the base. It is said that Flamigo ties its neck into a knot to keep the energy inside its belly from escaping. When it unties its neck, Flamigo is able to attack by rapidly swinging its head. Flamigo also has tall thin white legs with webbed feet, a white face, a curved beak with a black tip, and yellow eyes with black pupils. Flamigo typically stands on one of its legs.
+
+Flamigo lives near bodies of water and in wetlands. Flocks of Flamigo are known to attack together in perfect harmony, via a behavior known as "synchronizing". Flamigo is the [[Signature Ability|only known Pokémon]] that can have {{a|Costar}} as an [[Ability]].
+
+
+
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Flying|type2=Fighting}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=346|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Thanks to a behavior of theirs known as “synchronizing,” an entire flock of these Pokémon can attack simultaneously in perfect harmony.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fighting color dark}}; background:#{{flying color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{flying color light}}; background:#{{flying color light}} | [[File:Pokédex Image Flamigo SV.png|x200px]]
+|-
+| Flamigo in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Flying|type2=Fighting}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]]<br>South Province: [[South Province (Area Five)|Area Five]] ({{t|Bug}} {{Tera}} [[Type]])<br>East Province: [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]]<br>West Province: [[West Province (Area Two)|Area Two]], [[West Province (Area Three)|Area Three]]<br>North Province: [[South Province (Area One)|Area One]], [[Casseroya Lake]], [[Glaseado Mountain]]<br>[[Area Zero]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Flamigo|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Flying|type2=Fighting}}
+{{Availability/NA|gen=IX}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Costume [[sync pair scout]]: {{sync|Larry|Flamigo|Special Costume}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Flying
+|type2=Fighting
+|HP=82
+|Attack=115
+|Defense=74
+|SpAtk=75
+|SpDef=64
+|Speed=90
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Flying
+|type2=Fighting
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=0
+|Rock=100
+|Bug=25
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=200
+|Ice=200
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|flying=yes
+|newground=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Flamigo|Flying|Fighting|9}}
+{{learnlist/level9|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level9|1|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level9|5|Double Kick|Fighting|Physical|30|100|30||'''}}
+{{learnlist/level9|9|Detect|Fighting|Status|—|—|5}}
+{{learnlist/level9|12|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level9|15|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level9|18|Low Kick|Fighting|Physical|—|100|20||'''}}
+{{learnlist/level9|21|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level9|27|Payback|Dark|Physical|50|100|10}}
+{{learnlist/level9|31|Roost|Flying|Status|—|—|5}}
+{{learnlist/level9|35|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level9|39|Mega Kick|Normal|Physical|120|75|5}}
+{{learnlist/level9|44|Wide Guard|Rock|Status|—|—|10}}
+{{learnlist/level9|48|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/level9|54|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/levelf/9|Flamigo|Flying|Fighting|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Flamigo|Flying|Fighting|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20||'''}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM064|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM097|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM164|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM167|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM216|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM229|Upper Hand|Fighting|Physical|65|100|15||'''}}
+{{learnlist/tmf/9|Flamigo|Flying|Fighting|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Flamigo|Flying|Fighting|9}}
+{{learnlist/breed9|{{MSP/H|0396|Starly}}{{MSP/H|0397|Staravia}}{{MSP/H|0398|Staraptor}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}|Double Team|Normal|Status|—|—|15|grid=5}}
+{{learnlist/breed9|{{MSP/H|0701|Hawlucha}}|Quick Guard|Fighting|Status|—|—|15|*|grid=5}}
+{{learnlist/breed9|{{MSP/H|0164|Noctowl}}{{MSP/H|0334|Altaria}}{{MSP/H|0628|Braviary}}{{MSP/H|0628|Braviary|form=-Hisui}}{{MSP/H|0701|Hawlucha}}|Sky Attack|Flying|Physical|140|90|5||'''|grid=5}}
+{{learnlist/breedf/9|Flamigo|Flying|Fighting|9}}
+
+====Special moves====
+{{learnlist/eventh/9|Flamigo|Flying|Fighting|9}}
+{{learnlist/event9|[[South Province (Area Five)|Wild Tera Pokémon]]|Quick Guard|Fighting|Status|—|—|15}}
+{{learnlist/event9|[[South Province (Area Five)|Wild Tera Pokémon]]|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/eventf/9|Flamigo|Flying|Fighting|9}}
+
+===Side game data===
+{{Spindata/Head|type=Flying|type2=Fighting}}
+{{Spindata/GO|col=6|type=Flying|ndex=0973
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=193
+|attack=227
+|defense=145
+|fast={{m|Wing Attack}}, {{m|Double Kick}}
+|special={{m|Aerial Ace}}, {{m|Brave Bird}}, {{m|Close Combat}}
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Flying
+|type2=Fighting
+|pictype=art
+|no1=0973
+|name1=Flamigo
+|type1-1=Flying
+|type2-1=Fighting}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=flying|type2=fighting}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0973}}-->
+{{Spritebox/HOME|ndex=0973}}
+{{Spritebox/Footer|973|Flamigo}}
+
+==In animation==
+===Main series===
+[[File:Larry Flamigo Oricorio.png|thumb|250px|Flamigo in {{aniseries|HZ}}]]
+====Major appearances====
+
+====Minor appearances====
+Two Flamigo made their debut in ''[[HZ049|Dot and Nidothing]]'', under the ownership of two different {{pkmn|Trainer}}s each.
+
+[[Larry]]'s Flamigo briefly appeared in ''[[HZ055|Showdown! The Paldea Elite Four]]'', where it was defeated by [[Coral]]'s {{p|Glalie}}.
+
+A Trainer's Flamigo appeared in [[HZ109]].
+
+===Pokémon: Paldean Winds===
+[[File:Aliquis Flamigo.png|thumb|left|250px|Flamigo in [[Pokémon: Paldean Winds]]]]
+Flamigo appeared in ''[[PPW02|Breathe In]]'', under the ownership of [[Aliquis]]. It was seen losing to [[Nemona]]'s {{form|Tauros|Combat Breed}} {{rf|Paldean}} {{p|Tauros}}.
+
+A flock of {{pkmn2|wild}} Flamigo appeared in ''[[PPW04|Breathe Together]]'', during [[Ohara]], Aliquis, and [[Hohma]]'s video presenting [[Naranja Academy]].
+
+===Biri-Biri===
+A Flamigo appeared in the music video for [[Biri-Biri]], facing off against {{ga|Juliana|Anna}}'s {{p|Gengar}}.
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Flamigo (TCG)}}
+
+==Trivia==
+* There is a visual error on Flamigo's Paldea Pokédex image, showing two Flamigo with their wings both spread out and tucked in.
+
+===Origin===
+Flamigo appears to be based on a {{wp|flamingo}}, and its Paldean origin may reference the fact that {{wp|Spain}} has the largest flamingo population in Europe.<ref>[https://birdlifedata.blob.core.windows.net/sub-global/3769_phoenicopterus_roseus.pdf BirdLife International (2021). ''European Red List of Birds'': Greater flamingo (''Phoenicopterus roseus'')]</ref> Its knotted neck and body shape may be a reference to a {{wp|Balloon modelling|balloon animal}}, a {{wp|boxing glove}}, or a {{wp|Plastic flamingo|plastic flamingo lawn ornament}}. Flamigo's classification and Fighting-type may be a reference to the elaborate, synchronized courtship dances performed by flamingos, which can encompass the entirety of a flock. Flamigo's {{Shiny}} variant's pale pink coloration may reference how the bright pink color of flamingos' plumage becomes a duller shade of pink the longer they go without eating.
+
+====Name origin====
+Flamigo may be a combination of ''flamingo'' and ''amigo'' (Spanish and Portuguese for friend).
+
+Karamingo may be a combination of 絡み ''karami'' (linkage; entanglement; relationship; involvement) and ''flamingo''.
+
+==In other languages==
+{{Other languages|type=Flying|type2=Fighting
+|ja=カラミンゴ ''Karamingo''|jameaning=From {{tt|絡み ''karami''|linkage; entanglement; relationship; involvement}} and ''flamingo''
+|fr=Flamenroule|frmeaning=From ''{{tt|flamant rose|flamingo}}'' and ''{{tt|enrouler|to coil}}''
+|es=Flamigo|esmeaning=Same as English name
+|de=Flaminkno|demeaning=From ''Flamingo'' and ''{{tt|Knoten|knot}}''
+|it=Flamigo|itmeaning=Same as English name
+|ko=꼬이밍고 ''Kkoiminggo''|komeaning=From {{tt|꼬다 ''kkoda''|twist; writhe}} and ''flamingo''
+|zh_cmn=纏紅鶴 / 缠红鹤 ''Chánhónghè''|zh_cmnmeaning=From {{tt|纏繞 / 缠绕 ''chánrào''|to entwine}} and {{tt|紅鸛 / 红鹳 ''hónghè''|flamingo}}
+|zh_yue=纏紅鶴 ''Chìhnhùhnghohk''|zh_yuemeaning=From {{tt|纏繞 ''chìhnyíu''|to entwine}} and {{tt|紅鸛 ''hùhnghohk''|flamingo}}
+|hi=फ़सामिंगो ''Fasamingo''|himeaning=From {{tt|फ़साना ''fasānā''|romance tale}} and ''flamingo''
+|th=คลามิงโก้ ''Khlamingko''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Flying|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Flying|prevnum=0972|prev=Houndstone|nextnum=0974|next=Cetoddle}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Flaminkno]]
+[[es:Flamigo]]
+[[fr:Flamenroule]]
+[[it:Flamigo]]
+[[ja:カラミンゴ]]
+[[zh:缠红鹤]]

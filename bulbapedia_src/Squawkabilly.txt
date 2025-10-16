@@ -1,0 +1,478 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/GO|species=Squawkabilly}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0930|prev=Arboliva|nextnum=0932|next=Nacli|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Squawkabilly
+|jname=イキリンコ
+|tmname=Ikirinko
+|forme=4
+|form1=Green Plumage
+|form2=Blue Plumage
+|form3=Yellow Plumage
+|form4=White Plumage
+|image2=HOME0931B.png
+|image3=HOME0931Y.png
+|image4=HOME0931W.png
+|ndex=0931
+|type1=Normal
+|type2=Flying
+|category=Parrot
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=5.3
+|weight-kg=2.4
+|abilityn=2
+|abilitylayout=1+2
+|ability1=Intimidate
+|ability2=Hustle
+|abilityd=Guts
+|abilitydcaption=Green Plumage and Blue Plumage
+|abilityd2=Sheer Force
+|abilityd2caption=Yellow Plumage and White Plumage
+|egggroupn=1
+|egggroup1=Flying
+|egggroup2=
+|eggcycles=15
+|evtotal=1
+|evhp=0
+|evat=1
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=146
+|lv100exp=600000
+|gendercode=127
+|color=Green
+|formcolors=yes
+|catchrate=190
+|body=09
+|pokefordex=squawkabilly
+|generation=9
+|friendship=50
+}}
+'''Squawkabilly''' ([[List of Japanese Pokémon names|Japanese]]: '''イキリンコ''' ''Ikirinko'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+While it is not known to [[Evolution|evolve]] into or from any other Pokémon, Squawkabilly has four separate [[#Form data|forms]]: '''Green Plumage''', '''Blue Plumage''', '''Yellow Plumage''', and '''White Plumage'''.
+
+==Biology==
+Squawkabilly is an avian Pokémon resembling a parrot, with a large rounded yellow beak and lazy eyes. It has tan legs with feet shaped in a {{wp|Bird feet and legs#Toe arrangements|zygodactyl}} arrangement; i.e. two toes each on the front and back. Each toe is tipped with a yellow claw. Squawkabilly has a rounded, lumpy black crest on its head that resembles a {{wp|pompadour (hairstyle)|pompadour}}, and white feathers on its eyelids, face, belly, and the tips of its wings. The rest of its feathers have different colorations depending on the form, which come in green, blue, yellow, and off-white. The feathers around the bottom of its body are notably longer, giving the appearance of a long coat.
+
+Squawkabilly are known to be exceptionally noisy. They have a strong sense of community and dislike being alone, so they cooperate and form flocks that can contain more than fifty individuals based on the color of their feathers. In the mornings and evenings, they search for food in forests, towns, and cities; the latter is their preferred habitat, where they fight with other Squawkabilly of different plumes over territory. Green Plumage Squawkabilly make up the largest, most powerful groups, and are viewed by their Blue Plumage counterparts as rivals. Yellow Plumage Squawkabilly are especially fierce, engaging in vicious close combat and driving other bird Pokémon out of towns. White Plumage Squawkabilly have the fewest population numbers, although they are still able to hold territory because their feathers help them camouflage against the white buildings of cities. Squawkabilly once had violent territorial disputes with {{p|Fletchling}}, who inhabit the same rural and urban areas.
+
+In [[Paldea]], Squawkabilly is used for the region's [[Flying Taxi]] service. Certain Squawkabilly, such as the one found in [[Medali]] in the [[core series]] games, and [[Diana]]'s in the {{pkmn|animated series}}, are shown to be [[Talking Pokémon|capable of mimicking human speech]].
+
+===Forms===
+Squawkabilly has four separate forms: Green Plumage, Blue Plumage, Yellow Plumage, and White Plumage.
+
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{normal color}}; {{roundy|10px}} border: 3px solid #{{flying color dark}}"
+|-
+| Green Plumage
+|-
+| style="{{roundy|96px}} border: 2px solid #{{flying color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:HOME0931.png|100px]]
+|}
+|
+{| style="background: #{{normal color}}; {{roundy|10px}} border: 3px solid #{{flying color dark}}"
+|-
+| Blue Plumage
+|-
+| style="{{roundy|96px}} border: 2px solid #{{flying color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:HOME0931B.png|100px]]
+|}
+|
+{| style="background: #{{normal color}}; {{roundy|10px}} border: 3px solid #{{flying color dark}}"
+|-
+| Yellow Plumage
+|-
+| style="{{roundy|96px}} border: 2px solid #{{flying color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:HOME0931Y.png|100px]]
+|}
+|
+{| style="background: #{{normal color}}; {{roundy|10px}} border: 3px solid #{{flying color dark}}"
+|-
+| White Plumage
+|-
+| style="{{roundy|96px}} border: 2px solid #{{flying color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:HOME0931W.png|100px]]
+|}
+|}
+
+==Game data==
+===NPC appearances===
+* {{pkmn|Scarlet and Violet|Pokémon Scarlet and Violet}}: A Blue Plumage Squawkabilly is a part of the [[Medali Gym]] challenge, providing a hint that the player should make a Medium order.
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=113|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Form|Green Plumage}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Green-feathered flocks hold the most sway. When they're out searching for food in the mornings and evenings, it gets very noisy.}}
+{{Dex/Form|Blue Plumage}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The largest of their flocks can contain more than 50 individuals. They fly around towns and forests, searching for food and making a racket.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Blue-feathered Squawkabilly view their green-feathered counterparts as rivals, since the latter make up the largest, most powerful groups.}}
+{{Dex/Form|Yellow Plumage}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=These Squawkabilly are hotheaded, and their fighting style is vicious. They’ll leap within reach of their foes to engage in close combat.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The yellow Squawkabilly are especially fierce. They've even been known to drive other bird Pokémon out of town.}}
+{{Dex/Form|White Plumage}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon dislikes being alone. It has a strong sense of community and survives by cooperating with allies.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Though these Squawkabilly are the fewest in number, they have no trouble living in towns since they blend in with the white buildings.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Squawkabilly SV.png|x200px]]
+|-
+| Squawkabilly in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=normal|type2=flying}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|t=FFF|v2=Violet|t2=FFF|area=South Province: [[Cabo Poco]] <small>('''Green Plumage''')</small><br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]] <small>('''Green/Blue/Yellow/White Plumage''')</small><br>West Province: [[West Province (Area One)|Area One]] <small>('''Green Plumage''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Squawkabilly|4★}}) <small>('''Green Plumage''')</small>}}
+|}
+|}
+|}
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|type2=Flying
+|HP=82
+|Attack=96
+|Defense=51
+|SpAtk=45
+|SpDef=51
+|Speed=92
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|normal=yes
+|newground=1
+|newghost=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Squawkabilly|Normal|Flying|9}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level9|1|Mimic|Normal|Status|—|—|10}}
+{{learnlist/level9|6|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level9|10|Torment|Dark|Status|—|100|15}}
+{{learnlist/level9|13|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/level9|17|Fury Attack|Normal|Physical|15|85|20||'''}}
+{{learnlist/level9|20|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level9|24|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/level9|27|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level9|30|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/level9|34|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/level9|38|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level9|42|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/level9|47|Roost|Flying|Status|—|—|5}}
+{{learnlist/level9|52|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/levelf/9|Squawkabilly|Normal|Flying|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Squawkabilly|Normal|Flying|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM097|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm9|TM164|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM216|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/tmf/9|Squawkabilly|Normal|Flying|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Squawkabilly|Normal|Flying|9}}
+{{learnlist/breed9|{{bag/s|TM Normal|SV|TM204}}{{tt|*|No Pokémon in the Flying Egg Group can learn Double-Edge via level-up. However, the move is available via TM204 and can be passed down from the Doduo line, Noctowl, the Murkrow line, Altaria, the Starly line, the Ducklett line, the Rufflet line, the Fletchling line, Noivern, Corviknight, Squawkabilly, and Espathra, or copied via Mirror Herb.}}|Double-Edge|Normal|Physical|120|100|15||'''|grid=3}}
+{{learnlist/breed9|{{MSP/H|0396|Starly}}{{MSP/H|0397|Staravia}}{{MSP/H|0398|Staraptor}}|Final Gambit|Fighting|Special|—|100|5|grid=3}}
+{{learnlist/breed9|{{MSP/H|0741|Oricorio}}|Flatter|Dark|Status|—|100|15|grid=3}}
+{{learnlist/breed9|{{MSP/H|0962|Bombirdier}}|Parting Shot|Dark|Status|—|100|20|grid=3}}
+{{learnlist/breedf/9|Squawkabilly|Normal|Flying|9}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/GO|col=6|type=Normal|ndex=0931
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=193
+|attack=185
+|defense=105
+|fast={{m|Peck}}, {{m|Air Slash}}
+|special={{m|Aerial Ace}}, {{m|Brave Bird}}, {{m|Fly}}
+}}
+|}
+
+===Form data===
+Squawkabilly has four different non-interchangeable forms, each with differently colored plumage. The only functional difference between the forms is their [[Hidden Ability|Hidden Abilities]], with the Green Plumage and Blue Plumage forms having {{a|Guts}} and the Yellow Plumage and White Plumage forms having {{a|Sheer Force}}.
+
+{| class="roundy" style="margin:auto; text-align:center; background:#FFF"
+|-
+| class="roundy" width="25%" style="background:#{{Green color light}}" | Green Plumage<br>[[File:HOME0931.png|100px]]<br>{{acolor|Guts|000}}
+| class="roundy" width="25%" style="background:#{{Blue color light}}" | Blue Plumage<br>[[File:HOME0931B.png|100px]]<br>{{acolor|Guts|000}}
+| class="roundy" width="25%" style="background:#{{Yellow color light}}" | Yellow Plumage<br>[[File:HOME0931Y.png|100px]]<br>{{acolor|Sheer Force|000}}
+| class="roundy" width="25%" style="background:#{{White color light}}" | White Plumage<br>[[File:HOME0931W.png|100px]]<br>{{acolor|Sheer Force|000}}
+|}
+
+===Evolution data===
+====Green Plumage====
+<div style="float:center; display:flex; flex-flow:row wrap;">{{Evobox-1
+|type1=Normal
+|type2=Flying
+|pictype=art
+|no1=0931
+|name1=Squawkabilly
+|form1=Green Plumage
+|type1-1=Normal
+|type2-1=Flying}}</div>
+
+====Blue Plumage====
+<div style="float:center; display:flex; flex-flow:row wrap;">{{Evobox-1
+|type1=Normal
+|type2=Flying
+|pictype=sprite
+|no1=0931Squawkabilly-Blue
+|name1=Squawkabilly
+|form1=Blue Plumage
+|type1-1=Normal
+|type2-1=Flying}}</div>
+
+====Yellow Plumage====
+<div style="float:center; display:flex; flex-flow:row wrap;">{{Evobox-1
+|type1=Normal
+|type2=Flying
+|pictype=sprite
+|no1=0931Squawkabilly-Yellow
+|name1=Squawkabilly
+|form1=Yellow Plumage
+|type1-1=Normal
+|type2-1=Flying}}</div>
+
+====White Plumage====
+<div style="float:center; display:flex; flex-flow:row wrap;">{{Evobox-1
+|type1=Normal
+|type2=Flying
+|pictype=sprite
+|no1=0931Squawkabilly-White
+|name1=Squawkabilly
+|form1=White Plumage
+|type1-1=Normal
+|type2-1=Flying}}</div>
+
+===Sprites===
+{{Spritebox/Header|type=normal|type2=flying}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9/4Forms|ndex=0931|form1=B|form2=Y|form3=W}}-->
+{{Spritebox/HOME/4Forms|ndex=0931|form1=B|form2=Y|form3=W}}
+{{Spritebox/Footer|931|Squawkabilly}}
+
+==In animation==
+===Main series===
+[[File:Diana Squawkabilly.png|thumb|right|250px|A Yellow Plumage Squawkabilly in {{aniseries|HZ}}]]
+====Major appearances====
+Yellow Plumage Squawkabilly debuted in ''[[HZ012|The Future I Choose]]'', alongside [[Lucca]]. It was later revealed to actually be under the ownership of [[Liko]]'s grandmother, [[Diana]]. It has since made further appearances in {{aniseries|HZ}}.
+
+====Minor appearances====
+The Green Plumage and Blue Plumage forms of Squawkabilly made their debut in ''[[HZ015|Someone We Can't See! Whosawhatsit?]]'', as part of the [[Paldea]] [[Flying Taxi]] flock. The flock consisted of two of each form of Squawkabilly, except White Plumage.
+
+A student's Squawkabilly appeared in an image in ''[[HZ046|Welcome to Naranja Academy!]]''.
+
+Three White Plumage Squawkabilly debuted in ''[[HZ052|Wattrel's High Wind Warning!]]''.
+<gallery>
+White Plumage Squawkabilly anime.png|White Plumage Squawkabilly
+Blue Plumage Squawkabilly anime.png|Blue Plumage Squawkabilly
+</gallery>
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ024|Squawkabilly|Roy's Pokédex|Squawkabilly, the Parrot Pokémon. A {{t|Normal}} and {{t|Flying}} type. Those with {{form|Squawkabilly|Yellow Plumage}} are hotheaded and fight rougher.}}
+{{Animedexbody|HZ052|Squawkabilly|Liko's Pokédex|Squawkabilly, the Parrot Pokémon. A {{t|Normal}} and {{t|Flying}} type. Those with {{form|Squawkabilly|White Plumage}} are very sociable. When there is trouble, they survive by helping each other.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Paldean Winds===
+[[File:Squawkabilly Paldean Winds.png|thumb|250px|A Green Plumage Squawkabilly in [[Pokémon: Paldean Winds]]]]
+A Green Plumage Squawkabilly appeared in ''[[PPW03|Take a Breath]]''.
+{{-}}
+
+==In the manga==
+[[File:Paldea Flying Taxi Adventures.png|thumb|170px|Squawkabilly in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Squawkabilly debuted in [[PASV07]]. [[Katy]] mentioned that while on a trip to [[Artazon]], she took a [[Flying Taxi]] that was held by four Squawkabilly of varying colors.
+
+A Flying Taxi held by six Squawkabilly appeared in [[PASV16]].
+{{-}}
+
+==In the TCG==
+{{main|Squawkabilly (TCG)}}
+
+==Trivia==
+* Squawkabilly is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 417.
+* Squawkabilly was briefly shown in a pre-release trailer on [https://www.youtube.com/watch?v=4YEEDqke-D0 October 6, 2022] alongside {{p|Nacli}} and {{p|Tandemaus}}, though it remained officially unrevealed until the release of [[Pokémon Scarlet and Violet]].
+
+===Origin===
+Squawkabilly's category suggests it is based on a {{wp|parrot}}; it specifically resembles the {{wp|monk parakeet|monk parrot}}, an invasive species that forms large flocks in {{wp|Spain}} and can have green, blue, yellow, or white plumage, with green being the most common. {{wp|Madrid}}, and other large Spanish cities, have the largest populations of monk parakeets in Europe.<ref>[https://elpais.com/elpais/2018/06/03/ciencia/1528060036_486087.html?rel=mas Ansede, Manuel (5 June 2018). "Así se llenó España de cotorras". ''El País''. Retrieved 3 August 2018.]</ref><ref>Senar, J. C., Conroy, M. J. & Montalvo, T. (2021). In: Pruett-Jones, S. (ed.) ''Naturalized Parrots of the World: Distribution, Ecology, and Impacts of the World's Most Colorful Colonizers''. Princeton: Princeton University Press.</ref><ref>Hernandez-Brito, Dailos; Carrete, Martina; Tella, Jose L. (2022). "Annual Censuses and Citizen Science Data Show Rapid Population Increases and Range Expansion of Invasive Rose-Ringed and Monk Parakeets in Seville, Spain". ''Animals''. 12(6): 677. doi:10.3390/ani12060677. PMC&nbsp;8944835. PMID&nbsp;35327075.</ref> Its crest may also be loosely based on a {{wp|cockatoo}}, particularly the {{wp|red-tailed black cockatoo}}.
+
+Squawkabilly's appearance and behavior may be based on the punk archetype: the crest above its head resembles a {{wp|pompadour (hairstyle)|pompadour}} hairstyle common to the type. Its pompadour and noisy behavior could also be inspired by the {{wp|Rocker (subculture)|rocker subculture}}.
+
+====Name origin====
+Squawkabilly may be a combination of ''squawk'', ''bill'' (beak), and ''{{wp|rockabilly}}''.
+
+Ikirinko may be a combination of イキり ''ikiri'' (slang for a cocky person) and 鸚哥 ''inko'' (parrot).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=イキリンコ ''Ikirinko''|jameaning=From {{tt|イキり ''ikiri''|slang for a cocky person}} and {{tt|鸚哥 ''inko''|parrot}}
+|fr=Tapatoès|frmeaning=From ''{{tt|tapage|excessive noise}}'' and ''{{tt|cacatoès|cockatoo}}''
+|es=Squawkabilly|esmeaning=Same as English name
+|de=Krawalloro|demeaning=From ''{{tt|Krawall|ruckus}}'' and ''{{tt|loro|Spanish for parrot}}''
+|it=Squawkabilly|itmeaning=Same as English name
+|ko=시비꼬 ''Sibikko''|komeaning=From {{tt|시비 (是非) ''sibi''|dispute}} and {{tt|잉꼬 ''ingkko''|parrot}}
+|zh_cmn=怒鸚哥 / 怒鹦哥 ''Nùyīnggē''|zh_cmnmeaning=From {{tt|怒 ''nù''|rage}} and {{tt|鸚哥 / 鹦哥 ''yīnggē''|parrot}}
+|zh_yue=怒鸚哥 ''Nouhyīnggō''|zh_yuemeaning=From {{tt|怒 ''nouh''|rage}} and {{tt|鸚哥 ''yīnggō''|parrot}}
+|hi=मियांमिठू ''Miyaammithoo''|himeaning=From {{tt|मियां मिट्ठू ''miyā̃ miṭṭhū''|a common, endearing pet name for a parrot}}
+|th=อิคิริงโกะ ''Ikhiringko''|thmeaning=Transcription of Japanese name
+}}
+{{-}}
+<div style="display:inline-block">
+''Green Plumage''
+{{langtable
+|color={{normal color}}|bordercolor={{green color}}
+|ja=グリーンフェザー ''Green Feather''
+|zh_yue=綠羽毛 ''{{tt|Luhk Yúhmòu|Green Feather}}''
+|zh_cmn=綠羽毛 / 绿羽毛 ''{{tt|Lǜ Yǔmáo|Green Feather}}''
+|fr=Plumage Vert
+|de=Grüngefiedert
+|it=Piume Verdi
+|ko=그린 페더 ''Green Feather''
+|pt_br=Plumagem Verde
+|es=Plumaje Verde
+|th=ขนนกสีเขียว
+}}
+</div>
+<div style="display:inline-block">
+''Blue Plumage''
+{{langtable
+|color={{normal color}}|bordercolor={{blue color light}}
+|ja=ブルーフェザー ''Blue Feather''
+|zh_yue=藍羽毛 ''{{tt|Làahm Yúhmòu|Blue Feather}}''
+|zh_cmn=藍羽毛 / 蓝羽毛 ''{{tt|Lán Yǔmáo|Blue Feather}}''
+|fr=Plumage Bleu
+|de=Blaugefiedert
+|it=Piume Azzurre
+|ko=블루 페더 ''Blue Feather''
+|pt_br=Plumagem Azul
+|es=Plumaje Azul
+|th=ขนนกสีฟ้า
+}}
+</div>
+<div style="display:inline-block">
+''Yellow Plumage''
+{{langtable
+|color={{normal color}}|bordercolor={{yellow color}}
+|ja=イエローフェザー ''Yellow Feather''
+|zh_yue=黃羽毛 ''{{tt|Wòhng Yúhmòu|Yellow Feather}}''
+|zh_cmn=黃羽毛 / 黄羽毛 ''{{tt|Huáng Yǔmáo|Yellow Feather}}''
+|fr=Plumage Jaune
+|de=Gelbgefiedert
+|it=Piume Gialle
+|ko=옐로 페더 ''Yellow Feather''
+|pl=Żółte Upierzenie
+|pt_br=Plumagem Amarela
+|es=Plumaje Amarillo
+|th=ขนนกสีเหลือง
+}}
+</div>
+<div style="display:inline-block">
+''White Plumage''
+{{langtable
+|color={{normal color}}|bordercolor={{white color}}
+|ja=ホワイトフェザー ''White Feather''
+|zh_yue=白羽毛 ''{{tt|Baahk Yúhmòu|White Feather}}''
+|zh_cmn=白羽毛 ''{{tt|Bái Yǔmáo|White Feather}}''
+|fr=Plumage Blanc
+|de=Weißgefiedert
+|it=Piume Bianche
+|ko=화이트 페더 ''White Feather''
+|pl=Białe Upierzenie
+|pt_br=Plumagem Branca
+|es=Plumaje Blanco
+|th=ขนนกสีขาว
+}}
+</div>
+{{-}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0930|prev=Arboliva|nextnum=0932|next=Nacli}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Krawalloro]]
+[[es:Squawkabilly]]
+[[fr:Tapatoès]]
+[[it:Squawkabilly]]
+[[ja:イキリンコ]]
+[[zh:怒鹦哥]]

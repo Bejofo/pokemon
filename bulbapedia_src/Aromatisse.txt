@@ -1,0 +1,431 @@
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/GO|species=Aromatisse}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0682|prev=Spritzee|nextnum=0684|next=Swirlix|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Aromatisse
+|jname=フレフワン
+|tmname=Frefuwan
+|jtranslit=Furefuwan
+|category=Fragrance
+|typebox=1
+|type1=Fairy
+|ndex=0683
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=34.2
+|weight-kg=15.5
+|abilityn=d
+|ability1=Healer
+|abilityd=Aroma Veil
+|egggroupn=1
+|egggroup1=Fairy
+|gendercode=127
+|eggcycles=20
+|evtotal=2
+|evhp=2
+|expyield=162
+|lv100exp=1,000,000
+|color=Pink
+|catchrate=140
+|body=12
+|pokefordex=aromatisse
+|generation=6
+|friendship=70
+}}
+'''Aromatisse''' ([[List of Japanese Pokémon names|Japanese]]: '''フレフワン''' ''Frefuwan'') is a {{type|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Spritzee}} when [[Trade Evolution|traded]] while holding a [[Sachet]].
+
+==Biology==
+Aromatisse is a bipedal, semi-humanoid {{OBP|Pokémon|species}}. Its head and upper body are covered in fluffy purple fur or feathers. The exact hue varies: they are vivid purple in the official art, and pinkish-purple in all other appearances of the Pokémon. Around its lower body is an even fluffier mass of pink fur, resembling a skirt. There is a black bow on its lower back. It has a pale blue-gray face with a small, curved beak or snout that resembles a mask worn by {{wp|plague doctor}}s or a {{wp|masquerade}} mask. Its eyes are black with red sclerae and pupils and full black lashes. It has two wavy ears or tufts with yellow centers on its head. Each of its hands has three yellow claws, and it has paw-like feet with three toes.
+
+Aromatisse can give off a variety of different smells, ranging from a pleasant fragrance to bolster its allies to an odor so repugnant that its opponent loses the will to fight. The scent emitted by its pink fur is so strong that its companions and Trainer will gradually lose the ability to smell. In [[Generation VI]], {{m|Aromatic Mist}} was its [[signature move]]. Additionally, prior to [[Generation VIII]], Aromatisse and its pre-evolved form, {{p|Spritzee}}, were the [[Signature Ability|only known Pokémon]] that could have {{a|Aroma Veil}} as an [[Ability]].
+
+===Evolution===
+Aromatisse evolves from {{p|Spritzee}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=fairy
+|pictype=art
+|no1=0682
+|name1=Spritzee
+|type1-1=Fairy
+|evo1=
+|no2=0683
+|name2=Aromatisse
+|type1-2=Fairy}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fairy}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=130|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It devises various scents, pleasant and unpleasant, and emits scents that its enemies dislike in order to gain an edge in battle.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It devises various scents, pleasant and unpleasant, and emits scents that its enemies dislike in order to gain an edge in battle.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=213|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=The scent that constantly emits from its fur is so powerful that this Pokémon's companions will eventually lose their sense of smell.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent's will to fight.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Spritzee}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1/None|v=Sword}}
+{{Availability/Entry1|v=Shield|t=FFF|area=[[Rolling Fields/Dens|Rolling Fields]], [[Bridge Field/Dens|Bridge Field]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Lake of Outrage/Dens|Lake of Outrage]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 1|Mountain of Order: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Boundless Prairie|Dark Land: Boundless Prairie]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mimikyu Sea]], [[Zygarde Sea]], [[Greninja Sea]], [[Mimikyu Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 249]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=fairy}}
+{{eventAvail|{{gameabbrev6|OR}}|Shigeki Morimoto's Aromatisse|PAL region|Online|50|August 5, 2015 to January 22, 2016|link=List of PAL region serial code event Pokémon distributions in Generation VI#Aromatisse}}
+|}
+
+===Held items===
+{{HeldItems
+|type=fairy
+|event1=Babiri Berry|event1type=Berry|event1rar=100}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fairy
+|HP=101
+|Attack=72
+|Defense=72
+|SpAtk=99
+|SpDef=89
+|Speed=29
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fairy
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=200
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=0
+|Dark=50
+|Fairy=100
+|notes=yes
+|fairy=yes
+|newdragon=1
+}}
+
+===Learnset===
+Aromatisse is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Aromatisse|Fairy|Fairy|6}}
+{{learnlist/level8|1|Aromatic Mist|Fairy|Status|—|—|20}}
+{{learnlist/level8|1|Heal Pulse|Psychic|Status|—|—|10}}
+{{learnlist/level8|1|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level8|1|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level8|1|Sweet Kiss|Fairy|Status|—|75|10}}
+{{learnlist/level8|1|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/level8|9|Disarming Voice|Fairy|Special|40|—|15||'''}}
+{{learnlist/level8|12|Aromatherapy|Grass|Status|—|—|5}}
+{{learnlist/level8|15|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/level8|18|Attract|Normal|Status|—|100|15}}
+{{learnlist/level8|21|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level8|24|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/level8|27|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/level8|30|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level8|33|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/level8|36|Moonblast|Fairy|Special|95|100|15||'''}}
+{{learnlist/level8|39|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/level8|42|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/levelf/8|Aromatisse|Fairy|Fairy|6}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Aromatisse|Fairy|Fairy|6}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM18|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM63|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm8|TM70|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM87|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/tm8|TM89|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tr|TR14|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR25|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR30|Encore|Normal|Status|—|100|5}}
+{{learnlist/tr|TR40|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tr|TR49|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR52|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR70|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR92|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tmf/8|Aromatisse|Fairy|Fairy|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Aromatisse|Fairy|Fairy|6}}
+{{learnlist/breed8|{{MSP/8c|035|Clefairy}}{{MSP/8c|036|Clefable}}{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}{{MSP/8c|531|Audino}}{{MSP/8c|876|Indeedee}}|After You|Normal|Status|—|—|15|grid=6}}
+{{learnlist/breed8|{{MSP/8c|039|Jigglypuff}}{{MSP/8c|040|Wigglytuff}}|Disable|Normal|Status|—|100|20|grid=6}}
+{{learnlist/breed8|{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}{{MSP/8c|684|Swirlix}}{{MSP/8c|685|Slurpuff}}|Wish|Normal|Status|—|—|10|grid=6}}
+{{learnlist/breedf/8|Aromatisse|Fairy|Fairy|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Aromatisse|Fairy|Fairy|6}}
+{{learnlist/tutor8|Misty Explosion|Fairy|Special|100|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Aromatisse|Fairy|Fairy|6}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Aromatisse|Fairy|Fairy|6}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Aromatisse|Fairy|Fairy|6}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Aromatisse|Fairy|Fairy|6}}
+{{learnlist/prevgen8|Aromatisse|6|Captivate|Normal|Status|—|100|20|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Aromatisse|6|Charge Beam|Electric|Special|50|90|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aromatisse|6|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aromatisse|6|Covet|Normal|Physical|60|100|25|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aromatisse|6|Double Team|Normal|Status|—|—|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aromatisse|6|Dream Eater|Psychic|Special|100|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aromatisse|6|Endeavor|Normal|Physical|—|100|5|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aromatisse|6|Flash|Normal|Status|—|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aromatisse|6|Frustration|Normal|Physical|—|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aromatisse|6|Heal Bell|Normal|Status|—|—|5|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aromatisse|6|Hidden Power|Normal|Special|60|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aromatisse|6|Magic Coat|Psychic|Status|—|—|15|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aromatisse|6|Odor Sleuth|Normal|Status|—|—|40|VI=yes<!--level-->|VII=yes<!--level,level-->|x=yes}}
+{{learnlist/prevgen8|Aromatisse|6|Refresh|Normal|Status|—|—|20|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Aromatisse|6|Return|Normal|Physical|—|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aromatisse|6|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aromatisse|6|Swagger|Normal|Status|—|85|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aromatisse|6|Telekinesis|Psychic|Status|—|—|15|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Aromatisse|6|Torment|Dark|Status|—|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aromatisse|6|Toxic|Poison|Status|—|90|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Aromatisse|Fairy|Fairy|6}}
+
+===Side game data===
+{{Spindata/Head|type=Fairy}}
+{{Spindata/PSMD|col=6|type=Fairy|ndex=683
+|coset=21
+|conto={{p|Castform}}
+|recruitment=Traveling Pokémon
+|P1=What? I stink? Thank you. That's the highest compliment you could pay! ♪
+|P2=Ahh… I still have a long way to go in perfecting my perfume.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Fairy|ndex=683
+|walk=1.67
+|hp=59
+|attack=78
+|defense=55
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Fairy|ndex=683
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Fairy|ndex=683|num=353
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Power of 4
+|skilldesc=Increases damage when you make a match of four.
+}}
+|-
+{{Spindata/GO
+| col = 6
+| type = Fairy
+| ndex = 683
+| hatch = N/A
+| buddy = 3
+| evolution = N/A
+| stamina = 226
+| attack = 173
+| defense = 150
+| fast = {{m|Charm}}, {{m|Charge Beam}}
+| special = {{m|Moonblast}}, {{m|Thunderbolt}}, {{m|Psychic}}, {{m|Draining Kiss}}, {{m|Psyshock}}{{tt|*|From September 2, 2025 onward}}
+| candy = 
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=fairy
+|pictype=art
+|no1=0682
+|name1=Spritzee
+|type1-1=Fairy
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]] + [[File:Dream Sachet Sprite.png|40px|link=Sachet]]<br>{{color2|000|Trade}}<br>while holding {{color2|000|Sachet}}
+|no2=0683
+|name2=Aromatisse
+|type1-2=Fairy
+}}
+
+===Sprites===
+{{Spritebox/Header|type=fairy}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=683|crop=81}}
+{{Spritebox/7|ndex=683|crop=81}}
+{{Spritebox/8|ndex=683}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0683}}
+{{Spritebox/Footer|683|Aromatisse}}
+
+==In animation==
+[[File:Aria Aromatisse.png|thumb|250px|Aromatisse in {{aniseries|XY}}]]
+===Major appearances===
+Aromatisse physically debuted in ''[[XY064|Battling with Elegance and a Big Smile!]]'', where one appeared under the ownership of the reigning {{DL|Pokémon Performer|Kalos Queen}}, {{an|Aria}}. It made further appearances throughout {{aniseries|XY}}.
+
+An Aromatisse appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''. It noticed the fight between {{MTR}}, {{TP|Clemont|Chespin}}, and a {{p|Torchic}} over a [[Pecha Berry]].
+
+===Minor appearances===
+An Aromatisse appeared in ''[[XY039|Summer of Discovery!]]'', where it was seen on a [[Pokévision]] video icon.
+
+A Trainer's Aromatisse appeared in [[HZ112]].
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY064|Aromatisse|Serena's Pokédex|Aromatisse, the Fragrance Pokémon and the evolved form of {{p|Spritzee}}. Aromatisse can create many scents, some unpleasant enough to opponents to gain the advantage in battle.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+==In the manga==
+
+==In the TCG==
+{{main|Aromatisse (TCG)}}
+
+==Trivia==
+* Aromatisse is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 462.
+* Aromatisse can be seen as a parallel to {{p|Slurpuff}}. Both are [[Generation VI]] {{type|Fairy}} Pokémon that are version exclusives of [[Pokémon X and Y]] and in [[Pokémon Sword and Shield]], with Aromatisse to Pokémon Y and Pokémon Shield, and Slurpuff being exclusive to Pokémon X and Pokémon Sword. Both have [[Signature Ability|signature Abilities]] that affect themselves as well as their allies, and both evolve from their base forms when traded holding a certain item.
+* Aromatisse’s current menu sprite in [[Pokémon GO]] depicts a glitched version of its model, with extra eyelashes that partially clip through its eyes.
+* Aromatisse was designed by [[Saya Tsuruta]].<ref>[https://twitter.com/saya_tsuruta/status/1131920610995531776 Saya Tsuruta's Twitter account. Posted on May 24, 2019].</ref>
+
+===Origin===
+Aromatisse appears to be based on an aristocratic woman wearing a {{wp|masquerade ball|masquerade ball mask}}, with its fur forming the shape of a fluffy dress. This aligns with Spritzee’s Pokédex entry, which states that it was once the preferred partner of noblewomen. It may also take traits from the appearances of {{wp|flamenco}} and {{wp|can-can}} {{wp|cabaret}} dancers. Aromatisse also loosely resembles a fluffy cosmetics applicator (such as a {{wp|powder puff}}) and a perfume bottle.
+
+Aromatisse may also be based on a few different birds: Its pink coloration, as well as diet-sensitive characteristics of {{p|Spritzee}}, may point specifically to a {{wp|flamingo}}, while the upper half of its body resembles an {{wp|owl}}. 
+
+Its bird-like face may also be based on a {{wp|plague doctor}}'s mask, referencing the Pokémon's healing abilities, as well as the fact that plague doctors filled their masks with perfumed concoctions. Alternatively, the bird-like traits, healing abilities, and aromatic themes may reference the {{wp|nest protection hypothesis}}, which theorizes certain bird species add aromatic plant materials to nests to ward off or kill parasites and pathogens. The association between aromas and healing may also involve {{wp|aromatherapy}}.
+
+====Name origin====
+Aromatisse may be a combination of ''aromatic'' and ''finesse''. It may also involve a corruption of ''aromatize''.
+
+Frefuwan may be a combination of ''fragrance'' or ''fresh'' and フワフワ ''fuwafuwa'' (light, airy, fluffy).
+
+==In other languages==
+{{Other languages|type=Fairy|type2=Fairy
+|ja=フレフワン ''Frefuwan''|jameaning=From ''fragrance'', ''fresh'', and {{tt|フワフワ ''fuwafuwa''|light, airy, fluffy}}
+|fr=Cocotine|frmeaning=From ''{{tt|cocotter|to emit a powerful smell}}'', ''{{tt|cocotte|hen}}'', ''{{wp|Lutin|lutine}}'', and possibly ''{{wp|Coco Chanel}}''
+|es=Aromatisse|esmeaning=Same as English name
+|de=Parfinesse|demeaning=From ''{{tt|Parfum|perfume}}'' and ''finesse''
+|it=Aromatisse|itmeaning=Same as English name
+|ko=프레프티르 ''Frepetire''|komeaning=From ''fragrance'', ''fresh'', and ''petite''
+|zh_cmn=芳香精 ''Fāngxiāngjīng''|zh_cmnmeaning=From {{tt|芳香 ''fāngxiāng''|aromatic}} and {{tt|精 ''jīng''|essence; sprite}}
+|zh_yue=芳香精 ''Fōnghēungjīng''|zh_yuemeaning=From {{tt|芳香 ''fōnghēung''|aromatic}} and {{tt|精 ''jīng''|essence; sprite}}
+|hi=फुलासेंट ''Foolascent''|himeaning=From {{tt|फुला ''phulā''|puffed up/inflated}} and ''scent''
+|ru=Ароматисс ''Aromatiss''|rumeaning=Transcription of English name
+|th=เฟรฟุวัน ''Frefuwan''|thmeaning=Transcription of Japanese name
+}}
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0682|prev=Spritzee|nextnum=0684|next=Swirlix}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Parfinesse]]
+[[es:Aromatisse]]
+[[fr:Cocotine]]
+[[it:Aromatisse]]
+[[ja:フレフワン]]
+[[zh:芳香精]]

@@ -1,0 +1,385 @@
+{{PokémonPrevNext/Head|type=Fighting|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Annihilape}}
+{{PokémonPrevNext/Pokémon|type=Fighting|type2=Ghost|prevnum=0978|prev=Tatsugiri|nextnum=0980|next=Clodsire|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Annihilape
+|jname=コノヨザル
+|tmname=Konoyozaru
+|ndex=0979
+|type1=Fighting
+|type2=Ghost
+|category=Rage Monkey
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=123.5
+|weight-kg=56.0
+|abilityn=2
+|ability1=Vital Spirit
+|ability2=Inner Focus
+|abilityd=Defiant
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=3
+|evhp=0
+|evat=3
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=268
+|lv100exp=1000000
+|gendercode=127
+|color=Gray
+|catchrate=45
+|body=12
+|pokefordex=annihilape
+|generation=9
+|friendship=50
+}}
+'''Annihilape''' ([[List of Japanese Pokémon names|Japanese]]: '''コノヨザル''' ''Konoyozaru'') is a dual-type {{2t|Fighting|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Primeape}} when [[level]]ed up after using {{m|Rage Fist}} twenty times. It is the final form of {{p|Mankey}}.
+
+(Refer to [[#Evolution data|Game data&rarr;Evolution data]] for more details.)
+
+==Biology==
+[[File:Annihilape fist.png|250px|thumb|left|Annihilape increasing the size of its unshackled arm]]
+Annihilape is a simian Pokémon with a round body that is situated on two thin legs with black shackles around its ankles. It is covered in shaggy grey fur that streams upward and fades to white as it seems to evaporate. Its shaggy ear fur usually hangs down but tends to stream upwards while Annihilape is in battle. Unlike Primeape and Mankey, Annihilape's skin is a dark grey. The metal shackle on its left arm is broken while it appears to have no shackle at all on the right arm. It is also able to greatly increase the size of its unshackled arm. Annihilape has three-fingered hands and two-toed feet. There are multiple throbbing veins on the left side of its face, with a large pink pig-like snout as well. Its eyes are red as if the creature were in an extreme rage.
+
+Annihilape evolved from Primeape when the rage in its soul became too much for its physical form to contain; it gained increased power as a result of its spirit no longer being limited by the flesh. The rage that was bubbling inside fills its punches with force that frightens its targets to their core.
+
+Annihilape and its pre-evolved form, {{p|Primeape}}, are the only known Pokémon capable of learning the move {{m|Rage Fist}}.
+{{left clear}}
+
+===Evolution===
+Annihilape evolves from {{p|Primeape}} and is the final form of {{p|Mankey}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Fighting
+|pictype=art
+|no1=0056
+|name1=Mankey
+|type1-1=Fighting
+|evo1=
+|no2=0057
+|name2=Primeape
+|type1-2=Fighting
+|evo2=
+|no3=0979
+|name3=Annihilape
+|type1-3=Fighting
+|type2-3=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fighting|type2=Ghost}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=160|reg2=Kitakami|num2=101|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{fighting color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{fighting color light}}; background:#{{fighting color light}} | [[File:Pokédex Image Annihilape SV.png|x200px]]
+|style="border:2px solid #{{fighting color light}}; background:#{{fighting color light}} | [[File:Pokédex Image Annihilape SV Kitakami.png|x200px]]
+|-
+| Annihilape in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Annihilape in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Fighting|type2=Ghost}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Paldea)|Annihilape|5★}}, {{DL|List of 6★ Tera Raid Battles (Paldea)|Annihilape|6★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Kitakami Wilds]], [[Timeless Woods]]}}
+|}
+|}
+|}
+
+====In side games====
+{{Availability/Header|type=Fighting|type2=Ghost}}
+{{Availability/NA|gen=IX}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Poké Fair [[sync pair scout]]: {{sync|Eri|Annihilape}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====[[Poké Portal News]]=====
+{{eventAvail/h|Tera Type|type=Fighting|type2=Ghost|lochide=yes}}
+{{eventAvail|{{gameabbrev9|SV}}|Tera Raid Battles Part 3|Varies|hide|75|December 12 to 19, 2024|link=Poké Portal News/2024#December 12 to 19, 2024 2}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Fighting
+|type2=Ghost
+|HP=110
+|Attack=115
+|Defense=80
+|SpAtk=50
+|SpDef=90
+|Speed=90
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fighting
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=200
+|Poison=50
+|Ground=100
+|Rock=50
+|Bug=25
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=200
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Annihilape|Fighting|Ghost|9}}
+{{learnlist/level9|1|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/level9|1|Fling|Dark|Physical|—|100|10}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Shadow Punch|Ghost|Physical|60|—|20||'''}}
+{{learnlist/level9|5|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level9|8|Low Kick|Fighting|Physical|—|100|20||'''}}
+{{learnlist/level9|12|Seismic Toss|Fighting|Physical|—|100|20}}
+{{learnlist/level9|17|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level9|22|Cross Chop|Fighting|Physical|100|80|5||'''}}
+{{learnlist/level9|26|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level9|30|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level9|35|Rage Fist|Ghost|Physical|50|100|10||'''}}
+{{learnlist/level9|39|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/level9|44|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|48|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/level9|53|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/level9|57|Final Gambit|Fighting|Special|—|100|5}}
+{{learnlist/levelf/9|Annihilape|Fighting|Ghost|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Annihilape|Fighting|Ghost|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20||'''}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm9|TM064|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/tm9|TM069|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tm9|TM073|Drain Punch|Fighting|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM151|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/tm9|TM157|Overheat|Fire|Special|130|90|5}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm9|TM167|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm9|TM184|Vacuum Wave|Fighting|Special|40|100|30||'''}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20||'''}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM213|Coaching|Fighting|Status|—|—|10}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Annihilape|Fighting|Ghost|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Annihilape|Fighting|Ghost|9}}
+{{learnlist/breed9|{{MSP/H|0215|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0228|Houndour}}{{MSP/H|0229|Houndoom}}{{MSP/H|0275|Shiftry}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0766|Passimian}}|Beat Up|Dark|Physical|—|100|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0287|Slakoth}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0745|Lycanroc|form=-Midnight}}{{MSP/H|0745|Lycanroc|form=-Dusk}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0979|Annihilape}}|Counter|Fighting|Physical|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark|form=-Hisui}}|Curse|Ghost|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0287|Slakoth}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0289|Slaking}}{{MSP/H|0501|Oshawott}}{{MSP/H|0502|Dewott}}{{MSP/H|0503|Samurott}}{{MSP/H|0503|Samurott|form=-Hisui}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0728|Popplio}}{{MSP/H|0729|Brionne}}{{MSP/H|0730|Primarina}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}|Encore|Normal|Status|—|100|5|grid=8}}
+{{learnlist/breed9|{{MSP/H|0051|Dugtrio}}{{MSP/H|0051|Dugtrio|form=-Alola}}{{MSP/H|0052|Meowth|form=-Alola}}{{MSP/H|0053|Persian|form=-Alola}}{{MSP/H|0335|Zangoose}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0461|Weavile}}{{MSP/H|0571|Zoroark}}{{MSP/H|0908|Meowscarada}}|Night Slash|Dark|Physical|70|100|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0037|Vulpix}}{{MSP/H|0037|Vulpix|form=-Alola}}{{MSP/H|0038|Ninetales}}{{MSP/H|0038|Ninetales|form=-Alola}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark|form=-Hisui}}{{tt|*|Hisuian Zorua learned Spite via level-up prior to Version 2.0.1; it can still learn Spite via TM177}}|Spite|Ghost|Status|—|100|10|grid=8}}
+{{learnlist/breedf/9|Annihilape|Fighting|Ghost|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Annihilape|Fighting|Ghost|9}}
+{{learnlist/prevo9|0056|Mankey|||||Covet|Normal|Physical|60|100|25}}
+{{learnlist/prevof/9|Annihilape|Fighting|Ghost|9}}
+
+===Side game data===
+{{Spindata/Head|type=Fighting|type2=Ghost}}
+{{Spindata/GO|col=6|type=Fighting|ndex=0979
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=242
+|attack=220
+|defense=178
+|fast={{m|Low Kick}}, {{m|Counter}}
+|special={{m|Close Combat}}, {{m|Low Sweep}}, {{m|Night Slash}}, {{m|Ice Punch}}, {{m|Shadow Ball}}, {{m|Rage Fist}}{{tt|†|Event-exclusive from Mankey Community Day}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+Annihilape [[Evolution|evolves]] from {{p|Primeape}} when [[level]]ed up after using {{m|Rage Fist}} 20 times. Specifically, [[PP]] must be consumed for the move 20 times.
+{{Evobox-3
+|type1=Fighting
+|type2=Ghost
+|pictype=art
+|no1=0056
+|name1=Mankey
+|type1-1=Fighting
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 28}}
+|no2=0057
+|name2=Primeape
+|type1-2=Fighting
+|evo2={{bag/s|Rare Candy|SV}} + [[File:Bag TM Ghost SV Sprite.png|40px|link=Rage Fist (move)]]<br>{{color2|000|Level|Level up}}<br>after using {{mcolor|Rage Fist|000}} 20 times
+|no3=0979
+|name3=Annihilape
+|type1-3=Fighting
+|type2-3=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=fighting|type2=ghost}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0979}}-->
+{{Spritebox/HOME|ndex=0979}}
+{{Spritebox/Footer|979|Annihilape}}
+
+==In animation==
+[[File:Annihilape anime.png|thumb|250px|Annihilape in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Annihilape made its animated series debut at the very end of ''[[HZ052|Wattrel's High Wind Warning!]]'', albeit heavily shadowed. It appeared properly in [[HZ053|the next episode]], as part of an enraged group of {{p|Mankey}} and {{p|Primeape}} that had been separated from their food storage. In the same episode, two other Annihilape appeared after evolving from Primeape.
+
+====Minor appearances====
+
+
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ053|Annihilape|Liko's Rotom Phone|Annihilape, the Rage Monkey Pokémon. A {{t|Fighting}} and {{t|Ghost}} type. When its anger rose beyond a critical point, this Pokémon gained power unfettered by the limits of its physical body.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Paldean Winds===
+[[File:Eri Annihilape PPW.png|thumb|left|250px|Annihilape in [[Pokémon: Paldean Winds]]]]
+Annihilape appeared in ''[[PPW03|Take a Breath]]'', under the ownership of [[Eri]].
+
+===POKÉTOON===
+[[File:Boy PT10 Annihilape.png|thumb|250px|Annihilape in [[POKÉTOON]]]]
+An Annihilape appeared in [[PT10]], under the ownership of a {{OBP|boy|PT10}}. It evolved from {{p|Primeape}} after defeating the {{pkmn|Champion}}'s {{p|Baxcalibur}}.
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Annihilape (TCG)}}
+
+==Trivia==
+
+===Origin===
+Similar to its pre-Evolutions, Annihilape seems to take inspiration from primates, particularly {{wp|Barbary macaques in Gibraltar|Gibraltar barbary macaques}}, but it could also take inspiration from {{wp|snub-nosed monkey}}s, {{wp|Japanese macaque}}s, {{wp|Southern pig-tailed macaque}}s, and {{wp|baboon}}s, sharing with the latter the pig-like nose, proportions, and propensity for rage.
+
+Its general concept and added {{type|Ghost}} may have been inspired by {{p|Primeape}}'s [[Pokédex]] entry in {{pkmn|Sun and Moon|Pokémon Sun}}, which states that Primeape can become so angry that it dies as a result. Additionally, it seems to be inspired by {{wp|onryō}}, vengeful spirits from Japanese folklore. It may take additional inspiration from the {{wp|Basajaun}}, a hairy apelike being from Basque folklore.
+ 
+====Name origin====
+Annihilape may be a combination of ''annihilate'' and ''ape''.
+
+Konoyozaru may be a combination of この世を去る ''kono yo o saru'' (to leave this world; to die) and 猿 ''saru'' (monkey).
+
+==In other languages==
+{{Other languages|type=fighting|type2=ghost
+|ja=コノヨザル ''Konoyozaru''|jameaning=From {{tt|この世を去る ''kono yo o saru''|to leave this world; to die}} and {{tt|猿 ''saru''|monkey}}
+|fr=Courrousinge|frmeaning=From ''{{tt|courroucé|wrathful}}'' and ''{{tt|singe|ape}}''
+|es=Annihilape|esmeaning=Same as English name
+|de=Epitaff|demeaning=From ''{{wp|Epitaph}}'' and ''{{tt|Affe|monkey, ape}}''
+|it=Annihilape|itmeaning=Same as English name
+|ko=저승갓숭 ''Jeoseunggatsung''|komeaning=From {{tt|저승 갔음 ''jeongseung gasseum''|passed on to the other world}} and {{tt|원숭이 ''wonsung-i''|monkey}}
+|zh_cmn=棄世猴 / 弃世猴 ''Qìshìhóu''|zh_cmnmeaning=From {{tt|棄世 / 弃世 ''qìshì''|to pass away}} and {{tt|猴 ''hóu''|monkey}}
+|zh_yue=棄世猴 ''Heisaihàuh''|zh_yuemeaning=From {{tt|棄世 ''heisai''|to pass away}} and {{tt|猴 ''hàuh''|monkey}}
+|hi=परलौकेप ''Parlokape''|himeaning=From {{tt|परलोक ''paralok''|other-world}} or {{tt|पारलौकिक ''pārlaukik''|transcendental / ethereal / other-wordly}} and ''ape''
+|th=โคโนะโยซารุ ''Khonoyosaru''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Fighting|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Fighting|type2=Ghost|prevnum=0978|prev=Tatsugiri|nextnum=0980|next=Clodsire}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational Evolutions]]
+
+[[de:Epitaff]]
+[[es:Annihilape]]
+[[fr:Courrousinge]]
+[[it:Annihilape]]
+[[ja:コノヨザル]]
+[[zh:弃世猴]]

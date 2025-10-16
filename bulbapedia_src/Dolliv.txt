@@ -1,0 +1,316 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Normal}}
+{{PokémonPrevNext/GO|species=Dolliv}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0928|prev=Smoliv|nextnum=0930|next=Arboliva|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Dolliv
+|jname=オリーニョ
+|jtranslit=Orīnyo
+|tmname=Olinyo
+|ndex=0929
+|type1=Grass
+|type2=Normal
+|category=Olive
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=26.2
+|weight-kg=11.9
+|abilityn=1
+|ability1=Early Bird
+|ability2=
+|abilityd=Harvest
+|egggroupn=1
+|egggroup1=Grass
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=0
+|evsa=2
+|evsd=0
+|evsp=0
+|expyield=124
+|lv100exp=1059860
+|gendercode=127
+|color=Green
+|catchrate=120
+|body=12
+|pokefordex=dolliv
+|generation=9
+|friendship=50
+}}
+'''Dolliv''' ([[List of Japanese Pokémon names|Japanese]]: '''オリーニョ''' ''Olinyo'') is a dual-type {{2t|Grass|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Smoliv}} starting at [[level]] 25 and evolves into {{p|Arboliva}} starting at level 35.
+
+==Biology==
+Dolliv is a green plant Pokémon resembling a human wearing a dress. Its head is light green, with several leaves and two olive fruits on top. Its black beady eyes and mouth are relatively small compared to its head. It has a collar-like shape below its head, and its body flares out into multiple parts at the bottom, hiding its thin, light green legs. It has two long leaves for arms.
+
+Dolliv has coexisted with humans since ancient times, living among settlements and sharing its tasteful, fresh-scented oil. It enjoys basking in the sunlight until the fruits on its head ripen. Once accomplished, it leaves the settlements and goes on its own journey.
+
+Dolliv and its evolutionary relatives are the [[signature move|only known Pokémon]] capable of learning the move {{m|Terrain Pulse}} by leveling up.
+
+===Evolution===
+Dolliv evolves from {{p|Smoliv}} and evolves into {{p|Arboliva}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Grass
+|type2=Normal
+|no1=0928
+|name1=Smoliv
+|type1-1=Grass
+|type2-1=Normal
+|evo1=
+|no2=0929
+|name2=Dolliv
+|type1-2=Grass
+|type2-2=Normal
+|evo2=
+|no3=0930
+|name3=Arboliva
+|type1-3=Grass
+|type2-3=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Normal}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=85|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It basks in the sun to its heart's content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Dolliv SV.png|x200px]]
+|-
+| Dolliv in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Normal}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[East Paldean Sea]], [[Tagtree Thicket]]<br>North Province: [[North Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Dolliv|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Normal
+|HP=52
+|Attack=53
+|Defense=60
+|SpAtk=78
+|SpDef=78
+|Speed=33
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Normal
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=0
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Dolliv|Grass|Normal|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|1|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|5|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|7|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|10|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|13|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|16|Flail|Normal|Physical|—|100|15||'''}}
+{{learnlist/level9|20|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|23|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/level9|29|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|34|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|37|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|42|Terrain Pulse|Normal|Special|50|100|10||'''}}
+{{learnlist/levelf/9|Dolliv|Grass|Normal|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Dolliv|Grass|Normal|9}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM190|Solar Blade|Grass|Physical|125|100|10||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10||'''}}
+{{learnlist/tmf/9|Dolliv|Grass|Normal|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Dolliv|Grass|Normal|9}}
+{{learnlist/breed9|{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0547|Whimsicott}}|Memento|Dark|Status|—|100|10}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0191|Sunkern}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}{{MSP/H|0764|Comfey}}|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/breed9|{{bag/s|TM Normal|SV|TM193}}{{tt|*|No Pokémon in the Grass Egg Group can learn Weather Ball via level-up. However, the move is available via TM193 and can be passed down from the Bulbasaur line, Vileplume, Bellossom, the Bellsprout line, Meganium, the Sunkern line, the Lotad line, Nuzleaf, Shiftry, the Snover line, the Fomantis line, and the Smoliv line, or copied via Mirror Herb.}}|Weather Ball|Normal|Special|50|100|10||'''}}
+{{learnlist/breedf/9|Dolliv|Grass|Normal|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Dolliv|Grass|Normal|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Dolliv|Grass|Normal|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Normal}}
+{{Spindata/GO|col=6|type=Grass|ndex=0929
+|hatch=N/A
+|buddy=3
+|candy=Smoliv
+|evocandy=100
+|stamina=141
+|attack=137
+|defense=131
+|fast={{m|Razor Leaf}}, {{m|Tackle}}, {{m|Magical Leaf}}
+|special={{m|Seed Bomb}}, {{m|Energy Ball}}, {{m|Earth Power}}, {{m|Trailblaze}}{{tt|*|From December 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Grass
+|type2=Normal
+|no1=0928
+|name1=Smoliv
+|type1-1=Grass
+|type2-1=Normal
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 25}}
+|no2=0929
+|name2=Dolliv
+|type1-2=Grass
+|type2-2=Normal
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}
+|no3=0930
+|name3=Arboliva
+|type1-3=Grass
+|type2-3=Normal
+}}
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=normal}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0929}}-->
+{{Spritebox/HOME|ndex=0929}}
+{{Spritebox/Footer|929|Dolliv}}
+
+==In animation==
+[[File:Brassius Dolliv.png|thumb|250px|Dolliv in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Dolliv debuted in ''[[HZ010|Nemona and Brassius and…]]'', under the ownership of [[Brassius]]. It reappeared in ''[[HZ048|Sparkle! The Glow of Flame and Art]]'' and ''[[HZ055|Showdown! The Paldea Elite Four]]''.
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ010|Dolliv|Roy's Rotom Phone|Dolliv, the Olive Pokémon. A {{t|Grass}} and {{t|Normal}} type. It produces oil with a fresh scent. When it gets enough sunlight and the fruit on its head ripens, it leaves human settlements and goes on a journey.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===POKÉTOON===
+A Dolliv appeared in [[PT10]], where it seen being defeated by the {{OBP|boy|PT10}}'s {{p|Primeape}}.
+
+==In the manga==
+[[File:Violet Dolliv.png|thumb|170px|Dolliv in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Dolliv debuted in <!--[[PASV20]]--> the {{MangaArc|Scarlet & Violet}}. During his Gym battle with [[Larry]], {{Violet}}'s {{p|Smoliv}} evolved into one after defeating Larry's {{p|Dudunsparce}}.
+{{-}}
+
+==In the TCG==
+{{main|Dolliv (TCG)}}
+
+==Trivia==
+* Dolliv is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 354.
+* Dolliv and its evolutionary relatives are the only {{type|Normal}} Pokémon in the {{egg3|Grass}}.
+
+===Origin===
+Dolliv appears to be based on a {{wp|dryad}} and on a green {{wp|olive}}, likely referencing how Spain (the region Paldea is based on) is the {{wp|Olive#Global_production|biggest producer of olives}} in the world. Its {{Shiny}} coloration resembles black olives.
+
+====Name origin====
+Dolliv may be a combination of ''doll'' and ''olive''.
+
+Olinyo may be a combination of ''olive'' and ''aliño'' (Spanish for condiment or salad dressing) or the Portuguese diminutive suffix ''-inho''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Normal
+|ja=オリーニョ ''Olinyo''|jameaning=From ''olive'' and ''{{tt|aliño|Spanish for condiment}}'' or ''{{tt|-inho|Portuguese diminutive suffix}}''
+|fr=Olivado|frmeaning= From ''olive'' and {{tt|''ado''|teen}}
+|es=Dolliv|esmeaning=Same as English name
+|de=Olivinio|demeaning=Similar to the Japanese name
+|it=Dolliv|itmeaning=Same as English name
+|ko=올리뇨 ''Ollinyo''|komeaning=Transcription of Japanese name
+|zh_cmn=奧利紐 / 奥利纽 ''Àolìniǔ''|zh_cmnmeaning=Transcription of Japanese name
+|zh_yue=奧利紐 ''Ouleihnáu''|zh_yuemeaning=Transcription of Japanese name
+|hi=डॉलिव ''Dolliv''|himeaning=Transcription English name
+|th=โอลีเนียว ''Oliniao''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass|type2=Normal}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0928|prev=Smoliv|nextnum=0930|next=Arboliva}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Olivinio]]
+[[es:Dolliv]]
+[[fr:Olivado]]
+[[it:Dolliv]]
+[[ja:オリーニョ]]
+[[zh:奥利纽]]

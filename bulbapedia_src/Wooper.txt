@@ -1,0 +1,1069 @@
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/GO|species=Wooper}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0193|prev=Yanma|nextnum=0195|next=Quagsire|round=none}}
+{{PokémonPrevNext/Disambig|species=Wooper}}
+|}
+{{Pokémon Infobox
+|name=Wooper
+|jname=ウパー
+|jtranslit=Upā
+|tmname=Upah
+|forme=2
+|form1=Wooper
+|form2=Paldean Wooper
+|image2=0194Wooper-Paldea.png
+|ndex=0194
+|typebox=1
+|type1=Water
+|type2=Ground
+|form2type1=Poison
+|form2type2=Ground
+|category={{tt|Water Fish|Wooper}} Pokémon<br/>{{tt|Poison Fish|Paldean Wooper}}
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=18.7
+|weight-kg=8.5
+|weight-lbs2=24.3
+|weight-kg2=11.0
+|abilityn=2d
+|abilitylayout=2+1
+|abilitycold=2
+|ability1=Damp
+|ability2=Water Absorb
+|ability2-1=Poison Point
+|ability2-2=Water Absorb
+|abilityd=Unaware
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Field
+|eggcycles=20
+|evtotal=1
+|evhp=1
+|expyield=42
+|oldexp=52
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|formcolors=yes
+|catchrate=255
+|body=07
+|pokefordex=wooper
+|generation=2
+|friendship=70
+}}
+'''Wooper''' ([[List of Japanese Pokémon names|Japanese]]: '''ウパー''' ''Upah'') is a dual-type {{2t|Water|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s into {{p|Quagsire}} starting at [[level]] 20.
+
+In [[Paldea]], Wooper has a dual-type {{t|Poison}}/{{t|Ground}} [[regional form]]. Paldean Wooper evolves into {{p|Clodsire}} starting at level 20.
+
+==Biology==
+Wooper is a mostly blue, {{wp|amphibian|amphibious}}  {{OBP|Pokémon|species}} that resembles an upright, armless {{wp|axolotl}}. Wooper's head is large compared to its body, and it has small, round, black eyes. It has purple, branching gills on either side of its head; the males have more branches in its gills than the females. Wooper stands on two small, round feet, and it has a large, thick tail. On its belly are dark blue curved markings.
+
+It is implied in the {{aniseries|JN}} episode ''[[JN008|The Sinnoh Iceberg Race!]]'' that Wooper is a dull-witted Pokémon oblivious to its surroundings. Wooper lives in {{DL|List of Pokémon by habitat|Water's-edge Pokémon|cold water}} most of the time. When sleeping, it partially buries itself in the mud at the bottom. It will occasionally leave the water when the air cools in the evening to search for food along the shore. While walking on land, it coats its body with a slimy, toxic film that keeps its skin from dehydrating and insulates against the cold. The film causes a shooting pain if touched barehanded. It is a timid Pokémon and tends to stay close to {{p|Quagsire}}. {{p|Arbok}} is a natural predator of Wooper. As shown in [[Pokémon Sleep]], Wooper tends to bury half its body in the mud at the bottom of the water to sleep. When Wooper also does this while sleeping on land. By sleeping in the mud on land, Wooper can keep its skin wet and prevent dehydration.
+
+===Forms===
+Wooper has a [[regional form]]: {{rf|Paldean}} Wooper.
+
+Wooper in the [[Paldea]] region has a brown coloration, with two pairs of bone-shaped gills branching from its head, as well as an eight-pronged pattern on its stomach. Paldean Wooper once lived in the water during ancient times until they were forced out of their territory. As a result, they gradually adapted to living on land, namely in marshes. Paldean Wooper employs two adaptations to allow it to survive on land: its gills have hardened, and it coats its body with a poisonous film that keeps it from drying out. However, these adaptations resulted in Paldean Wooper having heavy bodies and being only able to move really slowly. To defend itself, Paldean Wooper can use its gills to unleash a powerful poisonous liquid.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/paldean_wooper/ Paldean Wooper — Pokémon Scarlet and Pokémon Violet | Official Website]</ref> Paldean Wooper travel and work together in groups of three or four, and enlist the help of their evolutionary relative, {{p|Clodsire}}, to ferry them across water. Despite the adaptational change, Paldean Wooper can still float or swim in the water. Paldean Wooper usually lives in muddy wetlands. As mentioned in [[Pokémon Sleep]], Paldean Wooper has been observed sleeping with its whole body coated in mud.
+
+===Evolution===
+Wooper evolves into {{p|Quagsire}}.
+
+{{rf|Paldean}} Wooper evolves into {{p|Clodsire}}.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Wooper'''
+{{Evobox-2
+|type=Water
+|type2=Ground
+|pictype=art
+|no1=0194
+|name1=Wooper
+|type1-1=Water
+|type2-1=Ground
+|evotype1=Level
+|evo1=
+|no2=0195
+|name2=Quagsire
+|type1-2=Water
+|type2-2=Ground}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Paldean Wooper'''
+{{Evobox-2
+|type1=Poison
+|type2=Ground
+|pictype=sprite
+|no1=0194Wooper-Paldea
+|name1=Wooper
+|form1=Paldean Form
+|type1-1=Poison
+|type2-1=Ground
+|evotype1=Level
+|evo1=
+|no2=0980Clodsire
+|name2=Clodsire
+|type1-2=Poison
+|type2-2=Ground}}
+</div>
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Ground}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=056}}
+{{Dex/Entry1|v=Gold|entry=This {{ScPkmn}} lives in cold water. It will leave the water to search for food when it gets cold outside.}}
+{{Dex/Entry1|v=Silver|entry=When it walks around on the ground, it coats its body with a slimy, poisonous film.}}
+{{Dex/Entry1|v=Crystal|entry=A mucous membrane covers its body. Touching it barehanded will cause a shooting pain.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=This {{ScPkmn}} lives in cold water. It will leave the water to search for food when it gets cold outside. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>When it walks around on the ground, it coats its body with a slimy, poisonous film. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Wooper</sc> usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=<sc>Wooper</sc> usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.}}
+{{Dex/Entry1|v=FireRed|entry=When it walks around on the ground, it coats its body with a slimy, poisonous film.}}
+{{Dex/Entry1|v=LeafGreen|entry=This {{ScPkmn}} lives in cold water. It will leave the water to search for food when it gets cold outside.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=117|reg2=Johto|num2=056}}
+{{Dex/Entry1|v=Diamond|entry=It lives in cold water, half burying itself in mud at the bottom to sleep.}}
+{{Dex/Entry1|v=Pearl|entry=When the temperature cools in the evening, they emerge from water to seek food along the shore.}}
+{{Dex/Entry1|v=Platinum|entry=When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.}}
+{{Dex/Entry1|v=HeartGold|entry=This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.}}
+{{Dex/Entry1|v=SoulSilver|entry=When it walks around on the ground, it coats its body with a slimy, poisonous film.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=017|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=When the temperature cools in the evening, they emerge from water to seek food along the shore.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=100|reg2=Galar|label2=Isle of Armor|num2=058|reg3=Sinnoh|num3=117|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=It lives in cold water, half burying itself in mud at the bottom to sleep.}}
+{{Dex/Entry1|v=Shining Pearl|entry=When the temperature cools in the evening, they emerge from water to seek food along the shore.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=53|reg2=Kitakami|num2=5|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=A transparent mucous membrane covers its body. Touching it bare-handed will cause a tingling numbness.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=When it walks around on land, it coats its body with a slimy, poisonous film.}}
+{{Dex/Form|Paldean Wooper}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It's dangerous for Wooper to travel alone. They line up in groups of three or four and help each other as they walk around the wetlands.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{water color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{ground color dark}}; background:#{{poison color light}}; {{roundy|5px}};" | [[File:Pokédex Image Wooper SV.png|x200px]]
+| style="border:2px solid #{{ground color dark}}; background:#{{water color light}}; {{roundy|5px}};" | [[File:Pokédex Image Wooper SV Kitakami.png|x200px]]
+|-
+| Paldean Wooper in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Wooper in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|32|Johto}}{{Sup/t|N}}<br/>[[Ruins of Alph]], [[Union Cave]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Crystal|area={{rt|32|Johto}}, [[Ruins of Alph]], [[Union Cave]]{{Sup/t|N}}<br/>[[Ruins of Alph]], [[Union Cave]] ({{m|Surf}}ing)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}} extension}}
+{{Availability/Entry1|v=FireRed|area=[[Four Island (town)|Four Island]], [[Icefall Cave]], [[Ruin Valley]]}}
+{{Availability/Entry1/None|v=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area={{DL|Poké Spot|Cave Poké Spot}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|212|Sinnoh}}, [[Great Marsh]]}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=Hatch {{pkmn|Egg}} [[List of in-game event Pokémon in Pokémon HeartGold and SoulSilver#Wooper|received]] from [[Primo]] in [[Violet City]]<br>{{rt|32|Johto}}, [[Cliff Edge Gate]], [[Ruins of Alph]], [[Union Cave]]<br>[[Cliff Cave]]{{sup/t|M}}{{sup/t|D}}<br>[[Johto Safari Zone|Safari Zone]] (tall grass in Meadow, default{{sup/t|N}} and with 3 Waterside points; {{m|Surf}}ing in Meadow, Marshland, or Wetland - default; tall grass in Marshland or Wetland - default{{sup/t|N}})}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Beautiful Beach}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[White Forest]] ({{m|Surf}}ing)}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{pkmn|breeding|Breed}} {{p|Quagsire}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Sparkling Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Ground-type Safari|Ground]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Quagsire}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[West Lake Axewell]], [[South Lake Miloch]], [[Giant's Seat]], [[Giant's Cap]]<br>[[Dusty Bowl/Dens|Dusty Bowl]], [[Rolling Fields/Dens|Rolling Fields]], [[West Lake Axewell/Dens|West Lake Axewell]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Soothing Wetlands]]}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|212|Sinnoh}}, [[Great Marsh]]<br>[[Grand Underground]] - [[Fountainspring Cave]], [[Swampy Cave]], [[Bogsunk Cavern]] (After obtaining the {{TM|97|Defog}})}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]], [[South Province (Area Six)|Area Six]], [[Alfornada Cavern]] <small>('''Paldean Form''')</small><br>East Province: [[East Province (Area Three)|Area Three]], [[Tagtree Thicket]] <small>('''Paldean Form''')</small><br>West Province: [[West Province (Area Three)|Area Three]] <small>('''Paldean Form''')</small><br>North Province: [[North Province (Area One)|Area One]], [[Glaseado Mountain]] <small>('''Paldean Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Wooper - Paldean Form|1★}}) <small>('''Paldean Form''')</small><br>[[Trade]] Paldean Wooper in [[Cascarrafa]] <small>('''Johtonian Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Kitakami Road]], [[Reveler's Road]], [[Mossfell Confluence]], [[Fellhorn Gorge]], [[Oni Mountain]], [[Chilling Waterhead]], [[Kitakami Wilds]], [[Timeless Woods]] <small>('''Johtonian Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Kitakami)|Wooper|1★}}) <small>('''Johtonian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Viridian Forest (Channel)|Camp Starlight]]{{dotw|We}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[SOL Laboratory|SOL Laboratories]], Endless Level 11, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Sinister Woods]] (8F-10F), [[Waterfall Pond]] (3F-6F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Waterfall Cave]] (B1F-B8F), [[Serenity River]] (B1F-B7F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Waterfall Cave]] (B1F-B8F), [[Serenity River]] (B1F-B7F)}}
+{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=[[Hero Pokémon]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Old Mansion]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Sun-Dappled Bank]]}}
+{{Availability/Entry1|1|v=Conquest|color={{Silver color}}|area=[[Aurora]], [[Fontaine]], [[Terrera]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{Silver color}}|area=[[Hazy Pass]] (1F-8F), [[Silent Tundra]] (Golden Chamber), [[Dreamy Island]] (1F-25F),<br>[[Moonlit Forest]] (Golden Chamber), [[Slumbering Cave]] (B1-B99), [[Path of No Return]] (B1-B99),<br>[[Treat Road]] (1F-19F), [[Ultimate Wilds]] (B9), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Make a Big Splash!|Frenzy Square: Make a Big Splash!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 2|Safari Jungle: Stage 2]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Soothing Shore|Black Realm: Soothing Shore]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Dragonite Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Arceus Sea]], [[Entei Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Murky Cave]] (5F-9F), [[Waterfall Pond]] (6F-9F), [[Remains Island]] (10F-12F), [[Marvelous Sea]] (10F-13F), [[Fantasy Strait]] (10F-13F)<br/>Fainted Pokémon: [[Mt. Steel]], [[Desert Region]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Founja Jungle]], [[Mightywide River]]<sup><span style="color:#F05D31;">Day</span>, <span style="color:#3A546B;">Night</span> <span style="color:#067162;">Level 2</span></sup>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Great 1)<br>[[Cyan Beach]] (from Basic 3)<br>[[Taupe Hollow]] (from Basic 2)<br>[[Old Gold Power Plant]] (from Basic 1) <small>('''Johtonian Form''')</small><br>[[Greengrass Isle]] (from Great 2)<br>[[Taupe Hollow]] (from Basic 3)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Basic 5) <small>('''Paldean Form''')</small>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 641]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water|type2=Ground}}
+{{eventAvail|{{gameabbrev2|GSC}}|Pokémon Center Mystery Egg #1 Belly Drum Wooper|Japanese|Japan|5|December 15, 2001 to January 14, 2002|link=List of Japanese event Pokémon distributions in Generation II#Wooper}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Belly Drum Wooper|English|United States|5|May 5 to June 21, 2002|link=List of PCNY event Pokémon distributions in Generation II#Belly Drum Wooper}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Scary Face Wooper|English|United States|5|October 25 to 31, 2002|link=List of PCNY event Pokémon distributions in Generation II#Scary Face Wooper}}
+|}
+
+===Held items===
+====Wooper====
+{{HeldItems/header|type=Water|type2=Ground}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=FFF|tcolor2=fff|Pokémon Scarlet and Violet}}
+{{HeldItems/Items1|Rare Candy|100|availNote=[[In-game trade]],&#32;}}
+|}
+
+===Stats===
+====Base stats====
+=====Wooper=====
+{{Base Stats
+|type=Water
+|type2=Ground
+|HP=     55
+|Attack= 45
+|Defense=45
+|SpAtk=  25
+|SpDef=  25
+|Speed=  15}}
+
+=====Paldean Wooper=====
+Paldean Wooper has the same base stats as Johtonian Wooper.
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Ground
+|Speed=3
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+====Wooper====
+{{TypeEffectiveness
+|type1=Water
+|type2=Ground
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=   50
+|Ground=  100
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=   100
+|Grass=   400
+|Electric=  0
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|waterabsorb=maybe
+|ground=yes
+|newelectric=2}}
+
+====Paldean Wooper====
+{{TypeEffectiveness
+|type1=poison
+|type2=ground
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=25
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=100
+|Electric=0
+|Psychic=200
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|waterabsorb=maybe
+|ground=yes
+|newelectric=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Wooper=====
+{{learnlist/levelh/9|Wooper|Water|Ground|2}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|4|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level9|8|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/level9|12|Mist|Ice|Status|—|—|30}}
+{{learnlist/level9|12|Haze|Ice|Status|—|—|30}}
+{{learnlist/level9|16|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level9|21|Yawn|Normal|Status|—|—|10}}
+{{learnlist/level9|24|Aqua Tail|Water|Physical|90|90|10||'''}}
+{{learnlist/level9|28|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/level9|32|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/level9|36|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level9|40|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/levelf/9|Wooper|Water|Ground|2}}
+
+=====Paldean Wooper=====
+{{learnlist/levelh/9|Wooper|Poison|Ground|9}}
+{{learnlist/level9|1|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|4|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|8|Poison Tail|Poison|Physical|50|100|25||'''}}
+{{learnlist/level9|12|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/level9|16|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level9|21|Yawn|Normal|Status|—|—|10}}
+{{learnlist/level9|24|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/level9|28|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/level9|32|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/level9|36|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level9|40|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/levelf/9|Wooper|Poison|Ground|9}}
+
+====By [[TM]]====
+=====Wooper=====
+{{learnlist/tmh/9|Wooper|Water|Ground|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM046|Avalanche|Ice|Physical|60|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM208|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm9|TM209|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Wooper|Water|Ground|2}}
+
+=====Paldean Wooper=====
+{{learnlist/tmh/9|Wooper|Poison|Ground|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM026|Poison Tail|Poison|Physical|50|100|25||'''}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Wooper|Poison|Ground|9}}
+
+====By {{pkmn|breeding}}====
+=====Wooper=====
+{{learnlist/breedh/9|Wooper|Water|Ground|2}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0434|Stunky}}{{MSP/H|0747|Mareanie}}{{MSP/H|0748|Toxapex}}{{MSP/H|0944|Shroodle}}{{MSP/H|0945|Grafaiai}}|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/breed9|{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0765|Oranguru}}|After You|Normal|Status|—|—|15}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0422|Shellos}}{{MSP/H|0423|Gastrodon}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed9|{{MSP/H|0287|Slakoth}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0745-Midnight|Lycanroc}}{{MSP/H|0745-Dusk|Lycanroc}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0833|Chewtle}}{{MSP/H|0834|Drednaw}}{{MSP/H|0914|Quaquaval}}{{MSP/H|0979|Annihilape}}|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0079|Slowpoke}}{{MSP/H|0079-Galar|Slowpoke}}{{MSP/H|0080|Slowbro}}{{MSP/H|0080-Galar|Slowbro}}{{MSP/H|0199|Slowking}}{{MSP/H|0199-Galar|Slowking}}{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571-Hisui|Zoroark}}{{MSP/H|0871|Pincurchin}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128|Tauros|form=-Paldea Aqua}}{{MSP/H|0135|Jolteon}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed9|{{MSP/H|0350|Milotic}}{{MSP/H|0422|Shellos}}{{MSP/H|0423|Gastrodon}}{{MSP/H|0747|Mareanie}}{{MSP/H|0748|Toxapex}}{{MSP/H|0871|Pincurchin}}|Recover|Normal|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0775|Komala}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0845|Cramorant}}|Spit Up|Normal|Special|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0775|Komala}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0845|Cramorant}}|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0775|Komala}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0845|Cramorant}}|Swallow|Normal|Status|—|—|10}}
+{{learnlist/breedf/9|Wooper|Water|Ground|2}}
+
+=====Paldean Wooper=====
+{{learnlist/breedh/9|Wooper|Poison|Ground|9}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0434|Stunky}}{{MSP/H|0747|Mareanie}}{{MSP/H|0748|Toxapex}}{{MSP/H|0944|Shroodle}}{{MSP/H|0945|Grafaiai}}|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/breed9|{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0765|Oranguru}}|After You|Normal|Status|—|—|15}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0422|Shellos}}{{MSP/H|0423|Gastrodon}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed9|{{MSP/H|0287|Slakoth}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0745-Midnight|Lycanroc}}{{MSP/H|0745-Dusk|Lycanroc}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0833|Chewtle}}{{MSP/H|0834|Drednaw}}{{MSP/H|0914|Quaquaval}}{{MSP/H|0979|Annihilape}}|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0079|Slowpoke}}{{MSP/H|0079-Galar|Slowpoke}}{{MSP/H|0080|Slowbro}}{{MSP/H|0080-Galar|Slowbro}}{{MSP/H|0199|Slowking}}{{MSP/H|0199-Galar|Slowking}}{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571-Hisui|Zoroark}}{{MSP/H|0871|Pincurchin}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128|Tauros|form=-Paldea Aqua}}{{MSP/H|0135|Jolteon}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0283|Surskit}}{{MSP/H|0336|Seviper}}{{MSP/H|0658|Greninja}}|Haze|Ice|Status|—|—|30}}
+{{learnlist/breed9|{{MSP/H|0027-Alola|Sandshrew}}{{MSP/H|0028-Alola|Sandslash}}{{MSP/H|0037-Alola|Vulpix}}{{MSP/H|0038-Alola|Ninetales}}{{MSP/H|0131|Lapras}}{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}{{MSP/H|0283|Surskit}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0875|Eiscue}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}|Mist|Ice|Status|—|—|30}}
+{{learnlist/breed9|{{MSP/H|0350|Milotic}}{{MSP/H|0422|Shellos}}{{MSP/H|0423|Gastrodon}}{{MSP/H|0747|Mareanie}}{{MSP/H|0748|Toxapex}}{{MSP/H|0871|Pincurchin}}|Recover|Normal|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0775|Komala}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0845|Cramorant}}|Spit Up|Normal|Special|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0775|Komala}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0845|Cramorant}}|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0775|Komala}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0845|Cramorant}}|Swallow|Normal|Status|—|—|10}}
+{{learnlist/breedf/9|Wooper|Poison|Ground|9}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color}}; border: 3px solid #{{tcg water color dark}}"
+|-
+! style="background: #{{tcg water color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg water color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Bubble}}
+| style="background:#fff; {{roundybr|5px}}" | [[Wooper (Aquapolis 117)]]
+|}
+
+====[[Animated series move errors|Animated series-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{water color}}; border: 3px solid #{{ground color dark}}"
+|-
+! style="background: #{{water color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{water color light}}" | Type
+! style="background: #{{water color light}}; {{roundytr|5px}}" | Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Tackle}}
+| style="background:#{{normal color}}" | {{typecolor|Normal}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[EP148|No Big Woop!]]''
+|}
+
+===Side game data===
+====Wooper====
+{{Spindata/Head|type=Water|type2=Ground}}
+{{Spindata/Trozei|col=6|type=Water|ndex=194|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=194
+|body=1
+|rate=11.9
+|area=Peanut Swamp
+|P1=I might be damp, but I have a cheerful character!
+|P2=What's going on? My health is halfway down already?
+|P3=I'm ready to flop... My body's drying out...
+|PL=Whoopee! Level up for me!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=194
+|body=1
+|rate=8.2
+|IQ=G
+}}
+|-
+{{Spindata/MDGTI|col=6|type=Water|ndex=194
+|rate1=16.0
+|rate2=3.0
+}}
+|-
+{{Spindata/PSMD|col=6|type=Water|ndex=194
+|coset=3
+|conto={{p|Caterpie}}, {{p|Rattata}}, {{p|Marill}}, {{p|Goomy}}
+|recruitment=Talk to in [[Serene Village]]
+|P1=Do you want to play {{m|Water Sport}}? No? How about {{m|Mud Sport}}?
+|P2=Standing alone is getting hard...
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=1
+|num=151
+|pastnum=126
+|browser=It attacks by spitting bubbles that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=1
+|def=1
+|speed=2
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=194 f
+|walk=2.08
+|hp=49
+|attack=61
+|defense=43
+|speed=50
+}}
+|-
+{{Spindata/Conquest|col=6|type=Water|ndex=194
+|HP=2
+|atk=1
+|def=1
+|spd=1
+|range=3
+|move=Water Gun
+|ability1=Gulp
+|ability2=Deep Sleep
+|ability3=Water Absorb
+|evo=Evolves into {{p|Quagsire}} when its HP is 94 or higher
+|link=[[Chikamasa]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=194
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=194|stype=Ground|num=788
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Quirky+
+|skilldesc=Sometimes erases two extra matching Pokémon elsewhere.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=0194
+|hatch=2 km
+|buddy=3
+|candy=Wooper
+|evocandy=50
+|stamina=146|attack=75|defense=66
+|fast={{m|Water Gun}}, {{m|Mud Shot}}
+|special={{m|Mud Bomb}}, {{m|Dig}}, {{m|Body Slam}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Water|ndex=194|pdex=054
+|dex=Wooper is very timid and tends to stick close to {{p|Quagsire}}. Its body is also coated in a poisonous goo. Whatever you do, don’t touch it, or else your hand will really sting!}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0194
+|pokemon=Wooper
+|sleeptype=Slumbering
+|type=Water
+|dexentry=Wooper usually lives in water and has a habit of burying half its body in the mud at the bottom of the water to sleep. When it sleeps on land, it buries itself in mud to keep its skin from dehydrating.
+|sleepstyle1=Snickering Sleep
+|sleepstyle2=Big-Yawn Sleep
+|sleepstyle3=Mud-Float Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=5
+|specialty=Ingredients
+|candyNum=40
+|evolution=Lv. 15
+|berry=Oran
+|ingredient1=Tasty Mushroom
+|ingredient2=Soft Potato
+|ingredient3=Bean Sausage
+|carrylimit=10
+|skillname=Charge Energy S
+|skilldesc=Restores 12 Energy to the user.
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{water color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{water color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{ground color dark}}; background:#{{water color light}};"| [[File:GO0194Fashion2023.png|100px]]
+|-
+| Fashionable costume
+|}
+
+====Paldean Wooper====
+{{Spindata/Head|type=Poison|type2=Ground}}
+{{Spindata/GO|col=6|type=Poison|ndex=0194P
+|hatch=N/A
+|buddy=3
+|candy=Wooper
+|evocandy=50
+|stamina=146
+|attack=75
+|defense=66
+|fast={{m|Poison Jab}}, {{m|Mud Shot}}
+|special={{m|Sludge Wave}}, {{m|Dig}}, {{m|Body Slam}}
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0194P
+|pokemon=Wooper
+|sleeptype=Dozing
+|type=Poison
+|dexentry=It used to live in the water but now Wooper also live on land. A poisonous film protects its body. It usually makes its home in muddy wetlands, so you can sometimes see it sleeping with its whole body covered in mud.
+|sleepstyle1=Smiling Sleep
+|sleepstyle2=Big-Yawn Sleep
+|sleepstyle3=Mud-Bath Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=5
+|specialty=Ingredients
+|candyNum=40
+|evolution=Lv. 15
+|berry=Chesto
+|ingredient1=Soothing Cacao
+|ingredient2=Rousing Coffee
+|ingredient3=Soft Potato
+|carrylimit=9
+|skillname=Charge Energy S
+|skilldesc=Restores 12 Energy to the user.
+}}
+|}
+
+===Evolution data===
+====Wooper====
+{{Evobox-2
+|type=Water
+|type2=Ground
+|pictype=art
+|no1=0194
+|name1=Wooper
+|type1-1=Water
+|type2-1=Ground
+|evotype1=Level
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0195
+|name2=Quagsire
+|type1-2=Water
+|type2-2=Ground}}
+
+====Paldean Wooper====
+{{Evobox-2
+|type1=Poison
+|type2=Ground
+|pictype=sprite
+|no1=0194Wooper-Paldea
+|name1=Wooper
+|form1=Paldean Form
+|type1-1=Poison
+|type2-1=Ground
+|evotype1=Level
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0980Clodsire
+|name2=Clodsire
+|type1-2=Poison
+|type2-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Ground}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2/JP|ndex=194}}
+{{Spritebox/3|ndex=194}}
+{{Spritebox/4/Gender|ndex=194}}
+{{Spritebox/5/Gender|ndex=194}}
+{{Spritebox/6/Gender|ndex=194|crop=53}}
+{{Spritebox/7/Gender|ndex=194|crop=56}}
+{{Spritebox/8/Gender|ndex=194}}
+<!--{{Spritebox/9/2FormsGender|ndex=0194|form1=P}}-->
+{{Spritebox/HOME/2FormsGender|ndex=0194|form1=P}}
+{{Spritebox/Footer|194|Wooper}}
+
+==In animation==
+===Main series===
+[[File:Siskel Wooper.png|thumb|250px|Wooper in {{aniseries|HZ}}]]
+[[File:Arboliva Forest Paldean Wooper.png|thumb|250px|{{rf|Paldean}} Wooper in {{aniseries|HZ}}]]
+[[File:Wooper Egg.png|thumb|250px|A Wooper {{pkmn|Egg}} in {{aniseries|AG}}]]
+====Major appearances====
+=====[[Wooper (anime)]]=====
+A Wooper was close friends with [[Ash's Goodra]] when they lived together in [[Kalos Route 14|the wetlands]] between [[Lumiose City]] and [[Laverre City]]. It made semi-regular appearances in {{aniseries|XY}}, particularly in episodes revolving around Goodra.
+
+=====Other=====
+In ''[[EP148|No Big Woop!]]'', {{Ash}} and {{ashfr}} volunteered to watch over [[Olesia]]'s school of Wooper for her.
+
+In ''[[PK07|Pikachu & Pichu]]'', multiple Wooper were living in [[Big Town]].
+
+A Wooper is one of the best friends of the two [[Pichu Brothers]]. It appeared in ''[[PK07|Pikachu and Pichu]]'', ''[[Trouble in Big Town]]'', ''[[HS06|Of Meowth]] [[HS07|and Pokémon]]'', ''[[HS09|Big Meowth,]] [[HS10|Little Dreams]]'', ''[[Pichu Bros. in Party Panic]]'', and ''[[M11|Giratina and the Sky Warrior]]''.
+
+In ''[[AG188|Pinch Healing!]]'', a Wooper was being babysat by {{OBP|Matt|AG188}}. While [[Nurse Joy]] was ill, {{an|Brock}} took care of Wooper by having his {{TP|Brock|Marshtomp}} use {{m|Water Gun}} to heal its wounds.
+
+In ''[[DP007|Like It Or Lup It!]]'', a Wooper was part of a gang of {{type|Water}} Pokémon.
+
+In ''[[DP063|Hot Springing a Leak!]]'', [[Leona's parents]] used three Wooper to investigate a pipeline. They noticed their water was being drained, and they helped discover that {{TRT}} were responsible.
+
+Multiple other Wooper living at Goodra's marsh made semi-regular appearances in {{aniseries|XY}}, starting with a flashback in ''[[XY055|A Slippery Encounter!]]''.
+
+A Wooper appeared in ''[[HZ077|Ludlow's Homecoming!]]'', under the ownership of [[Siskel]].
+====Minor appearances====
+In ''[[EP168|Hook, Line, and Stinker]]'', a {{pkmn|Trainer}}'s Wooper participated in the {{p|Seaking}} [[Seaking Catching Competition|Catching Competition]].
+
+In ''[[EP169|Beauty and the Breeder]]'', a {{tc|Pokémon Breeder}}'s Wooper participated in the [[Pokémon Beauty Contest]].
+
+A Wooper appeared in ''[[PK09|Snorlax Snowman]]''.
+
+In ''[[EP198|The Heartbreak of Brock]]'', a Wooper was living at [[Temacu]]'s father's lab.
+
+In ''[[EP207|Got Miltank?]]'', five Wooper was living at the Pokémon-exclusive oasis.
+
+In ''[[EP215|Octillery The Outcast]]'', a Trainer's Wooper competed in the [[Whirl Cup]].
+
+In ''[[EP228|Extreme Pokémon!]]'', two baby Wooper were in the pond near [[Mr. Shellby]]'s house.
+
+A Wooper appeared in ''[[EP255|Why? Wynaut!]]''. After {{TRT}} mistook {{TP|Jessie|Wobbuffet}}'s drawing of {{an|Wynaut}}, who took [[Ash Ketchum|Ash's]] [[badge]]s, the trio searched and chased after Wooper.
+
+In ''[[The Legend of Thunder!]]'', two Wooper were at the [[Pokémon Center]].
+
+Multiple Wooper appeared in ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+In ''[[AG015|Gonna Rule The School!]]'', the [[Pokémon Trainers' School]] lent a Wooper to the school's underage students for use in lessons.
+
+In ''[[AG032|Abandon Ship!]]'', a Wooper was living in the [[Abandoned Ship]].
+
+A Wooper appeared in [[PK13]].
+
+A Wooper appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+In ''[[AG147|Sweet Baby James]]'', [[Nanny and Pop-Pop]] looked after two Wooper.
+
+In ''[[AG152|On Olden Pond]]'', a Wooper was living in the lake.
+
+A Wooper appeared in ''[[AG159|Off The Unbeaten Path!]]''.
+
+In ''[[M09|Pokémon Ranger and the Temple of the Sea]]'', [[the Marina Group]] uses multiple Wooper in their water show.
+
+In ''[[AG191|Once More With Reeling!]]'', a {{pkmn|Coordinator}}'s Wooper competed in the {{to|Terracotta}} {{pkmn|Contest}}.
+
+A Wooper appeared in ''[[DP004|Dawn Of A New Era!]]''.
+
+A Wooper appeared in ''[[DP028|Drifloon On the Wind!]]''.
+
+Multiple Wooper appeared in ''[[M10|The Rise of Darkrai]]''.
+
+A Wooper appeared in ''[[DP088|Camping It Up!]]''.
+
+In ''[[DP089|Up Close and Personable!]]'', a Wooper was living in the lake near the [[Pokémon Summer Academy]].
+
+A Wooper appeared in the [[boss fantasy]] of ''[[DP092|A Lean Mean Team Rocket Machine!]]''.
+
+Three Wooper appeared in ''[[DP094|Doc Brock!]]''.
+
+A Wooper appeared in ''[[DP124|To Thine Own Pokémon Be True!]]''.
+
+In [[PK20]], multiple Wooper were playing with a ball with a group of {{p|Quagsire}}.
+
+A Wooper appeared in ''[[DP147|Bagged Then Tagged!]]''.
+
+In ''[[DP161|Yes in Dee Dee, It's Dawn!]]'', a Coordinator's Wooper competed alongside a {{p|Snorlax}} in the [[Double Performance]] in the {{to|Daybreak}} {{pkmn|Contest}}.
+
+Multiple Wooper appeared in ''[[M13|Zoroark: Master of Illusions]]''.
+
+In ''[[BW127|The Island of Illusions!]]'', a Wooper was living on [[Grand Spectrala Islet]].
+
+In ''[[M16|Genesect and the Legend Awakened]]'', multiple Wooper were living in [[Pokémon Hills]].
+
+In ''[[XY022|Going for the Gold!]]'', multiple Wooper were living in the {{DL|Ambrette Town|Ambrette Aquarium}}.
+
+In ''[[XY039|Summer of Discovery!]]'', ''[[XY041|Foggy Pokémon Orienteering!]]'', and ''[[XY042|Battling Into the Hall of Fame!]]'', a Trainer's Wooper attended the [[Pokémon Summer Camp]].
+
+In ''[[PK27|Pikachu and the Pokémon Music Squad]]'', a Wooper was living in the forest.
+
+In ''[[XY099|The Legend of the Ninja Hero!]]'', two Wooper were living in the [[Ninja Village]].
+
+In ''[[SM003|Loading the Dex!]]'', {{Rotom}} had an icon of a Wooper.
+
+Seven Wooper appeared in ''[[M21|The Power of Us]]'', with five under the ownership of different Trainers.
+
+In ''[[SM144|From Z to Shining Z!]]'', a Trainer's Wooper watched the battle between Ash's Pikachu and {{DL|Guardian deities (anime)|Tapu Koko}}. It reappeared in a flashback in ''[[JN112|Helping the Hometown Hero!]]''.
+
+A Trainer's Wooper appeared in ''[[JN004|Settling the Scorbunny!]]'' and ''[[JN009|Finding a Legend!]]''.
+
+A Trainer's Wooper appeared in ''[[JN019|A Talent for Imitation!]]''.
+
+A Trainer's Wooper appeared in ''[[JN025|A Festival Reunion!]]''.
+
+Two Trainers' Wooper appeared in ''[[JN031|The Cuteness Quotient!]]''. One of them competed in the [[Friendship Festival]] and was targeted by {{TRT}}.
+
+A Trainer's Wooper appeared in ''[[JN033|Trade, Borrow, and Steal!]]''.
+
+In ''[[JN063|On Land, In the Sea, and to the Future!]]'', a Trainer's Wooper competed in the [[Marine Athletic Race|Kids Marine Athletic Race]].
+
+A Trainer's Wooper appeared in ''[[JN091|The Spectral Express!]]''.
+
+A Trainer's Wooper appeared in ''[[JN115|Curtain Up! Fight the Fights!]]'', ''[[JN122|It's... Champion Time!]]'', and ''[[JN125|Whittle While You Work!]]''.
+
+A Paldean Wooper made its debut in ''[[HZ011|Arboliva's Forest]]''.
+
+A Trainer's Wooper appeared in ''[[HZ058|Food Fit for a Kingambit!]]''.
+
+A {{tc|Student}}'s Paldean Wooper appeared in ''[[HZ066|Infiltrating the System! Naranja Academy in Danger!]]''.
+
+A Student's Paldean Wooper appeared in ''[[HZ067|Shine on, Terastallization! Liko vs. Roy!]]''.
+
+A Trainer's Wooper appeared in ''[[HZ069|Roy is Crocalor, and Crocalor is Roy!]]''.
+
+Two Paldean Wooper appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP148|Wooper|Ash's Pokédex|Wooper, the Water Fish Pokémon. Though they prefer to live in cold water, these appealing Pokémon forage for {{Pkmn|food}} on land. They are kept warm by a layer of insulating body fluid. Wooper is the [[Evolution|pre-evolved]] form of {{p|Quagsire}}.}}
+{{Animedexfooter/Pokémon|Johto}}
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ011|Wooper|Liko's Rotom Phone|Wooper, [[Paldean form]]. The Poison Fish Pokémon. A {{t|Poison}} and {{t|Ground}} type. After losing their territory, Wooper began living in muddy fields. They are covered in a poisonous film that protects them from drying out.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon Generations===
+[[File:Wooper PG.png|thumb|left|250px|Wooper in [[Pokémon Generations]]]]
+[[File:Leaking Tower of Paldea PW.png|thumb|250px|{{rf|Paldean}} Wooper in [[Pokémon: Paldean Winds]]]]
+In ''[[PG01|The Adventure]]'', [[Red's Pikachu]] attempted to attack three wild Wooper in an [[Ecruteak City]] river with {{m|Thunder Shock}} from a tree above, but it was ineffective due to their immunity to electricity. The Wooper retaliated with {{m|Mud Shot}}, sending Pikachu flying.
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', two Wooper briefly appeared under the ownership of a {{pkmn|Trainer}} watching the [[Kimono Girl]]s' performance in [[Ecruteak City]].
+
+===Pokémon: Paldean Winds===
+Four {{rf|Paldean}} Wooper appeared in ''[[PPW04|Breathe Together]]''.
+{{-}}
+
+===POKÉTOON===
+[[File:PT11.png|170px|thumb|{{rf|Paldean}} Wooper in [[POKÉTOON]]]]
+Multiple Paldean Wooper appeared in [[PT11]].
+
+Three Wooper appeared in [[PT17]].
+
+===Pokémon Concierge===
+[[File:Pokémon Concierge Wooper.png|250px|thumb|left|Wooper in [[Pokémon Concierge]]]]
+Multiple Wooper appeared as recurring characters in [[Pokémon Concierge]], as guests at the [[Pokémon Resort]]. Wooper debuted in ''[[PC01|I'm Haru, the New Concierge!]]''.
+{{-}}
+
+==In the manga==
+[[File:Bird Keeper Wooper Adventures.png|thumb|120px|Wooper in [[Pokémon Adventures]]]]
+[[File:Violet Wooper.png|thumb|150px|{{rf|Paldean}} Wooper in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+In ''[[PS090|The Legend]]'', a Wooper was by the lake when {{adv|Green}} had finished her message to {{adv|Silver}} in [[Johto]].
+
+In ''[[PS091|Murkrow Row]]'', a Wooper was in [[Joey]]'s bag after {{adv|Gold}} helped him get it back.
+
+In ''[[PS092|Who Gives a Hoothoot?]]'', a {{tc|Bird Keeper|conman}} uses a swarm of Wooper as a part of his game stall. However, after Gold and [[Aibo]] had revealed his secret to the crowd, they were possibly boxed or {{pkmn2|released}}.
+
+In ''[[PS107|Gligar Glide]]'', a {{pkmn|Trainer}}'s Wooper was in the [[Goldenrod Game Corner]]. Strangely, this Wooper has arms.
+
+In ''[[PS117|Slugging It Out with Slugma]]'', a Wooper was at Earl's Pokémon Academy in [[Violet City]].
+
+In ''[[PS179|The Last Battle XIII]]'', a Wooper was sent to participate in the fight in [[Ilex Forest]].
+
+In the [[Trick Master]]'s flashback in ''[[PS332|The Final Battle V]]'', a Wooper was calmed down by the homeland soil.
+
+A Trainer's Wooper appeared in ''[[PS365|Crafty Carnivine]]''.
+
+A Trainer's Wooper appeared in a fantasy in ''[[PS419|Getting the Drop on Gallade I]]''.
+
+A [[Paldean]] Wooper debuted in ''[[PASV03|Battle! Team Star, the Delinquents!!]]'', under the ownership of {{Violet}}. She later evolved into a {{p|Clodsire}}.
+
+===Ash & Pikachu===
+In ''[[SP11|Do Your Best Bulbasaur!!]]'', a Wooper was at [[Professor Oak's Laboratory]].
+
+===Pokémon Gold & Silver: The Golden Boys===
+{{GnB|Chris}} owns a Wooper in [[Pokémon Gold & Silver: The Golden Boys]].
+
+A Wooper appeared in ''[[GB16|The New Pokémon Is Hatched!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+[[Shu]] {{pkmn2|caught}} a Wooper, as seen in [[GDZ47]].
+
+A Wooper appeared in [[GDZ61]].
+
+===Pokémon Mystery Dungeon: Ginji's Rescue Team===
+A Wooper appeared in ''[[GRT2|I Want to be Human Again!]]''.
+
+===Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~===
+A Wooper appeared in [[PNA1]].
+
+==In the TCG==
+{{main|Wooper (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Melee]]===
+Out of all the floats in the [[Poké Floats]] stage, Wooper spends the most time onscreen. It first appears when the scene is on {{p|Slowpoke}}'s tail and then floats past {{p|Sudowoodo}}, {{p|Snorlax}}, {{p|Venusaur}}, and {{p|Seel}} before finally floating away. While its head is small, {{player}}s can also stand on the gills.
+
+===[[Super Smash Bros. Ultimate]]===
+Wooper appears as a {{sbw|Spirit}}. It gives fighters that use it more power for their Water and Ice Attacks, and is obtainable through the Spirit Board via battle and Vault Shop for 500G.
+
+==Trivia==
+* Wooper has the lowest base {{stat|Special Defense}} stat and the lowest base stat total of all {{type|Ground}} Pokémon.
+* Wooper was one of the first Pokémon to have its [[List of Pokémon with gender differences|gender differences]] revealed, along with {{p|Scizor}}.
+* Paldean Wooper is the only [[Paldean form]] to be revealed prior to the release of {{g|Scarlet and Violet}}. Consequently, it is also the only [[regional form]] to be revealed alone during a game's pre-release season.
+
+===Origin===
+{{bulbanews|On the Origin of Species: Wooper}}
+Wooper appears to be based on a larval {{wp|salamander}}, which has a flat tail and feathery, external gills. Many species of salamanders are known for their poisonous skin, which may be referenced in Wooper's Pokédex entries and Paldean Wooper's design. Wooper's {{Shiny}} sprite gives it a similar coloration to that of {{wp|Albinism|albino}}, {{wp|Leucism|leucistic}}, and flavistic color mutants, or an {{wp|axolotl}}, a species of salamander that keeps its gills and remains in the water for all of its life because it never develops lungs.
+
+Paldean Wooper's gills make the shape of a {{wp|skull and crossbones}}, a hazard symbol used as a warning for poisonous substances. These bone-shaped gills, combined with Paldean Wooper's brown coloration, rib-like pattern on its chest, and the fact that it is found in a region inspired by the {{wp|Iberian peninsula}}, together may be a direct reference to the {{wp|Iberian ribbed newt}}. This salamander species is known for puncturing its poison-coated ribs through its skin as a defense mechanism, much like how Paldean Wooper is able to secrete poison out of its bone-shaped gills. Paldean Wooper may also be inspired by {{wp|mudskipper}}s, which are fish that are capable of living outside of water.
+
+Alternatively, the fact that Paldean Wooper was forced out of its ancient water habitat may be a reference to the ecological issues facing the axolotl in the wild, following the destruction of the Aztec capital of {{wp|Tenochtitlan}} and the draining of {{wp|Lake Texcoco}}.
+
+====Name origin====
+Wooper and Upah may be derived from ''wooper looper'' (Japanese: ウーパールーパー ''ūpārūpā''), a marketing term created in Japan that started a pet salamander raising fad. Wooper loopers are the Japanese term for the {{wp|axolotl}}, a species of {{wp|salamander}}.
+
+==In other languages==
+{{Other languages|type=water|type2=ground
+|ja=ウパー ''Upah''|jameaning=From ''wooper looper''
+|fr=Axoloto|frmeaning=From ''{{wp|axolotl}}'' and ''{{tt|eau|water}}''
+|es=Wooper|esmeaning=Same as English name
+|de=Felino|demeaning=From ''{{tt|{{wp|fen|Fenn}}|fen}}'' and ''bambino''
+|it=Wooper|itmeaning=Same as English name
+|ko=우파 ''Woopa''|komeaning=Transcription of its Japanese name
+|zh_cmn=烏波 / 乌波 ''Wūbō''|zh_cmnmeaning=From the transcription of its Japanese name and {{tt|波 ''bō''|wave of water}}
+|zh_yue=烏波 ''Wūbō''|zh_yuemeaning=From the transcription of its Japanese name and {{tt|波 ''bō''|wave of water}}
+|hi=वूपर ''Wooper''|himeaning=Transcription of English name
+|ru=Вупер ''Vuper''|rumeaning=Transcription of English name
+|th=อูปา ''Upa''|thmeaning=Transcription of Japanese name
+}}
+
+==References==
+<references/>
+
+==See also==
+* [[Wooper (anime)]]
+* [[Partner Pokémon (Mystery Dungeon)]]
+* [[Regional form]]
+
+==External links==
+{{Paldean forms}}
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0193|prev=Yanma|nextnum=0195|next=Quagsire}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Super Smash Bros. spirits]]
+
+[[de:Felino]]
+[[es:Wooper]]
+[[fr:Axoloto]]
+[[it:Wooper]]
+[[ja:ウパー]]
+[[zh:乌波]]

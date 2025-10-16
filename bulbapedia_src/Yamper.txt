@@ -1,0 +1,330 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Yamper}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0834|prev=Drednaw|nextnum=0836|next=Boltund|round=none}}
+{{PokémonPrevNext/Disambig|species=Yamper}}
+|}
+{{Pokémon Infobox
+|name=Yamper
+|jname=ワンパチ
+|tmname=Wanpachi
+|ndex=0835
+|type1=Electric
+|category=Puppy
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=29.8
+|weight-kg=13.5
+|abilityn=d
+|ability1=Ball Fetch
+|abilityd=Rattled
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=1
+|evhp=1
+|expyield=54
+|lv100exp=800,000
+|gendercode=127
+|color=Yellow
+|catchrate=255
+|body=08
+|pokefordex=yamper
+|generation=8
+|friendship=50
+}}
+'''Yamper''' ([[List of Japanese Pokémon names|Japanese]]: '''ワンパチ''' ''Wanpachi'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Boltund}} starting at [[level]] 25.
+
+==Biology==
+Yamper is a quadrupedal, canine {{OBP|Pokémon|species}}. It has a brown body with yellow fluff around its neck, resembling a collar, and yellow highlights around its eyes. It has a yellow bolt-shaped tail and a heart-shaped pattern on its rear. Its four feet, underside, and parts of its face are white. Yamper's ears have a light green and yellow color on the inside. It also has a small yellow nose.
+
+Yamper tends to be drawn to fast-moving things and will chase after people, other Pokémon, or even vehicles. Yamper has an organ that generates electricity from the base of its tail when it runs. It cannot store the electricity it generates, so sparks of electricity can often be seen when it is running. In the [[Galar]] [[region]], it is a popular choice for herding Pokémon such as {{p|Wooloo}}. Due to its gluttonous nature, it will only assist people in exchange for treats.<ref>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/yamper/ Yamper | Official Website | Pokémon Sword and Pokémon Shield]</ref> {{p|Joltik}} are often seen on its hindquarters, feeding on its static electricity.
+
+Yamper is the [[Signature Ability|only known Pokémon]] that can have {{a|Ball Fetch}} as an [[Ability]].
+
+===Evolution===
+Yamper evolves into {{p|Boltund}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Electric
+|pictype=art
+|no1=0835
+|name1=Yamper
+|type1-1=Electric
+|evo1=
+|no2=0836
+|name2=Boltund
+|type1-2=Electric}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=046|reg2=Galar|label2=Crown Tundra|num2=155|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Route]]s {{rtn|2|Galar}} and {{rtn|4|Galar}}, [[Giant's Mirror]], [[Motostoke Riverbank]], [[Stony Wilderness]]<br>[[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Giant's Mirror/Dens|Giant's Mirror]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Ballimere Lake]]}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Sonia|Yamper}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Electric|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17|September 1 to 30, 2020|link=Wild Area News#September 1 to 30, 2020}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|HP=59
+|Attack=45
+|Defense=50
+|SpAtk=40
+|SpDef=50
+|Speed=26
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Yamper|Electric|Electric|8}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level8|5|Nuzzle|Electric|Physical|20|100|20||'''}}
+{{learnlist/level8|10|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level8|15|Roar|Normal|Status|—|—|20}}
+{{learnlist/level8|20|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level8|26|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level8|30|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level8|35|Charge|Electric|Status|—|—|20}}
+{{learnlist/level8|40|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/level8|45|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/levelf/8|Yamper|Electric|Electric|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Yamper|Electric|Electric|8}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM66|Thunder Fang|Electric|Physical|65|95|15||'''}}
+{{learnlist/tm8|TM68|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM80|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm8|TM85|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR32|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR80|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tr|TR90|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tmf/8|Yamper|Electric|Electric|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Yamper|Electric|Electric|8}}
+{{learnlist/breed8|{{MSP/8c|025|Pikachu}}{{MSP/8c|026|Raichu}}{{MSP/8c|026A|Raichu}}{{MSP/8c|135|Jolteon}}{{MSP/8c|309|Electrike}}{{MSP/8c|310|Manectric}}{{MSP/8c|403|Shinx}}{{MSP/8c|404|Luxio}}{{MSP/8c|405|Luxray}}{{MSP/8c|777|Togedemaru}}|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/breed8|{{MSP/8c|128|Tauros}}{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|206|Dunsparce}}{{MSP/8c|263|Zigzagoon}}{{MSP/8c|263G|Zigzagoon}}{{MSP/8c|264|Linoone}}{{MSP/8c|264G|Linoone}}{{MSP/8c|862|Obstagoon}}{{MSP/8c|449|Hippopotas}}{{MSP/8c|450|Hippowdon}}{{MSP/8c|759|Stufful}}{{MSP/8c|760|Bewear}}{{MSP/8c|766|Passimian}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}{{MSP/8c|831|Wooloo}}{{MSP/8c|832|Dubwool}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed8|{{MSP/8c|077|Ponyta}}{{MSP/8c|078|Rapidash}}{{MSP/8c|255|Torchic}}{{MSP/8c|256|Combusken}}{{MSP/8c|257|Blaziken}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}|Flame Charge|Fire|Physical|50|100|20}}
+{{learnlist/breed8|{{MSP/8c|058|Growlithe}}{{MSP/8c|059|Arcanine}}{{MSP/8c|293|Whismur}}{{MSP/8c|294|Loudred}}{{MSP/8c|295|Exploud}}{{MSP/8c|309|Electrike}}{{MSP/8c|310|Manectric}}{{MSP/8c|744|Rockruff}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745Mn|Lycanroc}}{{MSP/8c|745D|Lycanroc}}|Howl|Normal|Status|—|—|40}}
+{{learnlist/breed8|{{MSP/8c|027|Sandshrew}}{{MSP/8c|028|Sandslash}}{{MSP/8c|050|Diglett}}{{MSP/8c|050A|Diglett}}{{MSP/8c|051|Dugtrio}}{{MSP/8c|051A|Dugtrio}}{{MSP/8c|083|Farfetch'd}}{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|255|Torchic}}{{MSP/8c|256|Combusken}}{{MSP/8c|257|Blaziken}}{{MSP/8c|263|Zigzagoon}}{{MSP/8c|263G|Zigzagoon}}{{MSP/8c|264|Linoone}}{{MSP/8c|264G|Linoone}}{{MSP/8c|862|Obstagoon}}{{MSP/8c|449|Hippopotas}}{{MSP/8c|450|Hippowdon}}{{MSP/8c|509|Purrloin}}{{MSP/8c|510|Liepard}}{{MSP/8c|551|Sandile}}{{MSP/8c|552|Krokorok}}{{MSP/8c|553|Krookodile}}{{MSP/8c|559|Scraggy}}{{MSP/8c|560|Scrafty}}{{MSP/8c|744|Rockruff}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745Mn|Lycanroc}}{{MSP/8c|745D|Lycanroc}}{{MSP/8c|843|Silicobra}}{{MSP/8c|844|Sandaconda}}|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/breedf/8|Yamper|Electric|Electric|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Yamper|Electric|Electric|8}}
+{{learnlist/tutor8|Rising Voltage|Electric|Special|70|100|20||'''|no|yes}}
+{{learnlist/tutorf/8|Yamper|Electric|Electric|8}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/GO|col=6|type=Electric|ndex=0835
+|hatch=N/A
+|buddy=1
+|candy=Yamper
+|evocandy=50
+|stamina=153
+|attack=80
+|defense=90
+|fast={{m|Spark}}, {{m|Bite}}
+|special={{m|Thunder}}, {{m|Crunch}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Electric
+|pictype=art
+|no1=0835
+|name1=Yamper
+|type1-1=Electric
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 25}}
+|no2=0836
+|name2=Boltund
+|type1-2=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=835}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0835}}
+{{Spritebox/Footer|835|Yamper}}
+
+==In animation==
+===Main series===
+[[File:Cerise Yamper.png|thumb|250px|Yamper in {{aniseries|JN}}]]
+====Major appearances====
+=====[[Professor Cerise's Yamper]]=====
+[[Professor Cerise]] owns a Yamper that first appeared in ''[[JN002|Legend? Go! Friends? Go!]]''. He is usually seen with [[Chloe]] when she is home.
+
+====Minor appearances====
+A Yamper appeared in a fantasy in ''[[JN061|Searching for Service with a Smile!]]''.
+
+A {{pkmn|Trainer}}'s Yamper appeared in a fantasy in ''[[JN067|Sleuths for Truth!]]''.
+
+A Student's Yamper appeared in an image in ''[[HZ046|Welcome to Naranja Academy!]]''.
+{{-}}
+
+===Pokémon: Twilight Wings===
+[[File:Yamper TW.png|thumb|250px|Yamper in [[Pokémon: Twilight Wings]]]]
+In ''[[TW03|Buddy]]'', a Yamper chased [[Hop]]'s {{p|Wooloo}} when it mistook its attempt at emulating {{p|Charizard}} as an act of aggression.
+
+In ''[[TW04|Early-Evening Waves]]'', [[Sonia]]'s Yamper was at her home with its Trainer and [[Professor Magnolia]]. It reappeared in ''[[TW06|Moonlight]]'', ''[[TW07|Sky]]'', and ''[[TW08|The Gathering of Stars]]''.
+
+===GOTCHA!===
+A Yamper briefly appeared in [[GOTCHA!]].
+
+===Dragonite and the Special Delivery===
+[[File:Rio Family Yamper.png|250px|thumb|Yamper in ''[[Dragonite and the Special Delivery]]'']]
+A Yamper is shown to be [[Rio]]'s family Pokémon in ''[[Dragonite and the Special Delivery]]''. During the epilogue it was revealed to have evolved into a {{p|Boltund}}.
+{{-}}
+
+==In the manga==
+[[File:Sonia Yamper Adventures.png|thumb|200px|Yamper in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A Yamper first appeared in ''[[PASS06|Watch Out!! Strong Rivals]]'', under the ownership of [[Sonia]]. In [[PASS43]], it was revealed to have evolved into Boltund.
+
+===Pokémon Journeys===
+{{main|Professor Cerise's Yamper}}
+Like in the animated series, [[Professor Cerise]] owns a Yamper, as seen in ''[[JNM01|Legend? Check! Friends? Check!]]''.
+{{-}}
+
+==In the TCG==
+{{main|Yamper (TCG)}}
+==Trivia==
+* Yamper was first showcased during an {{wp|Electronic Entertainment Expo|E3}} 2019 demo before its official reveal.
+* Yamper shares its {{pkmn|category}} with {{p|Growlithe}}, {{p|Lillipup}}, {{p|Rockruff}}, and {{p|Fidough}}. They are all known as the Puppy Pokémon.
+
+===Origin===
+Yamper appears to be based on a {{wp|Welsh corgi}}, a breed of dog that is famous for being the pet of {{wp|Elizabeth II}}, who reigned as Queen of the {{wp|United Kingdom}} — the country that [[Galar]] is based on — during {{g|Sword and Shield}}'s production and release season. Its tail appears to take its shape after a {{wp|lightning}} or {{wp|electricity}} symbol.
+
+====Name origin====
+Yamper may be a combination of ''yap'', ''{{wp|ampere}}'', and ''scamper''.
+
+Wanpachi may be a combination of ワンワン ''wanwan'' (onomatopoeia for barking) and パチパチ ''pachipachi'' (onomatopoeia for crackling).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=ワンパチ ''Wanpachi''|jameaning=From {{tt|ワンワン ''wanwan''|onomatopoeia for barking}} and {{tt|パチパチ ''pachipachi''|onomatopoeia for crackling}}
+|fr=Voltoutou|frmeaning=From ''volt'' and ''{{tt|toutou|pooch}}''
+|es=Yamper|esmeaning=Same as English name
+|de=Voldi|demeaning=From ''Volt'', ''{{tt|Hundi|dog (informal form of Hund)}}'', and possibly ''{{tt|Waldi|a popular name for dogs in Germany}}''
+|it=Yamper|itmeaning=Same as English name
+|ko=멍파치 ''Meongpachi''|komeaning=From {{tt|멍멍 ''meongmeong''|onomatopoeia for barking}} and partial transliteration of Japanese name
+|zh_cmn=來電汪 / 来电汪 ''Láidiànwāng''|zh_cmnmeaning=From {{tt|來 / 来 ''lái''|come}}, {{tt|電 / 电 ''diàn''|electricity}}, and {{tt|汪汪 ''wāngwāng''|onomatopoeia for barking}}
+|zh_yue=來電汪 ''Lòihdihnwōng''|zh_yuemeaning=From {{tt|來 ''lòih''|come}}, {{tt|電 ''dihn''|electricity}}, and {{tt|汪汪 ''wōngwōng''|onomatopoeia for barking}}
+|hi=वॉप्पी ''Voppy''|himeaning=From ''volt'', ''hop'', ''puppy'', and ''happy'' 
+|ru=Ямпер ''Yamper''|rumeaning=Transcription of English name
+|th=วันปาจิ ''Wanpachi''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Professor Cerise's Yamper]]
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0834|prev=Drednaw|nextnum=0836|next=Boltund}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Galar Pokédex]]
+
+[[de:Voldi]]
+[[es:Yamper]]
+[[fr:Voltoutou]]
+[[it:Yamper]]
+[[ja:ワンパチ]]
+[[zh:来电汪]]

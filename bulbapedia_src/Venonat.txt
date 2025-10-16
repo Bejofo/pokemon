@@ -1,0 +1,694 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/GO|species=Venonat}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0047|prev=Parasect|nextnum=0049|next=Venomoth|round=none}}
+{{PokémonPrevNext/Disambig|species=Venonat}}
+|}
+{{Pokémon Infobox
+|name=Venonat
+|jname=コンパン
+|jtranslit=Konpan
+|tmname=Kongpang
+|ndex=0048
+|typebox=1
+|type1=Bug
+|type2=Poison
+|category=Insect
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=66.1
+|weight-kg=30.0
+|abilityn=d
+|ability1=Compound Eyes
+|ability2=Tinted Lens
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Run Away
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|evtotal=1
+|evsd=1
+|expyield=61
+|oldexp=75
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|catchrate=190
+|body=12
+|pokefordex=venonat
+|generation=1
+|friendship=70
+}}
+'''Venonat''' ([[List of Japanese Pokémon names|Japanese]]: '''コンパン''' ''Kongpang'') is a dual-type {{2t|Bug|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Venomoth}} starting at [[level]] 31.
+
+==Biology==
+Venonat is an {{wp|insectoid|insect}} {{OBP|Pokémon|species}} with a spherical body covered in purple fur. The fur releases a toxic liquid and it spreads when shaken violently off their bodies. A pink pincer-like mouth with two teeth, stubby forepaws, and a pair of two-toed feet are visible through its fur. Its limbs are light tan. There is also a pair of white antennae sprouting from the top of its head. However, the most prominent feature on its face are its large, red {{wp|compound eye}}s. Venonat's highly developed eyes act as radar units and can shoot powerful beams.
+
+Venonat can be found in dense {{DL|List of Pokémon by habitat|Forest Pokémon|temperate forests}}, where it will sleep in the hole of a tree until nightfall. It sleeps throughout the day because the small insects it feeds on appear only at night. Both Venonat and its prey are attracted to bright lights.
+
+<gallery>
+Venonat Radar Eye.png|thumb|200px|Venonat using its "Radar Eye" to find {{TRT}}'s truck
+SabrinaVenonatGymHeroes96.jpg|150px|Venonat shooting an energy beam from its eyes
+</gallery>
+
+{{left clear}}
+
+===Evolution===
+Venonat evolves into {{p|Venomoth}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0048
+|name1=Venonat
+|type1-1=Bug
+|type2-1=Poison
+|evo1=
+|no2=0049
+|name2=Venomoth
+|type1-2=Bug
+|type2-2=Poison}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=bug|type2=poison}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=048}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.}}
+{{Dex/Entry1|v=Yellow|entry=Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Uses its large, radar-like eyes to move around in darkness. It is instinctively attracted to light.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=108}}
+{{Dex/Entry1|v=Gold|entry=Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.}}
+{{Dex/Entry1|v=Silver|entry=Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light.}}
+{{Dex/Entry1|v=Crystal|entry=The small bugs it eats appear only at night, so it sleeps in a hole in a tree until night falls.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Its eyes also function as radar units. It catches and eats small bugs that hide in darkness. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=048}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Venonat</sc> is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.}}
+{{Dex/Entry1|v=FireRed|entry=Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams.}}
+{{Dex/Entry1|v=LeafGreen|entry=Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=109}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.}}
+{{Dex/Entry1|v=HeartGold|entry=Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.}}
+{{Dex/Entry1|v=SoulSilver|entry=Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=048}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=256|reg2=Kitakami|reg3=Blueberry|num3=8}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Poison oozes from all over its body. It catches small bug Pokémon at night that are attracted by light.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{poison color dark}}; background:#{{bug color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{poison color dark}}; background:#{{bug color light}}; {{roundy|5px}};" | [[File:Pokédex Image Venonat SV.png|x200px]]
+| style="border:2px solid #{{poison color dark}}; background:#{{bug color light}}; {{roundy|5px}};" | [[File:Pokédex Image Venonat SV Blueberry.png|x200px]]
+|-
+| Venonat in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Venonat in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=bug|type2=poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}, {{safari|Kanto}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}, {{safari|Kanto}}}}
+{{Availability/Entry1|v=Yellow|area=[[Route]]s {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|24|Kanto}}, {{rtn|25|Kanto}}, and {{rtn|43|Johto}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|24|Kanto}}, {{rtn|25|Kanto}}, and {{rtn|43|Johto}}, [[Ilex Forest]], [[National Park]]{{sup/t|N}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>{{rt|43|Johto}}, [[Lake of Rage]] ([[Headbutt tree]]s)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}, [[Berry Forest]], [[Bond Bridge]], {{safari|Kanto}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|229|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|229|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|24|Kanto}}, {{rtn|25|Kanto}}, and {{rtn|43|Johto}} <br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>{{rt|43|Johto}}, [[Lake of Rage]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=FF3333|area={{pw|Noisy Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Venomoth}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|3|Unova}} ([[Hidden Grotto]]){{tt|*|Across the pond}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{Dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Venomoth}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{pkmn|breeding|Breed}} {{p|Venomoth}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Route]]s {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|24|Kanto}} and {{rtn|25|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|229|Sinnoh}} ([[Poké Radar]])<br>[[Grand Underground]] - [[Spacious Cave]], [[Grassland Cave]], [[Swampy Cave]], [[Riverbank Cave]], [[Still-Water Cavern]], [[Sunlit Cavern]], [[Bogsunk Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[East Province (Area One)|Area One]], [[Tagtree Thicket]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Venonat|1★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Blue Field]]: [[Fuchsia City|Fuchia City]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 4]], Endless Level 57, Forever Level 1, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Uproar Forest]] (B1F-B4F), [[Western Cave]] (B1F-B3F), [[Murky Cave]] (B1F-B5F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Olive Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (1F-13F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F), [[Midnight Forest]] (B1F-B21F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (1F-13F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F), [[Midnight Forest]] (B1F-B21F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode B)</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#All Aboard!|Model Train Room: All Aboard!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 3|Infinite Ruins: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Obsidian Shrine|Black Realm: Obsidian Shrine]] <small>(All Areas)</small>, [[Distortion Land#Breezy Grasslands|Distortion Land: Breezy Grasslands]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Butterfree Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Uproar Forest]] (1F-3F)<br/>Fainted Pokémon: [[Mt. Freeze]], [[Silver Trench]], [[Mt. Faraway]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#20th release|''Pokémon Safari'']] <small>(20th release)</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area={{sync/player|egg|Venonat}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Bug|type2=Poison}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Poison
+|HP=60
+|Attack=55
+|Defense=50
+|SpAtk=40
+|SpDef=55
+|Speed=45
+|Special=40
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Poison
+|Speed=4
+|SpeedMax=5
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=bug
+|type2=poison
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=50
+|Ground=100
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=25
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|gen1bug=yes
+|gen1poison=yes
+|oldbug=2
+|oldpoison=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Venonat|Bug|Poison|1}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Disable|Normal|Status|—|100|20}}
+{{learnlist/level9|5|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level9|11|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/level9|13|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/level9|17|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level9|23|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|25|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level9|29|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/level9|35|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/level9|37|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/level9|41|Poison Fang|Poison|Physical|50|100|15||'''}}
+{{learnlist/level9|47|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/levelf/9|Venonat|Bug|Poison|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Venonat|Bug|Poison|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10}}
+{{learnlist/tmf/9|Venonat|Bug|Poison|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Venonat|Bug|Poison|2}}
+{{learnlist/breed9|{{MSP/H|0123|Scyther}}{{MSP/H|0212|Scizor}}{{MSP/H|0900|Kleavor}}{{MSP/H|0167|Spinarak}}{{MSP/H|0168|Ariados}}{{MSP/H|0283|Surskit}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0738|Vikavolt}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|Agility|Psychic|Status|—|—|30}}
+{{learnlist/breed9|{{MSP/H|0283|Surskit}}|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/breed9|{{MSP/H|0168|Ariados}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0401|Kricketot}}{{MSP/H|0415|Combee}}{{MSP/H|0540|Sewaddle}}{{MSP/H|0541|Swadloon}}{{MSP/H|0542|Leavanny}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0636|Larvesta}}{{MSP/H|0637|Volcarona}}{{MSP/H|0664|Scatterbug}}{{MSP/H|0736|Grubbin}}{{MSP/H|0737|Charjabug}}{{MSP/H|0738|Vikavolt}}{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}{{MSP/H|0953|Rellor}}{{MSP/H|0954|Rabsca}}{{tt|*|Larvesta learned Bug Bite via level-up prior to Version 2.0.1; it can still learn Bug Bite via TM182}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Morning Sun|Normal|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0637|Volcarona}}|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0207|Gligar}}{{MSP/H|0472|Gliscor}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}{{MSP/H|0402|Kricketune}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0636|Larvesta}}{{MSP/H|0637|Volcarona}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|Screech|Normal|Status|—|85|40}}
+{{learnlist/breed9|{{MSP/H|0205|Forretress}}|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/breed9|{{bag/s|TM Poison|SV|TM045}}{{tt|*|No Pokémon in the Bug Egg Group learn this move via level-up; however, it is available as a TM and can be passed down from the Venonat line, the Spinarak line, the Pineco line, and the Gligar line, or copied with Mirror Herb from another Pokémon.}}|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/breedf/9|Venonat|Bug|Poison|2}}
+
+====[[Animated series move errors|Animated series-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{bug color}}; border: 3px solid #{{poison color dark}}"
+|-
+! style="background: #{{bug color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{bug color light}}" | Type
+! style="background: #{{bug color light}}; {{roundytr|5px}}" | Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Poison Sting}}
+| style="background:#{{Poison color}}" | {{typecolor|Poison}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[EP176|Ariados, Amigos]]''
+|}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Bite}}
+| style="background:#fff; {{roundybr|5px}}" | [[Venonat (EX FireRed & LeafGreen 84)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Poison}}
+{{Spindata/Pinball|col=3|type=Bug|ndex=048|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=048|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=048
+|body=1
+|rate=11.4
+|area=Secretive Forest
+|P1=The beams from my eyes make it safe in darkness!
+|P2=I'm getting down to half HP now.
+|P3=I'm almost done... I can't even use my beams anymore...
+|PL=All right! I leveled! I'll go for it!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=048
+|body=1
+|rate=8.2
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=048
+|coset=None
+|conto=None
+|recruitment=Talk to in [[Baram Town]]
+|P1=I can shoot beams from my eyes! Cool, huh?
+|P2=I can see stars... Is that bad?
+}}
+|-
+{{Spindata/Ranger|col=6|type=Bug
+|group=Bug
+|assist=Poison
+|fieldpower=0
+|field=None
+|loop=3
+|MinEXP=35
+|MaxEXP=70
+|num=153
+|browser=Venonat hops about while scattering puffs of poison mist.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=1
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=048
+|walk=1.67
+|hp=51
+|attack=68
+|defense=49
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=048
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=048|num=750
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Nap Time
+|skilldesc=Leaves the foe asleep.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=048
+|hatch=N/A
+|buddy=3
+|candy=Venonat
+|evocandy=50
+|stamina=155
+|attack=100
+|defense=100
+|fast={{m|Bug Bite}}, {{m|Confusion}}
+|special={{m|Poison Fang}}, {{m|Psybeam}}, {{m|Signal Beam}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0048
+|name1=Venonat
+|type1-1=Bug
+|type2-1=Poison
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 31}}
+|no2=0049
+|name2=Venomoth
+|type1-2=Bug
+|type2-2=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Poison}}
+{{Spritebox/1|ndex=048}}
+{{Spritebox/2|ndex=048}}
+{{Spritebox/3|ndex=048}}
+{{Spritebox/4|ndex=048}}
+{{Spritebox/5|ndex=048}}
+{{Spritebox/6|ndex=048|crop=62}}
+{{Spritebox/7/PE|ndex=048|crop=54|PEcrop=115}}
+<!--{{Spritebox/8/BDSP|ndex=048}}-->
+<!--{{Spritebox/9|ndex=0048}}-->
+{{Spritebox/HOME|ndex=0048}}
+{{Spritebox/Footer|048|Venonat}}
+
+==In animation==
+[[File:Goh Venonat.png|thumb|250px|Venonat in {{aniseries|JN}}]]
+===Major appearances===
+====[[Tracey's Venonat]]====
+{{Tracey}} has a Venonat, which he commonly uses to see things at night. It debuted in ''[[EP084|The Lost Lapras]]'' as the first Pokémon used by Tracey, though it was only one of two owned by him before he met {{Ash}}. By the time of ''[[JN147|The Rainbow and the Pokémon Master!]]'', Venonat had evolved into {{p|Venomoth}}.
+
+====Other====
+Two Venonat appeared in ''[[EP032|The Ninja Poké-Showdown]]'', with one under the ownership of [[Koga]] and the other under the ownership of his sister, {{an|Aya}}. Koga's evolved into a Venomoth in the same episode. Aya's Venonat reappeared in ''[[EP176|Ariados, Amigos!]]''.
+
+In ''[[DP088|Camping It Up!]]'', [[Conway]] trained a Venonat during the [[Pokémon Summer Academy]]. He then used it in a battle against a {{p|Grimer}} that {{an|Dawn}} was temporarily using. After Grimer used {{m|Poison Gas}} as a [[Counter Shield]], the battle ended in a draw.
+
+In ''[[DP109|Leading a Stray!]]'', multiple Venonat assisted a {{p|Luxio}} in its efforts to help a {{p|Wailmer}} trapped in the sewers.
+
+===Minor appearances===
+Venonat debuted in ''[[EP028|Pokémon Fashion Flash]]'' as one of the Pokémon seen on [[Scissor Street]].
+
+A Venonat appeared in ''[[EP034|The Kangaskhan Kid]]''.
+
+A Venonat appeared in ''[[EP047|A Chansey Operation]]''.
+
+In ''[[PK01|Pikachu's Vacation]]'', a Venonat was at the [[Pokémon Theme Park]].
+
+A Trainer's Venonat appeared in ''[[M01|Mewtwo Strikes Back]]''.
+
+In ''[[EP080|Friends to the End]]'', a Trainer's Venonat was at the closing ceremonies of the [[Indigo Plateau Conference]].
+
+In ''[[EP088|In the Pink]]'', multiple {{DL|List of alternately colored Pokémon in animation|Pink Pokémon|pink}} Venonat were living [[Pinkan Island]].
+
+In ''[[EP146|Tricks of the Trade]]'', a Venonat was at the [[Pokémon Swap Meet]] in [[Palmpona]].
+
+In ''[[EP169|Beauty and the Breeder]]'', a {{tc|Pokémon Breeder}}'s Venonat participated in the [[Pokémon Beauty Contest]].
+
+In ''[[EP198|The Heartbreak of Brock]]'', a Venonat was living at [[Temacu]]'s father's lab.
+
+A Venonat appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+In ''[[EP252|Fangs for Nothin']]'', a Venonat lived on the [[Dragon Holy Land]].
+
+In ''[[HS12|Training Daze]]'', a Venonat was partnered with two [[Team Rocket]] trainees.
+
+In ''[[AG015|Gonna Rule The School!]]'', the [[Pokémon Trainers' School]] lent a Venonat to the school's underage students for use in lessons.
+
+In ''[[AG126|Saved by the Beldum]]'', a Trainer's Venonat was seen during the [[Ever Grande Conference]].
+
+A Venonat appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+In ''[[AG143|The Saffron Con]]'', a {{pkmn|Coordinator}}'s Venonat was taken by Team Rocket. In [[AG144|the next episode]], it competed in the [[Saffron City]] [[Pokémon Contest]].
+
+A Venonat appeared in ''[[AG155|The Green Guardian]]''.
+
+A Coordinator's Venonat appeared in ''[[AG167|What I Did for Love!]]''.
+
+In ''[[AG191|Once More With Reeling!]]'', a Coordinator's two Venonat competed in the {{to|Terracotta}} {{pkmn|Contest}}.
+
+In ''[[DP099|A Trainer and Child Reunion!]]'', a Venonat lives in the forest where [[Aaron]]'s training center was located at.
+
+A Venonat appeared in ''[[DP124|To Thine Own Pokémon Be True!]]''.
+
+In ''[[DP176|Coming Full-Festival Circle!]]'', a Venonat listened as [[Nando]] played his music.
+
+A Trainer's Venonat appeared in ''[[M20|I Choose You!]]''.
+
+Two Venonat appeared in ''[[M21|The Power of Us]]'', with one appearing as a shadowy figure.
+
+In ''[[JN006|Working My Way Back to Mew!]]'', [[Goh]] caught a {{DL|List of Goh's Pokémon|Venomoth|Venonat}}. It has since made further appearances in {{aniseries|JN}}.
+
+In a flashback in ''[[JN029|There's a New Kid in Town!]]'', three Venonat approached a young [[Chloe]] in a playground and caused her to cry. They were then chased off by {{TP|Professor Cerise|Yamper}}.
+
+Five Venonat appeared in ''[[JN033|Trade, Borrow, and Steal!]]'', with one under the ownership of a Trainer and the rest being wild.
+
+A Trainer's Venonat appeared in ''[[JN070|Take My Thief! Please!]]''.
+
+A Trainer's Venonat appeared in ''[[JN115|Curtain Up! Fight the Fights!]]''. It reappeared in ''[[JN118|Battling as Hard as Stone!]]'' and ''[[JN125|Whittle While You Work!]]''.
+
+Multiple Venonat belonging to Trainers appeared in ''[[JN122|It's... Champion Time!]]''.
+
+A Venonat appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Trainer's Venonat appeared in ''[[JN141|A Squad's Worth of Passion!]]''. It got trapped by a fire before being rescued by the [[Squirtle Squad]].
+
+A Venonat appeared in ''[[HZ001|The Pendant That Starts It All (Part One)]]'', under the ownership of a student of [[Indigo Academy]].
+
+A Venonat appeared in [[HZ104]].
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP032|Venonat|Ash's Pokédex|Venonat, a {{t|Bug}} Pokémon. Its eyes function as radar, allowing it to see in the dark.}}
+{{Animedexfooter/Pokémon|Kanto}}
+
+==In the manga==
+[[File:Jessie Ekans EToP.png|thumb|200px|Venonat (left) in [[The Electric Tale of Pikachu]]]]
+===The Electric Tale of Pikachu===
+Melanie took care of a Venonat in ''[[ET07|Pikachu's Excellent Adventure]]''.
+
+===Pokémon Adventures===
+Venonat debuted in ''[[PS012|Wake Up—You're Snorlax!]]'' as a [[wild Pokémon]], while {{adv|Red}} partook in a bike race that started in {{rt|11|Kanto}}.
+
+A Venonat appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+A Venonat appeared in the [[Trick Master]]'s flashback in ''[[PS332|The Final Battle V]]'', where it was one of the Pokémon calmed down by the homeland soil.
+
+A Venonat appeared in ''[[PS421|Clobbering Claydol]]'', under the ownership of a {{tc|Camper}}.
+
+A Venonat appeared in ''[[PS442|Out-Odding Oddish]]'', under the ownership of a [[Pokéathlon]] participant.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Venonat appeared in ''[[GDZ03|A Match For Pokémon]]''.
+
+A Venonat appeared in ''[[GDZ12|The Trial for Moltres]]''.
+
+A Venonat appeared in [[GDZ21]].
+
+A Venonat appeared in [[GDZ23]].
+
+A Venonat appeared in [[GDZ34]].
+
+A Venonat appeared in [[GDZ36]].
+
+===Pokémon Zensho===
+A Venonat appeared in ''[[PZ08|Cinnabar Island]]'' where [[Blaine]] yelled at it for sitting on his head.
+
+==In the TCG==
+{{main|Venonat (TCG)}}
+
+==Trivia==
+<!--DO NOT ADD TRIVIA ABOUT VENONAT BEING RELATED TO BUTTERFREE.-->
+* Venonat and {{p|Venomoth|its evolved form}} are the Pokémon that went the longest without appearing in a regional [[Pokédex]], excluding their appearances in remakes: prior to the release of {{g|Scarlet and Violet}}, their last appearance in a regional Pokédex was in {{v2|Crystal}}, almost 22 years earlier.
+
+===Origin===
+Venonat seems to draw inspiration from multiple insects, which may include {{wp|Flea|fleas}}, {{wp|Mite|mites}}, {{wp|Fly|flies}}, {{wp|Owlfly|owlflies}}, flightless {{wp|Moth|moths}}, and/or {{wp|Caterpillar#Human health|venomous caterpillars}}. Its large {{wp|compound eye}}s function like {{wp|radar}} and resemble {{wp|parabolic antenna}}s.
+
+====Name origin====
+Venonat may be combination of ''{{wp|venom}}'' and ''{{wp|gnat}}'' (a small insect).
+
+Kongpang may be derived from ''{{wp|compound eye}}'' (visual organ found in insects) or 昆虫 ''konchū'' (insect).
+
+==In other languages==
+{{Other languages|type=bug|type2=poison
+|ja=コンパン ''Kongpang''|jameaning=From ''{{wp|compound eye}}'' or {{tt|昆虫 ''konchū''|insect}}
+|fr=Mimitoss|frmeaning=From ''{{tt|mimi|cute}}'', ''{{tt|mite|moth}}'', and possibly ''{{tt|grosse|big}}''
+|es=Venonat|esmeaning=Same as English name
+|de=Bluzuk|demeaning=From ''{{tt|Blut|blood}}'' and ''{{tt|zutzeln|Bavarian word for ''to suck''}}''
+|it=Venonat|itmeaning=Same as English name
+|ko=콘팡 ''Konpan''|komeaning=Transcription of Japanese name
+|zh_cmn=毛球 ''Máoqiú''|zh_cmnmeaning=From {{tt|毛 ''máo''|hair}}, {{tt|毛蟲 / 毛虫 ''máochóng''|caterpillar}}, and {{tt|球 ''qiú''|ball}}
+|zh_yue=毛球 ''Mòuhkàuh''{{tt|*|Pre-Gen VII media}}<br>毛毛蟲 ''Mòuhmòuhchùhng''{{tt|*|Games}}|zh_yuemeaning=From {{tt|毛 ''máo''|hair}}, {{tt|毛蟲 ''mòuh''|caterpillar}}, and {{tt|球 ''kàuh''|ball}}<br>From {{tt|毛毛蟲 ''mòuhmòuhchùhng''|caterpillar}}
+|hi=वेनोनैट ''Venonat''|himeaning=Transcription of English name
+|lt=Venonatas|ltmeaning=From the English name
+|ru=Венонат ''Venonat''|rumeaning=Transcription of English name
+|th=คองปัง ''Khongpang''|thmeaning=Transcription of Japanese name
+}}
+
+<br clear="left">
+
+==Related articles==
+* [[Tracey's Venonat]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0047|prev=Parasect|nextnum=0049|next=Venomoth}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Bluzuk]]
+[[es:Venonat]]
+[[fr:Mimitoss]]
+[[it:Venonat]]
+[[ja:コンパン]]
+[[zh:毛球]]

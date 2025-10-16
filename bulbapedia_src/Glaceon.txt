@@ -1,0 +1,708 @@
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/GO|species=Glaceon}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=0470|prev=Leafeon|nextnum=0472|next=Gliscor|round=none}}
+{{PokémonPrevNext/Disambig|species=Glaceon}}
+|}
+{{Pokémon Infobox
+|name=Glaceon
+|jname=グレイシア
+|jtranslit=Gureishia
+|tmname=Glacia
+|ndex=0471
+|type1=Ice
+|category=Fresh Snow
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=57.1
+|weight-kg=25.9
+|abilityn=d
+|ability1=Snow Cloak
+|abilityd=Ice Body
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=35
+|evtotal=2
+|evsa=2
+|expyield=184
+|oldexp=196
+|lv100exp=1,000,000
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=08
+|pokefordex=glaceon
+|generation=4
+|friendship=35
+}}
+'''Glaceon''' ([[List of Japanese Pokémon names|Japanese]]: '''グレイシア''' ''Glacia'') is an {{type|Ice}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Eevee}} when leveled up near an [[Ice Rock]] or when exposed to an [[Ice Stone]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+It is one of Eevee's [[Eeveelution|final forms]], the others being {{p|Vaporeon}}, {{p|Jolteon}}, {{p|Flareon}}, {{p|Espeon}}, {{p|Umbreon}}, {{p|Leafeon}}, and {{p|Sylveon}}.
+
+==Biology==
+Glaceon is a quadrupedal, mammalian {{OBP|Pokémon|species}} covered in light-blue fur. It has long, pointed ears, dark eyes, and a small nose. A teal crest with two dangling flaps adorns its head, resembling hair or headgear. Glaceon has two dark blue, rhombus-shaped markings on its back; the tip of its tail, feet, and flaps are the same shade of blue.
+
+By controlling its body temperature, it freezes the moisture in the air, producing ice crystals or {{wp|diamond dust}} surrounding it. It is capable of freezing its fur into sharp needle-like icicles, which it can fire at opponents or use as protection as it tackles at its prey. As mentioned in the [[Sleep style|Sleep Style Dex]], Glaceon can also perform this defense mechanism while sleeping. It can quickly drop its body temperature below −75&nbsp;°F (−60&nbsp;°C). Glaceon is rather popular in ski resorts due to its ability to create powdery snow. Those captivated by Glaceon's beautiful snowfall will be instantly frozen without realizing it.
+
+===Evolution===
+Glaceon evolves from {{p|Eevee}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=ice
+|pictype=art
+|no1=0133
+|name1=Eevee
+|type1-1=Normal
+|evo1=
+|no2=0471
+|name2=Glaceon
+|type1-2=Ice}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ice}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=170|label1={{gameIcon|Pt}}:|reg2=Johto}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=As a protective technique, it can completely freeze its fur to make its hairs stand like needles.}}
+{{Dex/Entry1|v=Platinum|entry=By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=098|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=084|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=130|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=160|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.}}
+{{Dex/Entry1|v=Moon|entry=It freezes its fur into icicles, spiky and sharp, and tackles its prey.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It protects itself by freezing its fur into sharp needles. It can drop its body temperature below {{tt|–75<!--U+2013 EN DASH in-game--> degrees Fahrenheit|−60 degrees Celsius}}.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=It can instantaneously freeze any moisture that's around it, creating ice pellets to shoot at its prey.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=203|reg2=Galar|label2=Crown Tundra|num2=080|reg3=Sinnoh|reg4=Hisui|num4=032}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Any who become captivated by the beauty of the snowfall that Glaceon creates will be frozen before they know it.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=As a defense mechanism, it can completely freeze its fur to make its hairs stand out like needles.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Glaceon is able to lower its body temperature very quickly. It freezes the atmosphere, creating diamond dust that glitters like gems while it flutters and dances around.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=186|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ice color dark}}; background:#{{ice color}}; font-size:80%; border-radius: 10px"
+|-
+| style="{{roundy|20px}} border:2px solid #{{ice color dark}}; background:#{{ice color light}}| [[File:Pokédex Image Glaceon SM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{ice color dark}}; background:#{{ice color light}}| [[File:Pokédex Image Glaceon USUM.png|x200px]]
+|style="border:2px solid #{{ice color light}}; background:#{{ice color light}} | [[File:Pokédex Image Glaceon SV.png|x200px]]
+|-
+| Glaceon in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Glaceon in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Glaceon in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=[[Trade]], [[Evolution|Evolve]] {{p|Eevee}} in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}} or {{game|Platinum||Platinum}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Evolution|Evolve]] {{pkmn|Dream World}} {{p|Eevee}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Lake of Outrage]] ([[Wanderer]])<br>[[Hammerlocke Hills/Dens|Hammerlocke Hills]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Bed]] ([[Wanderer]])<br>[[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Alabaster Icelands]]:''' [[Space-time distortion]]s<br>[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=North Province: [[Glaseado Mountain]]<br>North Province: [[Glaseado Mountain]] ({{t|Ice}} {{Tera}} [[Type]])<br>[[Tera Raid Battle]]s ({{DL|List of 6★ Tera Raid Battles (Paldea)|Glaceon|6★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Crevice Cave]] (B1F-B10F, Lower Crevice Cave B1F-B4F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Crevice Cave]] (B1F-B10F, Lower Crevice Cave B1F-B4F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Ice Lake]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area={{OBP|Rocky Cave|Rumble}} Advanced Mode S}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Iceberg Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Mt. Sorbet]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Glacier: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace - Western Spire]] (1F-12F), [[Silent Tundra]] (Uncharted Road, Gilded Hall), [[Dreamy Island]] (Uncharted Road, Gilded Hall), [[Moonlit Forest]] (Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Colorful Park|Aquatic Hill: The Colorful Park]], [[Challenge Battle#The Final Battle Royale|Challenge Battle: The Final Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 2|Safari Jungle: Stage 2]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Ice Floe Island|Dark Land: Ice Floe Island]] <small>(Back Boss)</small>, [[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 06|Area 06: Stage 06]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Snorlax Sea]], [[Jirachi Sea]], [[Aegislash Sea]], [[Zygarde Sea]], [[Greninja Sea]], [[Jirachi Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=Mystery House: [[Northwind Field]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Shiver Snowfields]]<sup><span style="color:#F05D31;">Day</span> <span style="color:#53349C;">Level 3</span>, <span style="color:#3A546B;">Night</span> <span style="color:#067162;">Level 2</span></sup>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Master 5)<br>[[Snowdrop Tundra]] (from Ultra 5)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Great 3)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Mt. Vinter|Mt. Vinter: Stage 114]]<br>[[Prasino Woods|Prasino Woods: Stage 576]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Master Fair [[sync pair scout]]: {{sync|Irida|Glaceon}}<br>Poké Fair sync pair scout: {{sync|Sina|Glaceon}}<br>Variety sync pair scout: {{sync|Hilbert|Glaceon}}<br>[[Evolution]]: {{sync/player|egg|Eevee}}}}
+{{Availability/Entry1|1|v=UNITE|t=FFF|color={{violet color}}|area=Purchase for 12,000 Aeos Coins/575 Aeos Gems}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Ice}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Birthday Glaceon|All|Japan|10|October 12, 2013 to December 31, 2016|link=List of local event Pokémon distributions in Generation VI#Glaceon}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Center Glaceon|All|Japan|50|May 13 to June 23, 2017|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Glaceon 2}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Store Glaceon|All|South Korea|50|July 15 to 23, 2017|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Glaceon}}
+|}
+
+=====Pokémon Global Link promotions=====
+{{eventAvail/h|type=Ice}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Glaceon|Japanese|PGL|10|October 20, 2010 to January 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Glaceon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Glaceon|Korean|PGL|10|May 18 to August 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Glaceon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Glaceon|English|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Glaceon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Glaceon|French|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Glaceon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Glaceon|German|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Glaceon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Glaceon|Italian|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Glaceon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Glaceon|Spanish|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Glaceon}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Ice}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Razz Berry|30|Vivichoke|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ice
+|HP=65
+|Attack=60
+|Defense=110
+|SpAtk=130
+|SpDef=95
+|Speed=65
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ice
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=4
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=200
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Glaceon|Ice|Ice|4}}
+{{learnlist/level9|1|Covet|Normal|Physical|60|100|25}}
+{{learnlist/level9|1|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|1|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level9|1|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|1|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|1|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|1|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level9|5|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|10|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|15|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level9|20|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/level9|25|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|30|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/level9|35|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/level9|40|Freeze-Dry|Ice|Special|70|100|20||'''}}
+{{learnlist/level9|45|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/level9|50|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/level9|55|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/levelf/9|Glaceon|Ice|Ice|4}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Glaceon|Ice|Ice|4}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM010|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20|patch=Version 2.0.1 onwards}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/tm9|TM046|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM187|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM212|Triple Axel|Ice|Physical|20|90|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10}}
+{{learnlist/tmf/9|Glaceon|Ice|Ice|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Glaceon|Ice|Ice|4}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571-Hisui|Zoroark}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}|Detect|Fighting|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128|Tauros|form=-Paldea Aqua}}{{MSP/H|0135|Jolteon}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0231|Phanpy}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0775|Komala}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Flail|Normal|Physical|—|100|15||}}
+{{learnlist/breed9|{{MSP/H|0050|Diglett}}{{MSP/H|0050-Alola|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0968|Orthworm}}|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/breed9|{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}|Tickle|Normal|Status|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0775|Komala}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{tt|*|Skeledirge learns Yawn on its own only Version 2.0.1 onwards}}|Yawn|Normal|Status|—|—|10}}
+{{learnlist/breedf/9|Glaceon|Ice|Ice|4}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Glaceon|Ice|Ice|4}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Glaceon|Ice|Ice|4}}
+
+====Special moves====
+{{learnlist/eventh/9|Glaceon|Ice|Ice|4}}
+{{learnlist/event9|[[North Province (Area One)|Wild Tera Pokémon]]|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/event9|[[North Province (Area One)|Wild Tera Pokémon]]|Curse|Ghost|Status|—|—|10}}
+{{learnlist/event9|[[North Province (Area One)|Wild Tera Pokémon]]|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/eventf/9|Glaceon|Ice|Ice|4}}
+
+===Side game data===
+{{Spindata/Head|type=Ice}}
+{{Spindata/MDTDS|col=6|type=Ice|ndex=471
+|body=1
+|rate=-10
+|IQ=F
+}}
+|-
+{{Spindata/PSMD|col=6|type=Ice|ndex=471
+|coset=3
+|conto={{p|Espeon}}, {{p|Victini}}
+|recruitment=Traveling Pokémon
+|P1=I can freeze the air around me. No, I don't mean that I freeze others out.
+|P2=My body will start to melt soon…
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ice
+|group=Ice
+|assist=Ice
+|field=Crush
+|fieldpower=3
+|num=104
+|browser=It shoots an {{m|Ice Beam|icy beam}} from its mouth. It also attacks with hunks of ice.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Ice
+|group=Ice
+|assist=Ice
+|field=Crush
+|fieldpower=4
+|num=082
+|pastnum=061
+|browser=It shoots hunks of ice that make Pokémon Stopped.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ice
+|att=4
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ice
+|att=4
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ice|ndex=471
+|walk=1.38
+|hp=52
+|attack=81
+|defense=60
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ice|ndex=471
+|Pad=Glaceon can always be found playing in the [[Iceberg Zone]]. She specializes in {{DL|Attraction (PokéPark)|Empoleon's Snow Slide}} and {{DL|Attraction (PokéPark)|Rayquaza's Balloon Panic}}!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Ice|ndex=471
+|pad=She thought of a racecourse to run in a hot place but later realized that not everyone enjoys running in the heat.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ice|ndex=471
+|HP=3
+|atk=4
+|def=4
+|spd=3
+|range=4
+|move=Icy Wind
+|ability1=Skater
+|ability2=Stealth
+|ability3=Frostbite
+|evo=Evolves from {{p|Eevee}} when it has an Attack stat of 91 or higher and is deployed in [[Nixtorm]]
+|link='''[[Hero]]'''/'''[[Heroine]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ice|ndex=471
+|power=3
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Ice|ndex=471|num=030
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Eject+, Hammering Streak
+}}
+|-
+{{Spindata/GO
+| col = 6
+| type = Ice
+| ndex = 471
+| hatch = N/A
+| buddy = 5
+| evolution = N/A
+| stamina = 163
+| attack = 238
+| defense = 205
+| fast = {{m|Ice Shard}}, {{m|Frost Breath}}
+| special = {{m|Avalanche}}, {{m|Icy Wind}}, {{m|Ice Beam}}, {{m|Last Resort}}{{tt|†|Event-exclusive from December 2019 Community Day and 2019 winter weekend event}}, {{m|Water Pulse}}{{tt|†|Event-exclusive from Eevee Community Day 2021}}
+| candy = 
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Ice|ndex=471|pdex=181
+|dex=[[Professor Mirror|I]] knew Glaceon could freeze the air around it by controlling its body temperature, but I was surprised to see one whip up a flurry of {{wp|diamond dust}} with just a single [[cry]].}}
+|-
+{{Spindata/Sleep
+| col = 6
+| ndex = 0471
+| sleeptype = Slumbering
+| type = Ice
+| dexentry = At first glance it may look defenseless as it dozes, but look closer. Glaceon completely freezes its fur, making its hairs stand out like needles, so that it's protected from enemies even while it sleeps.
+| sleepstyle1 = Arm-Pillow Sleep
+| sleepstyle2 = Sturdy Sleep
+| sleepstyle3 = Sprawled Sleep
+| sleepstyle4 = Atop-Belly Sleep
+| friendpoints = 20
+| specialty = Skills
+| evolution = 
+| candyNum = 
+| pokemon = Eevee
+| berry = Rawst
+| ingredient1 = Moomoo Milk
+| ingredient2 = Soothing Cacao
+| ingredient3 = Bean Sausage
+| carrylimit = 12
+| skillname = Cooking Power-Up S
+| skilldesc = Gives your pot room for 7 more ingredients next time you cook.
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{ice color dark}}; background:#{{ice color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{ice color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{ice color dark}}; background:#{{ice color light}};"| [[File:GO0471November2018.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{ice color dark}}; background:#{{ice color light}};"| [[File:GO0471Holiday2021.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{ice color dark}}; background:#{{ice color light}};"| [[File:GO0471Holiday2022.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{ice color dark}}; background:#{{ice color light}};"| [[File:GO0471Spring2023.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{ice color dark}}; background:#{{ice color light}};"| [[File:GO0471Explorer.png|100px]]
+|-
+| Flower crown
+| Undersea Holiday
+| Holiday hat
+| Cherry blossoms
+| Explorer hat
+|}
+
+===Evolution data===
+Glaceon evolves from {{p|Eevee}} when exposed to an [[Ice Rock]] or, from [[Generation VIII]] onwards, when exposed to an [[Ice Stone]]. Eevee will always evolve into Glaceon when leveled up near an Ice Rock, even if the [[Methods of Evolution|evolutionary conditions]] for it to evolve into {{p|Espeon}}, {{p|Umbreon}}, or {{p|Sylveon}} have also been met. The Ice Rock is not present in {{game|HeartGold and SoulSilver|s}}, {{g|Sword and Shield}}, or {{g|Scarlet and Violet}}, and the Ice Stone is not obtainable in {{g|Brilliant Diamond and Shining Pearl}}. Eevee will never evolve into Glaceon in {{LGPE}}, as Glaceon is not present in those games.
+{| class="roundy" style="margin:auto; text-align:center; background: #{{ice color}}; border: 3px solid #{{ice color dark}}"
+|-
+|
+{{Evobox/Setup|0133Eevee|Eevee|Normal|Normal|ice|Unevolved||}}
+| {{Bag/s|Ice Stone|SV}}<br>{{color2|000|Ice Stone}}<br>→<br>{{bag/s|Rare Candy|SV}} + [[File:Ice Rock VI.png|40px|link=Ice Rock]]<br>{{color2|000|Level|Level up}}<br><small>near {{color2|000|Ice Rock}}<br></small>
+|
+{{Evobox/Setup|0471Glaceon|Glaceon|Ice|Ice|Ice|First Evolution||}}
+|}
+{{-}}
+
+===Sprites===
+{{Spritebox/Header|type=Ice}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=471}}
+{{Spritebox/5|ndex=471}}
+{{Spritebox/6|ndex=471|crop=98}}
+{{Spritebox/7|ndex=471|crop=76}}
+{{Spritebox/8/SwShLA|ndex=471|LAcrop=150}}
+<!--{{Spritebox/9|ndex=0471}}-->
+{{Spritebox/HOME|ndex=0471}}
+{{Spritebox/Footer|471|Glaceon}}
+
+==In animation==
+[[File:Regina Mirche.png|thumb|250px|Glaceon in {{aniseries|JN}}]]
+===Major appearances===
+====[[May's Glaceon]]====
+Glaceon debuted in ''[[DP076|A Full Course Tag Battle!]]'', where it was revealed that {{an|May}}'s Eevee evolved into it prior to the episode's events. It was used to battle [[Dawn's Piplup]] in the [[Contest Battle|Battle Stage]] of the [[Wallace Cup]] in ''[[DP079|Strategy With A Smile!]]''.
+
+====Other====
+In ''[[BW085|All for the Love of Meloetta!]]'', {{an|Cynthia}} used her Glaceon to make some ice for {{an|Meloetta}}.
+
+[[Virgil]]'s male Glaceon debuted in ''[[BW102|Team Eevee and the Pokémon Rescue Squad!]]'', along with an Eevee and her other evolved forms at the time, under the ownership of [[Virgil]]. He reappeared in a flashback in [[BW103|the next episode]]. In ''[[BW105|Lost at the League!]]'', he defeated a {{p|Reuniclus}} during the third round of the [[Vertress Conference]].
+
+In ''[[PK25|Eevee & Friends]]'', an artistic Glaceon was with an Eevee and its evolved forms, including the newly introduced {{p|Sylveon}}. It likes to decorate its room with elaborate ice sculptures.
+
+In ''[[SM065|Turning Heads and Training Hard!]]'', a {{pkmn2|wild}} Glaceon was summoned to help [[Ilima]]'s Eevee perform {{m|Extreme Evoboost}}. In the [[Poké Problem]] segment of the [[SM066|next episode]], it saw Ilima and Eevee off.
+
+In ''[[JN087|Breaking the Ice!]]'', a Glaceon nicknamed Mirche appeared under the ownership of [[Regina]]. It was very protective of Regina but became ill after using {{m|Blizzard}} too many times. It reappeared in flashbacks in ''[[JN105|Reuniting for the First Time!]]'' and ''[[JN120|Infinite Possibilities!]]''.
+
+===Minor appearances===
+A {{pkmn|Trainer}}'s Glaceon appeared in ''[[DP092|A Lean Mean Team Rocket Machine!]]''.
+
+In ''[[M11|Giratina and the Sky Warrior]]'', a Glaceon was together with an Eevee and the other six [[Eeveelution]]s at the time.
+
+In [[PK19]], a Glaceon was living on an icy island.
+
+A Glaceon appeared in ''[[DP127|Sliding Into Seventh!]]''.
+
+In ''[[DP160|A Marathon Rivalry!]]'', a Trainer's Glaceon competed in the [[Pokéathlon]] held in [[Camellia Town]].
+
+In ''[[DP182|An Old Family Blend!]]'', a Trainer's Glaceon competed in the [[Lily of the Valley Conference]].
+
+In ''[[XY090|Tag Team Battle Inspiration!]]'', {{an|Shauna}}'s fantasy featured a Glaceon as she imagined what [[Serena's Eevee]] could evolve into.
+
+In ''[[XY101|A Dancing Debut!]]'', [[Sara Lee]]'s Glaceon competed in the {{to|Couriway}} {{pkmn|Showcase}} alongside a Leafeon. In ''[[XY109|Master Class Choices!]]'', it and its Trainer were watching {{an|Serena}} participate in the Theme Performance at the {{ci|Fleurrh}} Showcase Rookie Class. In ''[[XY112|Master Class Is in Session!]]'', Glaceon competed in the {{ci|Gloire}} Showcase Master Class with its Trainer.
+
+A Trainer's Glaceon appeared in ''[[XY125|A League of His Own!]]''.
+
+In ''[[SM003|Loading the Dex!]]'', a Glaceon, {{p|Gardevoir}}, and {{p|Lopunny}} were in a fantasy that {{MTR}} had after an encounter with a {{TP|Jessie|Mimikyu}}. However, the trio was really {{p|Gastly}}, {{p|Haunter}}, and {{p|Gengar}} using illusory disguises.
+
+In ''[[JN019|A Talent for Imitation!]]'', the [[Pokédex]] image of a Glaceon was displayed.
+
+In ''[[JN049|To Train, or Not to Train!]]'', a Glaceon was at the [[Eevee Evolution Lab]]. It reappeared in ''[[JN120|Infinite Possibilities!]]''.
+
+A Glaceon appeared in a fantasy in ''[[JN063|On Land, In the Sea, and to the Future!]]''.
+
+A Glaceon appeared in a fantasy in ''[[JN120|Infinite Possibilities!]]''.
+
+A Trainer's Glaceon appeared in ''[[HZ058|Food Fit for a Kingambit!]]''.
+
+A {{tc|Student}}'s Glaceon appeared in ''[[HZ066|Infiltrating the System! Naranja Academy in Danger!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP076|Glaceon|Dawn's Pokédex|Glaceon, the Fresh Snow Pokémon and the evolved form of {{p|Eevee}}. Glaceon can freeze the fur on its body, and make it stick out like sharp needles.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW102|Glaceon|Ash's Pokédex|Glaceon, the Fresh Snow Pokémon. Glaceon freezes the surrounding air by controlling its body temperature.}}
+{{Animedexfooter/Pokémon|Unova}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN087|Glaceon|Chloe's Rotom Phone|Glaceon, the Fresh Snow Pokémon. An {{t|Ice}} type. One of [[Eeveelution|Eevee's evolved forms]], Glaceon can control its body temperature at will, and by freezing water particles in the air, it can create {{wp|diamond dust}}.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Sina Glaceon Adventures.png|thumb|left|200px|Glaceon in [[Pokémon Adventures]]]]
+[[File:Mitsumi Glaceon.png|thumb|200px|Glaceon in [[Pokémon Diamond and Pearl Adventure!]]]]
+===Pocket Monsters Platinum: Aim to Be Battle King!!===
+A Glaceon appeared in [[PBK2]], where it fought a {{p|Salamence}} alongside [[Yū Shirogane's Infernape]].
+
+===Pokémon Adventures===
+===={{MangaArc|Platinum}}====
+A Trainer's Glaceon appeared in ''[[PS418|Deprogramming Porygon-Z]]''.
+
+===={{MangaArc|HeartGold & SoulSilver}}====
+In ''[[PS460|All About Arceus IX]]'', the [[Kimono Girl]]s added a Glaceon to their team, completing their [[Eeveelution]] set.
+
+===={{MangaArc|X & Y}}====
+A Glaceon appeared in a fantasy in ''[[PS553|Sylveon Enchants]]''.
+
+===={{MangaArc|Sun, Moon, Ultra Sun & Ultra Moon}}====
+[[Sina]]'s Glaceon first appeared in ''[[PASM18|Confusion and Monsters from Another World]]''.
+
+===Pokémon Diamond and Pearl Adventure!===
+[[Mitsumi]]'s Glaceon debuted in ''[[DPA13|The Battle Rages On]]'', battling [[Jupiter]] at [[Lake Acuity]].
+
+==In the TCG==
+{{main|Glaceon (TCG)}}
+
+==Other appearances==
+[[File:UNITE Glaceon.png|thumb|200px|Glaceon in Pokémon UNITE]]
+===[[Super Smash Bros. Brawl]]===
+Glaceon appears as a trophy alongside its counterpart, {{p|Leafeon}}.
+
+====Trophy information====
+''A Fresh Snow Pokémon and a Verdant Pokémon. They are both evolutions of Eevee. Eevee can evolve into [[Eeveelution|seven different Pokémon]] depending on what it has in its possession and where it is when it evolves. Glaceon is an {{type|Ice}} and can freeze all the fur on its body into protective quills. Leafeon is a {{type|Grass}}, and the air around it is always fresh and clean.''
+
+===[[Pokémon UNITE]]===
+{{main|Glaceon (UNITE)}}
+Glaceon is playable through obtaining a Unite License. It is a ranged attacker that starts as Eevee, which evolves into Glaceon at level 4.
+{{-}}
+
+==Trivia==
+* Glaceon was designed by [[Atsuko Nishida]].<ref>(2018) ''EVs''. ([http://lavacutcontent.com/ken-sugimori-eevee-origins/ English translation] written by Anthony Madry and commissioned by Dr. Lava)</ref><ref>[https://twitter.com/atsuko_nishida/status/783643367523557376 Tweet by AtsukoNishida (@atsuko_nishida).] Posted on October 5, 2016.</ref>
+* Glaceon's Japanese name is the same as the English name of [[Glacia]], a member of the [[Hoenn]] [[Elite Four]].
+* According to the {{2v2|Diamond|Pearl}} [[Pokédex]], Glaceon, {{p|Leafeon}}, and {{p|Umbreon}} have identical footprints.
+* Despite Eevee being obtainable before the {{un|Pokémon League}} in {{B2W2}}, it cannot [[Evolution|evolve]] into Glaceon or Leafeon until after the Elite Four is defeated. This is because [[Twist Mountain]], where the Ice Rock is located, cannot be reached until that point in the game, as the entrances to it and the [[Tubeline Bridge]] are blocked.
+* Glaceon shares its {{pkmn|category}} with {{p|Vanillite}}. They are both known as the Fresh Snow Pokémon.
+* In [[Generation IX]], prior to the Version 2.0.1 update of {{g|Scarlet and Violet}}, Glaceon was unable to learn {{m|Trailblaze}} via [[TM]], while its pre-Evolution and all the other [[Eeveelutions]] could.
+* According to the [[Pokémon Diamond and Pearl beta]] and the data files of {{g|Battle Revolution}},<ref>[https://tcrf.net/Pok%C3%A9mon_Battle_Revolution#Early_Pok.C3.A9mon_Names ''Pokémon Battle Revolution'' - The Cutting Room Floor]</ref> Glaceon's developmental name was ''Aisia''. <!-- There's no official kana transcription of this name; the one provided on The Cutting Room Floor (アイシア) is, though likely correct, merely a guess by its editors. --> This name may be derived from ''{{wp|ice}}''.
+
+===Origin===
+Like many of the Eeveelutions, Glaceon shares characteristics with foxes, dogs, and cats. It may be more closely based on an {{wp|arctic fox}}, due to their habitat. Assuming Leafeon draws inspiration from {{wp|Siamese cat|Siamese}} or other {{wp|Point coloration#In cats|colorpoint cats}}, Glaceon may also draw some inspiration from them (especially blue points). Its "hair" resembles an {{wp|ushanka}} or a scarf hat.
+
+====Name origin====
+Glaceon may be a combination of ''glacier'' (a large, slow-moving mass of ice on land) or ''glace'' (French for ice) and ''eon'' (an immeasurably long period of time, possibly referring to how long evolution takes naturally). ''Eon'' is a suffix all {{p|Eevee}} [[Evolution]]s share and was Eevee's English prototype name. Incidentally, its name is also an {{wp|anagram}} of ''congeal'' (to become solid, usually by cooling).
+
+Glacia may be derived from ''{{wp|glacier}}''. It may also involve ''grace''.
+
+==In other languages==
+{{Other languages|type=Ice|type2=Ice
+|ja=グレイシア ''Glacia''|jameaning=From ''{{wp|glacier}}'' and possibly ''grace''
+|fr=Givrali|frmeaning=From ''{{tt|givre|frost}}'' and ''-li'' (common suffix for all Eeveelutions in French)
+|es=Glaceon|esmeaning=Same as English name
+|de=Glaziola|demeaning=From ''{{tt|glazial|glacial}}'' and ''-a'' (common suffix for all Eeveelutions in German)
+|it=Glaceon|itmeaning=Same as English name
+|ko=글레이시아 ''Geulleisia''|komeaning=Transcription of Japanese name
+|zh_cmn=冰伊布 ''Bīngyībù''{{tt|*|Games, Post-Gen VII media}}<br>冰精靈 / 冰精灵 ''Bīngjīnglíng''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|冰 ''bīng''|ice}} and 伊布 ''{{p|Eevee|Yībù}}''<br>From {{tt|冰 ''bīng''|ice}} and {{tt|精靈 / 精灵 ''jīnglíng''|spirit, fairy, elf; former suffix for Eeveelutions in Mandarin}}
+|zh_yue=冰伊布 ''Bīngyībou''{{tt|*|Games, Post-Gen VII media}}<br>冰伊貝 ''Bīngyībui''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|冰 ''bīng''|ice}} and 伊布 ''{{p|Eevee|Yībou}}''<br>From {{tt|冰 ''bīng''|ice}} and {{tt|伊貝 ''Yībui''|former translation of Eevee}}
+|hi=हिमीवी ''Heemeevee''|himeaning=From {{tt|हिम ''heem''|snow}} and ''{{p|Eevee}}''
+|ru=Гласеон ''Glaseon''|rumeaning=Transcription of English name
+|th=กราเซีย ''Krasia''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[May's Glaceon]]
+* [[Glaceon (UNITE)]]
+
+==References==
+<references />
+
+==External links==
+{{Eeveelutions}}
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=0470|prev=Leafeon|nextnum=0472|next=Gliscor}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Pokémon that have had their Evolution method changed]]
+[[Category:Super Smash Bros. trophies]]
+
+[[de:Glaziola]]
+[[es:Glaceon]]
+[[fr:Givrali]]
+[[it:Glaceon]]
+[[ja:グレイシア]]
+[[zh:冰伊布]]

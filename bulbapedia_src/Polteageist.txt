@@ -1,0 +1,477 @@
+{{confused|Poltergeist (move)|Poltergeist}}
+
+{{PokémonPrevNext/Head|type=Ghost}}
+{{PokémonPrevNext/GO|species=Polteageist}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0854|prev=Sinistea|nextnum=0856|next=Hatenna|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Polteageist
+|jname=ポットデス
+|jtranslit=Pottodesu
+|tmname=Potdeath
+|forme=3
+|form2=Phony Form
+|form3=Antique Form
+|image2=HOME0855 b.png
+|image3=HOME0855A b.png
+|ndex=0855
+|type1=Ghost
+|category=Black Tea
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=0.9
+|weight-kg=0.4
+|abilityn=d
+|ability1=Weak Armor
+|abilityd=Cursed Body
+|egggroupn=2
+|egggroup1=Mineral
+|egggroup2=Amorphous
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=178
+|lv100exp=1,000,000
+|gendercode=255
+|color=Purple
+|catchrate=60
+|body=01
+|pokefordex=polteageist
+|generation=8
+|friendship=50
+}}
+'''Polteageist''' ([[List of Japanese Pokémon names|Japanese]]: '''ポットデス''' ''Potdeath'') is a {{type|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{p|Sinistea}} when exposed to a [[Cracked Pot]] or a [[Chipped Pot]], depending on Sinistea's {{fd|Sinistea|form}}. Polteageist's [[#Form data|form]] will be the same as it was as a Sinistea.
+* The '''Phony Form'''<ref name="guide">[[Pokémon Sword & Pokémon Shield: The Official Galar Region Strategy Guide]]</ref><ref>[https://sg.portal-pokemon.com/play/pokedex/855 Polteageist | Phony Form | Pokédex | The official Pokémon Website in Singapore]</ref> (if it lacks a stamp of authenticity) requires a [[Cracked Pot]] to evolve.
+* The '''Antique Form'''<ref name="guide" /><ref>[https://sg.portal-pokemon.com/play/pokedex/855_1 Polteageist | Antique Form | Pokédex | The official Pokémon Website in Singapore]</ref> (if it has a stamp of authenticity) requires a [[Chipped Pot]] to evolve.
+
+It is [[Ecologically similar Pokémon|ecologically similar]] to {{p|Sinistcha}}; however, the two are separate species.
+
+==Biology==
+[[File:PolteageistObsidianFlames98.jpg|thumb|left|150px|A better look at Polteageist's head]]
+Polteageist is a {{OBP|Pokémon|species}} made of black tea. Its body is purple with yellow accents, as well as yellow eyes and mouth. Its arms are thin and its hands have three digits, and it has two small legs. Polteageist inhabits a large, white teapot with cracks and holes on it, exposing parts of its body. The teapot has a yellow handle, as well as yellow accents on its cover and bottom. There are light blue swirly patterns surrounding the teapot. Most of the teapots that Polteageist inhabit are forgeries, but occasionally an authentic one is found.
+
+The black tea that composes Polteageist's body has a distinctly delicious flavor, but can cause strong chills when swallowed, and may also induce indigestion, stomach aches, and even death if drunk in excess. Only a {{pkmn|Trainer}} it trusts is allowed to drink its tea.<ref name=SwShsite/> There are gourmets who drink Polteageist's tea everyday, showing no fear of the side effects. Polteageist attacks by shooting the tea at its enemy's mouth.
+
+Polteageist live in hotels and restaurants, disguising themselves as tableware and infecting leftover tea to create more of their own kind.<ref name=SwShsite>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/polteageist/ Polteageist | Official Website | Pokémon Sword and Pokémon Shield]</ref> As such, Polteageist is a gender-unknown species. A Polteageist's personality is dependent on the type of tea it possesses; the teapot it lives in doesn't affect it. Despite their similar appearances, Polteageist is not related to {{p|Sinistcha}}.
+
+Polteageist is the [[Signature move|only known Pokémon]] capable of learning the move {{m|Teatime}}.
+
+===Forms===
+Polteageist has two separate forms: Phony Form and Antique Form. Telling either of these forms apart requires careful inspection; Antique Form Polteageist has a stamp of authenticity on the bottom of its teapot, whereas Phony Form Polteageist lacks it. This stamp appears as a teal colored emblem on the bottom inside rim of the teapot.
+
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{ghost color}}; {{roundy|10px}} border: 3px solid #{{ghost color dark}}"
+|-
+| Phony Form
+|-
+| style="{{roundy|96px}} border: 2px solid #{{ghost color dark}}; background: #{{ghost color light}}; width:96px; height:96px"| [[File:HOME0855 b.png|100px]]
+|}
+|
+{| style="background: #{{ghost color}}; {{roundy|10px}} border: 3px solid #{{ghost color dark}}"
+|-
+| Antique Form
+|-
+| style="{{roundy|96px}} border: 2px solid #{{ghost color dark}}; background: #{{ghost color light}}; width:96px; height:96px"| [[File:HOME0855A b.png|100px]]
+|}
+|}
+
+===Evolution===
+Polteageist evolves from {{p|Sinistea}}.
+
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-2
+|pictype=art
+|type1=Ghost
+|no1=0854
+|name1=Sinistea
+|type1-1=Ghost
+|evo1=
+|no2=0855
+|name2=Polteageist
+|type1-2=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=336|reg2=Galar|label2=Crown Tundra|num2=133|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Form|Phony Form}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist.}}
+{{Dex/Form|Antique Form}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Trainers Polteageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its tea.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=When angered, it launches tea from its body at the offender's mouth. The tea causes strong chills if swallowed.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=238|reg2=Kitakami|reg3=Blueberry|num3=128}}
+{{Dex/Form|Phony Form}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The tea that composes Polteageist’s body has a distinct and enjoyable flavor. Drinking too much, however, can be fatal.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.}}
+{{Dex/Form|Antique Form}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Apparently a Polteageist’s disposition is affected by the type of tea the Pokémon came from. What teapot it inhabits makes no difference.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Though risky to drink, this Pokémon's tea tastes delicious. Gourmets who have no fear of danger drink Polteageist tea day after day.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{ghost color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{ghost color light}}; background:#{{ghost color light}} | [[File:Pokédex Image Polteageist SV.png|x200px]]
+|style="border:2px solid #{{ghost color light}}; background:#{{ghost color light}} | [[File:Pokédex Image Polteageist SV Blueberry.png|x200px]]
+|-
+| Polteageist in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Polteageist in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ghost}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Stony Wilderness/Dens|Stony Wilderness]], [[Watchtower Ruins/Dens|Watchtower Ruins]], [[South Lake Miloch/Dens|South Lake Miloch]]{{sup/8|Sh}}, [[Giant's Mirror/Dens|Giant's Mirror]]{{sup/8|Sh}} ([[Max Raid Battle]]) <small>('''Phony Form''')</small>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Old Cemetery]] ([[Wanderer]]) <small>('''Phony Form''')</small><br>[[Giant's Bed/Dens|Giant's Bed]], [[Old Cemetery/Dens|Old Cemetery]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]]) <small>('''Phony Form''')</small>}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Polteageist - Phony Form|4★}}, {{DL|List of 5★ Tera Raid Battles (Paldea)|Polteageist - Phony Form|5★}}) <small>('''Phony Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Sinistea}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ghost}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Costume [[sync pair scout]]: {{sync|Lillie|Polteageist|Special Costume}} <small>('''Antique Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Form|type=Ghost|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|Phony Form|hide|17, 30, 40, 50, 60|October 30 to November 1, 2020|link=Wild Area News#October 30 to November 1, 2020}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ghost
+|HP=60
+|Attack=65
+|Defense=65
+|SpAtk=134
+|SpDef=114
+|Speed=70
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Polteageist|Ghost|Ghost|8}}
+{{learnlist/level9|1|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|1|Withdraw|Water|Status|—|—|40}}
+{{learnlist/level9|1|Aromatic Mist|Fairy|Status|—|—|20}}
+{{learnlist/level9|1|Mega Drain|Grass|Special|40|100|15}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Teatime|Normal|Status|—|—|10}}
+{{learnlist/level9|18|Protect|Normal|Status|—|—|10}}
+{{learnlist/level9|24|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level9|30|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|36|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/level9|42|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level9|48|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level9|54|Memento|Dark|Status|—|100|10}}
+{{learnlist/level9|60|Shell Smash|Normal|Status|—|—|15}}
+{{learnlist/level9|66|Curse|Ghost|Status|—|—|10}}
+{{learnlist/levelf/9|Polteageist|Ghost|Ghost|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Polteageist|Ghost|Ghost|8}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM151|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Polteageist|Ghost|Ghost|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Polteageist|Ghost|Ghost|8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Ally Switch|Psychic|Status|—|—|15|grid=2}}
+{{learnlist/breedf/9|Polteageist|Ghost|Ghost|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Polteageist|Ghost|Ghost|8}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Polteageist|Ghost|Ghost|8}}
+
+===Side game data===
+====Phony Form====
+{{Spindata/Head|type=Ghost}}
+{{Spindata/GO|col=6|type=Ghost|ndex=0855
+|hatch=N/A
+|buddy=3
+|candy=Sinistea
+|evolution=N/A
+|stamina=155
+|attack=248
+|defense=189
+|fast={{m|Astonish}}, {{m|Sucker Punch}}, {{m|Hex}}
+|special={{m|Shadow Ball}}, {{m|Psychic}}, {{m|Dark Pulse}}
+}}
+|}
+
+====Antique Form====
+{{Spindata/Head|type=Ghost}}
+{{Spindata/GO|col=6|type=Ghost|ndex=0855A
+|hatch=N/A
+|buddy=3
+|candy=Sinistea
+|evolution=N/A
+|stamina=155
+|attack=248
+|defense=189
+|fast={{m|Astonish}}, {{m|Sucker Punch}}, {{m|Hex}}
+|special={{m|Shadow Ball}}, {{m|Psychic}}, {{m|Dark Pulse}}
+}}
+|}
+
+===Form data===
+Polteageist has two separate forms: Phony Form and Antique Form.<ref name="guide">[[Pokémon Sword & Pokémon Shield: The Official Galar Region Strategy Guide]]</ref> Its form is maintained through [[Evolution]] from {{p|Sinistea}} and cannot be changed. 
+
+The Antique Form is rarer and has a stamp of authenticity hidden on the underside of its base. The only functional difference between the two forms is the [[Evolution item]] used by Sinistea to evolve into Polteageist: Phony Form Sinistea requires a [[Cracked Pot]], while Antique Form Sinistea requires a [[Chipped Pot]]. 
+
+Antique Form Polteageist does not obey typical {{DL|Pokémon breeding|Inheriting forms|form inheritance}} rules when breeding, and therefore cannot produce {{pkmn|Egg}}s that contain Antique Form Sinistea. All Sinistea that hatch from Eggs will always be Phony Form, regardless of the parent's form.
+
+In Japanese, the name of Polteageist's forms use 「フォルム」 ''form'', the term otherwise primarily used in the names of forms localized as Forme in English.
+
+{| class="roundy" style="margin:auto; text-align:center; background:#FFF"
+|-
+| class="roundy" width="50%" style="background:#{{grey color}}" | Phony Form<br>[[File:HOME855 b.png|150px]]<br>{{color2|000|Polteageist (Pokémon)|Polteageist}}
+
+| class="roundy" width="50%" style="background:#{{ghost color light}}" | Antique Form<br>[[File:HOME855A b.png|150px]]<br>{{color2|000|Polteageist (Pokémon)|Polteageist}}
+|}
+
+===Evolution data===
+====Phony Form====
+{{evobox-2
+|pictype=sprite
+|type1=Ghost
+|no1=HOME854_b
+|name1=Sinistea
+|type1-1=Ghost
+|evo1={{Bag/s|Cracked Pot|SV}}<br>{{color2|000|Cracked Pot}}
+|no2=HOME855_b
+|name2=Polteageist
+|type1-2=Ghost}}
+
+====Antique Form====
+{{evobox-2
+|pictype=sprite
+|type1=Ghost
+|no1=HOME854A_b
+|name1=Sinistea
+|type1-1=Ghost
+|evo1={{Bag/s|Chipped Pot|SV}}<br>{{color2|000|Chipped Pot}}
+|no2=HOME855A_b
+|name2=Polteageist
+|type1-2=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Ghost}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8/2Forms|ndex=855|form1=A b}}
+<!--{{Spritebox/9/2Forms|ndex=0855|form1=A b}}-->
+{{Spritebox/HOME/3Forms|ndex=0855|form1=_b|form2=A b}}
+{{Spritebox/Footer|855|Polteageist}}
+
+==In animation==
+===Main series===
+[[File:RVT Polteageist.png|thumb|250px|Polteageist in {{aniseries|HZ}}]]
+====Major appearances====
+Phony Form Polteageist debuted in ''[[HZ030|Slip and Crash! A Mystery Pokémon?!]]'', where one wandered aboard the [[Brave Olivine]]. It immediately developed a rivalry with the crew's {{p|Shuckle}} over who created the tastier drink, though this was resolved after the entire crew tried Polteageist's tea later on. It, alongside a {{p|Sinistea}} it had created, later properly joined the [[Rising Volt Tacklers]] on their travels after befriending the Pokémon aboard the airship.
+
+====Minor appearances====
+===Pokémon: Twilight Wings===
+A {{pkmn|Trainer}}'s Polteageist appeared in ''[[TW03|Buddy]]''.
+
+A Trainer's Polteageist appeared in ''[[TW08|The Gathering of Stars]]''.
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ030|Polteageist|Roy's Rotom Phone|Polteageist, the Black Tea Pokémon. A {{t|Ghost}} type. It makes its home in an antique teapot. Those who have drunk the tea that its body is made of have called it an acquired taste.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon Evolutions===
+A Polteageist appeared in ''[[PE01|The Champion]]''.
+
+==In the manga==
+[[File:Professor Magnolia Sinistea Polteageist Adventures.png|thumb|150px|Antique Form Polteageist in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+===={{MangaArc|Sword & Shield}}====
+[[Professor Magnolia]] owns a Polteageist and Sinistea, both in their Antique Form, as shown in ''[[PASS14|Teary!! The Voice of the Master]]''. She found them in [[Glimwood Tangle]] when her car crashed and she was forced to stop to fix it.
+{{-}}
+
+==In the TCG==
+{{main|Polteageist (TCG)}}
+==Trivia==
+* Polteageist and its {{Shiny}} form were designed by [[James Turner]].<ref name=JamesTurner1>@JamesTurner_42 on [https://twitter.com/JamesTurner_42/status/1317232673882959872 Twitter]: There’s a ghost in your tea! 👻 ☕️ It’s Polteageist, a Pokémon I designed for Sword & Shield.</ref><ref>@JamesTurner_42 on [https://twitter.com/JamesTurner_42/status/1317233969184739329 Twitter]: 色違いもデザインしました。</ref>
+* The Polteageist and {{p|Sinistcha}} lines are the only [[ecologically similar Pokémon]] that share a [[type]] and [[Egg Group]]s with each other, as well as the only ones with multiple forms.
+
+===Origin===
+Polteageist is based on a ghost (possibly a {{wp|poltergeist}}, a mischievous ghost that possesses objects) possessing a {{wp|teapot}} full of tea, which has {{wp|Tea in the United Kingdom|historical and cultural significance in the United Kingdom}}, the country [[Galar]] is based on.<ref name=JamesTurner1 /><ref>@JamesTurner_42 on [https://twitter.com/JamesTurner_42/status/1317236099631050752 Twitter]: As a Brit I felt quite a responsibility in designing a cute tea Pokémon 😆</ref> It may also be inspired by {{wp|Jinn|genies}}, which are often depicted residing in {{wp|oil lamp}}s that resemble teapots. Additionally, Polteageist may be based on the yokai Morinji-no-okama or Narigama, which both take the form of possessed kettles.
+
+Polteageist's forms may be based on {{wp|porcelain}} forgeries. One way porcelain makers historically combatted forgeries was to create a {{wp|Seal (emblem)|stamp of authenticity}} on their products, hence the stamp under Antique Form Polteageist.
+
+====Name origin====
+Polteageist may be a combination of ''poltergeist'' and ''{{wp|tea}}''.
+
+Potdeath may be a combination of ''pot'' and ''death'', as well as a pun on ポットです ''potto desu'' ("It's a teapot").
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Ghost
+|ja=ポットデス ''Potdeath''|jameaning=From ''pot'', ''death'', and {{tt|ポットです ''potto desu''|it's a teapot}}
+|fr=Polthégeist|frmeaning=From ''poltergeist'' and ''{{tt|thé|tea}}''
+|es=Polteageist|esmeaning=Same as English name
+|de=Mortipot|demeaning=From ''{{tt|mors|Latin for death}}'', ''tea'', and ''{{tt|Pott|pot}}''
+|it=Polteageist|itmeaning=Same as English name
+|ko=포트데스 ''Potdeath''|komeaning=From ''pot'' and ''death''
+|zh_cmn=怖思壺 / 怖思壶 ''Bùsīhú''|zh_cmnmeaning=From {{tt|怖 ''bù''|terror}}, {{tt|思 ''sī''|thought}}, {{tt|壺 ''hú''|teapot}}, {{tt|不死 ''bùsǐ''|undead}}, and {{tt|不是壺 ''bùshì hú''|not a teapot}}
+|zh_yue=怖思壺 ''Bousīwùh''|zh_yuemeaning=From {{tt|怖 ''bou''|terror}}, {{tt|思 ''sī''|thought}}, and {{tt|壺 ''wùh''|teapot}}
+|ru=Полтигейст ''Poltigeyst''|rumeaning=Transcription of English name
+|hi=डैतली ''Deatlee''|himeaning=From ''death'' or ''deathly'' and {{tt|केतली ''ketlī''|kettle}}
+|th=พอตเดธ ''Photdet''|thmeaning=Transcription of Japanese name
+|vi=Pottodesu|vimeaning=Transcription of Japanese name}}
+{{-}}
+<div style="display:inline-block">
+''Phony Form''
+{{langtable|color={{ghost color}}|bordercolor={{ghost color dark}}
+|ja=がんさくフォルム ''Counterfeit Forme''
+|zh_yue=贗品形態 ''{{tt|Ngaahnbán Yìhngtaai|Counterfeit Forme}}''
+|zh_cmn=贗品形態 / 赝品形态 ''{{tt|Yànpǐn Xíngtài|Counterfeit Forme}}''
+|fr=Forme Contrefaçon
+|de=Fälschungsform
+|hi=फ़ेक फ़ॉर्म ''Fake Form''
+|id=Bentuk Imitasi
+|it=Forma Contraffatta
+|ko=위작품 ''{{tt|Wijakpum|Counterfeit Work}}''
+|ms=Bentuk Palsu
+|pt_br=Forma Falsificada
+|es=Forma Arcaica
+|th=ฟอร์มของปลอม
+|tr=Sahte Formu
+|vi=Dạng Rởm
+}}</div>
+<div style="display:inline-block">
+''Antique Form''
+{{langtable|color={{ghost color}}|bordercolor={{ghost color dark}}
+|ja=しんさくフォルム ''Authentic Forme''
+|zh_yue=真品形態 ''{{tt|Jānbán Yìhngtaai|Authentic Forme}}''
+|zh_cmn=真品形態 / 真品形态 ''{{tt|Zhēnpǐn Xíngtài|Authentic Forme}}''
+|fr=Forme Authentique
+|de=Originalform
+|hi=ऐंटीक फ़ॉर्म ''Antique Form''
+|id=Bentuk Antik Asli
+|it=Forma Autentica
+|ko=진작품 ''{{tt|Jinjakpum|Authentic Work}}''
+|ms=Bentuk Antik
+|pt_br=Forma Autêntica
+|es=Forma Genuina
+|th=ฟอร์มของแท้
+|tr=Antika Formu
+|vi=Dạng Thật
+}}</div>
+
+==Related articles==
+* [[List of Pokémon with form differences]]
+* {{p|Sinistcha}}
+
+==References==
+<references/>
+
+==External links==
+
+{{Ecologically similar Pokémon}}
+
+{{PokémonPrevNext/Head|type=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0854|prev=Sinistea|nextnum=0856|next=Hatenna}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with different forms]]
+
+[[de:Mortipot]]
+[[es:Polteageist]]
+[[fr:Polthégeist]]
+[[it:Polteageist]]
+[[ja:ポットデス]]
+[[zh:怖思壶]]

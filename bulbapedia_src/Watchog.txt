@@ -1,0 +1,551 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Watchog}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0504|prev=Patrat|nextnum=0506|next=Lillipup|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Watchog
+|jname=ミルホッグ
+|jtranslit=Miruhoggu
+|tmname=Miruhog
+|category=Lookout
+|typebox=1
+|type1=Normal
+|abilityn=d
+|ability1=Illuminate
+|ability2=Keen Eye
+|abilityd=Analytic
+|ndex=0505
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=59.5
+|weight-kg=27.0
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=2{{tt|*|1 in Black and White}}
+|evat=2{{tt|*|1 in Black and White}}
+|expyield=147
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=06
+|pokefordex=watchog
+|generation=5
+|friendship=70
+}}
+'''Watchog''' ([[List of Japanese Pokémon names|Japanese]]: '''ミルホッグ''' ''Miruhog'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolve]]s from {{p|Patrat}} starting at [[level]] 20.
+
+==Biology==
+[[File:Lenora Watchog Illuminate.png|thumb|250px|left|Watchog {{a|Illuminate|illuminating}}]]
+Watchog is an upright, meerkat-like {{OBP|Pokémon|species}} with large cheeks and a single, pointed incisor sticking out of its mouth. It is mainly reddish-brown with beige cheeks and neck. There is yellow striping on its chest and tail. Its hands, feet, and tail tip are white. Its red eyes have small black pupils and a yellow stripe. Black markings accentuate the eyes at their outer ends. Its tail is almost exclusively depicted standing up straight, although it can also be kept in a relaxed position.<ref>ポケモン ベストウイッシュ イッシュずかん ISBN 978-4-09-281215-4</ref>
+
+There are luminescent compounds in Watchog's body that allow its stripes and eyes to glow. It uses this ability to threaten predators. Its cheeks can hold a large amount of seeds, which it collects and spits at its opponents. Watchog possess night vision and can view its surroundings in the darkness.
+
+===Evolution===
+Watchog evolves from {{p|Patrat}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|pictype=art
+|type1=Normal
+|no1=0504
+|name1=Patrat
+|type1-1=Normal
+|evo1=
+|no2=0505
+|name2=Watchog
+|type1-2=Normal}}</div>
+
+==Game data==
+===NPC appearances===
+*{{g|Super Mystery Dungeon}}: Watchog is the vice-principal at the [[Serene Village]] school. He cares highly about the school's reputation and is afraid of problems at the school. He considers the player and partner to be problem children.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=011}}
+{{Dex/Entry1|v=Black|t=FFF|entry=When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.}}
+{{Dex/Entry1|v=White|entry=They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=047|label1=Mountain|reg2=Hoenn }}
+{{Dex/Entry1|v=X|t=FFF|entry=Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Route]]s {{rtn|7|Unova}} and {{rtn|18|Unova}}, [[P2 Laboratory]]<br>[[Route]]s {{rtn|1|Unova}} and {{rtn|15|Unova}} ({{DL|Tall grass|dark grass}})<br>[[Dreamyard]] (Ruins; {{DL|Tall grass|dark grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|1|Unova}}, {{rtn|2|Unova}}, {{rtn|3|Unova}}, {{rtn|7|Unova}}, and {{rtn|18|Unova}}, [[Dreamyard]], [[P2 Laboratory]]<br>[[Route]]s {{rtn|2|Unova}} and {{rtn|7|Unova}} ([[Hidden Grotto]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|15|Kalos}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Trailhead Field]] (post ending)}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace - Eastern Spire]] (1F-12F), [[Moonlit Forest]] (Uncharted Road), [[Rusty Mountain]] (Uncharted Road, Gilded Hall), [[Jaws of the Abyss]] (Gilded Hall), [[Smoking Mountain]] (Gilded Hall), [[Skill Treasury]] (1F-15F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Dream Gate#Wet and Wild Battle|Dream Gate: Wet and Wild Battle]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 1|Safari Jungle: Stage 1]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Trailhead Field|White Ruins: Trailhead Field]] <small>(All Areas)</small>, [[Starlight Islands#Surveillance Dunes|Starlight Islands: Surveillance Dunes]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Gengar Sea]], [[Aegislash Sea]], [[Buzzwole Sea]], [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 384]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Lenora|Watchog}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{Base stats
+|HP=60
+|Attack=85
+|Defense=69
+|SpAtk=60
+|SpDef=69
+|Speed=77
+|type=Normal
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Flying=100
+|Fighting=200
+|Ground=100
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+Watchog was last available in {{pkmn|Sun and Moon|Sun, Moon}}, {{pkmn|Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon}}. It is unavailable in [[Generation VIII]] and {{gen|IX}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Watchog|Normal|Normal|5}}
+{{learnlist/level7|1|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/level7|1|Rototiller|Ground|Status|—|—|10}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|1|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/level7|3|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|6|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|8|Bide|Normal|Physical|—|—|10}}
+{{learnlist/level7|11|Detect|Fighting|Status|—|—|5}}
+{{learnlist/level7|13|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|16|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|18|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level7|22|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/level7|25|After You|Normal|Status|—|—|15}}
+{{learnlist/level7|29|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level7|32|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/level7|36|Hyper Fang|Normal|Physical|80|90|15||'''}}
+{{learnlist/level7|39|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level7|43|Mean Look|Normal|Status|—|—|5}}
+{{learnlist/level7|46|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level7|50|Slam|Normal|Physical|80|75|20||'''}}
+{{learnlist/levelf/7|Watchog|Normal|Normal|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/7|Watchog|Normal|Normal|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Watchog|Normal|Normal|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Watchog|Normal|Normal|5}}
+{{learnlist/breed7|{{MSP/6|019|Rattata}}{{MSP/6|019A|Rattata}}{{MSP/6|020|Raticate}}{{MSP/6|020A|Raticate}}{{MSP/6|052|Meowth}}{{MSP/6|052A|Meowth}}{{MSP/6|053|Persian}}{{MSP/6|053A|Persian}}{{MSP/6|056|Mankey}}{{MSP/6|057|Primeape}}{{MSP/6|197|Umbreon}}{{MSP/6|203|Girafarig}}{{MSP/6|232|Donphan}}{{MSP/6|261|Poochyena}}{{MSP/6|262|Mightyena}}{{MSP/6|461|Weavile}}{{MSP/6|498|Tepig}}{{MSP/6|499|Pignite}}{{MSP/6|500|Emboar}}{{MSP/6|509|Purrloin}}{{MSP/6|510|Liepard}}{{MSP/6|527|Woobat}}{{MSP/6|528|Swoobat}}{{MSP/6|551|Sandile}}{{MSP/6|552|Krokorok}}{{MSP/6|553|Krookodile}}|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP/6|573|Cinccino}}|Bullet Seed|Grass|Physical|25|100|30|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP/6|206|Dunsparce}}{{MSP/6|220|Swinub}}{{MSP/6|231|Phanpy}}{{MSP/6|263|Zigzagoon}}{{MSP/6|287|Slakoth}}{{MSP/6|289|Slaking}}{{MSP/6|324|Torkoal}}{{MSP/6|327|Spinda}}{{MSP/6|613|Cubchoo}}{{MSP/6|614|Beartic}}{{MSP/6|659|Bunnelby}}{{MSP/6|660|Diggersby}}{{MSP/6|759|Stufful}}{{MSP/6|760|Bewear}}{{MSP/6|775|Komala}}|Flail|Normal|Physical|—|100|15||'''}}
+{{learnlist/breed7|{{MSP/6|161|Sentret}}{{MSP/6|162|Furret}}{{MSP/6|300|Skitty}}{{MSP/6|427|Buneary}}{{MSP/6|428|Lopunny}}{{MSP/6|448|Lucario}}|Foresight|Normal|Status|—|—|40}}
+{{learnlist/breed7|{{MSP/6|032|Nidoran♂}}{{MSP/6|111|Rhyhorn}}{{MSP/6|179|Mareep}}|Iron Tail|Steel|Physical|100|75|15|*}}
+{{learnlist/breed7|{{MSP/6|019|Rattata}}{{MSP/6|019A|Rattata}}{{MSP/6|020|Raticate}}{{MSP/6|020A|Raticate}}{{MSP/6|056|Mankey}}{{MSP/6|057|Primeape}}{{MSP/6|128|Tauros}}{{MSP/6|197|Umbreon}}{{MSP/6|206|Dunsparce}}{{MSP/6|335|Zangoose}}{{MSP/6|359|Absol}}{{MSP/6|418|Buizel}}{{MSP/6|419|Floatzel}}{{MSP/6|509|Purrloin}}{{MSP/6|510|Liepard}}{{MSP/6|522|Blitzle}}{{MSP/6|523|Zebstrika}}{{MSP/6|570|Zorua}}{{MSP/6|571|Zoroark}}{{MSP/6|587|Emolga}}{{MSP/6|626|Bouffalant}}{{MSP/6|734|Yungoos}}{{MSP/6|735|Gumshoos}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP/6|335|Zangoose}}{{MSP/6|461|Weavile}}{{MSP/6|501|Oshawott}}{{MSP/6|502|Dewott}}{{MSP/6|503|Samurott}}{{MSP/6|626|Bouffalant}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP/6|023|Ekans}}{{MSP/6|024|Arbok}}{{MSP/6|052|Meowth}}{{MSP/6|052A|Meowth}}{{MSP/6|053|Persian}}{{MSP/6|053A|Persian}}{{MSP/6|054|Psyduck}}{{MSP/6|055|Golduck}}{{MSP/6|056|Mankey}}{{MSP/6|057|Primeape}}{{MSP/6|190|Aipom}}{{MSP/6|424|Ambipom}}{{MSP/6|197|Umbreon}}{{MSP/6|206|Dunsparce}}{{MSP/6|215|Sneasel}}{{MSP/6|461|Weavile}}{{MSP/6|293|Whismur}}{{MSP/6|294|Loudred}}{{MSP/6|295|Exploud}}{{MSP/6|336|Seviper}}{{MSP/6|352|Kecleon}}{{MSP/6|434|Stunky}}{{MSP/6|435|Skuntank}}|Screech|Normal|Status|—|85|40}}
+{{learnlist/breed7|{{MSP/6|235|Smeargle}}|Tearful Look|Normal|Status|—|—|20|{{sup/7|USUM}}}}
+{{learnlist/breedf/7|Watchog|Normal|Normal|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Watchog|Normal|Normal|5}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Watchog|Normal|Normal|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/7|Watchog|Normal|Normal|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Watchog|Normal|Normal|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/7|Watchog|Normal|Normal|5}}
+{{learnlist/prevgen7|Watchog|5|Cut|Normal|Physical|50|95|30||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Watchog|5|Dig|Ground|Physical|80|100|10|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Watchog|5|Flash|Normal|Status|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Watchog|5|Power-Up Punch|Fighting|Physical|40|100|20|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Watchog|5|Retaliate|Normal|Physical|70|100|5||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Watchog|5|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen7|Watchog|5|Secret Power|Normal|Physical|70|100|20||'''|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Watchog|5|Strength|Normal|Physical|80|100|15||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgenf/7|Watchog|Normal|Normal|5}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/PSMD|col=6|type=Normal|ndex=505
+|coset=3
+|conto={{p|Exeggcute}}, {{p|Porygon}}, {{p|Simipour}}
+|recruitment=Talk to in [[Serene Village]]
+|P1=As the vice principal, perhaps I could give a nice speech or two here... ...Or perhaps not.
+|P2=Eeek! (How do I get out of this...?)
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=505
+|walk=1.67
+|hp=51
+|attack=75
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=505
+|pad=He is taking care of {{p|Patrat}}. He likes to see new things before anyone else. He can be a scatterbrain.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=505
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=505|num=531
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Rock Break+
+|skilldesc=Sometimes destroys three breakable-rock disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=505
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=155
+|attack=165
+|defense=139
+|fast={{m|Low Kick}}, {{m|Bite}}
+|special={{m|Crunch}}, {{m|Hyper Fang}}, {{m|Grass Knot}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|pictype=art
+|type1=Normal
+|no1=0504
+|name1=Patrat
+|type1-1=Normal
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0505
+|name2=Watchog
+|type1-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=505}}
+{{Spritebox/6|ndex=505|crop=86}}
+{{Spritebox/7|ndex=505|crop=87}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0505}}
+{{Spritebox/Footer|505|Watchog}}
+
+==In animation==
+===Main series===
+[[File:Exceed Watchog.png|thumb|250px|Watchog in {{aniseries|HZ}}]]
+====Major appearances====
+A Watchog debuted in ''[[BW014|A Night in the Nacrene City Museum!]]'', under the ownership of [[Lenora]]. This also marked the species' debut. It first used its {{a|Illuminate}} [[Ability]] to reveal {{p|Yamask}}'s presence. It then battled {{Ash}} in a [[Gym]] {{pkmn|battle}} in ''[[BW015|The Battle According to Lenora!]]'', where it defeated his {{AP|Oshawott}} with {{m|Thunderbolt}}. It appeared again in ''[[BW016|Rematch at the Nacrene Gym!]]'', where it was defeated by Oshawott's {{m|Aqua Jet}}.
+
+In ''[[BW025|Emolga and the New Volt Switch!]]'', three Watchog lived in an apple tree, and attacked {{TP|Iris|Emolga}}, {{TP|Iris|Axew}}, and Oshawott when they tried to retrieve some apples for Emolga. However, they enraged a {{p|Simisear}} in the process, and were scared away by its {{m|Flamethrower}}.
+
+In ''[[BW040|Cilan Versus Trip, Ash Versus Georgia!]]'', [[Jimmy Ray]]'s male Watchog lost to [[Iris's Emolga]] during the first round of the [[Club Battle]] after he was hit by {{m|Attract}} and then {{m|Hidden Power}}.
+
+In ''[[BW077|Evolution by Fire!]]'', [[Kylan]]'s Watchog battled [[Shamus]] in a [[Double Battle]] along with a {{p|Mienshao}}, but both were defeated.
+
+In ''[[BW103|Curtain Up, Unova League!]]'', [[Mikael]]'s Watchog battled [[Bianca's Emboar]] during the qualifying round of the [[Vertress Conference]]. It lost in [[BW104|the next episode]].
+
+In ''[[BW115|The Pokémon Harbor Patrol!]]'', a Watchog was a member of a rescue team managed by a harbor patrolman named [[Halsey]]. While originally used only for crowd control and as a lookout, Watchog, with the help of {{an|N}}, proved itself to be a capable and valuable asset to its team.
+
+In ''[[BW125|Cilan and the Case of the Purrloin Witness!]]'', [[Mrs. Ripple]] used a Watchog as a guard to watch over her jewels.
+
+====Minor appearances====
+In ''[[BW033|Iris and Excadrill Against the Dragon Buster!]]'', {{an|Iris}}'s flashback featured a {{pkmn|Trainer}}'s Watchog.
+
+Two Trainers' Watchog appeared in ''[[BW067|Cilan Takes Flight!]]''.
+
+Multiple Watchog appeared in ''[[BW069|Climbing the Tower of Success!]]'', with one under the ownership of a Trainer and the rest being {{pkmn2|wild}}.
+
+In ''[[BW083|Rocking the Virbank Gym! Part 1]]'', a Trainer's Watchog was revealed to have lost to [[Roxie]] in a [[Gym]] {{pkmn|battle}}.
+
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', the {{OBP|Swords of Justice|M15}} legend featured multiple Watchog.
+
+A Trainer's Watchog appeared in ''[[BW090|Jostling for the Junior Cup!]]''.
+
+A Trainer's Watchog appeared in ''[[BW106|Strong Strategy Steals the Show!]]''.
+
+A Trainer's Watchog appeared in ''[[BW107|Cameron's Secret Weapon!]]''.
+
+In ''[[BW108|A Unova League Evolution!]]'', {{un|Cameron}} was revealed to have used a Watchog during his Vertress Conference battle but lost, its image appearing on the scoreboard.
+
+A Watchog appeared in ''[[BW119|Meowth, Colress and Team Rivalry!]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', a Watchog owned by some {{tc|Worker}}s in [[New Tork City]] was keeping watch next to some roadworks.
+
+In ''[[BW134|The Journalist from Another Region!]]'', a Trainer's Watchog was entered into the [[Pokémon Sumo Tournament]] on [[Harvest Island]]. It was eventually defeated by [[Ash's Pignite]].
+
+A Watchog appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Watchog appeared in ''[[XY008|Grooming Furfrou!]]''.
+
+A Watchog appeared in ''[[XY028|The Bonds of Evolution!]]''.
+
+A Watchog appeared in a flashback or a fantasy in ''[[XY035|The Forest Champion!]]''.
+
+A Watchog appeared in ''[[XY073|A Fashionable Battle!]]''.
+
+In ''[[XY105|Party Dancecapades!]]'', a {{pkmn|Performer}}'s Watchog attended [[Monsieur Pierre]]'s dance party.
+
+A Watchog appeared in a flashback in ''[[XY108|A Watershed Moment!]]''.
+
+A Trainer's Watchog appeared in ''[[XY125|A League of His Own!]]''.
+
+Multiple Watchog appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''. One appeared during a flashback, while another was a resident of the [[Nebel Plateau]].
+
+A Trainer's Watchog appeared in ''[[XY137|Battling With a Clean Slate!]]''.
+
+A Trainer's Watchog appeared in ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+Three Watchog appeared in ''[[XY140|Till We Compete Again!]]'', each under the ownership of a different Trainer.
+
+Multiple Watchog appeared in a fantasy in ''[[JN048|A Close Call... Practically!]]''.
+
+A Trainer's Watchog appeared in ''[[JN141|A Squad's Worth of Passion!]]''.
+
+A Watchog appeared in ''[[HZ054|The Treasure of Eternity]]'', under the ownership of an [[Exceed]] security officer. It reappeared in ''[[HZ083|The Truth Revealed!]]'', having caught [[Amethio]], [[Zirc]], and [[Onia]] snooping around.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW014|Watchog|Ash's Pokédex|Watchog, the Lookout Pokémon, and the evolved form of {{p|Patrat}}. Watchog's body contains luminescent compounds, which allow its eyes and stripes to {{a|Illuminate|glow}}.}}
+{{Animedexbody|BW115|Watchog|Ash's Pokédex|Watchog, the Lookout Pokémon. The markings on Watchog's body can glow to intimidate its foes. It has excellent vision, even in darkness.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===GOTCHA!===
+A Watchog briefly appeared in [[GOTCHA!]], under the ownership of [[Lenora]].
+
+===Pokémon Evolutions===
+A Watchog briefly appeared in ''[[PE04|The Plan]]'', under the ownership of a Trainer who was listening to [[Ghetsis]]'s speech in [[Accumula Town]].
+
+==In the manga==
+[[File:Team Plasma Watchog Adventures.png|thumb|180px|Watchog in [[Pokémon Adventures]]]]
+===Be the Best! Pokémon B+W===
+A Watchog appeared in ''[[PBW1|Advance Toward the Path of the Strongest!]]''.
+
+[[Monta]]'s {{p|Patrat}} evolved into a Watchog during a {{pkmn|battle}} with a {{pkmn2|wild}} {{p|Emolga}}.
+
+===Movie adaptations===
+A Watchog appeared in the {{ma|Volcanion and the Mechanical Marvel|manga adaptation}} of ''[[M19|Volcanion and the Mechanical Marvel]]'' as a resident of the [[Nebel Plateau]].
+
+===Pocket Monsters BW===
+A Watchog appeared in [[PMBW05]].
+
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Watchog appeared in ''[[FAT1|Justice Trainer Shin Appears!]]'', under the ownership of [[Togari]]. It was used in Togari's first {{pkmn|battle}} against {{OBP|Shin|FAT}}, who was rescuing a girl's {{p|Cottonee}} from him.
+
+===Pokémon Adventures===
+{{adv|Black}} was attacked by a Watchog used by three {{tc|Team Plasma Grunt}}s in ''[[PS471|Battle at the Dreamyard]]''. At first, he mistook the pattern on its body as the head of a much larger Pokémon but eventually figured out its true identity. The Watchog was adopted by [[Amanita]] and [[Fennel]] afterwards.
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS471|Battle at the Dreamyard]]|They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Watchog (TCG)}}
+
+==Trivia==
+* In {{game|Black and White|s}}, Watchog was the only Pokémon to have the same {{EV}} yield as its {{p|Patrat|pre-Evolution}}, and the only evolved Pokémon to only give a single EV, giving one EV in Attack.
+** Because its EV yield was 2 Attack in {{B2W2}}, Watchog is the only Pokémon to have its EV yield changed within a [[generation]].
+* Watchog is the only evolved Pokémon with a [[catch rate]] of 255.
+* Despite its [[Pokédex entry|Pokédex entries]] from Black, Y, and Alpha Sapphire stating Watchog spits the seeds of berries stored in their cheek pouches, Watchog couldn't learn {{m|Bullet Seed}} until {{g|Ultra Sun and Ultra Moon}}.
+* As of {{g|Scarlet and Violet}}, both of Watchog's abilites have the same effect. However, Watchog is unavailable in these games.
+
+===Origin===
+Watchog's name suggests that it is based on a {{wp|groundhog}}, although, like its pre-Evolution, it also resembles a {{wp|chipmunk}}, {{wp|meerkat}} or {{wp|prairie dog}}. Its design is possibly based on a road worker, with the body resembling a {{wp|personal protective equipment|protective suit}} and the yellow stripes forming a {{wp|High-visibility clothing|safety vest}}. Its penchant for moves that interrupt the standard flow of battle could allude to {{wp|traffic guard}}s and their ability to override {{wp|Traffic#Rules_of_the_road|the rules of the road}}.
+
+====Name origin====
+Watchog may be a combination of ''watch'' and ''groundhog'', as well as a play on {{wp|guard dog|watchdog}}, or "watch out".
+
+Miruhog may be a combination of 見る ''miru'' (to observe) and ''groundhog''.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ミルホッグ ''Miruhog''|jameaning=From {{tt|見る ''miru''|to see; to observe}} and ''groundhog''
+|fr=Miradar|frmeaning=From ''{{tt|mirador|observation tower}}'' and ''radar''
+|es=Watchog|esmeaning=Same as English name
+|de=Kukmarda|demeaning=From ''{{tt|gucken|to peek}}'' and ''{{tt|Marder|marten}}'', as well as a play on ''{{tt|Guck mal da|Look over there}}''
+|it=Watchog|itmeaning=Same as English name
+|ko=보르그 ''Borugu''|komeaning=From {{tt|볼 ''bol''|looking}} and ''groundhog''
+|zh_cmn=步哨鼠 ''Bùshàoshǔ''|zh_cmnmeaning=From {{tt|步哨 ''bùshào''|sentinel}} and {{tt|鼠 ''shǔ''|rat}}
+|zh_yue=步哨鼠 ''Bouhsaausyú''|zh_yuemeaning=From {{tt|步哨 ''bouhsaau''|sentinel}} and {{tt|鼠 ''syú''|rat}}
+|hi=पहरॉग ''Paharog''|himeaning=From {{tt|पहरा ''pahara''|guard}} and ''dog''
+|ru=Уачхог ''Uachkhog''|rumeaning=Transcription of English name
+|th=มิรูฮอก ''Miruhok''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0504|prev=Patrat|nextnum=0506|next=Lillipup}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kukmarda]]
+[[es:Watchog]]
+[[fr:Miradar]]
+[[it:Watchog]]
+[[ja:ミルホッグ]]
+[[zh:步哨鼠]]
+
+[[Category:Pokémon whose EV yield changed]]

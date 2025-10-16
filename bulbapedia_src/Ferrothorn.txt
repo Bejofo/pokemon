@@ -1,0 +1,488 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Steel}}
+{{PokémonPrevNext/GO|species=Ferrothorn}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0597|prev=Ferroseed|nextnum=0599|next=Klink|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Ferrothorn
+|jname=ナットレイ
+|jtranslit=Nattorei
+|tmname=Nutrey
+|category=Thorn Pod
+|typebox=1
+|type1=Grass
+|type2=Steel
+|abilityn=d
+|ability1=Iron Barbs
+|abilityd=Anticipation
+|abilitydcaption=Gen VI+
+|ndex=0598
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=242.5
+|weight-kg=110.0
+|egggroupn=2
+|egggroup1=Grass
+|egggroup2=Mineral
+|eggcycles=20
+|expyield=171
+|lv100exp=1,000,000
+|gendercode=127
+|color=Gray
+|catchrate=90
+|evtotal=2
+|evde=2
+|body=10
+|pokefordex=ferrothorn
+|generation=5
+|friendship=70
+}}
+'''Ferrothorn''' ([[List of Japanese Pokémon names|Japanese]]: '''ナットレイ''' ''Nutrey'') is a dual-type {{2t|Grass|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Ferroseed}} starting at [[level]] 40.
+
+==Biology==
+Ferrothorn is a {{OBP|Pokémon|species}} resembling a flattened durian. Its metallic body is covered in thorns, with three black stripes circling its width. The middle stripe has triangular shapes just below its eyes, which have green rims, yellow sclerae, and dark pupils. There is a green spike at the top of its body, and extending around it are its feelers, which are vine-like, long green appendages tipped with spiky metal disks.
+
+Ferrothorn can use these feelers to either cling onto the ceilings of a cave or walk around. Ferrothorn also uses the feelers to absorb nutrients from rocks. It attacks by shooting its spikes, which are harder than steel. Ferrothorn's steel spikes are strong enough to smash boulders and incapacitate opponents.
+
+Prior to [[Generation VII]], Ferrothorn and its pre-evolved form, {{p|Ferroseed}}, were the [[Signature Ability|only known Pokémon]] that could have {{a|Iron Barbs}} as an [[Ability]].
+
+===Evolution===
+Ferrothorn evolves from {{p|Ferroseed}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|type1=Grass
+|type2=Steel
+|no1=0597
+|name1=Ferroseed
+|type1-1=Grass
+|type2-1=Steel
+|evo1=
+|no2=0598
+|name2=Ferrothorn
+|type1-2=Grass
+|type2-2=Steel}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Steel}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=104|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=176|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.}}
+{{Dex/Entry1|v=White|entry=They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=070|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=190|reg2=Galar|num2=180|label2=Crown Tundra|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Ferroseed}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Ferroseed}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Ferroseed}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Dusty Bowl]]<br>[[Bridge Field]] ([[Wanderer]])<br>[[Bridge Field/Dens|Bridge Field]], [[Dappled Grove/Dens|Dappled Grove]], [[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Giant's Seat/Dens|Giant's Seat]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Lakeside Cave]] ([[Wanderer]])<br>[[Slippery Slope/Dens|Slippery Slope]], [[Crown Shrine/Dens|Crown Shrine]], [[Giant's Foot/Dens|Giant's Foot]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#A Very Chaotic Battle!|Toy Collection: A Very Chaotic Battle!]], [[Challenge Battle#Open Entry Battle Royale|Challenge Battle: Open Entry Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 1|Dragon Hill: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Rugged Flats|Black Realm: Rugged Flats]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Jirachi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 460]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Grass|type2=Steel|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|40, 50, 60|September 1 to 30, 2020|link=Wild Area News#September 1 to 30, 2020}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Grass|type2=Steel}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Sticky Barb|5}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|type2=Steel
+|HP=74
+|Attack=94
+|Defense=131
+|SpAtk=54
+|SpDef=116
+|Speed=20}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Steel
+|Normal=50
+|Fighting=200
+|Flying=100
+|Poison=0
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=400
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=50
+|Ice=100
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=2
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+===Learnset===
+Ferrothorn is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Ferrothorn|Grass|Steel|5}}
+{{learnlist/level8|1|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level8|1|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level8|1|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/level8|15|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/level8|20|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/level8|25|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level8|30|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level8|35|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level8|43|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level8|49|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/level8|56|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/levelf/8|Ferrothorn|Grass|Steel|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Ferrothorn|Grass|Steel|5}}
+{{learnlist/tm8|TM07|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM20|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM42|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/tm8|TM50|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm8|TM97|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR23|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR52|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tr|TR57|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tr|TR59|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tr|TR70|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tr|TR72|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/tr|TR74|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tr|TR76|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tr|TR79|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/tr|TR99|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tmf/8|Ferrothorn|Grass|Steel|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Ferrothorn|Grass|Steel|5}}
+{{learnlist/breed8|{{MSP/8c|568|Trubbish}}{{MSP/8c|569|Garbodor}}{{MSP/8c|841|Flapple}}|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/breed8|{{MSP/8c|874|Stonjourner}}|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/breed8|{{MSP/8c|114|Tangela}}{{MSP/8c|465|Tangrowth}}{{MSP/8c|271|Lombre}}{{MSP/8c|272|Ludicolo}}{{MSP/8c|810|Grookey}}{{MSP/8c|811|Thwackey}}{{MSP/8c|812|Rillaboom}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|102|Exeggcute}}{{MSP/8c|103|Exeggutor}}{{MSP/8c|103A|Exeggutor}}{{MSP/8c|315|Roselia}}{{MSP/8c|407|Roserade}}{{MSP/8c|420|Cherubi}}{{MSP/8c|421|Cherrim}}{{MSP/8c|546|Cottonee}}{{MSP/8c|547|Whimsicott}}{{MSP/8c|556|Maractus}}{{MSP/8c|708|Phantump}}{{MSP/8c|709|Trevenant}}{{MSP/8c|764|Comfey}}{{MSP/8c|841|Flapple}}{{MSP/8c|842|Appletun}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed8|{{MSP/8c|043|Oddish}}{{MSP/8c|044|Gloom}}{{MSP/8c|045|Vileplume}}{{MSP/8c|182|Bellossom}}{{MSP/8c|315|Roselia}}{{MSP/8c|407|Roserade}}{{MSP/8c|568|Trubbish}}{{MSP/8c|569|Garbodor}}{{MSP/8c|590|Foongus}}{{MSP/8c|591|Amoonguss}}|Toxic|Poison|Status|—|90|10}}
+{{learnlist/breedf/8|Ferrothorn|Grass|Steel|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Ferrothorn|Grass|Steel|5}}
+{{learnlist/tutor8|Steel Beam|Steel|Special|140|95|5||'''|yes|no}}
+{{learnlist/tutor8|Steel Roller|Steel|Physical|130|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Ferrothorn|Grass|Steel|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Ferrothorn|Grass|Steel|5}}
+{{Learnlist/prevo8null}}
+{{learnlist/prevof/8|Ferrothorn|Grass|Steel|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Ferrothorn|Grass|Steel|5}}
+{{learnlist/prevgen8|Ferrothorn|5|Aerial Ace|Flying|Physical|60|—|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Block|Normal|Status|—|—|5|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Endeavor|Normal|Physical|—|100|5|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Flash|Normal|Status|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ferrothorn|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ferrothorn|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ferrothorn|5|Hone Claws|Dark|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Magnet Rise|Electric|Status|—|—|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Mirror Shot|Steel|Special|65|85|10||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Ferrothorn|5|Nature Power|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ferrothorn|5|Rock Climb|Normal|Physical|90|85|20|V=yes<!--level,breed-->|VI=yes<!--level,breed-->|VII=yes<!--level,breed-->|x=yes}}
+{{learnlist/prevgen8|Ferrothorn|5|Rock Polish|Rock|Status|—|—|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Rollout|Rock|Physical|30|90|20|V=yes<!--level,level-->|VI=yes<!--level,level-->|VII=yes<!--level,level-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ferrothorn|5|Strength|Normal|Physical|80|100|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ferrothorn|5|Worry Seed|Grass|Status|—|100|10|V=yes<!--breed,tutor-->|VI=yes<!--breed,tutor-->|VII=yes<!--breed,tutor-->}}
+{{learnlist/prevgenf/8|Ferrothorn|Grass|Steel|5}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Steel}}
+{{Spindata/PSMD|col=6|type=Grass|ndex=598
+|coset=28
+|conto={{p|Luxio}}, {{p|Luxray}}, {{p|Golurk}}
+|recruitment=Introduced by {{p|Golurk}}
+|P1=I'm the great Mr. Ferrothorn. Young ones behvaing badly bring out my thorny side!
+|P2=It seems my poor performance is now bringing out my thorny side…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=3
+|def=5
+|speed=2
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=598
+|walk=1.67
+|hp=54
+|attack=78
+|defense=63
+|speed=50
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=598
+|strong=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|pad=He went quite far in a Battle Tournament in the [[Crag Area]]. Now he lives quietly in the [[Arbor Area]].
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=598
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=598|num=628
+|min=60
+|max=125
+|raisemaxlevel=15
+|skill=Block Smash+
+|skilldesc=Sometimes clears three unbreakable-block disruptions.
+|swapper=Hitting Streak+
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=598
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=179
+|attack=158
+|defense=223
+|fast={{m|Bullet Seed}}, {{m|Metal Claw}}
+|special={{m|Power Whip}}, {{m|Flash Cannon}}, {{m|Acid Spray}}, {{m|Thunder}}, {{m|Mirror Shot}}{{tt|*|From December 11, 2019 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|type1=Grass
+|type2=Steel
+|no1=0597
+|name1=Ferroseed
+|type1-1=Grass
+|type2-1=Steel
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}
+|no2=0598
+|name2=Ferrothorn
+|type1-2=Grass
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Steel}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=598}}
+{{Spritebox/6|ndex=598|crop=139}}
+{{Spritebox/7|ndex=598|crop=131}}
+{{Spritebox/8|ndex=598}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0598}}
+{{Spritebox/Footer|598|Ferrothorn}}
+
+==In animation==
+[[File:Goh Ferrothorn.png|thumb|250px|Ferrothorn in {{aniseries|JN}}]]
+===Major appearances===
+Ferrothorn debuted in ''[[BW089|Iris and the Rogue Dragonite!]]'', under the ownership of the [[Officer Jenny]] at [[Undella Town]]. It was used in an attempt to capture a {{TP|Iris|Dragonite}} that was causing problems in the town.
+
+In ''[[BW094|The Road to Humilau!]]'', {{un|Cameron}} used a Ferrothorn during his [[Gym]] {{pkmn|battle}} against [[Marlon]]. It defeated his {{p|Jellicent}} before losing to {{p|Mantine}}. Ferrothorn made further appearances during the [[Vertress Conference]].
+
+In ''[[JN044|Sword and Shield: "From Here to Eternatus!"]]'', [[Rose]] sent out a Ferrothorn to battle [[Ash's Pikachu]] and {{AP|Riolu}} alongside his {{p|Copperajah}}. In ''[[JN045|Sword and Shield... The Legends Awaken!]]'', it was defeated.
+
+A {{DL|List of Goh's Pokémon|Ferrothorn}} appeared in ''[[JN080|Trial on a Golden Scale!]]'', where it was caught by [[Goh]].
+
+===Minor appearances===
+A Ferrothorn appeared in the ending credits of ''[[PK25|Eevee & Friends]]''.
+
+A {{pkmn|Trainer}}'s Ferrothorn appeared in ''[[M23|Secrets of the Jungle]]''.
+
+===Pokédex entries===
+{{Animedexheader|Galar}}
+{{Animedexbody|JN080|Ferrothorn|Goh's Rotom Phone|Ferrothorn, the Thorn Pod Pokémon. A {{t|Grass}} and {{t|Steel}} type. Ferrothorn has thorns stronger than steel.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Rose Ferrothorn Adventures.png|thumb|200px|Ferrothorn in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+In ''[[PS512|Hallway Hijinks]]'', a Ferrothorn was seen under the ownership of a {{tc|Hoopster}}, who was one of the 32 qualified participants in the [[Pokémon League (Unova)|Unova Pokémon League]].
+
+[[Rose]]'s Ferrothorn appeared in ''[[PASS27|Shock!! Chairman Rose's Plan]]''.
+
+A Ferrothorn appeared in ''[[PASS32|Boom!! Reunion in a New Land]]''.
+{{-}}
+
+==In the TCG==
+{{main|Ferrothorn (TCG)}}
+
+==Trivia==
+* No other Pokémon has the same [[Egg Group]] combination as Ferrothorn and its pre-evolved form, {{p|Ferroseed}}.
+** Ferrothorn and its pre-evolved form are also the only {{type|Steel}} Pokémon in the {{egg3|Grass}}.
+* Ferrothorn is the only Steel-type Pokémon {{DL|List of Pokémon by shape|Pokémon with tentacles or a multiped body|with a multiped body}}.
+* Ferrothorn is tied with {{p|Kartana}} for the highest base {{stat|Defense}} stat of all {{type|Grass}} Pokémon.
+** Coincidentally, both are also part Steel-type Pokémon.
+* According to [[Ken Sugimori]], {{p|Foongus}}, {{p|Amoonguss}}, {{p|Ferroseed}}, and Ferrothorn were all designed by the same designer.<ref name=ND205>''Nintendo Dream'' Vol. 205, May 2011 ([https://web.archive.org/web/20110402003550/http://shellspider.blog101.fc2.com/blog-entry-562.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream/ Translation by Dr. Lava])</ref>
+* In {{aniseries|HZ}}, [[Brassius]] made a mug modeled after a Ferrothorn.
+
+===Origin===
+Ferrothorn is based on certain plants whose seeds stick to clothing,<ref name=ND205/> such as {{wp|Xanthium|cockleburs}}, {{wp|Arctium|burdocks}}, or {{wp|Galium aparine|cleavers}}. Ferrothorn could also be based on {{wp|durian}}s or the ''{{wp|Tribulus}}''; the latter is a species of thorny plants whose name also refers to {{wp|caltrop}}s, which are thorny metallic traps used to slow down invading troops. Its vines resemble {{wp|flail (weapon)|military flails}}, while their use as such is comparable to some {{wp|Victoria (plant)|giant water lilies}}, which grow thorny buds from long {{wp|petiole}}s and swing them around to push away or kill neighboring plants.
+
+====Name origin====
+Ferrothorn may be a combination of ''ferrous'' (containing iron) and ''thorn''.
+
+Nutrey may be a combination of ''nut'' and 唖鈴 ''arei'' (dumbbell).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Steel
+|ja=ナットレイ ''Nutrey''|jameaning=From ''nut'' and {{tt|唖鈴 ''arei''|dumbbell}}
+|fr=Noacier|frmeaning=From ''{{tt|noix|nut}}'' and ''{{tt|acier|steel}}''
+|es=Ferrothorn|esmeaning=Same as English name
+|de=Tentantel|demeaning=From ''{{tt|Tentakel|tentacle}}'' and ''{{tt|Hantel|dumbbell}}''
+|it=Ferrothorn|itmeaning=Same as English name
+|ko=너트령 ''Nutryung''|komeaning=From ''nut'' and {{tt|아령 (啞鈴) ''aryeong''|dumbbell}}
+|zh_cmn=堅果啞鈴 / 坚果哑铃 ''Jiānguǒyǎlíng''|zh_cmnmeaning=From {{tt|堅果 / 坚果 ''jiānguǒ''|nut}} and {{tt|啞鈴 / 哑铃 ''yǎlíng''|dumbbell}}
+|zh_yue=堅果啞鈴 ''Gīngwó'álìhng''|zh_yuemeaning=From {{tt|堅果 ''gīngwó''|nut}} and {{tt|啞鈴 ''álìhng''|dumbbell}}
+|hi=डंबलनट ''Dumbbellnut''|himeaning=From ''dumbbell'' and ''nut''
+|ru=Ферроторн ''Ferrotorn''|rumeaning=Transcription of English name
+|th=นัทเทรย์ ''Natthre''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0597|prev=Ferroseed|nextnum=0599|next=Klink}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Tentantel]]
+[[es:Ferrothorn]]
+[[fr:Noacier]]
+[[it:Ferrothorn]]
+[[ja:ナットレイ]]
+[[zh:坚果哑铃]]

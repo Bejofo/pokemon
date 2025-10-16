@@ -1,0 +1,439 @@
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/GO|species=Klink}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0598|prev=Ferrothorn|nextnum=0600|next=Klang|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Klink
+|jname=ギアル
+|tmname=Giaru
+|category=Gear
+|typebox=1
+|type1=Steel
+|abilityn=d
+|ability1=Plus
+|ability2=Minus
+|abilityd=Clear Body
+|ndex=0599
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=46.3
+|weight-kg=21.0
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|expyield=60
+|lv100exp=1,059,860
+|gendercode=255
+|color=Gray
+|catchrate=130
+|evtotal=1
+|evde=1
+|body=11
+|pokefordex=klink
+|generation=5
+|friendship=70
+}}
+'''Klink''' ([[List of Japanese Pokémon names|Japanese]]: '''ギアル''' ''Giaru'') is a {{type|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Klang}} starting at [[level]] 38, which evolves into {{p|Klinklang}} starting at level 49.
+
+==Biology==
+Klink is a {{OBP|Pokémon|species}} resembling two interlocking gears with six teeth each. The teeth of the gears are light-gray, with a darker central region. Each gear has a white "X" in place of its left eye, while their right eyes have a black pupil and white sclerae. They have round turquoise noses and small mouths. 
+
+Klink can launch itself at opponents. Klink and its evolved forms are the [[signature move|only known Pokémon]] capable of learning the move {{m|Gear Grind}}. Prior to [[Generation VII]], {{m|Shift Gear}} was also one of its signature moves. Once two bodies have joined, they cannot combine with any others or they will become separated. Klink generates its life energy by spinning, and is generally found in caves. According to [[Professor Juniper]], the first recorded evidence of this Pokémon dates to around 100 years ago, in the [[Chargestone Cave]]; she believes that it suddenly appeared in the cave at that time. However, it is also believed that Klink are the inspiration behind the first gears invented by ancient people.
+
+===Evolution===
+Klink evolves into {{p|Klang}}, which evolves into {{p|Klinklang}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-3
+|type1=Steel
+|no1=0599
+|name1=Klink
+|type1-1=Steel
+|evo1=
+|no2=0600
+|name2=Klang
+|type1-2=Steel
+|evo2=
+|no3=0601
+|name3=Klinklang
+|type1-3=Steel}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Steel}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=105|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=130|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.}}
+{{Dex/Entry1|v=White|entry=Interlocking two bodies and spinning around generates the energy they need to live.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Two bodies comprise a fixed pair. They spin around each other to generate energy.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Interlocking two bodies and spinning around generates the energy they need to live.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Interlocking two bodies and spinning around generates the energy they need to live.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=113|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It's suspected that Klink were the inspiration behind ancient people's invention of the first gears.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Chargestone Cave]], [[P2 Laboratory]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Chargestone Cave]]<br>[[Chargestone Cave]] ([[N's Pokémon]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Klang}} or {{p|Klinklang}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Mirage Caves]] (West of {{rt|115|Hoenn}}, north of [[Fortree City]], and north of {{rt|124|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Hau'oli City]] ({{DL|QR Scanner|Island Scan}}){{dotw|Th}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|3|Galar}}, [[Dappled Grove]], [[West Lake Axewell]], [[Axew's Eye]], [[North Lake Miloch]], [[South Lake Miloch]], [[Hammerlocke Hills]]<br>[[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Seat/Dens|Giant's Seat]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=[[Beginner's Park]], Factory: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Tech Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Ragged Mountain]] (1F-5F), [[Stony Cave]] (B1-B5), [[Moonlit Forest]] (Uncharted Road), [[Rusty Mountain]] (Uncharted Road, Gilded Hall), [[Jaws of the Abyss]] (Gilded Hall), [[Smoking Mountain]] (Gilded Hall), [[Skill Treasury]] (1F-15F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#Working Gears|Model Train Room: Working Gears]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 2|Sacred Plains: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Rumbling Hall|White Ruins: Rumbling Hall]] <small>(All Areas)</small>, [[Origin Hideaway#Super-Aura Test Lab|Origin Hideaway: Super-Aura Test Lab]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 20|Area 20: Stage 10]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Aegislash Sea]], [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 225]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Steel
+|HP=40
+|Attack=55
+|Defense=70
+|SpAtk=45
+|SpDef=60
+|Speed=30}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+===Learnset===
+Klink is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Klink|Steel|Steel|5}}
+{{learnlist/level8|1|Thunder Shock|Electric|Special|40|100|30}}
+{{learnlist/level8|1|Vise Grip|Normal|Physical|55|100|30}}
+{{learnlist/level8|4|Bind|Normal|Physical|15|85|20}}
+{{learnlist/level8|8|Charge|Electric|Status|—|—|20}}
+{{learnlist/level8|12|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/level8|16|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level8|20|Autotomize|Steel|Status|—|—|15}}
+{{learnlist/level8|24|Discharge|Electric|Special|80|100|15}}
+{{learnlist/level8|28|Screech|Normal|Status|—|85|40}}
+{{learnlist/level8|32|Gear Grind|Steel|Physical|50|85|15||'''}}
+{{learnlist/level8|36|Lock-On|Normal|Status|—|—|5}}
+{{learnlist/level8|40|Shift Gear|Steel|Status|—|—|10}}
+{{learnlist/level8|44|Zap Cannon|Electric|Special|120|50|5}}
+{{learnlist/level8|48|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/levelf/8|Klink|Steel|Steel|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Klink|Steel|Steel|5}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM80|Volt Switch|Electric|Special|70|100|20}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR63|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/tr|TR70|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tmf/8|Klink|Steel|Steel|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Klink|Steel|Steel|5}}
+{{learnlist/breed8null}}
+{{learnlist/breedf/8|Klink|Steel|Steel|5}}	
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Klink|Steel|Steel|5}}
+{{learnlist/tutor8|Rising Voltage|Electric|Special|70|100|20||'''|no|yes}}
+{{learnlist/tutor8|Steel Beam|Steel|Special|140|95|5||'''|yes|no}}
+{{learnlist/tutor8|Steel Roller|Steel|Physical|130|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Klink|Steel|Steel|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Klink|Steel|Steel|5}}
+{{learnlist/prevgen8|Klink|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Klink|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Klink|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Klink|5|Gravity|Psychic|Status|—|—|5|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Klink|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Klink|5|Magic Coat|Psychic|Status|—|—|15|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Klink|5|Magnet Rise|Electric|Status|—|—|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Klink|5|Mirror Shot|Steel|Special|65|85|10||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Klink|5|Recycle|Normal|Status|—|—|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Klink|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Klink|5|Rock Polish|Rock|Status|—|—|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Klink|5|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Klink|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Klink|5|Shock Wave|Electric|Special|60|—|20|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Klink|5|Signal Beam|Bug|Special|75|100|15|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Klink|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Klink|5|Telekinesis|Psychic|Status|—|—|15|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Klink|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Klink|Steel|Steel|5}}
+
+===Side game data===
+{{Spindata/Head|type=Steel}}
+{{Spindata/PSMD|col=6|type=Steel|ndex=599
+|coset=15
+|conto={{p|Magnemite}}, {{p|Klang}}, {{p|Bisharp}}
+|recruitment=Find Klink's precious belonging
+|P1=My gears are interlocking smoothly now! ♪
+|P2=Crrch… My gears aren't interlocking right…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Steel
+|att=1
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Steel|ndex=599
+|walk=2.08
+|hp=45
+|attack=68
+|defense=52
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Steel|ndex=599
+|pad=He worked as a gear moving the elevator in the warehouse, but now he is free to enjoy his life.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Steel|ndex=599
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Steel|ndex=599|num=310
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Damage Streak
+|skilldesc=Increases damage when it is triggered in a row.
+}}
+|-
+{{Spindata/GO|col=6|type=Steel|ndex=599
+|hatch=10 km
+|buddy=5
+|candy=Klink
+|evocandy=25
+|stamina=120
+|attack=98
+|defense=121
+|fast={{m|Volt Switch}}, {{m|Charge Beam}}, {{m|Metal Sound}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Vise Grip}}, {{m|Discharge}}, {{m|Zap Cannon}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Steel
+|no1=0599
+|name1=Klink
+|type1-1=Steel
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 38}}
+|no2=0600
+|name2=Klang
+|type1-2=Steel
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 49}}
+|no3=0601
+|name3=Klinklang
+|type1-3=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Steel}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=599}}
+{{Spritebox/6|ndex=599|crop=72}}
+{{Spritebox/7|ndex=599|crop=73}}
+{{Spritebox/8|ndex=599}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0599}}
+{{Spritebox/Footer|599|Klink}}
+
+==In animation==
+[[File:Mannes Klink.png|thumb|250px|Klink in {{aniseries|BW}}]]
+===Major appearances===
+Klink debuted in [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']] alongside Klang and Klinklang; they are all under the ownership of [[Mannes]]. He used the three for various tasks, such as powering the music machine at Eindoak Town's Harvest Festival, doing yard work on his property, and powering his helicopter in the climax of the films.
+
+===Minor appearances===
+Multiple Klink made their animated series debut in ''[[BW063|Evolution Exchange Excitement!]]'', where they were seen inside [[Chargestone Cave]] along with a {{p|Klinklang}}.
+
+In ''[[Mewtwo — Prologue to Awakening]]'', [[Virgil]] used a Klink to power his helicopter.
+
+A Klink appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+A {{pkmn|Trainer}}'s Klink appeared in ''[[M23|Secrets of the Jungle]]''.
+
+A Trainer's Klink appeared in ''[[JN141|A Squad's Worth of Passion!]]''.
+
+In ''[[HZ024|Reunion at the Ancient Castle!]]'', a Klink can be seen inside the [[Ancient castle]].
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW063|Klink|Ash's Pokédex|Klink, the Gear Pokémon. In order for Klink to survive, it produces energy by spinning its twin, interlocking bodies.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:Colress Klink Adventures.png|thumb|150px|Klink in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A Trainer's Klink appeared in ''[[PS489|Drawing Bridges]]''.
+
+A Klink was seen under the ownership of [[Colress]] in ''[[PS517|Something Suspicious]]''. He used it in his {{un|Pokémon League}} battle against {{adv|Cheren}}.
+
+A Klink appeared in a picture in ''[[PS600|Gorebyss Changes Color]]''.
+{{-}}
+
+==In the TCG==
+{{main|Klink (TCG)}}
+
+==Trivia==
+* Klink represents {{wp|June}} in the [[Unova]] [[horoscope]].
+* In Generation V games, Klink's battle animation shows that its faces spin at a greater speed than its gear teeth. This is inconsistent with its [[Evolution]]s, whose gears and faces rotate at equal speeds.
+* The idea for Klink's evolutionary line came from [[Ken Sugimori]],<ref name=ND204/> while the designs were done by [[Keiko Moritsugu]].<ref>[https://imgur.com/a/cgf0g14 Archive of deleted tweet by Keiko Moritsugu]</ref>
+
+===Origin===
+Klink is based on gears;<ref name=ND204>''Nintendo Dream'' Vol. 204, April 2011 ([https://web.archive.org/web/20110704155314/http://shellspider.blog101.fc2.com/blog-entry-502.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream-6/ Translation by Dr. Lava])</ref> specifically, it appears to be based on a pair of interlocking {{wp|Gear#Spur|spur}}, {{wp|Gear#Helical|helical}}, or {{wp|herringbone gear}}s. Klink also resembles the simplest concept of the {{wp|perpetual motion|perpetual motion machine}}, as it is just two gears that repeatedly spin each other.
+
+====Name origin====
+Klink may be derived from ''clink'' (onomatopoeia for metal lightly striking a surface). It may also involve ''link'' or ''click''.
+
+Giaru may be derived from ギア ''gear''.
+
+==In other languages==
+{{Other languages|type=Steel|type2=Steel
+|ja=ギアル ''Giaru''|jameaning=From ''gear''
+|fr=Tic|frmeaning=From {{tt|''tictac''|tick tock}}
+|es=Klink|esmeaning=Same as English name
+|de=Klikk|demeaning=From {{tt|''Klick''|click}}
+|it=Klink|itmeaning=Same as English name
+|ko=기어르 ''Giaru''|komeaning=Transcription of Japanese name
+|zh_cmn=齒輪兒 / 齿轮儿 ''Chǐlún'ér''|zh_cmnmeaning=From {{tt|齒輪 / 齿轮 ''chǐlún''|gear}} and {{tt|兒 / 儿 ''ér''|child}}
+|zh_yue=齒輪兒 ''Chílèuhn'yìh''|zh_yuemeaning=From {{tt|齒輪 ''chílèuhn''|gear}} and {{tt|兒 ''yìh''|child}}
+|hi=गेरारी ''Geraree''|himeaning=From ''gear'' and {{tt|गरारी ''garārī''|gear}}
+|ru=Клинк ''Klink''|rumeaning=Transcription of English name
+|th=เกียร์ ''Kia''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references />
+
+==Related articles==
+* [[Pokémon fusion]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0598|prev=Ferrothorn|nextnum=0600|next=Klang}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Klikk]]
+[[es:Klink]]
+[[fr:Tic]]
+[[it:Klink]]
+[[ja:ギアル]]
+[[zh:齿轮儿]]

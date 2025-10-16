@@ -1,0 +1,340 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Thwackey}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0810|prev=Grookey|nextnum=0812|next=Rillaboom|round=none}}
+{{PokémonPrevNext/Disambig|species=Thwackey}}
+|}
+{{Pokémon Infobox
+|name=Thwackey
+|jname=バチンキー
+|jtranslit=Bachinkī
+|tmname=Bachinkey
+|ndex=0811
+|type1=Grass
+|category=Beat
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=30.9
+|weight-kg=14.0
+|abilityn=d
+|ability1=Overgrow
+|abilityd=Grassy Surge
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=147
+|lv100exp=1,059,860
+|gendercode=31
+|color=Green
+|catchrate=45
+|body=06
+|pokefordex=thwackey
+|generation=8
+|friendship=50
+}}
+'''Thwackey''' ([[List of Japanese Pokémon names|Japanese]]: '''バチンキー''' ''Bachinkey'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{p|Grookey}} starting at [[level]] 16 and evolves into {{p|Rillaboom}} starting at level 35.
+
+==Biology==
+[[File:811Thwackey Dream.png|thumb|left|200px|Thwackey's mohawk]]
+Thwackey is a bipedal, humanoid monkey {{OBP|Pokémon|species}} with a light-green body, and lighter-green markings on its face and chest. Its ears, arms, and tail are dark brown, and its two large eyes are yellow in color. It has dark green bands around its wrists and the stick it holds splits in two after its Evolution,<ref name='SwShsite' /> which it uses to hold up a tuft of leaves resembling hair on its head. When it removes the sticks, the leaves resemble a mohawk, with a dark green color on the ends. It has several sharp teeth.
+
+Thwackey can use its two sticks to create a rhythmic beat. The faster a rhythm Thwackey creates, the more respect it earns from its peers. Often, when it drums out rapid beats in battle, Thwackey will get so caught up in the rhythm that it does not realize its opponent has been knocked out. This action will also cause Thwackey to even ignore its own Trainer’s commands. To further develop its sense of rhythm, it constantly uses it in daily life. It can always feel a beat, and it walks while swaying back and forth to this beat, along with drumming with its sticks.<ref name='SwShsite'>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/thwackey/ Thwackey | Official Website | Pokémon Sword and Pokémon Shield]</ref> As seen in the {{aniseries|JN}} episode ''[[JN101|A One-Stick Wonder!]]'', Thwackey can groom its friends to cheer them up; this is its way to show friendship and trust.
+
+In [[Generation IX]], Thwackey and its evolutionary relatives are the [[Signature Ability|only known Pokémon]] that can have {{a|Grassy Surge}} as an [[Ability]].
+
+===Evolution===
+Thwackey evolves from {{p|Grookey}} and evolves into {{p|Rillaboom}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Grass
+|no1=0810
+|name1=Grookey
+|type1-1=Grass
+|evo1=
+|no2=0811
+|name2=Thwackey
+|type1-2=Grass
+|evo2=
+|no3=0812
+|name3=Rillaboom
+|type1-3=Grass}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=002|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=228}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It skillfully uses its two sticks not only for drumming out rapid beats but also for pummeling opponents during battle.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It becomes intensely focused while it drums out vigorous beats—so much so that sometimes it won’t listen to its Trainer’s commands.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Thwackey SV Blueberry.png|x200px]]
+|-
+| Thwackey in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Grookey}}}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Grookey}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Trainer Lodge]] Friendship Level 100: {{sync|Gloria|Thwackey}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|HP=70
+|Attack=85
+|Defense=70
+|SpAtk=55
+|SpDef=60
+|Speed=80
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Thwackey|Grass|Grass|8}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Branch Poke|Grass|Physical|40|100|40||'''}}
+{{learnlist/level9|1|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Double Hit|Normal|Physical|35|90|10}}
+{{learnlist/level9|12|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|19|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|24|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/level9|30|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level9|36|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level9|42|Wood Hammer|Grass|Physical|120|100|15||'''}}
+{{learnlist/level9|48|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/levelf/9|Thwackey|Grass|Grass|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Thwackey|Grass|Grass|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM073|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM146|Grass Pledge|Grass|Special|80|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM190|Solar Blade|Grass|Physical|125|100|10||'''}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tmf/9|Thwackey|Grass|Grass|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Thwackey|Grass|Grass|8}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth}}{{MSP/H|0052|Meowth|form=-Alola}}{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0053|Persian}}{{MSP/H|0053|Persian|form=-Alola}}{{MSP/H|0863|Perrserker}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0677|Espurr}}{{MSP/H|0678|Meowstic}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0357|Tropius}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|1011|Dipplin}}{{MSP/H|1019|Hydrapple}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}{{MSP/H|0948|Toedscool}}{{MSP/H|0949|Toedscruel}}{{MSP/H|0951|Capsakid}}{{MSP/H|0952|Scovillain}}|Growth|Normal|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0111|Rhyhorn}}{{MSP/H|0112|Rhydon}}{{MSP/H|0464|Rhyperior}}{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}{{MSP/H|0901-Bloodmoon|Ursaluna}}{{MSP/H|0289|Slaking}}{{MSP/H|0500|Emboar}}{{MSP/H|0652|Chesnaught}}|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0470|Leafeon}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0650|Chespin}}{{MSP/H|0651|Quilladin}}{{MSP/H|0652|Chesnaught}}{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed9|{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0878|Cufant}}{{MSP/H|0879|Copperajah}}|Strength|Normal|Physical|80|100|15}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0286|Breloom}}{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0952|Scovillain}}|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/breedf/9|Thwackey|Grass|Grass|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Thwackey|Grass|Grass|8}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Thwackey|Grass|Grass|8}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/GO
+| col = 6
+| type = Grass
+| ndex = 0811
+| hatch = N/A
+| buddy = 3
+| candy = Grookey
+| evocandy = 100
+| stamina = 172
+| attack = 165
+| defense = 134
+| fast = {{m|Scratch}}, {{m|Razor Leaf}}
+| special = {{m|Energy Ball}}, {{m|Grass Knot}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Grass
+|no1=0810
+|name1=Grookey
+|type1-1=Grass
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 16}}
+|no2=0811
+|name2=Thwackey
+|type1-2=Grass
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}
+|no3=0812
+|name3=Rillaboom
+|type1-3=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=811}}
+<!--{{Spritebox/9|ndex=0811}}-->
+{{Spritebox/HOME|ndex=0811}}
+{{Spritebox/Footer|811|Thwackey}}
+
+==In animation==
+===Main series=== 
+[[File:Thwackey anime.png|thumb|250px|Thwackey in {{aniseries|JN}}]]
+====Major appearances====
+Multiple Thwackey debuted in ''[[JN101|A One-Stick Wonder!]]''. One of them had only one stick and couldn't drum as well as the others until {{Ash}} and [[Goh]] helped it.
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Galar|no}}
+{{Animedexbody|JN101|Thwackey|Goh's Rotom Phone|Thwackey, the Beat Pokémon. A {{t|Grass}} type. Using its two sticks, Thwackey beats out a high-tempo rhythm so it can gain the respect of its peers.}}
+{{Animedexbody|JN101|None|po=Grooming|Goh's Rotom Phone|Grooming, a ritual performed by Thwackey in order to cheer up its friends. It's a way to show friendship and trust.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===POKÉTOON===
+A {{pkmn2|wild}} Thwackey appeared in [[PT10]].
+
+==In the manga==
+[[File:Henry Twiggy Thwackey.png|thumb|150px|Thwackey in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+{{main|Twiggy}}
+Thwackey debuted in ''[[PASS08|Toasty!! Battle Against Toxapex]]'', where [[Henry Sword|Henry]]'s Grookey, Twiggy, evolved into one.
+
+{{-}}
+
+==In the TCG==
+{{main|Thwackey (TCG)}}
+==Trivia==
+
+===Origin===
+Thwackey appears to be based on {{wp|monkey}}s, specifically {{wp|macaque}}s, {{wp|capuchin monkey|capuchin}}s, and {{wp|pygmy marmoset}}s, as well as common depictions of {{wp|Caveman|cavemen}}. Its behavior may reference both the fact that macaques {{wp|Drum#Animal drumming|drum objects}} to show {{wp|Social dominance theory|social dominance}} and that {{wp|War dance|songs}} are used during {{wp|Endemic warfare|ritual battles}} of many {{wp|Indigenous peoples|indigenous cultures}} to embolden warriors and evoke ferocity. Its tools resemble drumsticks, {{wp|hair stick}}s, and {{wp|Club (weapon)|clubs}}. When Thwackey takes off the sticks from its head, its leafy hair forms shape of a {{wp|mohawk hairstyle}}.
+
+====Name origin====
+Thwackey may be a combination of ''thwack'' and ''monkey''.
+
+Bachinkey may be a combination of バチン ''bachin'' (whack) and ''monkey''. It may also derive from ''capuchin monkey''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=バチンキー ''Bachinkey''|jameaning=From {{tt|バチン ''bachin''|whack}} and ''monkey''
+|fr=Badabouin|frmeaning=From ''{{tt|badaboum|bang}}'' and ''{{tt|babouin|baboon}}''
+|es=Thwackey|esmeaning=Same as English name
+|de=Chimstix|demeaning=From ''{{tt|Schimpanse|chimpanzee}}'' and ''drumsticks''
+|it=Thwackey|itmeaning=Same as English name
+|ko=채키몽 ''Chaekimong''|komeaning=From {{tt|북채 ''bukchae''|drumstick}} and ''monkey''
+|zh_cmn=啪咚猴 ''Pādōnghóu''|zh_cmnmeaning=From {{tt|啪 ''pā''|bang}}, {{tt|咚 ''dōng''|boom}}, and {{tt|猴 ''hóu''|monkey}}
+|zh_yue=啪咚猴 ''Pāakdūnghàuh''|zh_yuemeaning=From {{tt|啪 ''pāak''|bang}}, {{tt|咚 ''dūng''|boom}}, and {{tt|猴 ''hàuh''|monkey}}
+|hi=चिमस्टिक ''Chimstick''|himeaning=From ''chimp'' and ''stick''
+|th=บาจินคี ''Bachinkhi''|thmeaning=Transcription of Japanese name}}
+
+==Related articles==
+* [[Twiggy]]
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0810|prev=Grookey|nextnum=0812|next=Rillaboom}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Chimstix]]
+[[es:Thwackey]]
+[[fr:Badabouin]]
+[[it:Thwackey]]
+[[ja:バチンキー]]
+[[zh:啪咚猴]]

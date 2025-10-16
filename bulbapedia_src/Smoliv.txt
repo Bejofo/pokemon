@@ -1,0 +1,331 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Normal}}
+{{PokémonPrevNext/GO|species=Smoliv}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0927|prev=Dachsbun|nextnum=0929|next=Dolliv|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Smoliv
+|jname=ミニーブ
+|tmname=Minive
+|jtranslit=Minību
+|ndex=0928
+|type1=Grass
+|type2=Normal
+|category=Olive
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=14.3
+|weight-kg=6.5
+|abilityn=d
+|ability1=Early Bird
+|ability2=
+|abilityd=Harvest
+|egggroupn=1
+|egggroup1=Grass
+|egggroup2=
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=0
+|evsa=1
+|evsd=0
+|evsp=0
+|expyield=52
+|lv100exp=1059860
+|gendercode=127
+|color=Green
+|catchrate=255
+|body=07
+|pokefordex=smoliv
+|generation=9
+|friendship=50
+}}
+'''Smoliv''' ([[List of Japanese Pokémon names|Japanese]]: '''ミニーブ''' ''Minive'') is a dual-type {{2t|Grass|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Dolliv}} starting at [[level]] 25, which evolves into {{p|Arboliva}} starting at level 35.
+
+==Biology==
+Smoliv is a small {{OBP|Pokémon|species}} resembling an olive. It has a round green body with two stubby legs. It has beady black eyes with white pupils and a jagged mouth. A few leaves surround a yellow fruit with a hole on top of its body.
+
+Inside its fruit, Smoliv stores oil made from nutrients it gathers through photosynthesis, which allows it to go for a week without eating or drinking. Smoliv's oil is bitter and astringent enough to make someone flinch, and thus is not suitable for consumption. When startled or attacked, Smoliv will shoot its oil out to slow its opponent, and then it will run away. It prefers dry and sunny climates, and tends to spend its time sunbathing.<ref>[https://scarletviolet.pokemon.com/en-us/pokemon/smoliv/ Smoliv — Pokémon Scarlet and Pokémon Violet | Official Website]</ref>
+
+Smoliv and its evolved forms are the [[signature move|only known Pokémon]] capable of learning the move {{m|Terrain Pulse}} by leveling up.
+
+===Evolution===
+Smoliv evolves into {{p|Dolliv}}, which evolves into {{p|Arboliva}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Grass
+|type2=Normal
+|no1=0928
+|name1=Smoliv
+|type1-1=Grass
+|type2-1=Normal
+|evo1=
+|no2=0929
+|name2=Dolliv
+|type1-2=Grass
+|type2-2=Normal
+|evo2=
+|no3=0930
+|name3=Arboliva
+|type1-3=Grass
+|type2-3=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Normal}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=84|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Smoliv SV.png|x200px]]
+|-
+| Smoliv in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Normal}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Two)|Area Two]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Smoliv|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Normal
+|HP=41
+|Attack=35
+|Defense=45
+|SpAtk=58
+|SpDef=51
+|Speed=30
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Normal
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=0
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Smoliv|Grass|Normal|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|1|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|5|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|7|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|10|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|13|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|16|Flail|Normal|Physical|—|100|15||'''}}
+{{learnlist/level9|20|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|23|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/level9|27|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|30|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|34|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|38|Terrain Pulse|Normal|Special|50|100|10||'''}}
+{{learnlist/levelf/9|Smoliv|Grass|Normal|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Smoliv|Grass|Normal|9}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM190|Solar Blade|Grass|Physical|125|100|10||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10||'''}}
+{{learnlist/tmf/9|Smoliv|Grass|Normal|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Smoliv|Grass|Normal|9}}
+{{learnlist/breed9|{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0547|Whimsicott}}|Memento|Dark|Status|—|100|10}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0191|Sunkern}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}{{MSP/H|0764|Comfey}}|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/breed9|{{bag/s|TM Normal|SV|TM193}}{{tt|*|No Pokémon in the Grass Egg Group can learn Weather Ball via level-up. However, the move is available via TM193 and can be passed down from the Bulbasaur line, Vileplume, Bellossom, the Bellsprout line, Meganium, the Sunkern line, the Lotad line, Nuzleaf, Shiftry, the Snover line, the Fomantis line, and the Smoliv line, or copied via Mirror Herb.}}|Weather Ball|Normal|Special|50|100|10||'''}}
+{{learnlist/breedf/9|Smoliv|Grass|Normal|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Normal}}
+{{Spindata/GO|col=6|type=Grass|ndex=0928
+|hatch=N/A
+|buddy=3
+|candy=Smoliv
+|evocandy=25
+|stamina=121
+|attack=100
+|defense=89
+|fast={{m|Razor Leaf}}, {{m|Tackle}}
+|special={{m|Seed Bomb}}, {{m|Energy Ball}}, {{m|Earth Power}}, {{m|Trailblaze}}{{tt|*|From December 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Grass
+|type2=Normal
+|no1=0928
+|name1=Smoliv
+|type1-1=Grass
+|type2-1=Normal
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 25}}
+|no2=0929
+|name2=Dolliv
+|type1-2=Grass
+|type2-2=Normal
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}
+|no3=0930
+|name3=Arboliva
+|type1-3=Grass
+|type2-3=Normal
+}}
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=normal}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0928}}-->
+{{Spritebox/HOME|ndex=0928}}
+{{Spritebox/Footer|928|Smoliv}}
+
+==In animation==
+[[File:Arboliva Forest Smoliv.png|thumb|250px|Smoliv in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+====Minor appearances====
+Two Smoliv debuted in ''[[HZ010|Nemona and Brassius and…]]'', as [[wild Pokémon]].
+
+Four wild Smoliv appeared in ''[[HZ011|Arboliva's Forest]]''.
+
+Three wild Smoliv appeared in ''[[HZ047|Put Your Heart Into It!]]''.
+
+A {{pkmn|Trainer}}'s Smoliv appeared in ''[[HZ049|Dot and Nidothing]]''.
+
+A Trainer's Smoliv appeared in ''[[HZ050|Trending Terastallization! Dance, Dance, Quaxly!]]''.
+
+Two Smoliv appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+Two Smoliv appeared in [[HZ098]].
+
+Two Smoliv appeared in [[HZ112]], under the ownership of two Trainers.
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ010|Smoliv|Roy's Rotom Phone|Smoliv, the Olive Pokémon. A {{t|Grass}} and {{t|Normal}} type. Smoliv converts nutrients to oil and stores it in the fruit on its head. It can easily go a week without eating or drinking anything.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+[[File:Uva Academy Student.png|250px|thumb|Smoliv in ''[[Dragonite and the Special Delivery]]'']]
+===Dragonite and the Special Delivery===
+A {{pkmn|Trainer}}'s Smoliv appeared in ''[[Dragonite and the Special Delivery]]''.
+{{-}}
+
+==In the manga==
+[[File:Violet Smoliv.png|thumb|100px|Smoliv in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Smoliv debuted in ''[[PASV03|Battle! Team Star, the Delinquents!!]]''. {{Violet}} had {{adv|Arven}} catch one, which was then immediately [[trade]]d to Violet in exchange for Arven's {{TP|Arven|Mabosstiff}}. She <!--20-->later evolved into a {{p|Dolliv}} after defeating [[Larry]]'s {{p|Dudunsparce}}.
+
+Multiple Smoliv belonging to the [[Cortondo Gym]] appeared in ''[[PASV06|Skillful! The Mysterious Treasure Hunter!!]]''.
+
+[[Brassius]]'s Smoliv appeared in [[PASV09]] in a Gym battle against {{Scarlet}}.
+
+A Student's Smoliv appeared in a fantasy in [[PASV17]].
+{{-}}
+
+==In the TCG==
+{{main|Smoliv (TCG)}}
+
+==Trivia==
+* Smoliv and its [[Evolution]]s are the only {{type|Normal}} Pokémon in the {{egg3|Grass}}.
+
+===Origin===
+Smoliv appears to be based on a green {{wp|olive}}, while its {{Shiny}} coloration seems to be based on a black olive. This is likely referencing how Spain (the region Paldea is based on) is the {{wp|Olive#Global_production|biggest producer of olives}} in the world.
+
+====Name origin====
+Smoliv may be a combination of ''small'' or ''smol'' (diminutive spelling of ''small'') and ''olive''.
+
+Minive may be a combination of ''mini'' and ''olive''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Normal
+|ja=ミニーブ ''Minive''|jameaning=From ''mini'' and ''olive''
+|fr=Olivini|frmeaning=From ''olive'' and ''mini''
+|es=Smoliv|esmeaning=Same as English name
+|de=Olini|demeaning=From ''Olive'', ''{{tt|Öl|oil}}'', and ''mini''
+|it=Smoliv|itmeaning=Same as English name
+|ko=미니브 ''Minibeu''|komeaning=From ''mini'' and {{tt|올리브 ''ollibeu''|olive}}
+|zh_cmn=迷你芙 ''Mínǐfú''|zh_cmnmeaning=From {{tt|迷你 ''mínǐ''|mini}} and the transcription of the Japanese name
+|zh_yue=迷你芙 ''Màihnéihfùh''|zh_yuemeaning=From {{tt|迷你 ''màihnéih''|mini}} and the transcription of the Japanese name
+|hi=स्मॉलीव ''Smoliv''|himeaning=Transcription of English name
+|th=มินีฟ ''Minip''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass|type2=Normal}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0927|prev=Dachsbun|nextnum=0929|next=Dolliv}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Olini]]
+[[es:Smoliv]]
+[[fr:Olivini]]
+[[it:Smoliv]]
+[[ja:ミニーブ]]
+[[zh:迷你芙]]

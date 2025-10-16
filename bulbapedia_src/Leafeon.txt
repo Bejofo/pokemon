@@ -1,0 +1,694 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Leafeon}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0469|prev=Yanmega|nextnum=0471|next=Glaceon|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Leafeon
+|jname=リーフィア
+|jtranslit=Rīfia
+|tmname=Leafia
+|ndex=0470
+|type1=Grass
+|category=Verdant
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=56.2
+|weight-kg=25.5
+|ability1=Leaf Guard
+|abilityd=Chlorophyll
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=35
+|evtotal=2
+|evde=2
+|expyield=184
+|oldexp=196
+|lv100exp=1,000,000
+|gendercode=31
+|color=Green
+|catchrate=45
+|body=08
+|pokefordex=leafeon
+|generation=4
+|friendship=35
+}}
+'''Leafeon''' ([[List of Japanese Pokémon names|Japanese]]: '''リーフィア''' ''Leafia'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Eevee}} when leveled up near a [[Moss Rock]] or when exposed to a [[Leaf Stone]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+It is one of Eevee's [[Eeveelution|final forms]], the others being {{p|Vaporeon}}, {{p|Jolteon}}, {{p|Flareon}}, {{p|Espeon}}, {{p|Umbreon}}, {{p|Glaceon}}, and {{p|Sylveon}}.
+
+==Biology==
+Leafeon is a mammalian, quadrupedal {{OBP|Pokémon|species}}. Its body is tan with dark brown paws. It has a multitude of small green sprouts growing all over its legs, chest, and back, with the longest one on its head, in front of four tan tufts of fur. Leafeon's green ears and tail resemble tattered leaves. It has brown eyes and a small, brown nose.
+
+This Pokémon's cellular structure is similar to plants, which allows it to perform photosynthesis and purify the air around it by sleeping under the sunlight; it gets its energy in this way instead of eating. It is a pacifistic, quiet Pokémon, preferring not to fight, though it will sharpen its hard, leafy tail for the occasions it needs to. The tail's sharpness is said to exceed that of a human-crafted sword, being able to cut down a large tree with one hit. Leafeon's aroma is similar to fresh grass in its youth; as it ages, this fragrance bears more of a resemblance to fallen leaves. The aroma is favored in [[Galar]], where it is used to create a popular perfume. It lives in lush forests that have clean rivers. As mentioned in the [[Sleep style|Sleep Style Dex]], the air produced by a sleeping Leafeon can help any Pokémon sleep deeply.
+
+[[File:Spr 2d 251.png|thumb|Rīfi, an early version of Leafeon]]
+During the [[Pokémon Gold and Silver Spaceworld '97 demo|development of Generation II]], the earliest iteration of Leafeon was a quadrupedal [[Grass-type]] Pokémon with root-like feet, several markings across its body, and a short fringe above its eyes. Its eventual redesign for [[Generation IV]] is evidenced by Leafeon's early Japanese name in the data of [[Pokémon Battle Revolution]] matching the same name as this early iteration from Generation II, known as Rīfi '''(リーフィ)'''.<ref>[https://tcrf.net/Pok%C3%A9mon_Battle_Revolution#Early_Pok.C3.A9mon_Names ''Pokémon Battle Revolution'' - The Cutting Room Floor]</ref>
+
+===Evolution===
+Leafeon evolves from {{p|Eevee}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=grass
+|pictype=art
+|no1=0133
+|name1=Eevee
+|type1-1=Normal
+|evo1=
+|no2=0470
+|name2=Leafeon
+|type1-2=Grass}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=169|label1={{gameIcon|Pt}}:|reg2=Johto}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.}}
+{{Dex/Entry1|v=Platinum|entry=It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=When you see <sc>Leafeon</sc> asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=097|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=With cells similar to those of plants, it performs photosynthesis inside its body and creates pure air.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=083|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=129|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=159|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=Its cellular composition is closer to that of a plant than an animal. It uses photosynthesis to produce its energy supply without eating food.}}
+{{Dex/Entry1|v=Moon|entry=The younger they are, the more they smell like fresh grass. With age, their fragrance takes on the odor of fallen leaves.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Although it doesn't like disputes, it will sharpen the leaf on its tail into a blade and fight if it has to protect its friends.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=It gets its nutrition from photosynthesis. It lives a quiet life deep in forests where clean rivers flow.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=202|reg2=Galar|label2=Crown Tundra|num2=081|reg3=Sinnoh|reg4=Hisui|num4=031}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Galarians favor the distinctive aroma that drifts from this Pokémon's leaves. There's a popular perfume made using that scent.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pokémon's tail is blade sharp, with a fantastic cutting edge that can slice right though large trees.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Cells similar to those of plants have been found in its fur. Its hard tail can fell a large tree with one stroke, and the tail's sharpness exceeds even that of a sword crafted by a master.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=185|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=When you see Leafeon asleep in a patch of sunshine, you’ll know it is using photosynthesis to produce clean air.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The younger they are, the more they smell like fresh grass. With age, their fragrance takes on the odor of fallen leaves.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+| style="{{roundy|20px}} border:2px solid #{{grass color dark}}; background:#{{grass color light}}| [[File:Pokédex Image Leafeon SM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{grass color dark}}; background:#{{grass color light}}| [[File:Pokédex Image Leafeon USUM.png|x200px]]
+| style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Leafeon SV.png|x200px]]
+|-
+| Leafeon in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Leafeon in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Leafeon in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=[[Trade]], [[Evolution|Evolve]] {{p|Eevee}} in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}} or {{game|Platinum||Platinum}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Evolution|Evolve]] {{pkmn|Dream World}} {{p|Eevee}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Lake of Outrage]] ([[Wanderer]])<br>[[Giant's Mirror/Dens|Giant's Mirror]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Bed]] ([[Wanderer]])<br>[[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' [[Space-time distortion]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[West Province (Area Three)|Area Three]]<br>North Province: [[Socarrat Trail]]<br>South Province: [[South Province (Area Four)|Area Four]] ({{t|Grass}} {{Tera}} [[Type]])<br>[[Tera Raid Battle]]s ({{DL|List of 6★ Tera Raid Battles (Paldea)|Leafeon|6★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Vien Forest]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] Advanced Mode S}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Meadow Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Sky Fortress]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Withered Savanna]] (1F-14F), [[Silent Tundra]] (Gilded Hall), [[Dreamy Island]] (Gilded Hall), [[Moonlit Forest]] (Uncharted Road, Gilded Hall), [[Rusty Mountain]] (Uncharted Road), [[Ivy Park]] (11F-14F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Colorful Park|Aquatic Hill: The Colorful Park]], [[Challenge Battle#The Final Battle Royale|Challenge Battle: The Final Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 3|Safari Jungle: Stage 3]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Verdant Grove|Gold Plateau: Verdant Grove]] <small>(Back Boss)</small>, [[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 09|Area 09: Stage 04]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Celebi Sea]], [[Garchomp Sea]], [[Zygarde Sea]], [[Celebi Sea]]<sup>Final</sup>, [[Garchomp Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Founja Jungle]]<sup><span style="color:#F05D31;">Day</span> <span style="color:#53349C;">Level 3</span>, <span style="color:#3A546B;">Night</span> <span style="color:#067162;">Level 2</span></sup>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Master 5)<br>[[Lapis Lakeside]] (from Ultra 4)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Great 3)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Jungle Verde|Jungle Verde: Stage 142]]<br>[[Prasino Woods|Prasino Woods: Stage 589]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Erika|Leafeon|sygna=1}}<br>Master Fair [[sync pair scout]]: {{sync|Adaman|Leafeon}}<br>[[Evolution]]: {{sync/player|egg|Eevee}}<br>Variety sync pair scout: {{sync|Hilda|Leafeon}}}}
+{{Availability/Entry1|1|v=UNITE|t=FFF|color={{violet color}}|area=Purchase for 13,000 Aeos Coins/575 Aeos Gems}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Grass}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Birthday Leafeon|All|Japan|10|October 12, 2013 to December 31, 2016|link=List of local event Pokémon distributions in Generation VI#Leafeon}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Center Leafeon|All|Japan|50|May 13 to June 23, 2017|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Leafeon 2}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Store Leafeon|All|South Korea|50|July 15 to 23, 2017|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Leafeon}}
+|}
+
+=====Pokémon Global Link promotions=====
+{{eventAvail/h|type=Grass}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Leafeon|Japanese|PGL|10|October 20, 2010 to January 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Leafeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Leafeon|Korean|PGL|10|May 18 to August 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Leafeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Leafeon|English|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Leafeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Leafeon|French|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Leafeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Leafeon|German|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Leafeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Leafeon|Italian|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Leafeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Leafeon|Spanish|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Leafeon}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Grass}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Razz Berry|30|Vivichoke|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|HP=65
+|Attack=110
+|Defense=130
+|SpAtk=60
+|SpDef=65
+|Speed=95
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=2
+|SpeedMax=3
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Leafeon|Grass|Grass|4}}
+{{learnlist/level9|1|Covet|Normal|Physical|60|100|25}}
+{{learnlist/level9|1|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|1|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level9|1|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|1|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|1|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|1|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|5|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|10|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|15|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level9|20|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|25|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/level9|30|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/level9|35|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|40|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|45|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/level9|50|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/level9|55|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/levelf/9|Leafeon|Grass|Grass|4}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Leafeon|Grass|Grass|4}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM190|Solar Blade|Grass|Physical|125|100|10||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10}}
+{{learnlist/tmf/9|Leafeon|Grass|Grass|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Leafeon|Grass|Grass|4}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571-Hisui|Zoroark}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}|Detect|Fighting|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128|Tauros|form=-Paldea Aqua}}{{MSP/H|0135|Jolteon}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0231|Phanpy}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0775|Komala}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Flail|Normal|Physical|—|100|15||}}
+{{learnlist/breed9|{{MSP/H|0050|Diglett}}{{MSP/H|0050-Alola|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0968|Orthworm}}|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/breed9|{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}|Tickle|Normal|Status|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0775|Komala}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{tt|*|Skeledirge learns Yawn on its own only Version 2.0.1 onwards}}|Yawn|Normal|Status|—|—|10}}
+{{learnlist/breedf/9|Leafeon|Grass|Grass|4}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Leafeon|Grass|Grass|4}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Leafeon|Grass|Grass|4}}
+
+====Special moves====
+{{learnlist/eventh/9|Leafeon|Grass|Grass|4}}
+{{learnlist/event9|[[South Province (Area Four)|Wild Tera Pokémon]]|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/event9|[[South Province (Area Four)|Wild Tera Pokémon]]|Wish|Normal|Status|—|—|10}}
+{{learnlist/event9|[[South Province (Area Four)|Wild Tera Pokémon]]|Yawn|Normal|Status|—|—|10}}
+{{learnlist/eventf/9|Leafeon|Grass|Grass|4}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/MDTDS|col=6|type=Grass|ndex=470
+|body=1
+|rate=-10
+|IQ=F
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=470
+|coset=3
+|conto={{p|Psyduck}}, {{p|Machop}}, {{p|Dragonite}}
+|recruitment=Traveling Pokémon
+|P1=I can clean the air by using photosynthesis! Ecology conscious, aren't I?
+|P2=The sun is going far away…
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=3
+|num=103
+|browser=It scatters leaves and makes vines grow out of the ground to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=4
+|num=081
+|pastnum=060
+|browser=It creates vines around itself that make Pokémon Slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=4
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=4
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=470
+|walk=1.38
+|hp=52
+|attack=80
+|defense=59
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Grass|ndex=470
+|Pad=Leafeon came to the [[Meadow Zone]] so that he could play. The Attraction he specializes in is {{DL|Attraction (PokéPark)|Bulbasaur's Daring Dash}}!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=470
+|pad=She created a racecourse and likes to let others run it. She is competing with her friends about who can create the most interesting course.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Grass|ndex=470
+|HP=3
+|atk=4
+|def=4
+|spd=4
+|range=4
+|move=Leaf Blade
+|ability1=Run Up
+|ability2=Instinct
+|ability3=Life Force
+|evo=Evolves from {{p|Eevee}} when it has a Defense stat of 94 or higher and is deployed in [[Greenleaf]]
+|link='''[[Hero]]'''/'''[[Heroine]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=470
+|power=3
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Grass|ndex=470|num=029
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Eject+, Hammering Streak
+}}
+|-
+{{Spindata/GO
+| col = 6
+| type = Grass
+| ndex = 470
+| hatch = N/A
+| buddy = 5
+| evolution = N/A
+| stamina = 163
+| attack = 216
+| defense = 219
+| fast = {{m|Razor Leaf}}, {{m|Quick Attack}}, {{m|Bullet Seed}}{{tt|†|Event-exclusive from Eevee Community Day 2021}}
+| special = {{m|Solar Beam}}, {{m|Leaf Blade}}, {{m|Energy Ball}}, {{m|Last Resort}}{{tt|†|Event-exclusive from December 2019 Community Day}}
+| candy = 
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Grass|ndex=470|pdex=059
+|dex=Did you notice how clear the air was near the waterfall in [[Founja Jungle|the jungle]]? That’s because Leafeon, with its plantlike cells, has been cleaning the air with {{m|Synthesis|photosynthesis}}.}}
+|-
+{{Spindata/Sleep
+| col = 6
+| ndex = 0470
+| sleeptype = Dozing
+| type = Grass
+| dexentry = When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air. Perhaps this nice, crisp air might help any Pokémon around Leafeon sleep deeply.
+| sleepstyle1 = Tail-Swinging Sleep
+| sleepstyle2 = Sturdy Sleep
+| sleepstyle3 = Leaf-Grabbing Sleep
+| sleepstyle4 = Atop-Belly Sleep
+| friendpoints = 20
+| specialty = Skills
+| evolution = 
+| candyNum = 
+| pokemon = Eevee
+| berry = Durin
+| ingredient1 = Moomoo Milk
+| ingredient2 = Soothing Cacao
+| ingredient3 = Bean Sausage
+| carrylimit = 13
+| skillname = Energizing Cheer S
+| skilldesc = Restores 14 Energy to one random Pokémon on your team
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{grass color dark}}; background:#{{grass color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{grass color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{grass color dark}}; background:#{{grass color light}};"| [[File:GO0470November2018.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{grass color dark}}; background:#{{grass color light}};"| [[File:GO0470Holiday2022.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{grass color dark}}; background:#{{grass color light}};"| [[File:GO0470Spring2023.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{grass color dark}}; background:#{{grass color light}};"| [[File:GO0470Explorer.png|100px]]
+|-
+| Flower crown
+| Holiday hat
+| Cherry blossoms
+| Explorer hat
+|}
+
+===Evolution data===
+Leafeon evolves from {{p|Eevee}} when exposed to a [[Moss Rock]] or, from [[Generation VIII]] onwards, when exposed to a [[Leaf Stone]]. Eevee will always evolve into Leafeon when leveled up near a Moss Rock, even if the [[Methods of Evolution|evolutionary conditions]] for it to evolve into {{p|Espeon}}, {{p|Umbreon}}, or {{p|Sylveon}} have also been met. The Moss Rock is not present in {{game|HeartGold and SoulSilver|s}}, {{g|Sword and Shield}}, or {{g|Scarlet and Violet}}. Eevee will never evolve into Leafeon in {{LGPE}}, as Leafeon is not present in those games.
+{| class="roundy" style="margin:auto; text-align:center; background: #{{grass color}}; border: 3px solid #{{grass color dark}}"
+|-
+|
+{{Evobox/Setup|0133Eevee|Eevee|Normal|Normal|grass|Unevolved||}}
+| {{Bag/s|Leaf Stone|SV}}<br>{{color2|000|Leaf Stone}}<br>→<br>{{bag/s|Rare Candy|SV}} + [[File:Moss Rock VI.png|40px|link=Moss Rock]]<br>{{color2|000|Level|Level up}}<br><small>near {{color2|000|Moss Rock}}<br></small>
+|
+{{Evobox/Setup|0470Leafeon|Leafeon|Grass|Grass|Grass|First Evolution||}}
+|}
+{{-}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=470}}
+{{Spritebox/5|ndex=470}}
+{{Spritebox/6|ndex=470|crop=79}}
+{{Spritebox/7|ndex=470|crop=80}}
+{{Spritebox/8/SwShLA|ndex=470|LAcrop=155}}
+<!--{{Spritebox/9|ndex=0470}}-->
+{{Spritebox/HOME|ndex=0470}}
+{{Spritebox/Footer|470|Leafeon}}
+
+==In animation==
+[[File:Perrin Leafeon.png|thumb|250px|Leafeon in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Leafeon made its animated series debut in ''[[DP155|Double-Time Battle Training!]]'', under the ownership of [[Zoey]]. It appeared again in ''[[DP176|Coming Full-Festival Circle!]]'' in the [[Sinnoh Grand Festival]], where it was used in a [[Double Battle|two-on-two]] [[Contest Battle]] alongside {{p|Mismagius}}, going up against [[Nando]]'s {{p|Lopunny}} and {{TP|Nando|Kricketune}}.
+
+In ''[[PK25|Eevee & Friends]]'', a relaxed Leafeon was with an {{p|Eevee}} and its other evolved forms, including the newly introduced {{p|Sylveon}}.
+
+In ''[[SM065|Turning Heads and Training Hard!]]'', a {{pkmn2|wild}} Leafeon was summoned to help [[Ilima]]'s Eevee perform {{m|Extreme Evoboost}}. In the [[Poké Problem]] segment of the [[SM066|next episode]], it saw Ilima and Eevee off.
+
+A Leafeon appeared in ''[[JN094|Suffering the Flings and Arrows!]]'', under the ownership of [[Erika]]. It reappeared in flashbacks in ''[[JN105|Reuniting for the First Time!]]'' and ''[[JN120|Infinite Possibilities!]]''.
+
+A Leafeon appeared in ''[[HZ071|Encounters at the Crystal Pool]]'', under the ownership of [[Perrin]]. It was used to battle [[Dot's Quaxwell]], but lost despite the type advantage.
+
+====Minor appearances====
+Leafeon debuted in ''[[M11|Giratina and the Sky Warrior]]'', where it was together with an Eevee and its other six [[Eeveelution|evolved forms]] at the time.
+
+[[Virgil]]'s male Leafeon appeared in ''[[BW102|Team Eevee and the Pokémon Rescue Squad!]]'', along with an Eevee and her other evolved forms at the time. He reappeared in a flashback in [[BW103|the next episode]].
+
+In ''[[XY090|Tag Team Battle Inspiration!]]'', {{an|Shauna}}'s fantasy featured a Leafeon as she imagined what [[Serena's Eevee]] could evolve into.
+
+In ''[[XY101|A Dancing Debut!]]'', [[Sara Lee]]'s Leafeon competed in the {{to|Couriway}} {{pkmn|Showcase}} alongside a {{p|Glaceon}}.
+
+A {{pkmn|Trainer}}'s Leafeon appeared in ''[[XY125|A League of His Own!]]''.
+
+In ''[[JN049|To Train, or Not to Train!]]'', a Leafeon was at the [[Eevee Evolution Lab]]. It reappeared in ''[[JN120|Infinite Possibilities!]]'', alongside another Leafeon.
+
+A Leafeon appeared in a fantasy in ''[[JN063|On Land, In the Sea, and to the Future!]]''.
+
+A Leafeon appeared in a fantasy in ''[[JN120|Infinite Possibilities!]]''.
+
+A Leafeon appeared in ''[[HZ085|The Pokémon Paradise of Laqua!]]'', among the Pokémon living in [[Laqua]].
+
+A Leafeon appeared in ''[[HZ089|Where the Adventure Leads]]''.
+
+====Pokédex entries====
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP155|Leafeon|Ash's Pokédex|Leafeon, the Verdant Pokémon. Leafeon is always surrounded by fresh clean air because it uses {{m|Synthesis|photosynthesis}} just like a plant.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW102|Leafeon|Ash's Pokédex|Leafeon, the Verdant Pokémon. Because Leafeon's cells are like a plant, it performs photosynthesis.}}
+{{Animedexfooter/Pokémon|Unova}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN094|Leafeon|Chloe's Rotom Phone|Leafeon, the Verdant Pokémon. A {{t|Grass}} type. Like plants, Leafeon photosynthesize and generate extremely fresh air. The perfume made from its leaves is quite popular.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===POKÉTOON===
+[[File:Leafeon Sylveon PT.png|thumb|250px|Leafeon in [[POKÉTOON]]]]
+A Leafeon appeared in [[PT12]], under the ownership of a Trainer.
+{{-}}
+
+==In the manga==
+[[File:Lily Leafeon.png|thumb|250px|Leafeon in [[Phantom Thief Pokémon 7]]]]
+[[File:Riku Leafeon EYE.png|thumb|250px|Leafeon in [[I Can't Choose, Eevee]]]]
+===Phantom Thief Pokémon 7===
+[[Nazuna]] had a Leafeon, which she lent her to {{OBP|Lily|Pokémon 7}} in ''[[P7-10|Breaking Into The Enemy's Lair!]]'' when she had no Pokémon of her own to use for a {{pkmn|battle}}.
+
+===Pokémon Adventures===
+===={{MangaArc|HeartGold & SoulSilver}}====
+In ''[[PS460|All About Arceus IX]]'', the [[Kimono Girl]]s added a Leafeon to their team, completing their [[Eeveelution]] set.
+
+===={{MangaArc|X & Y}}====
+A Leafeon appeared in a fantasy in ''[[PS553|Sylveon Enchants]]''.
+
+===Pokémon Diamond and Pearl Adventure!===
+[[Mitsumi]] owns a Leafeon that first appeared in ''[[DPA08|Team Galactic's Conspiracy, Revealed!!]]''.
+
+===I Can't Choose, Eevee===
+In [[EYE05]], {{OBP|Riku|I Can't Choose, Eevee}}'s {{p|Eevee}} is revealed to have evolved into a Leafeon.
+{{-}}
+
+==In the TCG==
+{{main|Leafeon (TCG)}}
+
+==Other appearances==
+[[File:UNITE Leafeon.png|thumb|200px|Leafeon in Pokémon UNITE]]
+===Super Smash Bros. Brawl===
+Leafeon appears as a trophy alongside its counterpart, {{p|Glaceon}}.
+
+====Trophy information====
+''A Fresh Snow Pokémon and a Verdant Pokémon. They are both evolutions of Eevee. Eevee can evolve into [[Eeveelution|seven different Pokémon]] depending on what it has in its possession and where it is when it evolves. Glaceon is an {{type|Ice}} and can freeze all the fur on its body into protective quills. Leafeon is a {{type|Grass}}, and the air around it is always fresh and clean.''
+
+===[[Pokémon UNITE]]===
+{{main|Leafeon (UNITE)}}
+Leafeon is playable through obtaining a Unite License. It is a melee speedster that starts as Eevee, which evolves into Leafeon at level 4.
+{{-}}
+
+==Trivia==
+* Leafeon was designed by [[Atsuko Nishida]].<ref>(2018) ''EVs''. ([http://lavacutcontent.com/ken-sugimori-eevee-origins/ English translation] written by Anthony Madry and commissioned by Dr. Lava)</ref><ref>[https://twitter.com/atsuko_nishida/status/783643367523557376 Tweet by AtsukoNishida (@atsuko_nishida).] Posted on October 5, 2016.</ref>
+* According to the {{v2|Diamond and Pearl|s}} [[Pokédex]], Leafeon, {{p|Glaceon}}, and {{p|Umbreon}} have identical footprints.
+* As there is no [[Moss Rock]] in {{game|HeartGold and SoulSilver|s}}, it is impossible to evolve Eevee into a Leafeon in these games. The same applies for {{p|Magnezone}}, {{p|Probopass}}, and {{p|Glaceon}}. All have to be traded from {{game2|Diamond|Pearl|Platinum}} to be obtained.
+* Despite Eevee being obtainable before the {{un|Pokémon League}} in [[Pokémon Black and White Versions 2]], it cannot [[Evolution|evolve]] into Leafeon or Glaceon until after the Elite Four is defeated. This is because [[Pinwheel Forest]], where the Moss Rock is located, cannot be reached until that point in the game, as the entrance to the [[Skyarrow Bridge]] is blocked.
+* Leafeon, along with Glaceon, is the only Eeveelution to not be seen evolving from Eevee onscreen in the animated series.
+
+===Origin===
+Leafeon bears many similarities to cats and foxes, from their appearances, behaviors such as tree climbing, and cries; Leafeon's [[cry]] sounds similar to a cat's meow or a fox's chirp. Its coloration appears to be inspired by the markings found on animals like the {{wp|Siamese cat}} or the {{wp|red fox}}. As it is overgrown with leaves, it also has traits of {{wp|plant}}s, such as the ability to utilize {{wp|photosynthesis}}. The brown marks on its paws give the appearance that they were buried. 
+
+====Name origin====
+Leafeon may be a combination of ''{{wp|leaf}}'' and ''eon'' (an immeasurably long period of time, possibly referring to how long evolution takes naturally). ''Eon'' is a suffix all {{p|Eevee}} [[Evolution]]s share and was Eevee's English prototype name.
+
+Leafia may be derived from ''leaf''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=リーフィア ''Leafia''|jameaning=From ''leaf''
+|fr=Phyllali|frmeaning=From {{tt|φύλλον ''phúllon''|Greek for leaf}} and ''-li'' (common suffix for all Eeveelutions in French)
+|es=Leafeon|esmeaning=Same as English name
+|de=Folipurba|demeaning=From ''{{tt|folium|Latin for leaf}}'', ''{{tt|pura|Latin for pure}}'', ''{{tt|herba|Latin for plant}}'', and ''-a'' (common suffix for all Eeveelutions in German)
+|it=Leafeon|itmeaning=Same as English name
+|ko=리피아 ''Lipia''|komeaning=Transcription of Japanese name
+|zh_cmn=葉伊布 / 叶伊布 ''Yèyībù''{{tt|*|Games, Post-Gen VII media}}<br>葉精靈 / 叶精灵 ''Yèjīnglíng''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|葉 / 叶 ''yè''|leaf}} and 伊布 ''{{p|Eevee|Yībù}}''<br>From {{tt|葉 / 叶 ''yè''|leaf}} and {{tt|精靈 / 精灵 ''jīnglíng''|spirit, fairy, elf; former suffix for Eeveelutions in Mandarin}}
+|zh_yue=葉伊布 ''Yihpyībou''{{tt|*|Games, Post-Gen VII media}}<br>葉伊貝 ''Yihpyībui''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|葉 ''yihp''|leaf}} and 伊布 ''{{p|Eevee|Yībou}}''<br>From {{tt|葉 ''yihp''|leaf}} and {{tt|伊貝 ''Yībui''|former translation of Eevee}}
+|hi=लीफ़ीवी ''Leafeevee''|himeaning=From ''leaf'' and ''{{p|Eevee}}''
+|th=ลีเฟีย ''Lifia''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Leafeon (UNITE)]]
+
+==References==
+<references />
+
+==External links==
+{{Eeveelutions}}
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0469|prev=Yanmega|nextnum=0471|next=Glaceon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Pokémon that have had their Evolution method changed]]
+[[Category:Super Smash Bros. trophies]]
+
+[[de:Folipurba]]
+[[es:Leafeon]]
+[[fr:Phyllali]]
+[[it:Leafeon]]
+[[ja:リーフィア]]
+[[zh:叶伊布]]

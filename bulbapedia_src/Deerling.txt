@@ -1,0 +1,967 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Grass}}
+{{PokémonPrevNext/GO|species=Deerling}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0584|prev=Vanilluxe|nextnum=0586|next=Sawsbuck|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Deerling
+|jname=シキジカ
+|tmname=Shikijika
+|forme=4
+|form1=Spring Form
+|form2=Summer Form
+|form3=Autumn Form
+|form4=Winter Form
+|image=0585Deerling-Spring.png
+|image2=0585Deerling-Summer.png
+|image3=0585Deerling-Autumn.png
+|image4=0585Deerling-Winter.png
+|category=Season
+|typebox=1
+|type1=Normal
+|type2=Grass
+|abilityn=d
+|ability1=Chlorophyll
+|ability2=Sap Sipper
+|abilityd=Serene Grace
+|ndex=0585
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=43.0
+|weight-kg=19.5
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=67
+|lv100exp=1,000,000
+|gendercode=127
+|color=Pink
+|formcolors=yes
+|catchrate=190
+|evtotal=1
+|evsp=1
+|body=08
+|pokefordex=deerling
+|generation=5
+|friendship=70
+}}
+'''Deerling''' ([[List of Japanese Pokémon names|Japanese]]: '''シキジカ''' ''Shikijika'') is a dual-type {{2t|Normal|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Sawsbuck}} starting at [[level]] 34.
+
+Deerling has four [[#Form data|forms]]: '''Spring Form''', '''Summer Form''', '''Autumn Form''', and '''Winter Form'''. Deerling changes forms depending on the location the game was loaded in. In [[Paldea]], Spring Form corresponds to {{DL|Paldea|South Province}}, Summer Form to {{DL|Paldea|East Province}}, Autumn Form to {{DL|Paldea|West Province}}, and Winter Form to {{DL|Paldea|North Province}}.
+
+When it debuted, Deerling's form changed based on the {{season}}. From [[Generation VI]] to {{gen|VIII}}, its form could not be changed at all, and only the Spring Form could be found in the wild, with the other forms being obtainable exclusively via [[transfer]] from a Generation V game or from {{g|GO}}.
+
+(Refer to [[#Form data|Game data&rarr;Form data]] for more details.)
+
+==Biology==
+Deerling is a {{OBP|Pokémon|species}} that resembles a {{wp|deer}} fawn. The upper side of its body is pink in the spring, green in the summer, orange in the autumn, and brown in the winter. Deerling has a yellow-patterned rim, and its underside is peach. It sports a yellow floral tuft on its head with small antlers hidden underneath, and similar yellow coloration on the insides of its tapering ears. The tips of its limbs are colored black and its pink tail is small.
+
+If Deerling senses animosity, it will hide in tall grass. It moves in herds, as it is timid around humans. Despite this, Deerling does whatever it wants, even around humans. Deerling will take a liking towards anyone who feeds it. It will playfully headbutt anyone it likes, even if headbutts are a little painful. It dwells in sparsely populated areas, away from humans. It is herbivorous. Despite their innocent and adorable appearance, Deerling are considered pests by farmers, as they tend to eat all of their plant shoots. Because of this, and because {{p|Lycanroc}} is a natural enemy of Deerling, farmers often use Lycanroc to guard their fields from Deerling.
+
+===Forms===
+Deerling has four forms: Spring Form, Summer Form, Autumn Form, and Winter Form.
+
+Aside from differing in coloration, Deerling also has different scents depending on the season. During spring, its scent is delicate, sweet, and calming. During summer, it has a distinct grassy scent. During autumn, it has a softly sweet scent. During winter, Deerling has no scent.
+
+<div class="scrollbox">
+{| style="margin:auto; text-align:center; font-size:80%; background: #{{normal color}}; {{roundy|10px}} border: 3px solid #{{grass color dark}}"
+|-
+| {{color|000|Spring Form}}
+| {{color|000|Summer Form}}
+| {{color|000|Autumn Form}}
+| {{color|000|Winter Form}}
+|-
+| style="{{roundy|96px}} border: 2px solid #{{grass color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:0585Deerling-Spring.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{grass color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:0585Deerling-Summer.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{grass color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:0585Deerling-Autumn.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{grass color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:0585Deerling-Winter.png|100px]]
+|}
+</div>
+
+===Evolution===
+Deerling evolves into {{p|Sawsbuck}}.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Spring Form'''
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Spring
+|form1=Spring Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1=
+|no2=0586Sawsbuck-Spring
+|name2=Sawsbuck
+|form2=Spring Form
+|type1-2=Normal
+|type2-2=Grass}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Summer Form'''
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Summer
+|form1=Summer Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1=
+|no2=0586Sawsbuck-Summer
+|name2=Sawsbuck
+|form2=Summer Form
+|type1-2=Normal
+|type2-2=Grass}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Autumn Form'''
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Autumn
+|form1=Autumn Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1=
+|no2=0586Sawsbuck-Autumn
+|name2=Sawsbuck
+|form2=Autumn Form
+|type1-2=Normal
+|type2-2=Grass}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Winter Form'''
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Winter
+|form1=Winter Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1=
+|no2=0586Sawsbuck-Winter
+|name2=Sawsbuck
+|form2=Winter Form
+|type1-2=Normal
+|type2-2=Grass}}
+</div>
+</div>
+
+==Game data==
+===NPC appearances===
+* {{g|Super Mystery Dungeon}}: Deerling is one of the students at {{DL|Serene Village|School|Serene Village School}}. She often speaks what is on her mind and has a short temper but is good friends with {{p|Goomy}} and {{p|Espurr}}.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Grass}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=091|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=159|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.}}
+{{Dex/Entry1|v=White|entry=The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=190|reg2=Kitakami|reg3=Blueberry|num3=38}}
+{{Dex/Form|Spring Form}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=Deerling have different scents depending on the season. In early spring, these Pokémon give off a delicate, sweet, and calming scent.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Despite Deerling's adorable appearance, farmers consider it a nuisance since it loves plant shoots and will eat them all up.}}
+{{Dex/Form|Summer Form}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=To prevent Deerling from entering their fields, many farmers will have several {{P|Lycanroc}} stand guard, as they are the natural enemy of Deerling.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Deerling have different scents depending on the season. When a distinct grassy smell starts to waft from one, you know that summer has begun.}}
+{{Dex/Form|Autumn Form}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=These Pokémon are not shy—they will behave as they please, even in front of people. If you feed one of them, it will quickly take a liking to you.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Deerling have different scents depending on the season. In this form, Deerling have a softly sweet scent that lingers in the nose.}}
+{{Dex/Form|Winter Form}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=Deerling’s scent changes with the seasons, but when the Pokémon is in its Winter Form, it has hardly any scent at all.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon will playfully headbutt those it gets along well with. It has antlers hidden under its flower, so the headbutts are a little painful.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Deerling SV.png|x200px]]
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Deerling SV Blueberry.png|x200px]]
+|-
+| Spring Form Deerling in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Summer Form Deerling in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|6|Unova}} and {{rtn|7|Unova}}, [[Dragonspiral Tower]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|6|Unova}} and {{rtn|7|Unova}}<br>[[List of in-game event Pokémon in Pokémon Black 2 and White 2#Deerling|Received]] from a {{tc|Scientist}} on {{rt|6|Unova}}{{tt|*|Has its Hidden Ability Serene Grace}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Sawsbuck}} <small>('''Spring Form''')</small><br>[[Pokémon Bank]] <small>('''Summer/Autumn/Winter Forms''')</small>}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{rt|117|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}}) <small>('''Spring Form''')</small><br>[[Pokémon Bank]] <small>('''Summer/Autumn/Winter Forms''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Two)|Area Two]], [[South Province (Area Three)|Area Three]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]] <small>('''Spring Form''')</small><br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]] <small>('''Summer Form''')</small><br>West Province: [[West Province (Area Two)|Area Two]], [[West Province (Area Three)|Area Three]] <small>('''Autumn Form''')</small><br>North Province: [[Dalizapa Passage]], [[Glaseado Mountain]] <small>('''Winter Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Deerling|1★}}) <small>('''Spring Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]] <small>('''Spring Form''')</small><br>[[Coastal Biome]], [[Torchlit Labyrinth]] <small>('''Summer Form''')</small><br>[[Canyon Biome]], [[Chargestone Cavern]] <small>('''Autumn Form''')</small><br>[[Polar Biome]] <small>('''Winter Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Echo Valley]], [[Challenger's Ground]] <small>('''Spring Form''')</small><br>Forest: [[Misty Edgewater]] <small>('''Summer Form''')</small><br>Autumnwood: [[Volcanic Slope]], [[Firebreathing Mountain]] <small>('''Autumn Form''')</small><br>Glacier: [[Frozen Tundra]] <small>('''Winter Form''')</small>}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Verdant Plaza#Four Seasons in the Forest|Verdant Plaza: Four Seasons in the Forest]] <small>('''All Forms''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 3|Island of Haste: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Trailhead Field|White Ruins: Trailhead Field]] <small>(All Areas; '''All Forms''')</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 18|Area 18: Stage 06]] <small>('''Spring Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Buzzwole Sea]]<sup>Final</sup> <small>('''Spring Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Elsewhere Forest]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Zaffiro Coast|Zaffiro Coast: Stage 622]] <small>('''Autumn Form''')</small><br><!--
+-->[[Marron Trail|Marron Trail: Stage 671]] <small>('''Winter Form''')</small><br><!--
+-->Event: [[Pokémon Safari#Week 13|''Pokémon Safari'']] <small>(Week 13; '''Spring Form''')</small><br><!--
+-->Event: [[Pokémon Safari#Week 14|''Pokémon Safari'']] <small>(Week 14; '''Summer Form''')</small><br><!--
+
+-->'''Former locations:'''<br><!--
+-->Event: [[Pokémon Safari/Live service period#Eighth release|''Pokémon Safari'']] <small>(Eighth release; '''Spring Form''')</small><br><!--
+-->Event: [[Pokémon Safari/Live service period#22nd release|''Pokémon Safari'']] <small>(22nd release; '''Summer Form''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Academy event]] (''[[Pasio Academy Opening]]''): {{sync|Rosa|Deerling|Academy}} <small>('''Spring Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|type2=Grass
+|HP=60
+|Attack=60
+|Defense=50
+|SpAtk=40
+|SpDef=50
+|Speed=75}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Grass
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=0
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+|sapsipper=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Deerling|Normal|Grass|5}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|4|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|7|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|10|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level9|13|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|16|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|20|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level9|24|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/level9|28|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|32|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|37|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/level9|42|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Deerling|Normal|Grass|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Deerling|Normal|Grass|5}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tmf/9|Deerling|Normal|Grass|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Deerling|Normal|Grass|5}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026-Alola|Raichu}}{{MSP/H|0027|Sandshrew}}{{MSP/H|0058|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059-Hisui|Arcanine}}{{MSP/H|0135|Jolteon}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0203|Girafarig}}{{MSP/H|0981|Farigiraf}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215-Hisui|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}{{MSP/H|0522|Blitzle}}{{MSP/H|0523|Zebstrika}}{{MSP/H|0570|Zorua}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571-Hisui|Zoroark}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0877|Morpeko}}{{MSP/H|0921|Pawmi}}{{MSP/H|0922|Pawmo}}{{MSP/H|0923|Pawmot}}|Agility|Psychic|Status|—|—|30}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0203|Girafarig}}{{MSP/H|0981|Farigiraf}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/breed9|{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}{{MSP/H|0570|Zorua}}{{MSP/H|0571|Zoroark}}|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128-Paldea Blaze|Tauros}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0273|Seedot}}{{MSP/H|0287|Slakoth}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}{{MSP/H|0875|Eiscue}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}{{MSP/H|0971|Greavard}}{{MSP/H|0972|Houndstone}}|Headbutt|Normal|Physical|70|100|15||'''}}
+{{learnlist/breed9|{{bag/s|TM Normal|SV|TM070}}{{tt|*|No Pokémon in the Field Group can learn Sleep Talk via level-up. However, the move is available via TM070 and can be passed down from every Pokémon in the Egg Group, or copied via Mirror Herb.}}|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0470|Leafeon}}{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/breedf/9|Deerling|Normal|Grass|5}}
+
+===Side game data===
+====Spring Form====
+{{Spindata/Head|type=Normal|type2=Grass}}
+{{Spindata/PSMD|col=6|type=Normal|ndex=585
+|coset=3
+|conto={{p|Sawsbuck}}, {{p|Braixen}}, {{p|Espurr}}, {{p|Goomy}}
+|recruitment=Visit a dungeon with a student after clearing the [[Ancient Barrow]]
+|P1=Let's go! We'll have fun!
+|P2=Eep… This is grueling.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=585
+|walk=1.55
+|hp=51
+|attack=70
+|defense=48
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=585
+|pad=She is {{p|Snivy}}'s friend. She is cheerful, active, and very popular.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=585|bttype=Grass
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=585|stype=Grass|num=501
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Eject
+|skilldesc=Removes one non-Support Pokémon icon without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=585
+|hatch=N/A
+|buddy=3
+|candy=Deerling
+|evocandy=50
+|stamina=155
+|attack=115
+|defense=100
+|fast={{m|Tackle}}, {{m|Take Down}}
+|special={{m|Energy Ball}}, {{m|Seed Bomb}}, {{m|Wild Charge}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=585|pdex=065
+|dex=Deerling have different appearances depending on the {{season}}. They usually stick close to {{p|Sawsbuck}}, but because they’re so curious, they sometimes wander off on their own and get lost.}}
+|}
+
+====Summer Form====
+{{Spindata/Head|type=Normal|type2=Grass}}
+{{Spindata/RumbleBlast|type=Normal
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=585S
+|walk=1.55
+|hp=51
+|attack=70
+|defense=48
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|type=Normal|ndex=585S|stype=Grass|num=501
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Cross Attack
+|skilldesc=Increases damage when making a + shaped match.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=585S
+|hatch=N/A
+|buddy=3
+|candy=Deerling
+|evocandy=50
+|stamina=155
+|attack=115
+|defense=100
+|fast={{m|Tackle}}, {{m|Take Down}}
+|special={{m|Energy Ball}}, {{m|Seed Bomb}}, {{m|Wild Charge}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=585S|pdex=065
+|dex=Deerling have different appearances depending on the {{season}}. They usually stick close to {{p|Sawsbuck}}, but because they’re so curious, they sometimes wander off on their own and get lost.}}
+|}
+
+====Autumn Form====
+{{Spindata/Head|type=Normal|type2=Grass}}
+{{Spindata/RumbleBlast|type=Normal
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=585A
+|walk=1.55
+|hp=51
+|attack=70
+|defense=48
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|type=Normal|ndex=585A|stype=Grass|num=501
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Cheer
+|skilldesc=Increases the chance that the next match's skill is triggered.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=585A
+|hatch=N/A
+|buddy=3
+|candy=Deerling
+|evocandy=50
+|stamina=155
+|attack=115
+|defense=100
+|fast={{m|Tackle}}, {{m|Take Down}}
+|special={{m|Energy Ball}}, {{m|Seed Bomb}}, {{m|Wild Charge}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=585A|pdex=065
+|dex=Deerling have different appearances depending on the {{season}}. They usually stick close to {{p|Sawsbuck}}, but because they’re so curious, they sometimes wander off on their own and get lost.}}
+|}
+
+====Winter Form====
+{{Spindata/Head|type=Normal|type2=Grass}}
+{{Spindata/RumbleBlast|type=Normal
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=585W
+|walk=1.55
+|hp=51
+|attack=70
+|defense=48
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|type=Normal|ndex=585W|stype=Grass|num=501
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Calm Down
+|skilldesc=Delays your opponent's disruptions
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=585W
+|hatch=N/A
+|buddy=3
+|candy=Deerling
+|evocandy=50
+|stamina=155
+|attack=115
+|defense=100
+|fast={{m|Tackle}}, {{m|Take Down}}
+|special={{m|Energy Ball}}, {{m|Seed Bomb}}, {{m|Wild Charge}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=585W|pdex=065
+|dex=Deerling have different appearances depending on the {{season}}. They usually stick close to {{p|Sawsbuck}}, but because they’re so curious, they sometimes wander off on their own and get lost.}}
+|}
+
+===Form data===
+{{Incomplete|section|needs=Needs more Gen 9 details (Terarium, how exactly the form changes, breeding, etc.)}}
+Deerling has four different forms based on the four seasons. These forms are interchangeable in [[Generation V]] and [[Generation IX]] but not in other games. They are purely cosmetic.
+
+;Generation V
+In {{game4|BWB2W2}}, Deerling will change its form to match the current {{season}} if it is in the [[party]] when the season changes. All {{pkmn2|wild}}, [[Pokémon breeding|bred]], and [[Non-player character|NPC]] Trainer-owned Deerling will match the current season, with the exception of those owned by NPC Trainers in the [[Battle Subway]] and the [[Pokémon World Tournament]], which are all Spring Form.
+* When the month is January, May, or September, the season is {{season|spring}}, and it becomes Spring Form.
+* When the month is February, June, or October, the season is {{season|summer}}, and it becomes Summer Form.
+* When the month is March, July, or November, the season is {{season|autumn}}, and it becomes Autumn Form.
+* When the month is April, August, or December, the season is {{season|winter}}, and it becomes Winter Form.
+
+;Generations VI to VIII
+From [[Generation VI]] to {{gen|VIII}}, with the abandonment of seasons as a mechanic, Deerling is unable to change forms. All wild and NPC Trainer-owned Deerling are Spring Form, while bred Deerling are in the same form as their mother, or the same form as the Deerling or Sawsbuck parent if bred with {{p|Ditto}}. The Summer, Autumn, and Winter forms are only obtainable via [[transfer]] from a [[Generation V]] game or from {{g|GO}}.
+
+In {{g|Super Mystery Dungeon}}, only the Spring Form is available.
+;Generation IX
+In {{g|Scarlet and Violet}}, Deerling is once again able to change forms, but the form it will become is now based on the location that the game was loaded in rather than the season. Wild Deerling vary in form based on location. In [[Paldea]], Spring Form corresponds to {{DL|Paldea|South Province}}, Summer Form to {{DL|Paldea|East Province}}, Autumn Form to {{DL|Paldea|West Province}}, and Winter Form to {{DL|Paldea|North Province}}.
+
+In general, Spring Form Deerling can be found in South Province ([[South Province (Area One)|Areas One]], [[South Province (Area Two)|Two]], [[South Province (Area Three)|Three]], [[South Province (Area Four)|Four]], and [[South Province (Area Five)|Five]]) and in 1★ [[Tera Raid Battle]]s, Summer Form in East Province ([[East Province (Area One)|Areas One]] and [[East Province (Area Two)|Two]]), Autumn Form in West Province ([[West Province (Area Two)|Areas Two]] and [[West Province (Area Three)|Three]]), and Winter Form in North Province ([[Dalizapa Passage]] and [[Glaseado Mountain]]).
+
+{{Evobox/Formes
+|sprite1=0585Deerling-Spring
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|forme1=Spring Form
+|loc1=In {{color2|000|Paldea#South Province|South Province}}
+|sprite2=0585Deerling-Summer
+|type1-2=Normal
+|type2-2=Grass
+|forme2=Summer Form
+|loc2=In {{color2|000|Paldea#East Province|East Province}}
+|sprite3=0585Deerling-Autumn
+|type1-3=Normal
+|type2-3=Grass
+|forme3=Autumn Form
+|loc3=In {{color2|000|Paldea#West Province|West Province}}
+|sprite4=0585Deerling-Winter
+|type1-4=Normal
+|type2-4=Grass
+|forme4=Winter Form
+|loc4=In {{color2|000|Paldea#North Province|North Province}}
+}}
+
+===Evolution data===
+====Spring Form====
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Spring
+|form1=Spring Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 34}}
+|no2=0586Sawsbuck-Spring
+|name2=Sawsbuck
+|form2=Spring Form
+|type1-2=Normal
+|type2-2=Grass}}
+
+====Summer Form====
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Summer
+|form1=Summer Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 34}}
+|no2=0586Sawsbuck-Summer
+|name2=Sawsbuck
+|form2=Summer Form
+|type1-2=Normal
+|type2-2=Grass}}
+
+====Autumn Form====
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Autumn
+|form1=Autumn Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 34}}
+|no2=0586Sawsbuck-Autumn
+|name2=Sawsbuck
+|form2=Autumn Form
+|type1-2=Normal
+|type2-2=Grass}}
+
+====Winter Form====
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Winter
+|form1=Winter Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 34}}
+|no2=0586Sawsbuck-Winter
+|name2=Sawsbuck
+|form2=Winter Form
+|type1-2=Normal
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Grass}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5/4Forms|ndex=585|form1=S|form2=A|form3=W}}
+{{Spritebox/6/4Forms|ndex=585|form1=S|form2=A|form3=W|crop=71}}
+{{Spritebox/7/4Forms|ndex=585|form1=S|form2=A|form3=W|crop=71}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9/4Forms|ndex=0585|form1=S|form2=A|form3=W}}-->
+{{Spritebox/HOME/4Forms|ndex=0585|form1=S|form2=A|form3=W}}
+{{Spritebox/Footer|585|Deerling}}
+
+==In animation==
+[[File:Daniela Deerling.png|thumb|250px|Spring Form Deerling in {{aniseries|BW}}]]
+[[File:Summer Deerling anime.png|thumb|250px|Summer Form Deerling in {{aniseries|BW}}]]
+===Main series===
+====Major appearances====
+Multiple Spring Form Deerling appeared in ''[[BW002|Enter Iris and Axew!]]''. {{Ash}} attempted to {{pkmn2|caught|catch}} one, but as he had not weakened it, it was able to deflect the {{i|Poké Ball}} and fled with the rest of the herd.
+
+In ''[[BW012|Here Comes the Trubbish Squad!]]'', [[Daniela]] used a Spring Form Deerling to battle Ash and {{AP|Pikachu}}.
+
+In ''[[BW018|Sewaddle and Burgh in Pinwheel Forest!]]'', a {{AP|Sewaddle}} accidentally latched onto a {{pkmn2|wild}} Spring Form Deerling with {{m|String Shot}}, startling it. This caused it to buck and thrash around wildly through the forest in an effort to get Sewaddle off, but this put Sewaddle in serious danger.
+
+At the beginning of [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']], Ash saved two Spring Form Deerling from falling off a cliff with {{OBP|Victini|M14}}'s help.
+
+Multiple Summer Form Deerling made their animated series debut in ''[[BW054|The Four Seasons of Sawsbuck!]]''. Ash and {{OBP|Robert|BW054}} followed one in order to find {{p|Sawsbuck}}.
+
+In ''[[BW055|Scraggy and the Demanding Gothita!]]'', [[Katharine]] first offered to trade a Summer Form Deerling to Ash in exchange for his {{AP|Scraggy}}. Deerling was later used to help calm down a wild {{p|Garbodor}} with {{m|Aromatherapy}}.
+
+====Minor appearances====
+Multiple Spring Form Deerling debuted in ''[[BW001|In The Shadow of Zekrom!]]''.
+
+In ''[[BW003|A Sandile Gusher of Change!]]'', multiple Deerling, {{p|Patrat}}, and {{p|Pidove}} needed help from Ash and {{ashfr}}.
+
+A Deerling appeared in ''[[BW018|Sewaddle and Burgh in Pinwheel Forest!]]''.
+
+In ''[[BW019|A Connoisseur's Revenge!]]'', multiple {{pkmn|Trainer}}s' Deerling were at a [[Poké Mart]] near [[Castelia City]].
+
+In a flashback in ''[[BW033|Iris and Excadrill Against the Dragon Buster!]]'', a Deerling was one of {{an|Iris}}'s Pokémon friends when she was little in the [[Village of Dragons]].
+
+Three Deerling appeared in ''[[BW034|Gotta Catch a Roggenrola!]]''.
+
+In ''[[BW039|Reunion Battles In Nimbasa!]]'', [[Dino]] used a Spring Form Deerling against {{OBP|Omega|BW039}}'s {{p|Patrat}} during the first round of the [[Club Battle]] tournament. It ultimately won, allowing Dino to advance to the second round.
+
+Autumn Form Deerling debuted in the opening sequences of [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']], while multiple Summer Form Deerling debuted in both movies proper.
+
+A Deerling appeared in ''[[BW042|Club Battle Finale: A Hero's Outcome!]]''.
+
+A Deerling appeared in ''[[BW047|Crisis from the Underground Up!]]''.
+
+In ''[[BW051|Lost at the Stamp Rally!]]'', a Spring Form Deerling was seen performing in a [[Pokémon Musical]] show. Multiple other Deerling also appeared in the same episode.
+
+Multiple Deerling appeared in ''[[BW052|Ash Versus the Champion!]]''.
+
+Multiple Deerling appeared in a flashback in ''[[BW053|A Maractus Musical!]]''.
+
+Multiple Deerling appeared in ''[[BW059|Stopping the Rage of Legends! Part 1]]''.
+
+A Deerling briefly appeared in ''[[BW071|Search for the Clubultimate!]]''.
+
+In ''[[BW080|Clash of the Connoisseurs!]]'', [[Burgundy]], disguised as Fauxgundy, reviewed a Deerling as a possible Pokémon for [[Marigold]].
+
+A Deerling appeared in ''[[BW083|Rocking the Virbank Gym! Part 1]]''.
+
+Multiple Deerling appeared in ''[[BW085|All for the Love of Meloetta!]]''.
+
+A Deerling appeared in a flashback in ''[[BW086|Piplup, Pansage, and a Meeting of the Times!]]''.
+
+Multiple Summer Form Deerling physically appeared in ''[[M15|Kyurem VS. The Sword of Justice]]''. The {{OBP|Swords of Justice|M15}} legend also featured their Spring, Summer, and Autumn Forms.
+
+A Trainer's Summer Form Deerling appeared in ''[[BW090|Jostling for the Junior Cup!]]''.
+
+A Summer Form Deerling appeared in ''[[BW092|Ash, Iris, and Trip: Then There Were Three!]]''.
+
+In ''[[BW100|A Village Homecoming!]]'', the {{OBP|elder|Village of Dragons}}'s flashback featured a Spring Form Deerling.
+
+In ''[[BW101|Drayden Versus Iris: Past, Present, and Future!]]'', Iris's flashback featured a Spring Form Deerling.
+
+A Trainer's Deerling appeared in ''[[BW103|Curtain Up, Unova League!]]''.
+
+Two Deerling appeared in ''[[BW104|Mission: Defeat Your Rival!]]'', both under the ownership of a Trainer.
+
+A Trainer's Deerling appeared in ''[[BW106|Strong Strategy Steals the Show!]]''.
+
+Five Deerling appeared in ''[[BW112|Team Plasma's Pokémon Power Plot!]]'', with one under the ownership of a Trainer, two being wild, and the other two appearing in a flashback.
+
+A Summer Form Deerling appeared in ''[[BW114|Saving Braviary!]]''.
+
+A Summer Form Deerling appeared in ''[[BW117|Team Plasma's Pokémon Manipulation!]]''.
+
+In ''[[BW118|Secrets From Out of the Fog!]]'', multiple Summer Form Deerling were living at [[N's hideout]].
+
+In ''[[BW125|Cilan and the Case of the Purrloin Witness!]]'', a Trainer's Deerling was on the cruise ship.
+
+In ''[[BW127|The Island of Illusions!]]'', multiple Summer Form Deerling were living at [[Grand Spectrala Islet]].
+
+A Summer Form Deerling appeared in a flashback in ''[[BW131|The Path That Leads to Goodbye!]]''.
+
+A Summer Form Deerling appeared in ''[[Mewtwo — Prologue to Awakening]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', multiple Summer Form Deerling were living at [[Pokémon Hills]]. Two of the Deerling later helped put a fire out there.
+
+A Spring Form Deerling appeared in a fantasy or a flashback in ''[[BW134|The Journalist from Another Region!]]''.
+
+In ''[[BW137|Celebrating the Hero's Comet!]]'', a Summer Form Deerling was living at an {{OBP|unnamed island|BW137}} in the [[Decolore Islands]].
+
+In a flashback in ''[[M19|Volcanion and the Mechanical Marvel]]'', a Summer Form Deerling was living at the [[Nebel Plateau]].
+
+Two Summer Form Deerling appeared in ''[[HZ051|The Flower Tower]]''.
+
+Three Summer Form Deerling appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW002|Deerling|Ash's Pokédex|Deerling, the Season Pokémon. With the change of each season, Deerling's appearance changes as well.}}
+{{Animedexbody|BW054|Deerling|Ash's Pokédex|Deerling, the Season Pokémon. When sensing confrontation, Deerling hides in the grass. It also changes its appearance as the seasons change.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===POKÉTOON===
+[[File:Autumn Deerling PT.png|thumb|250px|Autumn Form Deerling in [[POKÉTOON]]]]
+Four Summer Form and two Autumn Form Deerling appeared in [[PT16]].
+{{-}}
+
+==In the manga==
+[[File:White Darlene.png|thumb|200px|Summer Form Deerling in [[Pokémon Adventures]]]]
+===Movie adaptations===
+A Deerling appeared in {{ma|White—Victini and Zekrom}}.
+
+===Pokémon Adventures===
+In ''[[PS469|Welcome to Striaton City!!]]'', a Spring Form Deerling was seen under the ownership of a female shopkeeper in [[Striaton City]].
+
+A Spring Form Deerling appeared in ''[[PS483|Special Delivery]]'' as one of the Pokémon competing in {{ci|Nimbasa}}'s [[Pokémon Musical]].
+
+Darlene, a female Deerling, was captured by {{adv|White}} during her preparation for the [[Battle Subway]] trial in ''[[PS488|Growing Pains]]''. She was seen in her Summer, Autumn, and Winter Forms.
+
+Two Deerling appeared in a fantasy in ''[[PS507|A Misunderstanding]]''.
+
+A Trainer's Deerling appeared in ''[[PS547|The Final Battle]]''.
+
+===Pokémon RéBURST===
+Deerling appeared in [[RB01]] and [[RB76]].
+{{-}}
+
+==In the TCG==
+{{main|Deerling (TCG)}}
+
+==Trivia==
+* Deerling's Winter Form is its only form that has not appeared in the {{pkmn|animated series}} yet.
+
+===Origin===
+Deerling may be based on a {{wp|sika deer}} fawn with a yellow flower on top of its head.
+
+The colors of its four different seasonal [[form]]s may be visual references to the colors of trees and bushes during the four {{season}}s: with pink representing blossoms in the {{season|spring}}, green representing fully grown leaves in the {{season|summer}}, orange representing the changing leaves in the {{season|autumn}}, and brown representing the bare, leafless tree and bush branches in the {{season|winter}}. Deerling's design was worked backwards from Sawsbuck's design.<ref name=ND204>''Nintendo Dream'' Vol. 204, April 2011 ([https://web.archive.org/web/20110704155314/http://shellspider.blog101.fc2.com/blog-entry-502.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream-2/ Translation by Dr. Lava])</ref>
+
+====Name origin====
+Deerling may be a combination of ''deer'' and ''darling'' or ''[[wiktionary:yearling|yearling]]'' (young animal between the age of one to two years old), with ''-ling'' being a common suffix to denote something that is small or immature; it may also reference the 1938 novel ''{{wp|The Yearling}}'', about a boy who adopts an orphaned fawn.
+
+''Shikijika'' may be a combination of 四季 ''shiki'' (four seasons) and 鹿 ''shika'' (deer).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Grass
+|ja=シキジカ ''Shikijika''|jameaning=From {{tt|四季 ''shiki''|four seasons}} and {{tt|鹿 ''shika''|deer}}
+|fr=Vivaldaim|frmeaning=From ''{{wp|Antonio Vivaldi|Vivaldi}}'' (composer of ''{{wp|The Four Seasons (Vivaldi)|The Four Seasons}}'') and {{tt|''daim''|fallow deer}}
+|es=Deerling|esmeaning=Same as English name
+|de=Sesokitz|demeaning=From {{tt|''Saison''|season}} and {{tt|''Rehkitz''|fawn}}
+|it=Deerling|itmeaning=Same as English name
+|ko=사철록 ''Sacheolrok''|komeaning=From {{tt|사철 ''sacheol''|four seasons}} and {{tt|록 (鹿) ''rok''|deer}}
+|zh_cmn=四季鹿 ''Sìjìlù''|zh_cmnmeaning=From {{tt|四季 ''sìjì''|four seasons}} and {{tt|鹿 ''lù''|deer}}
+|zh_yue=四季鹿 ''Seigwailúk''|zh_yuemeaning=From {{tt|四季 ''seigwai''|four seasons}} and {{tt|鹿 ''lúk''|deer}}
+|hi=हिरितु ''Hiritu''|himeaning=From {{tt|हिरन ''hiran'' / हिरण ''hiraṇ''|deer}} and {{tt|रितु ''ritu'' / ऋतु ''ŕtu''|season}}
+|ru=Дирлинг ''Dirling''|rumeaning=Transcription of English name
+|th=ชิคิจิกะ ''Chikhichika''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+<div style="display:inline-block">
+''Spring Form''
+{{langtable
+|color={{normal color}}|bordercolor={{spring color}}
+|ja=はるのすがた ''{{tt|Haru no Sugata|Spring Form}}''
+|zh_yue=春天的樣子 ''{{tt|Chēuntīn dīk Yeuhngjí|Spring Form}}''
+|zh_cmn=春天的樣子 / 春天的样子 ''{{tt|Chūntiān de Yàngzi|Spring Form}}''
+|fr=Forme Printemps
+|de=Frühlingsform
+|hi=स्प्रिंग फ़ॉर्म ''Spring Form''
+|id=Wujud Musim Semi{{tt|*|Pokémon GO}}<br>Bentuk Musim Semi{{tt|*|Official site}}
+|it=Forma Primavera
+|ko=봄의 모습 ''{{tt|Bom-ui Moseup|Spring Form}}''
+|ms=Bentuk Musim Bunga
+|pt_br=Forma Primavera
+|es=Forma Primavera
+|pl=Forma Wiosenna
+|th=ร่างฤดูใบไม้ผลิ ''Rang Ridubaimaiphli''
+|tr=İlkbahar Formu
+}}
+</div>
+<div style="display:inline-block">
+''Summer Form''
+{{langtable
+|color={{normal color}}|bordercolor={{summer color}}
+|ja=なつのすがた ''{{tt|Natsu no Sugata|Summer Form}}''
+|zh_yue=夏天的樣子 ''{{tt|Hahtīn dīk Yeuhngjí|Summer Form}}''
+|zh_cmn=夏天的樣子 / 夏天的样子 ''{{tt|Xiàtiān de Yàngzi|Summer Form}}''
+|fr=Forme Été
+|de=Sommerform
+|hi=समर फ़ॉर्म ''Summer Form''
+|id=Wujud Musim Panas{{tt|*|Pokémon GO}}<br>Bentuk Musim Panas{{tt|*|Official site}}
+|it=Forma Estate
+|ko=여름의 모습 ''{{tt|Yeoreum-ui Moseup|Summer Form}}''
+|ms=Bentuk Musim Panas
+|pt_br=Forma Verão
+|es=Forma Verano
+|pl=Forma Letnia
+|th=ร่างฤดูร้อน ''Rang Riduron''
+|tr=Yaz Formu
+}}
+</div>
+<div style="display:inline-block">
+''Autumn Form''
+{{langtable
+|color={{normal color}}|bordercolor={{autumn color}}
+|ja=あきのすがた ''{{tt|Aki no Sugata|Autumn Form}}''
+|zh_yue=秋天的樣子 ''{{tt|Chāutīn dīk Yeuhngjí|Autumn Form}}''
+|zh_cmn=秋天的樣子 / 秋天的样子 ''{{tt|Qiūtiān de Yàngzi|Autumn Form}}''
+|fr=Forme Automne
+|de=Herbstform
+|hi=ऑटम फ़ॉर्म ''Autumn Form''
+|id=Wujud Musim Gugur{{tt|*|Pokémon GO}}<br>Bentuk Musim Gugur{{tt|*|Official site}}
+|it=Forma Autunno
+|ko=가을의 모습 ''{{tt|Ga-eur-ui Moseup|Autumn Form}}''
+|ms=Bentuk Musim Luruh
+|pt_br=Forma Outono
+|es=Forma Otoño
+|pl=Forma Jesienna
+|th=ร่างฤดูใบไม้ร่วง ''Rang Ridubaimairuang''
+|tr=Sonbahar Formu
+}}
+</div>
+<div style="display:inline-block">
+''Winter Form''
+{{langtable
+|color={{normal color}}|bordercolor={{winter color}}
+|ja=ふゆのすがた ''{{tt|Fuyu no Sugata|Winter Form}}''
+|zh_yue=冬天的樣子 ''{{tt|Dūngtīn dīk Yeuhngjí|Winter Form}}''
+|zh_cmn=冬天的樣子 / 冬天的样子 ''{{tt|Dōngtiān de Yàngzi|Winter Form}}''
+|fr=Forme Hiver
+|de=Winterform
+|hi=विंटर फ़ॉर्म ''Winter Form''
+|id=Wujud Musim Dingin{{tt|*|Pokémon GO}}<br>Bentuk Musim Dingin{{tt|*|Official site}}
+|it=Forma Inverno
+|ko=겨울의 모습 ''{{tt|Gyeo-ur-ui Moseup|Winter Form}}''
+|ms=Bentuk Musim Sejuk
+|pt_br=Forma Inverno
+|es=Forma Invierno
+|pl=Forma Zimowa
+|th=ร่างฤดูหนาว ''Rang Ridunao''
+|tr=Kış Formu
+}}
+</div>
+{{-}}
+
+==Related articles==
+* [[List of Pokémon with form differences]]
+* [[Students (Super Mystery Dungeon)]]
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0584|prev=Vanilluxe|nextnum=0586|next=Sawsbuck}}
+|}
+{{Project Pokédex notice}}
+[[Category:Green-colored Pokémon]]<!--Summer Form-->
+[[Category:Red-colored Pokémon]]<!--Autumn Form-->
+[[Category:Brown-colored Pokémon]]<!--Winter Form-->
+
+[[Category:Pokémon in the Lental Photodex]]
+[[de:Sesokitz]]
+[[es:Deerling]]
+[[fr:Vivaldaim]]
+[[it:Deerling]]
+[[ja:シキジカ]]
+[[zh:四季鹿]]

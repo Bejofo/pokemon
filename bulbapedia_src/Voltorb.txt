@@ -1,0 +1,1008 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Voltorb}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0099|prev=Kingler|nextnum=0101|next=Electrode|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Voltorb
+|jname=ビリリダマ
+|tmname=Biriridama
+|ndex=0100
+|forme=2
+|form1=Voltorb
+|form2=Hisuian Voltorb
+|image2=0100Voltorb-Hisui.png
+|type1=Electric
+|form2type1=Electric
+|form2type2=Grass
+|category={{tt|Ball|Voltorb}} Pokémon<br/>{{tt|Sphere|Hisuian Voltorb}}
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=22.9
+|weight-kg=10.4
+|weight-lbs2=28.7
+|weight-kg2=13.0
+|abilityn=d
+|ability1=Soundproof
+|ability2=Static
+|abilityd=Aftermath
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=1
+|evsp=1
+|expyield=66
+|oldexp=103
+|lv100exp=1,000,000
+|gendercode=255
+|color=Red
+|catchrate=190
+|body=01
+|pokefordex=voltorb
+|generation=1
+|friendship=70
+}}
+'''Voltorb''' ([[List of Japanese Pokémon names|Japanese]]: '''ビリリダマ''' ''Biriridama'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] into {{p|Electrode}} starting at [[level]] 30.
+
+In [[Hisui]], Voltorb has a dual-type {{2t|Electric|Grass}} [[regional form]]. It evolves into Hisuian Electrode when exposed to a [[Leaf Stone]].
+
+==Biology==
+Voltorb is a spherical {{OBP|Pokémon|species}} that resembles a buttonless {{i|Poké Ball}} with eyes. The top half is red, while the bottom half is white. Because of its resemblance to Poké Balls, it is thought that it was created when one was exposed to an energy pulse. This is supported by the fact that its components do not occur naturally.
+
+Voltorb is generally found in {{DL|List of Pokémon by habitat|Urban Pokémon|power plants}} and other areas with electric fields where it feeds. It was first discovered in the plant where modern Poké Balls were invented. It has a volatile temperament and will explode if agitated or bumped by the slightest contact. Due to being constantly mistaken as a [[Poké Ball]], Voltorb has reportedly zapped many humans as a result.
+
+===Forms===
+Voltorb has a [[regional form]]: {{rf|Hisuian}} Voltorb.
+
+Hisuian Voltorb, like its modern counterpart, resemble the [[Apricorn]]-made {{OBP|Poké Ball|Hisui}}s of the time period — both appear to be made of a grainy, woodlike substance, with a glossy surface and a hole on top. On the inside, Hisuian Voltorb's body contains numerous seeds, but it has been impossible to examine its interior due to it being pitch-black.<ref name=LAsite/> Hisuian Voltorb has a distinctive red wooden unibrow. Despite its resemblance to a Poké Ball, it can be inferred that Hisuian Voltorb's existence predates the device's invention, as evidenced by the fact that the ancient hero of Hisui legend had an {{p|Electrode}} companion which would become the ancestor of the region's [[Noble Pokémon|noble]] Electrode.
+
+Hisuian Voltorb can store electric currents in its belly, which it discharges all at once from its hole. Unlike Kantonian Voltorb, Hisuian Voltorb have friendly and excitable temperaments, which leads them to cluster around people, causing them to be a nuisance when they discharge. It is known to let out a great, uproarious laugh whenever it discharges. There are stories of people temporarily plugging the holes of Hisuian Voltorb to prevent them from discharging before removing them from their settlements.<ref name=LAsite>[https://legends.arceus.pokemon.com/en-us/pokemon/voltorb/ Hisuian Voltorb | Pokémon Legends: Arceus Official Website]</ref> It has been seen in [[Paldea]] during the rare [[Poké Portal News|Mass outbreak]] events.
+
+===Evolution===
+Voltorb evolves into {{p|Electrode}}.
+
+{{rf|Hisuian}} Voltorb evolves into Hisuian Electrode.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Voltorb'''
+{{Evobox-2
+|type1=Electric
+|pictype=art
+|no1=0100
+|name1=Voltorb
+|type1-1=Electric
+|evo1=
+|no2=0101
+|name2=Electrode
+|type1-2=Electric}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Hisuian Voltorb'''
+{{Evobox-2
+|type1=Electric
+|type2=Grass
+|pictype=sprite
+|no1=0100Voltorb-Hisui
+|name1=Voltorb
+|form1=Hisuian Form
+|type1-1=Electric
+|type2-1=Grass
+|evo1=
+|no2=0101Electrode-Hisui
+|form2=Hisuian Form
+|name2=Electrode
+|type1-2=Electric
+|type2-2=Grass}}
+</div>
+</div>
+
+==Game data==
+===NPC appearances===
+* {{g|Pinball}}: Three Voltorb appear on the Red Table and give the player points when hit. When Catch'em Mode is activated, they also reveal the silhouette of the Pokémon attempting to be captured upon being hit.
+* [[Pokémon: Magikarp Jump]]: A Voltorb may appear as part of the "Is It Treasure?" {{DL|Pokémon: Magikarp Jump|Random encounter events|event}}, where it will explode (and thereby force the player's Magikarp to retire).
+
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=100}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Usually found in power plants. Easily mistaken for a {{ScBall}}, they have zapped many people.}}
+{{Dex/Entry1|v=Yellow|entry=It is said to camouflage itself as a {{ScBall}}. It will self-destruct with very little stimulus.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Usually found in power plants. In some instances, they have been seen drawing power from the trolleys of electric trains.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=120}}
+{{Dex/Entry1|v=Gold|entry=It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.}}
+{{Dex/Entry1|v=Silver|entry=It was discovered when <sc>Pok</sc>é <sc>Balls</sc> were introduced. It is said that there is some connection.}}
+{{Dex/Entry1|v=Crystal|entry=During the study of this {{ScPkmn}}, it was discovered that its components are not found in nature.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It was discovered when <sc>Pok</sc>é <sc>Balls</sc> were introduced. It is said that there is some connection. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=084|reg2=Kanto|num2=100}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Voltorb</sc> was first sighted at a company that manufactures <sc>Pok</sc>é <sc>Balls</sc>. The link between that sighting and the fact that this {{ScPkmn}} looks very similar to a {{ScBall}} remains a mystery.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Voltorb</sc> is extremely sensitive - it explodes at the slightest of shocks. It is rumored that it was first created when a {{ScBall}} was exposed to a powerful pulse of energy.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It bears an uncanny and unexplained resemblance to a {{ScBall}}. Because it explodes at the slightest shock, even veteran <sc>Trainers</sc> treat it with caution.}}
+{{Dex/Entry1|v=FireRed|entry=A life-form whose identity is unknown. It is said to <sc>Screech</sc> or suddenly <sc>SelfDestruct</sc>.}}
+{{Dex/Entry1|v=LeafGreen|entry=Usually found in power plants. Easily mistaken for a {{ScBall}}, it has zapped many people.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=121}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.}}
+{{Dex/Entry1|v=HeartGold|entry=It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.}}
+{{Dex/Entry1|v=SoulSilver|entry=It was discovered when Poké Balls were introduced. It is said that there is some connection.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on contact.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=072|label1=Mountain|reg2=Hoenn|num2=087}}
+{{Dex/Entry1|v=X|t=FFF|entry=It was discovered when Poké Balls were introduced. It is said that there is some connection.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Voltorb is extremely sensitive—it explodes at the slightest of shocks. It is rumored that it was first created when a Poké Ball was exposed to a powerful pulse of energy.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=100}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui|num3=192}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword and Shield]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.}}
+{{Dex/Form|Hisuian Voltorb}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=207|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It's usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{electric color dark}}; background:#{{electric color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{electric color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Voltorb SV.png|x200px]]
+|-
+| Voltorb in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=FFF|area={{rt|10|Kanto}}, {{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=FFF|link=Pokémon Blue Version (Japanese)|area={{rt|10|Kanto}}, {{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1|v=Yellow|area={{FB|Kanto|Power Plant}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|10|Kanto}}<br>[[Trade]] {{p|Krabby}} in [[Olivine City]]<br>[[Team Rocket HQ]] (Eight)}}
+{{Availability/Entry1|v=Crystal|area={{rt|10|Kanto}}<br>[[Trade]] {{p|Krabby}} in [[Olivine City]]<br>[[Team Rocket HQ]] (Eight)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[New Mauville]]}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[New Mauville]]}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{rt|10|Kanto}}, {{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cave Poké Spot]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|218|Sinnoh}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|218|Sinnoh}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|10|Kanto}}<br>[[Trade]] {{p|Krabby}} in [[Olivine City]]<br/>{{safari|Johto}} (tall grass in Swamp with 10 Peak points)<br>[[Team Rocket HQ]] (Six)}}
+{{Availability/Entry1|v=Pal Park|color=A2E0A3|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Town Outskirts}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Electrode}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{rt|110|Hoenn}}, [[New Mauville]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Electrode}}}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area={{ka|Power Plant}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|218|Sinnoh}} ([[Mass outbreak|Swarm]])<br>[[Grand Underground]] - [[Spacious Cave]], [[Dazzling Cave]], [[Stargleam Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Coronet Highlands]]:''' [[Celestica Ruins]] (in boxes), [[Sacred Plaza]] (also in boxes), massive [[mass outbreak]]s <small>('''Hisuian Form''')</small><br>Unobtainable <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[East Province (Area Three)|Area Three]] <small>('''Kantonian Form''')</small><br>West Province: [[West Province (Area One)|Area One]], [[West Province (Area Three)|Area Three]] <small>('''Kantonian Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Voltorb|2★}}) <small>('''Kantonian Form''')</small><br>{{g|HOME}}, [[Poké Portal News]] <small>('''Hisuian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Red Field|Red]] and [[Blue Field]]: [[Rock Tunnel|Rock Mountain]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Mt. Snowfall|Ruins of Truth]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Plains ({{color2|{{ruby color}}|Ruby Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 3]], [[Secret Storage 14]], Endless Level 7, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Thunderwave Cave]] (B3F-B5F), [[Wish Cave]] (B8F-B10F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Dusk Factory]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Concealed Ruins]] (B1F-B15F), [[World Abyss]] (B1F-B15F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Concealed Ruins]] (B1F-B15F), [[World Abyss]] (B1F-B15F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Pueltown]], [[Cargo Ship]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Fiery Furnace]] <small>(Normal Mode B)</small>}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Dubious Forest]]}}
+{{Availability/Entry2/None|v=MD Stormy|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|t={{water color dark}}|color2={{electric color}}|t2={{electric color dark}}|area={{DL|Pokémon Mystery Dungeon (WiiWare)|Wonder Mail codes}}}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Haunted Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Wireless Tower]], [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Tech Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Locomotive Café#Boom! Boom! Boom!|Locomotive Café: Boom! Boom! Boom!]], [[Variety Battle#Pokémon on a Roll|Variety Battle: Pokémon on a Roll]],<br>[[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 2|Safari Jungle: Stage 2]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Fix-Up Factory|Diamond Crater: Fix-Up Factory]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zapdos Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Thunderwave Cave]] (1F-5F), [[Wish Cave]] (8F-10F), [[Southern Cavern]] (4F-8F), [[Purity Forest]] (7F-10F), [[Oddity Cave]] (5F-6F), [[Remains Island]] (5F-6F), [[Marvelous Sea]] (5F-6F), [[Fantasy Strait]] (5F-6F)<br/>Fainted Pokémon: [[Pitfall Valley]], [[Far-Off Sea]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 442]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Lt. Surge|Voltorb}} <small>('''Kantonian Form''')</small><br>{{sync/player|egg|Voltorb}} <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=electric}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Agility Voltorb|English|United States|5|October 4 to 10, 2002|link=List of PCNY event Pokémon distributions in Generation II#Agility Voltorb}}
+|}
+
+===Held items===
+====Voltorb====
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=electric}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Gold|Silver|Pokémon Gold and Silver Versions}}
+{{HeldItems/Items1|PRZCureBerry|100|rows=2|image=None.png|availNote=[[In-game trade]], &#32;}}
+{{HeldItems/Games1|Crystal|Pokémon Crystal Version}}
+{{HeldItems/Games1|XD|tcolor=fff|Pokémon XD: Gale of Darkness}}
+{{HeldItems/Items1|Magnet|100}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver}}
+{{HeldItems/Items1|Cheri Berry|100|availNote=[[In-game trade]], &#32;}}
+|}
+
+====Hisuian Voltorb====
+{{HeldItems/header|type=Electric|type2=Grass}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Caster Fern|35|Ball of Mud|15|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+=====Voltorb=====
+{{Stats
+|type=Electric
+|HP=40
+|Attack=30
+|Defense=50
+|SpAtk=55
+|SpDef=55
+|Speed=100
+|Special=55
+}}
+
+=====Hisuian Voltorb=====
+Hisuian Voltorb has the same base stats as Kantonian Voltorb.
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|Speed=5
+|SpeedMax=5
+|Power=1
+|PowerMax=2
+|Technique=3
+|TechniqueMax=3
+|Stamina=1
+|StaminaMax=2
+|Jump=4
+|JumpMax=5
+}}
+
+===Type effectiveness===
+====Voltorb====
+{{TypeEffectiveness
+|type1=electric
+|Normal=100
+|Flying=50
+|Fighting=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+====Hisuian Voltorb====
+{{TypeEffectiveness
+|type1=Electric
+|type2=Grass
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=50
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=25
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Voltorb=====
+{{learnlist/levelh/9|Voltorb|Electric|Electric|1}}
+{{learnlist/level9|1|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|4|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|6|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/level9|9|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|11|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|13|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|16|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/level9|20|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|22|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/level9|26|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level9|29|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|34|Magnet Rise|Electric|Status|—|—|10}}
+{{learnlist/level9|37|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|41|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/level9|46|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/level9|50|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/levelf/9|Voltorb|Electric|Electric|1}}
+
+=====Hisuian Voltorb=====
+{{learnlist/levelh/9|Voltorb|Electric|Grass|8}}
+{{learnlist/level9|1|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|4|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|6|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|9|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|11|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|13|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|16|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/level9|20|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|22|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/level9|26|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level9|29|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|34|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|34|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|41|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/level9|46|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/level9|50|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/levelf/9|Voltorb|Electric|Grass|8}}
+
+====By [[TM]]====
+=====Voltorb=====
+{{learnlist/tmh/9|Voltorb|Electric|Electric|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tmf/9|Voltorb|Electric|Electric|1}}
+
+=====Hisuian Voltorb=====
+{{learnlist/tmh/9|Voltorb|Electric|Grass|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tmf/9|Voltorb|Electric|Grass|8}}
+
+====By {{pkmn|breeding}}====
+=====Voltorb=====
+{{learnlist/breedh/9|Voltorb|Electric|Electric|2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Metal Sound|Steel|Status|—|85|40|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Recycle|Normal|Status|—|—|10|grid=2}}
+{{learnlist/breedf/9|Voltorb|Electric|Electric|2}}
+
+=====Hisuian Voltorb=====
+{{learnlist/breedh/9|Voltorb|Electric|Grass|8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Leech Seed|Grass|Status|—|90|10|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Recycle|Normal|Status|—|—|10|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Worry Seed|Grass|Status|—|100|10|grid=2}}
+{{learnlist/breedf/9|Voltorb|Electric|Grass|8}}
+
+===Side game data===
+====Voltorb====
+{{Spindata/Head|type=Electric}}
+{{Spindata/Pinball|col=2|type=Electric|ndex=100|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Electric|ndex=100|acquisition=Catch}}
+{{Spindata/Trozei|col=2|type=Electric|ndex=100|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Electric|ndex=100
+|body=1
+|rate=8.1
+|area=Power Plant
+|P1=Careful! Touching me will zap you!
+|P2=Whoa, my HP is down to half already?
+|P3=I'm frazzled... I don't have enough charge to zap anything.
+|PL=Oh, hey! Leveled up! I feel energized!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Electric|ndex=100
+|body=1
+|rate=6.4
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Electric|ndex=100
+|coset=15
+|conto={{p|Magneton}}, {{p|Electrode}}, {{p|Aegislash}}
+|recruitment=Battle {{p|Aegislash}}
+|P1=*zap za-a-a-ap*
+|P2=It's so tough... Zap!
+}}
+|-
+{{Spindata/Ranger|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|fieldpower=1
+|field=Recharge
+|loop=5
+|MinEXP=7
+|MaxEXP=7
+|num=079
+|browser=Using the electricity secreted within its body, Voltorb can recharge your [[Capture Styler|styler]].
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=2
+|num=076
+|browser=It lets loose bolts of electricity to attack. Beware: It may explode!
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Normal
+|field=Electrify
+|fieldpower=1
+|num=113
+|pastnum=156
+|browser=It causes explosions around itself.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Electric
+|att=2
+|def=2
+|speed=4
+}}
+{{Spindata/RumbleBlast|col=3|type=Electric
+|att=2
+|def=2
+|speed=4
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=100
+|walk=1.67
+|hp=45
+|attack=69
+|defense=49
+|speed=70
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Electric|ndex=100
+|Pad=After hearing about the [[Haunted Zone]], Voltorb just had to check it out. He's a real player at {{DL|Attraction (PokéPark)|Dusknoir's Speed Slam}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Electric|ndex=100
+|pad=He regards himself as a bodyguard of the [[Tech Area]]. He challenges suspicious Pokémon to a Quiz.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=100
+|power=1
+|skill=Flinch Attack
+|skilldesc=Briefly stops wild Pokémon from taking action.
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=100|num=601
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost+
+|skilldesc=Fills the Mega Gauge of the same type of Pokémon more.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=100
+|hatch=N/A
+|buddy=3
+|candy=Voltorb
+|evocandy=50
+|stamina=120
+|attack=109
+|defense=111
+|fast={{m|Spark}}, {{m|Tackle}}
+|special={{m|Discharge}}, {{m|Thunderbolt}}, {{m|Gyro Ball}}{{tt|*|From February 16, 2017 onward}}, {{m|Signal Beam}}{{tt|†|Prior to February 16, 2017}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+====Hisuian Voltorb====
+{{Spindata/Head|type=Electric|type2=Grass}}
+{{Spindata/GO|col=6|type=Electric|ndex=100H
+|hatch=7 km
+|buddy=3
+|candy=Voltorb
+|evocandy=50
+|stamina=120
+|attack=109
+|defense=111
+|fast={{m|Charge Beam}}, {{m|Tackle}}
+|special={{m|Swift}}, {{m|Thunderbolt}}, {{m|Energy Ball}}
+}}
+|-
+{{Spindata/CaféReMix|col=6|type=Electric
+|pkmn=Hisuian Voltorb
+|name=Voltorb<br><small>(Hisuian Form)</small>
+|rarity=gold
+|icon=0100H
+|cookie=VoltorbH
+|specialty=Sweets
+|hearts=33
+|deliveryrate=
+|puzzlescorelv1=125
+|puzzlescorelv25=365
+|linkslv1=35
+|linkslv25=28
+|skillgauge=70
+|skillicon1=Café ReMix Skill Clear Surrounding
+|skilldescription1=Clears surrounding Pokémon icons and gimmicks and those in a zigzag pattern, then replaces surrounding Pokémon icons with icons fo the most common Pokémon. The section it clears and replaces will change eacch time you use the skill.
+|skillicon2=Café ReMix Skill Clear Surrounding Combined
+|skilldescription2=Clears more surrounding Pokémon icons and gimmicks and those in a zigzag pattern, then replaces many surrounding Pokémon icons with icons fo the most common Pokémon. The section it clears and replaces will change eacch time you use the skill.
+|spgimmicklv3=Mayo
+|spgimmicklv3desc1=Clear up to 3
+|spgimmicklv3desc2= by making a combo next to them.
+|spgimmicklv5=Walnut
+|spgimmicklv5desc1=Attach 1
+|spgimmicklv5desc2= to the Pokémon icon you're holding to move it around.
+|spgimmicklv15=Condensed Milk
+|spgimmicklv15desc1=Clear up to 3
+|spgimmicklv15desc2= by making a combo next to them.
+|outfitgrade1=Puzzle score +10%
+|outfitgrade2=Puzzle score +10%
+|outfitgrade3=Puzzle score +10%
+|outfitgrade4=Puzzle score +10%
+|grade4gimmick=Mayo
+|grade4score=1
+|alternate=Yes
+|customer=Hisuian Voltorb
+}}
+|}
+
+===Evolution data===
+====Voltorb====
+{{Evobox-2
+|type1=Electric
+|pictype=art
+|no1=0100
+|name1=Voltorb
+|type1-1=Electric
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0101
+|name2=Electrode
+|type1-2=Electric}}
+
+====Hisuian Voltorb====
+{{Evobox-2
+|type1=Electric
+|type2=Grass
+|pictype=sprite
+|no1=0100Voltorb-Hisui
+|name1=Voltorb
+|form1=Hisuian Form
+|type1-1=Electric
+|type2-1=Grass
+|evo1={{Bag/s|Leaf Stone|SV}}<br>{{color2|000|Leaf Stone}}
+|no2=0101Electrode-Hisui
+|form2=Hisuian Form
+|name2=Electrode
+|type1-2=Electric
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/1|ndex=100}}
+{{Spritebox/2|ndex=100}}
+{{Spritebox/3|ndex=100}}
+{{Spritebox/4|ndex=100}}
+{{Spritebox/5|ndex=100}}
+{{Spritebox/6|ndex=100|crop=46}}
+{{Spritebox/7/PE|ndex=100|crop=46|PEcrop=91}}
+{{Spritebox/8/HOME<!--BDSP-->/LAForm|ndex=100|form1=H|LAcrop=131}}
+<!--{{Spritebox/9/2Forms|ndex=100|form1=H}}-->
+{{Spritebox/HOME/2Forms|ndex=100|form1=H}}
+{{Spritebox/Footer|100|Voltorb}}
+
+==In animation==
+===Main series===
+[[File:Laxton Voltorb.png|thumb|250px|Voltorb in {{aniseries|JN}}]]
+[[File:Goh Voltorb.png|thumb|250px|{{Shiny}} Voltorb in {{aniseries|JN}}]]
+====Major appearances====
+In ''[[EP032|The Ninja Poké-Showdown]]'', [[Koga]] keeps multiple Voltorb in [[Fuchsia Gym|his Gym]] as booby traps for intruders. They were later targeted in one of {{TRT}}'s schemes.
+
+In ''[[EP049|So Near, Yet So Farfetch'd]]'', {{OBP|Keith|EP049}} used multiple Voltorb for a scheme. Team Rocket received them, thinking they were {{i|Poké Ball}}s with rare {{OBP|Pokémon|species}} hidden inside them, as well as their {{TP|Jessie|Arbok}}, {{TP|Jessie|Lickitung}}, and {{TP|James|Weezing}}. When Team Rocket found out they were not, the Voltorb started to explode in their balloon. They dumped most of the Voltorb on the thief, prompting Keith to quit his crime spree, but a single Voltorb sent them blasting off.
+
+In ''[[EP114|The Underground Round Up]]'', a Voltorb lived amongst Electrode. Although {{an|Misty}} was terrified of it, the {{t|Electric}} type befriended her {{TP|Misty|Togepi}}, and the [[baby Pokémon]] was sad when it had to leave by the end of the episode.
+
+In ''[[EP267|Love, Pokémon Style]]'', three Voltorb were rolling down a hill before they were caught by [[Ash's Kingler]]. However, they shocked and injured it in the process, leaving it too hurt to participate in the [[Silver Conference]].
+
+In ''[[AG040|Watt's with Wattson?]]'', [[Wattson]] used a Voltorb in his [[Gym]] {{pkmn|battle}} with {{Ash}}. It was easily defeated by {{AP|Pikachu}}, who had become super-charged during an incident at the [[Mauville Gym]]. Multiple {{pkmn2|wild}} Voltorb also appeared later on in the episode.
+
+In ''[[DP181|Bucking the Treasure Trend]]'', multiple Voltorb attacked {{Ash}}, {{ashfr}}, and [[Buck]] as they searched for [[Dandelion Island]]'s treasure.
+
+In the Hoopa's Surprise Ring Adventures short ''{{DL|Hoopa's Surprise Ring Adventures|Ball Pickup}}'', a Voltorb was thrown at Ash as part of a prank by {{an|Hoopa}}, but it then attacks the both of them, as well as {{AP|Pikachu}} and {{AP|Hawlucha}}, with {{m|Self-Destruct}}.
+
+A {{Shiny}} Voltorb appeared in ''[[JN081|Mad About Blue!]]'', where it was caught by [[Goh]].
+
+====Minor appearances====
+In [[Duplica]]'s flashback in ''[[EP037|Ditto's Mysterious Mansion]]'', a Voltorb came onstage as her {{TP|Duplica|Ditto}} tried to {{m|transform}} into one.
+
+In ''[[EP028|Pokémon Fashion Flash]]'', a painted Voltorb was on [[Scissor Street]].
+
+In ''[[EP047|A Chansey Operation]]'', a Voltorb was stuck in a {{p|Weepinbell}}'s mouth, and {{an|Misty}} and [[Jessie]] had to pull it out.
+
+A Voltorb appeared as an image in the dubbed version of ''[[EP056|The Ultimate Test]]''.
+
+A Voltorb appeared in ''[[EP057|The Breeding Center Secret]]''.
+
+In ''[[EP065|Showdown at the Po-ké Corral]]'', multiple Voltorb were living at [[Professor Oak's Laboratory]].
+
+In ''[[PK01|Pikachu's Vacation]]'', a Voltorb was at the [[Pokémon Theme Park]].
+
+In ''[[EP081|Pallet Party Panic]]'', a Voltorb attended the party in [[Pallet Town]].
+
+In ''[[EP084|The Lost Lapras]]'', a Trainer's Voltorb was brought to the [[Pokémon Center]].
+
+In ''[[EP086|Pikachu Re-Volts]]'', a Voltorb was controlled by [[Cassidy]] and [[Butch]] at [[Mandarin Island North]] via their {{p|Drowzee}}.
+
+In ''[[M02|The Power of One]]'', a Voltorb sensed the disturbance caused by [[Lawrence III]].
+
+A {{pkmn2|wild}} Voltorb appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP146|Tricks of the Trade]]'', a Voltorb was at the [[Pokémon Swap Meet]] in [[Palmpona]].
+
+In ''[[EP140|Wired for Battle!]]'', the image of a Trainer's Voltorb came up in [[Shingo]]'s laptop.
+
+In ''[[PK07|Pikachu & Pichu]]'', a Voltorb was seen in [[Big Town]].
+
+In ''[[EP157|The Fortune Hunters]]'', a Voltorb was stolen by [[Butch]] and [[Cassidy]].
+
+In ''[[The Legend of Thunder!]]'', multiple Voltorb were lured by [[Attila]] and [[Hun]]'s "Miracle Crystal".
+
+In ''[[EP242|As Clear As Crystal]]'', a Voltorb was affected by a crystal that gave a lake the ability to heal {{type|Electric}} Pokémon.
+
+A Voltorb appeared in the opening intro of ''[[M04|Celebi: The Voice of the Forest]]'', which was reused for ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+Two Voltorb appeared in ''[[EP262|You're a Star, Larvitar!]]'', both under the ownership of a Trainer.
+
+In ''[[AG015|Gonna Rule The School!]]'', the [[Pokémon Trainers' School]] lent a Voltorb to the underage students for use in lessons.
+
+In ''[[AG079|Pearls are a Spoink's Best Friend]]'', a {{OBP|Spoink|recurring}} mistook a Voltorb for a pearl.
+
+Multiple Voltorb appeared in ''[[M07|Destiny Deoxys]]''.
+
+A {{pkmn|Coordinator}}'s Voltorb appeared in ''[[AG122|Deceit and Assist]]''.
+
+In ''[[AG150|May's Egg-Cellent Adventure]]'', [[Nicolette]] owns two Voltorb, which she trained to attack anyone who enters her property. As such, they attacked {{an|May}}.
+
+In the ending credits of ''[[M12|Arceus and the Jewel of Life]]'', a Voltorb disguised as a watermelon exploded when [[Jessie]] and [[James]] picked it up after falling for its disguise.
+
+A Voltorb appeared in ''[[XY048|A Campus Reunion!]]''.
+
+In ''[[XY062|The Future Is Now, Thanks to Determination!]]'', seven Voltorb were among the {{type|Electric}} {{OBP|Pokémon|species}} being controlled by {{TRT}}.
+
+A Voltorb appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+A Voltorb appeared in ''[[M20|I Choose You!]]''.
+
+A Voltorb appeared in Ash's dream in ''[[SM035|Currying Favor and Flavor!]]''.
+
+Four Voltorb appeared in ''[[JN040|A Crackling Raid Battle!]]''.
+
+In ''[[JN052|How Are You Gonna Keep 'Em Off of the Farm?]]'', [[Laxton]] owns a Voltorb that helps him around [[Laxton Farm|his farm]].
+
+A Trainer's Voltorb appeared in ''[[HZ049|Dot and Nidothing]]''.
+
+A Trainer's Voltorb appeared in a video in [[HZ097]].
+
+A Trainer's Voltorb appeared in [[HZ109]].
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP032|Voltorb|Ash's Pokédex|Voltorb. The identity of this creature is unknown. It has an extreme personality, uses {{t|Electric}} [[Move|attacks]], and at times {{m|Self-Destruct|self-destructs}}.}}
+{{Animedexfooter/Pokémon|Kanto}}
+{{Animedexheader|Orange}}
+{{Animedexbody|EP114|Voltorb|Ash's Pokédex|Voltorb. This mysterious Pokémon uses strong {{t|Electric}} attacks, and is often found near [[Power Plant|power plants]]. Use extreme caution; Voltorb may {{m|Explosion|explode}} without warning.}}
+{{Animedexfooter/Pokémon|Orange}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN052|Voltorb|Goh's Rotom Phone|Voltorb, the Ball Pokémon. An {{t|Electric}} type. Voltorb appears in places where electricity is generated, and it resembles a {{i|Poké Ball}}.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Origins===
+[[File:Voltorb PO.png|thumb|250px|Voltorb in [[Pokémon Origins]]]]
+In ''[[PO03|File 3: Giovanni]]'', two Voltorb appeared, with one under the ownership of a Trainer being defeated by [[Red's Charmeleon]] in a {{pkmn|battle}}, and a wild Voltorb at [[Silph Co.]], trapped with multiple other Pokémon that were later freed by {{OBP|Red|Origins}}.
+{{-}}
+
+==In the manga==
+[[File:Jet Voltorb Adventures.png|thumb|200px|Voltorb in [[Pokémon Adventures]]]]
+===Pocket Monsters DP===
+A Voltorb appeared in [[PMDP16]].
+
+===Pocket Monsters HGSS===
+A Trainer's Voltorb appeared in [[PMHGSS11]].
+
+A Voltorb appeared in [[PMHGSS18]].
+
+===Pokémon Adventures===
+Voltorb debuted in ''[[PS010|Danger: High Voltorb]]'', where {{adv|Red}} tried to touch one aboard the [[S.S. Anne]], thinking that it was only a Poké Ball, but wound up being zapped by it.
+
+Multiple Voltorb appeared in ''[[PS029|Go for the Golbat]]'', under the ownership of [[Lt. Surge]]. They were used in conjunction with multiple Electrode to shock Red and as projectiles.
+
+In ''[[PS056|The Coming of Slowpoke (Eventually)]]'', Ken of the [[Team Rocket Elite Trio]] used a Voltorb along with its evolved form, Electrode, to battle against {{adv|Yellow}}.
+
+[[Wattson]]'s Voltorb was only seen in ''[[PS204|Plugging Past Electrike I]]'', inside the Power Plant located in [[New Mauville]].
+
+A Voltorb appeared in ''[[PS404|Encountering Elekid]]''.
+
+A Voltorb appeared in ''[[PS421|Clobbering Claydol]]'', under the ownership of a {{tc|Guitarist}}.
+
+[[Jet]] owns a Voltorb that he uses in the [[Pokéathlon]] Speed Course in ''[[PS442|Out-Odding Oddish]]''.
+
+Multiple Voltorb were among the {{type|Electric}} Pokémon that charged the [[Lumiose Gym|Prism Tower]] during a blackout in ''[[PS562|Pangoro Poses a Problem]]''.
+
+A Trainer's Voltorb appeared in [[PASV12]].
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Voltorb appeared in the intro of ''[[GB01|Let's Go! The Journey Towards The Championship]]''.
+
+Multiple Voltorb appeared in ''[[GB04|Let's Aim For The Goal!]]'', under the ownership of {{tc|Firebreather}} Takeo.
+
+A Voltorb appeared in ''[[GB16|The New Pokémon Is Hatched!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Voltorb appeared in ''[[GDZ04|The Raining Crystal Ball]]''.
+
+A Voltorb appeared in ''[[GDZ06|The Challenge at Celadon University!]]''.
+
+A Voltorb appeared in [[GDZ23]].
+
+===Pokémon Pocket Monsters===
+[[Lt. Surge]]'s Voltorb battled {{TP|Red|Clefairy}} and evolved in the same match in ''[[PM006|Great Success in the Mountains or the Seas!?]]''.
+
+A Voltorb appeared in ''[[PM017|Regain the Deserted Power Plant!]]''.
+
+{{PPM|Green}} caught a Voltorb, as seen in ''[[PM020|Good Luck at the Big Pokémon Athletic Meet!]]''.
+
+A Voltorb appeared in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]'', where it was one of the Pokémon that took part in a baseball match.
+
+[[Blaine]] has multiple Voltorb, as seen in ''[[PM024|Fierce Competition at the Pokémon Quiz Battle!!]]''. They were used in the first part of the Pokémon Quiz Battle.
+
+{{PPM|Giovanni}} sent out a Voltorb to prevent {{PPM|Red}} from interfering with his plans to create Mewtwo in ''[[PM025|Bring Down the Strongest Pokémon!!]]''. He was revealed to own additional Voltorb in ''[[PM028|Seize the Dream of One Million Yen!!]]''.
+
+A Voltorb appeared in ''[[PM026|Clefairy's Christmas Present?!]]''.
+
+A Voltorb appeared in ''[[PM027|Curry Showdown! Which is the Most Delicious?]]'' as one of the participants of a curry cooking competition.
+
+A Voltorb appeared in ''[[PM029|The Thrill of a Perfect Score, Big Rampage at the Amusement Park!]]''.
+
+A Voltorb appeared in ''[[PM030|Let's Celebrate the New Year!!]]''.
+
+Two Voltorb appeared in ''[[PM035|Panic on the Luxury Liner?!]]''.
+
+A Voltorb appeared in ''[[PM048|Stop the Missile!!]]''.
+
+A Voltorb appeared in ''[[PM051|Pikachu's Birthday Party]]''.
+
+A Voltorb appeared in ''[[PM083|Pokémon Snowball Fight]]''.
+
+A Voltorb appeared in ''[[PM094|Take me to the Dragon Palace!]]''.
+
+A Voltorb appeared in ''[[PM098|The Food Battle]]''.
+
+A Voltorb appeared in {{PPM|Red}}'s fantasy in ''[[PM104|The Great Helper!!]]''.
+
+===Pokémon Ruby-Sapphire===
+A Voltorb appeared in ''[[PMRS02|I Won't Let You Lead!!]]''.
+
+A Voltorb appeared in ''[[PMRS05|Let's Try To Be Idols!!]]''.
+
+A Voltorb appeared in ''[[PMRS06|Extra Heavyweight Battle]]''.
+
+A Voltorb appeared in ''[[PMRS32|A Visitor From Outer Space?!]]''.
+
+A Voltorb appeared in ''[[PMRS53|Clefairy's Golf Debut!]]''.
+
+==In the TCG==
+{{main|Voltorb (TCG)}}
+
+==In the TFG==
+One Voltorb figure has been released.
+
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Voltorb|23}}
+
+==Trivia==
+* In the English and European versions of {{game|HeartGold and SoulSilver|s}}, a game called [[Voltorb Flip]] is introduced in place of [[slot machine]]s. The game is similar to Minesweeper and largely focuses on flipping over cards to multiply the coins currently earned. Some cards, however, have Voltorb on them which will cause the {{player}} to lose {{OBP|Coin|Game Corner}}s when flipped.
+* Voltorb has the lowest base {{stat|Attack}} stat of all {{type|Electric}} Pokémon.
+* According to [[Pokémon HeartGold and SoulSilver: Prima's Official Strategy Guide]], Voltorb is the only Pokémon recommended for the [[Pokéathlon|Disc Catch]] that is not a {{t|Flying}} type.
+* In {{g|Scarlet and Violet}}, Voltorb will explode if the player walks too close to it and the Voltorb notices them.
+* The Shadow Voltorb in {{g|XD: Gale of Darkness}} is [[List of permanently missable Pokémon|missable]] if players lose to Miror B in the first battle when he has the Voltorb in the Cave [[Poké Spot]], as there is not a flag to make it respawn unlike other Shadow Pokémon. This will lock the player out of catching Voltorb, and as snagging Shadow {{p|Dragonite}} requires snagging every other [[Shadow Pokémon]], the player will be locked out of Dragonite too.
+* Unlike their [[Kanto]]nian counterpart, an [[Evolution stone]] is required for Hisuian Voltorb to [[Evolution|evolve]] rather than by leveling up. It shares this trait with {{p|Sandshrew}}.
+
+===Origin===
+Voltorb seems to be based upon the concept of a living {{i|Poké Ball}}, and is often mistaken for one. As such, its design may be inspired by ''{{wp|gashapon}}'' capsules, which often consists of a white half and a vibrant colored half. The idea of Voltorb and Electrode being mistaken for the standard Poké Balls that represent items is similar to a {{wp|Mimic (Dungeons & Dragons)|mimic}}, a monster archetype commonly found in RPGs. Its {{Shiny}} coloration is possibly based on a [[Great Ball]].
+
+Voltorb may also be based on a {{wp|ball lightning}}, as hinted by its spherical shape, type, and explosive behavior. Given its tendency to explode and shape, it also shares similarities with common depictions of {{wp|bomb}}s. It may also be based on ''{{wp|tsukumogami}}'', where items acquire a spirit and come to life on their 100th birthday, which might be referenced by Voltorb's [[National Pokédex]] number, which is 100.
+
+The expression on both Voltorb and Electrode may be a personification of the positive and negative charges associated with {{wp|electric charge}}. For their Kantonian forms, Voltorb has a negative angry look, where Electrode has a positive happy look. The polarity of these expressions, or charges, are reversed for their Hisuian forms.
+
+Hisuian Voltorb and its {{t|Grass}} typing may be based on the fact that Poké Balls were originally made from [[Apricorn]]s, which may be based on {{wp|Castanea crenata|Japanese chestnut}} or {{wp|acorn}}s. It may also be based on traditional Japanese fireworks: they are spherical in shape, with shells made of {{wp|papier-mâché}}, charges inside that are often made with rice husks, and a hole where the fuse goes. The fact that it has numerous seeds inside its body may also be inspired by a {{wp|seed ball}} (also known as a seed bomb), which are made by rolling various seeds with clay, forming a ball. The seed ball is then planted or thrown into the ground where vegetation is sparse, so that the seeds will germinate and grow. Hisuian Voltorb's Shiny coloration may be based on an {{hi|Ultra Ball}} or a {{hi|Heavy Ball}}.
+
+====Name origin====
+Voltorb may be a combination of ''volt'' and ''orb''.
+
+Biriridama may be a combination of ビリビリ ''biribiri'' (sound of electric shock) and 玉 ''tama'' (sphere).
+
+==In other languages==
+{{Other languages|type=electric|type2=electric
+|ja=ビリリダマ ''Biriridama''|jameaning=From {{tt|ビリビリ ''biribiri''|onomatopoeic sound for electric shock}} and {{tt|玉 ''tama''|sphere}}
+|fr=Voltorbe|frmeaning=Similar to English name
+|es=Voltorb|esmeaning=Same as English name
+|de=Voltobal|demeaning=From ''Volt'' and ''Ball''
+|it=Voltorb|itmeaning=Same as English name
+|ko=찌리리공 ''Zzililigong''|komeaning=From {{tt|찌릿찌릿 ''jjiritjjirit''|crackling}} and {{tt|공 ''gong''|ball}}
+|zh_cmn=霹靂電球 / 霹雳电球 ''Pīlìdiànqiú''{{tt|*|Games}}<br>雷電球 / 雷电球 ''Léidiànqiú''{{tt|*|Pre-Gen VII Media}}|zh_cmnmeaning=From {{tt|霹靂 / 霹雳 ''pīlì''|thunderbolt}}, {{tt|電 / 电 ''diàn''|electric}}, and {{tt|球 ''qiú''|ball}}<br>From {{tt|雷電 / 雷电 ''léidiàn''|thunder and lightning}} and {{tt|球 ''qiú''|egg}}
+|zh_yue=霹靂電球 ''Pīklīkdihnkàuh''{{tt|*|Games}}<br>霹靂蛋 ''Pīklīkdaahn''{{tt|*|Pre-Gen VII Media}}|zh_yuemeaning=From {{tt|霹靂 ''pīklīk''|thunderbolt}}, {{tt|電 ''dihn''|electric}}, and {{tt|球 ''kàuh''|ball}}<br>From {{tt|霹靂 ''pīklīk''|thunderbolt}} and {{tt|蛋 ''daahn''|egg}}
+|hi=वोल्टॉर्ब ''Voltorb'' |himeaning=Transcription of English name
+|ru=Волторб ''Voltorb''|rumeaning=Transcription of English name
+|th=บิริริดามา ''Biriridama''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==Related articles==
+* [[Artificial Pokémon]]
+* [[Regional form]]
+* [[Weaponry in the Pokémon world]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Hisuian forms}}
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0099|prev=Kingler|nextnum=0101|next=Electrode}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Artificial Pokémon]]
+
+[[de:Voltobal]]
+[[es:Voltorb]]
+[[fr:Voltorbe]]
+[[it:Voltorb]]
+[[ja:ビリリダマ]]
+[[zh:霹雳电球]]

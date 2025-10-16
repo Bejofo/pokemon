@@ -1,0 +1,561 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/GO|species=Scolipede}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0544|prev=Whirlipede|nextnum=0546|next=Cottonee|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Scolipede
+|jname=ペンドラー
+|jtranslit=Pendorā
+|tmname=Pendror
+|category=Megapede
+|type1=Bug
+|type2=Poison
+|abilitylayout=2
+|ability1=Poison Point
+|ability2=Swarm
+|abilityd=Speed Boost
+|abilityold=Quick Feet
+|abilityoldcaption=Gen V{{tt|*|Will become Speed Boost when Scolipede is transferred via Poké Transporter}} Hidden Ability
+|abilitydcaption=Gen VI+
+|ndex=0545
+|height-ftin=8'02"
+|height-m=2.5
+|weight-lbs=442.0
+|weight-kg=200.5
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|expyield=218<!--214 in Gen V-VI-->
+|lv100exp=1,059,860
+|evtotal=3
+|evsp=3
+|gendercode=127
+|color=Red
+|catchrate=45
+|body=14
+|pokefordex=scolipede
+|generation=5
+|friendship=70
+}}
+'''Scolipede''' ([[List of Japanese Pokémon names|Japanese]]: '''ペンドラー''' ''Pendror'') is a dual-type {{2t|Bug|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Whirlipede}} starting at [[level]] 30. It is the final form of {{p|Venipede}}.
+
+==Biology==
+Scolipede is a plump, centipede-like {{OBP|Pokémon|species}} that usually stands with the front half of its body raised vertically off the ground. Its segmented body is dark magenta, except for its smooth, dark gray underside. Long, slightly bent horns similar to antennae extend from its head, as well as an identical pair of horns on its rear. Purple bands decorate these horns, and teardrop-shaped rings of the same color mark each body segment, one on each side of its body. It possesses four pairs of short, purple fore-claws on the body segments that make up its neck, which is used to inject poison. The four hind legs are longer, thicker, and spaced farther apart. Each hind limb has curved dark gray bands around the middle.
+
+Scolipede lives in lush forests. It is very aggressive and will not give up until victorious. This Pokémon chases down enemies with great speed and then attacks relentlessly with its horns until it prevails. It latches onto the prey using the toxic spikes on its neck, and then slams it into the ground for the deadly poison effect. Similarly to its pre-[[Evolution]], {{p|Whirlipede}}, it can curl up into a ball and roll towards its targets. Scolipede and {{p|Centiskorch}} can get into territorial fights, which end with the loser becoming the winner's prey.
+
+===Evolution===
+Scolipede evolves from {{p|Whirlipede}} and is the final form of {{p|Venipede}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0543
+|name1=Venipede
+|type1-1=Bug
+|type2-1=Poison
+|evo1=
+|no2=0544
+|name2=Whirlipede
+|type1-2=Bug
+|type2-2=Poison
+|evo2=
+|no3=0545
+|name3=Scolipede
+|type1-3=Bug
+|type2-3=Poison}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Poison}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=051|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=045|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.}}
+{{Dex/Entry1|v=White|entry=Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=122|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=076|label1=Isle of Armor|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claw's toxic spikes.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Scolipede engage in fierce territorial battles with {{p|Centiskorch}}. At the end of one of these battles, the victor makes a meal of the loser.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Evolution|Evolve]] {{p|Whirlipede}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Pinwheel Forest]] (inner; {{DL|Phenomenon|rustling grass}})}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Whirlipede}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Whirlipede}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Forest of Focus]] ([[Wanderer]])<br>[[Fields of Honor/Dens|Fields of Honor]], [[Soothing Wetlands/Dens|Soothing Wetlands]], [[Forest of Focus/Dens|Forest of Focus]], [[Training Lowlands/Dens|Training Lowlands]], [[Workout Sea/Dens|Workout Sea]], [[Stepping-Stone Sea/Dens|Stepping-Stone Sea]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Whirlipede}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Withered Savanna]] (1F-17F), [[Holehills]] (1F-12F), [[Windy Shoreline]] (1F-11F), [[Canyon Foot]] (1F-9F), [[Silent Tundra]] (Uncharted Road, Gilded Hall), [[Dreamy Island]] (Uncharted Road, Gilded Hall), [[Moonlit Forest]] (Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#Guardians of the Flower Patch|Flower Garden: Guardians of the Flower Patch]], [[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 4|Sacred Plains: Stage 4]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Endless Cave|Plasma Tundra: Endless Cave]] <small>(All Areas, Entrance Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 29|Area 29: Stage 01]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mewtwo Sea]], [[Zygarde Sea]], [[Mewtwo Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Barren Badlands]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 444]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Roxie|Whirlipede}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Bug|type2=Poison}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|Pokémon Black and White Versions 2}}
+{{HeldItems/Items1|Poison Barb|5}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Poison Barb|5|availNote=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;}}
+|}
+
+===Stats===
+====Base stats====
+======Generation V======
+{{BaseStats
+|type=Bug
+|type2=Poison
+|HP=60
+|Attack=90
+|Defense=89
+|SpAtk=55
+|SpDef=69
+|Speed=112}}
+
+======Generation VI onward======
+{{BaseStats
+|type=Bug
+|type2=Poison
+|HP=60
+|Attack=100
+|Defense=89
+|SpAtk=55
+|SpDef=69
+|Speed=112}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Poison
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=50
+|Ground=100
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=25
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50}}
+
+===Learnset===
+Scolipede is available in {{pkmn|Sword and Shield}} Version 1.2.0+.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Scolipede|Bug|Poison|5}}
+{{learnlist/level8|1|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level8|1|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level8|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level8|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level8|1|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level8|1|Protect|Normal|Status|—|—|10}}
+{{learnlist/level8|12|Poison Tail|Poison|Physical|50|100|25||'''}}
+{{learnlist/level8|16|Screech|Normal|Status|—|85|40}}
+{{learnlist/level8|20|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level8|26|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/level8|34|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level8|42|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level8|50|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level8|58|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/level8|66|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level8|74|Megahorn|Bug|Physical|120|85|10||'''}}
+{{learnlist/levelf/8|Scolipede|Bug|Poison|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Scolipede|Bug|Poison|5}}
+{{learnlist/tm8|TM07|Pin Missile|Bug|Physical|25|95|20||'''}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/tm8|TM73|Cross Poison|Poison|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM74|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM77|Hex|Ghost|Special|65|100|10}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm8|TM96|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/tm8|TM98|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR10|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tr|TR23|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR28|Megahorn|Bug|Physical|120|85|10||'''}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR39|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR52|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tr|TR54|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tr|TR57|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tr|TR60|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tr|TR91|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/tr|TR95|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tmf/8|Scolipede|Bug|Poison|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Scolipede|Bug|Poison|5}}
+{{learnlist/breed8|{{MSP/8c|328|Trapinch}}{{MSP/8c|329|Vibrava}}{{MSP/8c|330|Flygon}}{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}{{MSP/8c|632|Durant}}{{MSP/8c|736|Grubbin}}{{MSP/8c|737|Charjabug}}{{MSP/8c|738|Vikavolt}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|850|Sizzlipede}}{{MSP/8c|851|Centiskorch}}|Bite|Dark|Physical|60|100|25|grid=7}}
+{{learnlist/breed8|{{MSP/8c|123|Scyther}}{{MSP/8c|212|Scizor}}{{MSP/8c|291|Ninjask}}{{MSP/8c|557|Dwebble}}{{MSP/8c|558|Crustle}}{{MSP/8c|588|Karrablast}}{{MSP/8c|589|Escavalier}}{{MSP/8c|595|Joltik}}{{MSP/8c|596|Galvantula}}{{MSP/8c|632|Durant}}{{MSP/8c|768|Golisopod}}|Fury Cutter|Bug|Physical|40|95|20||'''|grid=7}}
+{{learnlist/breedf/8|Scolipede|Bug|Poison|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Scolipede|Bug|Poison|5}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10||'''|no|yes}}
+{{learnlist/tutor8|Steel Roller|Steel|Physical|130|100|5|||no|yes}}
+{{learnlist/tutorf/8|Scolipede|Bug|Poison|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Scolipede|Bug|Poison|5}}
+{{Learnlist/prevo8null}}
+{{learnlist/prevof/8|Scolipede|Bug|Poison|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Scolipede|Bug|Poison|5}}
+{{learnlist/prevgen8|Scolipede|5|Aqua Tail|Water|Physical|90|90|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Scolipede|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Scolipede|5|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Scolipede|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Scolipede|5|Endeavor|Normal|Physical|—|100|5|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Scolipede|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Scolipede|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Scolipede|5|Infestation|Bug|Special|20|100|20||'''|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Scolipede|5|Pursuit|Dark|Physical|40|100|20|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Scolipede|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Scolipede|5|Rock Climb|Normal|Physical|90|85|20|V=yes<!--level,breed-->|VI=yes<!--level,breed-->|VII=yes<!--level,breed-->|x=yes}}
+{{learnlist/prevgen8|Scolipede|5|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Scolipede|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Scolipede|5|Signal Beam|Bug|Special|75|100|15||'''|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Scolipede|5|Snatch|Dark|Status|—|—|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Scolipede|5|Steamroller|Bug|Physical|65|100|20||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Scolipede|5|Strength|Normal|Physical|80|100|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Scolipede|5|Struggle Bug|Bug|Special|50|100|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Scolipede|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Scolipede|5|Twineedle|Bug|Physical|25|100|20||'''|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgenf/8|Scolipede|Bug|Poison|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Poison}}
+{{Spindata/PSMD|col=6|type=Bug|ndex=545
+|coset=14
+|conto={{p|Magcargo}}, {{p|Krookodile}}
+|recruitment=Battle {{p|Magcargo}}
+|P1=No holding back, no matter who I face! That's my style! We're gonna lock horns!
+|P2=H-help! Oh, my poor, poor horns...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=3
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=545
+|walk=1.95
+|hp=51
+|attack=78
+|defense=55
+|speed=70
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=545
+|strong=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|weak=[[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|pad=His main interest is his strength, but he is taking care of {{p|Venipede}} and {{p|Whirlipede}} in his own way.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Bug|ndex=545
+|HP=2
+|atk=3
+|def=3
+|spd=5
+|range=3
+|move=Venoshock
+|ability1=Poison Point
+|ability2=Jagged Edge
+|ability3=Vanguard
+|evo=Evolves from {{p|Whirlipede}} when its Speed is 57 or higher
+|link=[[Hideaki]] and [[Yasunaga]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=545
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=545|num=600
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Power of 4+
+|skilldesc=Deals even more damage when you make a match of four.
+}}
+|-
+{{Spindata/GO
+| col = 6
+| type = Bug
+| ndex = 545
+| hatch = N/A
+| buddy = 1
+| evolution = N/A
+| stamina = 155
+| attack = 203
+| defense = 175
+| fast = {{m|Bug Bite}}, {{m|Poison Jab}}, {{m|Poison Sting}}{{tt|*|From June 1, 2025 onward}}
+| special = {{m|Megahorn}}, {{m|Sludge Bomb}}, {{m|Gyro Ball}}, {{m|X-Scissor}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+| candy = 
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Bug|ndex=545|pdex=231
+|dex=Scolipede is at its most aggressive when it’s chasing down foes at full speed. It has a tendency to curl up into a ball when it sleeps—that might be an old habit from long ago.}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0543
+|name1=Venipede
+|type1-1=Bug
+|type2-1=Poison
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 22}}
+|no2=0544
+|name2=Whirlipede
+|type1-2=Bug
+|type2-2=Poison
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no3=0545
+|name3=Scolipede
+|type1-3=Bug
+|type2-3=Poison
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Poison}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=545}}
+{{Spritebox/6|ndex=545|crop=124}}
+{{Spritebox/7|ndex=545|crop=121}}
+{{Spritebox/8|ndex=545}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0545}}
+{{Spritebox/Footer|545|Scolipede}}
+
+==In animation==
+===Main series===
+[[File:Rocket Prize Master Scolipede.png|thumb|250px|Scolipede in {{aniseries|JN}}]]
+====Major appearances====
+Scolipede debuted in ''[[BW009|The Bloom Is on Axew!]]''. [[Iris's Axew]] fell out of a tree and got caught in Scolipede's antennae. This startled Scolipede and caused it to go on a rampage, until [[Iris's Excadrill]] decided to defeat it with {{m|Drill Run}}.
+
+In ''[[BW024|Emolga the Irresistible!]]'', Bianca accidentally enraged a Scolipede by having her {{TP|Bianca|Pignite}} use {{m|Flamethrower}} on Scolipede when she thought it was the wild {{TP|Iris|Emolga}} she was after. As such, it attacked {{Ash}}, {{an|Cilan}}, and {{an|Bianca}}. The three Trainers soon managed to escape from the angry Megapede Pokémon.
+
+In ''[[BW053|A Maractus Musical!]]'', a {{pkmn2|wild}} Scolipede attacked one of [[Toby]]'s {{p|Maractus}}. However, it was distracted by {{AP|Pikachu}}'s {{m|Electro Ball}}, giving Toby and his Maractus enough time to flee.
+
+In ''[[BW065|Battling the Bully!]]'', [[Sean]]'s father lent a Scolipede to his son and [[Glenn]] to use in a {{pkmn|battle}} with {{OBP|Mick|BW065}}. However, it and the {{p|Seismitoad}} that Sean's father also loaned to the pair lost to Pikachu and the {{AP|Sunglasses Krokorok|Krokorok}} while under Mick's control.
+
+In ''[[BW083|Rocking the Virbank Gym! Part 1]]'' and ''[[BW084|Part 2]]'', [[Roxie]] used a Scolipede in a [[Gym]] battle against {{Ash}}. It battled {{AP|Leavanny}} and won, but it lost to {{AP|Pignite}}'s {{m|Fire Pledge}}.
+
+In ''[[BW112|Team Plasma's Pokémon Power Plot!]]'', a Scolipede was a test specimen of [[Colress]]'s. It was forced to fight {{AP|Pikachu}}, but it was eventually released from Colress' control when {{TRT}} stole his data.
+
+In ''[[BW117|Team Plasma's Pokémon Manipulation!]]'', another Scolipede was a test specimen of Colress's. It was released by him as soon as it fired off an attack, however.
+
+In ''[[XY103|A Cellular Connection!]]'', three Scolipede pursued {{an|Bonnie}} as she searched for [[Squishy]]. They were then warded away by Pikachu's {{m|Electro Ball}} and [[Serena's Braixen]]'s {{m|Flamethrower}}.
+
+In ''[[JN033|Trade, Borrow, and Steal!]]'', [[Jessie]] pulled a {{DL|Rocket Prize Master|Scolipede}} from the [[Rocket Prize Master]]. It was used to battle [[Goh]], only for Scolipede to be distracted by the [[honey]] and not battle. It was later sent blasting off by {{TP|Goh|Heracross}}.
+
+====Minor appearances====
+In ''[[BW039|Reunion Battles In Nimbasa!]]'', [[Emmanuel]] used a Scolipede during the [[Club Battle]] tournament. However, they lost in a battle against [[Antonio]] and his {{p|Tranquill}} during the first round.
+
+In a flashback in ''[[BW043|Meowth's Scrafty Tactics!]]'', a wild {{p|Scrafty}} tried to recruit a Scolipede in an effort to reclaim its den.
+
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', the {{OBP|Swords of Justice|M15}} legend featured a Scolipede.
+
+A Scolipede appeared in a fantasy in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+A Scolipede appeared in a flashback in ''[[BW136|A Pokémon of a Different Color!]]''.
+
+In ''[[XY019|A Conspiracy to Conquer!]]'', a Scolipede was mind-controlled by an evil, psychopathic {{an|Malamar}}.
+
+A Scolipede appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW009|Scolipede|Ash's Pokédex|Scolipede, the Megapede Pokémon. Scolipede catches its opponents with great speed and attacks using horns on its head. Scolipede is highly aggressive and will not give up until victorious.}}
+{{Animedexbody|BW065|Scolipede|Ash's Pokédex|Scolipede, the Megapede Pokémon and the evolved form of {{p|Whirlipede}}. Scolipede moves quickly, chasing down its opponents while aggressively using its horns to attack them.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon Black 2 and White 2 Animated Trailer===
+[[File:Team Plasma Liepard Scolipede B2W2 Trailer.png|thumb|250px|Scolipede in the animated trailer]]
+In the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], a {{tc|Team Plasma Grunt}}'s Scolipede surrounded {{ga|Nate}}, [[Hugh]], and [[Cheren]] aboard the [[Plasma Frigate]].
+
+===Pokémon Generations===
+[[File:Team Plasma Scolipede Whirlipede Sigilyph PG.png|thumb|left|250px|Scolipede in [[Pokémon Generations]]]]
+In ''[[PG13|The Uprising]]'', {{tc|Team Plasma Grunt}}s used multiple Scolipede to battle [[Iris]] and the [[Unova]] [[Gym Leader]]s at [[N's Castle]].
+{{-}}
+
+==In the manga==
+[[File:Ryoku Scolipede Adventures.png|thumb|150px|Scolipede in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A {{pkmn|Trainer}}'s Scolipede appeared in ''[[PS512|Hallway Hijinks]]''.
+
+In ''[[PS520|Homecoming]]'', [[Ryoku]] used a Scolipede during his {{pkmn|battle}} at the {{un|Pokémon League}}. It went up against the {{pkmn|Trainer}}s who were helping {{adv|Black}} rescue the captured [[Gym Leader]]s.
+
+In ''[[PS525|The Transfer Student]]'', a Scolipede controlled by [[Colress]] attacked {{adv|Looker}} when he was meeting up with {{adv|Blake}}. It was quickly defeated by [[Blake's Dewott]].
+
+A Scolipede appeared in ''[[PS543|Abyssal Ruins]]'', under the ownership of a {{tc|Team Plasma Grunt}}.
+
+===Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~===
+A Scolipede appeared in [[PNA5]].
+
+==In the TCG==
+{{main|Scolipede (TCG)}}
+
+==Trivia==
+* Scolipede represents {{wp|November}} in the [[Unova]] [[horoscope]].
+* Despite the Scolipede and {{p|Centiskorch}} [[evolution]]ary lines living in different parts of the [[Galar]] [[region]], both Venipede and Scolipede's [[Pokédex entry|Pokédex entries]] speak of their hostile relationship with the latter family.
+* Scolipede and its pre-Evolutions were designed by [[Tomohiro Kitakaze]].<ref>[https://twitter.com/kitakazeee/status/1123171470245367808 Tweet by 北風友裕 (@kitakazeee).] Posted on April 30, 2019.</ref>
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Venipede, Whirlipede and Scolipede}}
+Scolipede may be based on a {{wp|centipede}}, most likely the ''{{wp|Scolopendra gigantea}}'', while its horns resemble that of ''{{wp|Scolopendra cingulata}}''. It could also be based on ''{{wp|Arthropleura}}'', a prehistoric relative of centipedes that grew to two-and-a-half meters. 
+
+Additionally, Scolipede shares some similarities with {{wp|millipede}}s, and may also draw inspiration from a red ''{{wp|Archispirostreptus gigas}}'', a species of millipede often kept as a pet. It also bears a strong resemblance to ''{{wp|Desmoxytes purpurosea}}'', a species of millipede known for its bright pink coloration and toxicity, the latter of which also ties into Scolipede's typing.
+
+Scolipede's {{wp|horse|equine}} appearance may be derived from a pun on the Japanese word for millipede, 馬陸 ''yasude''; the word contains the kanji 馬, which literally means ''horse''.
+
+====Name origin====
+Scolipede may be a combination of ''{{wp|Scolopendra}}'' (genus of {{wp|centipede}}s) and ''centipede'' or ''millipede''.
+
+Pendror may be derived from ''Scolopendra''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Poison
+|ja=ペンドラー ''Pendror''|jameaning=From ''{{wp|Scolopendra}}''
+|fr=Brutapode|frmeaning=From ''brutal'' and ''{{wp|Myriapoda|myriapode}}''
+|es=Scolipede|esmeaning=Same as English name
+|de=Cerapendra|demeaning=From {{tt|κέρας ''kéras''|Greek for 'horn'}} and ''{{wp|Scolopendra}}''
+|it=Scolipede|itmeaning=Same as English name
+|ko=펜드라 ''Pendror''|komeaning=From ''Scolopendra''
+|zh_cmn=蜈蚣王 ''Wúgōngwáng''|zh_cmnmeaning=From {{tt|蜈蚣 ''wúgōng''|centipede}} and {{tt|王 ''wáng''|king}}
+|zh_yue=蜈蚣王 ''Nghgūngwòhng''|zh_yuemeaning=From {{tt|蜈蚣 ''nghgūng''|centipede}} and {{tt|王 ''wòhng''|king}}
+|hi=विषाजूरा ''Vishajoora''|himeaning=From {{tt|विष ''vish''|poison/venom}} and {{tt|कनखजूरा ''kankhajoora''/खजूरा ''khajoora''|centipede}}
+|ru=Сколипид ''Skolipid''|rumeaning=Transcription of English name
+|th=เพนโดรา ''Phendora''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0544|prev=Whirlipede|nextnum=0546|next=Cottonee}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Cerapendra]]
+[[es:Scolipede]]
+[[fr:Brutapode]]
+[[it:Scolipede]]
+[[ja:ペンドラー]]
+[[zh:蜈蚣王]]

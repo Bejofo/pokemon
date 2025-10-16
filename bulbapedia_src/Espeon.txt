@@ -1,0 +1,834 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/GO|species=Espeon}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0195|prev=Quagsire|nextnum=0197|next=Umbreon|round=none}}
+{{PokémonPrevNext/Disambig|species=Espeon}}
+|}
+{{Pokémon Infobox
+|name=Espeon
+|jname=エーフィ
+|jtranslit=Ēfi
+|tmname=Eifie
+|ndex=0196
+|type1=Psychic
+|category=Sun
+|height-ftin=2'11″
+|height-m=0.9
+|weight-lbs=58.4
+|weight-kg=26.5
+|abilityn=d
+|ability1=Synchronize
+|abilityd=Magic Bounce
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=35
+|evtotal=2
+|evsa=2
+|expyield=184
+|oldexp=197
+|lv100exp=1,000,000
+|gendercode=31
+|color=Purple
+|catchrate=45
+|body=08
+|pokefordex=espeon
+|generation=2
+|friendship=70
+}}
+'''Espeon''' ([[List of Japanese Pokémon names|Japanese]]: '''エーフィ''' ''Eifie'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It evolves from {{p|Eevee}} when [[friendship Evolution|leveled up with high friendship]] during the [[time|day]] or with a [[Sun Shard]] in the [[Player character|player's]] [[Bag]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+It is one of Eevee's [[Eeveelution|final forms]], the others being {{p|Vaporeon}}, {{p|Jolteon}}, {{p|Flareon}}, {{p|Umbreon}}, {{p|Leafeon}}, {{p|Glaceon}}, and {{p|Sylveon}}.
+
+Espeon is one of [[Wes]]'s [[List of the player's first Pokémon|first Pokémon]] in {{g|Colosseum}}, alongside Umbreon.
+
+==Biology==
+Espeon is a quadrupedal, feline-like {{wp|mammal}}ian {{OBP|Pokémon|species}} with slender legs and dainty paws. It is covered in fine, lilac fur. Its ears are large, and it has purple eyes with white pupils. There are tufts of fur near its eyes, and a small, red gem embedded in its forehead. It also has a thin, forked tail.
+
+Espeon's velvety fur is so sensitive that it can sense minuscule shifts in the air, allowing it to predict the weather and its enemies' thoughts and movements. When doing so, the tip of its tail quivers. The gem on Espeon's forehead glows when it unleashes psychic energy from the gem and darkens when all of the built-up energy has been exhausted. Espeon builds up its psychic power by bathing in the sunlight. As such, it does not handle battles at night well. As mentioned in {{g|Sleep}}, Espeon is known to sleep deeply during the night.<ref>[[Sleep style|Sleep Style Dex]]</ref> Espeon shows extreme loyalty to any {{pkmn|Trainer}} that it considers worthy, even being said to have awakened its psychic powers from its desire to protect its Trainer; some sources, however, theorize that its powers were born from its need to keep itself safe.
+
+This Pokémon is rare [[Wild Pokémon|in the wild]], instead being more commonly found in {{DL|List of Pokémon by habitat|Urban Pokémon|urban areas}}, under the ownership of other Trainers. In [[Generation II]], {{m|Morning Sun}} was its [[signature move]].
+
+===Evolution===
+Espeon evolves from {{p|Eevee}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data &rarr; Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Psychic
+|pictype=art
+|no1=0133
+|name1=Eevee
+|type1-1=Normal
+|evo1=
+|no2=0196
+|name2=Espeon
+|type1-2=Psychic}}
+</div>
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Gates to Infinity}}: Espeon is a major character in the game alongside {{p|Umbreon}}. They join the {{player}}'s team, where their knowledge of [[Entercard]]s and [[Magnagate]]s proves useful in reaching far-off places.
+
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=184}}
+{{Dex/Entry1|v=Gold|entry=It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.}}
+{{Dex/Entry1|v=Silver|entry=By reading air currents, it can predict things such as the weather or its foe's next move.}}
+{{Dex/Entry1|v=Crystal|entry=The tip of its forked tail quivers when it is predicting its opponent's next move.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It uses the fine hair that covers its body to sense air currents and predict its enemy's actions. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>By reading air currents, it can predict things such as the weather or its foe's next move. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Espeon</sc> is extremely loyal to any <sc>Trainer</sc> it considers to be worthy. It is said that this {{ScPkmn}} developed its precognitive powers to protect its <sc>Trainer</sc> from harm.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=An <sc>Espeon</sc> is extremely loyal to any <sc>Trainer</sc> it considers to be worthy. It is said to have developed precognitive powers to protect its <sc>Trainer</sc> from harm.}}
+{{Dex/Entry1|v=FireRed|entry=By reading air currents, it can predict things such as the weather or its foe's next move.}}
+{{Dex/Entry1|v=LeafGreen|entry=It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=167|label1={{gameIcon|Pt}}:|reg2=Johto|num2=188}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psycho-power.}}
+{{Dex/Entry1|v=Platinum|entry=Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.}}
+{{Dex/Entry1|v=HeartGold|entry=It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.}}
+{{Dex/Entry1|v=SoulSilver|entry=By reading air currents, it can predict things such as the weather or its foe's next move.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=095|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes' thoughts.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=081|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=The tip of its forked tail quivers when it is predicting its opponent's next move.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes' thoughts.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=127|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=157|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=It can instantaneously sense its opponent's movements by feeling air currents with its fine fur.}}
+{{Dex/Entry1|v=Moon|entry=It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Although it originally had no powers at all, people say its precognitive faculties were awakened by its need to protect itself.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Psychic power builds up in the orb on its forehead as it bathes in the sunshine. Espeon is not good at battling at night.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=200|reg2=Galar|label2=Crown Tundra|num2=079|reg3=Sinnoh|reg4=Hisui|num4=029}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=By reading air currents, it can predict things such as the weather or its foe's next move.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psychic power.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Wields an arcane power with which it can predict the weather and even people's thoughts. When bathed in sunshine, the scarlet orb on its brow glows and builds energy.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=183|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The tip of its forked tail quivers when it is predicting its opponent’s next move.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{psychic color dark}}; background:#{{psychic color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{psychic color dark}}; background:#{{psychic color light}};" | [[File:Pokédex Image Espeon SM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{psychic color dark}}; background:#{{psychic color light}};" | [[File:Pokédex Image Espeon USUM.png|x200px]]
+| style="border:2px solid #{{psychic color dark}}; background:#{{psychic color light}}; {{roundy|5px}};" | [[File:Pokédex Image Espeon SV.png|x200px]]
+|-
+| Espeon in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Espeon in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Espeon in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Evolution|Evolve]] an {{p|Eevee}} [[trade]]d from {{gameabbrev3|FRLG}} or {{gameabbrevss|XD}}, [[#In events|Event]]}}
+{{Availability/Entry1/None|v=Emerald|area=[[Evolution|Evolve]] an {{p|Eevee}} [[trade]]d from {{gameabbrev3|FRLG}} or {{gameabbrevss|XD}}, [[#In events|Event]]}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1|v=Colosseum|area=[[List of the player's first Pokémon|First Pokémon]]}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Evolution|Evolve]] {{pkmn|Dream World}} {{p|Eevee}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|4|Alola}} and {{rtn|6|Alola}}{{sup/t|D}} ([[SOS Battle]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Route]]s {{rtn|4|Alola}} and {{rtn|6|Alola}}{{sup/t|D}} ([[SOS Battle]])}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Lake of Outrage]] ([[Wanderer]])<br>[[Hammerlocke Hills/Dens|Hammerlocke Hills]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Bed]] ([[Wanderer]])<br>[[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Alabaster Icelands]]:''' [[Space-time distortion]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[West Province (Area Three)|Area Three]]<br>North Province: [[North Province (Area Three)|Area Three]]<br>[[Area Zero]]<br>East Province: [[East Province (Area Three)|Area Three]] ({{t|Psychic}} {{Tera}} [[Type]])<br>[[Tera Raid Battle]]s ({{DL|List of 6★ Tera Raid Battles (Paldea)|Espeon|6★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Mt. Snowfall]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 20]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Eevee}} using a {{DL|Mystery Dungeon evolutionary items|Sun Ribbon}}}}
+{{Availability/Entry1|2|v=Ranger|link=Pokémon Ranger (video game)|area=[[Fiore Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Marine Resort]] (1F-19F), [[Shimmer Hill]] (1F-17F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Marine Resort]] (1F-19F), [[Shimmer Hill]] (1F-17F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Hippowdon Temple]]}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Haunted Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Old Mansion]], [[Dark Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Frozen Tundra]]}}
+{{Availability/Entry1|1|v=PokéPark 2|color={{grass color}}|link=PokéPark 2: Wonders Beyond|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Crags of Lament]]{{tt|*|Automatically recruited after completion}}, [[Rusty Mountain]] (Gilded Hall), [[Jaws of the Abyss]] (Uncharted Road, Gilded Hall), [[Smoking Mountain]] (Uncharted Road, Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Colorful Park|Aquatic Hill: The Colorful Park]], [[Challenge Battle#The Final Battle Royale|Challenge Battle: The Final Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 1|Distortion Island: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Super Gene Laboratorium|Origin Hideaway: Super Gene Laboratorium]] <small>(Back Boss)</small>,<br>[[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 10|Area 10: Stage 09]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Dragonite Sea]], [[Entei Sea]], [[Mimikyu Sea]], [[Mewtwo Sea]], [[Rowlet Sea]], [[Zygarde Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Entei Sea]]<sup>Final</sup>, [[Mimikyu Sea]]<sup>Final</sup>, [[Mewtwo Sea]]<sup>Final</sup>, [[Rowlet Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Murky Cave]] (15F-19F)<br/>[[Mystery_dungeon#Strong_Foes|Strong Foe]]: [[Remains Island]] (1F-12F){{shinystar}}}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Elsewhere Forest]]<sup><span style="color:#53349C;">Level 3</span></sup>, [[Belusylva Island Illumina Spot]]<sup><span style="color:#067162;">Level 2</span></sup>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Master 5)<br>[[Taupe Hollow]] (from Master 1)<br>[[Lapis Lakeside]] (from Ultra 4)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Great 3)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Galerie Rouge|Galerie Rouge: Stage 71]]<br>[[Blau Salon|Blau Salon: Stage 441]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Variety [[sync pair scout]]: {{sync|Elio|Espeon}}<br>Poké Fair [[sync pair scout]]: {{sync|Dexio|Espeon}}<br>[[Evolution]]: {{sync/player|egg|Eevee}}}}
+{{Availability/Entry1|1|v=UNITE|t=FFF|color={{violet color}}|area=Purchase for 10,000 Aeos Coins/575 Aeos Gems}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Psychic}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Journey Across America Espeon|English|United States|70|February 25 to July 23, 2006|link=List of Journey Across America event Pokémon distributions#Espeon}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Party of the Decade Espeon|English|United States|70|August 8, 2006|link=List of Party of the Decade event Pokémon distributions#Espeon}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Birthday Espeon|All|Japan|10|October 12, 2013 to December 31, 2016|link=List of local event Pokémon distributions in Generation VI#Espeon}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Center Espeon|All|Japan|50|May 13 to June 23, 2017|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Espeon 2}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Store Espeon|All|South Korea|50|July 15 to 23, 2017|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Espeon}}
+|}
+
+=====Pokémon Global Link promotions=====
+{{eventAvail/h|type=Psychic}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Espeon|Japanese|PGL|10|October 20, 2010 to January 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Espeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Espeon|Korean|PGL|10|May 18 to August 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Espeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Espeon|English|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Espeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Espeon|French|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Espeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Espeon|German|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Espeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Espeon|Italian|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Espeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Espeon|Spanish|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Espeon}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Psychic}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Razz Berry|30|Vivichoke|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Psychic
+|HP=65
+|Attack=65
+|Defense=60
+|SpAtk=130
+|SpDef=95
+|Speed=110
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Psychic
+|Speed=3
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=2
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic= 50
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Espeon|Psychic|Psychic|2}}
+{{learnlist/level9|1|Covet|Normal|Physical|60|100|25}}
+{{learnlist/level9|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|1|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level9|1|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|1|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|1|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|1|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level9|5|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|10|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|15|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level9|20|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|25|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level9|30|Morning Sun|Normal|Status|—|—|5}}
+{{learnlist/level9|35|Power Swap|Psychic|Status|—|—|10}}
+{{learnlist/level9|40|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level9|45|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/level9|50|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/level9|55|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/levelf/9|Espeon|Psychic|Psychic|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Espeon|Psychic|Psychic|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20}}
+{{learnlist/tm9|TM037|Draining Kiss|Fairy|Special|50|100|10}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tm9|TM063|Psychic Fangs|Psychic|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM101|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM138|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM217|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tm9|TM218|Expanding Force|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10||'''}}
+{{learnlist/tmf/9|Espeon|Psychic|Psychic|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Espeon|Psychic|Psychic|2}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571-Hisui|Zoroark}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}|Detect|Fighting|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128|Tauros|form=-Paldea Aqua}}{{MSP/H|0135|Jolteon}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0231|Phanpy}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0775|Komala}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Flail|Normal|Physical|—|100|15||}}
+{{learnlist/breed9|{{MSP/H|0050|Diglett}}{{MSP/H|0050-Alola|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0968|Orthworm}}|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/breed9|{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}|Tickle|Normal|Status|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0775|Komala}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{tt|*|Skeledirge learns Yawn on its own only Version 2.0.1 onwards}}|Yawn|Normal|Status|—|—|10}}
+{{learnlist/breedf/9|Espeon|Psychic|Psychic|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Espeon|Psychic|Psychic|2}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Espeon|Psychic|Psychic|2}}
+
+====Special moves====
+{{learnlist/eventh/9|Espeon|Psychic|Psychic|2}}
+{{learnlist/event9|[[East Province (Area Three)|Wild Tera Pokémon]]|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/event9|[[East Province (Area Three)|Wild Tera Pokémon]]|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/eventf/9|Espeon|Psychic|Psychic|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg psychic color}}; border: 3px solid #{{tcg psychic color dark}}"
+|-
+! style="background: #{{tcg psychic color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg psychic color light}}; {{roundytr|5px}}" | Card
+|- style="background:#fff"
+| {{m|Hypnosis}}
+| [[Espeon 4 (Rising Rivals 18)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Psywave}}
+| style="background:#fff; {{roundybr|5px}}" | [[Sabrina's Espeon (VS 56)]]<br>[[Espeon 4 (Rising Rivals 18)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/Trozei|col=6|type=Psychic|ndex=196|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Psychic|ndex=196
+|body=1
+|rate=Evolve
+|area=Transform Forest
+|P1=I sense the movements of foes from the flow of air!
+|P2=Trouble... My HP's down by half.
+|P3=It might be hopeless... I don't have any strength left...
+|PL=My level went up. My senses grew sharper, too.
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Psychic|ndex=196
+|body=1
+|rate=-12
+|IQ=F
+}}
+|-
+{{Spindata/PSMD|col=6|type=Psychic|ndex=196
+|coset=3
+|conto={{p|Flareon}}, {{p|Umbreon}}, {{p|Glaceon}}
+|recruitment=Visit {{p|Flareon}}'s secret base
+|P1=The sunlight keeps me cute! ♪
+|P2=It's a tough situation…
+}}
+|-
+{{Spindata/Ranger|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|loop=5
+|MinEXP=75
+|MaxEXP=89
+|num=186
+|browser=Espeon attacks with a ray it emits from its glowing red forehead.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|field=Teleport
+|fieldpower=-
+|num=101
+|browser=It spits eerie orbs of energy to attack. It protects itself with a psychic barrier.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|field=Psy Power
+|fieldpower=2
+|num=079
+|pastnum=058
+|browser=It lets loose psychic orbs that make Pokémon Paused.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=5
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Psychic|ndex=196
+|walk=1.38
+|hp=52
+|attack=81
+|defense=55
+|speed=70
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Psychic|ndex=196
+|Pad=Espeon went to the [[Haunted Zone]] so she could play there! Her favorite Attraction is {{DL|Attraction (PokéPark)|Dusknoir's Speed Slam}}, but she also enjoys {{DL|Attraction (PokéPark)|Absol's Hurdle Bounce!}}
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Psychic|ndex=196
+|pad=She parted with the Pokémon she grew up with. They were like her siblings, but now she lives in {{DL|Cove Area|Cove Town}}.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Psychic|ndex=196
+|HP=3
+|atk=4
+|def=3
+|spd=4
+|range=4
+|move=Psybeam
+|ability1=Mountaineer
+|ability2=Instinct
+|ability3=Share
+|evo=Evolves from {{p|Eevee}} when it has a link of 70% or higher and is deployed in [[Illusio]]
+|link='''[[Hero]]'''/'''[[Heroine]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Psychic|ndex=196
+|power=3
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Psychic|ndex=196|num=027
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Eject+, Hammering Streak
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=196
+|hatch=N/A
+|buddy=5
+|candy=Eevee
+|evolution=N/A
+|stamina=163|attack=261|defense=175
+|fast={{m|Confusion}}, {{m|Zen Headbutt}}
+|special={{m|Psybeam}}, {{m|Psychic}}, {{m|Future Sight}}, {{m|Psychic Fangs}}{{tt|*|From September 1, 2022 onward}}, {{m|Last Resort}}{{tt|†|Event-exclusive from Eevee Community Day 2018}}, {{m|Shadow Ball}}{{tt|†|Event-exclusive from Eevee Community Day 2021}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Psychic|ndex=196|pdex=077
+|dex=Espeon can predict just about anything by simply detecting slight shifts in the air. It seemed to be leading you through [[Elsewhere Forest]] so you wouldn’t get lost.}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0196
+|sleeptype=Snoozing
+|type=Psychic
+|dexentry=It bathes in the sunshine during the day and builds up psychic power in the orb on its forehead. It's said to be averse to battling at night, so it might be easier than you'd expect to come across an Espeon deep in sleep.
+|sleepstyle1=Foreseeing Sleep
+|sleepstyle2=Sitting Sleep
+|sleepstyle3=Belly-Up Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=20
+|specialty=Skills
+|evolution=
+|candyNum=
+|pokemon=Eevee
+|berry=Mago
+|ingredient1=Moomoo Milk
+|ingredient2=Soothing Cacao
+|ingredient3=Bean Sausage
+|carrylimit=16
+|skillname=Charge Strength M
+|skilldesc=Increases Snorlax's Strength by 880.
+}}
+|}
+In {{g|GO}}, Espeon can be obtained by completing 3/6 of the [[Special Research]], ''Investigate a Mysterious Energy''.
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{psychic color dark}}; background:#{{psychic color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{psychic color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{psychic color dark}}; background:#{{psychic color light}};"| [[File:GO0196November2018.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{psychic color dark}}; background:#{{psychic color light}};"| [[File:GO0196Holiday2022.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{psychic color dark}}; background:#{{psychic color light}};"| [[File:GO0196Spring2023.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{psychic color dark}}; background:#{{psychic color light}};"| [[File:GO0196Explorer.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{psychic color dark}}; background:#{{psychic color light}};"| [[File:GO0196DayScarf.png|100px]]
+|-
+| Flower crown
+| Holiday hat
+| Cherry blossoms
+| Explorer hat
+| Sun Scarf
+|}
+
+===Evolution data===
+Espeon evolves from {{p|Eevee}} when [[friendship Evolution|leveled up with high friendship]] (220 before [[Generation VIII]] or 160 since) during the [[time|day]], except in areas with a [[Moss Rock]] or [[Ice Rock]], or if the [[Methods of Evolution|evolutionary conditions]] for it to evolve into {{p|Sylveon}} have also been met. Eevee will also never evolve into Espeon in {{game|FireRed and LeafGreen|s}}, due to the absence of a [[time|day-night cycle]], or in {{LGPE}}, as Espeon is not present in those games. In {{Pokémon XD}} only, Eevee will evolve if the player has a [[Sun Shard]] in their [[Bag]].
+
+{| class="roundy" style="margin:auto; text-align:center; background: #{{psychic color}}; border: 3px solid #{{psychic color dark}}"
+|-
+|
+{{Evobox/Setup|0133Eevee|Eevee|Normal|Normal|psychic|Unevolved||}}
+| {{bag/s|Rare Candy|SV}} + {{bag/s|Soothe Bell|SV}} + [[File:Day Icon SV.png|40px|link=Time]]<br>Level up<br><small>with high {{color2|000|friendship}}<br>during the {{color2|000|Time#Time-based Evolutions|day}}<br>({{color2|000|core series}})</small><br>→<br>{{bag/s|Rare Candy|SV}} + {{bag/s|Soothe Bell|SV}}+ [[File:Bag Key Items SV pocket icon.png|Sun Shard|40px|link=Sun Shard]]<br>{{color2|000|Level|Level up}}<br><small>with high {{color2|000|friendship}}<br>and a {{color2|000|Sun Shard}} in the {{color2|000|Bag}}<br>({{gameabbrevss|XD}})</small>
+|
+{{Evobox/Setup|0196Espeon|Espeon|Psychic|Psychic|Psychic|First Evolution||}}
+|}
+{{-}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/NA|II}}
+{{Spritebox/2|ndex=196}}
+{{Spritebox/3|ndex=196}}
+{{Spritebox/4|ndex=196}}
+{{Spritebox/5|ndex=196}}
+{{Spritebox/6|ndex=196|crop=81}}
+{{Spritebox/7|ndex=196|crop=81}}
+{{Spritebox/8/SwShLA|ndex=196|LAcrop=158}}
+<!--{{Spritebox/9|ndex=0196}}-->
+{{Spritebox/HOME|ndex=0196}}
+{{Spritebox/Footer|196|Espeon}}
+
+==In animation==
+[[File:Espeon anime.png|thumb|250px|Espeon in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+=====[[Sakura's Espeon]]=====
+Espeon debuted in ''[[EP226|Espeon, Not Included]]'', where it was revealed that [[Sakura]]'s Eevee had evolved into one.
+
+=====Other=====
+In ''[[M05|Pokémon Heroes: Latios & Latias]]'', an Espeon was {{OBP|Annie|M05}}'s main Pokémon. It would use its {{m|Psychic}} to incapacitate foes.
+
+In ''[[AG143|The Saffron Con]]'', [[Lilian Meridian]] used an Espeon to test the stage's lighting effects. Before the [[Saffron City]] {{pkmn|Contest}}, it performed an appeal which entranced [[May's Squirtle]].
+
+In ''[[AG170|Second Time's the Charm]]'', [[Anabel]] used an Espeon as the third and final Pokémon during her [[rematch]] against {{Ash}} in the {{OBP|Battle Tower|Generation III}}. It was eventually defeated by {{AP|Pikachu}}'s {{m|Volt Tackle}}.
+
+[[Virgil]]'s male Espeon debuted in ''[[BW102|Team Eevee and the Pokémon Rescue Squad!]]'', along with an Eevee and her other Evolutions at the time. He reappeared in ''[[BW105|Lost at the League!]]'' and ''[[BW108|A Unova League Evolution!]]'', and in a flashback in ''[[BW103|Curtain Up, Unova League!]]''.
+
+In ''[[PK25|Eevee & Friends]]'', a vain Espeon was with an {{p|Eevee}} and its other evolved forms, including the newly introduced {{p|Sylveon}}. It despises getting messy in any way.
+
+In ''[[XY109|Master Class Choices!]]'', {{OBP|Amelia|XY109}} used an Espeon alongside a {{p|Dragonair}} in the [[Fleurrh City]] {{pkmn|Showcase}}. Together, they made it past the Theme Performance. However, they came in second during the Freestyle Performance, losing to {{an|Serena}} and her {{TP|Serena|Braixen}}, {{TP|Serena|Pancham}}, and {{TP|Serena|Sylveon}}.
+
+In ''[[SM065|Turning Heads and Training Hard!]]'', a {{pkmn|Trainer}}'s Espeon was summoned to help [[Ilima]]'s Eevee perform {{m|Extreme Evoboost}}. In the [[Poké Problem]] segment of the [[SM066|next episode]], it saw Ilima and Eevee off.
+
+An Espeon under the ownership of [[Soleil]] appeared in ''[[JN079|Night and Day, You are the Ones!]]'', having evolved from her female Eevee. She reappeared in flashbacks in ''[[JN105|Reuniting for the First Time!]]'' and ''[[JN120|Infinite Possibilities!]]''.
+
+====Minor appearances====
+In ''[[EP272|Johto Photo Finish]]'', {{Gary}}'s demonstration featured an Espeon evolving from an Eevee.
+
+In ''[[AG011|A Bite to Remember]]'', {{an|Brock}}'s demonstration featured an Espeon evolving from an Eevee.
+
+A {{pkmn|Coordinator}}'s Espeon appeared in ''[[AG050|Pros and Con Artists]]''.
+
+An Espeon appeared in ''[[M07|Destiny Deoxys]]'', under the ownership of a {{tc|Lady}}.
+
+A Coordinator's Espeon appeared in ''[[AG115|Mean With Envy]]''.
+
+In ''[[AG121|Hi Ho Silver Wind!]]'' and ''[[AG122|Deceit and Assist]]'', a Coordinator's Espeon competed in the [[Hoenn Grand Festival]].
+
+A Coordinator's Espeon appeared in ''[[AG143|The Saffron Con]]''.
+
+In ''[[AG180|May, We Harley Drew'd Ya!]]'', a Coordinator's Espeon competed in the [[Kanto Grand Festival]].
+
+In ''[[DP010|Not on MY Watch Ya Don't!]]'', an Espeon was hypnotized by {{p|Psyduck}}.
+
+In ''[[M11|Giratina and the Sky Warrior]]'', an Espeon was together with an Eevee and the other six [[Eeveelution]]s at the time.
+
+In ''[[XY090|Tag Team Battle Inspiration!]]'', {{an|Serena}}'s fantasy featured an Espeon as she imagined what her {{TP|Serena|Eevee}} could evolve into.
+
+In ''[[SM013|Racing to a Big Event!]]'', a {{pkmn|Trainer}}'s Espeon competed in the [[Pokémon Pancake Race]].
+
+Two Trainers' Espeon appeared in ''[[M21|The Power of Us]]''.
+
+A Trainer's Espeon appeared in ''[[SM092|Turning the Other Mask!]]''.
+
+A Trainer's Espeon appeared in ''[[SM132|Imitation Is the Sincerest Form of Strategy!]]''.
+
+In ''[[SM133|Battling on the Wing!]]'', a Trainer's Espeon watched the {{pkmn|battle}}s during the [[Manalo Conference]].
+
+A Trainer's Espeon appeared in ''[[SM141|Exhibition Unmasked!]]'', ''[[SM143|Fiery Surprises!]]'', and ''[[SM144|From Z to Shining Z!]]''.
+
+In ''[[JN049|To Train, or Not to Train!]]'', an Espeon was at the [[Eevee Evolution Lab]]. It reappeared in ''[[JN120|Infinite Possibilities!]]'', alongside another Espeon.
+
+An Espeon appeared in a fantasy in ''[[JN063|On Land, In the Sea, and to the Future!]]''.
+
+An Espeon appeared in a fantasy in ''[[JN120|Infinite Possibilities!]]''.
+
+An Espeon appeared in ''[[HZ001|The Pendant That Starts It All (Part One)]]'', under the ownership of a student of [[Indigo Academy]].
+
+A Trainer's Espeon appeared in ''[[HZ008|The Door That Never Opens]]''.
+
+An Espeon appeared in ''[[HZ057|The Terapagos I Don't Know]]'', under the ownership of a student.
+
+A Trainer's Espeon appeared in [[HZ109]].
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP226|Espeon|Ash's Pokédex|Espeon, the Sun Pokémon. Espeon are able to read air currents, allowing it to predict the future, as well as its opponents' next moves.}}
+{{Animedexfooter/Pokémon|Johto}}
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG170|Espeon|May's Pokédex|Espeon, the Sun Pokémon. It uses the fine hairs that cover its body to sense air currents and predict an opponent's movement.}}
+{{Animedexfooter/Pokémon|Emerald}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW102|Espeon|Ash's Pokédex|Espeon, the Sun Pokémon. It predicts opponent's moves and detects air currents with its body hairs.}}
+{{Animedexfooter/Pokémon|Unova}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN079|Espeon|Chloe's Rotom Phone|Espeon, the Sun Pokémon. A {{t|Psychic}} type. When the sun hits the jewel on Espeon's forehead, it builds up psychic power. It holds the highest loyalty to an accomplished {{pkmn|Trainer}}, and it is said Espeon obtained its premonition powers to protect them.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Evolutions===
+[[File:Naoko Espeon Evolutions.png|thumb|250px|Espeon in [[Pokémon Evolutions]]]]
+====[[Sakura's Espeon|Naoko's Espeon]]====
+An Espeon appeared in ''[[PE07|The Show]]'', under the ownership of [[Kimono Girl|Naoko]]. It was used in the Kimono Girls' performance of the destruction of the [[Burned Tower|Brass Tower]], where it represented the dawning of the day after the incident.
+{{-}}
+
+==In the manga==
+[[File:Vee.png|thumb|200px|Espeon in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+===={{MangaArc|Gold, Silver & Crystal}}====
+{{main|Vee}}
+In ''[[PS115|Forretress of Solitude]]'', it was revealed that {{adv|Red}}'s [[Vee]] had evolved into Espeon permanently, losing his ability to [[devolution|devolve]] back into {{p|Eevee}} in the process.
+
+===={{MangaArc|HeartGold & SoulSilver}}====
+In ''[[PS446|Weavile Wobbles But It Won't Fall Down]]'', a {{pkmn|Trainer}}'s Espeon was seen at the {{safari|Johto}}.
+
+An Espeon appeared in ''[[PS448|Pleased as Punch With Parasect]]'', under the ownership of a [[Kimono Girl]].
+
+===={{MangaArc|X & Y}}====
+An Espeon appeared in a fantasy in ''[[PS553|Sylveon Enchants]]''.
+
+===={{MangaArc|Sun, Moon, Ultra Sun & Ultra Moon}}====
+[[Dexio]]'s Espeon first appeared in ''[[PASM18|Confusion and Monsters from Another World]]''.
+
+===Pokémon Colosseum Snatcher Leo===
+Similar to the games, [[Wes]] owns an Espeon, which debuted in [[CSL1]].
+
+===Pokémon Colosseum Snatchers===
+An Espeon appeared in [[PCS1]], under the ownership of Wes.
+
+===Pokémon Diamond and Pearl Adventure!===
+[[Mitsumi]] has an Espeon, which is first seen being used to stop a bomb placed by Team Galactic in ''[[DPA27|A Surprise Visit from Hareta's Father!]]''.
+
+===Pokémon Gold & Silver: The Golden Boys===
+In [[Pokémon Gold & Silver: The Golden Boys]], [[Bill]] has both an Espeon and its counterpart {{p|Umbreon}}.
+
+==In the TCG==
+{{main|Espeon (TCG)}}
+
+==Other appearances==
+[[File:UNITE Espeon.png|200px|thumb|Espeon in Pokémon UNITE]]
+===[[Pokémon UNITE]]===
+{{main|Espeon (UNITE)}}
+Espeon is playable through obtaining a Unite License. It is a ranged attacker that starts as Eevee, which evolves into Espeon at level 4.
+{{-}}
+
+==Trivia==
+* Due to the absence of a [[time|day-night cycle]] in {{2v2|FireRed|LeafGreen}}, in order for an Espeon or {{p|Umbreon}} to be obtained and added to the [[Pokédex]] in those games, an {{p|Eevee}} must be traded to {{game2|Ruby|Sapphire|Emerald}}, evolved there, and then traded back, or else traded from {{g|Colosseum}} or {{g|XD: Gale of Darkness}}.
+* Espeon shares its {{pkmn|category}} with {{p|Sunflora}} and {{p|Volcarona}}. They are all known as the Sun Pokémon.
+* Espeon has blue inner ears in the games, but in the {{pkmn|animated series}}, they are often purple.
+* If one were to rearrange the [[Pokérap GS]] so all the Pokémon are in National Pokédex order, Espeon and {{p|Remoraid}} would remain in their respective positions in the song.
+* Espeon is the only [[Eeveelution]] without a type advantage over another.
+
+===Concept and development===
+Espeon was designed by [[Atsuko Nishida]].<ref>(2018) ''EVs''. ([http://lavacutcontent.com/ken-sugimori-eevee-origins/ English translation] written by Anthony Madry and commissioned by Dr. Lava)</ref><ref>[https://twitter.com/atsuko_nishida/status/783643367523557376 Tweet by AtsukoNishida (@atsuko_nishida).] Posted on October 5, 2016.</ref>
+
+[[File:Spr 2d 205.png|thumb|200px|Espeon's design from the 1997 Space World demo.]]
+In the [[Pokémon Gold and Silver Spaceworld '97 demo|1997 Nintendo Space World demo of Pokémon Gold and Silver]], Espeon is shown to be yellow, rather than pink, which reflects various older design ideas around the {{type|Psychic}} being themed around gold, seen in the [[Marsh Badge]] and [[Generation I]] Psychic types often being colored similarly. This would be changed as soon as the Space World 1999 demo, where Espeon is seen with its standard pink design.
+
+===Origin===
+Because of its feline appearance, Espeon appears to be based on the legend of the ''{{wp|bakeneko}}'' and the ''{{wp|nekomata}}''; both are magical cat ''{{wp|yōkai}}'' described as mysterious and intelligent, with the distinction between the two being that the latter is depicted with a forked tail. It may also be based on the {{wp|Lynx (mythology)|mythological lynx}}, a feline creature that possesses the psychic power of clairvoyance. The jewel on its head may also be a reference to the ''{{wp|carbunclo}}'', a mythological South American creature with a jewel or mirror on its forehead, and sometimes described as a feline. The position of the jewel also evokes the idea of a "{{wp|third eye}}".
+
+Its large ears can be traced from various felines such as {{wp|caracal}}s, {{wp|oriental shorthair}}s, {{wp|lynx}}es, and possibly {{wp|serval}}s, while its fine hair is similar to that of a {{wp|sphynx cat}}. Espeon's ability to sense minute shifts in the air with its sensitive fur mirrors a cat's ability to use its sensitive whiskers to detect the slightest directional change in a breeze.
+
+====Name origin====
+Espeon may be a combination of the acronym ''ESP'' ({{wp|extrasensory perception}}) and ''eon'' (an immeasurably long period of time, possibly referring to how long evolution takes naturally). ''Eon'' is a suffix all {{p|Eevee}} [[Evolution]]s share and was Eevee's English prototype name.
+
+Eifie may be a combination of エスパー ''ESPer'' (one who has extrasensory perception) and フィール ''feel''. It is also similar to イーブイ ''Eievui'' (Eevee's Japanese name).
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=エーフィ ''Eifie''|jameaning=From ''esper'', ''feel'', and イーブイ ''{{p|Eevee|Eievui}}''
+|fr=Mentali|frmeaning=From ''mental'' and ''-li'' (common suffix for all Eeveelutions in French)
+|es=Espeon|esmeaning=Same as English name
+|de=Psiana|demeaning=From ''{{wp|Psi (parapsychology)|Psi}}'' and ''-a'' (common suffix for all Eeveelutions in German)
+|it=Espeon|itmeaning=Same as English name
+|ko=에브이 ''{{tt|Evee<!--Romanized name in Korean merchandise-->|Romanized as 'Ebeui' by TPCi}}''|komeaning=Transcription of Japanese name
+|zh_cmn=太陽伊布 ''Tàiyángyībù''{{tt|*|Games, Post-Gen VII media}}<br>太陽精靈 / 太阳精灵 ''Tàiyángjīnglíng''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|太陽 / 太阳 ''tàiyáng''|sun}} and 伊布 ''{{p|Eevee|Yībù}}''<br>From {{tt|太陽 / 太阳 ''tàiyáng''|sun}} and {{tt|精靈 / 精灵 ''jīnglíng''|spirit, fairy, elf; former suffix for Eeveelutions in Mandarin}}
+|zh_yue=太陽伊布 ''Taaiyèuhngyībou''{{tt|*|Games, Post-Gen VII media}}<br>太陽伊貝 ''Taaiyèuhngyībui''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|太陽 ''taaiyèuhng''|sun}} and 伊布 ''{{p|Eevee|Yībou}}''<br>From {{tt|太陽 ''taaiyèuhng''|sun}} and {{tt|伊貝 ''Yībui''|former translation of Eevee}}
+|hi=मनिवी ''Maneevee''|himeaning=From {{tt|मन ''mann''|mind}} or {{tt|मानसिक ''mānsik''|mental}} and ''Eevee''
+|ru=Эспеон ''Espeon''|rumeaning=Transcription of English name
+|th=เอฟี ''Efi''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Sakura's Espeon]]
+* [[Vee]]
+* [[Umbreon and Espeon (Gates to Infinity)]]
+* [[Espeon (UNITE)]]
+
+==References==
+<references/>
+
+==External links==
+{{Eeveelutions}}
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0195|prev=Quagsire|nextnum=0197|next=Umbreon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+[[Category:Pokémon with cross-generational Evolutions]]
+
+[[de:Psiana]]
+[[es:Espeon]]
+[[fr:Mentali]]
+[[it:Espeon]]
+[[ja:エーフィ]]
+[[zh:太阳伊布]]

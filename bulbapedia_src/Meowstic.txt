@@ -1,0 +1,610 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/GO|species=Meowstic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0677|prev=Espurr|nextnum=0679|next=Honedge|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Meowstic
+|jname=ニャオニクス
+|tmname=Nyaonix
+|jtranslit=Nyaonikusu
+|category=Constraint
+|type1=Psychic
+|abilitylayout=1+2
+|ability1=Keen Eye
+|ability2=Infiltrator
+|abilityd=Prankster
+|abilitydcaption=Male Meowstic
+|abilityd2=Competitive
+|abilityd2caption=Female Meowstic
+|ndex=0678
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=18.7
+|weight-kg=8.5
+|egggroupn=1
+|egggroup1=Field
+|gendercode=127
+|eggcycles=20
+|evtotal=2
+|evsp=2
+|expyield=163
+|lv100exp=1,000,000
+|color=Blue
+|formcolors=yes
+|catchrate=75
+|body=06
+|pokefordex=meowstic-{{#ifexpr: ({{#time: H}} mod 2) = 0|m|f}}
+|generation=6
+|friendship=70
+}}
+'''Meowstic''' ([[List of Japanese Pokémon names|Japanese]]: '''ニャオニクス''' ''Nyaonix'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Espurr}} starting at [[level]] 25.
+
+Meowstic is unique in that the moves it can learn differ depending on gender. Male Meowstic can learn more status moves, while female Meowstic can learn more damaging moves.
+
+==Biology==
+[[File:Professor Oak Holo Caster XY071.png|thumb|left|250px|A male and a female Meowstic with their ears unfolded]]
+Meowstic is a bipedal, feline {{OBP|Pokémon|species}} whose appearance differs drastically between genders. Both genders have two tails, folded ears, a small collar of fur around the neck, and a tuft of fur on top of the head. On the inner surface of the tips of each ear, there is an eye-like organ with a ring at its center. This organ can emit psychic energy powerful enough to obliterate a 10-ton truck or tanker into dust. When emitting psychic powers, the organ glows light blue. Meowstic usually keeps its ears folded at all times to keep its psychic powers in check, but it will unleash this power if threatened.
+
+The male Meowstic is predominantly dark blue. Its eyes are green with light blue sclerae. The organ in its ears is green with a light blue ring. The tuft of fur between its ears is white and curves slightly to the side and the collar around its neck is white with several stray tufts of fur. It has pointed ears with white at the fold and on the tips of its ears; there is also a white ring near the tips of its ears. Its tails are also pointed with white tips and a white ring near the end. There is a tuft of fur on each hip and it has white paws. 
+
+Male Meowstic have a strong defensive instinct, as it prefers to support its allies rather than attack, despite having powerful psychic powers to blast away any opponent. They are willing to use their full power to protect themselves or their partners. When a male Meowstic continues to emit its powerful psychic energy, it will damage its body as a side effect.
+
+The female Meowstic is predominantly white. Its ears have no markings and curled tips and its eyes are red with yellow sclerae. The organ in its ears is red with a yellow ring. The tuft of fur on its head is blue and curled, as is the collar around its neck. Its tails are blue at the base and end in white, fluffy curls. There are blue, stocking-like markings around its paws and two tufts of fur on each hip. 
+
+Female Meowstic are known to be more selfish, aggressive, and aversive than their male counterparts. Should the female Meowstic not get what it wants, it will torment anyone with its psychic abilities. Female Meowstic generally have a stoic expression even when using their psychic powers. When they sense danger, they will unleash their psychic power at its maximum strength, with no regard for their opponents.
+
+Male and female Meowstic [[Gender#Meowstic|differ by moves]] they learn.
+
+===Evolution===
+Meowstic evolves from {{p|Espurr}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Psychic
+|no1=0677
+|name1=Espurr
+|type1-1=Psychic
+|evo1a=[[File:Male icon HOME.png|link=Gender|x20px]]<br><small>{{color2|000|Gender|Male}}</small>
+|no2a=0678
+|name2a=Meowstic
+|form2a=Male
+|art2a=0678Meowstic-Male
+|type1-2a=Psychic
+|evo1b=[[File:Female icon HOME.png|link=Gender|x20px]]<br><small>{{color2|000|Gender|Female}}</small>
+|no2b=0678
+|name2b=Meowstic
+|form2b=Female
+|art2b=0678Meowstic-Female
+|type1-2b=Psychic}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=115|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=209|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Form|Male}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Revealing the eyelike patterns on the insides of its ears will unleash its psychic powers. It normally keeps the patterns hidden, however.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The defensive instinct of the males is strong. It's when they're protecting themselves or their partners that they unleash their full power.}}
+{{Dex/Form|Female}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Females are a bit more selfish and aggressive than males. If they don't get what they want, they will torment you with their psychic abilities.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=If it doesn't hold back when it unleashes its psychic power, it can tear apart a tanker. Its unfriendliness is part of its charm.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=105}}
+{{Dex/Form|Male}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Though it has enough psychic power to blast away any opponent, Meowstic prefers to support its allies rather than attack.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=If Meowstic continuously emits its powerful psychic energy, it will damage its own body.}}
+{{Dex/Form|Female}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Female Meowstic are more aggressive than males. Their expression remains blank even while they're wielding immense psychic power.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=When they sense danger, they exert their psychic power at its maximum output. They have no regard for their opponents.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{psychic color dark}}; background:#{{psychic color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{psychic color light}}; background:#{{psychic color light}} | [[File:Pokédex Image Meowstic SV Blueberry.png|x200px]]
+|-
+| Meowstic in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=psychic}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Espurr}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|v=Sword|t=FFF|area=[[Route]] {{rtn|7|Galar}}, [[Dusty Bowl]] <small>('''Male''')</small><br>[[Watchtower Ruins/Dens|Watchtower Ruins]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]]) <small>('''Male''')</small><br>[[Evolve]] {{p|Espurr}}{{female}} <small>('''Female''')</small>}}
+{{Availability/Entry1|v=Shield|t=FFF|area=[[Route]] {{rtn|7|Galar}}, [[Dusty Bowl]] <small>('''Female''')</small><br>[[Watchtower Ruins/Dens|Watchtower Ruins]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]]) <small>('''Female''')</small><br>[[Evolve]] {{p|Espurr}}{{male}} <small>('''Male''')</small>}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Coastal Biome]], [[Canyon Biome]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Blueberry Academy)|Meowstic|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 2|Mountain of Order: Stage 2]] <small>('''Male/Female''')</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Flowery Wooded Dell|Fairy Land: Flowery Wooded Dell]] <small>(All Areas, Entrance Boss; '''Male/Female''')</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 09|Area 09: Stage 05]] <small>('''Male''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mimikyu Sea]], [[Butterfree Sea]], [[Greninja Sea]], [[Mimikyu Sea]]<sup>Final</sup> <small>('''Male/Female''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Galerie Rouge|Galerie Rouge: Stage 67]] <small>('''Male''')</small><br>[[Blau Salon|Blau Salon: Stage 428]] <small>('''Male''')</small><br>[[Sweet Strasse|Sweet Strasse: Stage 81]] <small>('''Female''')</small><br>[[Blau Salon|Blau Salon: Stage 431]] <small>('''Female''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Calem|Espurr}} <small>('''Male''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Psychic
+|HP=74
+|Attack=48
+|Defense=76
+|SpAtk=83
+|SpDef=81
+|Speed=104
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=psychic
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100
+}}
+
+===Learnset===
+Meowstic is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+=====Male Meowstic=====
+{{learnlist/levelh/9|Meowstic|Psychic|Psychic|6}}
+{{learnlist/level9|1|Mean Look|Normal|Status|—|—|5}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/level9|1|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/level9|9|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level9|12|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|15|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|18|Covet|Normal|Physical|60|100|25}}
+{{learnlist/level9|21|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level9|24|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level9|29|Role Play|Psychic|Status|—|—|10}}
+{{learnlist/level9|34|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|34|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/level9|39|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/level9|44|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/level9|49|Quick Guard|Fighting|Status|—|—|15}}
+{{learnlist/level9|54|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level9|59|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/levelf/9|Meowstic|Psychic|Psychic|6}}
+
+=====Female Meowstic=====
+{{learnlist/levelh/9|Meowstic|Psychic|Psychic|6}}
+{{learnlist/level9|1|Magical Leaf|Grass|Special|60|—|20}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/level9|1|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/level9|9|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level9|12|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/level9|15|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/level9|18|Covet|Normal|Physical|60|100|25}}
+{{learnlist/level9|21|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level9|24|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level9|29|Role Play|Psychic|Status|—|—|10}}
+{{learnlist/level9|34|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|34|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/level9|39|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/level9|44|Extrasensory|Psychic|Special|80|100|20||'''}}
+{{learnlist/level9|49|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/level9|54|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level9|59|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Meowstic|Psychic|Psychic|6}}
+
+====By [[TM]]====
+=====Male Meowstic=====
+{{learnlist/tmh/9|Meowstic|Psychic|Psychic|6}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/tm9|TM019|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM138|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM139|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM218|Expanding Force|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10||'''}}
+{{learnlist/tmf/9|Meowstic|Psychic|Psychic|6}}
+
+=====Female Meowstic=====
+{{learnlist/tmh/9|Meowstic|Psychic|Psychic|6}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/tm9|TM019|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM138|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM217|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tm9|TM218|Expanding Force|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10||'''}}
+{{learnlist/tmf/9|Meowstic|Psychic|Psychic|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Meowstic|Psychic|Psychic|6}}
+{{learnlist/breed9|{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}|Tickle|Normal|Status|—|100|20|grid=7}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0775|Komala}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{tt|*|Skeledirge learns Yawn on its own only Version 2.0.1 onwards}}|Yawn|Normal|Status|—|—|10|grid=7}}
+{{learnlist/breedf/9|Meowstic|Psychic|Psychic|6}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Meowstic|Psychic|Psychic|6}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Meowstic|Psychic|Psychic|6}}
+
+===Side game data===
+====Male Meowstic====
+{{Spindata/Head|type=Psychic}}
+{{Spindata/PSMD|col=6|type=Psychic|ndex=678
+|coset=3
+|conto={{p|Pyroar}} (♂), {{p|Espurr}}
+|recruitment=Talk to in [[Noe Town]]
+|P1=OK, what mischief can I get into today?
+|P2=Whoa… This is very demanding…
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Psychic|ndex=678 m
+|walk=2.08
+|hp=54
+|attack=77
+|defense=55
+|speed=70
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=678
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=678|num=014
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Hitting Streak
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=678
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=179
+|attack=166
+|defense=167
+|fast={{m|Confusion}}, {{m|Sucker Punch}}
+|special={{m|Psychic}}, {{m|Energy Ball}}, {{m|Thunderbolt}}
+}}
+|}
+
+====Female Meowstic====
+{{Spindata/Head|type=Psychic}}
+{{Spindata/PSMD|col=6|type=Psychic|ndex=678 f
+|coset=25
+|conto={{p|Houndour}}, {{p|Blissey}}
+|recruitment=Battle {{p|Houndour}}
+|P1=I can tell that you think I'm cute, right? Well, I think you are right.
+|P2=Ugh… I need a helping hand…
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Psychic|ndex=678 f
+|walk=2.08
+|hp=54
+|attack=77
+|defense=55
+|speed=70
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=678F
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=678F|num=014
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Hitting Streak
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=0678 f
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=179
+|attack=166
+|defense=167
+|fast={{m|Confusion}}, {{m|Charm}}, {{m|Magical Leaf}}{{tt|*|From September 1, 2023 onward}}
+|special={{m|Psychic}}, {{m|Energy Ball}}, {{m|Shadow Ball}}
+}}
+|}
+
+===Evolution data===
+{{Evobox/1branch2
+|type1=Psychic
+|no1=0677
+|name1=Espurr
+|type1-1=Psychic
+|evo1a={{Bag/s|Rare Candy|SV}} + [[File:Male icon HOME.png|link=Gender|32px]]<br>{{color2|000|Level|Level 25}}<br><small>({{color2|000|Gender|male}})</small>
+|no2a=0678
+|name2a=Meowstic
+|form2a=Male
+|art2a=0678Meowstic-Male
+|type1-2a=Psychic
+|evo1b={{Bag/s|Rare Candy|SV}} + [[File:Female icon HOME.png|link=Gender|32px]]<br>{{color2|000|Level|Level 25}}<br><small>({{color2|000|Gender|female}})</small>
+|no2b=0678
+|name2b=Meowstic
+|form2b=Female
+|art2b=0678Meowstic-Female
+|type1-2b=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=psychic}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6/Gender|ndex=678|crop=76}}
+{{Spritebox/7/Gender|ndex=678|crop=78}}
+{{Spritebox/8/Gender|ndex=678}}
+<!--{{Spritebox/9/Gender|ndex=0678}}-->
+{{Spritebox/HOME/Gender|ndex=0678}}
+{{Spritebox/Footer|678|Meowstic}}
+
+==In animation==
+[[File:Bluto Meowstic.png|thumb|250px|A male Meowstic in {{aniseries|JN}}]]
+[[File:Heath Meowstic.png|thumb|250px|A female Meowstic in {{aniseries|XY}}]]
+===Main series===
+====Major appearances====
+A female Meowstic appeared in ''[[M17|Diancie and the Cocoon of Destruction]]'', under the ownership of [[Astrid]]. She battled {{Ash}} and {{AP|Froakie}} and defeated Froakie with {{m|Charge Beam}}.
+
+Both a male Meowstic and a female Meowstic appeared in ''[[XY045|Splitting Heirs!]]''. The male was under the ownership of {{OBP|Blake|XY045}}, while the female was under the ownership of {{OBP|Heath|XY045}}.
+
+Both male and female Meowstic appeared in ''[[XY060|A Showcase Debut!]]'', under the ownership of {{an|Blanche}}. They were seen participating in the [[Coumarine City]] [[Pokémon Showcase]]. Blanche's female Meowstic reappeared in ''[[XY091|A Performance Pop Quiz!]]'' and ''[[XY105|Party Dancecapades!]]''.
+
+A male Meowstic appeared in ''[[XY080|Performing with Fiery Charm!]]'', under the ownership of [[Miette]]. He was used in the [[Dendemille Town]] Showcase, where he helped Miette make [[Poké Puff]]s with his {{m|Psychic}}.
+
+Both male and female Meowstic appeared in ''[[XY092|Cloudy Fate, Bright Future!]]'', under the ownership of [[Olympia]]. They both reappeared in ''[[XY093|All Eyes on the Future!]]'' during Ash's [[Gym]] battle with Olympia; they battled {{AP|Talonflame}} and {{AP|Frogadier}} but were eventually defeated. Both Meowstic reappeared again in ''[[XY135|Rocking Kalos Defenses!]]'' and ''[[XY136|Forming a More Perfect Union!]]'', where they participated in the fight against the [[Giant Rock]].
+
+Both male and female Meowstic appeared during a flashback in ''[[XYS05|The Legend of X, Y, and Z!]]''. They were under the ownership of [[Olympica]] and were always seen by her side.
+
+A male Meowstic appeared in ''[[JN081|Mad About Blue!]]'', under the ownership of [[Bluto]].
+
+====Minor appearances====
+Multiple Meowstic debuted in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A female Meowstic appeared in ''[[XY002|Lumiose City Pursuit!]]''.
+
+A female Meowstic appeared in ''[[XY016|A Jolting Switcheroo!]]''.
+
+A female Meowstic appeared in ''[[XY023|Coming Back into the Cold!]]''.
+
+A {{pkmn|Trainer}}'s female Meowstic appeared in ''[[XY026|A Battle by Any Other Name!]]'', where she was seen participating in the [[Poké Puff Contest]].
+
+A male Meowstic debuted in ''[[XY028|The Bonds of Evolution!]]''.
+
+A female Meowstic appeared in ''[[XY073|A Fashionable Battle!]]'', under the ownership of a {{tc|Furisode Girl}}.
+
+Both male and female Meowstic appeared in ''[[XY080|Performing with Fiery Charm!]]'', including some that belonged to Trainers.
+
+A Trainer's female Meowstic appeared in ''[[XY084|Adventures in Running Errands!]]''.
+
+A male Meowstic appeared in ''[[XY092|Cloudy Fate, Bright Future!]]'', under the ownership of a {{tc|Psychic}}.
+
+A male Meowstic appeared in ''[[XY105|Party Dancecapades!]]'', under the ownership of a [[Pokémon Performer]] participating in [[Monsieur Pierre]]'s dance party.
+
+A Trainer's male Meowstic appeared in ''[[JN103|The Future is Now, Thanks to Strategy!]]''.
+
+A Trainer's male Meowstic appeared in ''[[JN122|It's... Champion Time!]]''.
+
+A male Meowstic appeared in ''[[HZ040|Farewell, Sprigatito?]]'' at [[Marnya's house]].
+
+A Trainer's female Meowstic appeared in ''[[HZ058|Food Fit for a Kingambit!]]''.
+
+A Trainer's Meowstic appeared in [[HZ112]].
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY045|Meowstic|Serena's Pokédex|Meowstic, the Constraint Pokémon. When faced with trouble, Meowstic will raise its ears and create enough psychic power to demolish a ten-ton truck. Its appearance varies, depending on gender.}}
+{{Animedexfooter/Pokémon|Kalos}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN081|Meowstic|Goh's Rotom Phone|Meowstic, the Constraint Pokémon. A {{t|Psychic}} type. The male Meowstic has defensive talents, and when protecting itself or its partner, can produce power of the highest level.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===GOTCHA!===
+A female Meowstic briefly appeared in [[GOTCHA!]], under the ownership of [[Olympia]].
+
+==In the manga==
+[[File:Olympia Meowstic Adventures.png|thumb|200px|A female Meowstic in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A female Meowstic debuted in ''[[PS577|Quilladin Stands]]'', under the ownership of [[Olympia]]. She accompanied Olympia to visit an injured [[Korrina]] at the [[Laverre City]] hospital. Later, she, along with [[Valerie]]'s {{p|Mr. Mime}}, protected the [[Gym Leader]]s and {{adv|Y}}'s group from the [[ultimate weapon]]'s blast with the use of barriers.
+
+A male Meowstic debuted in a flashback in ''[[PS582|Pinsir Glares]]'', under the ownership of a {{pkmn|Trainer}}.
+{{-}}
+
+==In the TCG==
+{{main|Meowstic (TCG)}}
+
+==Trivia==
+* Meowstic is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 466.
+* During [[Google Maps: Pokémon Challenge]] on [[April Fools' Day 2014]], Meowstic's genders had separate Dex numbers in Google's regional Dex. The male was #139, while the female was #140.
+* In [[Pokémon Rumble World]], other than the gift that's obtainable from entering a password, all Meowstic that appear to have the male color scheme are internally tagged as female, and vice versa.
+* Meowstic shares several similarities with {{p|Indeedee}}. Both are {{type|Psychic}} Pokémon with gender differences and have different movesets and Pokédex entries depending on their gender. Male Indeedee and Meowstic are easier to obtain in Sword, while female Indeedee and Meowstic are easier to obtain in Shield.
+
+===Origin===
+Meowstic may be based on the domesticated variety of {{wp|nekomata}}, a cat {{wp|yōkai}} that comes from a domesticated cat who lives many years until its tail splits and it gains supernatural powers, much like how Meowstic evolves from {{p|Espurr}}. Nekomata were often depicted as standing on two legs like a human, and in at least one account shown to be wearing handkerchiefs on their heads, similar to Meowstic's hair tufts. Meowstic could also be based on {{wp|bakeneko}}, which are cat yōkai similar to nekomata.
+
+Meowstic has eye-like patterns hidden under its ears which might be based on the concept of the {{wp|third eye}}. In addition, its folded ears are similar to those of the {{wp|Scottish Fold}} breed of cat. Its long ears may nod to an old name for the Scottish Fold, "lop-eared cat," named after the {{wp|lop rabbit|lop-eared rabbit}}.
+
+====Name origin====
+Meowstic may be a combination of ''meow'' and ''mystic''. It may also derive from ''stoic'', referring to its generally emotionless facial expression.
+
+Nyaonix may be a combination of ニャー ''nyā'' or ニャーオ ''nyāo'' (meow) and ''{{wp|onyx}}'' (a type of mineral), ὄνυξ ''ónyx'' (Greek for claw), ''{{wp|psionics (role-playing games)|psionics}}'', or ''{{wp|Nyx}}'' (Greek goddess of the night).
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=ニャオニクス ''Nyaonix''|jameaning=From {{tt|ニャー ''nyā''|meow}} and ''{{wp|onyx}}'' or {{tt|ὄνυξ ''ónyx''|Greek for claw}}, and possibly ''{{wp|psionics (role-playing games)|psionics}}'' and ''{{wp|Nyx}}''
+|fr=Mistigrix|frmeaning=From ''{{tt|mystique|mystic}}'', ''{{tt|mistigri|archaic term for cat}}'', and ''onyx'' or {{tt|ὄνυξ ''ónyx''|Greek for claw}}
+|es=Meowstic|esmeaning=Same as English name
+|de=Psiaugon|demeaning=From ''{{tt|Psycho|Psychic}}'', ''{{tt|Miau|meow}}'', and ''{{tt|Augen|eyes}}'' or ''{{wp|augen}}''
+|it=Meowstic|itmeaning=Same as English name
+|ko=냐오닉스 ''Nyaonix''|komeaning=Transcription of Japanese name
+|zh_cmn=超能妙喵 ''Chāonéngmiàomiāo''|zh_cmnmeaning=From {{tt|超能力 ''chāonénglì''|extrasensory perception}}, {{tt|妙 ''miào''|mysterious}} and {{tt|喵 ''miāo''|meow}}
+|zh_yue=超能妙喵 ''Chīunàhngmiuhmīu''|zh_yuemeaning=From {{tt|超能力 ''chīunàhnglihk''|extrasensory perception}}, {{tt|妙 ''miuh''|mysterious}} and {{tt|喵 ''mīu''|meow}}
+|hi=किटिनेसिस ''Kittynesis''|himeaning=From ''kitty'' and ''telekinesis''
+|ru=Мяустик ''Myaustik''|rumeaning=Transcription of English name
+|th=เนียโอนิกซ์ ''Niaonik''|thmeaning=Transcription of Japanese name
+}}
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0677|prev=Espurr|nextnum=0679|next=Honedge}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:White-colored Pokémon]]<!--Female Meowstic-->
+
+[[de:Psiaugon]]
+[[es:Meowstic]]
+[[fr:Mistigrix]]
+[[it:Meowstic]]
+[[ja:ニャオニクス]]
+[[zh:超能妙喵]]

@@ -1,0 +1,571 @@
+{{PokémonPrevNext/Head|type=Ground|type2=Flying}}
+{{PokémonPrevNext/GO|species=Gliscor}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0471|prev=Glaceon|nextnum=0473|next=Mamoswine|round=none}}
+{{PokémonPrevNext/Disambig|species=Gliscor}}
+|}
+{{Pokémon Infobox
+|name=Gliscor
+|jname=グライオン
+|jtranslit=Guraion
+|tmname=Glion
+|ndex=0472
+|typebox=1
+|type1=Ground
+|type2=Flying
+|category={{tt|Fang Scorpion|Fang Scorp prior to Generation VI}}
+|height-ftin=6'07"
+|height-m=2.0
+|weight-lbs=93.7
+|weight-kg=42.5
+|abilityn=d
+|ability1=Hyper Cutter
+|ability2=Sand Veil
+|abilityd=Poison Heal
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|evtotal=2
+|evde=2
+|expyield=179
+|oldexp=192
+|lv100exp=1,059,860
+|gendercode=127
+|color=Purple
+|catchrate=30
+|body=09
+|pokefordex=gliscor
+|generation=4
+|friendship=70
+}}
+'''Gliscor''' ([[List of Japanese Pokémon names|Japanese]]: '''グライオン''' ''Glion'') is a dual-type {{2t|Ground|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s from {{p|Gligar}} when [[level]]ed up while holding a [[Razor Fang]] during the [[Time-based Evolution|night]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+Gliscor is a large, mainly blue-purple vampire bat-like {{OBP|Pokémon|species}}, partially clad in an insect-like carapace. Its legs have two toes and a slightly darker circular coloration on the underside, and its tail has two barbs, giving its tail the resemblance of a vampire's fangs. Its arms are red with thin striations and are completely detached from its black wings, and each is ended with large pincers. Its ears have discernible, red, chambered ear insides, and its eyes are yellow. It has six visible fangs in its mouth, and its waist, like its arms, is red and striated. Gliscor's body resembles an open mouth, with the pointed protrusions coming from its upper torso resembling fangs, further illustrating its vampiric qualities. It has a tendency to [[a:File:GliscorUnbrokenBonds99.jpg|hang upside down from trees]] while watching its prey.
+
+Gliscor feeds on the blood of other Pokémon species; grabbing prey using its tail, then biting their necks with its long, sharp fangs. It is even said to take pride once its prey is fully drained of blood. As shown in ''[[DP064|Riding the Winds of Change!]]'', Gliscor, along with its unevolved form {{p|Gligar}}, can emit a sort of sound wave in order to detect obstacles and fly around them, similar to {{wp|Animal echolocation|echolocation}}. Its legs appear to be not suitable for walking, so it can only perform short hops when on the ground. Gliscor hangs upside down while sleeping, much like other bat-like Pokémon, and it is nocturnal. It is capable of soundless flight; however, its wings cannot be flapped to the same extent that other Pokémon's wings can. Like {{p|Jumpluff}} and {{p|Wingull}}, Gliscor uses winds and updrafts to glide from place to place. When there is no wind, Gliscor climbs to the top of tall trees using its sharp raptorial claws and then glides from place to place. This practice is similar to flying squirrels. Gliscor is {{a|Poison Heal|highly resistant against poisonous substances}}. It is extremely rare, but sometimes may be found in thick pine forests, swamps, and even alpine regions.
+
+===Evolution===
+Gliscor evolves from {{p|Gligar}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Ground
+|type2=Flying
+|pictype=art
+|no1=0207
+|name1=Gligar
+|type1-1=Ground
+|type2-1=Flying
+|evo1=
+|no2=0472
+|name2=Gliscor
+|type1-2=Ground
+|type2-2=Flying
+}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground|type2=Flying}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=154|label1={{gameIcon|Pt}}:|reg2=Johto}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!}}
+{{Dex/Entry1|v=Platinum|entry=If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=222|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It dances silently through the sky. When it approaches prey, it can land a critical hit in an instant.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=116|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui|num3=186}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword and Shield]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It observes prey while hanging inverted from branches. When the chance presents itself, Gliscor swoops!}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=It glides soundlessly on pitch-black wings and sinks sharp fangs into the throat of its prey. It takes on a look of satisfaction once it has entirely drained its prey of blood.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=122|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It flies soundlessly through the sky. It catches prey with its long tail, then lunges at the prey's vulnerable spots with its fangs.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{ground color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{ground color light}}; background:#{{ground color light}} | [[File:Pokédex Image Gliscor SV Kitakami.png|x200px]]
+|-
+| Gliscor in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ground|type2=Flying}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Gligar}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Gligar}}}}
+{{Availability/Entry1|v=HeartGold|area=[[Evolution|Evolve]] {{p|Gligar}}}}
+{{Availability/Entry1/None|v=SoulSilver}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|11|Unova}} and {{rtn|15|Unova}} ({{DL|Phenomenon|rustling grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|11|Unova}}, {{rtn|15|Unova}}, and {{rtn|23|Unova}} ({{DL|Phenomenon|rustling grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Gligar}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry1|v=Brilliant Diamond|area=[[Evolution|Evolve]] {{p|Gligar}}}}
+{{Availability/Entry1/None|v=Shining Pearl}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Coronet Highlands]]:''' near [[Primeval Grotto]]&nbsp;[[File:Alpha icon.png|link=Alpha Pokémon|14px]], massive [[mass outbreak]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero (Scarlet)|color={{scarlet color dark}}|t=fff|link=The Hidden Treasure of Area Zero|area=[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Kitakami)|Gliscor|5★}}, {{DL|List of 6★ Tera Raid Battles (Kitakami)|Gliscor|6★}})}}
+{{Availability/Entry1/None|v=The Hidden Treasure of Area Zero (Violet)|color={{violet color dark}}|t={{violet color dark}}|link=The Hidden Treasure of Area Zero |area=[[Tera Raid Battle|Tera Raid Battle Search]] ({{DL|List of 5★ Tera Raid Battles (Kitakami)|Gliscor|5★}}, {{DL|List of 6★ Tera Raid Battles (Kitakami)|Gliscor|6★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground|type2=Flying}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (1F-49F), [[Mt. Mistral]] (1F-19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (1F-49F), [[Mt. Mistral]] (1F-19F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Oil Field Hideout]] (during mission)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]]}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Haunted Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Layuda Island]], [[Sky Fortress]], [[Dark Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Magical Lake#In Need of Trees|Magical Lake: In Need of Trees]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 2|Infinite Ruins: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Endless Cave|Plasma Tundra: Endless Cave]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zapdos Sea]], [[Garchomp Sea]], [[Lugia Sea]], [[Arceus Sea]], [[Garchomp Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=Fainted Pokémon: [[Darknight Relic]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Barren Badlands]]<sup><span style="color:#3A546B;">Night</span> <span style="color:#067162;">Level 2</span></sup>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX34]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Ground|type2=Flying}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Crunchy Salt|35|Razor Fang|8|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ground
+|type2=Flying
+|HP=      75
+|Attack=  95
+|Defense=125
+|SpAtk=   45
+|SpDef=   75
+|Speed=   95}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|type2=Flying
+|Speed=2
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=4
+|Jump=4
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|type2=Flying
+|Normal= 100
+|Fighting=50
+|Flying= 100
+|Poison=  50
+|Ground=   0
+|Rock=   100
+|Bug=     50
+|Ghost=  100
+|Steel=  100
+|Fire=   100
+|Water=  200
+|Grass=  100
+|Electric= 0
+|Psychic=100
+|Ice=    400
+|Dragon= 100
+|Dark=   100
+|Fairy=  100
+|notes=yes
+|flying=yes
+|newground=1
+|ground=yes
+|newelectric=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Gliscor|Ground|Flying|4}}
+{{learnlist/level9|1|Thunder Fang|Electric|Physical|65|95|15||}}
+{{learnlist/level9|1|Ice Fang|Ice|Physical|65|95|15||}}
+{{learnlist/level9|1|Fire Fang|Fire|Physical|65|95|15||}}
+{{learnlist/level9|1|Poison Jab|Poison|Physical|80|100|20||}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15||}}
+{{learnlist/level9|1|Harden|Normal|Status|—|—|30||}}
+{{learnlist/level9|13|Quick Attack|Normal|Physical|40|100|30||}}
+{{learnlist/level9|16|Fury Cutter|Bug|Physical|40|95|20||}}
+{{learnlist/level9|19|Knock Off|Dark|Physical|65|100|20||}}
+{{learnlist/level9|22|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/level9|27|Night Slash|Dark|Physical|70|100|15||}}
+{{learnlist/level9|30|U-turn|Bug|Physical|70|100|20||}}
+{{learnlist/level9|35|Screech|Normal|Status|—|85|40||}}
+{{learnlist/level9|40|X-Scissor|Bug|Physical|80|100|15||}}
+{{learnlist/level9|45|Crabhammer|Water|Physical|100|90|10||}}
+{{learnlist/level9|50|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/levelf/9|Gliscor|Ground|Flying|4}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Gliscor|Ground|Flying|4}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM008|Fire Fang|Fire|Physical|65|95|15||}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15||}}
+{{learnlist/tm9|TM010|Ice Fang|Ice|Physical|65|95|15||}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM026|Poison Tail|Poison|Physical|50|100|25||}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35||}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15||}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10||}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20||}}
+{{learnlist/tm9|TM063|Psychic Fangs|Psychic|Physical|85|100|10||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20||}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20||}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20||}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5||}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15||}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15||}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20||}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40||}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10||}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20||}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10||'''}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/tm9|TM200|Scale Shot|Dragon|Physical|25|90|20||patch=Version 3.0.0 onwards}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM222|Breaking Swipe|Dragon|Physical|60|100|15}}
+{{learnlist/tmf/9|Gliscor|Ground|Flying|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Gliscor|Ground|Flying|4}}
+{{learnlist/breed9|{{MSP/H|0214|Heracross}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}|Counter|Fighting|Physical|—|100|20|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0167|Spinarak}}{{MSP/H|0168|Ariados}}|Cross Poison|Poison|Physical|70|100|20|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0313|Volbeat}}{{MSP/H|0636|Larvesta}}{{MSP/H|0637|Volcarona}}|Double-Edge|Normal|Physical|120|100|15|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0330|Flygon}}{{MSP/H|0469|Yanmega}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|Feint|Normal|Physical|30|100|10|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0402|Kricketune}}{{MSP/H|0469|Yanmega}}{{MSP/H|0472|Gliscor}}|Night Slash|Dark|Physical|70|100|15|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0123|Scyther}}{{MSP/H|0212|Scyther}}{{MSP/H|0193|Yanma}}|Wing Attack|Flying|Physical|60|100|35||'''|grid=6}}
+{{learnlist/breedf/9|Gliscor|Ground|Flying|4}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Gliscor|Ground|Flying|4}}
+{{learnlist/prevo9|0207|Gligar|||||Poison Sting|Poison|Physical|15|100|35||}}
+{{learnlist/prevo9|0207|Gligar|||||Slash|Normal|Physical|70|100|20}}
+{{learnlist/prevof/9|Gliscor|Ground|Flying|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color}}; border: 3px solid #{{tcg fighting color dark}}"
+|-
+! style="background: #{{tcg fighting color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg fighting color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Vise Grip|Vice Grip}}
+| style="background:#fff; {{roundybr|5px}}" | [[Gliscor 4 (Rising Rivals 62)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ground|type2=Flying}}
+{{Spindata/MDTDS|col=6|type=Ground|ndex=472
+|body=1
+|rate=-4.5
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Ground|ndex=472
+|coset=14
+|conto={{p|Koffing}}
+|recruitment=Traveling Pokémon
+|P1=I want to glide around the planet on the wind!
+|P2=What? I cannot possibly glide around the planet on the winds? You are wrong!
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ground
+|group=Ground
+|assist=Flying
+|fieldpower=-
+|num=129
+|browser=It launches twisters and hunks of dirt. It also rams to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|field=Cut
+|fieldpower=4
+|num=108
+|pastnum=213
+|browser=It triggers tremors to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ground
+|att=3
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ground
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ground|ndex=472
+|walk=1.5
+|hp=54
+|attack=79
+|defense=59
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ground|ndex=472
+|Pad=Gliscor rides on the breeze, flying over the [[Haunted Zone]] garden. He likes sky-based Attractions, so watch him go at {{DL|Attraction (PokéPark)|Pelipper's Circle Circuit}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ground|ndex=472
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=472|num=419
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Rock Break+
+|skilldesc=Sometimes destroys three breakable-rock disruptions.
+|swapper=Nosedive
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=472
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=181
+|attack=185
+|defense=222
+|fast={{m|Fury Cutter}}, {{m|Wing Attack}}, {{m|Sand Attack}}{{tt|*|From December 3, 2024 onward}}
+|special={{m|Earthquake}}, {{m|Aerial Ace}}, {{m|Night Slash}}, {{m|Sand Tomb}}{{tt|*|From December 11, 2019 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Ground|ndex=472|pdex=230
+|dex=Gliscor was hanging upside down from the rocks by its tail, searching [[Barren Badlands|the area]] around it. When it’s hunting prey, it glides through the air without making a sound.}}
+|}
+
+===Evolution data===
+Gliscor [[Evolution|evolve]]s from {{p|Gligar}} when [[level]]ed up while holding a [[Razor Fang]] during the [[Time-based Evolution|night]]. In {{g|Legends: Arceus}}, Gliscor evolves from Gligar when exposed to a Razor Fang during the night.
+{{Evobox-2
+|type1=Ground
+|type2=Flying
+|pictype=art
+|no1=0207
+|name1=Gligar
+|type1-1=Ground
+|type2-1=Flying
+|evo1={{bag/s|Rare Candy|SV}} + {{bag/s|Razor Fang|SV}} + [[File:Night Icon SV.png|40px|link=Time]]<br>{{color2|000|Level|Level up}}<br>holding {{color2|000|Razor Fang}}<br><small>at {{color2|000|Time|night}}</small>
+|no2=0472
+|name2=Gliscor
+|type1-2=Ground
+|type2-2=Flying
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground|type2=Flying}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=472}}
+{{Spritebox/5|ndex=472}}
+{{Spritebox/6|ndex=472|crop=98}}
+{{Spritebox/7|ndex=472|crop=100}}
+{{Spritebox/8/LA|ndex=472|LAcrop=172}}
+<!--{{Spritebox/9|ndex=0472}}-->
+{{Spritebox/HOME|ndex=0472}}
+{{Spritebox/Footer|472|Gliscor}}
+
+==In animation==
+[[File:Bertha Gliscor.png|thumb|250px|Gliscor in {{aniseries|DP}}]]
+===Major appearances===
+====[[Ash's Gliscor]]====
+In ''[[DP085|Fighting Fear With Fear!]]'', {{Ash}}'s Gligar evolved into a Gliscor while using {{Gary}}'s [[Razor Fang]] to save Ash from falling into a canyon. In ''[[DP154|Mastering Current Events!]]'', Ash left Gliscor with [[McCann]] so it could train and grow stronger. In ''[[DP185|Working on a Right Move!]]'', Gliscor returned to help Ash in the [[Lily of the Valley Conference]].
+
+====Other====
+Gliscor debuted in ''[[DP064|Riding the Winds of Change!]]'', where it was {{pkmn2|caught}} by [[Paul]]. In ''[[DP081|Chim-Charred!]]'', it went up against {{AP|its pre-evolved form|Gligar}} and won with a {{m|Guillotine}}. It reappeared in ''[[DP100|Aiding The Enemy!]]''.
+
+In ''[[DP170|An Elite Coverup!]]'', [[Bertha]]'s Gliscor was used to destroy the machine attached to {{TRT}}'s balloon.
+
+===Minor appearances===
+In ''[[DP124|To Thine Own Pokémon Be True!]]'', [[Theodore]]'s Gliscor competed in the [[Pokémon Ping Pong Tournament]].
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP064|Gliscor|Ash's Pokédex|Gliscor, the Fang Scorp Pokémon, and the evolved form of {{p|Gligar}}. It watches its prey as it hangs from trees by its tail and attacks from above when it sees the chance.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+
+==In the manga==
+[[File:Blake Glisott.png|thumb|150px|Gliscor in [[Pokémon Adventures]]]]
+===Pokémon Ranger: The Comic – Shadows of Almia===
+A Gliscor appeared in [[PRV4]] as one of the Pokémon [[Kincaid]] controlled.
+
+===Pocket Monsters Diamond & Pearl===
+Multiple Gliscor appeared in [[PDP18]].
+
+A Gliscor appeared in [[PDP24]].
+
+Like in the {{pkmn|animated series}}, {{Ash}} owns a {{AP|Gliscor}} in [[Pocket Monsters Diamond & Pearl]].
+
+===Pokémon Adventures===
+{{adv|Diamond}} battled a {{pkmn2|wild}} Gliscor on his way to [[Iron Island]] in ''[[PS378|Grumpy Gliscor]]''. It proved to be a tough opponent to beat with its {{m|Ice Fang|Ice}}, {{m|Thunder Fang|Thunder}}, and {{m|Fire Fang}} attacks, but it was eventually defeated by [[Tru]]'s {{m|Razor Leaf}}.
+
+In ''[[PS537|Colress Machine]]'', {{adv|Blake}} was revealed to own a Gliscor, [[nickname]]d Glisott.
+{{-}}
+
+==In the TCG==
+{{main|Gliscor (TCG)}}
+
+==Trivia==
+* Gliscor is lighter than its {{p|Gligar|pre-Evolution}}, weighing in at only 93.7&nbsp;lbs. (42.5&nbsp;kg), while Gligar is 142.9&nbsp;lbs. (64.8&nbsp;kg). This is despite nearly doubling in size during Evolution, from 3'07" (1.1 m) to 6'07" (2.0 m).
+* Gliscor, along with {{p|Electivire}}, {{p|Magmortar}}, and {{p|Tangrowth}}, were the only {{cat|Generation IV Pokémon}} that explicitly required the use of a [[Generation III]] game in order to be available until the release of {{game|Platinum}}. In this case, {{p|Gligar}} were only available through [[dual-slot mode]] with {{game|Emerald}}.
+* Gliscor can be seen as a parallel to {{p|Weavile}}. Both were introduced in [[Generation IV]], both of them are dual-types, have the same base stat total, have {{stat|Special Attack}} as their lowest stat, have double weaknesses (Gliscor to Ice, Weavile to Fighting), evolve from Pokémon that were introduced in [[Generation II]], and do so by leveling up at night while holding items that contain the word "razor" ({{p|Gligar}} evolves with [[Razor Fang]], whereas {{p|Sneasel}} evolves with [[Razor Claw]]).
+
+===Origin===
+Gliscor appears to be based on a combination of {{wp|scorpion}}s and {{wp|vampire}}s, which in turn share traits with {{wp|bat}}s. Due to its chimeric bat-like traits and {{t|Ground}} typing, it may also be based on a {{wp|gargoyle}}.
+
+Gliscor retains {{p|Gligar}}'s scorpion traits, which may be inspired by [https://tvtropes.org/pmwiki/pmwiki.php/Main/FaceHugger face-hugging creatures] in sci-fi media, commonly depicted with arachnid traits. Gliscor may also be based on the vampiric ''yōkai'' {{wp|nobusuma}}, a sky-gliding creature often described as having bat features or appearing as a monstrous bat.
+
+====Name origin====
+Gliscor and Glion may be combinations of ''glide'' and ''scorpion''.
+
+==In other languages==
+{{Other languages|type=Ground|type2=Flying
+|ja=グライオン ''Glion''|jameaning=From ''glide'' and ''scorpion''
+|fr=Scorvol|frmeaning=From ''scorpion'' and ''{{tt|vol|flight}}''
+|es=Gliscor|esmeaning=Same as English name
+|de=Skorgro|demeaning=From {{tt|''Skorpion''|scorpion}} and ''{{tt|groß|big}}''
+|it=Gliscor|itmeaning=Same as English name
+|ko=글라이온 ''Glion''|komeaning=Transcription of Japanese name
+|zh_cmn=天蠍王 / 天蝎王 ''Tiānxiēwáng''|zh_cmnmeaning=From {{tt|天 ''tiān''|sky}}, {{tt|蠍 / 蝎 ''xiē''|scorpion}}, {{tt|天蠍 / 天蝎 ''Tiānxiē''|Scorpius constellation}}, and {{tt|王 ''wáng''|king}}
+|zh_yue=天蠍王 ''Tīnkitwòhng''|zh_yuemeaning=From {{tt|天 ''tīn''|sky}}, {{tt|蠍 ''kit''|scorpion}}, {{tt|天蠍 ''Tīnkit''|Scorpius constellation}}, and {{tt|王 ''wòhng''|king}}
+|hi=ग्लाइबिडंक ''Glidank''|himeaning=From ''glide'', {{tt|बिच्छू ''bicchu''|scorpion}}, {{tt|डंक ''dank''|sting/stinger}}, and {{tt|{{p|Gligar|ग्लाइडंक ''Glidank''}}|Gligar}}
+|ru=Глискор ''Gliskor''|rumeaning=Transcription of English name
+|th=ไกลออน ''Klaion''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==Related articles==
+*[[Ash's Gliscor]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Ground|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0471|prev=Glaceon|nextnum=0473|next=Mamoswine}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational Evolutions]]
+
+[[de:Skorgro]]
+[[es:Gliscor]]
+[[fr:Scorvol]]
+[[it:Gliscor]]
+[[ja:グライオン]]
+[[zh:天蝎王]]

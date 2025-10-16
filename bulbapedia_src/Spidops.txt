@@ -1,0 +1,310 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Spidops}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0917|prev=Tarountula|nextnum=0919|next=Nymble|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Spidops
+|jname=ワナイダー
+|jtranslit=Wanaidā
+|tmname=Wanaider
+|ndex=0918
+|type1=Bug
+|category=Trap
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=36.4
+|weight-kg=16.5
+|abilityn=1
+|ability1=Insomnia
+|ability2=
+|abilityd=Stakeout
+|egggroupn=1
+|egggroup1=Bug
+|egggroup2=
+|eggcycles=15
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=2
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=141
+|lv100exp=600000
+|gendercode=127
+|color=Green
+|catchrate=120
+|body=14
+|pokefordex=spidops
+|generation=9
+|friendship=50
+}}
+'''Spidops''' ([[List of Japanese Pokémon names|Japanese]]: '''ワナイダー''' ''Wanaider'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Tarountula}} starting at [[level]] 15.
+
+==Biology==
+[[File:SpidopsexScarletViolet243.jpg|thumb|left|200px|Spidops hanging upside-down using a thread secreted from its abdomen]]
+Spidops is an arachnoid Pokémon resembling a net-casting spider. It has eight long, slender, cylindrical legs, bunched together into pairs to evoke a humanoid stance. All eight feet possess white circular ports that serve as spinnerets, which Spidops can use to string silk tripwires and nets. Spidops can alternate at will between separating its legs or clustering them together for a quadrupedal crawl. These pairs of legs converge upon spherical joints nestled within the sides of its body, two positioned like shoulders near its head and two beside the ring-shaped intersection dividing its chest and abdomen.
+
+Spidops's body is mostly beige brown, with pine green colorations on its face, forelimbs, and chest — the latter patterned to resemble a vest or overalls. Its ovular head is adorned with two large black eyes with squinted white pupils, along with four eye-like protrusions on either side. It also has rhombus-shaped pedipalps protruding from its sides to evoke a mustache, and two chelicerae bunched together to form a shield shape, which hides a circular mouth. Spidops's abdomen is cylindrical and cloaked in bands of its white silk to resemble a spool of yarn, ending at the tip with a flat conical peg containing its ninth spinneret.
+
+Spidops is a covert ambush predator that utilizes its sticky and resilient silk threads to cling upon any surface and move without making a sound. It spins a silk thread from the spinneret on its abdomen, which it uses to hang upside-down from tall places. It then spins a net between its top four legs which it uses to smother its prey, striking before the prey has time to react. It prefers sticking onto the sides of trees, and strings its territory with silken hazards to trap intruders. It actively spars against its rival, {{p|Scyther}}, to maintain its ground and ensure the safety of its {{p|Tarountula}} young.
+
+Spidops is the [[signature move|only known Pokémon]] capable of learning the move {{m|Silk Trap}}.
+
+===Evolution===
+Spidops evolves from {{p|Tarountula}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|pictype=art
+|no1=0917
+|name1=Tarountula
+|type1-1=Bug
+|evo1=
+|no2=0918
+|name2=Spidops
+|type1-2=Bug}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=13|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Spidops covers its territory in tough, sticky threads to set up traps for intruders.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{bug color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Spidops SV.png|x200px]]
+|-
+| Spidops in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[Tagtree Thicket]]<br>West Province: [[West Province (Area Three)|Area Three]]<br>North Province: [[North Province (Area Two)|Area Two]], [[Socarrat Trail]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Spidops|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|HP=60
+|Attack=79
+|Defense=92
+|SpAtk=52
+|SpDef=86
+|Speed=35
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Spidops|Bug|Bug|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|String Shot|Bug|Status|—|95|40}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Silk Trap|Bug|Status|—|—|10}}
+{{learnlist/level9|5|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level9|8|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level9|11|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level9|14|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level9|19|Block|Normal|Status|—|—|5}}
+{{learnlist/level9|24|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/level9|28|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|33|Sticky Web|Bug|Status|—|—|20}}
+{{learnlist/level9|37|Gastro Acid|Poison|Status|—|100|10}}
+{{learnlist/level9|41|Circle Throw|Fighting|Physical|60|90|10}}
+{{learnlist/level9|45|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/level9|49|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/levelf/9|Spidops|Bug|Bug|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Spidops|Bug|Bug|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM229|Upper Hand|Fighting|Physical|65|100|15}}
+{{learnlist/tmf/9|Spidops|Bug|Bug|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Spidops|Bug|Bug|9}}
+{{learnlist/breed9|{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|First Impression|Bug|Physical|90|100|10||'''|grid=6}}
+{{learnlist/breed9|{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}{{MSP/H|0920|Lokix}}{{MSP/H|0953|Rellor}}{{MSP/H|0954|Rabsca}}|Lunge|Bug|Physical|80|100|15||'''|grid=6}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Memento|Dark|Status|—|100|10|grid=6}}
+{{learnlist/breed9|{{MSP/H|0167|Spinarak}}{{MSP/H|0168|Ariados}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|Sucker Punch|Dark|Physical|70|100|5|grid=6}}
+{{learnlist/breedf/9|Spidops|Bug|Bug|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Spidops|Bug|Bug|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Spidops|Bug|Bug|9}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/GO|col=6|type=Bug|ndex=0918
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=155
+|attack=139
+|defense=166
+|fast={{m|Bug Bite}}, {{m|Counter}}
+|special={{m|X-Scissor}}, {{m|Grass Knot}}, {{m|Lunge}}, {{m|Rock Tomb}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|pictype=art
+|no1=0917
+|name1=Tarountula
+|type1-1=Bug
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 15}}
+|no2=0918
+|name2=Spidops
+|type1-2=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=bug}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0918}}-->
+{{Spritebox/HOME|ndex=0918}}
+{{Spritebox/Footer|918|Spidops}}
+
+==In animation==
+===Main series===
+[[File:Spidops anime.png|thumb|250px|Spidops in {{aniseries|HZ}}]]
+====Major appearances====
+Spidops debuted in ''[[HZ040|Farewell, Sprigatito?]]''. It was first seen attacking a group of {{p|Sprigatito}} in a flashback, only to be stopped by [[Liko]]'s future {{TP|Liko|Sprigatito}}, who managed to free its friends, but accidentally hurt them by doing so. In the present, it attacked [[Liko's Hatenna]] and [[Pagogo|Terapagos]] and was once again defeated by her Sprigatito—this time, dealing damage only to Spidops with her newly-learned {{m|Magical Leaf}}.
+====Minor appearances====
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Spidops (TCG)}}
+
+==Trivia==
+* Spidops shares its category with {{p|Stunfisk}}. They are both known as the Trap Pokémon. 
+* Spidops is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 404.
+
+===Origin===
+Spidops may be based on the {{wp|ogre-faced spider}} or related members of the {{wp|Deinopidae}} family (also known as net-casting spiders), who are known to hold their legs together in pairs and cast nets. Its segmented wooden-like body and association with strings may derive cues from {{wp|marionette}}s, and the string wrapped around its abdomen resembles a spool of thread. The way it weaves its thread traps seems to be inspired by {{wp|cat's cradle}}, a game of making figures using a loop of string held between the player's hands.
+
+Spidops also seems to draw inspiration from {{wp|special operations}} forces, as well as popular media depictions of secret agents. Its appearance seems to be inspired by the tactical gear of special ops forces: its eyes resemble {{wp|ballistic eyewear}} or {{wp|night-vision goggles}}, and its chest plating resembles a {{wp|bulletproof vest}} — which can utilize the elasticity of spider silk as a protective material. Spidops's standard color palette seems to allude to {{wp|military camouflage}} while Shiny Spidops utilizes red silk that make its webs evoke infrared lasers, deployed both for alarm-based traps and securing aim on mobile targets. Spidops being able to hang upside-down using its thread evokes [https://tvtropes.org/pmwiki/pmwiki.php/Main/MissionImpossibleCableDrop the trope of secret agents using cables to hang from ceilings], although it is also a behavior showcased by real-life spiders.
+
+Spidops may also draw inspiration from the {{wp|Tsuchigumo}}, a race of spider-like yōkai in Japanese folklore. The Tsuchigumo were said to have the face of an {{wp|oni}} (a creature commonly equated to ogres in English translations) and the body of a spider, and were known to disguise themselves and capture travelers with strings.
+
+====Name origin====
+Spidops may be a combination of ''spider'', ''spy'', ''ops'' (abbreviation of "operations"), and ''{{wp|Deinopis}}'' (genus of the ogre-faced spider).
+
+Wanaider may be a combination of 罠 ''wana'' (trap), ''spider'', and ''Schneider'' (German for "tailor" and "long-legged arachnid").
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=ワナイダー ''Wanaider''|jameaning=From {{tt|罠 ''wana''|trap}}, ''spider'', and {{tt|''Schneider''|German for ''tailor'' and ''long-legged arachnid''}}
+|fr=Filentrappe|frmeaning=From ''{{tt|fil|string}}'', ''{{tt|trappe|trap}}'' and possibly a pun on ''{{tt|philanthrope|philanthropist}}''
+|es=Spidops|esmeaning=Same as English name
+|de=Spinsidias|demeaning=From ''{{tt|Spinne|spider}}'' and ''insidious''
+|it=Spidops|itmeaning=Same as English name
+|ko=트래피더 ''Teuraepideo''|komeaning=From ''trap'' and ''spider''
+|zh_cmn=操陷蛛 ''Cāoxiànzhū''|zh_cmnmeaning=From {{tt|操 ''cāo''|to control}}, {{tt|陷阱 ''xiànjǐng''|trap}}, and {{tt|蜘蛛 ''zhīzhū''|spider}}
+|zh_yue=操陷蛛 ''Chōuhaahmjyū''|zh_yuemeaning=From {{tt|操 ''chōu''|to control}}, {{tt|陷阱 ''haahmjihng''|trap}}, and {{tt|蜘蛛 ''jījyū''|spider}}
+|hi=जालाइडर ''Jaalaaider''|himeaning=From {{tt|जाल ''jāl''|web/net or (figuratively) trap}}, ''spider'', and a pun on {{tt|जालीदार ''jālīdār''|reticulatar (made out of nets)}}
+|th=วาไนเดอร์ ''Wanaidoe''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0917|prev=Tarountula|nextnum=0919|next=Nymble}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Spinsidias]]
+[[es:Spidops]]
+[[fr:Filentrappe]]
+[[it:Spidops]]
+[[ja:ワナイダー]]
+[[zh:操陷蛛]]

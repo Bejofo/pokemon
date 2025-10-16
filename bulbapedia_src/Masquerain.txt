@@ -1,0 +1,580 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Flying}}
+{{PokémonPrevNext/GO|species=Masquerain}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0283|prev=Surskit|nextnum=0285|next=Shroomish|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Masquerain
+|jname=アメモース
+|jtranslit=Amemōsu
+|tmname=Amemoth
+|ndex=0284
+|type1=Bug
+|type2=Flying
+|category=Eyeball
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=7.9
+|weight-kg=3.6
+|ability1=Intimidate
+|abilityd=Unnerve
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Bug
+|eggcycles=15
+|evtotal=2
+|evsa=1
+|evsd=1
+|expyield=159<!--145 in Gen V-VI-->
+|oldexp=128
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|catchrate=75
+|body=13
+|pokefordex=masquerain
+|generation=3
+|friendship=70
+}}
+'''Masquerain''' ([[List of Japanese Pokémon names|Japanese]]: '''アメモース''' ''Amemoth'') is a dual-type {{2t|Bug|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s from {{p|Surskit}} starting at [[level]] 22.
+
+==Biology==
+[[File:MasquerainParadoxRift2.jpg|thumb|left|200px|Masquerain's translucent wings]]
+Masquerain is a light blue {{wp|insect}}oid {{OBP|Pokémon|species}} with two pairs of rhombus-shaped wings on each side of its body. Its head is shaped like an elongated teardrop with a pink face and round, black eyes. On either side of its head is a large antenna that resembles an angry eye. The antennae are white with pink along the lower rim. White lines along the rim resemble eyelashes, while a large, dark pink dot in the middle represents the pupil or iris. These eyespots are used to intimidate enemies.
+
+Masquerain's four wings allow it to fly in any direction and hover, but it cannot fly when its wings are wet. As shown in its official artwork and the [[TCG]], the wings are translucent. Additionally, rainy weather causes its antennae to become heavy and droop. In order to protect its wings and antennae, this Pokémon will shelter under trees or the eaves of houses. Masquerain lives on {{DL|List of Pokémon by habitat|Water's-edge Pokémon|water's edge}}.
+
+===Evolution===
+Masquerain evolves from {{p|Surskit}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|type2=Flying
+|pictype=art
+|no1=0283
+|name1=Surskit
+|type1-1=Bug
+|type2-1=Water
+|evo1=
+|no2=0284
+|name2=Masquerain
+|type1-2=Bug
+|type2-2=Flying}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Flying}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=033|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Masquerain</sc> intimidates enemies with the eyelike patterns on its antennas. This {{ScPkmn}} flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Masquerain</sc>'s antennas have eyelike patterns that usually give it an angry look. If the “eyes” are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It intimidates foes with the large eyelike patterns on its antennae. Because it can't fly if its wings get wet, it shelters itself from rain under large trees and <!--not a typo-->eaves.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It flaps its four wings to hover and fly freely in any direction--to and fro and sideways.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=048|label1=Central|reg2=Hoenn|num2=034}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It flaps its four wings to hover and fly freely in any direction--to and fro and sideways.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Masquerain intimidates enemies with the eyelike patterns on its antennas. This Pokémon flaps its four wings to freely fly in any direction—even sideways and backwards—as if it were a helicopter.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Masquerain's antennas have eyelike patterns that usually give it an angry look. If the "eyes" are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=140|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=173|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=It intimidates enemies with the eye-like patterns on its antennae. Its four wings allow it to fly in any direction.}}
+{{Dex/Entry1|v=Moon|entry=Its wings and antennae don't cope well with moisture. After a rain, it faces sunward to dry off.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Masquerain intimidates enemies with the eyelike patterns of its eyespots. If that doesn't work, it deftly makes its escape on its set of four wings.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Its thin, winglike antennae are highly absorbent. It waits out rainy days in tree hollows.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=50|reg2=Kitakami|num2=150|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=It flaps its four wings to hover and fly freely in any direction—to and fro and sideways.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{bug color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{bug color light}};" | [[File:Pokédex Image Masquerain SM.png|x200px]]
+| style="border:2px solid #{{flying color dark}}; background:#{{bug color light}}; {{roundy|5px}};" | [[File:Pokédex Image Masquerain SV.png|x200px]]
+| style="border:2px solid #{{flying color dark}}; background:#{{bug color light}}; {{roundy|5px}};" | [[File:Pokédex Image Masquerain SV Kitakami.png|x200px]]
+|-
+| Masquerain in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Masquerain in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Masquerain in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Surskit}}}}
+{{Availability/Entry1/None|v=Emerald|area=[[Evolution|Evolve]] [[mass outbreak|swarm]] {{p|Surskit}}{{tt|*|After mixing records with Pokémon Ruby or Sapphire}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Surskit}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Surskit}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|229|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}} ({{m|Surf}}ing in Meadow with 10 Waterside points, and with 14 Waterside points)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Surskit}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|11|Unova}} ([[Mass outbreak|Swarm]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|3|Kalos}} ({{m|Surf}}ing)<br>[[Friend Safari]] ([[Friend Safari#Bug-type Safari|Bug]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|102|Hoenn}}, {{rtn|111|Hoenn}}, {{rtn|114|Hoenn}}, {{rtn|117|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|123|Hoenn}}, and [[Petalburg City]] ({{m|Surf}}ing)}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Malie Garden]]{{sup/t|N}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Malie Garden]]{{sup/t|N}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Surskit}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Five)|Area Five]]<br>[[Area Zero]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Masquerain|4★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Mossfell Confluence]], [[Kitakami Wilds]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Surskit}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 17]], Endless Level 20, Forever Level 20, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Surskit}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Serenity River]] (B6F-B7F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Serenity River]] (B6F-B7F)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Everspring Valley]], [[Soothing Shore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Make a Big Splash!|Frenzy Square: Make a Big Splash!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 1|Safari Jungle: Stage 1]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ruby Volcano#Lake of Tranquility|Ruby Volcano: Lake of Tranquility]] <small>(All Areas)</small>, [[Plasma Tundra#Misty Moor|Plasma Tundra: Misty Moor]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Celebi Sea]], [[Butterfree Sea]], [[Rayquaza Sea]], [[Celebi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Sky Tower]] (1F-8F), [[Pitfall Valley]] (10F-14F), [[Murky Cave]] (12F-16F), [[Waterfall Pond]] (12F-14F), [[Joyous Tower]] (70F-73F), [[Purity Forest]] (70F-71F)<br/>Fainted Pokémon: [[Murky Cave]], [[Far-Off Sea]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Sweet Strasse|Sweet Strasse: Stage 82]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Viola|Surskit}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Bug|type2=Flying}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Items1|Silver Powder|5|rows=7}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|X|Y|tcolor1=fff|Pokémon X and Y}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+|}
+
+===Stats===
+====Base stats====
+======Generations III-VI======
+{{Stats
+|type=Bug
+|type2=Flying
+|HP=70
+|Attack=60
+|Defense=62
+|SpAtk=80
+|SpDef=82
+|Speed=60}}
+
+======Generation VII onward======
+{{Stats
+|type=Bug
+|type2=Flying
+|HP=70
+|Attack=60
+|Defense=62
+|SpAtk=100
+|SpDef=82
+|Speed=80}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Flying
+|Speed=3
+|SpeedMax=4
+|Power=1
+|PowerMax=3
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=4
+|Jump=5
+|JumpMax=5}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Flying
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=100
+|Ground=0
+|Rock=400
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=25
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=ironballiv
+|newground=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Masquerain|Bug|Flying|3}}
+{{learnlist/level9|1|Whirlwind|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25}}
+{{learnlist/level9|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|1|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|1|Soak|Water|Status|—|100|20}}
+{{learnlist/level9|17|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level9|22|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level9|22|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level9|26|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|32|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level9|38|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/level9|44|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level9|52|Quiver Dance|Bug|Status|—|—|20}}
+{{learnlist/levelf/9|Masquerain|Bug|Flying|3}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Masquerain|Bug|Flying|3}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tmf/9|Masquerain|Bug|Flying|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Masquerain|Bug|Flying|3}}
+{{learnlist/breed9|{{MSP/H|0055|Golduck}}{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0395|Empoleon}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}{{MSP/H|0594|Alomomola}}{{MSP/H|0692|Clauncher}}{{MSP/H|0693|Clawitzer}}{{MSP/H|0728|Popplio}}{{MSP/H|0729|Brionne}}{{MSP/H|0730|Primarina}}{{MSP/H|0912|Quaxly}}{{MSP/H|0913|Quaxwell}}{{MSP/H|0914|Quaquaval}}|Aqua Jet|Water|Physical|40|100|20||}}
+{{learnlist/breed9|{{MSP/H|0168|Ariados}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0401|Kricketot}}{{MSP/H|0415|Combee}}{{MSP/H|0540|Sewaddle}}{{MSP/H|0541|Swadloon}}{{MSP/H|0542|Leavanny}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0636|Larvesta}}{{MSP/H|0637|Volcarona}}{{MSP/H|0664|Scatterbug}}{{MSP/H|0736|Grubbin}}{{MSP/H|0737|Charjabug}}{{MSP/H|0738|Vikavolt}}{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}{{MSP/H|0953|Rellor}}{{MSP/H|0954|Rabsca}}{{tt|*|Larvesta learned Bug Bite via level-up prior to Version 2.0.1; it can still learn Bug Bite via TM182}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed9|{{MSP/H|0402|Kricketune}}{{MSP/H|0542|Leavanny}}|Fell Stinger|Bug|Physical|50|100|25||'''}}
+{{learnlist/breed9|{{MSP/H|0007|Squirtle}}{{MSP/H|0008|Wartortle}}{{MSP/H|0009|Blastoise}}{{MSP/H|0055|Golduck}}{{MSP/H|0060|Poliwag}}{{MSP/H|0061|Poliwhirl}}{{MSP/H|0062|Poliwrath}}{{MSP/H|0186|Politoed}}{{MSP/H|0116|Horsea}}{{MSP/H|0117|Seadra}}{{MSP/H|0230|Kingdra}}{{MSP/H|0131|Lapras}}{{MSP/H|0158|Totodile}}{{MSP/H|0159|Croconaw}}{{MSP/H|0160|Feraligatr}}{{MSP/H|0183|Marill}}{{MSP/H|0184|Azumarill}}{{MSP/H|0258|Mudkip}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0279|Pelipper}}{{MSP/H|0350|Milotic}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}{{MSP/H|0594|Alomomola}}{{MSP/H|0656|Froakie}}{{MSP/H|0657|Frogadier}}{{MSP/H|0658|Greninja}}{{MSP/H|0690|Skrelp}}{{MSP/H|0691|Dragalge}}{{MSP/H|0728|Popplio}}{{MSP/H|0729|Brionne}}{{MSP/H|0730|Primarina}}{{MSP/H|0818|Inteleon}}{{MSP/H|0845|Cramorant}}|Hydro Pump|Water|Special|110|80|5||}}
+{{learnlist/breed9|{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}{{MSP/H|0920|Lokix}}{{MSP/H|0953|Rellor}}{{MSP/H|0954|Rabsca}}|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/breed9|{{MSP/H|0060|Poliwag}}{{MSP/H|0061|Poliwhirl}}{{MSP/H|0062|Poliwrath}}{{MSP/H|0186|Politoed}}{{MSP/H|0194|Wooper}}{{MSP/H|0194|Wooper|form=-Paldea}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0938|Tadbulb}}{{MSP/H|0939|Bellibolt}}{{MSP/H|0953|Rellor}}|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Power Split|Psychic|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0048|Venonat}}{{MSP/H|0049|Venonat}}{{MSP/H|0666|Vivillon}}{{MSP/H|0686|Inkay}}{{MSP/H|0687|Malamar}}{{MSP/H|0954|Rabsca}}|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/breedf/9|Masquerain|Bug|Flying|3}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Masquerain|Bug|Flying|3}}
+{{learnlist/prevo9|0283|Surskit|||||Bubble Beam|Water|Special|65|100|20}}
+{{learnlist/prevo9|0283|Surskit|||||Mist|Ice|Status|—|—|30}}
+{{learnlist/prevo9|0283|Surskit|||||Sticky Web|Bug|Status|—|—|20}}
+{{learnlist/prevof/9|Masquerain|Bug|Flying|3}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Flying}}
+{{Spindata/PinballRS|col=3|type=Bug|ndex=284|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=284|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=284
+|body=1
+|rate=Evolve
+|area=Tadpole Pond
+|P1=I don't like it when it rains. It prevents me from flying.
+|P2=Huh? My health is down to only half already. I have to be careful.
+|P3=That's it... My antennae feel too heavy to fly...
+|PL=I got my next level! I'll work that much harder!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=284
+|body=1
+|rate=-10
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=284
+|coset=9
+|conto={{form|Burmy and Wormadam|Trash Cloak}} {{p|Wormadam}}
+|recruitment=Traveling Pokémon
+|P1=I hate rain! I just do!
+|P2=I can't…hover much longer…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=284
+|walk=1.67
+|hp=53
+|attack=77
+|defense=54
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=284
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=284|num=076
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Opportunist
+|skilldesc=Rarely increases damage.
+|swapper=Nosedive
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=284
+|hatch=N/A
+|buddy=1
+|candy=Surskit
+|evolution=N/A
+|stamina=172
+|attack=192
+|defense=150
+|fast={{m|Infestation}}, {{m|Air Slash}}
+|special={{m|Air Cutter}}, {{m|Ominous Wind}}, {{m|Silver Wind}}, {{m|Bubble Beam}}{{tt|*|From January 23, 2020 onward}}, {{m|Lunge}}{{tt|*|From September 14, 2020 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|type2=Flying
+|pictype=art
+|no1=0283
+|name1=Surskit
+|type1-1=Bug
+|type2-1=Water
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 22}}
+|no2=0284
+|name2=Masquerain
+|type1-2=Bug
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Flying}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=284}}
+{{Spritebox/4|ndex=284}}
+{{Spritebox/5|ndex=284}}
+{{Spritebox/6|ndex=284|crop=74}}
+{{Spritebox/7|ndex=284|crop=76}}
+<!--{{Spritebox/8/BDSP|ndex=284}}
+{{Spritebox/9|ndex=0284}}-->
+{{Spritebox/HOME|ndex=0284}}
+{{Spritebox/Footer|284|Masquerain}}
+
+==In animation==
+===Main series===
+[[File:Masquerain anime.png|thumb|250px|Masquerain in {{aniseries|SM}}]]
+[[File:Sugimori Masquerain AG.jpg|thumb|250px|[[Ken Sugimori|Sugimori]] reference sheet for the {{aniseries|AG}}]]
+====Major appearances====
+Masquerain debuted in ''[[AG077|A Fan with a Plan]]'', under the ownership of [[Drew]]. It was seen {{pkmn|training}} with its {{pkmn|Trainer}} for the upcoming [[Rubello Town]] [[Pokémon Contest]], which was held in [[AG078|the following episode]]. It has since made further appearances in {{aniseries|AG}}.
+
+In ''[[M07|Destiny Deoxys]]'', a Masquerain is [[Audrey and Kathryn|Audrey]]'s main Pokémon. It helped the group rotate the fan blades of the windmills in [[LaRousse City]].
+
+In ''[[AG110|The Great Eight Fate!]]'', a Masquerain was part of [[Juan]]'s [[Sootopolis City]] Water Exhibit. It and Juan's other Pokémon were captured by {{TRT}}, but they all worked together to escape.
+
+In ''[[SM071|Dewpider Ascending!]]'', a Masquerain was living near the [[Pokémon School]] as a Surskit. Surskit evolved during a battle against a {{p|Dewpider}} over its territory. The battle ended when Masquerain, pleased with its Evolution, flew off and allowed Dewpider to live near the Pokémon School.
+
+====Minor appearances====
+In ''[[M10|The Rise of Darkrai]]'', {{OBP|Darkrai|M10}} hit a Masquerain with a {{m|Dark Void}}.
+
+In ''[[DP123|Old Rivals, New Tricks!]]'', a {{pkmn|Coordinator}}'s Masquerain competed in the [[Appeal|Performance Stage]] of the {{to|Sandalstraw}} {{pkmn|Contest}}.
+
+In ''[[M13|Zoroark: Master of Illusions]]'', multiple Masquerain were living in [[Crown City]].
+
+In ''[[M16|Genesect and the Legend Awakened]]'', multiple Masquerain were living at [[Pokémon Hills]].
+
+In ''[[XY077|A Relay in the Sky!]]'', a Trainer's Masquerain competed in the [[Pokémon Sky Relay]]. It was in a team also consisting of {{p|Hydreigon}} and {{p|Butterfree}}.
+
+A Masquerain appeared in a flashback in ''[[XY108|A Watershed Moment!]]''.
+
+In ''[[M19|Volcanion and the Mechanical Marvel]]'', a Masquerain was living at [[Nebel Plateau]].
+
+In ''[[SM129|Battle Royal 151!]]'', a Trainer's Masquerain competed in the [[Battle Royal]] preliminary round of the [[Manalo Conference]] but ended up losing.
+
+A Masquerain appeared in ''[[HZ001|The Pendant That Starts It All (Part One)]]''.
+
+Two Masquerain appeared in ''[[HZ016|Quaxly, We Can Do It]]'', under the ownership of two Trainers.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG077|Masquerain|May's Pokédex|Masquerain, the Eyeball Pokémon. Masquerain is the evolved form of {{p|Surskit}}. Its feelers, which resemble eyeballs, help to throw off opponents. It is able to hover in the sky like a {{wp|helicopter}}.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+
+===Pokémon Generations===
+[[File:Ninjask Breloom Masquerain PG.png|thumb|250px|Masquerain in [[Pokémon Generations]]]]
+In ''[[PG08|The Cavern]]'', a {{pkmn2|wild}} Masquerain was flying away from a storm that a [[Primal Reversion|Primal]] {{p|Kyogre}} was creating.
+{{-}}
+
+==In the manga==
+[[File:Winona Masquerain Adventures.png|thumb|200px|Masquerain in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Masquerain first appeared in ''[[PS231|Master Class with Masquerain]]'', under the ownership of [[Winona]].
+
+In ''[[PS335|The Final Battle VIII]]'', [[Guile Hideout]]'s Surskit evolved into a Masquerain, but it was easily subdued by [[Polibo]] and vanished with his owner soon afterward.
+
+[[Guzma]]'s Masquerain appeared in ''[[PASM06|The Party Crasher and Guzma the Destroyer]]''.
+
+==In the TCG==
+{{main|Masquerain (TCG)}}
+
+==Trivia==
+* Masquerain can be seen as a counterpart to {{p|Araquanid}}. Both share the {{t|Bug}} type and the same base stat totals, and both can be found at [[Malie Garden]] in [[Pokémon Sun and Moon]], taking the place of the other depending on the [[time]], with Masquerain being found during the night and Araquanid in the day. Furthermore, both are the evolved forms of Pokémon based partially on {{wp|Gerridae|water striders}}.
+* Of all changes to base stat totals, Masquerain received the largest increase at 40 in Generation VII.
+
+===Origin===
+Masquerain seems to draw inspiration from a variety of {{wp|Aquatic insect|semi-aquatic insects}}. Its ability to skate on water is akin to a {{wp|water strider}}, and its helicopter-like flight pattern a {{wp|Dragonfly|dragonfly}}. Its leg-turned-wings bring to mind {{wp|Bittacomorpha|Bittacomorpha-genus crane flies}}, which rely almost solely on their swollen legs to ride air currents. Given its Japanese name, it may also draw inspiration from semi-aquatic {{wp|Acentropinae|China-mark moths}}, possibly with its other {{wp|moth}}-like features (namely its flared antennae and {{wp|Eyespot (mimicry)|defensive eyespots}}) added for emphasis.
+
+====Name origin====
+Masquerain may be a combination of ''masquerade'' (a disguise) and ''rain''.
+
+Amemoth may be a combination of 雨 ''ame'' (rain) or 水黽 ''amenbo'' ({{wp|Gerridae|water strider}}) and ''{{wp|moth}}''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=water
+|ja=アメモース ''Amemoth''|jameaning=From {{tt|雨 ''ame''|rain}}, {{tt|水黽 ''amenbo''|water strider}}, and ''moth''
+|fr=Maskadra|frmeaning=From ''{{tt|masque|mask}}'', ''{{tt|mascarade|masquerade}}'', and possibly a pun on ''{{wp|Mascara|{{tt|mascara|a cosmetic used to enhance eyelashes}}}}''
+|es=Masquerain|esmeaning=Same as English name
+|de=Maskeregen|demeaning=From ''{{tt|Maske|mask}}'' and ''{{tt|Regen|rain}}''
+|it=Masquerain|itmeaning=Same as English name
+|ko=비나방 ''Binabang''|komeaning=From {{tt|비 ''bi''|rain}} and {{tt|나방 ''nabang''|moth}}
+|zh_cmn=雨翅蛾 ''Yǔchì'é''|zh_cmnmeaning=From {{tt|雨 ''yǔ''|rain}}, {{tt|翅 ''chì''|wing}}, and {{tt|蛾 ''é''| moth}}
+|zh_yue=雨翅蛾 '' Yúhchi'ngòh''|zh_yuemeaning=From {{tt|雨 ''yúh''|rain}}, {{tt|翅 ''chi''|wing}}, and {{tt|蛾 ''ngòh''| moth}}
+|hi=बारिऑथ ''Baarioth''|himeaning=From {{tt|बारिश ''baarish''|rain}} and ''moth''
+|ru=Маскерейн ''Maskereyn''|rumeaning=Transcription of English name
+|th=อาเมมอธ ''Amemot''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0283|prev=Surskit|nextnum=0285|next=Shroomish}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon whose base stats changed in Generation VII]]
+
+[[de:Maskeregen]]
+[[es:Masquerain]]
+[[fr:Maskadra]]
+[[it:Masquerain]]
+[[ja:アメモース]]
+[[zh:雨翅蛾]]

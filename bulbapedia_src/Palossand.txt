@@ -1,0 +1,397 @@
+{{PokémonPrevNext/Head|type=Ghost|type2=Ground}}
+{{PokémonPrevNext/GO|species=Palossand}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0769|prev=Sandygast|nextnum=0771|next=Pyukumuku|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Palossand
+|jname=シロデスナ
+|tmname=Sirodethna
+|jtranslit=Shirodesuna
+|ndex=0770
+|type1=Ghost
+|type2=Ground
+|category=Sand Castle
+|height-ftin=4'03"
+|height-m=1.3
+|weight-lbs=551.2
+|weight-kg=250.0
+|abilitylayout=2
+|ability1=Water Compaction
+|abilityd=Sand Veil
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=15
+|evtotal=2
+|evde=2
+|expyield=168
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=60
+|body=02
+|pokefordex=palossand
+|generation=7
+|friendship=70
+}}
+'''Palossand''' ([[List of Japanese Pokémon names|Japanese]]: '''シロデスナ''' ''Sirodethna'') is a dual-type {{2t|Ghost|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Sandygast}} starting at [[level]] 42.
+
+==Biology==
+[[File:Palossand draining vitality.png|left|thumb|250px|Palossand draining the vitality of its victim]]
+Palossand is a {{OBP|Pokémon|species}} resembling a yellowish sand castle with gray pebbles along the base. It has a square main castle for its body, two round towers for arms, and the top of another round tower with a conical point rising up from the body. A tunnel through the center of the main body creates a mouth. There is a line of five alternating blue and pink seashells over the top of its mouth, and a similar ring of seashells surrounds the central tower just below the point. The central tower has six windows: three located in the front, one on each side, and one in the back. The two outermost windows in front of the central tower have tiny pebbles in them and appear to act as eyes. The two side towers have {{wp|battlement|crenellations}} along the top with a ring of windows underneath. Palossand's main body has crenellations around the central tower. In the peak of its tower is a red shovel stuck handle-first into the top.
+
+Palossand has the power to control the sand, and each grain of its body has a will of its own. It curses and control people and Pokémon alike, making them gather sand for it to build upon its body. Unlike {{p|Sandygast}}, Palossand is able to replenish any sand it loses on its own. The shovel on Palossand's head rotates when it searches for prey and is believed to function as a radar. Palossand can be found at beaches, having been referred to as the "Beach Nightmare"; however, it hates water. It cannot maintain its castle-like structure during heavy rainfall. As seen in the ''[[Pokémon the Series]]'' episode ''[[SM022|A Shivering Shovel Search!]]'', Palossand can manipulate its size to grow to the size of a building and whip up sandstorms with a swing of its tower-like arms.
+
+Palossand captures smaller Pokémon into its sandy body by dragging them down into the sand. Once they are trapped, it drains their vitality whenever it pleases, until all there is left under its body are the dried-up bones of its victims, which Palossand is able to fire from the hollows in its arms. The aforementioned ''Pokémon the Series'' episode shows that trapped victims are unable to escape Palossand's body unless it has suffered enough damage, otherwise they will be pulled back inside; it also suggests Palossand is not able to drain the life force of humans. Wherever it passes, traces of its victims' ill will are left, which are said to be the genesis of new Sandygast.<ref>[http://www.pokemon-sunmoon.com/en-us/pokemon/palossand/ Pokémon Sun and Moon site | Palossand]</ref>
+
+Palossand and its pre-evolved form are the [[signature move|only known Pokémon]] capable of learning the move {{m|Shore Up}}. They are also the [[Signature Ability|only known Pokémon]] that can have {{a|Water Compaction}} as an [[Ability]].
+
+===Evolution===
+Palossand evolves from {{p|Sandygast}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Ghost
+|type2=Ground
+|pictype=art
+|no1=0769
+|name1=Sandygast
+|type1-1=Ghost
+|type2-1=Ground
+|evo1=
+|no2=0770
+|name2=Palossand
+|type1-2=Ghost
+|type2-2=Ground}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost|type2=Ground}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=187|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=226|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.}}
+{{Dex/Entry1|v=Moon|entry=Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they're still alive.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=134|label1=Isle of Armor|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pokémon lives on beaches, but it hates water. Palossand can't maintain its castle-like shape if it gets drenched by a heavy rain.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=323|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=From the hollows in its arms, it fires the bones of its victims, which are all dried up after being drained of their vitality.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{ghost color}}; font-size:80%; border-radius: 10px"
+|-
+| style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{ghost color light}}| [[File:Pokédex Image Palossand SM.png|x200px]]
+|style="border:2px solid #{{ghost color light}}; background:#{{ghost color light}} | [[File:Pokédex Image Palossand SV.png|x200px]]
+|-
+| Palossand in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Palossand in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ghost|type2=Ground}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Sandygast}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Sandygast}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Loop Lagoon]] ([[Wanderer]])<br>[[Challenge Beach]], [[Courageous Cavern]], [[Stepping-Stone Sea]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[West Province (Area Two)|Area Two]]<br>North Province: [[Casseroya Lake]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ghost|type2=Ground}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/NA/Side|gen=VII}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Great Challenge|Palossand Appears]]''}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[PML Arc]] (''{{DL|PML Arc|Chapter 17: Ghostly Trio}}''): {{sync|Acerola|Palossand}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Ghost|type2=Ground}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Spell Tag|5|availNote=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ghost
+|type2=Ground
+|HP=85
+|Attack=75
+|Defense=110
+|SpAtk=100
+|SpDef=75
+|Speed=35}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Ground
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=25
+|Ground=100
+|Rock=50
+|Bug=50
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|ground=yes
+|newelectric=1}}
+
+* Based on its species, Palossand is also immune to the move {{m|Telekinesis}}.
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Palossand|Ghost|Ground|7}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level9|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|1|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level9|15|Mega Drain|Grass|Special|40|100|15}}
+{{learnlist/level9|20|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|25|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|30|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level9|35|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/level9|40|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level9|47|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level9|54|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|61|Shore Up|Ground|Status|—|—|5}}
+{{learnlist/level9|68|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/levelf/9|Palossand|Ghost|Ground|7}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Palossand|Ghost|Ground|7}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Palossand|Ghost|Ground|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Palossand|Ghost|Ground|7}}
+{{learnlist/breed9|{{MSP/H|0218|Slugma}}{{MSP/H|0219|Magcargo}}{{MSP/H|0422|Shellos}}{{MSP/H|0423|Gastrodon}}|Ancient Power|Rock|Special|60|100|5|grid=8}}
+{{learnlist/breed9|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0353|Shuppet}}{{MSP/H|0354|Banette}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Duskull}}{{MSP/H|0442|Spiritomb}}{{MSP/H|0607|Litwick}}{{MSP/H|0608|Lampent}}{{MSP/H|0609|Chandelure}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0871|Pincurchin}}|Curse|Ghost|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0109|Koffing}}{{MSP/H|0110|Weezing}}{{MSP/H|0110-Galar|Weezing}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}{{MSP/H|0477|Duskull}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}|Destiny Bond|Ghost|Status|—|—|5|grid=8}}
+{{learnlist/breed9|{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}|Spit Up|Normal|Special|—|100|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}|Stockpile|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}|Swallow|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breedf/9|Palossand|Ghost|Ground|7}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Palossand|Ghost|Ground|7}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Palossand|Ghost|Ground|7}}
+
+===Side game data===
+{{Spindata/Head|type=Ghost|type2=Ground}}
+{{Spindata/Shuffle|col=6|type=Ghost|ndex=770|stype=Ground|num=780
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Eject++
+|skilldesc=Sometimes removes five non-Support Pokémon icons.
+}}
+|-
+{{Spindata/GO|col=6|type=Ghost|ndex=0770
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=198
+|attack=178
+|defense=178
+|fast={{m|Astonish}}, {{m|Mud Shot}}, {{m|Sand Attack}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Sand Tomb}}, {{m|Shadow Ball}}, {{m|Earth Power}}, {{m|Scorching Sands}}{{tt|*|From September 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Ghost
+|type2=Ground
+|pictype=art
+|no1=0769
+|name1=Sandygast
+|type1-1=Ghost
+|type2-1=Ground
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 42}}
+|no2=0770
+|name2=Palossand
+|type1-2=Ghost
+|type2-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Ghost|type2=Ground}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=770|crop=109}}
+{{Spritebox/8|ndex=770}}
+<!--{{Spritebox/9|ndex=0770}}-->
+{{Spritebox/HOME|ndex=0770}}
+{{Spritebox/Footer|770|Palossand}}
+
+==In animation==
+===Main series===
+[[File:Palossand anime.png|thumb|250px|Palossand in {{aniseries|SM}}]]
+====Major appearances====
+Palossand debuted in ''[[SM022|A Shivering Shovel Search!]]''. It evolved from a Sandygast after losing its shovel, trapping {{Ash}} and {{AP|Litten}} inside its body.
+
+====Minor appearances====
+A Palossand appeared in ''[[SM046|Deceiving Appearances!]]'', among the Pokémon seen at [[Aether Paradise]].
+
+====Pokédex entries====
+{{Animedexheader|Alola}}
+{{Animedexbody|SM022|Palossand|Rotom Pokédex|It's the evolved form of Sandygast! It's a Palossand! The Sand Castle Pokémon. A {{t|Ghost}} and {{t|Ground}} type. It is said the shovel on Palossand's head functions as a radar.}}
+{{Animedexfooter/Pokémon|Alola}}
+
+===Pokémon Masters Animated Trailer===
+[[File:Acerola Palossand Masters Trailer.png|thumb|250px|Palossand in the [[Pokémon Masters Animated Trailer]]]]
+A Palossand briefly appeared in the [[Pokémon Masters Animated Trailer]], under the ownership of {{mas|Acerola}}. Alongside [[Skyla's Swanna]] and [[Flint's Infernape]], it battled [[Bettie]]'s {{p|Pikachu}}, [[Iris's Haxorus]], and {{mas|Barry}}'s {{p|Piplup}}, but the outcome was left unknown.
+{{-}}
+
+==In the manga==
+[[File:Acerola Palossand Adventures.png|thumb|200px|Palossand in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Palossand debuted in ''[[PASM31|Ray of Light!! Through the Crack in the Sky!]]'', where it was revealed to have evolved from [[Acerola]]'s {{p|Sandygast}}.
+
+A Palossand appeared in [[PASS41]], being one of many Pokémon to suddenly [[Dynamax]] due to the [[Darkest Day]].
+
+===Pokémon Horizon===
+A Palossand appeared in a fantasy in ''[[HOR01|Journey to a New Horizon]]''.
+{{-}}
+
+==In the TCG==
+{{main|Palossand (TCG)}}
+==Trivia==
+* When Palossand and its pre-[[Evolution]] are sent out, they merely fade onto the screen instead of dropping down like most other Pokémon. This trait is shared by {{p|Diglett}}, {{p|Dugtrio}}, {{p|Wiglett}}, and {{p|Wugtrio}}.
+* {{p|Sandygast}}, Palossand, {{p|Diglett}}, {{p|Dugtrio}}, and {{me|Gengar}} are immune to {{m|Telekinesis}}.
+
+===Origin===
+Palossand appears to be based on a {{wp|Sand art and play|sand castle}}. Its {{t|Ghost}} type is likely a reference to {{wp|haunted house|haunted castles}}, a common trope in horror stories. The way it captures its prey is similar to {{wp|Quicksand#In popular culture|popular media depictions of quicksand}}. Its {{Shiny}} color variation may be based on {{wp|black sand}}.
+
+====Name origin====
+Palossand may be a combination of ''palace'', ''loss'', and ''sand'', as well as a pun on ''pile of sand''. It could also derive from ''pala'' (Spanish for shovel) or involve ''colossal''.
+
+Sirodethna may be read literally as 城ですな ''shiro desu na'' (That's a castle, huh). This may also be a combination of 城 ''shiro'' (castle), ''death'', and 砂 ''suna'' (sand).
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Ground
+|ja=シロデスナ ''Sirodethna''|jameaning=From {{tt|城ですな ''shiro desu na''|that's a castle, huh}}, ''death'', and {{tt|砂 ''suna''|sand}}
+|fr=Trépassable|frmeaning=From {{tt|''trépas''|death}}, {{tt|''sable''|sand}}, and {{tt|''très passable''|good enough}}
+|es=Palossand|esmeaning=Same as English name
+|de=Colossand|demeaning=From ''colosseum'' or ''colossal'' and ''Sand''
+|it=Palossand|itmeaning=Same as English name
+|ko=모래성이당 ''Moraeseong-idang''|komeaning=From {{tt|모래성이당 ''moraeseong-idang''|that's a sand castle}}
+|zh_cmn=噬沙堡爺 / 噬沙堡爷 ''Shìshābǎoyé''|zh_cmnmeaning=From {{tt|吞噬 ''tūnshì''|to gobble}}, {{tt|沙堡 ''shābǎo''|sand castle}}, {{tt|爺 / 爷 ''yé''|elder man}}, and {{tt|是沙堡耶 ''Shì shābǎo yé''|It's a sand castle!}}
+|zh_yue=噬沙堡爺 ''Saihsābóuyèh''|zh_yuemeaning=From {{tt|吞噬 ''tānsaih''|to gobble}}, {{tt|沙堡 ''sābóu''|sand castle}}, and {{tt|爺 ''yèh''|elder man}}
+|hi=प्रेतफ़ोर्ट ''Pretfort''|himeaning=From {{tt|प्रेत ''pret''|spirit/phantom}}, {{tt|रेत ''ret''|sand}}, and ''fort''
+|ru=Палоссэнд ''Palossend''|rumeaning=Transcription of English name
+|sv=Pollosand{{tt|*|Pokémon TV}}|svmeaning=Corruption of English name
+|th=ชิโรเดซึนะ ''Chirodesuena''|thmeaning=Transcription of Japanese name
+}}
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Ghost|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0769|prev=Sandygast|nextnum=0771|next=Pyukumuku}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Colossand]]
+[[es:Palossand]]
+[[fr:Trépassable]]
+[[it:Palossand]]
+[[ja:シロデスナ]]
+[[zh:噬沙堡爷]]

@@ -1,0 +1,843 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Vaporeon}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0133|prev=Eevee|nextnum=0135|next=Jolteon|round=none}}
+{{PokémonPrevNext/Disambig|species=Vaporeon}}
+|}
+{{Pokémon Infobox
+|name=Vaporeon
+|jname=シャワーズ
+|jtranslit=Shawāzu
+|tmname=Showers
+|ndex=0134
+|type1=Water
+|category=Bubble Jet
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=63.9
+|weight-kg=29.0
+|abilityn=d
+|ability1=Water Absorb
+|abilityd=Hydration
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=35
+|evtotal=2
+|evhp=2
+|expyield=184
+|oldexp=196
+|lv100exp=1,000,000
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=08
+|pokefordex=vaporeon
+|generation=1
+|friendship=70
+}}
+'''Vaporeon''' ([[List of Japanese Pokémon names|Japanese]]: '''シャワーズ''' ''Showers'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Eevee}} when exposed to a [[Water Stone]].
+
+It is one of Eevee's [[Eeveelution|final forms]], the others being {{p|Jolteon}}, {{p|Flareon}}, {{p|Espeon}}, {{p|Umbreon}}, {{p|Leafeon}}, {{p|Glaceon}}, and {{p|Sylveon}}.
+
+==Biology==
+[[File:Galea Vaporeon Acid Armor.png|left|thumb|250px|A Vaporeon melting into water molecules]]
+Vaporeon is a {{OBP|Pokémon|species}} that shares physical traits with both aquatic and land animals. Vaporeon's body is light blue with a dark blue marking around its head and a spiky ridge down its spine. It has black eyes and a tiny black nose. There is a white fin encircling its neck and three fins with cream-colored webbing on its head. Two of these fins are on either side of its head, similar to ears; and one is directly on top of its head, resembling a {{wp|dorsal fin}}. Vaporeon is a quadruped with three small toes on each foot and dark blue paw pads on the hind feet. Its split tail fin has been mistaken for a mermaid's in the past and is believed to be the origin of mermaid folklore. It can detect moisture with its fins, which vibrate when sensing incoming rain.
+
+Vaporeon is mostly found in {{DL|List of Pokémon by habitat|Urban Pokémon|urban settings}} under the ownership of a {{pkmn|Trainer}}. It is rarely seen in the wild, but it prefers clean freshwater lakes and shores. It has developed gills to become better suited to an aquatic lifestyle, and its cell composition's similarity to water allows it to melt into the water. This ability enables Vaporeon to remain camouflaged while swimming, hiding itself from enemies and allowing it to ambush its prey: fish Pokémon.
+{{left clear}}
+
+===Evolution===
+Vaporeon evolves from {{p|Eevee}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Water
+|pictype=art
+|no1=0133
+|name1=Eevee
+|type1-1=Normal
+|evo1=
+|no2=0134
+|name2=Vaporeon
+|type1-2=Water}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=134}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.}}
+{{Dex/Entry1|v=Yellow|entry=Its cell structure is similar to water molecules. It will melt away and become invisible in water.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Found quietly resting by lake shores. Its cell structure is similar to water, so it can invisibly melt into water.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=181}}
+{{Dex/Entry1|v=Gold|entry=When <sc>Vaporeon</sc>'s fins begin to vibrate, it is a sign that rain will come within a few hours.}}
+{{Dex/Entry1|v=Silver|entry=It prefers beautiful shores. With cells similar to water molecules, it could melt in water.}}
+{{Dex/Entry1|v=Crystal|entry=As it uses the fins on the tip of its tail to swim, it blends with the water perfectly.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=When <sc>Vaporeon</sc>'s fins begin to vibrate, it is a sign that rain will come within a few hours. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It prefers beautiful shores. With cells similar to water molecules, it could melt in water. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=134}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Vaporeon</sc> underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This {{ScPkmn}} has the ability to freely control water.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=<sc>Vaporeon</sc> underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.}}
+{{Dex/Entry1|v=FireRed|entry=Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.}}
+{{Dex/Entry1|v=LeafGreen|entry=Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=164|label1={{gameIcon|Pt}}:|reg2=Johto|num2=185}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.}}
+{{Dex/Entry1|v=Platinum|entry=Its cell composition is similar to water molecules. As a result, it can melt away into water.}}
+{{Dex/Entry1|v=HeartGold|entry=When <sc>Vaporeon</sc>'s fins begin to vibrate, it is a sign that rain will come within a few hours.}}
+{{Dex/Entry1|v=SoulSilver|entry=It prefers beautiful shores. With cells similar to water molecules, it could melt in water.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=092|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its cell composition is similar to water molecules. As a result, it can melt away into water.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=078|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It prefers beautiful shores. With cells similar to water molecules, it could melt in water.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=124|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=154|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=134}}
+{{Dex/Entry1|v=Sun|entry=Its cells are composed of units much like water molecules. It lives close to water and is often mistaken for a mermaid.}}
+{{Dex/Entry1|v=Moon|entry=Blending in with the water and erasing all signs of its presence, it patiently waits for its prey, fish Pokémon.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Clean, clear waters are its usual habitat. When it's about to be attacked by an invading enemy, it dives into the water to hide.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=It detects nearby moisture with its fin. When its fin begins trembling rapidly, that means rain will fall in a few hours.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Its cell structure is similar to water molecules. It melts into the water and becomes invisible.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=197|reg2=Galar|label2=Crown Tundra|num2=075|reg3=Sinnoh|reg4=Hisui|num4=026}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It has evolved to be suited for an aquatic life. It can become invisible when it melts away into water.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Tests show that its cells closely resemble water molecules, which perhaps explains its ability to conceal its form while submerged. I believe the origins of mermaid folklore lie with this Pokémon.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=180|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid’s.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{water color dark}}; background:#{{water color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}}; border:2px solid #{{water color dark}}; background:#{{water color light}};" | [[File:Pokédex Image Vaporeon SM.png|x200px]]
+| style="{{roundy|20px}}; border:2px solid #{{water color dark}}; background:#{{water color light}};" | [[File:Pokédex Image Vaporeon USUM.png|x200px]]
+| style="border:2px solid #{{water color dark}}; background:#{{water color light}}; {{roundy|5px}};" | [[File:Pokédex Image Vaporeon SV.png|x200px]]
+|-
+| Vaporeon in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Vaporeon in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Vaporeon in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Yellow|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Trade]]<br>{{pkmn|Global Link}} event}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Lake of Outrage]] ([[Wanderer]])<br>[[Giant's Mirror/Dens|Giant's Mirror]] ([[Max Raid Battle]]s)}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Bed]] ([[Wanderer]])<br>[[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Cobalt Coastlands]]:''' [[Space-time distortion]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Six)|Area Six]]<br>East Province: [[Tagtree Thicket]]<br>North Province: [[North Province (Area Two)|Area Two]], [[North Province (Area Three)|Area Three]], [[Casseroya Lake]], [[Glaseado Mountain]]<br>North Province: [[Casseroya Lake]] ({{t|Water}} {{Tera}} [[Type]])<br>[[Tera Raid Battle]]s ({{DL|List of 6★ Tera Raid Battles (Paldea)|Vaporeon|6★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|4|Phobos Sub}}marine, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Fiore Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lake Afar]] (B13F-B24F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lake Afar]] (B13F-B24F)}}
+{{Availability/Entry1|v=Ranger: Soa|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Almia Castle]], [[Altru Tower]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]] <small>(Both Modes S)</small>}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Beach Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Canal Ruins]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Forest of Shadows]] (1F-14F), [[Grove of Whispers]] (1F-9F), [[Freezing Pillar]] (1F-14F), [[Silent Tundra]] (Uncharted Road, Gilded Hall), [[Dreamy Island]] (Uncharted Road, Gilded Hall), [[Moonlit Forest]] (Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Colorful Park|Aquatic Hill: The Colorful Park]], [[Challenge Battle#The Final Battle Royale|Challenge Battle: The Final Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 6|Colossal Forest: Stage 6]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Vast Ocean|Distortion Land: Vast Ocean]] <small>(Back Boss)</small>, [[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 07|Area 07: Stage 06]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zapdos Sea]], [[Zygarde Sea]], [[Bulbasaur Sea]], [[Greninja Sea]], [[Mewtwo Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Silver Trench]] (20F, 30F, 50F, 60F, 70F, 80F), [[Northwind Field]] (10F, 20F, 27F), [[Grand Sea]] (20F), [[Far-Off Sea]] (20F, 25F, 30F, 40F, 50F, 60F, 70F)}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Maricopia Reef]]<sup><span style="color:#A51F5A;">Evening</span></sup>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Master 5)<br>[[Cyan Beach]] (from Master 2)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Great 3)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Rainbow Park|Rainbow Park: Stage 54]]<br>[[Graucus Hall|Graucus Hall: Stage 463]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Misty|Vaporeon|sygna=1}}<br>Variety [[sync pair scout]]: {{sync|Lyra|Vaporeon}}<br>[[Trainer Lodge]] Friendship Level 100: {{sync|Adaman|Vaporeon}}<br>[[Evolution]]: {{sync/player|egg|Eevee}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Water}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Birthday Vaporeon|All|Japan|10|October 12, 2013 to December 31, 2016|link=List of local event Pokémon distributions in Generation VI#Vaporeon}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Center Vaporeon|All|Japan|50|May 13 to June 23, 2017|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Vaporeon 2}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Store Vaporeon|All|South Korea|50|July 15 to 23, 2017|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Vaporeon}}
+|}
+
+=====Pokémon Global Link promotions=====
+{{eventAvail/h|type=Water}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Vaporeon|Japanese|PGL|10|October 20, 2010 to January 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Vaporeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Vaporeon|Korean|PGL|10|May 18 to August 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Vaporeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Vaporeon|English|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Vaporeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Vaporeon|French|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Vaporeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Vaporeon|German|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Vaporeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Vaporeon|Italian|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Vaporeon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Vaporeon|Spanish|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Vaporeon}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Water}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Bitter Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Razz Berry|30|Vivichoke|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Water
+|HP=130
+|Attack=65
+|Defense=60
+|SpAtk=110
+|SpDef=95
+|Speed=65
+|Special=110
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=2
+|SpeedMax=3
+|Power=1
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=5
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|waterabsorb=maybe
+|newwater=0
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Vaporeon|Water|Water|1}}
+{{learnlist/level9|1|Covet|Normal|Physical|60|100|25}}
+{{learnlist/level9|1|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|1|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level9|1|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|1|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|1|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|1|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level9|5|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|10|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|15|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level9|20|Haze|Ice|Status|—|—|30}}
+{{learnlist/level9|25|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level9|30|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/level9|35|Aqua Ring|Water|Status|—|—|20}}
+{{learnlist/level9|40|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/level9|45|Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/level9|50|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level9|55|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/levelf/9|Vaporeon|Water|Water|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Vaporeon|Water|Water|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30}}
+{{learnlist/tm9|TM188|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM196|Flip Turn|Water|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM208|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm9|TM209|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10}}
+{{learnlist/tmf/9|Vaporeon|Water|Water|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Vaporeon|Water|Water|2}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571-Hisui|Zoroark}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}|Detect|Fighting|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128|Tauros|form=-Paldea Aqua}}{{MSP/H|0135|Jolteon}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0231|Phanpy}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0775|Komala}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Flail|Normal|Physical|—|100|15||}}
+{{learnlist/breed9|{{MSP/H|0050|Diglett}}{{MSP/H|0050-Alola|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0968|Orthworm}}|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/breed9|{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}|Tickle|Normal|Status|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0775|Komala}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{tt|*|Skeledirge learns Yawn on its own only Version 2.0.1 onwards}}|Yawn|Normal|Status|—|—|10}}
+{{learnlist/breedf/9|Vaporeon|Water|Water|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Vaporeon|Water|Water|1}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Vaporeon|Water|Water|1}}
+
+====Special moves====
+{{learnlist/eventh/9|Vaporeon|Water|Water|1}}
+{{learnlist/event9|[[Casseroya Lake|Wild Tera Pokémon]]|Curse|Ghost|Status|—|—|10}}
+{{learnlist/event9|[[Casseroya Lake|Wild Tera Pokémon]]|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/event9|[[Casseroya Lake|Wild Tera Pokémon]]|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/event9|[[Casseroya Lake|Wild Tera Pokémon]]|Wish|Normal|Status|—|—|10}}
+{{learnlist/eventf/9|Vaporeon|Water|Water|1}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/Pinball|col=3|type=Water|ndex=134|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Water|ndex=134|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=134
+|body=1
+|rate=Evolve
+|area=Transform Forest
+|P1=My body's made of water!
+|P2=It's not good. My health is down to half.
+|P3=I'm out of power... It's hopeless...
+|PL=Leveled up! I feel the power of water surging!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=134
+|body=1
+|rate=-12
+|IQ=F
+}}
+|-
+{{Spindata/PSMD|col=6|type=Water|ndex=134
+|coset=3
+|conto={{p|Eevee}}, {{p|Quagsire}}, {{p|Marshtomp}}, {{p|Shieldon}}
+|recruitment=Find {{p|Shieldon}} together
+|P1=I have fins and gills, so I can live underwater, too! Huh? You didn't need to know that? Oh well...
+|P2=So harsh... I'm in a cold sweat... Or is it just water?
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=2
+|field=Soak
+|loop=15
+|MinEXP=75
+|MaxEXP=89
+|num=183
+|browser=Vaporeon is a key to the [[Fiore Temple]]'s mystery. It attacks with a rainbow ray.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=3
+|num=098
+|browser=It attacks by letting loose blobs of water and bubbles from its mouth.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=2
+|num=076
+|pastnum=055
+|browser=It spits bubbles around itself that make Pokémon slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=134
+|walk=1.32
+|hp=64
+|attack=80
+|defense=55
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=134
+|Pad=Vaporeon came to play in the [[Beach Zone]]. He enjoys {{DL|Attraction (PokéPark)|Gyarados's Aqua Dash}} more than anything else!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=134
+|pad=He is gentle and loves to soak in the water. He is a good friend of {{p|Flareon}} in the [[Crag Area]].
+}}
+|-
+{{Spindata/Conquest|col=6|type=Water|ndex=134
+|HP=5
+|atk=4
+|def=3
+|spd=3
+|range=4
+|move=Hydro Pump
+|ability1=Wave Rider
+|ability2=Aqua Boost
+|ability3=Water Absorb
+|evo=Evolves from {{p|Eevee}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Water Stone]]
+|link='''[[Hero]]'''/'''[[Heroine]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Water|ndex=134
+|power=3
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Water|ndex=134|num=24
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Eject+, Hammering Streak
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=134
+|hatch=N/A
+|buddy=5
+|candy=Eevee
+|evolution=N/A
+|stamina=277
+|attack=205
+|defense=161
+|fast={{m|Water Gun}}
+|special={{m|Water Pulse}}, {{m|Hydro Pump}}, {{m|Aqua Tail}}, , {{m|Liquidation}}{{tt|*|From June 1, 2023 onward}}, {{m|Last Resort}}{{tt|†|Event-exclusive from Eevee Community Day 2018}}, {{m|Scald}}{{tt|†|Event-exclusive from Eevee Community Day 2021}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Water|ndex=134|pdex=106
+|dex=An empty-looking {{wp|blue hole}} may actually be home to Vaporeon. Because their cells are similar to water molecules, Vaporeon can’t be seen when they’re in the water.}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0134
+|sleeptype=Slumbering
+|type=Water
+|dexentry=Its body's cellular structure is similar to water's molecular composition, so it can melt invisibly in water. When Vaporeon sleeps on land, you can observe it as closely as you like.
+|sleepstyle1=Tail-Wagging Sleep
+|sleepstyle2=Sitting Sleep
+|sleepstyle3=Sprawled Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=20
+|specialty=Skills
+|evolution=
+|candyNum=
+|pokemon=Eevee
+|berry=Oran
+|ingredient1=Moomoo Milk
+|ingredient2=Soothing Cacao
+|ingredient3=Bean Sausage
+|carrylimit=13
+|skillname=Ingredient Magnet S
+|skilldesc=Gets you 6 ingredients chosen at random.
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{water color dark}}; background:#{{water color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{water color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{water color dark}}; background:#{{water color light}};"| [[File:GO0134November2018.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{water color dark}}; background:#{{water color light}};"| [[File:GO0134Holiday2022.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{water color dark}}; background:#{{water color light}};"| [[File:GO0134Spring2023.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{water color dark}}; background:#{{water color light}};"| [[File:GO0134Explorer.png|100px]]
+|-
+| Flower crown
+| Holiday hat
+| Cherry blossoms
+| Explorer hat
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Water
+|pictype=art
+|no1=0133
+|name1=Eevee
+|type1-1=Normal
+|evo1={{Bag/s|Water Stone|SV}}<br>{{color2|000|Water Stone}}
+|no2=0134
+|name2=Vaporeon
+|type1-2=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/1|ndex=134}}
+{{Spritebox/2|ndex=134}}
+{{Spritebox/3|ndex=134}}
+{{Spritebox/4|ndex=134}}
+{{Spritebox/5|ndex=134}}
+{{Spritebox/6|ndex=134|crop=114}}
+{{Spritebox/7/PE|ndex=134|crop=114|PEcrop=210}}
+{{Spritebox/8/SwShLA|ndex=134|LAcrop=147}}
+<!--{{Spritebox/9|ndex=0134}}-->
+{{Spritebox/HOME|ndex=0134}}
+{{Spritebox/Footer|134|Vaporeon}}
+
+==In animation==
+===Main series===
+[[File:Vaporeon anime.png|thumb|250px|Vaporeon in ''[[PK25|Eevee & Friends]]'']]
+====Major appearances====
+Vaporeon debuted in ''[[EP040|The Battling Eevee Brothers]]'', under the ownership of {{DL|Eevee brothers|Rainer}}. It was targeted in one of {{TRT}}'s schemes.
+
+In ''[[EP056|The Ultimate Test]]'', {{Ash}} battled a Vaporeon during the [[Pokémon League Admissions Exam]]. He used a {{p|Meowth}} provided to him, only for Vaporeon to defeat Meowth with {{m|Ice Beam}}.
+
+In ''[[M01|Mewtwo Strikes Back]]'' and its remake ''[[M22|Mewtwo Strikes Back—Evolution]]'', [[Fergus]]'s Vaporeon was captured and cloned by {{OBP|Mewtwo|M01}}. The Vaporeon clone reappeared in ''[[Mewtwo Returns]]''.
+
+In ''[[EP183|Trouble's Brewing]]'' and ''[[EP226|Espeon, Not Included]]'', Sumomo, one of the [[Kimono Girl|Kimono Sisters]], owns a Vaporeon. It was used in a match against {{an|Misty}} and {{TP|Misty|Poliwhirl}}, and it was able to defeat Poliwhirl with {{m|Aurora Beam}}.
+
+In ''[[AG152|On Olden Pond]]'', [[Galea]]'s agile Vaporeon helped Ash train his {{AP|Corphish}}.
+
+In ''[[DP174|Last Call — First Round!]]'', [[Ursula]]'s {{p|Eevee}} evolved into a Vaporeon as part of the [[Appeal|Performance Stage]] of the [[Sinnoh Grand Festival]].
+
+[[Virgil]]'s male Vaporeon debuted in ''[[BW102|Team Eevee and the Pokémon Rescue Squad!]]'', along with an Eevee and her other Evolutions at the time. In ''[[BW103|Curtain Up, Unova League!]]'', it battled [[Ultimo]]'s {{p|Crustle}} during the first round of the [[Vertress Conference]] and ultimately won in [[BW104|the next episode]].
+
+In ''[[PK25|Eevee & Friends]]'', a dramatic Vaporeon was with an Eevee and its other Evolutions, including the newly introduced {{p|Sylveon}}.
+
+In ''[[BW135|Mystery on a Deserted Island!]]'', one of three Eevee evolved into a Vaporeon with a [[Water Stone]] found on the {{OBP|Deserted Island|BW135}}.
+
+In ''[[SM065|Turning Heads and Training Hard!]]'', a {{pkmn2|wild}} Vaporeon was summoned to help [[Ilima]]'s Eevee perform {{m|Extreme Evoboost}}. In the [[Poké Problem]] segment of the [[SM066|next episode]], it saw Ilima and Eevee off.
+
+A Vaporeon appeared in ''[[JN063|On Land, In the Sea, and to the Future!]]'', under the ownership of [[Kiley]]. He competed in the [[Marine Athletic Race]], and later defeated a {{p|Huntail}}, alongside [[Chloe's Eevee]]. He reappeared in flashbacks in ''[[JN105|Reuniting for the First Time!]]'' and ''[[JN120|Infinite Possibilities!]]''.
+
+====Minor appearances====
+In ''[[PK01|Pikachu's Vacation]]'', a Vaporeon was at the [[Pokémon Theme Park]].
+
+In ''[[EP086|Pikachu Re-Volts]]'', a Vaporeon fell under the control of [[Cassidy]] and [[Butch]] via their {{p|Drowzee}} at [[Mandarin Island North]].
+
+In ''[[M02|The Power of One]]'', a Vaporeon sensed the disturbance caused by [[Lawrence III]].
+
+A Vaporeon appeared in the Japanese credits of ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP147|The Fire-ing Squad!]]'', four Vaporeon competed in the [[Fire and Rescue Grand Prix]].
+
+In ''[[The Legend of Thunder!]]'', a Vaporeon was at the [[Pokémon Center]].
+
+In ''[[M05|Pokémon Heroes: Latios & Latias]]'', a Trainer's Vaporeon competed in the [[Tour de Alto Mare]]. Another Trainer's Vaporeon was given bath from a fountain.
+
+In ''[[EP272|Johto Photo Finish]]'', Gary's demonstration featured a Vaporeon evolving from an Eevee.
+
+A Vaporeon appeared in ''[[HS01|A Family That Battles Together Stays Together!]]'', under the ownership of [[Lola]]. It reappeared in a fantasy in ''[[AG177|Grating Spaces!]]''.
+
+In ''[[AG011|A Bite to Remember]]'', Brock's demonstration featured a Vaporeon evolving from an Eevee.
+
+Multiple Vaporeon appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A {{pkmn|Coordinator}}'s Vaporeon appeared in ''[[AG122|Deceit and Assist]]''.
+
+In ''[[M11|Giratina and the Sky Warrior]]'', a Vaporeon was together with an Eevee and the other six [[Eeveelution]]s at the time.
+
+In ''[[XY090|Tag Team Battle Inspiration!]]'', {{an|Shauna}}'s fantasy featured a Vaporeon as she imagined what [[Serena's Eevee]] could evolve into.
+
+In ''[[M20|I Choose You!]]'', a Trainer's Vaporeon was injured trying to battle {{p|Entei}} and was subsequently brought to a Pokémon Center.
+
+A Trainer's Vaporeon appeared in ''[[M21|The Power of Us]]''.
+
+In ''[[SM133|Battling on the Wing!]]'', a Trainer's Vaporeon watched the [[Manalo Conference]] {{pkmn|battle}}s.
+
+A Trainer's Vaporeon appeared in ''[[JN038|Restore and Renew!]]''.
+
+In ''[[JN049|To Train, or Not to Train!]]'', a Vaporeon was at the [[Eevee Evolution Lab]]. It reappeared in ''[[JN120|Infinite Possibilities!]]'', alongside another Vaporeon.
+
+A Vaporeon appeared in a fantasy in ''[[JN063|On Land, In the Sea, and to the Future!]]''.
+
+A Vaporeon appeared in a fantasy in ''[[JN120|Infinite Possibilities!]]''.
+
+A Vaporeon appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+In ''[[JN139|Must Be Our Heroes and the Witch!]]'', a Vaporeon appeared in a fantasy.
+
+====Pokédex entries====
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG152|Vaporeon|May's Pokédex|Vaporeon, the Bubble Jet Pokémon. Vaporeon love fresh, clean water and can make their bodies {{m|Acid Armor|melt away into water}} as well.}}
+{{Animedexfooter/Pokémon|Emerald}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP174|Vaporeon|Dawn's Pokédex|Vaporeon, the Bubble Jet Pokémon, and an evolved form of Eevee. The composition of its cells is similar to molecules of water, and as such, can melt in water.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW102|Vaporeon|Ash's Pokédex|Vaporeon, the Bubble Jet Pokémon. Vaporeon is made up of molecules similar to water, which allows it to melt and vanish.}}
+{{Animedexfooter/Pokémon|Unova}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN063|Vaporeon|Chloe's Rotom Phone|Vaporeon, the Bubble Jet Pokémon. A {{t|Water}} type. Vaporeon evolves from {{p|Eevee}}, a {{t|Normal}} type, into a form adapted for movement in the water. The cells of its body resemble water molecules, so it can hide itself in the water as if it had melted into it.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Evolutions===
+[[File:Kuni Vaporeon Evolutions.png|thumb|250px|Vaporeon in [[Pokémon Evolutions]]]]
+A Vaporeon appeared in ''[[PE07|The Show]]'', under the ownership of [[Kimono Girl|Kuni]]. It was used in the Kimono Girls' performance of the destruction of the [[Burned Tower|Brass Tower]], where it represented the rain that fell to douse the tower's flames.
+{{-}}
+
+==In the manga==
+[[File:Rainer Vaporeon EToP.png|thumb|200px|Vaporeon in [[The Electric Tale of Pikachu]]]]
+===The Electric Tale of Pikachu===
+A Vaporeon belonging to [[Eevee brothers|Rainer]] appeared in ''[[ET06|To Evolve or Not to Evolve, That is the Question!]]'', where it battled {{OBP|Ash's Pikachu|EToP}}, but was easily defeated.
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|The Electric Tale of Pikachu|[[ET06]]|Evolved with the Water Stone. The cells of its body closely resemble water molecules, and it has the ability to dissolve into water.}}
+{{Mangadexfooter}}
+
+===Magical Pokémon Journey===
+{{main|Vaporeon (MPJ)}}
+A Vaporeon appears in ''[[PPPB10|The Master Plan... for Romance!]]''.
+
+[[File:Vee Vaporeon.png|thumb|150px|Vaporeon in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+===={{MangaArc|Red, Green & Blue}}====
+{{main|Vee}}
+In ''[[PS019|Blame it on Eevee]]'', a mutated Eevee could switch between his evolved forms, one of which is a Vaporeon. {{adv|Red}} {{pkmn2|caught|catches}} him, adds him to his [[Party|team]], and [[nickname]]s him Vee. Later, it used the [[Evolution stone|Fire, Water, and Thunder Stones]] of [[Vermilion City|Vermilion Harbor]], which were given to him by {{adv|Giovanni}}, to evolve and [[Devolution|devolve]] him freely and faster.
+
+===={{MangaArc|Yellow}}====
+A Vaporeon appeared in ''[[PS058|The Kindest Tentacruel]]'' as one of the Pokémon in {{adv|Yellow}}'s fantasy about Evolution via Evolution stone.
+
+===={{MangaArc|Emerald}}====
+In ''[[PS309|Moving Past Milotic]]'', a Vaporeon appeared at the [[Battle Pike]].
+
+===={{MangaArc|HeartGold & SoulSilver}}====
+A Vaporeon appeared in ''[[PS448|Pleased as Punch With Parasect]]'', under the ownership of a [[Kimono Girl]].
+
+===={{MangaArc|X & Y}}====
+A Vaporeon appeared in a fantasy in ''[[PS553|Sylveon Enchants]]''.
+
+===Pokémon Pocket Monsters===
+A Vaporeon appeared in ''[[PM017|Seize The Unmanned Power Plant!!]]''.
+
+A Vaporeon appeared in ''[[PM023|Clefairy Evolves... At Last?!]]''.
+
+A Vaporeon appeared in ''[[PM027|Curry Showdown! Which is the Most Delicious?]]'' as one of the participants of a curry cooking competition.
+
+===Pokémon Zensho===
+A Vaporeon appeared in a fantasy in [[PZ04]].
+
+==In the TCG==
+{{main|Vaporeon (TCG)}}
+
+==Trivia==
+* Vaporeon weighs the most out of all the Eeveelutions.
+* Vaporeon is the only {{type|Water}} {{OBP|Pokémon|species}} that appears in the [[List of Pokémon by Pal Park location#Field|field section]] of [[Pal Park]].
+* In {{game|Yellow}}, Vaporeon is programmed to learn both {{m|Haze}} and {{m|Mist}} at level 42; however, a bug prevents a Pokémon from learning more than one move at the same level when leveled up outside of the [[Pokémon Day Care]], so Vaporeon can only learn Mist if it reaches level 42 in the Day Care.
+* In {{g|Colosseum}}, Vaporeon possesses a snow-like visual effect surrounding its body in battle. No other Pokémon in the series has this effect.
+* Vaporeon is the only Eeveelution that does not share any weakness with another Eeveelution.
+
+===Design variations===
+In some [[Generation I]] sprites, Vaporeon had a notably different design, with the backs of its ears being all black, fins on each leg, and a fin running down the entire length of its back. It also had a more protuberant snout, giving it a more dog-like appearance. All of these details were removed in [[Generation II]]. Notably, these details weren't present in its original {{game|Red and Green|s}} artwork.
+
+<gallery>
+Spr 1g 134.png|Red and Green sprite
+Spr b g1 134.png|Generation I back sprite
+134Vaporeon RG.png|Red and Green art
+</gallery>
+
+===Concept and development===
+Vaporeon was designed by [[Atsuko Nishida]].<ref name=EVs>(2018) ''EVs''. ([http://lavacutcontent.com/ken-sugimori-eevee-origins/ English translation] written by Anthony Madry and commissioned by Dr. Lava)</ref><ref>[https://twitter.com/atsuko_nishida/status/783643367523557376 Tweet by AtsukoNishida (@atsuko_nishida).] Posted on October 5, 2016.</ref>
+
+===Origin===
+Similar to most Eeveelutions, Vaporeon's overall design shares characteristics with multiple different mammalian species such as {{wp|Canidae|dogs}}, {{wp|Felidae|cats}}, and {{wp|fox}}es. Due to its aquatic motif, it also seems to have elements of {{wp|fish}} and {{wp|Cetacea|cetaceans}}. It may also involve a pun on {{wp|catfish}}.
+
+According to Atsuko Nishida, Vaporeon and especially its tail were designed with the idea of {{wp|mermaid}}s in mind.<ref name=EVs/> Similarly, it may also draw some inspiration from {{wp|List of aquatic humanoids|fish people}} in general, often represented in popular culture as having fins for ears and green or blue skin. The ability to become invisible and turn into water might be inspired by some water {{wp|fairies}}, such as the {{wp|asrai}}. 
+
+Vaporeon's chimeric aspect of having a fish tail is similar to many legendary creatures, such as the {{wp|sea goat}} and the {{wp|Hippocampus (mythology)|hippocamp}}. Noticeably, due to the fringe around its neck resembling a {{wp|ruff (clothing)|ruff}} and a {{wp|lion}}'s mane, Vaporeon also shares similarities with the heraldic {{wp|sea-lion}} or the similar-looking {{wp|Merlion}}. 
+
+====Name origin====
+Vaporeon may be a combination of ''vapor'' and ''eon'' (an immeasurably long period of time, possibly referring to how long {{wp|evolution}} takes naturally). ''Eon'' is a suffix all {{p|Eevee}} [[Evolution]]s share and was Eevee's English prototype name.
+
+Showers is literally ''showers'', referring to a bathroom {{wp|shower}} or {{wp|Shower (precipitation)|rain shower}}.
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=シャワーズ ''Showers''|jameaning=From ''showers''
+|fr=Aquali|frmeaning=From ''aqua'' and ''-li'' (common suffix for all Eeveelutions in French)
+|es=Vaporeon|esmeaning=Same as English name
+|de=Aquana|demeaning=From ''aqua'' and ''-a'' (common suffix for all Eeveelutions in German)
+|it=Vaporeon|itmeaning=Same as English name
+|ko=샤미드 ''Shamid''|komeaning=From ''shower'' and ''mermaid''
+|zh_cmn=水伊布 ''Shuǐyībù''{{tt|*|Games, Post-Gen VII media}}<br>水精靈 / 水精灵 ''Shuǐjīnglíng''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|水 ''shuǐ''|water}} and 伊布 ''{{p|Eevee|Yībù}}''<br>From {{tt|水 ''shuǐ''|water}} and {{tt|精靈 / 精灵 ''jīnglíng''|spirit, fairy, elf; former suffix for Eeveelutions in Mandarin}}
+|zh_yue=水伊布 ''Séuiyībou''{{tt|*|Games, Post-Gen VII media}}<br>水伊貝 ''Séuiyībui''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|水 ''séui''|water}} and 伊布 ''{{p|Eevee|Yībou}}''<br>From {{tt|水 ''séui''|water}} and {{tt|伊貝 ''Yībui''|former translation of Eevee}}
+|hi={{tt|नीरीवी|Nīrīvī}} ''Neereevee''|himeaning=From नीर {{tt|''neer''|water}} and ''Eevee''
+|ru=Вапореон ''Vaporeon''|rumeaning=Transcription of English name
+|th=ชาวเวอร์ส ''Chaowoet''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Vee]]
+* [[Vaporeon (MPJ)]]
+
+==References==
+<references />
+
+==External links==
+{{Eeveelutions}}
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0133|prev=Eevee|nextnum=0135|next=Jolteon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+
+[[de:Aquana]]
+[[es:Vaporeon]]
+[[fr:Aquali]]
+[[it:Vaporeon]]
+[[ja:シャワーズ]]
+[[zh:水伊布]]

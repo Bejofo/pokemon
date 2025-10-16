@@ -1,0 +1,451 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Karrablast}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0587|prev=Emolga|nextnum=0589|next=Escavalier|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Karrablast
+|jname=カブルモ
+|tmname=Kaburumo
+|category=Clamping
+|typebox=1
+|type1=Bug
+|abilityn=d
+|ability1=Swarm
+|ability2=Shed Skin
+|abilityd=No Guard
+|ndex=0588
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=13.0
+|weight-kg=5.9
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|expyield=63
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|catchrate=200
+|evtotal=1
+|evat=1
+|body=12
+|pokefordex=karrablast
+|generation=5
+|friendship=70
+}}
+'''Karrablast''' ([[List of Japanese Pokémon names|Japanese]]: '''カブルモ''' ''Kaburumo'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Escavalier}} when [[Trade Evolution|traded]] for a {{p|Shelmet}}, a Pokémon that evolves into {{p|Accelgor}} simultaneously. Neither evolves if at least one holds an [[Everstone]] during the trade.
+
+==Biology==
+Karrablast is a round, bipedal {{OBP|Pokémon|species}} with a primarily blue carapace that comprises a horn at the tip. Its black face has a teal patch on its forehead, a fanged mouth, and eyes with orange pupils and yellow sclerae. Its ridged underbelly, or plastron, is yellow, and its stubby arms and legs are black. 
+
+When it senses danger, it spews an acidic liquid from its mouth. It targets its rival {{p|Shelmet}}, so it can evolve through electrical-like energy. Shelmet is also the preferred prey of Karrablast, as it eats the inside after melting the shell.  It resides in forests and fields, and it often hides in trees or grass if threatened.
+
+===Evolution===
+Karrablast evolves into {{p|Escavalier}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center;display:flex; flex-flow:row wrap;">{{evobox-2
+|type1=Bug
+|no1=0588
+|name1=Karrablast
+|type1-1=Bug
+|evo1=
+|no2=0589
+|name2=Escavalier
+|type1-2=Bug
+|type2-2=Steel}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=094|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=155|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as {{p|Shelmet}}.}}
+{{Dex/Entry1|v=White|entry=When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets {{p|Shelmet}}.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=For some reason they evolve when they receive electrical energy while they are attacking {{p|Shelmet}}.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=022|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as {{p|Shelmet}}.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=For some reason they evolve when they receive electrical energy while they are attacking {{p|Shelmet}}.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as {{p|Shelmet}}.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=For some reason they evolve when they receive electrical energy while they are attacking {{p|Shelmet}}.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/5|gen=VIII|reg1=Galar|num1=273|reg2=Galar|num2=066|label2=Isle of Armor|reg3=Galar|num3=095|label3=Crown Tundra|reg4=Sinnoh|reg5=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its strange physiology reacts to electrical energy in interesting ways. The presence of a {{p|Shelmet}} will cause this Pokémon to evolve.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It spits a liquid from its mouth to melt through {{p|Shelmet}}'s shell. Karrablast doesn't eat the shell— it eats only the contents.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|6|Unova}} and {{rtn|11|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|6|Unova}} and {{rtn|11|Unova}}<br>{{rt|8|Unova}}, [[Icirrus City]], [[Moor of Icirrus]]{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Routes]] {{rtn|14|Kalos}} and {{rtn|19|Kalos}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|v=Sword|t=FFF|area={{rt|7|Galar}}, [[Bridge Field]], [[Motostoke Riverbank]], [[Hammerlocke Hills]], [[Giant's Cap]]<br>[[Rolling Fields/Dens|Rolling Fields]], [[Dappled Grove/Dens|Dappled Grove]], [[South Lake Miloch/Dens|South Lake Miloch]], [[Bridge Field/Dens|Bridge Field]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Shield|t=FFF|area={{rt|7|Galar}}, [[Bridge Field]], [[Motostoke Riverbank]], [[Hammerlocke Hills]]<br>[[Rolling Fields/Dens|Rolling Fields]], [[Dappled Grove/Dens|Dappled Grove]], [[South Lake Miloch/Dens|South Lake Miloch]], [[Bridge Field/Dens|Bridge Field]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Forest of Focus]], [[Old Cemetery]]<br>[[Training Lowlands]] ([[Wanderer]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Soothing Shore]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 1|Safari Jungle: Stage 1]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Aegislash Sea]], [[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 528]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Bug}}
+{{eventAvail|{{gameabbrev5|BW}}|Trade for Evolution! Karrablast|Japanese|Japan|30|October 10 to November 28, 2010|link=List of local Japanese event Pokémon distributions in Generation V#Karrablast}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Karrablast|English|Europe|50|June 11 to August 27, 2011|link=List of local English event Pokémon distributions in Generation V#Summer 2011 Karrablast}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Karrablast|French|Europe|50|June 11 to August 27, 2011|link=List of local French event Pokémon distributions in Generation V#2011 Summer Karrablast}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Karrablast|German|Europe|50|June 11 to August 27, 2011|link=List of local German event Pokémon distributions in Generation V#2011 Summer Karrablast}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Karrablast|Italian|Europe|50|June 11 to August 27, 2011|link=List of local Italian event Pokémon distributions in Generation V#2011 Summer Karrablast}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Karrablast|Spanish|Europe|50|June 11 to August 27, 2011|link=List of local Spanish event Pokémon distributions in Generation V#Summer 2011 Karrablast}}
+|}
+
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Bug|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17|March 19 to 25, 2020|link=Wild Area News#March 19 to March 25, 2020}}
+|}
+
+===Held items===
+{{HeldItems|type=Bug
+|event1=Bug Gem|event1type=Gem}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=50
+|Attack=75
+|Defense=45
+|SpAtk=40
+|SpDef=45
+|Speed=60}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+Karrablast is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Karrablast|Bug|Bug|5}}
+{{learnlist/level8|1|Peck|Flying|Physical|35|100|35}}
+{{learnlist/level8|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level8|4|Fury Cutter|Bug|Physical|40|95|20||'''}}
+{{learnlist/level8|8|Endure|Normal|Status|—|—|10}}
+{{learnlist/level8|12|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/level8|16|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/level8|20|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level8|24|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level8|28|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level8|32|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/level8|36|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/level8|40|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level8|44|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level8|48|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/levelf/8|Karrablast|Bug|Bug|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Karrablast|Bug|Bug|5}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM26|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM94|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR28|Megahorn|Bug|Physical|120|85|10||'''}}
+{{learnlist/tr|TR30|Encore|Normal|Status|—|100|5}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR57|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tr|TR60|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tr|TR61|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR87|Drill Run|Ground|Physical|80|95|10}}
+{{learnlist/tmf/8|Karrablast|Bug|Bug|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Karrablast|Bug|Bug|5}}
+{{learnlist/breed8|{{MSP/8c|010|Caterpie}}{{MSP/8c|012|Butterfree}}{{MSP/8c|127|Pinsir}}{{MSP/8c|213|Shuckle}}{{MSP/8c|291|Ninjask}}{{MSP/8c|415|Combee}}{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}{{MSP/8c|543|Venipede}}{{MSP/8c|544|Whirlipede}}{{MSP/8c|545|Scolipede}}{{MSP/8c|557|Dwebble}}{{MSP/8c|558|Crustle}}{{MSP/8c|595|Joltik}}{{MSP/8c|596|Galvantula}}{{MSP/8c|632|Durant}}{{MSP/8c|636|Larvesta}}{{MSP/8c|637|Volcarona}}{{MSP/8c|736|Grubbin}}{{MSP/8c|737|Charjabug}}{{MSP/8c|738|Vikavolt}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|768|Golisopod}}{{MSP/8c|850|Sizzlipede}}{{MSP/8c|851|Centiskorch}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed8|{{MSP/8c|214|Heracross}}|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/breed8|{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed8|{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed8|{{MSP/8c|123|Scyther}}{{MSP/8c|212|Scizor}}{{MSP/8c|291|Ninjask}}{{MSP/8c|557|Dwebble}}{{MSP/8c|558|Crustle}}{{MSP/8c|595|Joltik}}{{MSP/8c|596|Galvantula}}{{MSP/8c|768|Golisopod}}|Slash|Normal|Physical|70|100|20}}
+{{learnlist/breedf/8|Karrablast|Bug|Bug|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Karrablast|Bug|Bug|5}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Karrablast|Bug|Bug|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Karrablast|Bug|Bug|5}}
+{{learnlist/prevgen8|Karrablast|5|Aerial Ace|Flying|Physical|60|—|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Karrablast|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Karrablast|5|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Karrablast|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Karrablast|5|Feint Attack|Dark|Physical|60|—|20|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Karrablast|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Karrablast|5|Fury Attack|Normal|Physical|15|85|20|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->}}
+{{learnlist/prevgen8|Karrablast|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Karrablast|5|Horn Attack|Normal|Physical|65|100|25|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->}}
+{{learnlist/prevgen8|Karrablast|5|Infestation|Bug|Special|20|100|20||'''|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Karrablast|5|Pursuit|Dark|Physical|40|100|20|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Karrablast|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Karrablast|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Karrablast|5|Signal Beam|Bug|Special|75|100|15||'''|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Karrablast|5|Struggle Bug|Bug|Special|50|100|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Karrablast|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Karrablast|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Karrablast|Bug|Bug|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/PSMD|col=6|type=Bug|ndex=588
+|coset=3
+|conto={{p|Spinarak}}
+|recruitment=Traveling Pokémon
+|P1=I like to wear something on my head. ♪ Things like hats…helmets… Even wigs are a blast!
+|P2=Is this the straw that breaks the Karrablast?
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=588
+|walk=2.08
+|hp=48
+|attack=70
+|defense=46
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=588
+|pad=He is {{p|Pawniard}}'s friend. He is busy playing, but someday he wants to be a strong knight to protect the [[Arbor Area]].
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=588
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=588|num=666
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Final Effort
+|skilldesc=Deals a ton of damage when there are no more moves left.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=588
+|hatch=N/A
+|buddy=3
+|candy=Karrablast
+|evocandy=200 or [[File:GO Trade icon.png|20px|link=Trade (GO)|Trade Evolution]]
+|stamina=137
+|attack=137
+|defense=87
+|fast={{m|Peck}}, {{m|Fury Cutter}}
+|special={{m|Signal Beam}}, {{m|X-Scissor}}, {{m|Drill Run}}, {{m|Aerial Ace}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|type1=Bug
+|no1=0588
+|name1=Karrablast
+|type1-1=Bug
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]]  [[File:Menu HOME 0616.png|40px|link=Shelmet (Pokémon)]]<br>{{color2|000|Trade}}<br><small>for {{pcolor|Shelmet|000}}
+|no2=0589
+|name2=Escavalier
+|type1-2=Bug
+|type2-2=Steel
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=588}}
+{{Spritebox/6|ndex=588|crop=68}}
+{{Spritebox/7|ndex=588|crop=68}}
+{{Spritebox/8|ndex=588}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0588}}
+{{Spritebox/Footer|588|Karrablast}}
+
+==In animation==
+[[File:Juniper Karrablast.png|thumb|250px|Karrablast in {{aniseries|BW}}]]
+===Major appearances===
+Karrablast physically debuted in ''[[BW063|Evolution Exchange Excitement!]]'', where [[Professor Juniper]] [[trade]]d it to {{an|Bianca}} for her {{p|Shelmet}} so it could [[Evolution|evolve]]. The trade ended with Karrablast evolving into {{p|Escavalier}}.
+
+In ''[[BW095|Unrest at the Nursery!]]'', a Karrablast was living at a [[Pokémon Day Care]] not far from [[Humilau City]].
+
+===Minor appearances===
+Karrablast debuted in a fantasy in ''[[BW062|Crisis at Chargestone Cave!]]''.
+
+In ''[[BW090|Jostling for the Junior Cup!]]'', [[Marris]]'s Karrablast battled {{Ash}} in the [[Pokémon World Tournament Junior Cup]] but lost to {{AP|Leavanny}} in the first round.
+
+A {{pkmn|Trainer}}'s Karrablast appeared in ''[[BW112|Team Plasma's Pokémon Power Plot!]]''.
+
+In ''[[PK27|Pikachu and the Pokémon Music Squad]]'', a Karrablast was living in a forest.
+
+A Trainer's Karrablast appeared in ''[[HZ047|Put Your Heart Into It!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW063|Karrablast|Ash's Pokédex|Karrablast, the Clamping Pokémon. Karrablast live in forests and fields, and often hide in trees or grass when threatened. They can also defend themselves by spitting acid.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:Whitley Karrablast Adventures.png|thumb|200px|Karrablast in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+In ''[[PS478|Big City Battles]]'', a Karrablast was briefly seen under the ownership of one of [[Castelia City]]'s residents.
+
+A Karrablast appeared in ''[[PS493|Underground Showdown]]''.
+
+Two Karrablast appeared in a fantasy in ''[[PS507|A Misunderstanding]]''.
+
+In ''[[PS536|Cold Storage Battle]]'', a Karrablast was stolen from an executive member of the [[Autumn Choir Tournament]] in Castelia City. The thieves were part of [[Team Plasma]]'s new faction, who ran into the [[Castelia Sewers]]. Karrablast was later abandoned at the sewers, along with the rest of the Pokémon that had been stolen.
+
+A Karrablast was {{pkmn2|caught}} by {{adv|Whitley}} in ''[[PS543|Abyssal Ruins]]''. In the same chapter, it was [[trade]]d to {{adv|Blake}} for his {{p|Shelmet}} and subsequently evolved into Escavalier.
+
+A Karrablast in ''[[PS585|Pinsir Changes]]'' was one of the Pokémon that had its life-force drained.
+
+==In the TCG==
+{{main|Karrablast (TCG)}}
+
+==Trivia==
+*Karrablast and {{p|Shelmet}} are the only {{OBP|Pokémon|species}} that have to be [[trade]]d for a specific Pokémon to evolve, having to be traded for each other.
+
+===Origin===
+Karrablast's name, its capacity of producing corrosive substances as a method of protection, and its penchant for attacking {{p|Shelmet}} suggest it is inspired by a {{wp|ground beetle}}. In an interview, [[Ken Sugimori]] confirmed that the original idea for Karrablast, as suggested by [[Atsuko Nishida]], was a snail-eating beetle based on the ''{{wp|Carabus smaragdinus}}'' species.<ref>''Nintendo Dream'' Vol. 201, January 2011 ([http://lavacutcontent.com/ken-sugimori-nintendo-dream-3/ Translation by Dr. Lava])</ref> Its horn, which may have also been inspired by {{wp|Dynastinae|rhinoceros beetles}}, somewhat resembles an escargot fork.
+
+Karrablast and Shelmet's relationship may be a reference to {{wp|coevolution}}, where the {{wp|evolution}} of one species is influenced by changes in another species; in this case, the relationship between predator and prey.
+
+====Name origin====
+Karrablast may be a combination of ''{{wp|Carabus}}'' (genus of beetles belonging to the {{wp|ground beetle}} family), κέρατο ''kérato'' (Greek for ''horn''), or ''{{wp|carapace}}'' (the upper half of a shell, which is commonly, albeit incorrectly, associated with beetles), and ''blast'' (referring to its defense mechanism) or ''plastron'' (French for chestplate). It may also be derived from ''{{wp|Carabus blaptoides}}'', a species of ground beetle endemic to Japan.
+
+Kaburumo may be derived from 蝸牛被  ''maimaikaburi'' (''Carabus blaptoides'') and 甲虫 ''kabutomushi'' (beetle).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=カブルモ ''Kaburumo''|jameaning=From {{tt|蝸牛被 ''maimaikaburi''|Carabus blaptoides}} and {{tt|甲虫 ''kabutomushi''|beetle}}
+|fr=Carabing|frmeaning=From ''{{tt|carabe|ground beetle}}'' or ''{{tt|scarabée|scarab beetle}}'' and ''{{tt|bing|onomatopeia indicating a sudden action or a collision}}''
+|es=Karrablast|esmeaning=Same as English name
+|de=Laukaps|demeaning=From ''{{tt|lauern|to lurk}}'' or ''{{tt|Laufkäfer|ground beetle}}'' and ''{{tt|Kapsel|capsule}}''
+|it=Karrablast|itmeaning=Same as English name
+|ko=딱정곤 ''Ttakjeonggon''|komeaning=From {{tt|딱정벌레 ''ttakjeongbeollae''|beetle}} and {{tt|곤충 (昆蟲) ''gonchung''|insect}}
+|zh_cmn=蓋蓋蟲 / 盖盖虫 ''Gàigàichóng''|zh_cmnmeaning=From {{tt|蓋 / 盖 ''gài''|covering}} and {{tt|蟲 / 虫 ''chóng''|bug, worm}}
+|zh_yue=蓋蓋蟲 ''Goigoichùhng''|zh_yuemeaning=From {{tt|蓋 ''goi''|covering}} and {{tt|蟲 ''chùhng''|bug, worm}}
+|hi=कवरीटल ''Covereetle''|himeaning=From ''cover'' and ''beetle''
+|ru=Каррабласт ''Karrablast''|rumeaning=Transcription of English name
+|th=คาบูรูโมะ ''Khaburumo''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0587|prev=Emolga|nextnum=0589|next=Escavalier}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that evolve through trading]]
+[[Category:Pokémon that evolve through a unique method]]
+[[de:Laukaps]]
+[[es:Karrablast]]
+[[fr:Carabing]]
+[[it:Karrablast]]
+[[ja:カブルモ]]
+[[zh:盖盖虫]]

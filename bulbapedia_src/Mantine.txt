@@ -1,0 +1,784 @@
+{{PokémonPrevNext/Head|type=Water|type2=Flying}}
+{{PokémonPrevNext/GO|species=Mantine}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0225|prev=Delibird|nextnum=0227|next=Skarmory|round=none}}
+{{PokémonPrevNext/Disambig|species=Mantine}}
+|}
+{{Pokémon Infobox
+|name=Mantine
+|jname=マンタイン
+|tmname=Mantain
+|ndex=0226
+|type1=Water
+|type2=Flying
+|category=Kite
+|height-ftin=6'11"
+|height-m=2.1
+|weight-lbs=485.0
+|weight-kg=220.0
+|abilitylayout=2
+|ability1=Swift Swim
+|ability2=Water Absorb
+|abilityd=Water Veil
+|egggroupn=1
+|egggroup1=Water 1
+|eggcycles=25
+|evtotal=2
+|evsd=2
+|expyield=170<!--163 in Gen V-VI-->
+|oldexp=168
+|lv100exp=1,250,000
+|gendercode=127
+|color=Purple
+|catchrate=25
+|body=09
+|pokefordex=mantine
+|generation=2
+|friendship=70
+}}
+'''Mantine''' ([[List of Japanese Pokémon names|Japanese]]: '''マンタイン''' ''Mantain'') is a dual-type {{2t|Water|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Mantyke}} when [[level]]ed up with a {{p|Remoraid}} in the [[party]].
+
+==Biology==
+Mantine is a large, {{wp|Batoidea|ray-like}} {{OBP|Pokémon|species}}. Its body is dark blue on the overside, and it has large wing-like fins, with a black ring-shaped mark on the top of either fin, and a jagged outline on the front rim at the bottom. Its head has two long protrusions resembling horns or antennae, and two more black ring-shaped marks on the back. Two pairs of gills are visible on its pinkish gray underside, as well as a pair of beady eyes and a small mouth. Its body has a coarse texture.
+
+Mantine thrives in {{DL|List of Pokémon by habitat|Sea Pokémon|open seas}} where it swims freely, often in schools where they race one another. It can breach out of the water and fly 300 feet (100 meters) into the air if it builds up enough speed. [[Pokémon Legends: Arceus|In the past]], it was often misidentified as a bird Pokémon by observers who saw this behavior. Mantine is sometimes seen with a {{p|Remoraid}} attached to the underside of one of its fins, scavenging for its leftovers and fighting together with it when attacked. Mantine has a docile nature, and does not mind the Remoraid clinging onto its fin.
+
+In [[Alola]], many surfers ride waves and travel between islands [[Mantine Surf|on the backs of Mantine]]. This has made it an icon in the region, being featured on souvenir postcards and posters.
+
+===Evolution===
+Mantine evolves from {{p|Mantyke}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Water
+|type2=Flying
+|pictype=art
+|no1=0458
+|name1=Mantyke
+|type1-1=Water
+|type2-1=Flying
+|evo1=
+|no2=0226
+|name2=Mantine
+|type1-2=Water
+|type2-2=Flying}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Flying}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=197}}
+{{Dex/Entry1|v=Gold|entry=As it majestically swims, it doesn't care if <sc>{{p|Remoraid}}</sc> attach to it for scavenging its leftovers.}}
+{{Dex/Entry1|v=Silver|entry=Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.}}
+{{Dex/Entry1|v=Crystal|entry=It swims along freely, eating things that swim into its mouth. Its whole body is very coarse.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=As it majestically swims, it doesn't care if <sc>Remoraid</sc> attach to it for scavenging its leftovers. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.  <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=On sunny days, schools of <sc>Mantine</sc> can be seen elegantly leaping over the sea's waves. This {{ScPkmn}} is not bothered by the <sc>Remoraid</sc> that hitches rides.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=On sunny days, schools of <sc>Mantine</sc> can be seen elegantly leaping over the waves. It is not bothered by the <sc>Remoraid</sc> that hitches rides.}}
+{{Dex/Entry1|v=FireRed|entry=Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.}}
+{{Dex/Entry1|v=LeafGreen|entry=As it majestically swims, it doesn't care if <sc>Remoraid</sc> attach to it to scavenge for its leftovers.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=141|reg2=Johto|num2=202}}
+{{Dex/Entry1|v=Diamond|entry=When the waves are calm, one may encounter a swarm of <sc>Mantine</sc> swimming as if they are in flight.}}
+{{Dex/Entry1|v=Pearl|entry=It swims elegantly, mindless of <sc>Remoraid</sc> hitching on to its broad fins. It has a docile nature.}}
+{{Dex/Entry1|v=Platinum|entry=While elegantly swimming in the sea, it ignores <sc>Remoraid</sc> that cling to its fins seeking food scraps.}}
+{{Dex/Entry1|v=HeartGold|entry=As it majestically swims, it doesn't care if <sc>Remoraid</sc> attach to it for scavenging its leftovers.}}
+{{Dex/Entry1|v=SoulSilver|entry=Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=234|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=While elegantly swimming in the sea, it ignores {{p|Remoraid}} that cling to its fins seeking food scraps.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=If it builds up enough speed swimming, it can fly over {{tt|300 feet|100 meters}} out of the water from the surface of the ocean.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=140|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=If it builds up enough speed swimming, it can fly over {{tt|300 feet|100 meters}} out of the water from the surface of the ocean.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=While elegantly swimming in the sea, it ignores {{p|Remoraid}} that cling to its fins seeking food scraps.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the {{p|Remoraid}} that hitches rides.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=146|label1={{gameIcon|US}}{{gameIcon|UM}}:|reg2=Kanto}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Postcards and posters featuring Mantine leaping elegantly above the waves are popular souvenirs of Alola.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Many people have taken up surfing because they admire how magnificently Mantine swims.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=355|reg2=Galar|num2=047|label2=Isle of Armor|reg3=Sinnoh|num3=141|reg4=Hisui|num4=165}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=If it builds up enough speed swimming, it can jump out above the waves and glide for over {{tt|300 feet|100 meters}}.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=As it majestically swims, it doesn't care if {{p|Remoraid}} attach to it to scavenge for its leftovers.}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=When the waves are calm, one may encounter a swarm of Mantine swimming as if they are in flight.}}
+{{Dex/Entry1|v=Shining Pearl|entry=It swims elegantly, mindless of {{p|Remoraid}} hitching onto its broad fins. It is naturally docile.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=This calm and gentle Pokémon swims gracefully through the sea. After building speed, it can leap out of the water. It is often misidentified as a bird Pokémon due to this behavior.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{water color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{water color light}}| [[File:Pokédex Image Mantine USUM.png|x200px]]
+|-
+| Mantine in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area={{rt|41|Johto}}}}
+{{Availability/Entry1/None|1|v=Silver|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1|1|v=Crystal|area={{rt|41|Johto}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1/None|v=Emerald|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1/None|v=FireRed|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1|v=LeafGreen|area=[[Tanoby Ruins]], [[Trainer Tower]]}}
+{{Availability/Entry1|v=Colosseum|area=[[Pyrite Bldg]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}<br>[[Pyrite Cave]] (if not [[Snagging|snagged]] in Pyrite Bldg)}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Mantyke}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Mantyke}}}}
+{{Availability/Entry1|v=HeartGold|area={{rt|41|Johto}}}}
+{{Availability/Entry1/None|v=SoulSilver}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Undella Town]], [[Undella Bay]] ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Undella Bay]]{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}, {{rt|21|Unova}} ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Sparkling Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Mantyke}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Battle Resort]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Mantyke}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|9|Galar}} ([[Fishing]] or {{m|Surf}}ing)<br>[[Lake of Outrage]] ({{m|Surf}}ing)<br>[[East Lake Axewell/Dens|East Lake Axewell]], [[West Lake Axewell/Dens|West Lake Axewell]], [[South Lake Miloch/Dens|South Lake Miloch]], [[North Lake Miloch/Dens|North Lake Miloch]], [[Giant's Mirror/Dens|Giant's Mirror]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Fields of Honor/Dens|Fields of Honor]], [[Loop Lagoon/Dens|Loop Lagoon]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Mantyke}}}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Cobalt Coastlands]]:''' [[Tranquility Cove]] (additional&nbsp;[[File:Alpha icon.png|link=Alpha Pokémon|14px]]), massive [[mass outbreak]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 14]], Endless Level 12, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry1|1|v=MD Red|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Grand Sea]] (30F)}}
+{{Availability/Entry1/None|1|v=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Wonder Mail]] code}}
+{{Availability/Entry1|1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Safra Sea]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Miracle Sea]] (B1F-B18F, Deep Miracle Sea B1F-B3F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Miracle Sea]] (B1F-B18F, Deep Miracle Sea B1F-B3F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Puel Sea]], [[Sea of Wailord]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Eastern Sea]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Challenger's Ground]] <small>(Post-ending)</small>}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#Empoleon the Great|Variety Battle: Empoleon the Great]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 3|Distortion Island: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Seabreeze Trail|White Ruins: Seabreeze Trail]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Rowlet Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Arceus Sea]], [[Rowlet Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Grand Sea]] (28F-29F)<br/>Mystery House: [[Grand Sea]], [[Far-Off Sea]], [[Fantasy Strait]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Maricopia Reef]], [[Lental Seafloor]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX45]]}}
+|}
+|}
+{{Availability/Footer}}
+
+Mantine will not appear in Pokémon Mystery Dungeon: Blue Rescue Team until a rescue mission involving it has been completed, using a Wonder Mail code such as the following:
+:4 ? ? N 2 2 ... ? ? Q 6 J
+:H 3 ? ♂ 8 4 7 0 J N ? W
+:Objective: Escort {{p|Kirlia}} to Mantine on floor 3 of [[Tiny Woods]].
+
+====In events====
+{{eventAvail/h|type=Water|type2=Flying}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Gust Mantine|English|United States|5|July 12 to August 8, 2002|link=List of PCNY event Pokémon distributions in Generation II#Gust Mantine}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Third Campaign Mantine|Japanese|Japan|10|January 14 to 29, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Mantine}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Water|type2=Flying}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Sky Tumblestone|35|Ball of Mud|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+======Generation II to VI======
+{{BaseStats
+|type=Water
+|type2=Flying
+|HP=65
+|Attack=40
+|Defense=70
+|SpAtk=80
+|SpDef=140
+|Speed=70}}
+
+======Generation VII onwards======
+{{BaseStats
+|type=Water
+|type2=Flying
+|HP=85
+|Attack=40
+|Defense=70
+|SpAtk=80
+|SpDef=140
+|Speed=70}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Flying
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Flying
+|Normal=  100
+|Fighting= 50
+|Flying=  100
+|Poison=  100
+|Ground=    0
+|Rock=    200
+|Bug=      50
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   100
+|Electric=400
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|waterabsorb=maybe
+|flying=yes
+|newground=1}}
+
+===Learnset===
+Mantine is available in {{pkmn|Sword and Shield}}, {{pkmn|Brilliant Diamond and Shining Pearl}}, and [[Pokémon Legends: Arceus]].
+
+====By [[Level|leveling up]]====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/levelh/8|Mantine|Water|Flying|2}}
+{{learnlist/level8|1|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level8|1|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/level8|1|Roost|Flying|Status|—|—|10}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level8|1|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level8|1|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level8|12|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level8|16|Wide Guard|Rock|Status|—|—|10}}
+{{learnlist/level8|20|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level8|24|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level8|28|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level8|32|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level8|36|Aqua Ring|Water|Status|—|—|20}}
+{{learnlist/level8|40|Bounce|Flying|Physical|85|85|5||'''}}
+{{learnlist/level8|44|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level8|48|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/8|Mantine|Water|Flying|2}}
+
+{{gameabbrev8|LA}}
+{{learnlist/levelh/LA|Mantine|Water|Flying|2}}
+{{learnlist/levelLA|1|9|Tackle|Normal|Physical|40|50|30|100|100|30||}}
+{{learnlist/levelLA|5|14|Bubble|Water|Special|40|50|30|100|100|25||'''}}
+{{learnlist/levelLA|9|18|Aerial Ace|Flying|Physical|60|75|45|—|—|20||'''}}
+{{learnlist/levelLA|15|25|Water Pulse|Water|Special|60|75|45|—|—|20||'''}}
+{{learnlist/levelLA|21|31|Air Slash|Flying|Special|75|90|60|95|100|10||'''}}
+{{learnlist/levelLA|29|40|Roost|Flying|Status|—|—|—|—|—|10||}}
+{{learnlist/levelLA|37|48|Hydro Pump|Water|Special|100|120|80|85|95|5||'''}}
+{{learnlist/levelLA|47|59|Double-Edge|Normal|Physical|100|120|80|100|100|5||}}
+{{learnlist/levelf/8|Mantine|Water|Flying|2}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Mantine|Water|Flying|2}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM45|Dive|Water|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM50|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/tm8|TM52|Bounce|Flying|Physical|85|85|5||'''}}
+{{learnlist/tm8|TM54|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM78|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm8|TM95|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tr|TR10|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR16|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tr|TR17|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR59|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tr|TR73|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tr|TR74|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tr|TR84|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tr|TR89|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/tr|TR98|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tr|TR99|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tmf/8|Mantine|Water|Flying|2}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Mantine|Water|Flying|2}}
+{{learnlist/tm8|TM03|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm8|TM07|Hail|Ice|Status|—|—|10||}}
+{{learnlist/tm8|TM09|Bullet Seed|Grass|Physical|25|100|30||}}
+{{learnlist/tm8|TM13|Ice Beam|Ice|Special|90|100|10||}}
+{{learnlist/tm8|TM14|Blizzard|Ice|Special|110|70|5||}}
+{{learnlist/tm8|TM15|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM18|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm8|TM26|Earthquake|Ground|Physical|100|100|10||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|—|—|15||}}
+{{learnlist/tm8|TM39|Rock Tomb|Rock|Physical|60|95|15||}}
+{{learnlist/tm8|TM40|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|—|—|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|—|100|15||}}
+{{learnlist/tm8|TM49|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm8|TM51|Roost|Flying|Status|—|—|10||}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM68|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm8|TM80|Rock Slide|Rock|Physical|75|90|10||}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM83|Bulldoze|Ground|Physical|60|100|20||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|—|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM95|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm8|TM97|Defog|Flying|Status|—|—|15||}}
+{{learnlist/tm8|TM99|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tmf/8|Mantine|Water|Flying|2}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Mantine|Water|Flying|2}}
+{{learnlist/breed8|{{MSP/8c|131|Lapras}}|Confuse Ray|Ghost|Status|—|100|10|grid=7}}
+{{learnlist/breed8|{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}|Haze|Ice|Status|—|—|30|grid=7}}
+{{learnlist/breed8|{{MSP/8c|222|Corsola}}{{MSP/8c|222G|Corsola}}{{MSP/8c|864|Cursola}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}|Mirror Coat|Psychic|Special|—|100|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|147|Dratini}}{{MSP/8c|148|Dragonair}}{{MSP/8c|149|Dragonite}}{{MSP/8c|183|Marill}}{{MSP/8c|184|Azumarill}}{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}|Slam|Normal|Physical|80|75|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|349|Feebas}}{{MSP/8c|350|Milotic}}{{MSP/8c|692|Clauncher}}{{MSP/8c|693|Clawitzer}}|Splash|Normal|Status|—|—|40|grid=7}}
+{{learnlist/breed8|{{MSP/8c|279|Pelipper}}|Tailwind|Flying|Status|—|—|15|grid=7}}
+{{learnlist/breed8|{{MSP/8c|116|Horsea}}{{MSP/8c|117|Seadra}}{{MSP/8c|230|Kingdra}}{{MSP/8c|147|Dratini}}{{MSP/8c|148|Dragonair}}{{MSP/8c|149|Dragonite}}{{MSP/8c|350|Milotic}}|Twister|Dragon|Special|40|100|20|grid=7}}
+{{learnlist/breedf/8|Mantine|Water|Flying|2}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Mantine|Water|Flying|2}}
+{{learnlist/breed8|{{MSP/H|0054|Psyduck}}{{MSP/H|0055|Golduck}}{{MSP/H|0079|Slowpoke}}{{MSP/H|0080|Slowbro}}{{MSP/H|0199|Slowking}}{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0258|Mudkip}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0368|Gorebyss}}{{MSP/H|0399|Bidoof}}{{MSP/H|0400|Bibarel}}|Amnesia|Psychic|Status|—|—|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0131|Lapras}}{{MSP/H|0226|Mantine}}|Confuse Ray|Ghost|Status|—|100|10|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0283|Surskit}}{{MSP/H|0284|Masquerain}}|Haze|Ice|Status|—|—|30|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0007|Squirtle}}{{MSP/H|0008|Wartortle}}{{MSP/H|0009|Blastoise}}{{MSP/H|0054|Psyduck}}{{MSP/H|0055|Golduck}}{{MSP/H|0060|Poliwag}}{{MSP/H|0061|Poliwhirl}}{{MSP/H|0062|Poliwrath}}{{MSP/H|0186|Politoed}}{{MSP/H|0116|Horsea}}{{MSP/H|0117|Seadra}}{{MSP/H|0230|Kingdra}}{{MSP/H|0131|Lapras}}{{MSP/H|0138|Omanyte}}{{MSP/H|0139|Omastar}}{{MSP/H|0158|Totodile}}{{MSP/H|0159|Croconaw}}{{MSP/H|0160|Feraligatr}}{{MSP/H|0183|Marill}}{{MSP/H|0184|Azumarill}}{{MSP/H|0223|Remoraid}}{{MSP/H|0224|Octillery}}{{MSP/H|0226|Mantine}}{{MSP/H|0258|Mudkip}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0279|Pelipper}}{{MSP/H|0350|Milotic}}{{MSP/H|0367|Huntail}}{{MSP/H|0368|Gorebyss}}{{MSP/H|0369|Relicanth}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}|Hydro Pump|Water|Special|110|80|5||'''|grid=8}}
+{{learnlist/breed8|{{MSP/H|0222|Corsola}}|Mirror Coat|Psychic|Special|—|100|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0147|Dratini}}{{MSP/H|0148|Dragonair}}{{MSP/H|0149|Dragonite}}{{MSP/H|0183|Marill}}{{MSP/H|0184|Azumarill}}{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}|Slam|Normal|Physical|80|75|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0183|Marill}}{{MSP/H|0184|Azumarill}}{{MSP/H|0349|Feebas}}{{MSP/H|0350|Milotic}}|Splash|Normal|Status|—|—|40|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0279|Pelipper}}|Tailwind|Flying|Status|—|—|15|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0116|Horsea}}{{MSP/H|0117|Seadra}}{{MSP/H|0230|Kingdra}}{{MSP/H|0147|Dratini}}{{MSP/H|0148|Dragonair}}{{MSP/H|0149|Dragonite}}{{MSP/H|0350|Milotic}}|Twister|Dragon|Special|40|100|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0226|Mantine}}|Wide Guard|Rock|Status|—|—|10|||grid=8}}
+{{learnlist/breedf/8|Mantine|Water|Flying|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/tutorh/8|Mantine|Water|Flying|2}}
+{{learnlist/tutor8|Dual Wingbeat|Flying|Physical|40|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Mantine|Water|Flying|2}}
+
+{{gameabbrev8|LA}}
+{{learnlist/tutorh/PLA|Mantine|Water|Flying|2}}
+{{learnlist/tutorPLA|Aerial Ace|Flying|Physical|60|75|45|—|—|20||'''}}
+{{learnlist/tutorPLA|Aqua Tail|Water|Physical|85|105|65|90|100|10||'''}}
+{{learnlist/tutorPLA|Bulldoze|Ground|Physical|60|75|45|100|100|20||}}
+{{learnlist/tutorPLA|Giga Impact|Normal|Physical|120|150|100|90|95|5||}}
+{{learnlist/tutorPLA|Hyper Beam|Normal|Special|120|150|100|90|95|5||}}
+{{learnlist/tutorPLA|Ice Beam|Ice|Special|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|Icy Wind|Ice|Special|60|75|45|95|100|20||}}
+{{learnlist/tutorPLA|Iron Head|Steel|Physical|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|Power Shift|Normal|Status|—|—|—|—|—|10||}}
+{{learnlist/tutorPLA|Rest|Psychic|Status|—|—|—|—|—|10||}}
+{{learnlist/tutorPLA|Rock Slide|Rock|Physical|75|90|60|90|100|10||}}
+{{learnlist/tutorPLA|Swift|Normal|Special|60|75|45|—|—|20||}}
+{{learnlist/tutorPLA|Water Pulse|Water|Special|60|75|45|—|—|20||'''}}
+{{learnlist/tutorf/8|Mantine|Water|Flying|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Mantine|Water|Flying|2}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Mantine|Water|Flying|2}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Mantine|Water|Flying|2}}
+{{learnlist/prevgen8|Mantine|2|Aerial Ace|Flying|Physical|60|—|20||'''|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mantine|2|Air Cutter|Flying|Special|60|95|25||'''|IV=yes<!--tutor-->|V=event<!--{{dwa|Sparkling Sea}}-->}}
+{{learnlist/prevgen8|Mantine|2|Aqua Tail|Water|Physical|90|90|10||'''|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mantine|2|Bubble|Water|Special|40|100|30||'''|II=yes<!--level-->|III=yes<!--level-->|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Mantine|2|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mantine|2|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mantine|2|Curse|Ghost|Status|—|—|10|II=yes<!--TM-->}}
+{{learnlist/prevgen8|Mantine|2|Defog|Flying|Status|—|—|15|IV=yes<!--TM-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mantine|2|Double Team|Normal|Status|—|—|15|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mantine|2|Double-Edge|Normal|Physical|120|100|15|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mantine|2|Frustration|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mantine|2|Hidden Power|Normal|Special|60|100|15|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mantine|2|Mimic|Normal|Status|—|—|10|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mantine|2|Mud Sport|Ground|Status|—|—|15|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Mantine|2|Mud-Slap|Ground|Special|20|100|10|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mantine|2|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mantine|2|Return|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mantine|2|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mantine|2|Signal Beam|Bug|Special|75|100|15|IV=yes<!--level,breed,tutor-->|V=yes<!--level,breed,tutor-->|VI=yes<!--level,breed,tutor-->|VII=yes<!--level,breed,tutor-->|x=yes}}
+{{learnlist/prevgen8|Mantine|2|String Shot|Bug|Status|—|95|40|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mantine|2|Swagger|Normal|Status|—|85|15|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mantine|2|Toxic|Poison|Status|—|90|10|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mantine|2|Water Sport|Water|Status|—|—|15|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgenf/8|Mantine|Water|Flying|2}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Flying}}
+{{Spindata/Trozei|col=6|type=Water|ndex=226|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=226
+|body=2
+|rate=9.5
+|area=Serene Sea
+|P1=I don't let little things bother me.
+|P2=Uh-oh... My HP is at half already.
+|P3=I can't keep going... I don't even have the power to swim...
+|PL=I leveled up! Oh, what a glorious feeling it is!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=226
+|body=2
+|rate=8.2
+|IQ=H
+}}
+|-
+{{Spindata/PSMD|col=6|type=Water|ndex=226
+|coset=11
+|conto={{form|Basculin|Blue-Striped}} {{p|Basculin}}
+|recruitment=Find Mantine's precious belonging
+|P1=I want to swim through a huge ocean!
+|P2=I'm exhausted…
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=0
+|field=None
+|loop=8
+|MinEXP=N/A
+|MaxEXP=N/A
+|num=116
+|browser=Mantine leaps out of the water, then charges with its massive body.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Swim
+|fieldpower=-
+|num=091
+|browser=It swims leisurely. It rams to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Cut
+|fieldpower=4
+|past=NA
+|num=063
+|browser=It attacks by spitting bubbles that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=5
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=226
+|walk=1.5
+|hp=56
+|attack=78
+|defense=60
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=226
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|stype=Flying|ndex=226|num=563
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Risk-Taker
+|skilldesc=Increases damage randomly.
+|swapper=Flash Mob
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=226
+|hatch=N/A
+|buddy=5
+|candy=Mantine
+|evolution=N/A
+|stamina=163
+|attack=148
+|defense=226
+|fast={{m|Bubble}}, {{m|Wing Attack}}, {{m|Bullet Seed}}{{tt|*|From Feburary 1, 2019 onward}}
+|special={{m|Water Pulse}}, {{m|Ice Beam}}, {{m|Aerial Ace}}, {{m|Bubble Beam}}{{tt|*|From September 27, 2019 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Water|ndex=226|pdex=102
+|dex=When Mantine swim as a school, they often race one another. Sometimes Mantine will build up so much speed, it leaps right out of the water!}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Water
+|type2=Flying
+|pictype=art
+|no1=0458
+|name1=Mantyke
+|type1-1=Water
+|type2-1=Flying
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Menu HOME 0223.png|40px|link=Remoraid (Pokémon)]]<br>{{color2|000|Level|Level up}}<br>with {{color2|000|Remoraid (Pokémon)|Remoraid}} in {{color2|000|party}}
+|breed={{bag/s|Wave Incense|SV}}<br>{{color2|000|Breed}}<br>holding {{color2|000|Wave Incense}}<br><small>({{color2|000|Generation IV|IV}}–{{color2|000|Generation VIII|VIII}})</small>
+|no2=0226
+|name2=Mantine
+|type1-2=Water
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Flying}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=226}}
+{{Spritebox/3|ndex=226}}
+{{Spritebox/4|ndex=226}}
+{{Spritebox/5|ndex=226}}
+{{Spritebox/6|ndex=226|crop=128}}
+{{Spritebox/7|ndex=226|crop=131}}
+{{Spritebox/8/SwShLA|ndex=226|LAcrop=172}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0226}}
+{{Spritebox/Footer|226|Mantine}}
+
+==In animation==
+===Main series===
+====Major appearances====
+[[File:Mantine EWAYG.png|thumb|250px|Mantine in [[Where Are You Going, Eevee?]]]]
+=====Mantine (recurring)=====
+A recurring Mantine first appeared in {{DL|Where Are You Going, Eevee?|Episode 2|the second episode}} of the [[Where Are You Going, Eevee?]] shorts. It rescued {{p|Eevee}} after it was accidentally knocked off a boat by a passing by {{p|Wailord}}. In {{DL|Where Are You Going, Eevee?|Episode 3|the third episode}} of the segment, they decided to try [[Mantine Surf]]ing on a nearby wave. Eevee initially kept getting knocked off whenever Mantine did a flip, Eevee eventually learned how to time its jumps with Mantine's flips, allowing it to stay on Mantine's back. Mantine reappeared in {{DL|Where Are You Going, Eevee?|Episode 4|the fourth episode}} of the segment, where, after arriving at [[Alola]], it said its farewells to Eevee and headed back out to sea. It reappeared in a flashback in ''[[SM099|We Know Where You're Going, Eevee!]]''.
+
+It made its animated series debut in ''[[SM102|Alola, Alola!]]'', where it met up with [[Sandy]] again and helped it Mantine Surf with {{an|Lana}}. Later, it and several other Mantine were captured by {{TRT}} before being rescued by {{Ash}} and {{ashcl}}. Afterwards, it and the other Mantine returned to the sea.
+
+=====Other=====
+[[File:Mantine Remoraid Surf.png|thumb|250px|A Mantine with a {{p|Remoraid}} attached in {{aniseries|AG}}]]
+Mantine debuted in ''[[M03|Spell of the Unown: Entei]]'' as one of the illusory Pokémon [[Molly Hale]] created in her dream world, thanks to the {{OBP|Unown|M03}}. It was Molly's second Pokémon during her {{pkmn|battle}} against {{an|Misty}}, where it faced off against {{TP|Misty|Staryu}}. The outcome of the battle was ultimately left unknown.
+
+Mantine made its animated series debut in ''[[EP214|Mantine Overboard!]]'', where it was seen protecting the [[Silver Wing]].
+
+In ''[[EP256|Just Add Water]]'', [[Dorian]] used a Mantine to attack {{TRT}}, defeating them with {{m|Bubble Beam}}. It was later used to battle [[Misty's Corsola]], but it lost.
+
+In ''[[HS01|A Family That Battles Together Stays Together!]]'', [[Lola]] owns a Mantine, which was used in her battle against [[Brock's Onix]]. It lost despite having the type advantage. Mantine reappeared in a fantasy in ''[[AG177|Grating Spaces!]]''.
+
+Multiple Mantine appeared in ''[[M09|Pokémon Ranger and the Temple of the Sea]]''. [[Jack Walker]] used his [[Capture Styler]] on one of the Mantine passing by him, so it could help Jack get away from [[the Phantom]] during the beginning of the {{pkmn|movie}}. They briefly reappeared in a montage in ''[[M10|The Rise of Darkrai]]'', which chronicled the preceding nine movies.
+
+In ''[[DP039|Steamboat Willies!]]'', an {{OBP|old man|DP039}}'s Mantine helped {{Ash}} and {{an|Dawn}} save its {{pkmn|Trainer}}'s ship from falling off a waterfall. This Mantine was [[Giant Pokémon|bigger than usual]].
+
+In ''[[BW094|The Road to Humilau!]]'', [[Marlon]]'s Mantine battled and defeated {{un|Cameron}}'s {{p|Ferrothorn}} during a [[Gym]] {{pkmn|battle}}, but it later lost to Cameron's {{p|Samurott}}.
+
+In ''[[SM102|Alola, Alola!]]'', Ash, {{ashcl}}, and Misty used multiple Mantine to travel to [[Treasure Island]]. They were later captured by Team Rocket before being freed through the efforts of Ash and the others.
+
+====Minor appearances====
+A Mantine appeared in ''[[PK09|Snorlax Snowman]]''.
+
+Two Mantine appeared in ''[[M05|Pokémon Heroes: Latios & Latias]]''. One escorted {{OBP|Latias|M05}} over to {{Ash}} and {{ashfr}}' boat with the help of two {{p|Chinchou}}, while the other was under the ownership of a competitor in the [[Tour de Alto Mare]].
+
+A Mantine appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A Mantine appeared in ''[[AG094|The Relicanth Really Can]]''.
+
+A {{pkmn|Coordinator}}'s Mantine appeared in ''[[AG180|May, We Harley Drew'd Ya!]]'', with a {{p|Remoraid}} attached to it.
+
+A Mantine appeared in ''[[DP001|Following A Maiden's Voyage!]]''.
+
+Multiple Mantine appeared in ''[[M11|Giratina and the Sky Warrior]]''.
+
+In a flashback in ''[[DP181|Bucking the Treasure Trend!]]'', [[Buck]] used a Mantine to swim underwater.
+
+A Mantine appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+In ''[[XY022|Going for the Gold!]]'', a Mantine was living in the {{DL|Ambrette Town|Ambrette Aquarium}}.
+
+A Mantine appeared in ''[[SM099|We Know Where You're Going, Eevee!]]''.
+
+A Mantine appeared in ''[[JN143|Ride, Lapras, Ride!]]''. It reappeared in a flashback in ''[[JN146|Ash and Latios]]''.
+
+A Mantine appeared in ''[[HZ031|Song Within the Mist]]'' and ''[[HZ032|Lapras's Feelings for its Friends]]'', as part of {{TP|Lucius|Lapras}}'s crew. It reappeared in ''[[HZ087|Guided by the Black Rayquaza!]]'', during a flashback.
+
+A Mantine appeared in ''[[HZ033|Roar of the Black Rayquaza]]''.
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP214|Mantine|Ash's Pokédex|Mantine, the Kite Pokémon. Mantine swims about the ocean majestically, and may fly out of the water if it builds up enough speed.}}
+{{Animedexfooter/Pokémon|Johto}}
+
+===Pokémon: Twilight Wings===
+In ''[[TW04|Early-Evening Waves]]'', two Mantine were living in a lake where [[Nessa]] was doing a photoshoot.
+
+==In the manga==
+[[File:Tibo.png|thumb|250px|Mantine in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+In ''[[PS147|Lively Lugia (Part 2)]]'', {{adv|Gold}} {{pkmn2|caught}} a Mantine and [[nickname]]d him Tibo. It was then used in his attempt to defeat {{p|Lugia}}, wherein it was powered by the {{p|Remoraid}} Gold received for flight transport.
+
+In ''[[PS179|The Last Battle XIII]]'', a Mantine was sent to participate in the fight in [[Ilex Forest]].
+
+In ''[[PS192|Stick This in Your Craw, Crawdaunt! I]]'', a Mantine was in [[Archie]]'s collection.
+
+In ''[[PS326|Lemme at 'Em, Lapras!]]'', [[Noland]] gave {{adv|Emerald}} one of his Mantine from the {{gdis|Battle Factory|III}}.
+
+Multiple Mantine appeared in ''[[PS541|Pink Slip]]''.
+
+In ''[[PASM15|Shipwreck and "Oh, What Sharp Teeth You Have, Bruxish!"]]'', [[Professor Burnet]] used a [[Poké Ride]] Mantine.
+
+A Poké Ride Mantine appeared in a fantasy in ''[[PASM17|A Raid and Po Town]]''.
+
+A Poké Ride Mantine appeared in a flashback in ''[[PASM30|Madness!! Mother Lusamine!]]''.
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Mantine appeared in ''[[GB18|Let's Survive This Sea Battle]]''.
+
+==In the TCG==
+{{main|Mantine (TCG)}}
+
+==Trivia==
+* In Generation III, Mantine is unable to learn Rock Slide from tutors, but it can inherit it through breeding.
+* Despite the fact that Mantine [[Evolution|evolves]] from Mantyke in the presence of a {{p|Remoraid}}, Remoraid has not been present in any of Mantine's sprites in the [[core series]] {{pkmn|games}} since [[Generation IV]], in which this Evolution method was introduced. This may be because the Evolution does not "consume" the Remoraid, so the sprites are avoiding a continuity error or creation of a new Remoraid.
+
+===Origin===
+Mantine's appearance and behavior of breaching the water's surface is similar to a {{wp|manta ray}}, a species belonging to the ''{{wp|Mobula}}'' genus (also known as "flying rays"). It also has some {{wp|kite}}-like aspects. Since {{p|Remoraid}}, a Pokémon based on a firearm, often attaches itself to the undersides of Mantine's wing-like fins, Mantine may also be based on a {{wp|fighter plane}}. The circular patterns on its body and fins resemble {{wp|roundel}}s, common insignias on warplanes.
+
+====Name origin====
+Mantine and Mantain may be combinations of ''manta'', and ''marine'', ''{{wp|brine}}'' (salt water), or ''tine'' (point on an implement; branch on a horn).
+
+==In other languages==
+{{Other languages|type=Water|type2=Flying
+|ja=マンタイン ''Mantain''|jameaning=From ''manta'' and ''brine'' or possibly ''tine''
+|fr=Démanta|frmeaning=From ''{{tt|dément|insane; awesome}}'', ''{{tt|démon|demon, alluding to the giant devil ray}}'', and ''{{tt|raie manta|manta ray}}
+|es=Mantine|esmeaning=Same as English name
+|de=Mantax|demeaning=From ''Manta'' and ''Taxi''
+|it=Mantine|itmeaning=Same as English name
+|ko=만타인 ''Mantine''|komeaning=Transcription of Japanese name
+|zh_cmn=巨翅飛魚 / 巨翅飞鱼 ''Jùchìfēiyú''|zh_cmnmeaning=From {{tt|巨翅 ''jù chì''|giant wings}} and {{tt|飛魚 / 飞鱼 ''fēiyú''|flying fish}}
+|zh_yue=巨翅飛魚 ''Geuihchifēiyùh''|zh_yuemeaning=From {{tt|巨翅 ''geuih chi''|giant wings}} and {{tt|飛魚 ''fēiyùh''|flying fish}}
+|hi=मैन्टागर ''Mantagar''|himeaning=From ''manta''
+|ru=Мантин ''Mantin''|rumeaning=Transcription of English name
+|th=แมนไทน์ ''Maenthai''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Pokémon fusion]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0225|prev=Delibird|nextnum=0227|next=Skarmory}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Pokémon whose base stats changed in Generation VII]]
+
+[[de:Mantax]]
+[[es:Mantine]]
+[[fr:Démanta]]
+[[it:Mantine]]
+[[ja:マンタイン]]
+[[zh:巨翅飞鱼]]

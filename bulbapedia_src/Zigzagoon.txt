@@ -1,0 +1,957 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Zigzagoon}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0262|prev=Mightyena|nextnum=0264|next=Linoone|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Zigzagoon
+|jname=ジグザグマ
+|tmname=Jiguzaguma
+|forme=2
+|form1=Zigzagoon
+|form2=Galarian Zigzagoon
+|image2=0263Zigzagoon-Galar.png
+|ndex=0263
+|type1=Normal
+|form2type1=Dark
+|form2type2=Normal
+|category={{tt|Tiny Raccoon|TinyRaccoon before Generation VI}}
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=38.6
+|weight-kg=17.5
+|abilitylayout=2
+|ability1=Pickup
+|ability2=Gluttony
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Quick Feet
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=1
+|evsp=1
+|expyield=56<!--48 in Gen V-VI-->
+|oldexp=60
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|formcolors=yes
+|catchrate=255
+|body=08
+|pokefordex=zigzagoon
+|generation=3
+|friendship=70
+}}
+'''Zigzagoon''' ([[List of Japanese Pokémon names|Japanese]]: '''ジグザグマ''' ''Jiguzaguma'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s into {{p|Linoone}} starting at [[level]] 20.
+
+In [[Galar]], Zigzagoon has a dual-type {{2t|Dark|Normal}} [[regional form]]. It evolves into Galarian Linoone starting at level 20, which evolves into {{p|Obstagoon}} when leveled up starting at level 35 during the [[Time-based Evolution|night]]. Hoennian Linoone is not known to evolve into any other Pokémon.
+
+==Biology==
+Zigzagoon is a quadrupedal mammalian {{OBP|Pokémon|species}} resembling a raccoon, raccoon dog, or badger, with bristly, zigzag-patterned fur. It has stripes formed by alternating layers of cream and brown fur. It has a brown head with spiky ears and a black nose. A black mask-like pattern surrounds its brown eyes. The upper half of its mouth is jagged, and when it is open, there are two pointed teeth in its lower jaw. Its feet have three claws and pink paw pads. Its fore feet are cream-colored, but the hind feet are brown. Its brush tail is spiky and bristly.
+
+Zigzagoon is abundantly curious, as it wanders restlessly back and forth while rubbing its nose to the ground in search of something. It always moves in a zigzag fashion, and leaves behind distinct zigzag footprints as it runs. It rubs its bristly back hair against trees to mark its territory and plays dead to fool opponents in battle. The Zigzagoon found outside of [[Galar]] are friendlier and calmer compared to their Galarian relatives. Zigzagoon are capable of {{a|Pickup|finding items in the grass or ground}}, including items that were lost. It is found commonly in {{DL|List of Pokémon by habitat|Grassland Pokémon|grassy fields}}.
+
+===Forms===
+Zigzagoon has a [[regional form]]: [[Galarian form|Galarian]] Zigzagoon.
+
+Zigzagoon native to [[Galar]] generally look similar to its Hoennian counterpart with a few differences, most notably its black-and-white fur. Its red eyes are surrounded by a black spiked mask-like pattern somewhat resembling stars. Its fore feet are black with white claws, while its hind feet are white with black claws. It has a long pink tongue that is constantly hanging outside of its mouth, between its lower teeth. This Galarian form of Zigzagoon is believed to be the earliest, and thus the original, instance of the species.
+
+Much like the Zigzagoon found outside of Galar, Galarian Zigzagoon are known to be constantly on the move and never settling down. It is believed that Galarian Zigzagoon's restless temperament is what originated the zigzag movements observed on both forms of the species. Their known habitat stretches the entirety of Galar, being found in fields, forests, and towns. They enjoy battling to the point where they often attempt to provoke others into fighting them. While this succeeded with other Pokémon, humans instead tend to mistake it as wanting affection, much to the Zigzagoon's frustrations.<ref>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/zigzagoon/ Galarian Zigzagoon | Official Website | Pokémon Sword and Pokémon Shield]</ref>
+
+===Evolution===
+Zigzagoon evolves into {{p|Linoone}}
+
+{{rf|Galarian}} Zigzagoon evolves into Galarian Linoone, which evolves into {{p|Obstagoon}}.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Zigzagoon'''
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0263
+|name1=Zigzagoon
+|type1-1=Normal
+|evo1=
+|no2=0264
+|name2=Linoone
+|type1-2=Normal}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Galarian Zigzagoon'''
+{{Evobox-3
+|type1=Dark
+|type2=Normal
+|pictype=sprite
+|no1=0263Zigzagoon-Galar
+|name1=Zigzagoon
+|form1=Galarian Form
+|type1-1=Dark
+|type2-1=Normal
+|evo1=
+|no2=0264Linoone-Galar
+|name2=Linoone
+|form2=Galarian Form
+|type1-2=Dark
+|type2-2=Normal
+|evo2=
+|no3=0862Obstagoon
+|name3=Obstagoon
+|type1-3=Dark
+|type2-3=Normal}}
+</div>
+</div>
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Pinball: Ruby & Sapphire]]: Zigzagoon sits to the left of the [[Sapphire Field]] and will change its position when the ball hits the button in front of it. When Zigzagoon is positioned to pounce, it will immediately stop the slot machine when the A button is pressed, allowing for the prize to be chosen by the player.
+* {{game|Emerald}}: At the beginning of the game, a wild Zigzagoon attacks Professor Birch. The player must use their [[first partner Pokémon]] to defeat it.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=012|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Zigzagoon</sc> restlessly wanders everywhere at all times. This {{ScPkmn}} does so because it is very curious. It becomes interested in anything that it happens to see.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=The hair on <sc>Zigzagoon</sc>'s back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This {{ScPkmn}} may play dead to fool foes in battle.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=A {{ScPkmn}} with abundant curiosity. It shows an interest in everything, so it always zigs and zags.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It gets interested in everything, which is why it zigs and zags. It is good at finding items.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=012|label1=Central|reg2=Hoenn|num2=012}}
+{{Dex/Entry1|v=X|t=FFF|entry=It walks in zigzag fashion. It's good at finding items in the grass and even in the ground.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=A Pokémon with abundant curiosity. It shows an interest in everything, so it always zigzags.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Zigzagoon restlessly wanders everywhere at all times. This Pokémon does so because it is very curious. It becomes interested in anything that it happens to see.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The hair on Zigzagoon's back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This Pokémon may play dead to fool foes in battle.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=031|reg2=Galar|label2=Crown Tundra|num2=071|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It marks its territory by rubbing its bristly fur on trees. This variety of Zigzagoon is friendlier and calmer than the kind native to Galar.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Zigzagoon that adapted to regions outside Galar acquired this appearance. If you've lost something, this Pokémon can likely find it.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It walks in zigzag fashion. It's good at finding items in the grass and even in the ground.}}
+{{Dex/Form|Galarian Zigzagoon}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Route]]s {{rtn|101|Hoenn}}, {{rtn|102|Hoenn}}, {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|116|Hoenn}}, {{rtn|117|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|121|Hoenn}}, and {{rtn|123|Hoenn}}, [[Petalburg Woods]]}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[Route]]s {{rtn|101|Hoenn}}, {{rtn|102|Hoenn}}, {{rtn|103|Hoenn}}, {{rtn|118|Hoenn}}, and {{rtn|119|Hoenn}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|202|Sinnoh}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|202|Sinnoh}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}} (Plains with 15 Forest points; Savannah with 10 Plains points)<br>[[Sprout Tower]], [[Bell Tower]], [[Burned Tower]] {{color2|{{hoenn color dark}}|Hoenn Sound|(Hoenn Sound)}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Hoenn Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|2|Kalos}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=fff|area=[[Route]]s {{rtn|101|Hoenn}}, {{rtn|102|Hoenn}}, {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|116|Hoenn}}, and {{rtn|117|Hoenn}}, [[Petalburg Woods]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Trade]]<sup>Version 1.2.0+</sup> <small>('''Hoennian Form''')</small><br>[[Route]]s {{rtn|2|Galar}} and {{rtn|3|Galar}}, [[Bridge Field]], [[Giant's Cap]], [[Stony Wilderness]] <small>('''Galarian Form''')</small><br>[[Bridge Field/Dens|Bridge Field]], [[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Stony Wilderness/Dens|Stony Wilderness]], [[West Lake Axewell/Dens|West Lake Axewell]] ([[Max Raid Battle]]) <small>('''Galarian Form''')</small>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[In-game trade#The Isle of Armor|Trade]] {{rf|Galarian}} Zigzagoon with Regina on [[Isle of Armor]] <small>('''Hoennian Form''')</small>}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|202|Sinnoh}} ([[Mass outbreak|Swarm]]) <small>('''Hoennian Form''')</small><br>[[Grand Underground]] - [[Spacious Cave]], [[Rocky Cave]], [[Big Bluff Cavern]] (After obtaining the [[National Pokédex]]) <small>('''Hoennian Form''')</small><br>Unobtainable <small>('''Galarian Form''')</small>}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Box R&S|link=Pokémon Box Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Store 100 Pokémon from one cartridge{{tt|*|Received as an Egg which can be transferred for hatching to any Generation III game}}}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Forest ([[Ruby Field|Both]] [[Sapphire Field|Fields]])}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 12]], Endless Level 25, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Steel]] (1F-5F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Lyra Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Foggy Forest]] (1F-11F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Foggy Forest]] (1F-11F)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#Get 1,000 Combos!|Variety Battle: Get 1,000 Combos!]] <small>(Reward)</small>,<br>[[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]] <small>(Capsule Cage)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 3|Blade-and-Shield Path: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Sunlit Forest|Sapphire Sea: Sunlit Forest]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 14|Area 14: Stage 02]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Celebi Sea]], [[Rayquaza Sea]], [[Celebi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Mt. Steel]] (2F-8F), [[Purity Forest]] (7F-8F)<br/>Fainted Pokémon: [[Thunderwave Cave]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#14th release|''Pokémon Safari'']] <small>(14th release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Normal}}
+{{eventAvail|{{gameabbrev3|RS}}|Berry Program Update Zigzagoon|Japanese|Japan|5{{shinystar|FRLG}}|December 29, 2003 to March 31, 2004|link=List of Japanese event Pokémon distributions in Generation III#Berry Program Update Zigzagoon}}
+{{eventAvail|{{gameabbrev3|RS}}|Berry Program Update Zigzagoon|English|United States|5{{shinystar|FRLG}}|March 1, 2004 to April 22, 2007|link=List of English event Pokémon distributions in Generation III#Berry Program Update Zigzagoon Zigzagoon}}
+|}
+
+=====In-game events=====
+{{eventAvail/h|type=Normal|lochide=yes}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Pokémon Box Egg Zigzagoon|Japanese|hide|5|May 30, 2003 onwards|link=Pokémon Box Ruby & Sapphire#100 Pokémon from one game}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Pokémon Box Egg Zigzagoon|English|hide|5|May 4, 2004 onwards|link=Pokémon Box Ruby & Sapphire#100 Pokémon from one game}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Pokémon Box Egg Zigzagoon|French|hide|5|May 4, 2004 onwards|link=Pokémon Box Ruby & Sapphire#100 Pokémon from one game}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Pokémon Box Egg Zigzagoon|German|hide|5|May 4, 2004 onwards|link=Pokémon Box Ruby & Sapphire#100 Pokémon from one game}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Pokémon Box Egg Zigzagoon|Italian|hide|5|May 4, 2004 onwards|link=Pokémon Box Ruby & Sapphire#100 Pokémon from one game}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Pokémon Box Egg Zigzagoon|Spanish|hide|5|May 4, 2004 onwards|link=Pokémon Box Ruby & Sapphire#100 Pokémon from one game}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Normal}}
+{{HeldItems/Games2|Ruby|Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Ruby and Sapphire Versions}}
+{{HeldItems/Items1|Oran Berry|5|rows=5}}
+{{HeldItems/Games1|Emerald|tcolor=fff|Pokémon Emerald Version}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=FFF|tcolor2=FFF|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Items2|Potion|50|Revive|5|rows=2}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+
+===Stats===
+====Base stats====
+=====Zigzagoon=====
+{{Stats
+|type=Normal
+|HP=38
+|Attack=30
+|Defense=41
+|SpAtk=30
+|SpDef=41
+|Speed=60
+}}
+
+=====Galarian Zigzagoon=====
+Galarian Zigzagoon has the same base stats as Hoennian Zigzagoon.
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=4
+|SpeedMax=4
+|Power=1
+|PowerMax=4
+|Technique=3
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+====Zigzagoon====
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+}}
+
+====Galarian Zigzagoon====
+{{TypeEffectiveness
+|type1=Dark
+|type2=Normal
+|Normal=100
+|Fighting=400
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+}}
+
+===Learnset===
+Zigzagoon is available in {{pkmn|Sword and Shield}} and {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+=====Zigzagoon=====
+{{learnlist/levelh/8|Zigzagoon|Normal|Normal|3}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|3|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level8|6|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level8|9|Covet|Normal|Physical|60|100|25||'''}}
+{{learnlist/level8|12|Headbutt|Normal|Physical|70|100|15||'''}}
+{{learnlist/level8|15|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level8|18|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/level8|21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/level8|24|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level8|27|Fling|Dark|Physical|—|100|10}}
+{{learnlist/level8|30|Flail|Normal|Physical|—|100|15||'''}}
+{{learnlist/level8|33|Belly Drum|Normal|Status|—|—|10}}
+{{learnlist/level8|36|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/levelf/8|Zigzagoon|Normal|Normal|3}}
+
+=====Galarian Zigzagoon=====
+{{learnlist/levelh/8|Zigzagoon|Dark|Normal|8}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level8|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level8|3|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level8|6|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/level8|9|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/level8|12|Headbutt|Normal|Physical|70|100|15||'''}}
+{{learnlist/level8|15|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level8|18|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/level8|21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/level8|24|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level8|27|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level8|30|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/level8|33|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level8|36|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/levelf/8|Zigzagoon|Dark|Normal|8}}
+
+====By [[TM]]/[[TR]]====
+=====Zigzagoon=====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Zigzagoon|Normal|Normal|3}}
+{{learnlist/tm8|TM07|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15||'''}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm8|TM59|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm8|TM79|Retaliate|Normal|Physical|70|100|5||'''}}
+{{learnlist/tm8|TM84|Tail Slap|Normal|Physical|25|85|10||'''}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tr|TR59|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tr|TR73|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR85|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tmf/8|Zigzagoon|Normal|Normal|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Zigzagoon|Normal|Normal|3}}
+{{learnlist/tm8|TM03|Water Pulse|Water|Special|60|100|20||}}
+{{learnlist/tm8|TM10|Work Up|Normal|Status|&mdash;|&mdash;|30||}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM13|Ice Beam|Ice|Special|90|100|10||}}
+{{learnlist/tm8|TM14|Blizzard|Ice|Special|110|70|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM23|Iron Tail|Steel|Physical|100|75|15||}}
+{{learnlist/tm8|TM24|Thunderbolt|Electric|Special|90|100|15||}}
+{{learnlist/tm8|TM25|Thunder|Electric|Special|110|70|10||}}
+{{learnlist/tm8|TM28|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm8|TM30|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tm8|TM34|Shock Wave|Electric|Special|60|&mdash;|20||}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|&mdash;|100|15||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM56|Fling|Dark|Physical|&mdash;|100|10||}}
+{{learnlist/tm8|TM57|Charge Beam|Electric|Special|50|90|10||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM73|Thunder Wave|Electric|Status|&mdash;|90|20||}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM86|Grass Knot|Grass|Special|&mdash;|100|20||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|&mdash;|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||'''}}
+{{learnlist/tm8|TM95|Surf|Water|Special|90|100|15||}}
+{{learnlist/tm8|TM98|Rock Smash|Fighting|Physical|40|100|15||}}
+{{learnlist/tmf/8|Zigzagoon|Normal|Normal|3}}
+
+=====Galarian Zigzagoon=====
+{{learnlist/tmh/8|Zigzagoon|Dark|Normal|8}}
+{{learnlist/tm8|TM07|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15||'''}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM26|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/tm8|TM59|Fling|Dark|Physical|—|100|10||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm8|TM79|Retaliate|Normal|Physical|70|100|5||'''}}
+{{learnlist/tm8|TM85|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tr|TR59|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tr|TR73|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR85|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tmf/8|Zigzagoon|Dark|Normal|8}}
+
+====By {{pkmn|breeding}}====
+=====Zigzagoon=====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Zigzagoon|Normal|Normal|3}}
+{{learnlist/breed8|{{MSP/8c|059|Arcanine}}{{MSP/8c|448|Lucario}}|Extreme Speed|Normal|Physical|80|100|5||'''|grid=2}}
+{{learnlist/breed8|{{MSP/8c|527|Woobat}}{{MSP/8c|528|Swoobat}}|Simple Beam|Normal|Status|—|100|15|grid=2}}
+{{learnlist/breed8|{{MSP/8c|572|Minccino}}{{MSP/8c|573|Cinccino}}|Tickle|Normal|Status|—|100|20|grid=2}}
+{{learnlist/breedf/8|Zigzagoon|Normal|Normal|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Zigzagoon|Normal|Normal|3}}
+{{learnlist/breed8|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0231|Phanpy}}{{MSP/H|0232|Donphan}}{{MSP/H|0300|Skitty}}{{MSP/H|0301|Delcatty}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0417|Pachirisu}}{{MSP/H|0427|Buneary}}{{MSP/H|0428|Lopunny}}{{MSP/H|0431|Glameow}}{{MSP/H|0432|Purugly}}|Charm|Fairy|Status|&mdash;|100|20||}}
+{{learnlist/breed8|{{MSP/H|0059|Arcanine}}{{MSP/H|0448|Lucario}}|Extreme Speed|Normal|Physical|80|100|5||'''}}
+{{learnlist/breed8|{{MSP/H|0032|Nidoran♂}}{{MSP/H|0033|Nidorino}}{{MSP/H|0034|Nidoking}}{{MSP/H|0058|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0448|Lucario}}|Helping Hand|Normal|Status|&mdash;|&mdash;|20||}}
+{{learnlist/breed8|{{MSP/H|0050|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}|Mud-Slap|Ground|Special|20|100|10||}}
+{{learnlist/breed8|{{MSP/H|0235|Smeargle}}|Simple Beam|Normal|Status|&mdash;|100|15||}}
+{{learnlist/breed8|{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}|Tickle|Normal|Status|&mdash;|100|20||}}
+{{learnlist/breed8|{{MSP/H|0235|Smeargle}}|Trick|Psychic|Status|&mdash;|100|10||}}
+{{learnlist/breedf/8|Zigzagoon|Normal|Normal|3}}
+
+=====Galarian Zigzagoon=====
+{{learnlist/breedh/8|Zigzagoon|Dark|Normal|8}}
+{{learnlist/breed8|{{MSP/8c|083|Farfetch'd}}{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}{{MSP/8c|359|Absol}}{{MSP/8c|570|Zorua}}{{MSP/8c|571|Zoroark}}{{MSP/8c|810|Grookey}}{{MSP/8c|811|Thwackey}}{{MSP/8c|812|Rillaboom}}|Knock Off|Dark|Physical|65|100|20||'''}}
+{{learnlist/breed8|{{MSP/8c|674|Pancham}}{{MSP/8c|675|Pangoro}}{{MSP/8c|828|Thievul}}|Parting Shot|Dark|Status|—|100|20}}
+{{learnlist/breed8|{{MSP/8c|448|Lucario}}{{MSP/8c|619|Mienfoo}}{{MSP/8c|620|Mienshao}}{{MSP/8c|678|Meowstic}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745D|Lycanroc}}|Quick Guard|Fighting|Status|—|—|15}}
+{{learnlist/breedf/8|Zigzagoon|Dark|Normal|8}}
+
+====By [[Move Tutor|tutoring]]====
+=====Zigzagoon=====
+{{learnlist/tutorh/8|Zigzagoon|Normal|Normal|3}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Zigzagoon|Normal|Normal|3}}
+
+=====Galarian Zigzagoon=====
+{{learnlist/tutorh/8|Zigzagoon|Dark|Normal|8}}
+{{learnlist/tutor8|Lash Out|Dark|Physical|75|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Zigzagoon|Dark|Normal|8}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Zigzagoon|Normal|Normal|3}}
+{{learnlist/prevgen8|Zigzagoon|3|Bestow|Normal|Status|—|—|15|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Charge Beam|Electric|Special|50|90|10|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Cut|Normal|Physical|50|95|30||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Defense Curl|Normal|Status|—|—|40|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Double Team|Normal|Status|—|—|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Echoed Voice|Normal|Special|40|100|15||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Frustration|Normal|Physical|—|100|20||'''|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Fury Cutter|Bug|Physical|40|95|20|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Hidden Power|Normal|Special|60|100|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Hone Claws|Dark|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Last Resort|Normal|Physical|140|100|5||'''|IV=yes<!--tutor-->|V=yes<!--tutor,{{dwa|Pleasant Forest}}-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Mimic|Normal|Status|—|—|10|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Mud Sport|Ground|Status|—|—|15|III=yes<!--level-->|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Mud-Slap|Ground|Special|20|100|10|III=yes<!--tutor-->|IV=yes<!--breed,tutor-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Odor Sleuth|Normal|Status|—|—|40|III=yes<!--level-->|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Pursuit|Dark|Physical|40|100|20|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Return|Normal|Physical|—|100|20||'''|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Rock Climb|Normal|Physical|90|85|20||'''|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Rollout|Rock|Physical|30|90|20|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Secret Power|Normal|Physical|70|100|20||'''|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zigzagoon|3|Shock Wave|Electric|Special|60|—|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Super Fang|Normal|Physical|—|90|10|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Swagger|Normal|Status|—|85|15|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Toxic|Poison|Status|—|90|10|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zigzagoon|3|Water Pulse|Water|Special|60|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgenf/8|Zigzagoon|Normal|Normal|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color}}; border: 3px solid #{{tcg colorless color dark}}"
+|-
+! style="background: #{{tcg colorless color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg colorless color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Fury Swipes}}
+| style="background:#fff; {{roundybr|5px}}" | [[Zigzagoon (EX Ruby & Sapphire 79)]]
+|}
+
+===Side game data===
+====Zigzagoon====
+{{Spindata/Head|type=Normal}}
+{{Spindata/PinballRS|col=3|type=Normal|ndex=263|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=263|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=263
+|body=1
+|rate=8.5
+|area=Wild Plains
+|P1=I wonder what's in store here? This is so exciting!
+|P2=Listen, half my HP's gone.
+|P3=No more... I couldn't run if I wanted to...
+|PL=I leveled up! Ooh, this is so exciting!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=263
+|body=1
+|rate=8.2
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Normal|ndex=263
+|coset=5
+|conto={{p|Pikachu}} (♂), {{p|Parasect}}, {{p|Gulpin}}
+|recruitment=Talk to in [[Baram Town]]
+|P1=Hey, we should all turn at right angles! Come on! Let's go zigzag!
+|P2=I don't have enough energy left to zig or zag!
+}}
+|-
+{{Spindata/Ranger|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|fieldpower=0
+|field=None
+|loop=2
+|MinEXP=9
+|MaxEXP=9
+|num=047
+|browser=Zigzagoon always zigzags when it moves. It's fun to just watch it.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=263
+|walk=1.64
+|hp=44
+|attack=62
+|defense=45
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Normal|ndex=263
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Normal|ndex=263|num=678
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Cloud Clear++
+|skilldesc=Sometimes clears away five black-cloud disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=263
+|hatch=N/A
+|buddy=1
+|candy=Zigzagoon
+|evocandy=50
+|stamina=116
+|attack=58
+|defense=80
+|fast={{m|Tackle}}, {{m|Rock Smash}}, {{m|Sand Attack}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Dig}}, {{m|Grass Knot}}, {{m|Thunderbolt}}
+}}
+|}
+
+====Galarian Zigzagoon====
+{{Spindata/Head|type=Dark|type2=Normal}}
+{{Spindata/GO|col=6|type=Normal|ndex=263G
+|egg=7
+|buddy=1
+|candy=Zigzagoon
+|evocandy=25
+|stamina=116
+|attack=58
+|defense=80
+|fast={{m|Tackle}}, {{m|Take Down}}
+|special={{m|Dig}}, {{m|Body Slam}}, {{m|Swift}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{normal color dark}}; background:#{{dark color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{normal color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{normal color dark}}; background:#{{dark color light}};"| [[File:GO263GGOFest2021.png|100px]]
+|-
+| Meloetta hat
+|}
+
+===Evolution data===
+====Zigzagoon====
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0263
+|name1=Zigzagoon
+|type1-1=Normal
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0264
+|name2=Linoone
+|type1-2=Normal}}
+
+====Galarian Zigzagoon====
+{{Evobox-3
+|type1=Dark
+|type2=Normal
+|pictype=sprite
+|no1=0263Zigzagoon-Galar
+|name1=Zigzagoon
+|form1=Galarian Form
+|type1-1=Dark
+|type2-1=Normal
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0264Linoone-Galar
+|name2=Linoone
+|form2=Galarian Form
+|type1-2=Dark
+|type2-2=Normal
+|evo2={{bag/s|Rare Candy|SV}} + [[File:Night Icon SV.png|40px|link=Time]]<br>{{color2|000|Level|Level 35}}<br><small>at {{color2|000|Time|night}}</small>
+|no3=0862Obstagoon
+|name3=Obstagoon
+|type1-3=Dark
+|type2-3=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=263}}
+{{Spritebox/4|ndex=263}}
+{{Spritebox/5|ndex=263}}
+{{Spritebox/6|ndex=263|crop=71}}
+{{Spritebox/7|ndex=263|crop=71}}
+{{Spritebox/8/2Forms|form1=G|ndex=263}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/2Forms|ndex=0263|form1=G}}
+{{Spritebox/Footer|263|Zigzagoon}}
+
+==In animation==
+===Main series===
+[[File:Rocket Prize Master Zigzagoon.png|thumb|250px|Zigzagoon in {{aniseries|JN}}]]
+[[File:Galarian Zigzagoon anime.png|thumb|250px|Galarian Zigzagoon in {{aniseries|JN}}]]
+====Major appearances====
+In ''[[AG005|In the Knicker of Time]]'', [[Nicholai]] tried to {{pkmn2|caught|catch}} a Zigzagoon. He was eventually successful after encountering several. In ''[[AG048|Zig Zag Zangoose!]]'', it was used in a battle against {{Ash}} and his Pokémon.
+
+In ''[[HS05|The Blue Badge of Courage]]'', the [[Gym Badge thieves]] used a Zigzagoon and a {{p|Poochyena}} to battle [[Misty's Psyduck]] and [[Sakura's Espeon]], but both were defeated.
+
+In ''[[AG046|Candid Camerupt!]]'', [[Winstrate family|Victor Winstrate]]'s Zigzagoon battled [[Brock's Mudkip]] and was able to defeat it using {{m|Thunderbolt}}.
+
+In a flashback in ''[[XY088|A Trip Down Memory Train!]]'', a wild {{TP|Clemont|Bunnelby}} befriended a Zigzagoon.
+
+In ''[[JN022|Goodbye, Friend!]]'', two Zigzagoon attempted to steal Ash's [[Bag|backpack]], only to be warded off by [[Goh's Raboot]]. Raboot later visited them and their leader {{p|Lombre}} to give them some apples, after which they befriended Raboot.
+
+In ''[[JN070|Take My Thief! Please!]]'', [[Jessie]] pulled a Zigzagoon from the [[Rocket Prize Master]] to battle Ash and [[Goh]]; however, it was defeated by [[Ash's Pikachu]].
+
+====Minor appearances====
+Zigzagoon debuted in a fantasy in ''[[EP272|Johto Photo Finish]]'', where it appeared as {{jo|Harrison}} described the [[Hoenn]] [[region]] to Ash.
+
+A Zigzagoon appeared in ''[[AG008|A Tail with a Twist]]''.
+
+A Zigzagoon appeared in ''[[AG010|You Said a Mouthful!]]''
+
+A Zigzagoon appeared in ''[[AG011|A Bite to Remember]]''.
+
+A Zigzagoon appeared in ''[[AG030|A Meditite Fight!]]''.
+
+A {{pkmn|Coordinator}}'s Zigzagoon appeared in ''[[AG033|Now That's Flower Power!]]''.
+
+Multiple Zigzagoon appeared in ''[[M07|Destiny Deoxys]]''.
+
+A Zigzagoon appeared in ''[[AG089|A Scare to Remember!]]''.
+
+In ''[[AG106|Beg, Burrow and Steal]]'', a Zigzagoon was living in [[Trapinch underground labyrinth|an underground paradise]].
+
+A Coordinator's Zigzagoon appeared in ''[[AG115|Mean With Envy]]''.
+
+A Coordinator's Zigzagoon appeared in ''[[AG121|Hi Ho Silver Wind!]]''.
+
+In ''[[AG159|Off the Unbeaten Path]]'', a {{pkmn|Trainer}}'s Zigzagoon participated in the [[Pokémon Orienteering]] competition.
+
+A Zigzagoon appeared in ''[[AG172|Pokémon Ranger - Deoxys' Crisis! (Part 2)]]''.
+
+A Zigzagoon appeared in ''[[DP001|Following A Maiden's Voyage!]]''.
+
+A Zigzagoon appeared in ''[[DP028|Drifloon On the Wind!]]''.
+
+In ''[[DP034|Buizel Your Way Out Of This!]]'', a {{AP|Buizel}} knocked {{tc|Fisher}}man's Zigzagoon.
+
+In ''[[DP038|One Big Happiny Family!]]'', [[Jessie]]'s fantasy featured a Zigzagoon.
+
+In ''[[M13|Zoroark: Master of Illusions]]'', multiple Zigzagoon were living in [[Crown City]]. Two Zigzagoon worked with several other Pokémon in surrounding {{OBP|Zorua|M13}} in the park in order to attack him as retribution for what {{OBP|Zoroark|M13}} did to the city. Before a fight broke out, the Zigzagoon, along with the other Pokémon, were calmed down by {{OBP|Celebi|M13}}.
+
+A Zigzagoon appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Zigzagoon appeared in ''[[XY002|Lumiose City Pursuit!]]'', ''[[XY010|Mega-Mega Meowth Madness!]]'', ''[[XY040|Day Three Blockbusters!]]'', and ''[[XY137|Battling With a Clean Slate!]]''; and in flashbacks in ''[[XYS01|Mega Evolution Special I]]'' and ''[[XY068|Garchomp's Mega Bond!]]'' at {{an|Professor Sycamore}}'s lab.
+
+A Zigzagoon appeared in ''[[XY003|A Battle of Aerial Mobility!]]''.
+
+A Zigzagoon appeared in ''[[XY018|Awakening the Sleeping Giant]]''.
+
+A Zigzagoon appeared in a flashback or a fantasy in ''[[XY035|The Forest Champion!]]''.
+
+In ''[[M17|Diancie and the Cocoon of Destruction]]'', a Zigzagoon was living in [[Allearth Forest]].
+
+In ''[[PK27|Pikachu and the Pokémon Music Squad]]'', a Zigzagoon was living in the forest.
+
+A Zigzagoon appeared in ''[[XYS04|Mega Evolution Special IV]]''.
+
+A Zigzagoon appeared in ''[[XY096|A Giga Battle with Mega Results!]]''.
+
+A Zigzagoon appeared in ''[[XY108|A Watershed Moment!]]'' in a flashback.
+
+A Trainer's Zigzagoon appeared in ''[[XY111|Unlocking Some Respect!]]''.
+
+In ''[[XY121|Seeing the Forest for the Trees!]]'', a Zigzagoon, {{p|Scatterbug}}, {{p|Oddish}}, {{p|Budew}}, and {{p|Sentret}} were brought into a cave to join Ash in the [[Kalos Route 20|Winding Woods]].
+
+In ''[[M19|Volcanion and the Mechanical Marvel]]'', two Zigzagoon were living at the [[Nebel Plateau]].
+
+In ''[[JN047|Crowning the Chow Crusher!]]'', a Trainer's Zigzagoon competed in the [[Pokémon Grand Eating Contest]].
+
+A Trainer's Zigzagoon appeared in ''[[JN096|Lighting the Way Home!]]''.
+
+{{rf|Galarian}} Zigzagoon debuted in ''[[JN115|Curtain Up! Fight the Fights!]]'', under the ownership of a Trainer.
+
+Three Galarian Zigzagoon appeared in ''[[JN127|Just a Scone's Throw From Here!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG005|Zigzagoon|Ash's Pokédex|Zigzagoon, the TinyRaccoon Pokémon. Zigzagoon is extremely curious and so ends up walking in a zigzag path between things that interest it.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN127|Zigzagoon|Goh's Rotom Phone|Zigzagoon, [[Galarian form]]. The Tiny Raccoon Pokémon. A {{t|Dark}} and {{t|Normal}} type. Zigzagoon runs in a zigzag pattern, wreaking havoc everywhere.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+[[File:Youngster Zigzagoon ORAS Trailer.png|thumb|250px|Zigzagoon in the animated trailer]]
+In the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]], a {{tc|Youngster}}'s Zigzagoon battled {{ga|Brendan}}'s {{p|Treecko}}.
+
+===Pokémon: Twilight Wings===
+In ''[[TW02|Training]]'', two {{rf|Galarian}} Zigzagoon were in the [[Wild Area]].
+
+A Trainer's Galarian Zigzagoon appeared in ''[[TW03|Buddy]]''.
+{{-}}
+
+==In the manga==
+[[File:Kylee Zigzagoon Adventures.png|thumb|left|200px|Zigzagoon in [[Pokémon Adventures]]]]
+[[File:Galarian Zigzagoon Adventures.png|thumb|200px|Galarian Zigzagoon in Pokémon Adventures]]
+===Movie adaptations===
+In the {{ma|Diancie and the Cocoon of Destruction|manga adaptation}} of ''[[M17|Diancie and the Cocoon of Destruction]]'', a Zigzagoon lived in [[Allearth Forest]].
+
+In the {{ma|Volcanion and the Mechanical Marvel|manga adaptation}} of ''[[M19|Volcanion and the Mechanical Marvel]]'', a Zigzagoon lived at the [[Nebel Plateau]].
+
+===Pokémon Adventures===
+At the end of ''[[PS180|The Last Battle XIV]]'', a Zigzagoon was being examined by [[Professor Elm]].
+
+A {{pkmn2|wild}} Zigzagoon appeared in ''[[PS182|Making Mirth with Mightyena]]''.
+
+A {{pkmn|Trainer}}'s Zigzagoon appeared in ''[[PS204|Plugging Past Electrike I]]''.
+
+In ''[[PS226|I Dare Ya, Altaria... Knock Chic off My Shoulder!]]'', {{adv|Sapphire}} healed {{tc|Picnicker|a young Trainer}}'s sick Zigzagoon, which caught [[Winona]]'s attention.
+
+A Trainer's Zigzagoon appeared in ''[[PS253|A Royal Rumble with Regirock, Regice and Registeel I]]''.
+
+A {{rf|Galarian}} Zigzagoon first appeared in ''[[PASS01|Wow!! That's One Big Pokémon]]''.
+
+A [[Dynamax]] Galarian Zigzagoon appeared in ''[[PASS25|Rumble!! The Horrific Darkest Day]]''.
+
+===Pokémon Journeys===
+Two Zigzagoon appeared in ''[[JNM07|Goodbye, Friend!]]''.
+
+===Pokémon Ruby-Sapphire===
+In ''[[PMRS01|Let's Go Catch The Dumpling Thief!!]]'', [[Red's Clefairy]] was accused of stealing dumplings from a shrine. Eventually, it was revealed they were being eaten by Zigzagoon.
+
+==In the TCG==
+{{main|Zigzagoon (TCG)}}
+
+==Trivia==
+* Zigzagoon is one of the two Pokémon left out of the [[Hoenn Pokérap]]; the other is {{p|Relicanth}}.
+* A {{Shiny}} Zigzagoon was distributed to {{game|Ruby and Sapphire|s}} via an interactive demo to patch the [[Berry glitch]].
+** Due to this being available for over three years in North America, Zigzagoon has the honor of having the longest event.
+* Zigzagoon has the same [[List of Pokémon by Hoenn Pokédex number|Hoenn Pokédex]] and [[List of Pokémon by Kalos Pokédex number|Central Kalos Pokédex]] numbers.
+* According to [[Ken Sugimori]] in an interview, Zigzagoon's name was conceived first before its character design was created.<ref name=ND84>''Nintendo Dream'' Volume 84, February/March 2003 ([http://lavacutcontent.com/sugimori-masuda-gen-3-interview/ English translation] written by Jacob Newcomb and commissioned by Dr. Lava)</ref>
+* Galarian Zigzagoon and its {{shiny}} form were designed by [[James Turner]].<ref>[https://twitter.com/JamesTurner_42/status/1348881864086478848 Tweet about designing Galarian Zigzagoon]</ref><ref>[https://twitter.com/JamesTurner_42/status/1354718268762824705 Tweet about designing shiny Galarian Zigzagoon]</ref>
+* Zigzagoon, along with its Evolution {{p|Linoone}}, are the only Generation III Pokémon to have a [[regional form]].
+* Galarian Zigzagoon and Galarian Linoone are the first regional variants to become [[Shadow Pokémon (GO)|Shadow Pokémon]] in {{g|GO}} before their original forms.
+
+===Origin===
+Zigzagoon's English and Japanese names, category, and fur pattern suggest it is based on a {{wp|raccoon}}, while its body shape and brown coloration were stated to be inspired by the {{wp|Japanese badger}}<ref name=Pokemon.com>(November 12, 2019). "[https://www.pokemon.com/us/pokemon-news/interview-with-game-freaks-ohmori-and-masuda-on-pokemon-sword-and-pokemon-shield/ Interview with GAME FREAK’s Ohmori and Masuda on ''Pokémon Sword'' and ''Pokémon Shield'']." Pokemon.com</ref> with its fur making a zigzag pattern. It may also be inspired by the {{wp|Japanese raccoon dog}} (''Nyctereutes procyonoides viverrinus''), also known as ''tanuki''. The word ''tanuki'' is used for both badgers and raccoon dogs in Japan, depending on the region. This may be the inspiration behind its mixture of traits, having similarities to both species. Japanese folklore and legend claim that ''tanuki'' are known for {{m|Belly Drum|drumming on their bellies}} with their front paws similar to how Zigzagoon has been known to do. Zigzagoon's body shape and appearance are also similar to certain small dog breeds such as {{wp|Pekingese}} and {{wp|Wheaten Terrier}}s.
+
+<!--Do not add Gene Simmons/KISS or David Bowie/Ziggy Stardust, unless you have official source stating that it was inspired by either.-->
+Galarian Zigzagoon's fur coloration draws inspiration from the {{wp|European badger}}, which has a black-and-white color scheme unlike its Japanese relative.<ref name=Pokemon.com/> Taking its evolved form {{p|Obstagoon}} under consideration, Galarian Zigzagoon's color scheme, pointed tongue, and star marking around its eyes may also be inspired by {{wp|Glam rock}} bands.
+
+Zigzagoon's evolutionary line shares a common theme of movement where Zigzagoon moves in a zigzag pattern, {{p|Linoone}} moves in a straight line, and {{p|Obstagoon}} blocks the way by obstructing it.
+
+====Name origin====
+Zigzagoon may be a combination of ''zigzag'' (referring to its fur pattern and unusual habits) and ''raccoon''.
+
+Jiguzaguma may be a combination of ''zigzag'' and アライグマ ''araiguma'' ({{wp|raccoon}}) or 穴熊 ''anaguma'' ({{wp|badger}}). ''Guma'' (from 熊 ''kuma'', "bear") as a suffix is often used for mammals that resemble bears.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ジグザグマ ''Jiguzaguma''|jameaning=From ''zigzag''  and {{tt|洗熊 ''araiguma''|raccoon}} or {{tt|穴熊 ''anaguma''|badger}}
+|fr=Zigzaton|frmeaning=From ''zigzag'' and {{tt|''raton''|raccoon}}
+|es=Zigzagoon|esmeaning=Same as English name
+|de=Zigzachs|demeaning=From ''zigzag'' and ''{{tt|Dachs|badger}}''
+|it=Zigzagoon|itmeaning=Same as English name
+|ko=지그제구리 ''Jigujaeguri''|komeaning=From ''zigzag'' and {{tt|너구리 ''neoguri''|raccoon}}
+|zh_cmn=蛇紋熊 / 蛇纹熊 ''Shéwénxióng''|zh_cmnmeaning=From {{tt|蛇紋 / 蛇纹 ''shéwén''|serpentine pattern}} and {{tt|浣熊 ''wǎnxióng / huànxióng''|raccoon}}
+|zh_yue=蛇紋熊 ''Sèhmàhnhùhng''|zh_yuemeaning=From {{tt|蛇紋 ''sèhmàhn''|serpentine pattern}} and {{tt|浣熊 ''wúhnhùhng''|raccoon}}
+|hi=लहरीउन ''Lahareeoon''|himeaning=From {{tt|लहर ''lahar''|wave}} / {{tt|लहरी ''laharee''|wavy}} and ''raccoon''
+|ru=Зигзагун ''Zigzagun''|rumeaning=Transcription of English name
+|th=จิกุซากุมะ ''Chikusakuma''|thmeaning=Transcription of Japanese name
+}}{{-}}
+
+==See also==
+* [[Regional form]]
+
+==References==
+<references/>
+
+==External links==
+
+{{Galarian forms}}
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0262|prev=Mightyena|nextnum=0264|next=Linoone}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appeared in the animated series before their game debut]]
+[[Category:White-colored Pokémon]]<!--Galarian Zigzagoon-->
+
+[[de:Zigzachs]]
+[[es:Zigzagoon]]
+[[fr:Zigzaton]]
+[[it:Zigzagoon]]
+[[ja:ジグザグマ]]
+[[zh:蛇纹熊]]

@@ -1,0 +1,852 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Ampharos}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0180|prev=Flaaffy|nextnum=0182|next=Bellossom|round=none}}
+{{PokémonPrevNext/Disambig|species=Ampharos}}
+|}
+{{Pokémon Infobox
+|name=Ampharos
+|jname=デンリュウ
+|jtranslit=Denryū
+|tmname=Denryu
+|forme=2
+|form2=Mega Ampharos
+|image2=0181Ampharos-Mega.png
+|mega=Ampharosite
+|ndex=0181
+|type1=Electric
+|form2type1=Electric
+|form2type2=Dragon
+|category=Light
+|height-ftin=4'07"
+|height-m=1.4
+|height-ftin2=4'07"
+|height-m2=1.4
+|weight-lbs=135.6
+|weight-kg=61.5
+|weight-lbs2=135.6
+|weight-kg2=61.5
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Static
+|abilityd=Plus
+|abilitym=Mold Breaker
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Field
+|eggcycles=20
+|evtotal=3
+|evsa=3
+|expyield=230<!--225 in Gen V-VI-->
+|oldexp=194
+|lv100exp=1,059,860
+|gendercode=127
+|color=Yellow
+|catchrate=45
+|body=06
+|pokefordex=ampharos
+|generation=2
+|friendship=70
+}}
+'''Ampharos''' ([[List of Japanese Pokémon names|Japanese]]: '''デンリュウ''' ''Denryu'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Flaaffy}} starting at [[level]] 30. It is the final form of {{p|Mareep}}.
+
+Ampharos can [[Mega Evolution|Mega Evolve]] into the Electric/{{T|Dragon}} '''Mega Ampharos''' using the [[Ampharosite]].
+
+Ampharos was officially revealed in the May 1997 issue of [[CoroCoro]], along with {{p|Donphan}} and {{p|Slowking}}.<ref>https://www.zoidsland.com/1rebyu-/koro97-5b.html</ref>
+
+==Biology==
+Ampharos is a yellow, bipedal {{wp|sheep|ovine}} {{OBP|Pokémon|species}} with a white belly. It has conical ears with black stripes and a red orb on its forehead. Its long neck has several black rings around it near the base. Its stubby arms resemble flippers and each foot has a single white nail. It has a long, black-striped tail with a red orb at the tip. The orb on its tail can shine so bright, that it can be seen from space. People have used the light as a beacon, or to send signals across the ocean. Ampharos is generally found in {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands}}, though it can also be found in farms alongside its pre-evolved forms {{p|Mareep}} and {{p|Flaaffy}}. As mentioned in {{g|Sleep}}, the tail light of a sleeping Ampharos can sometimes seen in the distance at night.<ref>[[Sleep style|Sleep Style Dex]]</ref> This is due to Ampharos forgetting to turn its tail light off before going to sleep.
+
+===Forms===
+Ampharos can [[Mega Evolution|Mega Evolve]] into Mega Ampharos.
+
+As [[Mega Evolution|Mega]] Ampharos, its toes turn black and it regrows white wool at the back of its head and over its tail, having its genes stimulated by Mega Evolution. This energy also awakens its long-sleeping dragon blood. Its long wooly tail has many small, red orbs attached to it. Its conical ears retain their stripes but are now segmented with swirled tips. When it increases the amount of electrical energy within itself, the red orbs on its body and wool emit a strong light.<ref>http://www.pokemonxy.com/en-us/pokemon/mega_pokemon/#Ampharos</ref>
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{electric color}}; {{roundy|10px}} border: 3px solid #{{dragon color dark}}"
+|-
+| {{color2|000|Mega Evolution|Mega}} Ampharos
+|-
+| style="{{roundy|96px}} border: 2px solid #{{dragon color dark}}; background: #{{electric color light}}; width:96px; height:96px"| [[File:0181Ampharos-Mega.png|100px]]
+|}
+|}
+
+===Evolution===
+Ampharos evolves from {{p|Flaaffy}} and is the final form of {{p|Mareep}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Electric
+|pictype=art
+|no1=0179
+|name1=Mareep
+|type1-1=Electric
+|evo1=
+|no2=0180
+|name2=Flaaffy
+|type1-2=Electric
+|evo2=
+|no3=0181
+|name3=Ampharos
+|type1-3=Electric
+}}
+</div>
+
+==Game data==
+===NPC appearances===
+* {{5v2|Gold|Silver|Crystal|HeartGold|SoulSilver}}: Jasmine's Ampharos, [[Amphy]], lights the [[Olivine Lighthouse|Olivine City lighthouse]]. Amphy was initially sick and Jasmine would not allow a Gym battle until it was cured.
+* {{g|Super Mystery Dungeon}}: [[Ampharos (Super Mystery Dungeon)|Ampharos]] is the Leader of the [[Expedition Society]]. The other members trust Ampharos, despite his poor sense of direction.
+
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=055}}
+{{Dex/Entry1|v=Gold|entry=The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.}}
+{{Dex/Entry1|v=Silver|entry=The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.}}
+{{Dex/Entry1|v=Crystal|entry=When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Ampharos</sc> gives off so much light that it can be seen even from space. People in the old days used the light of this {{ScPkmn}} to send signals back and forth with others far away.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It gives off so much light that it can be seen even from space. People in the old days used its light to send signals back and forth with others far away.}}
+{{Dex/Entry1|v=FireRed|entry=The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.}}
+{{Dex/Entry1|v=LeafGreen|entry=The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=055}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=The tip of its tail shines brightly. In the olden days, people sent signals using the tail's light.}}
+{{Dex/Entry1|v=HeartGold|entry=The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.}}
+{{Dex/Entry1|v=SoulSilver|entry=The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=027|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The tip of its tail shines brightly. In the olden days, people sent signals using the tail's light.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The tip of its tail shines so brightly it can be used to send sea-navigation beacons to distant foreign shores.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=129|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry2|v=X|v2=Y|t=FFF|t2=FFF|entry=The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=164|label1={{gameIcon|US}}{{gameIcon|UM}}:|reg2=Kanto}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=The light from its tail can be seen from space. This is why you can always tell exactly where it is, which is why it usually keeps the light off.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors.}}
+{{Dex/Form|Mega Ampharos}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Excess energy from Mega Evolution stimulates its genes, and the wool it had lost grows in again.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Massive amounts of energy intensely stimulated Ampharos's cells, apparently awakening its long-sleeping dragon's blood.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=The tip of its tail shines brightly. In the olden days, people sent signals using the light from this Pokémon's tail.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=103|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{electric color dark}}; background:#{{electric color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}};" | [[File:Pokédex Image Ampharos USUM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{dragon color dark}}; background:#{{electric color light}};" | [[File:Pokédex Image Ampharos-Mega USUM.png|x200px]]
+| style="border:2px solid #{{electric color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Ampharos SV.png|x200px]]
+|-
+| Ampharos in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Mega Ampharos in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Ampharos in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry1/None|v=Crystal}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]]}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]]}}
+{{Availability/Entry1|v=Colosseum|link=Pokémon Colosseum|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry1|v=Pal Park|color=A2E0A3|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Six)|Area Six]], [[Alfornada Cavern]]<br>North Province: [[North Province (Area One)|Area One]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Ampharos|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 10, Forever Level 5, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=Far [[Amp Plains]] (6F-9F), [[Landslide Cave]] (B1F-B12F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=Far [[Amp Plains]] (6F-9F), [[Landslide Cave]] (B1F-B12F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Altru Building]], [[Altru Tower]]}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Rasp Cavern]], {{DL|Layuda Island|Layuda Mountain}}, [[Sky Fortress]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Challenger's Ground]] (post-ending)}}
+{{Availability/Entry1|1|v=Conquest|color={{Silver color}}|area=[[Evolution|Evolve]] {{p|Flaaffy}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#Dangerous Rockets|Jungle Area: Dangerous Rockets]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 3|Safari Jungle: Stage 3]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Castle Farm|Dewdrop Bay: Castle Farm]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Super MD|color={{gold color}}|link=Pokémon Super Mystery Dungeon|area=Complete main story}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 20|Area 20: Stage 01]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Lugia Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Greninja Sea]], [[Entei Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Lightning Field]] (16F-21F), [[Buried Relic]] (32F-34F, 36F-37F), [[Purity Forest]] (31F-33F)<br/>Mystery House: [[Lightning Field]]<br/>[[Mystery_dungeon#Strong_Foes|Strong Foe]]: [[Sinister Woods]] (3F, 7F-9F, 11F-12F){{shinystar}}}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Snowdrop Tundra]] (from Ultra 2)<br>[[Old Gold Power Plant]] (from Great 5)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Great 2)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Castle Noapte|Castle Noapte: Stage 130]]<br>[[Nacht Carnival|Nacht Carnival: Stage 545]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Seasonal [[sync pair scout]]: {{sync|Jasmine|Ampharos|Holiday 2022}} <small>('''{{me|Ampharos}}''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+=====Ampharos=====
+======Generations II-V======
+{{BaseStats
+|type=electric
+|HP=90
+|Attack=75
+|Defense=75
+|SpAtk=115
+|SpDef=90
+|Speed=55}}
+
+======Generation VI onward======
+{{BaseStats
+|type=electric
+|HP=90
+|Attack=75
+|Defense=85
+|SpAtk=115
+|SpDef=90
+|Speed=55}}
+
+=====Mega Ampharos=====
+{{Base Stats
+|type=Electric
+|type2=Dragon
+|HP=90
+|Attack=95
+|Defense=105
+|SpAtk=165
+|SpDef=110
+|Speed=45}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|Speed=1
+|SpeedMax=3
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+=====Ampharos=====
+{{TypeEffectiveness
+|type1=electric
+|Normal=  100
+|Fighting=100
+|Flying=   50
+|Poison=  100
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric= 50
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+=====Mega Ampharos=====
+{{TypeEffectiveness
+|type1=electric
+|type2=dragon
+|Normal=  100
+|Fighting=100
+|Flying=   50
+|Poison=  100
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=    50
+|Electric= 25
+|Psychic= 100
+|Ice=     200
+|Dragon=  200
+|Dark=    100
+|Fairy=   200
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Ampharos|Electric|Electric|2}}
+{{learnlist/level9|1|Zap Cannon|Electric|Special|120|50|5||'''}}
+{{learnlist/level9|1|Magnetic Flux|Electric|Status|—|—|20}}
+{{learnlist/level9|1|Dragon Pulse|Dragon|Special|85|100|10}}
+{{learnlist/level9|1|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/level9|11|Cotton Spore|Grass|Status|—|100|40}}
+{{learnlist/level9|16|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|20|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|25|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/level9|29|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/level9|35|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/level9|40|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|46|Cotton Guard|Grass|Status|—|—|10}}
+{{learnlist/level9|51|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/level9|57|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|62|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/levelf/9|Ampharos|Electric|Electric|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Ampharos|Electric|Electric|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM044|Dragon Tail|Dragon|Physical|60|90|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM069|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM101|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM210|Supercell Slam|Electric|Physical|100|95|15||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM220|Meteor Beam|Rock|Special|120|90|10}}
+{{learnlist/tm9|TM222|Breaking Swipe|Dragon|Physical|60|100|15}}
+{{learnlist/tm9|TM226|Dragon Cheer|Dragon|Status|—|—|15}}
+{{learnlist/tmf/9|Ampharos|Electric|Electric|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Ampharos|Electric|Electric|2}}
+{{learnlist/breed9|{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0765|Oranguru}}|After You|Normal|Status|—|—|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026-Alola|Raichu}}{{MSP/H|0058|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059-Hisui|Arcanine}}{{MSP/H|0135|Jolteon}}{{MSP/H|0160|Feraligatr}}{{MSP/H|0162|Furret}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0203|Girafarig}}{{MSP/H|0981|Farigiraf}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215-Hisui|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}{{MSP/H|0522|Blitzle}}{{MSP/H|0523|Zebstrika}}{{MSP/H|0570|Zorua}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571-Hisui|Zoroark}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0877|Morpeko}}{{MSP/H|0921|Pawmi}}{{MSP/H|0922|Pawmo}}{{MSP/H|0923|Pawmot}}|Agility|Psychic|Status|—|—|30|grid=8}}
+{{learnlist/breed9|{{bag/s|TM Electric|SV|TM096}}{{tt|*|No Pokémon in the Field and Monsters Egg Groups can learn Eerie Impulse via level-up. However, the move is available via TM096 and can be passed down from the Pikachu line, Jolteon, the Mareep line, Quagsire, the Shinx line, Pachirisu, the Blitzle line, Dedenne, Morpeko, and the Pawmi line, or copied via Mirror Herb.}}|Eerie Impulse|Electric|Status|—|100|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0405|Luxray}}|Electric Terrain|Electric|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{bag/s|TM Electric|SV|TM211}}{{tt|*|No Pokémon in the Field and Monsters Egg Groups can learn Electroweb via level-up. However, the move is available via TM211 and can be passed down from the Pikachu line, Jolteon, the Mareep line, the Shinx line, Pachirisu, the Blitzle line, Dedenne, Passimian, Morpeko, and the Pawmi line, or copied via Mirror Herb.}}|Electroweb|Electric|Special|55|95|15||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0877|Morpeko}}{{MSP/H|0944|Shroodle}}{{MSP/H|0945|Grafaiai}}|Flatter|Dark|Status|—|100|15|grid=8}}
+{{learnlist/breedf/9|Ampharos|Electric|Electric|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Ampharos|Electric|Electric|2}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Ampharos|Electric|Electric|2}}
+
+===Side game data===
+====Ampharos====
+{{Spindata/Head|type=Electric}}
+{{Spindata/Trozei|col=6|type=Electric|ndex=181|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Electric|ndex=181
+|body=1
+|rate=Evolve
+|area=Thunder Meadow
+|P1=If you get lost, you can use me as a beacon!
+|P2=This worries me. My health has slid to about half.
+|P3=I'm close to falling... My taillight's almost burned out...
+|PL=I leveled up! My taillight burns brighter, too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Electric|ndex=181
+|body=1
+|rate=-4.5
+|IQ=F
+}}
+|-
+{{Spindata/PSMD|col=6|type=Electric|ndex=181
+|coset=5
+|conto={{p|Mawile}}, {{p|Dedenne}}
+|recruitment=Complete the epilogue story
+|P1=Let's go in style!
+|P2=Well, I think we'll be all right…
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=3
+|num=107
+|browser=It attacks by scattering charged orbs of electricity and shooting electric bolts.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Recharge
+|field=Recharge
+|fieldpower=5
+|assistp=Electric
+|fieldp=Electrify
+|num=009
+|pastnum=122
+|browser=It restores the [[Capture Styler|Styler]] Energy a lot.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Electric
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=181
+|walk=1.57
+|hp=57
+|attack=80
+|defense=57
+|speed=60
+}}
+|-
+{{Spindata/Conquest|col=6|type=Electric|ndex=181
+|HP=4
+|atk=4
+|def=3
+|spd=2
+|range=3
+|move=Thunder
+|ability1=Static
+|ability2=Interference
+|ability3=Confidence
+|evo=Evolves from {{p|Flaaffy}} when its Attack is 90 or higher
+|link=[[Norishige]] and [[Shōun]]
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Electric|ndex=181
+|power=3
+|skill=Flinch Attack
+|skilldesc=Briefly stops wild Pokémon from taking action.
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Electric|ndex=181|num=038
+|mega=1
+|stone=Ampharosite
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Dancing Dragons
+|skilldesc=Increases damage done by any Dragon types in the combo.
+|swapper=Mega Boost, Paralysis Combo
+|megaspeedup=9
+|effectdesc=A random lightning strike erases a jagged line of Pokémon.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=181
+|hatch=N/A
+|buddy=5
+|candy=Mareep
+|evolution={{Mega Energy|Ampharos}}{{tt|200|First time}}/{{tt|40|1st Mega Level}}/{{tt|20|2nd Mega Level}}/{{tt|10|3rd Mega Level}}
+|stamina=207
+|attack=211
+|defense=169
+|fast={{m|Charge Beam}}, {{m|Volt Switch}}
+|special={{m|Zap Cannon}}, {{m|Focus Blast}}, {{m|Thunder}}, {{m|Power Gem}}{{tt|*|From February 1, 2019 onward}}, {{m|Thunder Punch}}{{tt|*|From January 23, 2020 onward}}, {{m|Brutal Swing}}{{tt|*|From December 1, 2022 onward}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}, {{m|Dragon Pulse}}{{tt|†|Event-exclusive from Mareep Community Day}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0181
+|sleeptype=Snoozing
+|type=Electric
+|dexentry=The light from its tail can be seen from space. It's said that this Pokémon usually keeps the light off, but if you see a light shining far off in the distance at night, perhaps it's a soundly sleeping Ampharos.
+|sleepstyle1=Tail-Scratching Sleep
+|sleepstyle2=Head-Bobbing Sleep
+|sleepstyle3=Glowing-Tail Seep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=20
+|specialty=Skills
+|evolution=
+|pokemon=Mareep
+|candyNum=
+|berry=Grepa
+|ingredient1=Fiery Herb
+|ingredient2=Fancy Egg
+|carrylimit=15
+|skillname=Charge Strength M
+|skilldesc=Increases Snorlax's Strength by 880.
+}}
+|}
+
+====Mega Ampharos====
+{{Spindata/Head|type=Electric|type2=Dragon}}
+{{Spindata/PSMD|col=6|type=Electric|ndex=181M
+|coset=5
+|conto={{p|Mawile}}, {{p|Dedenne}}
+|recruitment=Complete the epilogue story
+|P1=Let's go in style!
+|P2=Well, I think we'll be all right…
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=181M
+|hatch=N/A
+|buddy=5
+|candy=Mareep
+|evolution=N/A
+|stamina=207
+|attack=294
+|defense=203
+|fast={{m|Charge Beam}}, {{m|Volt Switch}}
+|special={{m|Zap Cannon}}, {{m|Focus Blast}}, {{m|Thunder}}, {{m|Power Gem}}{{tt|*|From February 1, 2019 onward}}, {{m|Thunder Punch}}{{tt|*|From January 23, 2020 onward}}, {{m|Brutal Swing}}{{tt|*|From December 1, 2022 onward}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}, {{m|Dragon Pulse}}{{tt|†|Event-exclusive from Mareep Community Day}}, {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Form data===
+====Mega Evolution====
+{{Evobox/Formes
+|sprite1=0181Ampharos
+|name1=Ampharos
+|type1-1=Electric
+|forme1=Ampharos
+|loc1=Default
+|item1=Ampharosite
+|itemfile1=Dream Ampharosite Sprite.png
+|itemsize1=40px
+|sprite2=0181Ampharos-Mega
+|type1-2=Electric
+|type2-2=Dragon
+|forme2=Mega Ampharos
+|loc2={{color2|000|Held item|Held}} Ampharosite
+}}
+
+===Evolution data===
+{{Evobox-3
+|type1=Electric
+|pictype=art
+|no1=0179
+|name1=Mareep
+|type1-1=Electric
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 15}}
+|no2=0180
+|name2=Flaaffy
+|type1-2=Electric
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no3=0181
+|name3=Ampharos
+|type1-3=Electric
+}}
+
+===Sprites===
+{{Spritebox/Header|type=electric}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=181}}
+{{Spritebox/3|ndex=181}}
+{{Spritebox/4|ndex=181}}
+{{Spritebox/5|ndex=181}}
+{{Spritebox/6/2Forms|ndex=181|form1=M|crop=127}}
+{{Spritebox/7/2Forms|ndex=181|form1=M|crop=118}}
+<!--{{Spritebox/8/BDSP|ndex=181}}
+{{Spritebox/9|ndex=0181}}-->
+{{Spritebox/HOME/2Forms|ndex=0181|form1=M}}
+{{Spritebox/Footer|181|Ampharos}}
+
+==In animation==
+===Main series===
+[[File:Ellie Ampharos.png|thumb|250px|Ampharos in {{aniseries|BW}}]]
+[[File:Mega Ampharos anime.png|thumb|250px|[[Mega Evolution|Mega]] Ampharos in {{aniseries|HZ}}]]
+====Major appearances====
+=====[[Amphy]]=====
+[[Jasmine]] has an Ampharos that lights up the [[Olivine Lighthouse|Shining Lighthouse]] in [[Olivine City]], which debuted in ''[[EP208|Fight for the Light!]]'', thus also marking the species' debut. It was sick so {{Ash}} and {{ashfr}} went to [[Cianwood City]] to pick up medicine. This Ampharos was [[nickname]]d Sparkle in the English [[dub]].
+
+=====Other=====
+In ''[[AG059|Manectric Charge]]'', {{an|Watt}} used an Ampharos to free Ash, {{an|May}}, and {{an|Brock}}'s Pokémon from {{TRT}}'s net. It then battled [[May's Skitty]] and ultimately lost.
+
+In ''[[HS17|Those Darn Electabuzz!]]'', [[Shigeo]]'s Ampharos battled his son [[Corey Demario|Corey]]'s {{p|Charizard}}, nicknamed Don, as part of Don's training.
+
+In ''[[AG148|A Chip Off the Old Brock]]'', [[McCauley]] uses his Ampharos's electricity to make special potions for the pharmacy McCauley works at.
+
+In ''[[DP028|Drifloon On the Wind!]]'', [[Karsten]] has an Ampharos that assists him with his work at [[Valley Windworks]].
+
+In ''[[DP130|Frozen on Their Tracks!]]'', the [[Ampharos Train crew]] has an Ampharos that uses its electricity to assist them in driving a train.
+
+In ''[[BW113|The Light of Floccesy Ranch!]]'', [[Ellie]]'s Ampharos was responsible of keeping the Mareep of the [[Floccesy Ranch]] in check. It had confidence issues, but managed to overcome them after learning {{m|Thunder Punch}}.
+
+In ''[[XY009|Clemont's Got a Secret!]]'', [[Meyer]] was revealed to own an Ampharos. It is often seen accompanying him on his motorcycle.
+
+In ''[[JN096|Lighting the Way Home!]]'', four Ampharos, one of them belonging to [[Molayne]] and being used by {{an|Sophocles}}, assisted in guiding a space probe back to the planet.
+
+====Minor appearances====
+In ''[[EP242|As Clear As Crystal]]'', an Ampharos was affected by a crystal that gave a lake the ability to heal {{type|Electric}} Pokémon.
+
+An Ampharos appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+In ''[[AG187|The Unbeatable Lightness of Seeing!]]'', an Ampharos was living in [[Fennel Valley]].
+
+An Ampharos appeared in ''[[DP091|One Team, Two Team, Red Team, Blue Team!]]''.
+
+Multiple Ampharos appeared in ''[[BW105|Lost at the League!]]'', under the ownership of a {{pkmn|Trainer}}.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', a group of {{tc|Worker}}s in [[New Tork City]] used an Ampharos to help provide light when the power went out in [[Pokémon Hills]].
+
+In ''[[BW134|The Journalist from Another Region!]]'', a Trainer's Ampharos entered the [[Pokémon Sumo Tournament]] on [[Harvest Island]].
+
+An Ampharos appeared in [[BWS01]].
+
+An Ampharos appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]'' and ''[[XY002|Lumiose City Pursuit!]]''.
+
+An Ampharos appeared in ''[[XY016|A Jolting Switcheroo!]]''.
+
+An Ampharos capable of [[Mega Evolution|Mega Evolving]] appeared in the opening of ''[[XYS01|Mega Evolution Special I]]''.
+
+An Ampharos capable of Mega Evolving appeared in a fantasy in ''[[XY033|Calling from Beyond the Aura!]]''.
+
+In ''[[M17|Diancie and the Cocoon of Destruction]]'', multiple Ampharos were living in [[Allearth Forest]].
+
+In ''[[XYS04|Mega Evolution Special IV]]'', a Trainer's Mega Ampharos was one of the ten Mega-Evolved Pokémon that [[Alain]] and his {{TP|Alain|Charizard}} had to defeat.
+
+An Ampharos and its Mega Evolved form appeared in the opening sequence of ''[[M19|Volcanion and the Mechanical Marvel]]''. [[Nikola]] had his own Ampharos in a flashback.
+
+Three Trainers' Ampharos appeared in ''[[M21|The Power of Us]]''.
+
+A Trainer's Ampharos appeared in ''[[JN016|A Chilling Curse!]]''.
+
+A Student's Ampharos appeared in an image in ''[[HZ046|Welcome to Naranja Academy!]]''.
+
+A Trainer's Ampharos appeared in ''[[HZ050|Trending Terastallization! Dance, Dance, Quaxly!]]''.
+
+A Trainer's Ampharos appeared in ''[[HZ089|Where the Adventure Leads]]''.
+
+Two Ampharos appeared in [[HZ092]], with one of them appearing during [[Nidothing]]'s video as a Mega Ampharos.
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP208|Ampharos|Ash's Pokédex|Ampharos, the Light Pokémon. Ampharos emits a strong light from the tip of its tail, which can be seen over long distances and serve as a beacon to those who are lost.}}
+{{Animedexfooter/Pokémon|Johto}}
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG059|Ampharos|May's Pokédex|Ampharos, the Light Pokémon. Ampharos has the power to illuminate the tip of its tail. This special ability is used to guide the lost to safety.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP130|Ampharos|Ash's Pokédex|Ampharos, the Light Pokémon. The tip of its tail shines so brightly that in days gone by, people used it to send signals to each other with the light.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW113|Ampharos|Ash's Pokédex|Ampharos, the Light Pokémon and the final evolved form of Mareep. Because Ampharos's light can be seen from a great distance, people once used that light to communicate by sending signals back and forth.}}
+{{Animedexfooter/Pokémon|Unova}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN096|Ampharos|Goh's Rotom Phone|Ampharos, the Light Pokémon. An {{t|Electric}} type. The tip of Ampharos's tail lights up, guiding people who are lost. Like a lighthouse, this Pokémon is known for leading ships to safety.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===GOTCHA!===
+An Ampharos briefly appeared in [[GOTCHA!]], under the ownership of {{ga|Ethan}}.
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', an Ampharos briefly appeared under the ownership of a {{pkmn|Trainer}} in [[Ecruteak City]].
+
+===POKÉTOON===
+An Ampharos appeared in [[PT16]], under the ownership of a {{tc|Student}}.
+
+==In the manga==
+[[File:Amphy Adventures.png|thumb|200px|Ampharos in [[Pokémon Adventures]]]]
+[[File:Mega Ampharos Adventures.png|thumb|left|200px|Mega Ampharos in Pokémon Adventures]]
+===Pocket Monsters XY: The Legend of the Pokémon Dragon King===
+An Ampharos appeared in [[LDK1]].
+
+[[Taichi]] owns an Ampharos, as seen in [[LDK3]].
+
+===Pokémon Adventures===
+{{main|Amphy}}
+Amphy appeared under the ownership of [[Jasmine]] in ''[[PS109|Ampharos Amore]]''. {{adv|Gold}} and {{adv|Silver}} rescued the [[Gym Leader]] and her charge in the [[Bell Tower|Tin Tower]].
+
+An Ampharos appeared in ''[[PS331|The Final Battle IV]]'', where it was one of the Pokémon that helped {{adv|Emerald}} with his disabilities.
+
+An Ampharos capable of [[Mega Evolution|Mega Evolving]] appeared in a fantasy in ''[[PS560|Trevenant Pokes]]''.
+
+Two Ampharos belonging to {{tc|Worker}}s appeared in [[PS611]]. They reappeared in a flashback in [[PS615]].
+
+===Pokémon Gold & Silver: The Golden Boys===
+{{main|Amphy}}
+Amphy appeared in ''[[GB17|A Spectacular Battle To Save Ampharos]]'', under the ownership of Jasmine. It was not feeling well and Jasmine had {{GnB|Gold}} go to [[Cianwood City]] to get the [[Secret Medicine|medicine]] necessary to heal Amphy.
+
+===Pokémon HeartGold SoulSilver: Pokédex Completion Comic===
+An Ampharos appeared in [[Pokémon HeartGold SoulSilver: Pokédex Completion Comic]].
+
+===Pokémon Pocket Monsters===
+{{main|Amphy}}
+Amphy appeared in ''[[PM091|Light Up The Lighthouse!!]]'', under the ownership of Jasmine. It had become sick, and Jasmine had {{PPM|Red}} get the medicine needed to heal it.
+
+==In the TCG==
+{{main|Ampharos (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Ultimate]]===
+Ampharos appears as a {{sbw|Spirits (characters)|Spirit}}.
+
+==Trivia==
+[[File:Official Pokemon Fanbook 1997 Ampharos Sprite.png|thumb|200px|An earlier Ampharos design circa 1997]]
+* An {{DL|List of unused Pokémon and character designs|Ampharos|early design}} for Ampharos depicts it with a shorter neck.
+* Ampharos shares the same {{pkmn|category}} with {{p|Lanturn}}. They are both known as the Light Pokémon.
+
+===Origin===
+Ampharos resembles a sheared {{wp|sheep}} that its evolutionary line leads up to as they lose wool with each [[Evolution]]. It also shares traits with a {{wp|lighthouse}}, such as its height, stripes, and the beacon on the top; the two also share a name. It, as well as its pre-evolved forms, may have been based on the title of the sci-fi novel ''{{wp|Do Androids Dream of Electric Sheep?}}''.
+
+[[Mega Evolution|Mega]] Ampharos's {{t|Dragon}} type, wooly mane, wooly tail, jewel-like orbs on its tail, and slender body suggests that it may based on a {{wp|Chinese dragon}}.
+
+====Name origin====
+Ampharos may be a combination of ''{{wp|ampere|amp}}'' (a measure of electrical current) and Φάρος ''pháros'' (Greek for lighthouse), as well as ''amparo'' (Portuguese and Spanish for ''aid'' and ''protection''). 
+
+Denryu may be derived from 電流 ''denryū'' (electric current), as well as forming a pun on 電竜 ''den ryū'' (electric dragon). It may also incorporate 電球 ''denkyū'' (light bulb), referring to its tail.
+
+==In other languages==
+{{Other languages|type=electric|type2=electric
+|ja=デンリュウ ''Denryu''|jameaning=From {{tt|電流 ''denryū''|electric current}}, {{tt|竜 ''ryū''|dragon}}, and possibly {{tt|電球 ''denkyū''|light bulb}}
+|fr=Pharamp|frmeaning=From ''{{tt|phare|lighthouse}}'' and ''{{wp|ampere}}''
+|es=Ampharos|esmeaning=Same as English name
+|de=Ampharos|demeaning=Same as English name
+|it=Ampharos|itmeaning=Same as English name
+|ko=전룡 ''Jeonryong''|komeaning=From {{tt|전 (電) ''jeon''|electricity}} and {{tt|룡 (龍) ''ryong''|dragon}}
+|zh_cmn=電龍 / 电龙 ''Diànlóng''|zh_cmnmeaning=From {{tt|電 / 电 ''diàn''|electricity}} and {{tt|龍 / 龙 ''lóng''|dragon}}
+|zh_yue=電龍 ''Dihnlùhng''|zh_yuemeaning=From {{tt|電 ''dihn''|electricity}} and {{tt|龍 ''lùhng''|dragon}}
+|hi=ड्रैगली ''Dragli''|himeaning=From ''dragon'' and ''lit''
+|ru=Амфарос ''Amfaros''|rumeaning=Transcription of English name
+|th=เด็นริว ''Denrio''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Amphy]]
+* [[Ampharos (Super Mystery Dungeon)]]
+* [[Expedition Society]]
+* [[Mega Evolution]]
+
+==References==
+<references />
+
+==External links==
+{{Mega Evolution}}{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0180|prev=Flaaffy|nextnum=0182|next=Bellossom}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon whose base stats changed in Generation VI]]
+[[Category:Super Smash Bros. spirits]]
+
+[[de:Ampharos]]
+[[es:Ampharos]]
+[[fr:Pharamp]]
+[[it:Ampharos]]
+[[ja:デンリュウ]]
+[[zh:电龙]]

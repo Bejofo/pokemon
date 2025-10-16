@@ -1,0 +1,937 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Silvally}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0772|prev=Type: Null|nextnum=0774|next=Minior|round=none}}
+{{PokémonPrevNext/Disambig|species=Silvally}}
+|}
+{{Pokémon Infobox
+|name=Silvally
+|jname=シルヴァディ
+|jtranslit=Shiruvadi
+|tmname=Silvady
+|ndex=0773
+|type1=Normal
+|category=Synthetic
+|height-ftin=7'07"
+|height-m=2.3
+|weight-lbs=221.6
+|weight-kg=100.5
+|abilitylayout=1
+|ability1=RKS System
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|eggcycles=120
+|evtotal=3
+|evhp=3
+|expyield=257
+|lv100exp=1,250,000
+|gendercode=255
+|color=Gray
+|catchrate=3
+|body=08
+|pokefordex=silvally
+|generation=7
+|friendship=0
+}}
+'''Silvally''' ([[List of Japanese Pokémon names|Japanese]]: '''シルヴァディ''' ''Silvady'') is a {{type|Normal}} [[Legendary Pokémon]] introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Type: Null}} when [[friendship Evolution|leveled up with high friendship]].
+
+Silvally's {{a|RKS System}} allows it to change [[#Form data|forms]] and [[type]] when it holds a [[memory]].
+
+It is associated with the [[Ultra Beast]]s.
+
+==Biology==
+[[File:Silvally SM concept art.jpg|thumb|left|250px|Silvally's chimeric anatomy]]
+Silvally is a quadrupedal, chimeric {{OBP|Pokémon|species}} with traits from a variety of creatures, with an appearance nearly identical to its pre-Evolution, {{p|Type: Null}}. It has a mammalian head with mechanical parts. Covering most of its head and neck is a thick, silver mane that extends down over its chest. Its blunt snout is metallic on the bridge of its nose and upper jaw. Silvally has a triangular black nose framed by three red lines, pointed ears with bright pink and black insides, one visible fang on each side of its lower jaw, and a slight overbite. Its eyes are bright silver, have no visible pupils, and appear to be surrounded by an empty, black space. On each side of its head is a circular, metallic {{wp|Optical disc drive|drive}}, with a white circle crossed by a metal line. On top of its head is a large, axe-like fur or feather crest. The tip of the crest has a hooked, metallic piece, while the back has three white feathers. Silvally's lower body is mostly covered in short, black fur. The lower half of each front leg is insectoid and green with spikes along the back, while the rear legs have thick purple scales on the flanks, shins, and the top of the foot. All four of its feet have three toes, but in the front two toes face forward and one backward. Additionally, the hind paws have a short, gray claw on the back of the ankle. Its fishlike tail consists of two dark blue spines with a white fin stretched between them. The top spine has a line of short, gray spikes.
+[[File:Gladion Silvally RKS System.png|thumb|250px|Silvally's disk drive opening up for a {{t|Fighting}}-[[type]] [[Memory]]]]
+Once Type: Null finds a trusted partner and forms a powerful bond with them, it gains the strength and willpower needed to destroy its control mask and finally [[Evolution|evolve]] into its original form, Silvally. After its Evolution, it reactivates its {{a|RKS System}}, gaining the ability to change its [[type]] through the [[Memory|Memories]] created by the [[Aether Foundation]]; this ability was based on {{a|Multitype|the powers}} of {{p|Arceus|a certain Pokémon depicted in myths}}. Additionally, Silvally's speed and senses are increased due to Evolution. It was created as part of the [[beast killer project]] as an "Anti-[[Ultra Beast|UB]] Fighting life-form", however, the project was deemed a failure and a control helmet was built to seal away its power, [[Devolution|turning it]] into Type: Null. It reverts back to its natural, wild temperament, but it is still extremely loyal to its {{pkmn|Trainer}}, and it will even risk its own life in its partner's defense<ref>[https://web.archive.org/web/20180510222314mp_/https://www.pokemon-sunmoon.com/en-us/pokemon/silvally/ Silvally page on the Pokémon Sun and Moon site (Archived)]</ref>. [[Gladion]] was the one who coined Silvally’s name, but when it was created, it was named as "Type: Full" due to its ability to change between all types. Being created to hunt down [[Ultra Beast]]s, as seen in {{aniseries|SM}} and [[Pokémon Adventures]], Silvally can feel the appearance of Ultra Beasts and the opening of [[Ultra Wormhole]]s. 
+
+Silvally is the [[Signature move|only known Pokémon]] capable of learning the move {{m|Multi-Attack}}. Additionally, Silvally is the [[Signature Ability|only known Pokémon]] that can have {{a|RKS System}} as an [[Ability]].
+
+===Forms===
+Silvally has eighteen different forms, one for each [[type]].
+
+Thanks to its {{a|RKS System}}, Silvally is capable of changing its form and [[type]] according to the [[memory]] attached to it; its eyes, spikes, drives, and fin membrane all change color to match its current type.
+
+{| class="roundy" style="margin:auto; text-align:center; background: #{{unknown color}}; border: 3px solid #{{unknown color dark}}"
+|-
+|
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/Setup|HOME0773|Silvally|Normal|Normal|Normal|'''Type: Normal'''}}
+</div>
+|
+{{Evobox/Setup|HOME0773Fighting|Silvally|Fighting|Fighting|Fighting|'''Type: Fighting'''}}
+|
+{{Evobox/Setup|HOME0773Flying|Silvally|Flying|Flying|Flying|'''Type: Flying'''}}
+|
+{{Evobox/Setup|HOME0773Poison|Silvally|Poison|Poison|Poison|'''Type: Poison'''}}
+|
+{{Evobox/Setup|HOME0773Ground|Silvally|Ground|Ground|Ground|'''Type: Ground'''}}
+|
+{{Evobox/Setup|HOME0773Rock|Silvally|Rock|Rock|Rock|'''Type: Rock'''}}
+|-
+|
+{{Evobox/Setup|HOME0773Bug|Silvally|Bug|Bug|Bug|'''Type: Bug'''}}
+|
+{{Evobox/Setup|HOME0773Ghost|Silvally|Ghost|Ghost|Ghost|'''Type: Ghost'''}}
+|
+{{Evobox/Setup|HOME0773Steel|Silvally|Steel|Steel|Steel|'''Type: Steel'''}}
+|
+{{Evobox/Setup|HOME0773Fire|Silvally|Fire|Fire|Fire|'''Type: Fire'''}}
+|
+{{Evobox/Setup|HOME0773Water|Silvally|Water|Water|Water|'''Type: Water'''}}
+|
+{{Evobox/Setup|HOME0773Grass|Silvally|Grass|Grass|Grass|'''Type: Grass'''}}
+|-
+|
+{{Evobox/Setup|HOME0773Electric|Silvally|Electric|Electric|Electric|'''Type: Electric'''}}
+|
+{{Evobox/Setup|HOME0773Psychic|Silvally|Psychic|Psychic|Psychic|'''Type: Psychic'''}}
+|
+{{Evobox/Setup|HOME0773Ice|Silvally|Ice|Ice|Ice|'''Type: Ice'''}}
+|
+{{Evobox/Setup|HOME0773Dragon|Silvally|Dragon|Dragon|Dragon|'''Type: Dragon'''}}
+|
+{{Evobox/Setup|HOME0773Dark|Silvally|Dark|Dark|Dark|'''Type: Dark'''}}
+|
+{{Evobox/Setup|HOME0773Fairy|Silvally|Fairy|Fairy|Fairy|'''Type: Fairy'''}}
+|}
+
+===Evolution===
+Silvally evolves from {{p|Type: Null}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0772
+|name1=Type: Null
+|type1-1=Normal
+|evo1=
+|no2=0773
+|name2=Silvally
+|type1-2=Normal}}
+
+==Game data==
+[[File:Gladion and Silvally.png|thumb|right|230px|[[Normal]]-[[type]] Silvally with [[Gladion]] in a merchandise line]]
+===NPC appearances===
+*{{game4|SMUSUM}}: {{TP|Gladion|Silvally}} is a minor character in the games.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=204|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=260|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Form|Type: Normal}}
+{{Dex/Entry1|v=Sun|entry=Its trust in its partner is what awakens it. This {{OBP|Pokémon|species}} is capable of changing its [[type]], a flexibility that is well displayed in battle.}}
+{{Dex/Entry1|v=Moon|entry=Although its name was {{p|Type: Null}} at first, the [[Gladion|boy]] who [[Evolution|evolved]] it into this form gave it the name by which it is now known.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Through the bond it formed with its [[Pokémon Trainer|Trainer]], its will was strengthened, and it was able to destroy its control mask.}}
+{{Dex/Form|Other types}}
+{{Dex/Entry1|v=Sun|entry=It destroyed its own control mask. It has become capable of changing its type by equipping special memories.}}
+{{Dex/Entry1|v=Moon|entry=Upon awakening, its {{a|RKS System}} is activated. By employing specific [[Memory|memories]], this Pokémon can adapt its type to confound its enemies.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Having been awakened successfully, it can change its type and battle—just like {{p|Arceus|a certain Pokémon depicted in legends}}.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Its capacity to change types unleashed, it shines silver due to the energy springing forth from within.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=382|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Form|Type: Normal}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=A solid bond of trust between this Pokémon and its Trainer awakened the strength hidden within Silvally. It can change its type at will.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The final factor needed to release this Pokémon's true power was a strong bond with a Trainer it trusts.}}
+{{Dex/Form|Other types}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Thanks to its awakened powers, it can change to the {{tt|<Type>|matches the type of the form}} type to match the memory it has equipped.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It has the ability to change its type based on the memory it's holding. This is its {{tt|<Type>|matches the type of the form}}-type form.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{normal color dark}}; background:#{{normal color light}}| [[File:Pokédex Image Silvally SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{fighting color dark}}; background:#{{fighting color light}}| [[File:Pokédex Image Silvally-Fighting SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{flying color light}}| [[File:Pokédex Image Silvally-Flying SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{poison color dark}}; background:#{{poison color light}}| [[File:Pokédex Image Silvally-Poison SM.png|x200px]]
+|-
+| Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Fighting Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Flying Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Poison Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+|style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{ground color light}}| [[File:Pokédex Image Silvally-Ground SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{rock color dark}}; background:#{{rock color light}}| [[File:Pokédex Image Silvally-Rock SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{bug color dark}}; background:#{{bug color light}}| [[File:Pokédex Image Silvally-Bug SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{ghost color dark}}; background:#{{ghost color light}}| [[File:Pokédex Image Silvally-Ghost SM.png|x200px]]
+|-
+| Type: Ground Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Rock Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Bug Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Ghost Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+|style="{{roundy|20px}} border:2px solid #{{steel color dark}}; background:#{{steel color light}}| [[File:Pokédex Image Silvally-Steel SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{fire color dark}}; background:#{{fire color light}}| [[File:Pokédex Image Silvally-Fire SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{water color dark}}; background:#{{water color light}}| [[File:Pokédex Image Silvally-Water SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{grass color dark}}; background:#{{grass color light}}| [[File:Pokédex Image Silvally-Grass SM.png|x200px]]
+|-
+| Type: Steel Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Fire Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Water Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Grass Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}| [[File:Pokédex Image Silvally-Electric SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{psychic color dark}}; background:#{{psychic color light}}| [[File:Pokédex Image Silvally-Psychic SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{ice color dark}}; background:#{{ice color light}}| [[File:Pokédex Image Silvally-Ice SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{dragon color dark}}; background:#{{dragon color light}}| [[File:Pokédex Image Silvally-Dragon SM.png|x200px]]
+|-
+| Type: Electric Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Psychic Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Ice Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Dragon Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+|style="{{roundy|20px}} border:2px solid #{{dark color dark}}; background:#{{dark color light}}| [[File:Pokédex Image Silvally-Dark SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{fairy color dark}}; background:#{{fairy color light}}| [[File:Pokédex Image Silvally-Fairy SM.png|x200px]]
+|-
+| Type: Dark Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Type: Fairy Silvally in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Type: Null}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Type: Null}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Type: Null}}}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Buzzwole Sea]], [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Ultra Challenge|Silvally Appears]]''}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Gladion|Silvally}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Normal}}
+{{eventAvail|{{gameabbrev7|SM}}|Aether Silvally|Japanese region|Online|100{{shinystar|VII}}|September 22 to December 16, 2017|link=List of Japanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Taiwanese Aether Silvally}}
+{{eventAvail|{{gameabbrev7|SM}}|Aether Silvally|American region|Online|100{{shinystar|VII}}|September 22 to December 16, 2017|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Aether Silvally}}
+{{eventAvail|{{gameabbrev7|SM}}|Aether Silvally|PAL region|Online|100{{shinystar|VII}}|September 22 to December 16, 2017|link=List of PAL region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Taiwanese Aether Silvally}}
+{{eventAvail|{{gameabbrev7|SM}}|Aether Silvally|Taiwanese region|Online|100{{shinystar|VII}}|September 22 to December 16, 2017|link=List of Taiwanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Aether Silvally}}
+{{eventAvail|{{gameabbrev7|SM}}|Aether Silvally|Korean region|Online|100{{shinystar|VII}}|October 14 to November 30, 2017|link=List of Korean region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Aether Silvally}}
+{{eventAvail|{{gameabbrev7|SM}}|Aether Silvally|American region|Online|100{{shinystar|VII}}|October 23, 2017 to February 13, 2018|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Aether Silvally}}
+{{eventAvail|{{gameabbrev7|SM}}|Aether Silvally|PAL region|Online|100{{shinystar|VII}}|October 23, 2017 to February 13, 2018|link=List of PAL region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Aether Silvally}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Normal
+|event1=Gold Bottle Cap|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|HP=95
+|Attack=95
+|Defense=95
+|SpAtk=95
+|SpDef=95
+|Speed=95}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+For the type effectiveness when Silvally is holding a [[memory]], see {{DL|Type|type chart}}.
+
+===Learnset===
+Silvally is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Silvally|Normal|Normal|7}}
+{{learnlist/level8|1|Multi-Attack|Normal|Physical|120|100|10||'''}}
+{{learnlist/level8|1|Explosion|Normal|Physical|250|100|5||'''}}
+{{learnlist/level8|1|Thunder Fang|Electric|Physical|65|95|15||''}}
+{{learnlist/level8|1|Ice Fang|Ice|Physical|65|95|15||''}}
+{{learnlist/level8|1|Fire Fang|Fire|Physical|65|95|15||''}}
+{{learnlist/level8|1|Poison Fang|Poison|Physical|50|100|15||''}}
+{{learnlist/level8|1|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/level8|1|Iron Head|Steel|Physical|80|100|15||''}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level8|1|Bite|Dark|Physical|60|100|25||''}}
+{{learnlist/level8|1|Aerial Ace|Flying|Physical|60|—|20||''}}
+{{learnlist/level8|1|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Multi-Attack|Normal|Physical|120|100|10||'''}}
+{{learnlist/level8|15|Double Hit|Normal|Physical|35|90|10||'''}}
+{{learnlist/level8|20|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level8|25|Crush Claw|Normal|Physical|75|95|10||'''}}
+{{learnlist/level8|30|Air Slash|Flying|Special|75|95|15||''}}
+{{learnlist/level8|35|Tri Attack|Normal|Special|80|100|10||'''}}
+{{learnlist/level8|40|X-Scissor|Bug|Physical|80|100|15||''}}
+{{learnlist/level8|45|Crunch|Dark|Physical|80|100|15||''}}
+{{learnlist/level8|50|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level8|55|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/level8|60|Parting Shot|Dark|Status|—|100|20}}
+{{learnlist/levelf/8|Silvally|Normal|Normal|7|form=yes}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Silvally|Normal|Normal|7}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM20|Self-Destruct|Normal|Physical|200|100|5||'''}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10||''}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15||'''}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM26|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15||''}}
+{{learnlist/tm8|TM30|Steel Wing|Steel|Physical|70|90|25||''}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm8|TM44|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20||''}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10||''}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15||''}}
+{{learnlist/tm8|TM66|Thunder Fang|Electric|Physical|65|95|15||''}}
+{{learnlist/tm8|TM67|Ice Fang|Ice|Physical|65|95|15||''}}
+{{learnlist/tm8|TM68|Fire Fang|Fire|Physical|65|95|15||''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm8|TM85|Snarl|Dark|Special|55|95|15||''}}
+{{learnlist/tm8|TM95|Air Slash|Flying|Special|75|95|15||''}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR02|Flamethrower|Fire|Special|90|100|15||''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15||''}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10||''}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15||''}}
+{{learnlist/tr|TR19|Tri Attack|Normal|Special|80|100|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR21|Reversal|Fighting|Physical|—|100|15||''}}
+{{learnlist/tr|TR24|Outrage|Dragon|Physical|120|100|10||''}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR32|Crunch|Dark|Physical|80|100|15||''}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15||''}}
+{{learnlist/tr|TR36|Heat Wave|Fire|Special|95|90|10||''}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR47|Dragon Claw|Dragon|Physical|80|100|15||''}}
+{{learnlist/tr|TR60|X-Scissor|Bug|Physical|80|100|15||''}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15||''}}
+{{learnlist/tr|TR70|Flash Cannon|Steel|Special|80|100|10||''}}
+{{learnlist/tr|TR74|Iron Head|Steel|Physical|80|100|15||''}}
+{{learnlist/tr|TR85|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tr|TR97|Psychic Fangs|Psychic|Physical|85|100|10||''}}
+{{learnlist/tmf/8|Silvally|Normal|Normal|7|form=yes}}
+
+====By {{pkmn|breeding}}====
+{{Learnlist/breedh/8|Silvally|Normal|Normal|7}}
+{{Learnlist/breed8null}}
+{{Learnlist/breedf/8|Silvally|Normal|Normal|7|form=yes}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Silvally|Normal|Normal|7}}
+{{learnlist/tutor8|Draco Meteor|Dragon|Special|130|90|5||''|yes}}
+{{learnlist/tutor8|Grass Pledge|Grass|Special|80|100|10||''|yes}}
+{{learnlist/tutor8|Steel Beam|Steel|Special|140|95|5||''|yes}}
+{{learnlist/tutor8|Terrain Pulse|Normal|Special|50|100|10||'''|no|yes}}
+{{learnlist/tutorf/8|Silvally|Normal|Normal|7|form=yes}}
+
+====By a prior [[Evolution]]====
+{{Learnlist/prevoh/8|Silvally|Normal|Normal|7}}
+{{Learnlist/prevo8null}}
+{{Learnlist/prevof/8|Silvally|Normal|Normal|7|form=yes}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Silvally|Normal|Normal|7}}
+{{learnlist/prevgen8|Silvally|7|Confide|Normal|Status|—|—|20|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Silvally|7|Defog|Flying|Status|—|—|15|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Silvally|7|Double Team|Normal|Status|—|—|15|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Silvally|7|Flame Charge|Fire|Physical|50|100|20||''|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Silvally|7|Frustration|Normal|Physical|—|100|20||'''|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Silvally|7|Heal Block|Psychic|Status|—|100|15|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Silvally|7|Hidden Power|Normal|Special|60|100|15|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Silvally|7|Laser Focus|Normal|Status|—|—|30|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Silvally|7|Last Resort|Normal|Physical|140|100|5||'''|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Silvally|7|Magic Coat|Psychic|Status|—|—|15|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Silvally|7|Punishment|Dark|Physical|—|100|5||''|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Silvally|7|Pursuit|Dark|Physical|40|100|20||''|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Silvally|7|Rage|Normal|Physical|20|100|20||'''|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Silvally|7|Razor Wind|Normal|Special|80|100|10||'''|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Silvally|7|Return|Normal|Physical|—|100|20||'''|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Silvally|7|Roar|Normal|Status|—|—|20|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Silvally|7|Signal Beam|Bug|Special|75|100|15||''|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Silvally|7|Swagger|Normal|Status|—|85|15|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Silvally|7|Tailwind|Flying|Status|—|—|15|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Silvally|7|Toxic|Poison|Status|—|90|10|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Silvally|Normal|Normal|7}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Shuffle|col=6|type=Normal|ndex=773|num=776
+|min=80
+|max=145
+|raisemaxlevel=20
+|skill=Typeless Combo
+|skilldesc=Increases damage done by any types in the combo.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=773
+|walk=1.11
+|hp=58
+|attack=82
+|defense=58
+|speed=60
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=0773
+|hatch=N/A
+|buddy=20
+|evolution=N/A
+|stamina=216
+|attack=198
+|defense=198
+|fast={{m|Tackle}}, {{m|Take Down}}, {{m|Bite}}
+|special={{m|Tri Attack}}, {{m|Iron Head}}, {{m|Aerial Ace}}, {{m|X-Scissor}}
+}}
+|}
+
+===Form data===
+Silvally has multiple different forms that it switches between with its [[Ability]] {{a|RKS System}}, with each of its forms having a different [[type]]. In total, it has eighteen different forms, one for each type. By default, Silvally is in its {{type|Normal}} form. If it [[held item|holds]] a [[memory]], it changes its form to be the same type as the type the memory corresponds to. In [[Generation VII]], Silvally can only learn {{m|Draco Meteor}} while in its {{type|Dragon}} form; however, in [[Generation VIII]], it can learn Draco Meteor regardless of its form.
+
+{| class="roundy" style="margin:auto; text-align:center; background: #{{unknown color}}; border: 3px solid #{{unknown color dark}}"
+|-
+|
+{{Evobox/Setup|HOME0773|Silvally|Normal|Normal|Normal|'''Type: Normal'''<br>[[File:None.png|24px]]<br>No Memory}}
+|
+{{Evobox/Setup|HOME0773Fighting|Silvally|Fighting|Fighting|Fighting|'''Type: Fighting'''<br>[[File:Dream Fighting Memory Sprite.png|24px]]<br>{{color2|000|Fighting Memory}}}}
+|
+{{Evobox/Setup|HOME0773Flying|Silvally|Flying|Flying|Flying|'''Type: Flying'''<br>[[File:Dream Flying Memory Sprite.png|24px]]<br>{{color2|000|Flying Memory}}}}
+|
+{{Evobox/Setup|HOME0773Poison|Silvally|Poison|Poison|Poison|'''Type: Poison'''<br>[[File:Dream Poison Memory Sprite.png|24px]]<br>{{color2|000|Poison Memory}}}}
+|
+{{Evobox/Setup|HOME0773Ground|Silvally|Ground|Ground|Ground|'''Type: Ground'''<br>[[File:Dream Ground Memory Sprite.png|24px]]<br>{{color2|000|Ground Memory}}}}
+|
+{{Evobox/Setup|HOME0773Rock|Silvally|Rock|Rock|Rock|'''Type: Rock'''<br>[[File:Dream Rock Memory Sprite.png|24px]]<br>{{color2|000|Rock Memory}}}}
+|
+{{Evobox/Setup|HOME0773Bug|Silvally|Bug|Bug|Bug|'''Type: Bug'''<br>[[File:Dream Bug Memory Sprite.png|24px]]<br>{{color2|000|Bug Memory}}}}
+|
+{{Evobox/Setup|HOME0773Ghost|Silvally|Ghost|Ghost|Ghost|'''Type: Ghost'''<br>[[File:Dream Ghost Memory Sprite.png|24px]]<br>{{color2|000|Ghost Memory}}}}
+|
+{{Evobox/Setup|HOME0773Steel|Silvally|Steel|Steel|Steel|'''Type: Steel'''<br>[[File:Dream Steel Memory Sprite.png|24px]]<br>{{color2|000|Steel Memory}}}}
+|-
+|
+{{Evobox/Setup|HOME0773Fire|Silvally|Fire|Fire|Fire|'''Type: Fire'''<br>[[File:Dream Fire Memory Sprite.png|24px]]<br>{{color2|000|Fire Memory}}}}
+|
+{{Evobox/Setup|HOME0773Water|Silvally|Water|Water|Water|'''Type: Water'''<br>[[File:Dream Water Memory Sprite.png|24px]]<br>{{color2|000|Water Memory}}}}
+|
+{{Evobox/Setup|HOME0773Grass|Silvally|Grass|Grass|Grass|'''Type: Grass'''<br>[[File:Dream Grass Memory Sprite.png|24px]]<br>{{color2|000|Grass Memory}}}}
+|
+{{Evobox/Setup|HOME0773Electric|Silvally|Electric|Electric|Electric|'''Type: Electric'''<br>[[File:Dream Electric Memory Sprite.png|24px]]<br>{{color2|000|Electric Memory}}}}
+|
+{{Evobox/Setup|HOME0773Psychic|Silvally|Psychic|Psychic|Psychic|'''Type: Psychic'''<br>[[File:Dream Psychic Memory Sprite.png|24px]]<br>{{color2|000|Psychic Memory}}}}
+|
+{{Evobox/Setup|HOME0773Ice|Silvally|Ice|Ice|Ice|'''Type: Ice'''<br>[[File:Dream Ice Memory Sprite.png|24px]]<br>{{color2|000|Ice Memory}}}}
+|
+{{Evobox/Setup|HOME0773Dragon|Silvally|Dragon|Dragon|Dragon|'''Type: Dragon'''<br>[[File:Dream Dragon Memory Sprite.png|24px]]<br>{{color2|000|Dragon Memory}}}}
+|
+{{Evobox/Setup|HOME0773Dark|Silvally|Dark|Dark|Dark|'''Type: Dark'''<br>[[File:Dream Dark Memory Sprite.png|24px]]<br>{{color2|000|Dark Memory}}}}
+|
+{{Evobox/Setup|HOME0773Fairy|Silvally|Fairy|Fairy|Fairy|'''Type: Fairy'''<br>[[File:Dream Fairy Memory Sprite.png|24px]]<br>{{color2|000|Fairy Memory}}}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0772
+|name1=Type: Null
+|type1-1=Normal
+|evo1={{bag/s|Rare Candy|SV}} + {{bag/s|Soothe Bell|SV}}<br>{{color2|000|Level|Level up}} with<br>high {{color2|000|friendship}}
+|no2=0773
+|name2=Silvally
+|type1-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=773|crop=118}}
+{{Spritebox/8|ndex=773}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0773}}
+{{Spritebox/Footer|773|Silvally}}
+
+==In animation==
+[[File:Gladion Silvally.png|thumb|250px|Silvally in {{aniseries|SM}}]]
+===Major appearances===
+====[[Gladion's Silvally]]====
+Silvally debuted in ''[[SM049|Mission: Total Recall!]]'', under the ownership of {{an|Gladion}}. It evolved from Type: Null while saving {{an|Lillie}} from {{an|Faba}}'s {{p|Alakazam}}.
+<gallery>
+Gladion Silvally RKS System Dark.png|{{type|Dark}} Silvally
+Gladion Silvally RKS System Fairy.png|{{type|Fairy}} Silvally
+Gladion Silvally RKS System Fighting.png|{{type|Fighting}} Silvally
+Gladion Silvally RKS System Fire.png|{{type|Fire}} Silvally
+Gladion Silvally RKS System Rock.png|{{type|Rock}} Silvally
+Gladion Silvally RKS System Steel.png|{{type|Steel}} Silvally
+</gallery>
+
+===Minor appearances===
+
+==In the manga==
+[[File:Gladion Silvally Adventures.png|thumb|200px|Silvally in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+{{main|Gladion's Silvally}}
+[[Gladion]]'s Silvally debuted in ''[[PASM22|The Truth and Island Kahuna Hapu]]'', where it evolved from Type: Null in order to protect [[Lillie]] from a {{p|Guzzlord}}.
+
+<gallery>
+Gladion Silvally Heat Wave Adventures.png|{{type|Fire}} Silvally in Pokémon Adventures
+Gladion Silvally Rock type.png|{{type|Rock}} Silvally in Pokémon Adventures
+</gallery>
+
+===Pokémon Horizon===
+[[Tokio]]'s Type: Null evolved into a Silvally in ''[[HOR11|To a New Horizon]]''.
+
+==In the TCG==
+{{main|Silvally (TCG)}}
+==Trivia==
+<!--Please do not add any trivia mentioning a possible connection to Arceus.-->
+* In {{g|Sun and Moon}}, Silvally has a base [[experience]] yield of 114.
+* Silvally's stat distribution is identical to its pre-[[Evolution]], with the exception of its [[Stat#Speed|Speed stat]] rising to match its other stats.
+** The change in its Speed stat to 95 from 59 is a reversal of the digits.
+** This change to only its Speed stat makes Silvally's Evolution from Type: Null to experience the least changes to individual base stats of all Evolutions.
+* In {{g|Ultra Sun and Ultra Moon}} and {{g|Sword and Shield}}, Silvally is programmed to be able to be taught all three {{DL|Move variation|Pledge moves}} ({{m|Grass Pledge}}, {{m|Fire Pledge}}, and {{m|Water Pledge}}). However, due to a coding error, the [[Move Tutor]] will only offer to teach it Grass Pledge, making the latter two unable to be learned legitimately.
+
+===Origin===
+Silvally, like its pre-evolved form, seems to be based on a {{wp|Chimera (mythology)|chimera}}, a hybrid composed of different animal parts, or more specifically a {{wp|Griffin}} due to the wing-like crest on its head. Its concept also bears resemblance to {{p|Arceus}}, which can also change [[type]] and appearance based on the [[held item]]. Like its pre-Evolution, it also appears to be based on {{wp|Frankenstein's monster}} due to the bolt-like objects on its face and it being created from cells of different {{OBP|Pokémon|species}} types.
+
+====Name origin====
+<!--Do NOT add anything about Silicon Valley being a possible origin-->
+Silvally may be a combination of ''silver'' and ''ally''.
+
+Silvady may be a combination of ''silver'' and ''buddy''.
+
+Silvally's [[Pokédex]] entry in [[Pokémon Sun and Moon|Pokémon Moon]] says that its name was given by the boy who [[Evolution|evolved]] it, most likely [[Gladion]]. Silvally being Gladion's partner explains the presence of ally in its name.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=シルヴァディ ''Silvady''|jameaning=From ''silver'' and ''buddy''
+|fr=Silvallié|frmeaning=From ''silver'' and {{tt|''allié''|ally}}
+|es=Silvally|esmeaning=Same as English name
+|de=Amigento|demeaning=From {{tt|''amigo''|Spanish for friend}} and {{tt|''argentum''|silver}}
+|it=Silvally|itmeaning=Same as English name
+|ko=실버디 ''Silbuddy''|komeaning=Transliteration of Japanese name
+|zh_cmn=銀伴戰獸 / 银伴战兽 ''Yínbànzhànshòu''|zh_cmnmeaning=From {{tt|銀 ''yín''|silver}}, {{tt|伴 ''bàn''|partner}}, {{tt|戰鬥 ''zhàndòu''|fight}}, and {{tt|獸 ''shòu''|beast}}
+|zh_yue=銀伴戰獸 ''Ngàhnbuhnjinsau''|zh_yuemeaning=From {{tt|銀 ''ngàhn''|silver}}, {{tt|伴 ''buhn''|partner}}, {{tt|戰鬥 ''jindau''|fight}}, and {{tt|獸 ''sau''|beast}}
+|hi=सिल्वायार ''Silvayaar''|himeaning=From ''silver'' and {{tt|यार ''yār''|buddy, pal}}
+|ru=Силвалли ''Silvalli''|rumeaning=Transcription of English name
+|th=ซิลวาดี ''Sinwadi''|thmeaning=Transcription of Japanese name
+}}
+{{-}}
+<div style="display:inline-block">
+''Type: Normal''
+{{langtable|color={{Normal color}}|bordercolor={{Normal color dark}}
+|ja=タイプ：ノーマル ''Type: Normal''
+|zh_yue=屬性：一般 ''{{tt|Suhksing: Yātbūn|Type: Normal}}''
+|zh_cmn=屬性：一般 / 属性：一般 ''{{tt|Shǔxìng: Yībān|Type: Normal}}''
+|fr=Type: Normal
+|de=Typ:Normal
+|hi=टाइप: नॉर्मल ''Type: Normal''
+|it=Tipo Normale
+|ko=타입:노말 ''Type: Normal''
+|pt_br=Tipo: Normal
+|es=Tipo: Normal
+|th=ไทป์: ปกติ
+|tr=Türü: Normal
+|vi=Hệ: Thường
+}}
+</div>
+<div style="display:inline-block">
+''Type: Fighting''
+{{langtable|color={{Fighting color}}|bordercolor={{Fighting color dark}}
+|ja=タイプ：ファイト ''Type: Fight''
+|zh_yue=屬性：戰鬥 ''{{tt|Suhksing: Jindau|Type: Fighting}}''
+|zh_cmn=屬性：戰鬥 / 属性：战斗 ''{{tt|Shǔxìng: Zhàndòu|Type: Fighting}}''
+|fr=Type: Combat
+|de=Typ:Kampf
+|hi=टाइप: फ़ाइटिंग ''Type: Fighting''
+|it=Tipo Lotta
+|ko=타입:파이팅 ''Type: Fighting''
+|pt_br=Tipo: Lutador
+|es_la=Tipo: Pelea
+|es_eu=Tipo: Lucha
+|th=ไทป์: ต่อสู้
+|tr=Türü: Dövüşçü
+|vi=Hệ: Giác Đấu
+}}
+</div>
+<div style="display:inline-block">
+''Type: Flying''
+{{langtable|color={{Flying color}}|bordercolor={{Flying color dark}}
+|ja=タイプ：フライング ''Type: Flying''
+|zh_yue=屬性：飛翔 ''{{tt|Suhksing: Fēichèuhng|Type: Flying}}''
+|zh_cmn=屬性：飛翔 / 属性：飞翔 ''{{tt|Shǔxìng: Fēixiáng|Type: Flying}}''
+|fr=Type: Vol
+|de=Typ:Flug
+|hi=टाइप: फ़्लाइंग ''Type: Flying''
+|it=Tipo Volante
+|ko=타입:플라잉 ''Type: Flying''
+|pt_br=Tipo: Voador
+|es=Tipo: Volador
+|th=ไทป์: บิน
+|tr=Türü: Uçan
+|vi=Hệ: Bay
+}}
+</div>
+<div style="display:inline-block">
+''Type: Poison''
+{{langtable|color={{Poison color}}|bordercolor={{Poison color dark}}
+|ja=タイプ：ポイズン ''Type: Poison''
+|zh_yue=屬性：毒 ''{{tt|Suhksing: Duhk|Type: Poison}}''
+|zh_cmn=屬性：毒 / 属性：毒 ''{{tt|Shǔxìng: Dú|Type: Poison}}''
+|fr=Type: Poison
+|de=Typ:Gift
+|hi=टाइप: पॉइज़न ''Type: Poison''
+|it=Tipo Veleno
+|ko=타입:포이즌 ''Type: Poison''
+|pt_br=Tipo: Venenoso
+|es=Tipo: Veneno
+|th=ไทป์: พิษ
+|tr=Türü: Zehir
+|vi=Hệ: Độc					
+}}
+</div>
+<div style="display:inline-block">
+''Type: Ground''
+{{langtable|color={{Ground color}}|bordercolor={{Ground color dark}}
+|ja=タイプ：グラウンド ''Type: Ground''
+|zh_yue=屬性：大地 ''{{tt|Suhksing: Daaihdeih|Type: Ground}}''
+|zh_cmn=屬性：大地 / 属性：大地 ''{{tt|Shǔxìng: Dàdì|Type: Ground}}''
+|fr=Type: Sol
+|de=Typ:Boden
+|hi=टाइप: ग्राउंड ''Type: Ground''
+|it=Tipo Terra
+|ko=타입:그라운드 ''Type: Ground''
+|pt_br=Tipo: Terrestre
+|es=Tipo: Tierra
+|th=ไทป์: ดิน
+|tr=Türü: Yer
+|vi=Hệ: Đất				
+}}
+</div>
+<div style="display:inline-block">
+''Type: Rock''
+{{langtable|color={{Rock color}}|bordercolor={{Rock color dark}}
+|ja=タイプ：ロック ''Type: Rock''
+|zh_yue=屬性：岩石 ''{{tt|Suhksing: Ngàahmsehk|Type: Rock}}''
+|zh_cmn=屬性：岩石 / 属性：岩石 ''{{tt|Shǔxìng: Yánshí|Type: Rock}}''
+|fr=Type: Roche
+|de=Typ:Gestein
+|hi=टाइप: रॉक ''Type: Rock''
+|it=Tipo Roccia
+|ko=타입:락 ''Type: Rock''
+|pt_br=Tipo: Pedra
+|es=Tipo: Roca
+|th=ไทป์: หิน
+|tr=Türü: Kaya
+|vi=Hệ: Đá
+}}
+</div>
+<div style="display:inline-block">
+''Type: Bug''
+{{langtable|color={{Bug color}}|bordercolor={{Bug color dark}}
+|ja=タイプ：バグ ''Type: Bug''
+|zh_yue=屬性：蟲子 ''{{tt|Suhksing: Chùhngjí|Type: Bug}}''
+|zh_cmn=屬性：蟲子 / 属性：虫子 ''{{tt|Shǔxìng: Chóngzi|Type: Bug}}''
+|fr=Type: Insecte
+|de=Typ:Käfer
+|hi=टाइप: बग ''Type: Bug''
+|it=Tipo Coleottero
+|ko=타입:버그 ''Type: Bug''
+|pt_br=Tipo: Inseto
+|es_la=Tipo: Insecto
+|es_eu=Tipo: Bicho
+|th=ไทป์: แมลง
+|tr=Türü: Böcek
+|vi=Hệ: Côn Trùng
+}}
+</div>
+<div style="display:inline-block">
+''Type: Ghost''
+{{langtable|color={{Ghost color}}|bordercolor={{Ghost color dark}}
+|ja=タイプ：ゴースト ''Type: Ghost''
+|zh_yue=屬性：幽靈 ''{{tt|Suhksing: Yāulìhng|Type: Ghost}}''
+|zh_cmn=屬性：幽靈 / 属性：幽灵 ''{{tt|Shǔxìng: Yōulíng|Type: Ghost}}''
+|fr=Type: Spectre
+|de=Typ:Geist
+|hi=टाइप: घोस्ट ''Type: Ghost''
+|it=Tipo Spettro
+|ko=타입:고스트 ''Type: Ghost''
+|pt_br=Tipo: Fantasma
+|es=Tipo: Fantasma
+|th=ไทป์: ผี
+|tr=Türü: Hayalet
+|vi=Hệ: Ma
+}}
+</div>
+<div style="display:inline-block">
+''Type: Steel''
+{{langtable|color={{Steel color}}|bordercolor={{Steel color dark}}
+|ja=タイプ：スチール ''Type: Steel''
+|zh_yue=屬性：鋼鐵 ''{{tt|Suhksing: Gōngtit|Type: Steel}}''
+|zh_cmn=屬性：鋼鐵 / 属性：钢铁 ''{{tt|Shǔxìng: Gāngtiě|Type: Steel}}''
+|fr=Type: Acier
+|de=Typ:Stahl
+|hi=टाइप: स्टील ''Type: Steel''
+|it=Tipo Acciaio
+|ko=타입:스틸 ''Type: Steel''
+|pt_br=Tipo: Aço
+|es=Tipo: Acero
+|th=ไทป์: โลหะ
+|tr=Türü: Çelik
+|vi=Hệ: Thép
+}}
+</div>
+<div style="display:inline-block">
+''Type: Fire''
+{{langtable|color={{Fire color}}|bordercolor={{Fire color dark}}
+|ja=タイプ：ファイヤー ''Type: Fire''
+|zh_yue=屬性：火焰 ''{{tt|Suhksing: Fóyihm|Type: Fire}}''
+|zh_cmn=屬性：火焰 / 属性：火焰 ''{{tt|Shǔxìng: Huǒyàn|Type: Fire}}''
+|fr=Type: Feu
+|de=Typ:Feuer
+|hi=टाइप: फ़ायर ''Type: Fire''
+|it=Tipo Fuoco
+|ko=타입:파이어 ''Type: Fire''
+|pt_br=Tipo: Fogo
+|es=Tipo: Fuego
+|th=ไทป์: ไฟ
+|tr=Türü: Ateş
+|vi=Hệ: Lửa
+}}
+</div>
+<div style="display:inline-block">
+''Type: Water''
+{{langtable|color={{Water color}}|bordercolor={{Water color dark}}
+|ja=タイプ：ウオーター ''Type: Water''
+|zh_yue=屬性：清水 ''{{tt|Suhksing: Chīngséui|Type: Water}}''
+|zh_cmn=屬性：清水 / 属性：清水 ''{{tt|Shǔxìng: Qīngshuǐ|Type: Water}}''
+|fr=Type: Eau
+|de=Typ:Wasser
+|hi=टाइप: वॉटर ''Type: Water''
+|it=Tipo Acqua
+|ko=타입:워터 ''Type: Water''
+|pt_br=Tipo: Água
+|es=Tipo: Agua
+|th=ไทป์: น้ำ
+|tr=Türü: Su
+|vi=Hệ: Nước
+}}
+</div>
+<div style="display:inline-block">
+''Type: Grass''
+{{langtable|color={{Grass color}}|bordercolor={{Grass color dark}}
+|ja=タイプ：グラス ''Type: Grass''
+|zh_yue=屬性：青草 ''{{tt|Suhksing: Chīngchóu|Type: Grass}}''
+|zh_cmn=屬性：青草 / 属性：青草 ''{{tt|Shǔxìng: Qīngcǎo|Type: Grass}}''
+|fr=Type: Plante
+|de=Typ:Pflanze
+|hi=टाइप: ग्रास ''Type: Grass''
+|it=Tipo Erba
+|ko=타입:그래스 ''Type: Grass''
+|pt_br=Tipo: Planta
+|es=Tipo: Planta
+|th=ไทป์: หญ้า
+|tr=Türü: Bitki
+|vi=Hệ: Cỏ
+}}
+</div>
+<div style="display:inline-block">
+''Type: Electric''
+{{langtable|color={{Electric color}}|bordercolor={{Electric color dark}}
+|ja=タイプ：エレクトロ ''Type: Electro''
+|zh_yue=屬性：電子 ''{{tt|Suhksing: Dihnjí|Type: Electric}}''
+|zh_cmn=屬性：電子 / 属性：电子 ''{{tt|Shǔxìng: Diànzǐ|Type: Electric}}''
+|fr=Type: Électrik
+|de=Typ:Elektro
+|hi=टाइप: इलेक्टि्रक ''Type: Electric''
+|it=Tipo Elettro
+|ko=타입:일렉트릭 ''Type: Electric''
+|pt_br=Tipo: Elétrico
+|es=Tipo: Eléctrico
+|th=ไทป์: ไฟฟ้า
+|tr=Türü: Elekrik
+|vi=Hệ: Điện
+}}
+</div>
+<div style="display:inline-block">
+''Type: Psychic''
+{{langtable|color={{Psychic color}}|bordercolor={{Psychic color dark}}
+|ja=タイプ：サイキック ''Type: Psychic''
+|zh_yue=屬性：精神 ''{{tt|Suhksing: Jīngsàhn|Type: Psychic}}''
+|zh_cmn=屬性：精神 / 属性：精神 ''{{tt|Shǔxìng: Jīngshén|Type: Psychic}}''
+|fr=Type: Psy
+|de=Typ:Psycho
+|hi=टाइप: साइकिक ''Type: Psychic''
+|it=Tipo Psico
+|ko=타입:사이킥 ''Type: Psychic''
+|pt_br=Tipo: Psíquico
+|es=Tipo: Psíquico
+|th=ไทป์: พลังจิต
+|tr=Türü: Psişik
+|vi=Hệ: Siêu năng
+}}
+</div>
+<div style="display:inline-block">
+''Type: Ice''
+{{langtable|color={{Ice color}}|bordercolor={{Ice color dark}}
+|ja=タイプ：アイス ''Type: Ice''
+|zh_yue=屬性：冰雪 ''{{tt|Suhksing: Bīngsyut|Type: Ice}}''
+|zh_cmn=屬性：冰雪 / 属性：冰雪 ''{{tt|Shǔxìng: Bīngxuě|Type: Ice}}''
+|fr=Type: Glace
+|de=Typ:Eis
+|hi=टाइप: आइस ''Type: Ice''
+|it=Tipo Ghiaccio
+|ko=타입:아이스 ''Type: Ice''
+|pt_br=Tipo: Gelo
+|es=Tipo: Hielo
+|th=ไทป์: น้ำแข็ง
+|tr=Türü: Buz
+|vi=Hệ: Băng
+}}
+</div>
+<div style="display:inline-block">
+''Type: Dragon''
+{{langtable|color={{Dragon color}}|bordercolor={{Dragon color dark}}
+|ja=タイプ：ドラゴン ''Type: Dragon''
+|zh_yue=屬性：龍 ''{{tt|Suhksing: Lùhng|Type: Dragon}}''
+|zh_cmn=屬性：龍 / 属性：龙 ''{{tt|Shǔxìng: Lóng|Type: Dragon}}''
+|fr=Type: Dragon
+|de=Typ:Drache
+|hi=टाइप: ड्रैगन ''Type: Dragon''
+|it=Tipo Drago
+|ko=타입:드래곤 ''Type: Dragon''
+|pt_br=Tipo: Dragão
+|es=Tipo: Dragón
+|th=ไทป์: มังกร
+|tr=Türü: Ejderha
+|vi=Hệ: Rồng
+}}
+</div>
+<div style="display:inline-block">
+''Type: Dark''
+{{langtable|color={{Dark color}}|bordercolor={{Dark color dark}}
+|ja=タイプ：ダーク ''Type: Dark''
+|zh_yue=屬性：黑暗 ''{{tt|Suhksing: Hāk'Am|Type: Dark}}''
+|zh_cmn=屬性：黑暗 / 属性：黑暗 ''{{tt|Shǔxìng: Hēi'Àn|Type: Dark}}''
+|fr=Type: Ténèbres
+|de=Typ:Unlicht
+|hi=टाइप: डार्क ''Type: Dark''
+|it=Tipo Buio
+|ko=타입:다크 ''Type: Dark''
+|pt_br=Tipo: Sombrio
+|es=Tipo: Siniestro
+|th=ไทป์: ความมืด
+|tr=Türü: Karanlık
+|vi=Hệ: Bóng tối
+}}
+</div>
+<div style="display:inline-block">
+''Type: Fairy''
+{{langtable|color={{Fairy color}}|bordercolor={{Fairy color dark}}
+|ja=タイプ：フェアリー ''Type: Fairy''
+|zh_yue=屬性：妖精 ''{{tt|Suhksing: Yíujīng|Type: Fairy}}''
+|zh_cmn=屬性：妖精 / 属性：妖精 ''{{tt|Shǔxìng: Yāojīng|Type: Fairy}}''
+|fr=Type: Fée
+|de=Typ:Fee
+|hi=टाइप: फ़ेरी ''Type: Fairy''
+|it=Tipo Folletto
+|ko=타입:페어리 ''Type: Fairy''
+|pt_br=Tipo: Fada
+|es=Tipo: Hada
+|th=ไทป์: แฟรี่
+|tr=Türü: Peri
+|vi=Hệ: Tiên
+}}
+</div>
+
+==Related articles==
+* [[Gladion's Silvally]]
+* [[Artificial Pokémon]]
+* [[List of Pokémon with form differences]]
+* [[Legendary Pokémon]]
+* [[Pokémon fusion]]
+* [[Population of Legendary and Mythical Pokémon]]
+
+==References==
+<references/>
+
+==External links==
+{{Legendary Pokémon}}
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0772|prev=Type: Null|nextnum=0774|next=Minior}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Artificial Pokémon]]
+[[Category:Legendary Pokémon]]
+[[Category:Alola Legendary Pokémon]]
+
+[[de:Amigento]]
+[[es:Silvally]]
+[[fr:Silvallié]]
+[[it:Silvally]]
+[[ja:シルヴァディ]]
+[[zh:银伴战兽]]

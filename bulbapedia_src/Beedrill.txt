@@ -1,0 +1,963 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/GO|species=Beedrill}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0014|prev=Kakuna|nextnum=0016|next=Pidgey|round=none}}
+{{PokémonPrevNext/Disambig|species=Beedrill}}
+|}
+{{Pokémon Infobox
+|name=Beedrill
+|jname=スピアー
+|jtranslit=Supiā
+|tmname=Spear
+|forme=2
+|form2=Mega Beedrill
+|image2=0015Beedrill-Mega.png
+|mega=Beedrillite
+|ndex=0015
+|type1=Bug
+|type2=Poison
+|category=Poison Bee
+|height-ftin=3'03"
+|height-m=1.0
+|height-ftin2=4'07"
+|height-m2=1.4
+|weight-lbs=65.0
+|weight-kg=29.5
+|weight-lbs2=89.3
+|weight-kg2=40.5
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Swarm
+|abilityd=Sniper
+|abilitym=Adaptability
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=3
+|evat=2
+|evsd=1
+|expyield=178<!--173 in Gen V-VI-->
+|oldexp=159
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|catchrate=45
+|body=13
+|pokefordex=beedrill
+|generation=1
+|friendship=70
+}}
+'''Beedrill''' ([[List of Japanese Pokémon names|Japanese]]: '''スピアー''' ''Spear'') is a dual-type {{2t|Bug|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Kakuna}} starting at [[level]] 10. It is the final form of {{p|Weedle}}.
+
+Beedrill can [[Mega Evolution|Mega Evolve]] into '''Mega Beedrill''' using the [[Beedrillite]].
+
+==Biology==
+Beedrill is an {{wp|insect}} {{OBP|Pokémon|species}} which mostly resembles a bipedal, yellow wasp; however, it only has four legs instead of six and lacks {{wp|Simple eye in invertebrates|pigment pits}}. Beedrill's head is round with a slightly pointed mouth, large, red eyes, and black antennae with a sharp bend in the middle. Its forelegs are tipped with long, conical stingers. It stands on its other two legs, which are long, segmented, and insectoid in shape. Beedrill has two pairs of rounded, veined wings and another stinger on its yellow-and-black striped abdomen. The abdominal stinger contains Beedrill's most potent poison.
+
+Beedrill is highly territorial and, unlike real wasps and bees, Beedrill are not confirmed to live in true "hives", as they work together to solve basic problems regarding food, territory, and reproduction without any confirmation if there is a singular breeding pair or "Queen." As seen in the ''[[Pokémon the Series]]'' episode ''[[EP004|Challenge of the Samurai]]'', Beedrill seems to be especially concerned with the welfare of {{p|Weedle}} and {{p|Kakuna}}, responding aggressively to those that disturb them. Disturbing one Beedrill will cause the whole group to attack. It flies at high speed and attacks using the large venomous stingers on its forelegs and abdomen. It will then take the victims of its attacks back to its nest for food. Beedrill nests in {{DL|List of Pokémon by habitat|Forest Pokémon|temperate forests}} and misty wooded areas. It is known to collect pollen, which {{p|Teddiursa}} combines with fruits to concoct [[honey]]. In [[PS012|the twelfth chapter of Pokémon Adventures]], Beedrill is shown living in groups or packs and producing honey. Prior to [[Generation V]], {{m|Twineedle}} was its [[signature move]].
+
+===Forms===
+Beedrill can [[Mega Evolution|Mega Evolve]] into Mega Beedrill.
+
+As Mega Beedrill, it gains more defined features. The antennae are shorter and T-shaped. Its eyes become longer and sleeker. It now has three pairs of wings; the uppermost pair is larger with black trim along the top. Its stingers become longer and larger, resembling lances. Additional conical, black-and-yellow stingers with white tips take the place of its legs. Its abdomen becomes larger, grooved, and is attached to its thorax by a black structure. A similar black structure connects its head and thorax. The stinger on its abdomen is now a pale yellow, with black stripes over its entire body. 
+
+Thanks to its six wings, Mega Beedrill can fly with great speed to quickly attack its enemies. Fast-acting poison is stored in the stingers on its limbs, while the tail stinger produces a slow-acting poison used to finish opponents. Mega Beedrill usually stabs its prey repeatedly with the leg stingers before using the tail stinger last. The instantaneous poisons are instead used to prevent the foe from fleeing.<ref name= "Mega">[https://web.archive.org/web/20141016185128/http://www.pokemonrubysapphire.com:80/en-us/pokemon/new-mega-evolutions/mega-beedrill Pokémon Omega Ruby and Alpha Sapphire site | Mega Beedrill (archived)]</ref>
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{bug color}}; {{roundy|10px}} border: 3px solid #{{poison color dark}}"
+|-
+| {{color2|000|Mega Evolution|Mega}} Beedrill
+|-
+| style="{{roundy|96px}} border: 2px solid #{{poison color dark}}; background: #{{bug color light}}; width:96px; height:96px"| [[File:0015Beedrill-Mega.png|100px]]
+|}
+|}
+
+===Evolution===
+Beedrill evolves from {{p|Kakuna}} and is the final form of {{p|Weedle}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0013
+|name1=Weedle
+|type1-1=Bug
+|type2-1=Poison
+|evo1=
+|no2=0014
+|name2=Kakuna
+|type1-2=Bug
+|type2-2=Poison
+|evo2=
+|no3=0015
+|name3=Beedrill
+|type1-3=Bug
+|type2-3=Poison}}
+</div>
+
+==Game data==
+===NPC appearances===
+*{{g|Super Mystery Dungeon}}: Two Beedrill and three female Combee act as bosses of Nectar Meadow, having misinterpreted {{p|Budew}}, the player, and the partner as honey thieves. One of the Beedrill also helps guard Revelation Mountain against intruders.
+
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Poison}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=015}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.}}
+{{Dex/Entry1|v=Yellow|entry=It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Flies at high speeds and attacks with three stingers: one on its rear and one on each of its two forelegs. May appear in swarms.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=029}}
+{{Dex/Entry1|v=Gold|entry=It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.}}
+{{Dex/Entry1|v=Silver|entry=It has three poison barbs. The barb on its tail secretes the most powerful poison.}}
+{{Dex/Entry1|v=Crystal|entry=It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It has three poison barbs. The barb on its tail secretes the most powerful poison. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=015}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Beedrill</sc> is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A <sc>Beedrill</sc> is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.}}
+{{Dex/Entry1|v=FireRed|entry=May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.}}
+{{Dex/Entry1|v=LeafGreen|entry=It flies at high speed and attacks using the large venomous stingers on its forelegs and tail.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=029}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its best attack involves flying around at high speed, striking with poison needles, then flying off.}}
+{{Dex/Entry1|v=HeartGold|entry=It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.}}
+{{Dex/Entry1|v=SoulSilver|entry=It has three poison barbs. The barb on its tail secretes the most powerful poison.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its best attack involves flying around at high speed, striking with poison needles, then flying off.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its best attack involves flying around at high speed, striking with poison needles, then flying off.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=028|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=015}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.}}
+{{Dex/Form|[[Mega Evolution|Mega]] Beedrill}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Its best attack involves flying around at high speed, striking with poison needles, then flying off.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+{{Availability/Entry1/None|v=Yellow}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Silver|area={{rt|2|Kanto}}{{sup/t|M}}<br/>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}, [[Azalea Town]], [[Ilex Forest]], [[Lake of Rage]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|1|v=Crystal|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>[[Ilex Forest]] ([[Headbutt tree]]s)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+{{Availability/Entry1|v=HeartGold|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=SoulSilver|area={{rt|2|Kanto}}{{sup/t|M}}{{sup/t|N}}<br>[[Viridian Forest]]{{sup/t|M}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>{{rt|47|Johto}}, [[Ilex Forest]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Black|t=fff|area={{rt|12|Unova}} ({{DL|Phenomenon|rustling grass}})}}
+{{Availability/Entry1/None|1|v=White}}
+{{Availability/Entry1|1|v=Black 2|t=fff|area=[[Pinwheel Forest]] ([[Hidden Grotto]]){{tt|*|Pinwheel Forest interior, near the lake}}}}
+{{Availability/Entry1/None|1|v=White 2}}
+{{Availability/Entry1|1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{rt|4|Alola}} ({{DL|QR Scanner|Island Scan}}){{dotw|Th}}}}
+{{Availability/Entry1|v=Let's Go Pikachu|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+{{Availability/Entry1|v=Let's Go Eevee|area=[[Viridian Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry1/None|v=Brilliant Diamond}}
+{{Availability/Entry1|v=Shining Pearl|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area={{OBP|Viridian Forest|Channel}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 2, Endless Level 19, Forever Level 51, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Lyra Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|1|v=MD Time|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Evolution|Evolve]] {{p|Kakuna}}}}
+{{Availability/Entry1|1|v=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Apple Woods]] (8F-12F), [[Midnight Forest]] (B1-B21)}}
+{{Availability/Entry1|1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Apple Woods]] (8F-12F), [[Midnight Forest]] (B1-B21)}}
+{{Availability/Entry1|1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Vien Forest]], [[Chroma Highlands]]}}
+{{Availability/Entry1|1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode A & S)</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Misty Edgewater]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Chrysalia]], [[Viperia]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#All Aboard!|Model Train Room: All Aboard!]], [[Variety Battle#It's Drill Time!|Variety Battle: It's Drill Time!]],<br>[[Chill Battle#The Forest of Memories|Chill Battle: The Forest of Memories]] <small>(First Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 3|Safari Jungle: Stage 3]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Castle Farm|Dewdrop Bay: Castle Farm]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 26|Area 26: Stage 04]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mewtwo Sea]], [[Bulbasaur Sea]], [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Silent Chasm]] (8F-9F), [[Joyous Tower]] (31F-35F), [[Purity Forest]] (31F-35F)<br/>Fainted Pokémon: [[Tiny Woods]]<br/>Mystery House: [[Silver Trench]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[High-Speed Challenge|Beedrill Appears]]''}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Bugsy|Beedrill}} <small>('''{{me|Beedrill}}''')</small><br>[[Evolution]]: {{sync/player|egg|Kakuna}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Bug|type2=Poison}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Bitter Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Gold|Silver|Pokémon Gold and Silver Versions}}
+{{HeldItems/Items1|Poison Barb|2|rows=2}}
+{{HeldItems/Games1|Crystal|Pokémon Crystal Version}}
+{{HeldItems/Games1|XD|tcolor=FFF|Pokémon XD: Gale of Darkness}}
+{{HeldItems/Items1|Poison Barb|100}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Items1|Poison Barb|5|rows=4}}
+{{HeldItems/Games2|Black|White|tcolor1=FFF|gcolor2=FFF|tcolor2={{White color}}|Pokémon Black and White Versions}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|gcolor2=FFF|tcolor2={{White 2 color}}|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+|}
+
+===Stats===
+====Base stats====
+=====Beedrill=====
+======Generations I-V======
+{{Stats
+|type=Bug
+|type2=Poison
+|HP=65
+|Attack=80
+|Defense=40
+|SpAtk=45
+|SpDef=80
+|Speed=75
+|Special=45
+}}
+
+======Generation VI onward======
+{{Stats
+|type=Bug
+|type2=Poison
+|HP=65
+|Attack=90
+|Defense=40
+|SpAtk=45
+|SpDef=80
+|Speed=75
+}}
+
+=====Mega Beedrill=====
+{{Base Stats
+|type=Bug
+|type2=Poison
+|HP=65
+|Attack=150
+|Defense=40
+|SpAtk=15
+|SpDef=80
+|Speed=145
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Poison
+|Speed=3
+|SpeedMax=4
+|Power=1
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=2
+|StaminaMax=2
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Poison
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=50
+|Ground=100
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=25
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|gen1bug=yes
+|gen1poison=yes
+|oldbug=2
+|oldpoison=1
+}}
+
+===Learnset===
+Beedrill is available in {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Beedrill|Bug|Poison|1}}
+{{learnlist/level8|1|Fury Attack|Normal|Physical|15|85|20||}}
+{{learnlist/level8|1|Harden|Normal|Status|&mdash;|&mdash;|30||}}
+{{learnlist/level8|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level8|1|String Shot|Bug|Status|&mdash;|95|40||}}
+{{learnlist/level8|1|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Fury Attack|Normal|Physical|15|85|20||}}
+{{learnlist/level8|11|Fury Cutter|Bug|Physical|40|95|20||'''}}
+{{learnlist/level8|14|Laser Focus|Normal|Status|&mdash;|&mdash;|30||}}
+{{learnlist/level8|17|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level8|20|Focus Energy|Normal|Status|&mdash;|&mdash;|30||}}
+{{learnlist/level8|23|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/level8|26|Assurance|Dark|Physical|60|100|10||}}
+{{learnlist/level8|29|Toxic Spikes|Poison|Status|&mdash;|&mdash;|20||}}
+{{learnlist/level8|32|Pin Missile|Bug|Physical|25|95|20||'''}}
+{{learnlist/level8|35|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/level8|38|Agility|Psychic|Status|&mdash;|&mdash;|30||}}
+{{learnlist/level8|41|Endeavor|Normal|Physical|&mdash;|100|5||}}
+{{learnlist/level8|44|Fell Stinger|Bug|Physical|50|100|25||'''}}
+{{learnlist/levelf/8|Beedrill|Bug|Poison|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/8|Beedrill|Bug|Poison|1}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM15|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM19|Giga Drain|Grass|Special|75|100|10||}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||}}
+{{learnlist/tm8|TM31|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tm8|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm8|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|&mdash;|100|15||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM51|Roost|Flying|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM54|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM66|Payback|Dark|Physical|50|100|10||}}
+{{learnlist/tm8|TM68|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm8|TM70|Flash|Normal|Status|&mdash;|100|20||}}
+{{learnlist/tm8|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20||}}
+{{learnlist/tm8|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|&mdash;|85|15||}}
+{{learnlist/tm8|TM89|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||}}
+{{learnlist/tm8|TM97|Defog|Flying|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tm8|TM98|Rock Smash|Fighting|Physical|40|100|15||}}
+{{learnlist/tmf/8|Beedrill|Bug|Poison|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Beedrill|Bug|Poison|1}}
+{{learnlist/breed8null}}
+{{learnlist/breedf/8|Beedrill|Bug|Poison|1}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Beedrill|Bug|Poison|1}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Beedrill|Bug|Poison|1}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Beedrill|Bug|Poison|1}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Beedrill|Bug|Poison|1}}
+
+
+====[[Animated series move errors|Animated series-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{bug color}}; border: 3px solid #{{poison color dark}}"
+! style="background: #{{bug color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{bug color light}}" | Type
+! style="background: #{{bug color light}}; {{roundytr|5px}}" | Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Tackle}}
+| style="background:#{{normal color}}" | {{typecolor|Normal}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[EP077|The Fourth Round Rumble]]''
+|}
+
+===Side game data===
+====Beedrill====
+{{Spindata/Head|type=Bug|type2=Poison}}
+{{Spindata/Pinball|col=3|type=Bug|ndex=015|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=015|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=015
+|body=1
+|rate=Evolve
+|area=Mist-Rise Forest
+|P1=Count on me for speediness!
+|P2=My health dropped to half...
+|P3=I'm about done. My {{m|Poison Sting}} might fail...
+|PL=Hah! Leveled up! My Poison Sting's gotten sharper!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=015
+|body=1
+|rate=5
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=015
+|coset=6
+|conto={{p|Combee|Combee (♀)}}, {{p|Vespiquen}}
+|recruitment=Raise the {{DL|Rank (Mystery Dungeon)|Expedition Rank}} to Silver
+|P1=I'm busy today! I'll be busy tomorrow! Bee!
+|P2=Really close to fainting…
+}}
+|-
+{{Spindata/Ranger|col=6|type=Bug
+|group=Bug
+|assist=Poison
+|fieldpower=1
+|field=Crush
+|loop=3
+|MinEXP=32
+|MaxEXP=46
+|num=025
+|browser=Beedrill shoots sharp needles that can shatter large rocks.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Bug
+|group=Bug
+|assist=Bug
+|field=Crush
+|fieldpower=2
+|num=058
+|browser=It attacks with poison stingers while flying around at high speed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=3
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=015
+|walk=1.67
+|hp=52
+|attack=74
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/Conquest|col=6|type=Bug|ndex=015
+|HP=3
+|atk=2
+|def=2
+|spd=3
+|range=3
+|move=Twineedle
+|ability1=Vanguard
+|ability2=Mountaineer
+|ability3=Swarm
+|evo=Does not evolve into or from anything in this game
+|link=[[Masatsuna]], [[Omi]], and [[Sena]]
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Bug|ndex=015
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Bug|ndex=015|stype=Poison|num=425
+|mega=1
+|stone=Beedrillite
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Block Smash
+|skilldesc=Clears one unbreakable-block disruption without fail.
+|swapper=Swap++
+|megaspeedup=12
+|effectdesc=Erases Pokémon and disruptions around a spot you tap.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=015
+|hatch=N/A
+|buddy=1
+|candy=Weedle
+|evolution={{Mega Energy|Beedrill}}{{tt|100|First time}}/{{tt|20|1st Mega Level}}/{{tt|10|2nd Mega Level}}/{{tt|5|3rd Mega Level}}
+|stamina=163
+|attack=169
+|defense=130
+|fast={{m|Infestation}}{{tt|*|From February 16, 2017 onward}}, {{m|Poison Jab}}, {{m|Bug Bite}}{{tt|†|Prior to February 16, 2017}}, {{m|Poison Sting}}{{tt|*|From June 1, 2025 onward}}
+|special={{m|Sludge Bomb}}, {{m|Aerial Ace}}, {{m|X-Scissor}}, {{m|Fell Stinger}}{{tt|*|From December 11, 2019 onward}}, {{m|Drill Run}}{{tt|†|Event-exclusive from Weedle Community Day}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+====Mega Beedrill====
+{{Spindata/Head|type=Bug|type2=Poison}}
+{{Spindata/PSMD|col=6|type=Bug|ndex=015M
+|coset=6
+|conto={{p|Combee|Combee (♀)}}, {{p|Vespiquen}}
+|recruitment=Raise the {{DL|Rank (Mystery Dungeon)|Expedition Rank}} to Silver
+|P1=I'm busy today! I'll be busy tomorrow! Bee!
+|P2=Really close to fainting…
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=015M
+|hatch=N/A
+|buddy=1
+|candy=Weedle
+|evolution=N/A
+|stamina=163
+|attack=303
+|defense=148
+|fast={{m|Infestation}}{{tt|*|From February 16, 2017 onward}}, {{m|Poison Jab}}, {{m|Bug Bite}}{{tt|†|Prior to February 16, 2017}}, {{m|Poison Sting}}{{tt|*|From June 1, 2025 onward}}
+|special={{m|Sludge Bomb}}, {{m|Aerial Ace}}, {{m|X-Scissor}}, {{m|Fell Stinger}}{{tt|*|From December 11, 2019 onward}}, {{m|Drill Run}}{{tt|†|Event-exclusive from Weedle Community Day}}, {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Form data===
+====Mega Evolution====
+{{Evobox/Formes
+|sprite1=0015Beedrill
+|name1=Beedrill
+|type1-1=Bug
+|type2-1=Poison
+|forme1=Beedrill
+|loc1=Default
+|item1=Beedrillite
+|itemfile1=Dream Beedrillite Sprite.png
+|itemsize1=40px
+|sprite2=0015Beedrill-Mega
+|type1-2=Bug
+|type2-2=Poison
+|forme2=Mega Beedrill
+|loc2={{color2|000|Held item|Held}} Beedrillite
+}}
+
+===Evolution data===
+{{Evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0013
+|name1=Weedle
+|type1-1=Bug
+|type2-1=Poison
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 7}}
+|no2=0014
+|name2=Kakuna
+|type1-2=Bug
+|type2-2=Poison
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 10}}
+|no3=0015
+|name3=Beedrill
+|type1-3=Bug
+|type2-3=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Poison}}
+{{Spritebox/1|ndex=015}}
+{{Spritebox/2|ndex=015}}
+{{Spritebox/3|ndex=015}}
+{{Spritebox/4|ndex=015}}
+{{Spritebox/5|ndex=015}}
+{{Spritebox/6/2FormsORAS|ndex=015|form1=M|crop=86}}
+{{Spritebox/7/2Forms/PE|ndex=015|form1=M|crop=85|PEcrop=183}}
+<!--{{Spritebox/8/BDSP|ndex=015}}-->
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/2Forms|ndex=0015|form1=M}}
+{{Spritebox/Footer|015|Beedrill}}
+
+==In animation==
+===Main series===
+[[File:Goh Beedrill.png|thumb|250px|Beedrill in {{aniseries|JN}}]]
+[[File:M19 Mega Beedrill.png|thumb|250px|[[Mega Evolution|Mega]] Beedrill in ''[[M19|Volcanion and the Mechanical Marvel]]'']]
+====Major appearances====
+=====[[Casey's Beedrill]]=====
+{{Ash}} {{pkmn2|caught}} a Beedrill in the [[Bug-Catching Contest]] in ''[[EP161|The Bug Stops Here]]'', but gave it to {{an|Casey}} because of her affinity for yellow and black Pokémon. It was one of several Beedrill that appeared in the episode.
+
+=====[[Goh's Beedrill]]=====
+In ''[[JN006|Working My Way Back to Mew!]]'', [[Goh]] caught a Beedrill. It has since made further appearances in {{aniseries|JN}}.
+
+=====Other=====
+In ''[[EP004|Challenge of the Samurai]]'', multiple Beedrill stole [[Ash's Metapod]] after evolving from {{p|Kakuna}}. The reason for this was to take revenge on Ash for startling a {{p|Weedle}} while attempting to catch it. They reappeared in a flashback in ''[[EP015|Battle Aboard the St. Anne]]''.
+
+In ''[[EP077|The Fourth Round Rumble]]'', [[Jeanette Fisher]]'s Beedrill battled [[Ash's Bulbasaur]] during the [[Indigo Plateau Conference]], but was defeated. It reappeared in a flashback in ''[[EP080|Friends to the End]]''.
+
+In ''[[EP084|The Lost Lapras]]'', [[Three punks|a punk]] used a Beedrill to attack a {{AP|Lapras}}. When Ash and {{AP|Pikachu}} came to Lapras's defense, Beedrill battled Pikachu, only for it and its {{pkmn|Trainer}} to flee after {{Tracey}} appeared, sketched them, and began comparing them in terms of how they were trained. According to Tracey, Beedrill's coloring was poor.
+
+In ''[[The Legend of Thunder!]]'', {{jo|Jimmy}}'s Beedrill battled {{jo|Marina}}'s {{p|Jigglypuff}}, [[nickname]]d Pink, which Beedrill won. It has exceptional speed and agility that Jimmy relies on for situations.
+
+In ''[[BW124|Danger, Sweet as Honey!]]'', multiple Beedrill evolved from a group of Kakuna at [[Honey Island]].
+
+In ''[[XY003|A Battle of Aerial Mobility!]]'', multiple Beedrill chased Ash, {{an|Clemont}}, and {{an|Bonnie}} because Clemont's phonograph attracted the Poison Bee Pokémon instead of the {{AP|Fletchling}} he was trying to attract.
+
+In ''[[XY016|A Jolting Switcheroo!]]'', multiple Beedrill chased [[Lyn]] and {{TP|Clemont|Dedenne}}, but they all were defeated by {{AP|Pikachu}} and Dedenne.
+
+In ''[[XY041|Foggy Pokémon Orienteering!]]'', {{an|Bonnie}} and {{AP|Pikachu}} accidentally disturbed a Beedrill, the former of whom accidentally hit its head with a big twig. However, it quickly got away before Pikachu was about to attack it.
+
+In ''[[XY045|Splitting Heirs!]]'', three Beedrill tried to attack Clemont and Bonnie.
+
+In ''[[XY069|Defending the Homeland!]]'' and ''[[XY070|Beyond the Rainbow!]]'', multiple Beedrill were some of {{an|Florges}}'s minions, who were ordered to attack {{AP|Goodra}}'s homeland. Two of them appeared again in ''[[XY139|Facing the Needs of the Many!]]'', and then three of them appeared in the [[XY140|following episode]].
+
+In ''[[XY104|A Windswept Encounter!]]'', three Beedrill were the followers of a {{pkmn2|wild}} male {{p|Breloom}} that was in love with an Orange Flower {{p|Floette}}.
+
+In ''[[M19|Volcanion and the Mechanical Marvel]]'', a Beedrill that can [[Mega Evolution|Mega Evolve]] was under the control of [[Levi]] and [[Cherie]]'s Mega Wave. Beedrill was used to battle [[Ash's Noivern]], {{AP|Greninja}}, and [[Clemont's Chespin]]. It was later freed when [[Alva]]'s Mega Wave Crystal was destroyed, and it escaped.
+
+====Minor appearances====
+Beedrill debuted in ''[[EP003|Ash Catches a Pokémon]]''.
+
+In ''[[EP008|The Path to the Pokémon League]]'', [[A.J.]]'s Beedrill was training with his {{p|Butterfree}} in his Gym.
+
+A Beedrill appeared in a fantasy in ''[[EP031|Dig Those Diglett!]]''.
+
+In a flashback in ''[[EP053|The Purr-fect Hero]]'', it was revealed {{OBP|Timmy|EP053}} had been saved from a Beedrill by a {{p|Meowth}}.
+
+In ''[[EP065|Showdown at the Po-ké Corral]]'', multiple Beedrill attacked {{TRT}}.
+
+In ''[[PK01|Pikachu's Vacation]]'', a Beedrill was at the [[Pokémon Theme Park]].
+
+A Trainer's Beedrill appeared in a flashback in ''[[EP095|A Shipful of Shivers]]''.
+
+In ''[[EP097|Tracey Gets Bugged]]'', a Beedrill was one of the {{type|Bug}} Pokémon on [[Murcott Island]]. It approached and blew up Team Rocket's balloon.
+
+In ''[[M02|The Power of One]]'', a Beedrill sensed the disturbance caused by [[Lawrence III]].
+
+A Beedrill appeared in the Japanese credits of ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+A Beedrill appeared in a fantasy in ''[[EP116|The Rivalry Revival]]''.
+
+A Beedrill appeared in a fantasy in ''[[EP118|The Double Trouble Header]]''.
+
+In ''[[EP121|Illusion Confusion!]]'', a group of {{p|Haunter}} and {{p|Gengar}} created a Beedrill illusion.
+
+In ''[[EP132|For Crying Out Loud]]'', multiple Beedrill attacked Ash and {{ashfr}}.
+
+In ''[[EP143|Going Apricorn!]]'', multiple Beedrill attacked Ash and his friends while they were looking for [[Apricorn]]s.
+
+In ''[[EP152|Hot Matches!]]'', multiple Beedrill attacked Ash and his friends.
+
+In ''[[EP170|A Better Pill to Swallow]]'', eight Beedrill were attracted by the {{p|Shuckle}}-made [[Berry Juice]] that Team Rocket drank. Three additional Beedrill appeared in {{an|Brock}}'s fantasy.
+
+In ''[[Mewtwo Returns]]'', multiple Beedrill were residents of [[Mount Quena]].
+
+A Beedrill appeared in a fantasy in ''[[EP196|Control Freak!]]''.
+
+In ''[[EP200|Turning Over A New Bayleef]]'', six Beedrill attacked [[Ash's Bayleef]] after she kicked a rock into the bush they were residing in.
+
+Multiple Beedrill appeared in the opening scene of ''[[M04|Celebi: The Voice of the Forest]]'', which was reused for ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+In ''[[EP207|Got Miltank?]]'', three Beedrill were inhabitants of a Pokémon-exclusive oasis.
+
+A Beedrill appeared in ''[[EP228|Extreme Pokémon!]]'', under the ownership of a participant in the [[Extreme Pokémon Race]].
+
+In ''[[AG005|In the Knicker of Time!]]'', a Trainer's Beedrill battled Pikachu and was defeated with {{m|Thunderbolt}}.
+
+In ''[[AG006|A Poached Ego!]]'', multiple Beedrill attacked Team Rocket.
+
+A Beedrill appeared in ''[[AG012|The Lotad Lowdown]]''.
+
+Multiple Beedrill appeared in ''[[AG014|All in a Day's Wurmple]]''.
+
+In ''[[AG015|Gonna Rule The School!]]'', the [[Pokémon Trainers' School]] lent a Beedrill to the school's underage students for use in lessons.
+
+In ''[[AG080|That's Just Swellow]]'', a Beedrill participated in the [[Crossgate PokéRinger]] competition.
+
+Multiple Beedrill appeared in ''[[M07|Destiny Deoxys]]''.
+
+In ''[[AG089|A Scare to Remember!]]'', a Beedrill was scared off by Pikachu's {{m|Thunderbolt}}.
+
+In ''[[AG134|A Real Cleffa-Hanger]]'', three Beedrill scared {{an|Misty}} and caused her to run off with [[Max]] and the group's Pokémon.
+
+In ''[[AG137|Hooked on Onix]]'', multiple Beedrill chased [[Ash's Phanpy]] and [[May's Squirtle]] before being warded away by Pikachu and {{AP|Corphish}}.
+
+Three Beedrill appeared in ''[[AG151|Weekend Warrior]]''.
+
+A Beedrill appeared in ''[[AG155|The Green Guardian]]''.
+
+A {{pkmn|Coordinator}}'s Beedrill appeared in ''[[AG160|Harley Rides Again]]''.
+
+Multiple Beedrill appeared in ''[[AG163|Cutting the Ties that Bind!]]''.
+
+Multiple Beedrill appeared in ''[[AG168|Three Jynx and a Baby!]]''.
+
+In ''[[AG169|Talking a Good Game!]]'', two Beedrill attacked Ash and Pikachu, but were calmed down by [[Anabel]] after she deduced they were protecting their offspring.
+
+In ''[[AG170|Second Time's the Charm!]]'', multiple Beedrill attacked Ash, Anabel, Pikachu, Corphish, and {{AP|Tauros}}, eventually forcing them into a lake.
+
+A Coordinator's Beedrill appeared in ''[[AG181|Thinning the Hoard!]]''.
+
+In ''[[M09|Pokémon Ranger and the Temple of the Sea]]'', [[Galen]] used two Beedrill to chase Ash and his friends.
+
+In ''[[DP006|Different Strokes for Different Blokes]]'', multiple Beedrill were residents of [[Bewilder Forest]].
+
+In ''[[DP031|The Grass-Type Is Always Greener!]]'', multiple Beedrill evolved from a hive of Kakuna.
+
+A Beedrill appeared in ''[[DP032|An Angry Combeenation!]]''.
+
+Multiple Beedrill appeared in ''[[DP045|Ill-Will Hunting!]]''.
+
+In ''[[DP062|Tanks for the Memories!]]'', multiple Beedrill tried to attack {{OBP|Autumn|DP062}}. However, she was protected by her {{p|Miltank}}, [[nickname]]d Ilta.
+
+In ''[[DP099|A Trainer and Child Reunion!]]'', multiple Beedrill were disturbed by [[James]] and attacked Team Rocket as a result.
+
+A Beedrill appeared in a flashback in ''[[XY013|Kindergarten Chaos!]]''.
+
+In ''[[XY019|A Conspiracy to Conquer!]]'', a Beedrill was mind-controlled by an evil, psychopathic {{an|Malamar}}.
+
+A Beedrill that can Mega Evolve into Mega Beedrill appeared in the ending segment of ''[[XYS02|Mega Evolution Special II]]''.
+
+Multiple Beedrill appeared in a flashback in ''[[XY063|A Fork in the Road! A Parting of the Ways!]]''.
+
+Multiple Beedrill appeared in a flashback in ''[[JN001|Enter Pikachu!]]''.
+
+Multiple Beedrill appeared alongside Goh's in ''[[JN006|Working My Way Back to Mew!]]''.
+
+A Trainer's Beedrill appeared in ''[[JN070|Take My Thief! Please!]]''.
+
+A Beedrill appeared in a flashback in ''[[JN120|Infinite Possibilities!]]''.
+
+Multiple Beedrill appeared in ''[[JNS05|Distant Blue Sky!]]''.
+
+A Beedrill appeared in ''[[JN137|The Road Most Traveled!]]''. Having evolved from a Kakuna after Ash saved it from hitting the ground, it led to some tense moments where the Beedrill contemplated whether to attack Ash or fly away before ultimately deciding to do the latter.
+
+A Beedrill appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP004|Beedrill|Ash's Pokédex|Beedrill. This Pokémon is an evolved form of {{p|Weedle}}, following its {{p|Kakuna}} stage. Its {{m|Poison Sting|sting}} is highly poisonous.}}
+{{Animedexfooter/Pokémon|Kanto}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW124|Beedrill|Ash's Pokédex|Beedrill, the Poison Bee Pokémon. Beedrill fly quickly and attack using poison stingers on their forelegs and tail.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon Origins===
+In ''[[PO01|File 1: Red]]'', a Beedrill was one of the Pokémon seen in [[Professor Oak]]'s introduction.
+
+===Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+[[File:Mega Beedrill ORAS Trailer.png|thumb|250px|Mega Beedrill in the animated trailer]]
+In the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]], a [[Mega Evolution|Mega]] Beedrill battled a Mega {{p|Camerupt}}.
+
+===POKÉTOON===
+A Beedrill appeared in ''[[PT03|Blossom's Dream]]''.
+{{-}}
+
+==In the manga==
+[[File:Giovanni Beedrill Adventures.png|thumb|200px|Beedrill in [[Pokémon Adventures]]]]
+[[File:Giovanni Mega Beedrill Adventures.png|thumb|200px|Mega Beedrill in Pokémon Adventures]]
+===Pokémon Adventures===
+====Major appearances====
+=====[[Giovanni's Beedrill]]=====
+{{adv|Giovanni}} owns a Beedrill that appeared in multiple chapters. This Beedrill debuted in Giovanni's battle against {{adv|Red}} at the [[Viridian Gym]] in ''[[PS037|Golly, Golem!]]'' and ''[[PS038|Long Live the Nidoqueen!?]]'' of the {{MangaArc|Red, Green & Blue}}. Giovanni has said it is one of his most treasured and strongest team members, as he {{pkmn2|caught}} him in his childhood at the [[Viridian Forest]]. Beedrill later helped {{adv|Yellow}} when facing [[Lance]] at [[Cerise Island]] in the {{MangaArc|Yellow}}. In [[PS616]], [[Giovanni's Beedrill]] was revealed to be able to [[Mega Evolution|Mega Evolve]] into Mega Beedrill. He is also one of the few members of Giovanni's team that isn't a {{t|Ground}} type.
+
+====Minor appearances====
+In ''[[PS012|Wake Up—You're Snorlax!]]'', multiple Beedrill attacked {{adv|Red}} because [[Saur]] had accidentally hit their hive. Both the {{pkmn|Trainer}} and his Pokémon were badly stung afterwards.
+
+A Beedrill appeared as a silhouette when {{adv|Green}} talks about {{p|Mew}} in ''[[PS017|The Jynx Jinx]]''.
+
+In ''[[PS119|A Flaaffy Kerfuffle]]'', a Beedrill appeared as one of the Pokémon in {{adv|Professor Oak}}'s fantasy when he explained that Trainers should only have six Pokémon with them.
+
+A Beedrill appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+A Beedrill appeared in ''[[PS442|Out-Odding Oddish]]'', under the ownership of a [[Pokéathlon]] participant.
+
+===Pokémon Ruby-Sapphire===
+A Beedrill appeared in ''[[PMRS51|Clefairy's New Power!]]''.
+
+===The Electric Tale of Pikachu===
+{{main|Casey's Beedrill|Ash's Beedrill}}
+In ''[[ET03|Clefairy Tale]]'', {{OBP|Ash Ketchum|EToP|Ash}} {{pkmn2|caught}} a Beedrill, it being part of a swarm that he had disturbed when he caught a {{AP|Mankey|Primeape}}. He thought this Beedrill, along with Mankey, would help him to raise his Trainer level, but it couldn't.
+
+In ''[[ET12|Welcome to the Big Leagues]]'', [[Ash's Bulbasaur]] fought [[Jeanette Fisher]]'s Beedrill at the [[Indigo Plateau Conference|Pokémon League]] and won.
+
+===Pokémon Zensho===
+A Beedrill appeared in [[PZ03]], under the ownership of a {{tc|Team Rocket Grunt}}.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Beedrill appeared in [[GDZ19]].
+
+Multiple Beedrill appeared in [[GDZ27]].
+
+A Beedrill appeared in [[GDZ48]].
+
+===Ash & Pikachu===
+A Beedrill appeared in ''[[SP27|Tale Of The Friendship Between Pikachu And Meowth]]''.
+
+===Pocket Monsters Diamond & Pearl===
+Multiple Beedrill appeared in [[PDP07]].
+
+===Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~===
+A Beedrill appeared in [[PNA5]].
+
+===Pokémon Journeys===
+{{main|Goh's Beedrill}}
+[[Goh]] caught a Beedrill in ''[[JNM03|Battle Frontier Challenge: The Flute Cup!]]'', just like he does in the [[Pokémon Journeys: The Series|animated series]].
+
+==In the TCG==
+{{main|Beedrill (TCG)}}
+
+==In the TFG==
+One Beedrill figure has been released.
+
+*{{TFG|Next Quest}}: {{TFG ID|Next Quest|Beedrill|26}}
+
+==Other appearances==
+===[[Super Smash Bros.]]===
+Beedrill was in the first Super Smash Bros. game. When a {{i|Poké Ball}} was opened, one would come out and fly away. A few seconds later, a whole swarm would fly by and attack everyone on the field with {{m|Take Down}} except the user. Its role was taken over by {{p|Unown}} in [[Super Smash Bros. Melee]].
+
+==Trivia==
+* Beedrill's English name was [[Pokémon Red and Green beta#Pokémon names|originally]] going to be spelled ''Beedril''.
+* Beedrill can be seen as a parallel to {{p|Butterfree}}. Both of their unevolved stages [[Evolution|evolve]] into their respective first evolutionary stages at level 7, which then evolve into their respective final forms at level 10. They both also go through metamorphosis-like Evolution and share a base stat total of 395. Also, while Beedrill is a version exclusive of Black and Black 2, Butterfree is exclusive to White and White 2. Both also have an alternate form only available in-battle (Mega Beedrill and Gigantamax Butterfree, respectively).
+* In [[Pokémon Conquest]], Beedrill is the only Pokémon that is featured without its evolutionary relatives.
+* Mega Beedrill has the highest base {{stat|Attack}} and {{stat|Speed}} stats of all {{type|Poison}} Pokémon. It also has the lowest base {{stat|Special Attack}} stat of all Poison-type Pokémon.
+** Mega Beedrill is the only Pokémon to lower one of its base attacking stats when it undergoes Mega Evolution.
+* Beedrill and its pre-evolved form, {{p|Kakuna}}, are the only {{DL|List of Pokémon by color|yellow}} Poison-type Pokémon.
+
+===Concept and development===
+Beedrill and its pre-Evolutions were designed by [[Atsuko Nishida]].<ref>[https://web.archive.org/web/19980121112202fw_/http://www.gamefreak.co.jp/POKEMON/INTER/ATSUKO/INTER_AT.HTM Interview with Atsuko Nishida on Game Freak's website]</ref>
+
+[[Mega Evolution|Mega]] Beedrill was designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/548085137955508224 Tweet by ありがひとし/ArigaHitoshi (@ariga_megamix).] Posted on December 25, 2014.</ref>
+
+===Origin===
+Beedrill seems to be based on a {{wp|bee}} or {{wp|wasp}}, possibly the {{wp|Apis cerana japonica|Japanese honey bee}}, {{wp|Asian giant hornet}}, or {{wp|yellowjacket}}. Its pointed arms resemble {{wp|spear}}s, while Mega Beedrill swaps them for {{wp|lance}}s. Its {{Shiny}} color scheme is similar to metallic green {{wp|Agapostemon|sweat bees}}.
+
+Beedrill's parallels to {{p|Butterfree}} could possibly be a reference to the phrase "Float like a butterfly, sting like a bee", which was coined by American boxer {{wp|Muhammad Ali}}. This is further backed by the phrase being used in two episodes<ref>''[[AG061|Disaster of Disguise]]'' and ''[[BW106|Strong Strategy Steals the Show!]]''</ref> of the English [[dub]] of {{aniseries|PTS}} as "floating like a Butterfree and stinging like a Beedrill".
+
+====Name origin====
+Beedrill may be a combination of ''{{wp|bee}}'' and ''{{wp|drill}}''.
+
+Spear is literally ''spear''. It may also be derived from アピス ''Apis'' (the genus name of the honey bee) spelled backwards.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Poison
+|ja=スピアー ''Spear''|jameaning=From ''spear'' and possibly {{tt|''Apis''|genus of the honey bee}} spelled backwards
+|fr=Dardargnan|frmeaning=From ''{{wp|d'Artagnan}}'', ''{{tt|dard|sting}}'', and ''{{tt|dare-dare|hastily}}''
+|es=Beedrill|esmeaning=Same as English name
+|de=Bibor|demeaning=From ''{{tt|Biene|bee}}'' and ''{{tt|Bohrer|drill}}''
+|it=Beedrill|itmeaning=Same as English name
+|ko=독침붕 ''Tokchimbung''|komeaning=From {{tt|독침 (毒針) ''dokchim''|stinger; poison needle}} and {{tt|붕 ''bung''|onomatopoeia for buzzing}} or {{tt|봉 (蜂) ''bong''|bee}}
+|zh_cmn=大針蜂 / 大针蜂 ''Dàzhēnfēng''|zh_cmnmeaning=From {{tt|大 ''dà''|big}}, {{tt|蜂針 / 蜂针 ''fēngzhēn''|stinger}}, and {{tt|蜜蜂 ''mìfēng''|bee}}
+|zh_yue=大針蜂 ''Daaihjāmfūng''|zh_yuemeaning=From {{tt|大 ''daaih''|big}}, {{tt|蜂針 ''fūngjām''|stinger}}, and {{tt|蜜蜂 ''mahtfūng''|bee}}
+|he=בידריל ''Beedril''|hemeaning=Transcription of English name
+|hi=बीड्रिल ''Beedrill''|himeaning=Transcription of English name
+|hu=Óriásméh{{tt|*|Mewtwo Returns only, where it was mistakenly translated}}|humeaning="Giant bee"
+|lt=Bitrilė|ltmeaning=From English name
+|ru=Бидрилл ''Bidrill''|rumeaning=Transcription of English name
+|th=สเปียร์ ''Sapia''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Casey's Beedrill|Ash's/Casey's Beedrill]]
+* [[Goh's Beedrill]]
+* [[Giovanni's Beedrill]]
+* [[Mega Evolution]]
+* [[Weaponry in the Pokémon world]]
+
+==References==
+<references />
+
+==External links==
+
+{{Mega Evolution}}
+{{Smash Bros.}}
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0014|prev=Kakuna|nextnum=0016|next=Pidgey|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Bibor]]
+[[es:Beedrill]]
+[[fr:Dardargnan]]
+[[it:Beedrill]]
+[[ja:スピアー]]
+[[zh:大针蜂]]

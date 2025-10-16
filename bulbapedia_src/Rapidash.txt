@@ -1,0 +1,1032 @@
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/GO|species=Rapidash}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=0077|prev=Ponyta|nextnum=0079|next=Slowpoke|round=none}}
+{{PokémonPrevNext/Disambig|species=Rapidash}}
+|}
+{{Pokémon Infobox
+|name=Rapidash
+|jname=ギャロップ
+|jtranslit=Gyaroppu
+|tmname=Gallop
+|forme=2
+|form1=Rapidash
+|form2=Galarian Rapidash
+|image2=0078Rapidash-Galar.png
+|ndex=0078
+|type1=Fire
+|form2type1=Psychic
+|form2type2=Fairy
+|category={{tt|Fire Horse|Rapidash}} Pokémon<br/>{{tt|Unique Horn|Galarian Rapidash}}
+|height-ftin=5'07"
+|height-m=1.7
+|weight-lbs=209.4
+|weight-kg=95.0
+|weight-lbs2=176.4
+|weight-kg2=80.0
+|abilitylayout=2+2
+|abilityn=d
+|ability1=Run Away
+|ability2=Flash Fire
+|abilityd=Flame Body
+|abilitydcaption=Rapidash
+|ability2-1=Run Away
+|ability2-2=Pastel Veil
+|abilityd2=Anticipation
+|abilityd2caption=Galarian Rapidash
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=2
+|evsp=2
+|expyield=175
+|oldexp=192
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|formcolors=yes
+|catchrate=60
+|body=08
+|pokefordex=rapidash
+|generation=1
+|friendship=70
+}}
+'''Rapidash''' ([[List of Japanese Pokémon names|Japanese]]: '''ギャロップ''' ''Gallop'') is a {{type|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Ponyta}} starting at [[level]] 40.
+
+In [[Galar]], Rapidash has a dual-type {{2t|Psychic|Fairy}} [[regional form]]. It evolves from Galarian Ponyta starting at [[level]] 40.
+
+==Biology==
+Rapidash is an {{wp|equine}} {{OBP|Pokémon|species}} with cream-colored fur and a pointed horn on its forehead. It has small, red eyes and triangular ears with reddish interiors. Yellow and reddish-orange flames stream from the back of its head to form a long, flowing mane. A short version of the mane trails down its back to its equally fiery tail. Flames are also present on its {{wp|fetlock}}s. It has slender legs, each with a single black hoof.
+
+Rapidash is a very agile Pokémon. It runs at about 150&nbsp;mph (240&nbsp;km/h), chasing everything that moves in hopes of racing it. With incredible acceleration, it reaches its top speed in only ten steps. At full gallop, its hooves barely touch the ground. The faster Rapidash goes, the longer the swaying flames of its mane will become. At an all-out gallop, its blazing mane sparkles, a feature that is said to enhance its beautiful appearance. Rapidash is capable of traveling an entire region like [[Hisui]] within a day and a half. Rapidash lives in {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands}}, but it can also be seen on mountains in [[Pokémon Snap]].
+
+===Forms===
+Rapidash has a [[regional form]]: {{rf|Galarian}} Rapidash.
+
+In [[Galar]], Rapidash takes on a new form with a white coat, pale blue eyes, and a long, curly mane and tail colored in streaks of pastel cyan and pink. Its horn is much longer than that of Kantonian Rapidash and is deep violet in color with a spiraling white line running its length. Its fetlocks are adorned with long pink fur that stores psychic energy, which gives it a swift, airy gait, and it has deep violet hooves. When using psychic energy, its horn glows with a yellow aura, and its colored fur glows with seemly flowing color.
+
+Galarian Rapidash lives in forests and is known for being brave and prideful. It can channel its psychic power into a powerful {{m|Psycho Cut}} from its horn that can pierce through sheet metal. Galarian Rapidash and its pre-Evolution are the [[Signature Ability|only known Pokémon]] that can have {{a|Pastel Veil}} as an [[Ability]].
+
+===Evolution===
+Rapidash evolves from {{p|Ponyta}}.
+
+{{rf|Galarian}} Rapidash evolves from Galarian Ponyta.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Rapidash'''
+{{Evobox-2
+|type1=Fire
+|pictype=art
+|no1=0077
+|name1=Ponyta
+|type1-1=Fire
+|evo1=
+|no2=0078
+|name2=Rapidash
+|type1-2=Fire}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Galarian Rapidash'''
+{{Evobox-2
+|type1=Psychic
+|type2=Fairy
+|pictype=sprite
+|no1=0077Ponyta-Galar
+|name1=Ponyta
+|form1=Galarian Form
+|type1-1=Psychic
+|evo1=
+|no2=0078Rapidash-Galar
+|name2=Rapidash
+|form2=Galarian Form
+|type1-2=Psychic
+|type2-2=Fairy}}
+</div>
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fire}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=078}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Very competitive, this {{ScPkmn}} will chase anything that moves fast in the hopes of racing it.}}
+{{Dex/Entry1|v=Yellow|entry=Just loves to run. If it sees something faster than itself, it will give chase at top speed.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Unable to restrain itself from running after fast trains or cars. Capable of reaching {{tt|150 mph|240 km/h}} at full speed.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=202}}
+{{Dex/Entry1|v=Gold|entry=At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.}}
+{{Dex/Entry1|v=Silver|entry=With incredible acceleration, it reaches its top speed of {{tt|150 mph|240 km/h}} after running just ten steps.}}
+{{Dex/Entry1|v=Crystal|entry=It just loves to gallop. The faster it goes, the longer the swaying flames of its mane will become.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=At full gallop, its four hooves barely touch the ground because it moves so incredibly fast. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=078}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Rapidash</sc> usually can be seen casually cantering in the fields and plains. However, when this {{ScPkmn}} turns serious, its fiery manes flare and blaze as it gallops its way up to {{tt|150 mph|240 km/h}}.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It usually canters casually in the fields and plains. But once a <sc>Rapidash</sc> turns serious, its fiery manes flare and blaze as it gallops its way up to {{tt|150 mph|240 km/h}}.}}
+{{Dex/Entry1|v=FireRed|entry=It can gallop at a top speed of {{tt|150 miles per hour|240 kilometers per hour}}. It can race as fast as a bullet train while ablaze.}}
+{{Dex/Entry1|v=LeafGreen|entry=Very competitive, this {{ScPkmn}} will chase anything that moves fast in the hopes of racing it.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=091|reg2=Johto|num2=207}}
+{{Dex/Entry1|v=Diamond|entry=It gallops at nearly {{tt|150 mph|240 km/h}}. With its mane blazing ferociously, it races as if it were an arrow.}}
+{{Dex/Entry1|v=Pearl|entry=It has astounding acceleration. From a standstill, it can reach top speed within 10 steps.}}
+{{Dex/Entry1|v=Platinum|entry=When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.}}
+{{Dex/Entry1|v=HeartGold|entry=At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.}}
+{{Dex/Entry1|v=SoulSilver|entry=With incredible acceleration, it reaches its top speed of {{tt|150 mph|240 km/h}} after running just 10 steps.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It gallops at {{tt|nearly 150 mph|240 km/h}}. With its mane blazing ferociously, it races as if it were an arrow.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to {{tt|150 mph|240 km/h}}.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=078}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Just loves to run. If it sees something faster than itself, it will give chase at top speed.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=334|reg2=Galar|num2=106|label2=Crown Tundra|reg3=Sinnoh|num3=091|reg4=Hisui|num4=024}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon can be seen galloping through fields at speeds of up to {{tt|150 mph|240 km/h}}, its fiery mane fluttering in the wind.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The fastest runner becomes the leader, and it decides the herd's pace and direction of travel.}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=It gallops at nearly {{tt|150 mph|240 km/h}}. With its mane blazing ferociously, it races as if it were an arrow.}}
+{{Dex/Entry1|v=Shining Pearl|entry=It has astounding acceleration. From a standstill, it can reach top speed within 10 steps.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half.}}
+{{Dex/Form|Galarian Rapidash}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Little can stand up to its {{m|Psycho Cut|psycho cut}}. Unleashed from this Pokémon's horn, the move will punch a hole right through a thick metal sheet.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Evolution|Evolve]] {{p|Ponyta}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Cerulean Cave]]}}
+{{Availability/Entry1|v=Yellow|area=[[Evolution|Evolve]] {{p|Ponyta}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|28|Kanto}}, [[Mt. Silver]]<br>[[In-game trade#Gold and Silver|Trade]] {{p|Gloom}} in [[Pewter City]]}}
+{{Availability/Entry1|v=Crystal|area={{rt|28|Kanto}}, [[Mt. Silver]]{{Sup/t|M}}{{Sup/t|D}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Kindle Road]], [[Mt. Ember]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Citadark Isle]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Ponyta}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Ponyta}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|28|Kanto}}, [[Mt. Silver]]}}
+{{Availability/Entry1|v=Pal Park|color=A2E0A3|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|12|Unova}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Ponyta}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Ponyta}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area={{rt|17|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1/None|2|v=Sword|area=[[Trade]]<sup>Version 1.2.0+</sup>, [[Wild Area News]] <small>('''Kantonian Form''')</small><br>[[Trade]], [[Wild Area News]] <small>('''Galarian Form''')</small>}}
+{{Availability/Entry1|2|v=Shield|t=FFF|area=[[Trade]]<sup>Version 1.2.0+</sup>, [[Wild Area News]] <small>('''Kantonian Form''')</small><br>[[Bridge Field/Dens|Bridge Field]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]]) <small>('''Galarian Form''')</small>}}
+{{Availability/Entry1|2|v=Shield Expansion Pass|color={{shield color dark}}|t=fff|link=Pokémon Sword and Shield Expansion Pass|area=[[Evolution|Evolve]] {{p|Ponyta}} <small>('''Kantonian Form''')</small><br>[[Old Cemetery]] ([[Wanderer]]) <small>('''Galarian Form''')</small><br>[[Snowslide Slope/Dens|Snowslide Slope]], [[Path to the Peak/Dens|Path to the Peak]], [[Giant's Bed/Dens|Giant's Bed]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]]) <small>('''Galarian Form''')</small>}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Ponyta}} <small>('''Kantonian Form''')</small><br>Unobtainable <small>('''Galarian Form''')</small>}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' [[Horseshoe Plains]]&nbsp;[[File:Alpha icon.png|link=Alpha Pokémon|14px]] (also [[mass outbreak]]s), massive mass outbreaks <small>('''Kantonian Form''')</small><br>'''[[Coronet Highlands]]:''' massive mass outbreaks <small>('''Kantonian Form''')</small><br>Unobtainable <small>('''Galarian Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area={{OBP|Volcano|Snap}}}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Ponyta}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 60, Forever Level 10, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Ponyta}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Kisara Plain]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Dark Crater]] (B4F-B15F, Deep Dark Crater B1F-B9F), [[Giant Volcano]] (1F-19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Dark Crater]] (B4F-B15F, Deep Dark Crater B1F-B9F), [[Giant Volcano]] (1F-19F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Chroma Highlands]], [[Volcano Cave]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Fiery Furnace]] <small>(Normal Mode B & S, Advanced Mode C & A)</small>}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lava: [[Sunny Seashore]], [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Dream Gate#Flame Dance|Dream Gate: Flame Dance]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 6|Dragon Hill: Stage 6]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ember Mountains#Furnace Mountain|Ember Mountains: Furnace Mountain]] <small>(Center Boss, Back)</small>, [[Black Realm#Obsidian Shrine|Black Realm: Obsidian Shrine]] <small>(Special)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Zapdos Sea]], [[Mewtwo Sea]], [[Butterfree Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Mt. Blaze]] (12F-14F), [[Fiery Field]] (14F-21F), [[Joyous Tower]] (57F-59F), [[Purity Forest]] (57F-59F)<br/>Mystery House: [[Fiery Field]]<br/>[[Mystery dungeon#Strong Foes|Strong Foe]]: [[Mt. Steel]] (6F-8F){{shinystar}}}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX48]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Blaine|Ponyta}} <small>('''Kantonian Form''')</small>, {{sync/player|egg|Ponyta}} <small>('''Kantonian Form''')</small><br>Seasonal [[sync pair scout]]: {{sync|Lisia|Rapidash|New Year's 2023}} <small>('''Galarian Form''' {{shinystar}})</small><br>{{mas|Battle Point|BP Sync Pair Voucher}}: {{sync|Flint|Rapidash}}}}
+{{Availability/Entry1|1|v=UNITE|t=FFF|color={{violet color}}|area=Purchase for 13,000 Aeos Coins/790 Aeos Gems <small>('''Galarian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Fire}}
+{{eventAvail|{{gameabbrev1|RGB}}|Pokémon Stamp Rapidash|Japanese|Japan|40|August 1998|link=List of Japanese event Pokémon distributions in Generation I#Rapidash}}
+|}
+
+=====[[Wild Area News]]=====
+;Rapidash
+{{eventAvail/h|Gigantamax|type=Fire|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|40, 50, 60|December 1 to 31, 2020|link=Wild Area News/2020#December 1 to 31, 2020}}
+|}
+
+;Galarian Rapidash
+{{eventAvail/h|Gigantamax|type=Psychic|type2=Fairy|lochide=yes}}
+{{eventAvail|{{gameabbrev8|Sw}}|Wild Area News|No|hide|60|March 19 to 25, 2020|link=Wild Area News/2020#March 19 to 25, 2020}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Fire}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Silver Leaf|100|rows=2}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Gold|Silver|Pokémon Gold and Silver Versions}}
+{{HeldItems/Items1|Burnt Berry|100|availNote=[[In-game trade]],&#32;|image=None.png}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Items1|Shuca Berry|5|rows=2}}
+{{HeldItems/Games2|Black|White|tcolor1=FFF|Pokémon Black and White Versions}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Rawst Berry|35|Spoiled Apricorn|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+=====Rapidash=====
+{{Stats
+|type=Fire
+|HP=65
+|Attack=100
+|Defense=70
+|SpAtk=80
+|SpDef=80
+|Speed=105
+|Special=80
+}}
+
+=====Galarian Rapidash=====
+Galarian Rapidash has the same base stats as Kantonian Rapidash.
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Fire
+|Speed=5
+|SpeedMax=5
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=2
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+====Rapidash====
+{{TypeEffectiveness
+|type1=Fire
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=200
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|flashfire=maybe
+|gen1fire=yes
+|oldice=1
+}}
+
+====Galarian Rapidash====
+{{TypeEffectiveness
+|type1=Psychic
+|type2=Fairy
+|Normal=100
+|Fighting=25
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=200
+|Steel=200
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Ice=100
+|Dragon=0
+|Dark=100
+|Fairy=100
+|notes=yes
+|fairy=yes
+|newdragon=1
+}}
+
+===Learnset===
+Rapidash is available in {{pkmn|Sword and Shield}}, {{pkmn|Brilliant Diamond and Shining Pearl}}, and [[Pokémon Legends: Arceus]].
+
+Galarian Rapidash is available in Sword and Shield.
+
+====By [[Level|leveling up]]====
+=====Rapidash=====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/levelh/8|Rapidash|Fire|Fire|1}}
+{{learnlist/level8|1|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/level8|1|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/level8|1|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level8|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/level8|15|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/level8|20|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level8|25|Flame Wheel|Fire|Physical|60|100|25||'''}}
+{{learnlist/level8|30|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level8|35|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/level8|43|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level8|49|Inferno|Fire|Special|100|50|5||'''}}
+{{learnlist/level8|56|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/level8|63|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/levelf/8|Rapidash|Fire|Fire|1}}
+
+{{gameabbrev8|LA}}
+{{learnlist/levelh/LA|Rapidash|Fire|Fire|1}}
+{{learnlist/levelLA|1|9|Tackle|Normal|Physical|40|50|30|100|100|30||}}
+{{learnlist/levelLA|5|14|Ember|Fire|Special|40|50|30|100|100|25||'''}}
+{{learnlist/levelLA|9|18|Double Hit|Normal|Status|—|—|—|—|—|10||}}
+{{learnlist/levelLA|15|25|Flame Wheel|Fire|Physical|60|75|45|100|100|20||'''}}
+{{learnlist/levelLA|21|31|Hypnosis|Psychic|Status|—|—|—|70|90|20||}}
+{{learnlist/levelLA|29|40|Fire Blast|Fire|Special|100|120|80|85|95|5||'''}}
+{{learnlist/levelLA|37|48|Double-Edge|Normal|Physical|100|120|80|100|100|5||}}
+{{learnlist/levelLA|47|59|Flare Blitz|Fire|Physical|100|120|80|100|100|5||'''}}
+{{learnlist/levelf/8|Rapidash|Fire|Fire|1}}
+
+=====Galarian Rapidash=====
+{{learnlist/levelh/8|Rapidash|Psychic|Fairy|8}}
+{{learnlist/level8|1|Psycho Cut|Psychic|Physical|70|100|20||'''}}
+{{learnlist/level8|1|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level8|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Psycho Cut|Psychic|Physical|70|100|20||'''}}
+{{learnlist/level8|15|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level8|20|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level8|25|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level8|30|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level8|35|Heal Pulse|Psychic|Status|—|—|10}}
+{{learnlist/level8|43|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level8|49|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/level8|56|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level8|63|Healing Wish|Psychic|Status|—|—|10}}
+{{learnlist/levelf/8|Rapidash|Psychic|Fairy|8}}
+
+====By [[TM]]/[[TR]]====
+=====Rapidash=====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Rapidash|Fire|Fire|1}}
+{{learnlist/tm8|TM02|Pay Day|Normal|Physical|40|100|20}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM12|Solar Blade|Grass|Physical|125|100|10}}
+{{learnlist/tm8|TM13|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM38|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM52|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM92|Mystical Fire|Fire|Special|75|100|10||'''}}
+{{learnlist/tm8|TM96|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR02|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tr|TR07|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR15|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR28|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR36|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/tr|TR43|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tr|TR55|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/tr|TR57|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tr|TR87|Drill Run|Ground|Physical|80|95|10}}
+{{learnlist/tr|TR90|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tr|TR94|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tr|TR95|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tmf/8|Rapidash|Fire|Fire|1}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Rapidash|Fire|Fire|1}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm8|TM15|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||}}
+{{learnlist/tm8|TM23|Iron Tail|Steel|Physical|100|75|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|—|—|15||}}
+{{learnlist/tm8|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm8|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|—|—|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|—|100|15||}}
+{{learnlist/tm8|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM61|Will-O-Wisp|Fire|Status|—|85|15||}}
+{{learnlist/tm8|TM68|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm8|TM75|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM84|Poison Jab|Poison|Physical|80|100|20||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|—|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM96|Strength|Normal|Physical|80|100|15||}}
+{{learnlist/tmf/8|Rapidash|Fire|Fire|1}}
+
+=====Galarian Rapidash=====
+{{learnlist/tmh/8|Rapidash|Psychic|Fairy|8}}
+{{learnlist/tm8|TM02|Pay Day|Normal|Physical|40|100|20}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM44|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM52|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/tm8|TM69|Psycho Cut|Psychic|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM70|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm8|TM71|Wonder Room|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM72|Magic Room|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM89|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/tm8|TM91|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM92|Mystical Fire|Fire|Special|75|100|10}}
+{{learnlist/tm8|TM96|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR07|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR28|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR34|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tr|TR49|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tr|TR82|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tr|TR87|Drill Run|Ground|Physical|80|95|10}}
+{{learnlist/tr|TR90|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/tr|TR92|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tr|TR94|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tr|TR95|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tmf/8|Rapidash|Psychic|Fairy|8}}
+
+====By {{pkmn|breeding}}====
+=====Rapidash=====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Rapidash|Fire|Fire|1}}
+{{learnlist/breed8|{{MSP/8c|032|Nidoran♂}}{{MSP/8c|033|Nidorino}}{{MSP/8c|034|Nidoking}}{{MSP/8c|135|Jolteon}}{{MSP/8c|256|Combusken}}{{MSP/8c|257|Blaziken}}{{MSP/8c|427|Buneary}}{{MSP/8c|428|Lopunny}}{{MSP/8c|659|Bunnelby}}{{MSP/8c|660|Diggersby}}{{MSP/8c|725|Litten}}{{MSP/8c|726|Torracat}}{{MSP/8c|727|Incineroar}}{{MSP/8c|749|Mudbray}}{{MSP/8c|750|Mudsdale}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}{{MSP/8c|831|Wooloo}}{{MSP/8c|832|Dubwool}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed8|{{MSP/8c|128|Tauros}}{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|206|Dunsparce}}{{MSP/8c|263|Zigzagoon}}{{MSP/8c|263G|Zigzagoon}}{{MSP/8c|264|Linoone}}{{MSP/8c|264G|Linoone}}{{MSP/8c|862|Obstagoon}}{{MSP/8c|449|Hippopotas}}{{MSP/8c|450|Hippowdon}}{{MSP/8c|759|Stufful}}{{MSP/8c|760|Bewear}}{{MSP/8c|766|Passimian}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}{{MSP/8c|831|Wooloo}}{{MSP/8c|832|Dubwool}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed8|{{MSP/8c|111|Rhyhorn}}{{MSP/8c|112|Rhydon}}{{MSP/8c|464|Rhyperior}}{{MSP/8c|530|Excadrill}}|Horn Drill|Normal|Physical|—|30|5}}
+{{learnlist/breed8|{{MSP/8c|517|Munna}}{{MSP/8c|518|Musharna}}|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/breed8|{{MSP/8c|196|Espeon}}|Morning Sun|Normal|Status|—|—|5}}
+{{learnlist/breed8|{{MSP/8c|052G|Meowth}}{{MSP/8c|863|Perrserker}}{{MSP/8c|128|Tauros}}{{MSP/8c|221|Piloswine}}{{MSP/8c|473|Mamoswine}}{{MSP/8c|551|Sandile}}{{MSP/8c|552|Krokorok}}{{MSP/8c|553|Krookodile}}{{MSP/8c|554|Darumaka}}{{MSP/8c|554G|Darumaka}}{{MSP/8c|555|Darmanitan}}{{MSP/8c|555G|Darmanitan}}{{MSP/8c|613|Cubchoo}}{{MSP/8c|614|Beartic}}{{MSP/8c|725|Litten}}{{MSP/8c|726|Torracat}}{{MSP/8c|727|Incineroar}}{{MSP/8c|759|Stufful}}{{MSP/8c|760|Bewear}}{{MSP/8c|766|Passimian}}{{MSP/8c|877|Morpeko}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breedf/8|Rapidash|Fire|Fire|2}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Rapidash|Fire|Fire|2}}
+{{learnlist/breed8|{{MSP/H|0235|Smeargle}}|Ally Switch|Psychic|Status|—|—|15||}}
+{{learnlist/breed8|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0231|Phanpy}}{{MSP/H|0232|Donphan}}{{MSP/H|0300|Skitty}}{{MSP/H|0301|Delcatty}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0417|Pachirisu}}{{MSP/H|0427|Buneary}}{{MSP/H|0428|Lopunny}}{{MSP/H|0431|Glameow}}{{MSP/H|0432|Purugly}}|Charm|Fairy|Status|—|100|20||}}
+{{learnlist/breed8|{{MSP/H|0032|Nidoran♂}}{{MSP/H|0033|Nidorino}}{{MSP/H|0034|Nidoking}}{{MSP/H|0135|Jolteon}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0427|Buneary}}{{MSP/H|0428|Lopunny}}|Double Kick|Fighting|Physical|30|100|30||}}
+{{learnlist/breed8|{{MSP/H|0019|Rattata}}{{MSP/H|0020|Raticate}}{{MSP/H|0128|Tauros}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0155|Cyndaquil}}{{MSP/H|0156|Quilava}}{{MSP/H|0157|Typhlosion}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0231|Phanpy}}{{MSP/H|0232|Donphan}}{{MSP/H|0234|Stantler}}{{MSP/H|0263|Zigzagoon}}{{MSP/H|0264|Linoone}}{{MSP/H|0300|Skitty}}{{MSP/H|0301|Delcatty}}{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0327|Spinda}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}|Double-Edge|Normal|Physical|120|100|15||}}
+{{learnlist/breed8|{{MSP/H|0058|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0077|Ponyta}}{{MSP/H|0078|Rapidash}}{{MSP/H|0155|Cyndaquil}}{{MSP/H|0156|Quilava}}{{MSP/H|0157|Typhlosion}}{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0390|Chimchar}}{{MSP/H|0391|Monferno}}{{MSP/H|0392|Infernape}}|Flame Wheel|Fire|Physical|60|100|25||'''}}
+{{learnlist/breed8|{{MSP/H|0235|Smeargle}}|High Horsepower|Ground|Physical|95|95|10||}}
+{{learnlist/breed8|{{MSP/H|0111|Rhyhorn}}{{MSP/H|0112|Rhydon}}{{MSP/H|0464|Rhyperior}}|Horn Drill|Normal|Physical|—|30|5||}}
+{{learnlist/breed8|{{MSP/H|0234|Stantler}}{{MSP/H|0327|Spinda}}{{MSP/H|0431|Glameow}}{{MSP/H|0432|Purugly}}|Hypnosis|Psychic|Status|—|60|20||}}
+{{learnlist/breed8|{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}|Low Kick|Fighting|Physical|—|100|20||}}
+{{learnlist/breed8|{{MSP/H|0196|Espeon}}|Morning Sun|Normal|Status|—|—|5||}}
+{{learnlist/breed8|{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0128|Tauros}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0327|Spinda}}|Thrash|Normal|Physical|120|100|10||}}
+{{learnlist/breedf/8|Rapidash|Fire|Fire|2}}
+
+=====Galarian Rapidash=====
+{{learnlist/breedh/8|Rapidash|Psychic|Fairy|8}}
+{{learnlist/breed8|{{MSP/8c|032|Nidoran♂}}{{MSP/8c|033|Nidorino}}{{MSP/8c|034|Nidoking}}{{MSP/8c|135|Jolteon}}{{MSP/8c|256|Combusken}}{{MSP/8c|257|Blaziken}}{{MSP/8c|427|Buneary}}{{MSP/8c|428|Lopunny}}{{MSP/8c|659|Bunnelby}}{{MSP/8c|660|Diggersby}}{{MSP/8c|725|Litten}}{{MSP/8c|726|Torracat}}{{MSP/8c|727|Incineroar}}{{MSP/8c|749|Mudbray}}{{MSP/8c|750|Mudsdale}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}{{MSP/8c|831|Wooloo}}{{MSP/8c|832|Dubwool}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed8|{{MSP/8c|128|Tauros}}{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|206|Dunsparce}}{{MSP/8c|263|Zigzagoon}}{{MSP/8c|263G|Zigzagoon}}{{MSP/8c|264|Linoone}}{{MSP/8c|264G|Linoone}}{{MSP/8c|862|Obstagoon}}{{MSP/8c|449|Hippopotas}}{{MSP/8c|450|Hippowdon}}{{MSP/8c|759|Stufful}}{{MSP/8c|760|Bewear}}{{MSP/8c|766|Passimian}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}{{MSP/8c|831|Wooloo}}{{MSP/8c|832|Dubwool}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed8|{{MSP/8c|111|Rhyhorn}}{{MSP/8c|112|Rhydon}}{{MSP/8c|464|Rhyperior}}{{MSP/8c|530|Excadrill}}|Horn Drill|Normal|Physical|—|30|5}}
+{{learnlist/breed8|{{MSP/8c|517|Munna}}{{MSP/8c|518|Musharna}}|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/breed8|{{MSP/8c|196|Espeon}}|Morning Sun|Normal|Status|—|—|5}}
+{{learnlist/breed8|{{MSP/8c|052G|Meowth}}{{MSP/8c|863|Perrserker}}{{MSP/8c|128|Tauros}}{{MSP/8c|221|Piloswine}}{{MSP/8c|473|Mamoswine}}{{MSP/8c|551|Sandile}}{{MSP/8c|552|Krokorok}}{{MSP/8c|553|Krookodile}}{{MSP/8c|554|Darumaka}}{{MSP/8c|554G|Darumaka}}{{MSP/8c|555|Darmanitan}}{{MSP/8c|555G|Darmanitan}}{{MSP/8c|613|Cubchoo}}{{MSP/8c|614|Beartic}}{{MSP/8c|725|Litten}}{{MSP/8c|726|Torracat}}{{MSP/8c|727|Incineroar}}{{MSP/8c|759|Stufful}}{{MSP/8c|760|Bewear}}{{MSP/8c|766|Passimian}}{{MSP/8c|877|Morpeko}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breedf/8|Rapidash|Psychic|Fairy|8}}
+
+====By [[Move Tutor|tutoring]]====
+=====Rapidash=====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/tutorh/8|Rapidash|Fire|Fire|2}}
+{{learnlist/tutor8|Scorching Sands|Ground|Special|70|100|10|||no|yes}}
+{{learnlist/tutorf/8|Rapidash|Fire|Fire|2}}
+
+{{gameabbrev8|LA}}
+{{learnlist/tutorh/PLA|Rapidash|Fire|Fire|1}}
+{{learnlist/tutorPLA|Flamethrower|Fire|Special|80|100|60|100|100|10||'''}}
+{{learnlist/tutorPLA|Giga Impact|Normal|Physical|120|150|100|90|95|5||}}
+{{learnlist/tutorPLA|High Horsepower|Ground|Physical|85|105|65|95|100|10||}}
+{{learnlist/tutorPLA|Hyper Beam|Normal|Special|120|150|100|90|95|5||}}
+{{learnlist/tutorPLA|Iron Tail|Steel|Physical|100|120|80|75|90|5||}}
+{{learnlist/tutorPLA|Megahorn|Bug|Physical|100|120|80|85|95|5||}}
+{{learnlist/tutorPLA|Mystical Fire|Fire|Special|70|85|55|100|100|10||'''}}
+{{learnlist/tutorPLA|Poison Jab|Poison|Physical|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|Rest|Psychic|Status|—|—|—|—|—|10||}}
+{{learnlist/tutorPLA|Swift|Normal|Special|60|75|45|—|—|20||}}
+{{learnlist/tutorPLA|Wild Charge|Electric|Physical|85|105|65|100|100|10||}}
+{{learnlist/tutorf/8|Rapidash|Fire|Fire|1}}
+
+=====Galarian Rapidash=====
+{{learnlist/tutorh/8|Rapidash|Psychic|Fairy|8}}
+{{learnlist/tutor8|Expanding Force|Psychic|Special|80|100|10||'''|no|yes}}
+{{learnlist/tutorf/8|Rapidash|Psychic|Fairy|8}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Rapidash|Fire|Fire|1}}
+{{learnlist/prevgen8|Rapidash|1|Bide|Normal|Physical|—|—|10|I=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Rapidash|1|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Rapidash|1|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Rapidash|1|Curse|Ghost|Status|—|—|10|II=yes<!--TM-->}}
+{{learnlist/prevgen8|Rapidash|1|Double Team|Normal|Status|—|—|15|I=yes<!--TM-->|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Rapidash|1|Echoed Voice|Normal|Special|40|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Rapidash|1|Frustration|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Rapidash|1|Fury Attack|Normal|Physical|15|85|20|II=yes<!--level-->|III=yes<!--level-->|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level,level,level,level-->}}
+{{learnlist/prevgen8|Rapidash|1|Headbutt|Normal|Physical|70|100|15|II=yes<!--TM-->|IV=yes<!--tutor-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Rapidash|1|Hidden Power|Normal|Special|60|100|15|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Rapidash|1|Incinerate|Fire|Special|60|100|15||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Rapidash|1|Mimic|Normal|Status|—|—|10|I=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Rapidash|1|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Rapidash|1|Rage|Normal|Physical|20|100|20|I=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Rapidash|1|Reflect|Psychic|Status|—|—|20|I=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Rapidash|1|Return|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Rapidash|1|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Rapidash|1|Skull Bash|Normal|Physical|130|100|10|I=yes<!--TM-->}}
+{{learnlist/prevgen8|Rapidash|1|Strength|Normal|Physical|80|100|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Rapidash|1|Swagger|Normal|Status|—|85|15|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Rapidash|1|Toxic|Poison|Status|—|90|10|I=yes<!--TM-->|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM,TM-->}}
+{{learnlist/prevgenf/8|Rapidash|Fire|Fire|1}}
+
+===Side game data===
+====Rapidash====
+{{Spindata/Head|type=Fire}}
+{{Spindata/Pinball|col=3|type=Fire|ndex=078|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Fire|ndex=078|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Fire|ndex=078
+|body=1
+|rate=Evolve
+|area=Scorched Plains
+|P1=If I gallop flat out, I can outrun a {{wp|bullet train}}!
+|P2=My health is half gone...
+|P3=It's hopeless... My flames are about to fizzle...
+|PL=Hm! My level's gone up!
+|Partner=no
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Fire|ndex=078
+|body=1
+|rate=-4.5
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Fire|ndex=078
+|coset=3
+|conto={{p|Torkoal}}, {{p|Pyroar|Pyroar (♂)}}
+|recruitment=Explore the last floor of a dungeon
+|P1=Why don't you gallop with me? Going zoooooom gives you the best feeling!
+|P2=My legs are getting numb...
+}}
+|-
+{{Spindata/Ranger|col=6|type=Fire
+|group=Fire
+|assist=Fire
+|fieldpower=3
+|field=Burn
+|loop=7
+|MinEXP=56
+|MaxEXP=76
+|num=018
+|browser=Rapidash charges while cloaked in flames that can incinerate anything.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Fire
+|group=Fire
+|assist=Fire
+|field=Burn
+|fieldpower=3
+|num=177
+|browser=It attacks by launching fire and charging.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Fire
+|att=3
+|def=3
+|speed=4
+}}
+{{Spindata/RumbleBlast|col=3|type=Fire
+|att=3
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Fire|ndex=078
+|walk=1.25
+|hp=52
+|attack=79
+|defense=54
+|speed=70
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Fire|ndex=078
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Fire|ndex=078|num=692
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Non Stop+
+|skilldesc=Deals even more damage the more times in a row it is triggered.
+|swapper=Shot Out
+}}
+|-
+{{Spindata/GO|col=6|type=Fire|ndex=078
+|hatch=N/A
+|buddy=3
+|candy=Ponyta
+|evolution=N/A
+|stamina=163
+|attack=207
+|defense=162
+|fast={{m|Low Kick}}, {{m|Fire Spin}}{{tt|*|From February 16, 2017 onward}}, {{m|Incinerate}}{{tt|*|From November 9, 2020 onward}}, {{m|Ember}}{{tt|†|Prior to February 16, 2017}}
+|special={{m|Fire Blast}}, {{m|Drill Run}}, {{m|Heat Wave}}, {{m|Flame Charge}}{{tt|*|From November 9, 2020 onward}}, {{m|Scorching Sands}}{{tt|*|From September 1, 2023 onward}}, {{m|Wild Charge}}{{tt|†|Event-exclusive from Ponyta Community Day}}
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{fire color dark}}; background:#{{fire color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{fire color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{fire color dark}}; background:#{{fire color light}};"| [[File:GO0078Valor.png|100px]]
+|-
+| [[Candela]]-themed accessory
+|}
+
+====Galarian Rapidash====
+{{Spindata/Head|type=Psychic|type2=Fairy}}
+{{Spindata/GO
+| col = 6
+| type = Psychic
+| ndex = 078G
+| hatch = N/A
+| buddy = 3
+| candy = Ponyta
+| evolution = N/A
+| stamina = 163
+| attack = 207
+| defense = 162
+| fast = {{m|Low Kick}}, {{m|Psycho Cut}}, {{m|Fairy Wind}}{{tt|*|From September 1, 2022 onward}}
+| special = {{m|Psychic}}, {{m|Megahorn}}, {{m|Play Rough}}, {{m|Body Slam}}, {{m|High Horsepower}}{{tt|*|From December 1, 2022 onward}}, {{m|Wild Charge}}{{tt|†|Event-exclusive from Ponyta Community Day}}
+}}
+|}
+
+===Evolution data===
+====Rapidash====
+{{Evobox-2
+|type1=Fire
+|pictype=art
+|no1=0077
+|name1=Ponyta
+|type1-1=Fire
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}
+|no2=0078
+|name2=Rapidash
+|type1-2=Fire}}
+
+====Galarian Rapidash====
+{{Evobox-2
+|type1=Psychic
+|type2=Fairy
+|pictype=sprite
+|no1=0077Ponyta-Galar
+|name1=Ponyta
+|form1=Galarian Form
+|type1-1=Psychic
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}
+|no2=0078Rapidash-Galar
+|name2=Rapidash
+|form2=Galarian Form
+|type1-2=Psychic
+|type2-2=Fairy}}
+
+===Sprites===
+{{Spritebox/Header|type=Fire}}
+{{Spritebox/1|ndex=078}}
+{{Spritebox/2|ndex=078}}
+{{Spritebox/3|ndex=078}}
+{{Spritebox/4|ndex=078}}
+{{Spritebox/5|ndex=078}}
+{{Spritebox/6|ndex=078|crop=121}}
+{{Spritebox/7/PE|ndex=078|crop=110|PEcrop=204}}
+{{Spritebox/8/2Forms1FormLA|ndex=078|form1=G|LAcrop=182}}
+{{Spritebox/NA|is=yes|gen=IX}}
+{{Spritebox/HOME/2Forms|ndex=0078|form1=G}}
+{{Spritebox/Footer|078|Rapidash}}
+
+==In animation==
+[[File:Rapidash anime.png|thumb|250px|Rapidash in {{aniseries|SM}}]]
+[[File:Glimwood Tangle Rapidash.png|thumb|250px|Galarian Rapidash in {{aniseries|JN}}]]
+===Main series===
+====Major appearances====
+Rapidash debuted in ''[[EP033|The Flame Pokémon-athon!]]'', under the ownership of [[Lara Laramie]]. {{Ash}} used it in the [[Big P Pokémon Race]] while it was still a {{p|Ponyta}}. Ponyta eventually evolved into Rapidash near the end of the race, subsequently winning it.
+
+In ''[[M01|Mewtwo Strikes Back]]'', [[Neesha]]'s Rapidash was captured and cloned by {{OBP|Mewtwo|M01}}. The Rapidash clone reappeared in ''[[Mewtwo Returns]]''. In ''[[M22|Mewtwo Strikes Back—Evolution]]'', a remake of ''Mewtwo Strikes Back'', Neesha's Rapidash played the same role.
+
+In ''[[EP272|Johto Photo Finish]]'', [[Jon Dickson]] used a Rapidash in the final match of the [[Silver Conference]]. It went up against a {{p|Rhydon}} and was able to defeat it, granting its {{pkmn|Trainer}} victory in the Silver Conference.
+
+In the Hoopa's Surprise Ring Adventures short ''{{DL|Hoopa's Surprise Ring Adventures|Heated Battle}}'', a Rapidash was summoned by {{an|Hoopa}} alongside a {{p|Slugma}}, {{p|Magmortar}}, and {{p|Heatran}}. They all used {{type|Fire}} attacks to set Ash and {{AP|Pikachu}} on fire.
+
+{{rf|Galarian}} Rapidash debuted in ''[[JN055|The Tale of You and Glimwood Tangle!]]''. [[Chloe]] found it injured, but with the help of a Galarian Ponyta, she was able to heal it. It reappeared in a flashback in ''[[JN082|The Sweet Taste of Battle!]]''.
+
+====Minor appearances====
+In ''[[EP064|It's Mr. Mime Time]]'', [[Stella]] used a Rapidash for her circus.
+
+In ''[[EP065|Showdown at the Po-ké Corral]]'', a Rapidash was living at [[Professor Oak's Laboratory]].
+
+In ''[[M02|The Power of One]]'', multiple Rapidash sensed the disturbance caused by [[Lawrence III]].
+
+A Rapidash appeared in the Japanese credits of ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+Multiple Rapidash appeared in the opening intro of ''[[M04|Celebi: The Voice of the Forest]]'', which was reused for ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+In ''[[AG042|Love at First Flight]]'', [[Jessie]]'s dream of {{wp|Prince Charming}} featured a Rapidash.
+
+Multiple Rapidash appeared in ''[[M07|Destiny Deoxys]]''.
+
+In ''[[AG161|Odd Pokémon Out!]]'', multiple Rapidash lived at [[Camomile Island]].
+
+A {{pkmn|Coordinator}}'s Rapidash appeared in ''[[AG180|May, We Harley Drew'd Ya!]]''.
+
+A Rapidash appeared in ''[[DP010|Not on MY Watch Ya Don't!]]''.
+
+In ''[[DP011|Mounting a Coordinator Assault!]]'', a Coordinator's Rapidash competed in the {{ci|Jubilife}} {{pkmn|Contest}}.
+
+A Coordinator's Rapidash appeared in ''[[DP026|Getting the Pre-Contest Titters!]]''.
+
+Multiple Rapidash appeared in ''[[M11|Giratina and the Sky Warrior]]''.
+
+A Rapidash appeared in ''[[DP138|Strategy Begins at Home!]]'' in {{Ash}}'s flashback.
+
+In ''[[DP174|Last Call — First Round!]]'', a Coordinator's Rapidash competed in the [[Appeal|Performance Stage]] of the [[Sinnoh Grand Festival]] with a {{p|Girafarig}}.
+
+In ''[[DP178|For The Love of Meowth!]]'', {{MTR}}'s fantasy featured a Rapidash.
+
+A Rapidash appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Rapidash appeared in ''[[M20|I Choose You!]]''.
+
+In ''[[SM034|A Crowning Moment of Truth!]]'', a Trainer's Rapidash attended the [[Wela Fire Festival]].
+
+In ''[[SM042|Alola, Kanto!]]'', {{an|Kiawe}} managed to have a ride on a Rapidash at [[Professor Oak's Laboratory]]. A fantasy featured another Rapidash.
+
+Two Rapidash appeared in ''[[JN002|Legend? Go! Friends? Go!]]''.
+
+An image of a Rapidash appeared in ''[[JN055|The Tale of You and Glimwood Tangle!]]''.
+
+A Rapidash appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+Two Rapidash appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+====Pokédex entries====
+{{Animedexheader|Alola}}
+{{Animedexbody|SM042|Rapidash|Rotom Pokédex|Rapidash, the Fire Horse Pokémon. A {{t|Fire}} type. Rapidash loves to gallop. Whenever it sees something moving fast, it gets the urge to race.}}
+{{Animedexfooter/Pokémon|Alola}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN055|Rapidash|Goh's Rotom Phone|Rapidash, [[Galarian form]]. The Unique Horn Pokémon. A {{t|Psychic}} and {{t|Fairy}} type, and {{p|Ponyta}}'s evolved form. Fearless and proud, Rapidash uses Psychic powers stored in the flowing fur above its hooves to dash through the forest with ease.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Origins===
+[[File:Red Rapidash PO.png|thumb|250px|Rapidash in [[Pokémon Origins]]]]
+In ''[[PO04|File 4: Charizard]]'', {{OBP|Red|Origins}} owns a Rapidash.
+
+===Pokémon: Twilight Wings===
+A {{rf|Galarian}} Rapidash appeared in ''[[TW08|The Gathering of Stars]]'', under the ownership of [[Bede]].
+
+===Pokémon Evolutions===
+[[File:Elaine Rapidash Evolutions.png|thumb|left|250px|Rapidash in [[Pokémon Evolutions]]]]
+A Rapidash appeared in ''[[PE08|The Discovery]]'', under the ownership of {{ga|Elaine}}. She used it to battle {{ga|Green}}'s {{p|Ninetales}} and lost.
+{{-}}
+
+==In the manga==
+[[File:Platinum Rapidash.png|thumb|200px|Rapidash in [[Pokémon Adventures]]]]
+[[File:Bede Rapidash Adventures.png|thumb|left|200px|Galarian Rapidash in [[Pokémon Adventures]]]]
+===The Electric Tale of Pikachu===
+{{OBP|Ash Ketchum|EToP|Ash}} borrowed [[Lara Laramie]]'s Ponyta when she couldn't qualify due to her having a broken arm. During the race, it evolved into a Rapidash and became faster, winning the race.
+
+===Pocket Monsters HGSS Jō's Big Adventure===
+A Rapidash appeared as a silhouette in [[JBA5]], under the ownership of [[Blaine]].
+
+===Pokémon Adventures===
+{{main|Platinum's Rapidash}}
+{{adv|Blaine}} has a Rapidash as his steed in [[Pokémon Adventures]]. In ''[[PS026|Holy Moltres]]'', it carried {{adv|Red}} to [[Cinnabar Lab|Blaine's secret laboratory]] to revive an [[Aero]]dactyl from its Fossil. Later, Blaine rode Rapidash into {{adv|Mewtwo}}'s {{m|Psywave}} in an attempt to defeat Mewtwo. To protect Red, Blaine's Rapidash created a fireball wall around the {{pkmn|Trainer}} to shield him from the impending blast.
+
+In ''[[PS056|The Coming of Slowpoke (Eventually)]]'', the [[Pokémon Fan Club Chairman]] was revealed to own a Rapidash. This particular Rapidash is notable for being able to use the move {{m|Pay Day}}, which it cannot normally learn.
+
+A Rapidash appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+A Rapidash appeared in ''[[PS309|Moving Past Milotic]]'', when {{adv|Crystal}} lent the one she had to {{adv|Emerald}}. Though it was initially overwhelmed by [[Lucy's Seviper]] with its {{m|Toxic}} and {{m|Giga Drain}} maneuver, its fellow team member {{p|Blissey}} revitalized it using {{m|Heal Bell}} and {{m|Softboiled}}, allowing it to defeat the serpent with a powerful {{m|Overheat}}.
+
+In ''[[PS377|Hurrah for Rapidash]]'', {{adv|Platinum}}'s {{p|Ponyta}} evolved into a {{TP|Platinum|Rapidash}} the day after her Gym battle against [[Byron]].
+
+Two Rapidash first appeared in ''[[PS392|Well Met, Weepinbell]]'', under the ownership of {{adv|Sebastian}}. They were used to pull his carriage around.
+
+A Rapidash appeared in ''[[PS442|Out-Odding Oddish]]'', under the ownership of a [[Pokéathlon]] participant.
+
+A {{rf|Galarian}} Rapidash first appeared in ''[[PASS25|Rumble!! The Horrific Darkest Day]]'', having evolved from [[Bede]]'s Ponyta.
+
+===Pokémon Diamond and Pearl Adventure!===
+[[Flint]]'s Rapidash was the first Pokémon used in the battle against [[Hareta]] in ''[[DPA24|Hareta's Heart's Desire]]''. It quickly defeated his {{TP|Hareta|Empoleon}} with its combined {{m|Sunny Day}} and {{m|Solar Beam}}, but it was eventually defeated by [[Hareta's Regigigas]].
+
+===Pokémon Pocket Monsters===
+Blaine sent out a Rapidash during the battle portion of the Pokémon Quiz Battle in ''[[PM024|Fierce Competition at the Pokémon Quiz Battle!!]]''.
+
+A Rapidash appeared in ''[[PM027|Curry Showdown! Which is the Most Delicious?]]'' as one of the participants of a curry cooking competition.
+
+===Pokémon Zensho===
+Blaine's Rapidash was briefly seen in [[PZ08]].
+
+==In the TCG==
+{{main|Rapidash (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Ultimate]]===
+Rapidash appears as a {{sbw|Spirit}}.
+
+===[[Pokémon UNITE]]===
+[[File:UNITE Galarian Rapidash.png|150px|thumb|Galarian Rapidash in Pokémon UNITE]]
+{{main|Galarian Rapidash (UNITE)}}
+Rapidash in its Galarian form is playable through obtaining a Unite License. It is a ranged speedster that starts as Galarian Ponyta, which evolves into Galarian Rapidash at level 5.
+{{-}}
+
+==Trivia==
+* In early English-language promotional material for [[Pokémon Red and Green beta|Pokémon Red and Blue]], it was revealed that Rapidash was to keep its romanized Japanese name "Gallop".
+* Rapidash is the favorite Pokémon of the [[Kanto]] [[Pokémon Fan Club Chairman]]. When the {{player}} first speaks to him, he goes on about why Rapidash is his favorite Pokémon at length.
+* Galarian Rapidash's {{pkmn|category}}, Unique Horn, sounds similar to "unicorn".
+* In Galarian Rapidash's [[Pokédex]] entry in {{g|Sword}}, {{m|Psycho Cut}} is not properly capitalized.
+
+===Origin===
+Rapidash's horn shows it may have been inspired by {{wp|unicorn}}s, but it also displays a lot of resemblance to a regular {{wp|horse}}. Both it and its pre-evolved form may also be based on fiery steeds in mythology, such as those of the Greek god {{wp|Helios}}, {{wp|Skinfaxi and Hrímfaxi|Skinfaxi}} of {{wp|Norse mythology}}, and the horses of the {{wp|Ashvins}} in {{wp|Hindu mythology}}. It may also be based on {{wp|Qilin}}, a legendary Chinese hooved chimerical creature sometimes depicted with parts of their bodies on fire.
+
+Galarian Rapidash appears to be based on more modern depictions of unicorns. Its inclusion in [[Galar]] and the [[Crown Tundra]] may be inspired by the fact that the unicorn is the national animal of {{wp|Scotland}}, which the Crown Tundra is based on. Its signature Ability, {{a|Pastel Veil}}, may be inspired by the belief that unicorn horns can be used to cure diseases and neutralize poisons.
+
+====Name origin====
+Rapidash may be a combination of ''rapid'' and ''dash'' (referring to the high speed at which it runs) or ''ash'' (referencing its Fire type).
+
+Gallop is literally ''gallop'', a form of running for hooved animals.
+
+==In other languages==
+{{Other languages|type=Fire|type2=Fire
+|ja=ギャロップ ''Gallop''|jameaning=From ''gallop''
+|fr=Galopa|frmeaning=From {{tt|''galop''|gallop}}
+|es=Rapidash|esmeaning=Same as English name
+|de=Gallopa|demeaning=From ''{{tt|Galopp|gallop}}''
+|it=Rapidash|itmeaning=Same as English name
+|ko=날쌩마 ''Nalssaengma''|komeaning=From {{tt|날쌔다 ''nalssaeda''|swift, nimble}}, {{tt|쌩 ''ssaeng''|onomatopoeia for something fast}}, and {{tt|마 (馬) ''ma''|horse}}
+|zh_cmn=烈焰馬 / 烈焰马 ''Lièyànmǎ''|zh_cmnmeaning=From {{tt|烈焰 ''lièyàn''|raging flame}} and {{tt|馬 / 马 ''mǎ''|horse}}
+|zh_yue=烈焰馬 ''Lihtyìhmmáh''|zh_yuemeaning=From {{tt|烈焰 ''lihtyìhm''|raging flame}} and {{tt|馬 ''máh''|horse}}
+|hi=रैपिडैश ''Rapidash''|himeaning=Transcription of English name
+|ru=Рапидаш ''Rapidash''|rumeaning=Transcription of English name
+|th=แกลล็อป ''Kaellop''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==See also==
+* [[Platinum's Rapidash]]
+* [[Galarian Rapidash (UNITE)]]
+* [[Regional form]]
+
+==External links==
+
+{{Galarian forms}}
+
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=0077|prev=Ponyta|nextnum=0079|next=Slowpoke}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appear in Pokémon Snap]]
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Super Smash Bros. spirits]]
+[[Category:White-colored Pokémon]]<!--Galarian Rapidash-->
+
+[[de:Gallopa]]
+[[es:Rapidash]]
+[[fr:Galopa]]
+[[it:Rapidash]]
+[[ja:ギャロップ]]
+[[zh:烈焰马]]

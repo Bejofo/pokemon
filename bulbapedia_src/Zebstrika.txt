@@ -1,0 +1,485 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Zebstrika}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0522|prev=Blitzle|nextnum=0524|next=Roggenrola|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Zebstrika
+|jname=ゼブライカ
+|jtranslit=Zeburaika
+|tmname=Zebraika
+|category=Thunderbolt
+|typebox=1
+|type1=Electric
+|abilityn=d
+|ability1=Lightning Rod
+|ability2=Motor Drive
+|abilityd=Sap Sipper
+|ndex=0523
+|height-ftin=5'03"
+|height-m=1.6
+|weight-lbs=175.3
+|weight-kg=79.5
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=174
+|lv100exp=1,000,000
+|gendercode=127
+|color=Black
+|catchrate=75
+|evtotal=2
+|evsp=2
+|body=08
+|pokefordex=zebstrika
+|generation=5
+|friendship=70
+}}
+'''Zebstrika''' ([[List of Japanese Pokémon names|Japanese]]: '''ゼブライカ''' ''Zebraika'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Blitzle}} starting at [[level]] 27.
+
+==Biology==
+Zebstrika is a zebra-like {{OBP|Pokémon|species}}. Its coat is black with white, jagged stripes all over its body. There is one pointed stripe extending from its nose, two elaborate stripes on its neck and chest, one zigzag stripe each on its jaws, back, and hindquarters, one triangular stripe on each of its thighs, and two stripes banding each of its legs. Its ears are triangular with blue insides, while its eyes are blue with yellow sclerae and white eyelashes. Its nose is black, and its hooves are gray. A white, spiked mane runs the length of its body, beginning with two horn-like extensions on its forehead and running down its back to end in a long tail with a starburst-shaped tip. 
+
+Zebstrika has an aggressive and volatile personality. This irritable Pokémon fires lightning bolts from its mane when angry. The sign of that is when its white mane illuminates in a yellow glow. Zebstrika can move as quickly as lightning, releasing thunderclaps at full gallop. Zebstrika is known to lead {{p|Blitzle}} herds into thunderstorms. The main reason is to use the lightning unleashed by the storm to charge up Zebstrika's herd.
+
+===Evolution===
+Zebstrika evolves from {{p|Blitzle}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|pictype=art
+|type1=Electric
+|no1=0522
+|name1=Blitzle
+|type1-1=Electric
+|evo1=
+|no2=0523
+|name2=Zebstrika
+|type1-2=Electric}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=029|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=148|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.}}
+{{Dex/Entry1|v=White|entry=This ill-tempered Pokémon is dangerous because when it's angry, it shoots lightning from its mane in all directions.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=24}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon is aggressive and has a volatile disposition. When agitated, it will illuminate its mane in yellow and fire off bolts of electricity.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Once the herd hears thunder, it chases after the storm clouds so that the Blitzle in the group can use the lightning to charge up.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{electric color dark}}; background:#{{electric color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{electric color light}}; background:#{{electric color light}} | [[File:Pokédex Image Zebstrika SV Blueberry.png|x200px]]
+|-
+| Zebstrika in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|7|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|3|Unova}} and {{rtn|7|Unova}}<br>{{rt|3|Unova}} ([[Hidden Grotto]]){{tt|*|In the patch of dark grass}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Electric-type Safari|Electric]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Mirage Islands]] (west of {{rt|104|Hoenn}}, west of [[Dewford Town]], north of {{rt|124|Hoenn}}, south of {{rt|134|Hoenn}}), [[Mirage Mountains|Mirage Mountain]] (south of {{rt|129|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Blueberry Academy)|Zebstrika|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Challenger's Ground]], [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Tech Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Violight]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Ochre Quarry]] (1F-13F), [[Withered Savanna]] (1F-17F), [[Freezing Pillar]] (1F-14F), [[Windy Shoreline]] (1F-11F), [[Silent Tundra]] (Uncharted Road, Gilded Hall), [[Dreamy Island]] (Uncharted Road, Gilded Hall), [[Moonlit Forest]] (Gilded Hall), {{OBP|Mt. Travail|Gates to Infinity}} (8F-15F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Floors Are Hot!|Aquatic Hill: The Floors Are Hot!]], [[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 2|Island of Haste: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Royal Armory|Dark Land: Royal Armory]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 208]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Elesa|Zebstrika}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Electric}}
+{{HeldItems/Games2|Black|White|tcolor1=fff|Pokémon Black and White Versions}}
+{{HeldItems/Items1|Cheri Berry|50|rows=2}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|Pokémon Black and White Versions 2}}
+|}
+
+===Stats===
+====Base stats====
+{{Base stats
+|type=Electric
+|HP=75
+|Attack=100
+|Defense=63
+|SpAtk=80
+|SpDef=63
+|Speed=116
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|lightningrod=maybe
+|motordrive=maybe
+|sapsipper=maybe
+}}
+
+===Learnset===
+Zebstrika is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Zebstrika|Electric|Electric|5}}
+{{learnlist/level9|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|1|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|11|Shock Wave|Electric|Special|60|—|20||'''}}
+{{learnlist/level9|18|Flame Charge|Fire|Physical|50|100|20}}
+{{learnlist/level9|25|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|31|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level9|36|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|42|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|47|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/level9|53|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/levelf/9|Zebstrika|Electric|Electric|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Zebstrika|Electric|Electric|5}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM038|Flame Charge|Fire|Physical|50|100|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM053|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM157|Overheat|Fire|Special|130|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM210|Supercell Slam|Electric|Physical|100|95|15||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tmf/9|Zebstrika|Electric|Electric|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Zebstrika|Electric|Electric|5}}
+{{learnlist/breed9|{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128|Tauros|form=-Paldea Aqua}}{{MSP/H|0135|Jolteon}}{{MSP/H|0335|Zangoose}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026|Raichu|form=-Alola}}{{MSP/H|0052|Meowth}}{{MSP/H|0052|Meowth|form=-Alola}}{{MSP/H|0053|Persian}}{{MSP/H|0053|Persian|form=-Alola}}{{MSP/H|0335|Zangoose}}{{MSP/H|0336|Seviper}}{{MSP/H|0391|Monferno}}{{MSP/H|0392|Infernape}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0448|Lucario}}{{MSP/H|0652|Chesnaught}}{{MSP/H|0815|Cinderace}}|Feint|Normal|Physical|30|100|10}}
+{{learnlist/breed9|{{MSP/H|0027|Sandshrew}}{{MSP/H|0028|Sandslash}}{{MSP/H|0050|Diglett}}{{MSP/H|0050|Diglett|form=-Alola}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051|Dugtrio|form=-Alola}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0234|Stantler}}{{MSP/H|0899|Wyrdeer}}{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0744|Rockruff}}{{MSP/H|0745|Lycanroc}}{{MSP/H|0745|Lycanroc|form=-Midnight}}{{MSP/H|0745|Lycanroc|form=-Dusk}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0052|Meowth}}{{MSP/H|0052-Alola|Meowth}}{{MSP/H|0052-Galar|Meowth}}{{MSP/H|0053|Persian}}{{MSP/H|0053-Alola|Persian}}{{MSP/H|0863|Perrserker}}{{MSP/H|0054|Psyduck}}{{MSP/H|0055|Golduck}}{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0197|Umbreon}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215-Hisui|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0336|Seviper}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0448|Lucario}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}|Screech|Normal|Status|—|85|40}}
+{{learnlist/breedf/9|Zebstrika|Electric|Electric|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Zebstrika|Electric|Electric|5}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Zebstrika|Electric|Electric|5}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/PSMD|col=6|type=Electric|ndex=523
+|coset=15
+|conto={{p|Magnemite}}, {{p|Helioptile}}
+|recruitment=Find Zebstrika's precious belonging
+|P1=When I run wild, you'll hear the sound of thunder! Don't ask me what it does...
+|P2=I don't feel as charged up as before...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Electric
+|att=4
+|def=2
+|speed=4
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=523
+|walk=1.11
+|hp=54
+|attack=79
+|defense=51
+|speed=70
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Electric|ndex=523
+|pad=He decided to run all over PokéPark. He fell in love with the [[Tech Area]] during the trip and settled down in the Area.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Electric|ndex=523
+|HP=3
+|atk=2
+|def=2
+|spd=5
+|range=3
+|move=Discharge
+|ability1=Lightningrod
+|ability2=Motor Drive
+|ability3=Sprint
+|evo=Evolves from {{p|Blitzle}} when its Speed is 81 or higher
+|link={{OBP|Kiyo|Conquest}} and [[Tadasumi]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=523
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=523|num=247
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Block Smash
+|skilldesc=Clears one unbreakable-block disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=523
+|hatch=N/A
+|buddy=3<!--
+|candy=Blitzle-->
+|evolution=N/A
+|stamina=181
+|attack=211
+|defense=136
+|fast={{m|Low Kick}}, {{m|Spark}}
+|special={{m|Flame Charge}}, {{m|Discharge}}, {{m|Wild Charge}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|pictype=art
+|type1=Electric
+|no1=0522
+|name1=Blitzle
+|type1-1=Electric
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 27}}
+|no2=0523
+|name2=Zebstrika
+|type1-2=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=523}}
+{{Spritebox/6|ndex=523|crop=96}}
+{{Spritebox/7|ndex=523|crop=96}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9|ndex=0523}}-->
+{{Spritebox/HOME|ndex=0523}}
+{{Spritebox/Footer|523|Zebstrika}}
+
+==In animation==
+===Main series===
+[[File:Elesa Zebstrika.png|thumb|250px|Zebstrika in {{aniseries|BW}}]]
+====Major appearances====
+Zebstrika debuted in ''[[BW039|Reunion Battles In Nimbasa!]]'', under the ownership of [[Stephan]]. It was revealed to have evolved from his Blitzle. It reappeared in [[BW040|the next episode]], where it was used in a {{pkmn|battle}} against {{an|Bianca}} and her {{TP|Bianca|Minccino}} at the [[Club Battle]] tournament and won. Zebstrika reappeared again in ''[[BW106|Strong Strategy Steals the Show!]]'', where it battled {{Ash}} and his {{AP|Palpitoad}} at the [[Vertress Conference]], with the battle resulting in a tie.
+
+In ''[[BW049|Enter Elesa, Electrifying Gym Leader!]]'', [[Elesa]]'s Zebstrika defeated Bianca's {{p|Shelmet}}, Minccino, and {{TP|Bianca|Pignite}} during a [[Gym]] battle. In ''[[BW050|Dazzling the Nimbasa Gym!]]'', it was used during Elesa's Gym battle against Ash; it battled Ash's Palpitoad and lost.
+
+====Minor appearances====
+Multiple Zebstrika appeared in the opening sequence of ''[[M14|Black—Victini and Reshiram]]''.
+
+A {{pkmn|Trainer}}'s Zebstrika appeared in ''[[BW067|Cilan Takes Flight!]]''.
+
+A Zebstrika appeared in ''[[BW081|Crisis at Ferroseed Research!]]''.
+
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', the {{OBP|Swords of Justice|M15}} legend featured a Zebstrika.
+
+In ''[[BW090|Jostling for the Junior Cup!]]'', [[Simeon]]'s Zebstrika competed in the [[Pokémon World Tournament Junior Cup]]. It lost to [[Horatio]]'s {{p|Cinccino}} in the first round.
+
+In ''[[BW102|Team Eevee and the Pokémon Rescue Squad!]]'', multiple Zebstrika were living at a ranch at [[Virgil]]'s house.
+
+A Zebstrika appeared in a fantasy in ''[[XY009|Clemont's Got a Secret!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW039|Zebstrika|Ash's Pokédex|Zebstrika, the Thunderbolt Pokémon and the evolved form of {{p|Blitzle}}. Zebstrika can be dangerous when angry, shooting lightning in all directions from its mane. It is lightning fast and when running at full gallop, thunder echos through the air.}}
+{{Animedexbody|BW106|Zebstrika|Ash's Pokédex|Zebstrika, the Thunderbolt Pokémon and the evolved form of Blitzle. Zebstrika moves at lightning-quick speed, producing the sound of thunder at a full gallop.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon Black 2 and White 2 Animated Trailer===
+[[File:Elesa B2W2 Trailer.png|thumb|250px|Zebstrika in the animated trailer]]
+A Zebstrika appeared in the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], under the ownership of [[Elesa]].
+
+===Pokémon Generations===
+[[File:Elesa Zebstrika PG.png|thumb|left|250px|Zebstrika in [[Pokémon Generations]]]]
+A Zebstrika appeared in ''[[PG13|The Uprising]]'', under the ownership of [[Elesa]].
+
+===Pokémon Masters Animated Trailer===
+[[File:Sabrina Fantina Elesa Masters Trailer.png|thumb|250px|Zebstrika (center right) in the [[Pokémon Masters Animated Trailer]]]]
+In the [[Pokémon Masters Animated Trailer]], {{mas|Elesa}}'s Zebstrika was part of a team with its {{pkmn|Trainer}}, as well as {{mas|Sabrina}} and {{mas|Fantina}}.
+
+===Dragonite and the Special Delivery===
+[[File:Shiny Zebstrika DSD.png|thumb|left|250px|A {{Shiny}} Zebstrika in ''[[Dragonite and the Special Delivery]]'']]
+Multiple Zebstrika, one of them {{Shiny}}, appeared in ''[[Dragonite and the Special Delivery]]''.
+{{-}}
+
+==In the manga==
+[[File:Elesa Zebstrika Adventures.png|thumb|200px|Zebstrika in [[Pokémon Adventures]]]]
+===Be the Best! Pokémon B+W===
+In ''[[PBW3|The Battle for More Friends!]]'', a {{tc|Pokémon Ranger}} used a Zebstrika with his {{p|Swanna}} in a [[Double Battle]] against [[Monta]]. Its {{a|Lightningrod}} [[Ability]] let it absorb the {{type|Electric}} attacks of Monta's {{p|Emolga}}. It was then defeated by a {{a|Sand Force}}-boosted {{m|Dig}} from Monta's {{p|Excadrill}}.
+
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Zebstrika appeared in ''[[FAT2|The King's Identity...!!]]''.
+
+===Pokémon Adventures===
+[[Elesa]] has a Zebstrika, which was first seen in ''[[PS482|To Make a Musical]]''. It was being dressed up in preparation of the Pokémon Musical. Later, it was used in a [[Gym]] {{pkmn|battle}} against {{adv|Black}}.
+
+A Zebstrika appeared in ''[[PS494|Up in the Air]]'' and ''[[PS547|The Final Battle]]''.
+
+===Pokémon RéBURST===
+[[Fraud]] has a Zebstrika, which he can use as a [[Burst]] form.
+
+==In the TCG==
+{{main|Zebstrika (TCG)}}
+
+==Trivia==
+* Zebstrika shares its {{pkmn|category}} with {{p|Electivire}}. They are both known as the Thunderbolt Pokémon.
+* Zebstrika is the only Pokémon with a base stat total of 497.
+* All of Zebstrika's Abilities make it immune to a specific type. Excluding Pokémon with only one possible Ability, it shares this distinction with its pre-evolved form, Blitzle.
+
+===Origin===
+Zebstrika appears to be based on a {{wp|zebra}}. It may also be based on two of {{wp|Helios}}'s {{wp|Helios#Horses of Helios|steeds that pulled his chariot}}—Bronte and Sterope—which are Greek for thunder and lightning, respectively, as Zebstrika's species in Japanese can be translated as the "Thunder and Lightning Pokémon".
+
+====Name origin====
+Zebstrika may be a combination of ''{{wp|zebra}}'' and ''lightning strike''.
+
+Zebraika may be a combination of ''zebra'' and 雷火 ''raika'' (flash of lightning).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=ゼブライカ ''Zebraika''|jameaning=From ''zebra'' and {{tt|雷火 ''raika''|flash of lightning}}
+|fr=Zéblitz|frmeaning=From ''{{tt|zèbre|zebra}}'' and ''{{tt|Blitz|German for lightning}}''
+|es=Zebstrika|esmeaning=Same as English name
+|de=Zebritz|demeaning=From ''Zebra'' and ''{{tt|Blitz|lightning}}'' or {{tt|''britzel''|onomatopoeia for crackling lightning}}
+|it=Zebstrika|itmeaning=Same as English name
+|ko=제브라이카 ''Zebraika''|komeaning=Transcription of Japanese name
+|zh_cmn=雷電斑馬 / 雷电斑马 ''Léidiànbānmǎ''|zh_cmnmeaning=From {{tt|雷電 / 雷电 ''léidiàn''|thunder and lightning}} and {{tt|斑馬 / 斑马 ''bānmǎ''|zebra}}
+|zh_yue=雷電斑馬 ''Lèuihdihnbāanmáh''|zh_yuemeaning=From {{tt|雷電 ''lèuihdihn''|thunder and lightning}} and {{tt|斑馬 ''bāanmáh''|zebra}}
+|hi=ज़ेबस्ट्राइका ''Zebstrika''|himeaning= Transcription of its English name
+|ru=Зебстрика ''Zebstrika''|rumeaning=Transcription of English name
+|th=ซีบรายกา ''Sibraika''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0522|prev=Blitzle|nextnum=0524|next=Roggenrola}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Zebritz]]
+[[es:Zebstrika]]
+[[fr:Zéblitz]]
+[[it:Zebstrika]]
+[[ja:ゼブライカ]]
+[[zh:雷电斑马]]

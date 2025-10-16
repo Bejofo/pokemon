@@ -1,0 +1,284 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Ground}}
+{{PokémonPrevNext/GO|species=Ting-Lu}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=1002|prev=Chien-Pao|nextnum=1004|next=Chi-Yu|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Ting-Lu
+|jname=ディンルー
+|jtranslit=Dinrū
+|tmname=Dinlu
+|ndex=1003
+|type1=Dark
+|type2=Ground
+|category=Ruinous
+|height-ftin=8'10"
+|height-m=2.7
+|weight-lbs=1542.6
+|weight-kg=699.7
+|abilitylayout=1
+|ability1=Vessel of Ruin
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|egggroup2=
+|eggcycles=50
+|evtotal=3
+|evhp=0
+|evat=0
+|evde=3
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=285
+|lv100exp=1250000
+|gendercode=255
+|color=Brown
+|catchrate=6
+|body=08
+|pokefordex=ting-lu
+|generation=9
+|friendship=0
+}}
+'''Ting-Lu''' ([[List of Japanese Pokémon names|Japanese]]: '''ディンルー''' ''Dinlu'') is a dual-type {{2t|Dark|Ground}} [[Legendary Pokémon]] introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+Along with {{p|Wo-Chien}}, {{p|Chien-Pao}}, and {{p|Chi-Yu}}, Ting-Lu is a member of the [[treasures of ruin]].
+
+==Biology==
+Ting-Lu is a large Pokémon resembling a cloven-hoofed mammal such as a deer or a moose. Its body is composed of layered rock, ranging in color from dark brown to a light tan. Its shoulders are humped. Its head has several red markings, as well as small red eyes and what appears to be a {{wp|dewlap}} on its chin. Upon its head is a large ritual vessel cracked down the middle, with an ornate rectangular pattern resembling eyes at the front, and several antler-like spikes jutting out from the rim.
+
+Like the other treasures of ruin, Ting-Lu's true form is that of the ritual vessel on its head, having been given life by the fear of humans from ancient times — while its body is a form it has constructed using its control over the earth. Ting-Lu is described as being able to create fissures over 160 feet (50 meters) deep just by slowly putting down its head on the ground. It is known as the Vessel of Ruin.
+
+Ting-Lu and the other treasures of ruin are the [[signature move|only known Pokémon]] capable of learning the move {{m|Ruination}}. Ting-Lu is also the [[Signature Ability|only known Pokémon]] that can have {{a|Vessel of Ruin}} as an [[Ability]].
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark|type2=Ground}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=395|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over {{tt|160 feet|50 m}} deep.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{dark color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{dark color light}}; background:#{{dark color light}} | [[File:Pokédex Image Ting-Lu SV.png|x200px]]
+|-
+| Ting-Lu in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Dark|type2=Ground}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=North Province: [[Groundblight Shrine]] ([[List of in-game event Pokémon in Pokémon Scarlet and Violet#Ting-Lu|Only one]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+====In events====
+{{eventAvail/h|Language/Region|type=Dark|type2=Ground}}
+{{eventAvail|{{gameabbrev9|SV}}|Shiny Ting-Lu|All|Online|75{{shinystar|HOME}}|September 5 to 30, 2025|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Shiny Ting-Lu}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+=====Version 1.0.0=====
+{{Stats|type=Dark|type2=Ground|HP=165|Attack=110|Defense=130|SpAtk=50|SpDef=80|Speed=45|nocat=yes}}
+
+=====Version 1.0.1+=====
+{{Stats|type=Dark|type2=Ground|HP=155|Attack=110|Defense=125|SpAtk=55|SpDef=80|Speed=45}}
+
+===Type effectiveness===
+{{TypeEffectiveness|type1=Dark|type2=Ground
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=50
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=0
+|Ice=200
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Ting-Lu|Dark|Ground|9}}
+{{learnlist/level9|1|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level9|1|Spite|Ghost|Status|—|100|10||}}
+{{learnlist/level9|1|Mean Look|Normal|Status|—|—|5||}}
+{{learnlist/level9|5|Spikes|Ground|Status|—|—|20||}}
+{{learnlist/level9|10|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/level9|15|Stomp|Normal|Physical|65|100|20||}}
+{{learnlist/level9|20|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|25|Whirlwind|Normal|Status|—|—|20||}}
+{{learnlist/level9|30|Taunt|Dark|Status|—|100|20||}}
+{{learnlist/level9|35|Thrash|Normal|Physical|120|100|10||}}
+{{learnlist/level9|40|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/level9|45|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/level9|50|Ruination|Dark|Special|—|90|10||}}
+{{learnlist/level9|55|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/level9|60|Rock Slide|Rock|Physical|75|90|10||}}
+{{learnlist/level9|65|Memento|Dark|Status|—|100|10||}}
+{{learnlist/level9|70|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level9|75|Fissure|Ground|Physical|—|30|5||}}
+{{learnlist/levelf/9|Ting-Lu|Dark|Ground|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Ting-Lu|Dark|Ground|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10||}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20||}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10||}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20||}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20||}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/tmf/9|Ting-Lu|Dark|Ground|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Ting-Lu|Dark|Ground|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Ting-Lu|Dark|Ground|9}}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Ground}}
+{{Spindata/GO|col=6|type=Dark|ndex=1003
+|hatch=N/A
+|buddy=20
+|evolution=N/A
+|stamina=321
+|attack=194
+|defense=203
+|fast={{m|Snarl}}, {{m|Mud Shot}}
+|special={{m|Dark Pulse}}, {{m|Bulldoze}}, {{m|Earthquake}}
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Dark
+|type2=Ground
+|pictype=art
+|no1=1003
+|name1=Ting-Lu
+|type1-1=Dark
+|type2-1=Ground}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=dark|type2=ground}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=1003}}-->
+{{Spritebox/HOME|ndex=1003}}
+{{Spritebox/Footer|1003|Ting-Lu}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+===Pokémon Adventures===
+Ting-Lu, along with the other [[treasures of ruin]], appeared in a fantasy in [[PASV13]].
+
+==In the TCG==
+{{main|Ting-Lu (TCG)}}
+
+==Trivia==
+* Ting-Lu and the other [[treasures of ruin]] are the first Pokémon whose [[base stats]] were adjusted via a {{DL|Pokémon Scarlet and Violet|Version history|patch}} to the game.
+** Furthermore, Ting-Lu was the only one to have a base stat increased during the {{g|Scarlet and Violet}} Version 1.0.1 patch. However, Ting-Lu still suffered an overall base stat decrease by 10 points like the rest of them.
+
+===Origin===
+Ting-Lu seems to be based on various species of the deer family, such as the {{wp|moose}}, the {{wp|elk}}, and the {{wp|Père David's deer}}, the latter of which is native to China. In particular, the cracked vessel on its head appears to be based on the broad, palmate antler of the Eurasian elk. Given the Pokédex's reference to its remarkably heavy head, it may also be based on the {{wp|Irish elk}}, an extinct {{wp|cervid}} known to have carried the largest {{wp|antler}}s of any known deer. The overall design of Ting-Lu may also refer to Chinese stone sculptures along {{wp|sacred way}}s to tombs and mausolea, as well as {{wp|deer stone}}s in the {{wp|Eurasian Steppe}}. The horizontal stripes along its body resembles the {{wp|Stratum|layering of sediments in rock formations}}.
+
+The vessel on Ting-Lu's head is based on a 鼎 ''{{wp|Ding (vessel)|dǐng}}'', an ancient Chinese cauldron that served as a symbol of imperial authority. The deer and ''dǐng'' elements together may be chosen in reference to the pair of phrases: 問鼎 / 问鼎 ''wèndǐng'' (lit. "to inquire about the cauldron") and 逐鹿 ''zhúlù'' (lit. "to hunt for deer"), both of which connotes the vying for supremacy and aspirations for the throne.
+
+Ting-Lu and the other treasures of ruin may be based on the {{wp|Four Perils}} of Chinese mythology. Specifically, Ting-Lu may be based on 饕餮 ''{{wp|Taotie|Tāotiè}}'', a gluttonous beast that is conventionally used by 11th century Chinese antiquarians to name the common beast face motif in ancient bronze vessels; as well as 窮奇 / 穷奇 ''Qióngqí'', which is sometimes depicted as a man-eating deer or bovine. Given that [[Paldea]], the region where it became a Ruinous Pokémon, is based on the {{wp|Iberian peninsula}}, the body shape of Ting-Lu may also take inspiration from zoomorphic {{wp|Iberian sculpture}}s. Specifically, {{wp|verraco}} sculptures are commonly found in Northwestern Iberia, which corresponds to the in-game location of Ting-Lu and the [[Groundblight Shrine]].
+
+====Name origin====
+Ting-Lu and Dinlu may be a combination of 鼎 ''dǐng'' (ancient Chinese cauldron) and 鹿 ''lù'' (Chinese for deer). The English name is formatted in {{wp|Wade–Giles}}, a romanization system used in the Anglosphere for most of the 20th century.
+
+==In other languages==
+{{Other languages|type=Dark|type2=Ground
+|ja=ディンルー ''Dinlu''|jameaning=From 鼎 ''{{wp|Ding (vessel)|dǐng}}'' and {{tt|鹿 ''lù''|Chinese for deer}}
+|fr=Dinglu|frmeaning=Transcription of Japanese name
+|es=Ting-Lu|esmeaning=Same as English name
+|de=Dinglu|demeaning=Transcription of Japanese name
+|it=Ting-Lu|itmeaning=Same as English name
+|ko=딩루 ''Dinglu''|komeaning=Transcription of Japanese name
+|zh_cmn=古鼎鹿 ''Gǔdǐnglù''|zh_cmnmeaning=From {{tt|古 ''gǔ''|ancient}}, 鼎 ''{{wp|Ding (vessel)|dǐng}}'', and {{tt|鹿 ''lù''|deer}}
+|zh_yue=古鼎鹿 ''Gúdínglúk''|zh_yuemeaning=From {{tt|古 ''gú''|ancient}}, 鼎 ''{{wp|Ding (vessel)|díng}}'', and {{tt|鹿 ''lúk''|deer}}
+|hi=डिंगलू ''Dinglu''|himeaning=Similar to English and Japanese names
+|th=ติ่งลู่ ''Tinglu''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Myths and legends involving Legendary and Mythical Pokémon]]
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{Legendary Pokémon}}<br>{{PokémonPrevNext/Head|type=Dark|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=1002|prev=Chien-Pao|nextnum=1004|next=Chi-Yu}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Legendary Pokémon]]
+
+[[de:Dinglu]]
+[[es:Ting-Lu]]
+[[fr:Dinglu]]
+[[it:Ting-Lu]]
+[[ja:ディンルー]]
+[[zh:古鼎鹿]]

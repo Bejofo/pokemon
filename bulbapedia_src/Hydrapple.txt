@@ -1,0 +1,365 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Dragon}}
+{{PokémonPrevNext/GO|species=Hydrapple}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=1018|prev=Archaludon|nextnum=1020|next=Gouging Fire|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Hydrapple
+|jname=カミツオロチ
+|tmname=Kamitsuorochi
+|ndex=1019
+|type1=Grass
+|type2=Dragon
+|category=Apple Hydra
+|height-ftin=5'11"
+|height-m=1.8
+|weight-lbs=205.0
+|weight-kg=93.0
+|abilityn=1
+|ability1=Supersweet Syrup
+|ability2=Regenerator
+|abilityd=Sticky Hold
+|egggroupn=2
+|egggroup1=Grass
+|egggroup2=Dragon
+|eggcycles=20
+|evtotal=3
+|evhp=0
+|evat=0
+|evde=0
+|evsa=3
+|evsd=0
+|evsp=0
+|expyield=270
+|lv100exp=600,000
+|gendercode=127
+|color=Green
+|catchrate=10
+|body=11
+|pokefordex=hydrapple
+|generation=9
+|friendship=50
+}}
+'''Hydrapple''' ([[List of Japanese Pokémon names|Japanese]]: '''カミツオロチ''' ''Kamitsuorochi'') is a dual-type {{2t|Grass|Dragon}} {{OBP|Pokémon|species}} introduced during [[Generation IX]], in [[The Indigo Disk]].
+
+It [[Evolution|evolves]] from {{p|Dipplin}} when [[level]]ed up while knowing {{m|Dragon Cheer}}. It is one of {{p|Applin}}'s final forms, the others being {{p|Flapple}} and {{p|Appletun}}.
+
+==Biology==
+[[File:1019 Hydrapple Dream.png|thumb|200px|left|Five of Hydrapple's syrpents emerge as heads, while the remaining two as tails]]
+Hydrapple is a Pokémon composed of seven symbiotic creatures known as "syrpents" living within an apple-shaped structure completely made of red syrup.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/hydrapple/ Pokémon Scarlet and Pokémon Violet | Hydrapple]</ref> Each syrpent has green, leaf-shaped eyestalks with yellow eyes; a long green body with a pale yellow underbelly; and a tail tipped with leafy green ornaments.
+
+Three of the seven syrpents are always visible outside of the syrup apple: the central syrpent, which is the dominant entity in the system, rises from the center of the apple;<ref name=SVsite/> and two of the syrpents' tails emerge from its rear. The central syrpent has the longest body and is further distinguished by its two horns. The left horn has an apple impaled on it, which appears to be the same apple that the Pokémon inhabited when it was an {{p|Applin}}. The four other syrpents composing Hydrapple are usually hidden within the syrup, with only the tops of their closed eyestalks visible from without. Sometimes, the four hidden syrpents emerge from the syrup so that five of Hydrapple's heads are visible. To move, Hydrapple's two tail syrpents work together to push its entire body across the ground.
+
+The seven syrpents that form Hydrapple have inconstant and fickle temperaments, and rarely work together as a team. On the rare occasion that the syrpents' moods align, Hydrapple unleashes its full power.<ref name=SVsite/>
+
+Hydrapple and its pre-Evolution {{p|Dipplin}} are the [[Signature move|only known Pokémon]] capable of learning the move {{m|Syrup Bomb}} and the [[Signature Ability|only known Pokémon]] that can have {{a|Supersweet Syrup}} as an [[Ability]]. Hydrapple is also the only known Pokémon capable of learning the move {{m|Fickle Beam}}.
+
+===Evolution===
+Hydrapple evolves from {{p|Dipplin}} and is one of the final forms of {{p|Applin}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Grass
+|type2=Dragon
+|pictype=art
+|no1=0840
+|name1=Applin
+|type1-1=Grass
+|type2-1=Dragon
+|evo1=
+|no2=1011
+|name2=Dipplin
+|type1-2=Grass
+|type2-2=Dragon
+|evo2=
+|no3=1019
+|name3=Hydrapple
+|type1-3=Grass
+|type2-3=Dragon}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Dragon}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=163}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{dragon color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Hydrapple SV Blueberry.png|x200px]]
+|-
+| Hydrapple in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Dragon}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Dipplin}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Dragon}}
+{{Availability/NA|gen=IX}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Master Fair [[sync pair scout]]: {{sync|Kieran|Hydrapple}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Dragon
+|HP=106
+|Attack=80
+|Defense=110
+|SpAtk=120
+|SpDef=80
+|Speed=44
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Dragon
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=25
+|Grass=25
+|Electric=25
+|Psychic=100
+|Ice=400
+|Dragon=200
+|Dark=100
+|Fairy=200
+}}
+
+===Learnset===
+Hydrapple is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Hydrapple|Grass|Dragon|9}}
+{{learnlist/level9|1|Withdraw|Water|Status|—|—|40}}
+{{learnlist/level9|1|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|1|Recycle|Normal|Status|—|—|10}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Yawn|Normal|Status|—|—|10}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Double Hit|Normal|Physical|35|90|10}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Infestation|Bug|Special|20|100|20}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Fickle Beam|Dragon|Special|80|100|5||'''}}
+{{learnlist/level9|4|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/level9|8|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|12|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level9|16|Protect|Normal|Status|—|—|10}}
+{{learnlist/level9|20|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|28|Syrup Bomb|Grass|Special|60|85|10||'''}}
+{{learnlist/level9|32|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level9|36|Recover|Normal|Status|—|—|5}}
+{{learnlist/level9|40|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|44|Substitute|Normal|Status|—|—|10}}
+{{learnlist/level9|54|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/levelf/9|Hydrapple|Grass|Dragon|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Hydrapple|Grass|Dragon|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM044|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10||}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15||}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10||}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20||}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10||}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||}}
+{{learnlist/tm9|TM222|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10||}}
+{{learnlist/tm9|TM226|Dragon Cheer|Dragon|Status|—|—|15||}}
+{{learnlist/tmf/9|Hydrapple|Grass|Dragon|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Hydrapple|Grass|Dragon|9}}
+{{learnlist/breed9|{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Defense Curl|Normal|Status|—|—|40|grid=5}}
+{{learnlist/breed9|{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|1011|Dipplin}}{{MSP/H|1019|Hydrapple}}|Recycle|Normal|Status|—|—|10|grid=5}}
+{{learnlist/breed9|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Rollout|Rock|Physical|30|90|20|grid=5}}
+{{learnlist/breed9|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}|Sucker Punch|Dark|Physical|70|100|5|grid=5}}
+{{learnlist/breedf/9|Hydrapple|Grass|Dragon|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Hydrapple|Grass|Dragon|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Hydrapple|Grass|Dragon|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Dragon}}
+{{Spindata/GO|col=6|type=Grass|ndex=1019
+|egg=N/A
+|buddy=5
+|evolution=N/A
+|stamina=235
+|attack=216
+|defense=186
+|fast={{m|Bullet Seed}}, {{m|Dragon Tail}}, {{m|Rollout}}
+|special={{m|Dragon Pulse}}, {{m|Outrage}}, {{m|Seed Bomb}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Grass
+|type2=Dragon
+|pictype=art
+|no1=0840
+|name1=Applin
+|type1-1=Grass
+|type2-1=Dragon
+|evo1={{Bag/s|Syrupy Apple|SV}}<br>{{color2|000|Syrupy Apple}}
+|no2=1011
+|name2=Dipplin
+|type1-2=Grass
+|type2-2=Dragon
+|evo2={{bag/s|Rare Candy|SV}} + [[File:Bag TM Dragon SV Sprite.png|40px|link=Dragon Cheer (move)]]<br>{{color2|000|Level|Level up}}<br>knowing {{mcolor|Dragon Cheer}}
+|no3=1019
+|name3=Hydrapple
+|type1-3=Grass
+|type2-3=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=dragon}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=1019}}-->
+{{Spritebox/HOME|ndex=1019}}
+{{Spritebox/Footer|1019|Hydrapple}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+==In the TCG==
+{{main|Hydrapple (TCG)}}
+
+==Trivia==
+* Hydrapple is the only one of {{p|Applin}}'s evolutionary relatives to be a third-stage [[Evolution]].
+** Hydrapple appears in the [[List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex]], despite none of its evolutionary relatives appearing in it, which also makes it the only member of Applin's evolutionary relatives with this distinction.
+* Dipplin and Hydrapple are the only:
+** Evolutionary relatives introduced within a single [[generation]] that are not next to each other in [[List of Pokémon by National Pokédex number|National Pokédex]] order, with Dipplin being number 1011 and Hydrapple being number 1019.
+** {{type|Dragon}} {{DL|List of Pokémon by shape|Pokémon consisting of multiple bodies}}.
+* Hydrapple and its evolutionary line:
+** are the only Pokémon that are in both the {{egg|Grass}} and {{egg|Dragon}} [[Egg Group]]s.
+** require only 600,000 experience points to reach level 100, the lowest among Generation VIII Pokémon, and the lowest among {{type|Dragon}} Pokémon along with {{p|Altaria}}.
+* Hydrapple's existence was indicated before the release of [[The Indigo Disk]] by the fact that Dipplin could use the [[Eviolite]].
+* Hydrapple is the only Pokémon that requires a [[TM]] to obtain, as Dipplin cannot learn {{m|Dragon Cheer}} without it.
+* Hydrapple is the only one of Applin's evolutionary relatives not to evolve with an Apple item.
+* As [[Dynamax]] and [[Gigantamax]] are exclusive to {{g|Sword and Shield}}, Hydrapple is the only one of Applin's final forms to not have a Gigantamax form.
+* In {{g|GO}}, evolving Hydrapple from Applin and Dipplin uses the most {{GO|Candy}} for evolution, with Applin requiring {{candy|Applin}}200 to evolve into Dipplin, and Dipplin requiring {{candy|Applin}}400 to evolve into Hydrapple, resulting in {{candy|Applin}}600 in total.
+
+===Origin===
+Hydrapple seems to be inspired by multiheaded serpent-like monsters from various myths, such as the {{wp|Yamata no Orochi}}, an eight-headed dragon or serpent from {{wp|Japanese mythology}}; {{wp|Hachirōgata|Hachirō-Tarō}} or {{jwp|八の太郎大蛇伝説|Hachi no Tarō no Daija}} (where ''daija'' is an alternative reading of ''orochi''), a similar creature in the local myths of Northern {{wp|Tōhoku region|Tōhoku}}, which [[Kitakami]] is based on; the {{wp|Lernaean Hydra}}, a many-headed serpentine monster from {{wp|Greek mythology}}; and {{wp|Ladon (mythology)|Ladon}}, the multi-headed dragon from {{wp|Greek mythology}} that guarded the {{wp|golden apple}}s in the {{wp|Hesperides|Garden of the Hesperides}}, historically said to be located in the {{wp|Iberian Peninsula}} or the {{wp|Canary Islands}}. The fact that the syrpents' moods rarely align may be a reference to the golden {{wp|Apple of Discord}}. Like its evolutionary relatives, Hydrapple also appears to be based on the popular image of a worm burrowing into an apple, as well as a pun on the {{wp|wyrm}}, a type of dragon — hence its {{t|Dragon}} typing. It also has visual similarities with {{wp|candy apple}}s and the [[Gigantamax]] forms of {{p|Flapple}} and {{p|Appletun}}, while its {{Shiny}} coloration may be inspired by {{wp|caramel apple}}s or a {{wp|golden apple}}.
+
+The connection between the syrpents and the apple present in Hydrapple's design could draw inspiration from the {{wp|Christian mythology|Christian myth}} of the {{wp|original sin}}, in which a {{wp|Serpents in the Bible|serpent}} tempts Eve into eating the {{wp|forbidden fruit}}, commonly represented as an {{wp|Apple (symbolism)|apple}} in {{wp|Western Christianity}} from a Latin-based pun on ''mālum'' (apple) and ''malum'' (evil). Along these lines, Hydrapple's seven syrpents could reference the number of {{wp|Seven deadly sins|cardinal sins}} or the {{wp|The Beast (Revelation)|seven-headed beast}} from the {{wp|Book of Revelation}}. Alternatively, these may reference the number of {{wp|Archon (Gnosticism)|archon}}s (including the {{wp|Demiurge|creator god}}) in {{wp|Gnosticism}}, commonly associated with the {{wp|Classical planet|seven luminaries}}, as well as the Gnostic depiction of {{wp|Leviathan}} as the world serpent. The physical world is considered intrinsically flawed and chaotic in Gnosticism. This may explain Hydrapple's signature move {{m|Fickle Beam}}, which is doubled in power when the seven syrpents are aligned at random.
+
+Since Hydrapple was introduced in [[The Indigo Disk]], it may also be a visual pun on the {{wp|Big Apple}}, a nickname for {{wp|New York City}} (the location [[Unova]], where [[Blueberry Academy]] is located, is [[Pokémon world in relation to the real world|based on]]).
+
+====Name origin====
+Hydrapple may be a combination of ''{{wp|Lernaean Hydra|Hydra}}'', ''dragon'', and ''apple''. The term "syrpent" may be a combination of ''syrup'' or ''wyrm'' and ''serpent''.
+
+Kamitsuorochi may be a combination of 果 ''ka'' (fruit), 花蜜 ''kamitsu'' (nectar), and 八岐大蛇 ''{{wp|Yamata no Orochi}}''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Dragon
+|ja=カミツオロチ ''Kamitsuorochi''|jameaning=From {{tt|果 ''ka''|fruit}}, {{tt|花蜜 ''kamitsu''|nectar}}, and {{tt|大蛇 ''orochi''|large snake}}
+|fr=Pomdorochi|frmeaning=From ''{{p|Dipplin|Pomdramour}}'', ''{{wp|Golden apple|{{tt|pomme d'or|golden apple}}}}'', and {{tt|大蛇 ''orochi''|large snake}}
+|es=Hydrapple|esmeaning=Same as English name
+|de=Hydrapfel|demeaning=From ''Hydra'' and ''{{tt|Apfel|apple}}''
+|it=Hydrapple|itmeaning=Same as English name
+|ko=과미드라 ''Gwamideura''|komeaning=From {{tt|과 (果) ''gwa''|fruit}} or {{tt|사과 (沙果) ''sagwa''|apple}}, {{tt|화밀 (花蜜) ''hwamil''|nectar}}, and ''Hydra''
+|zh_cmn=蜜集大蛇 ''Mìjídàshé''|zh_cmnmeaning=From {{tt|蜜 ''mì''|honey; sweet}}, {{tt|密集 ''mìjí ''|concentrated; crowded together}}, and {{tt|大蛇 ''dàshé''|large snake}}
+|zh_yue=蜜集大蛇 ''Mahtjaahpdaaihsèh''|zh_yuemeaning=From {{tt|蜜 ''maht''|honey; sweet}}, {{tt|密集 ''mahtjaahp''|concentrated; crowded together}}, and {{tt|大蛇 ''daaihsèh''|large snake}}
+|hi=शीरास्नेक्स ''Sheerasnakes''|himeaning=From {{tt|शीरी ''śīrī''|(poetic) sweet}} and ''snakes''
+|th=คามิสึโอโรจิ ''Khamisue-orochi''|thmeaning=Transcription of Japanese name}}
+{{-}}
+''Syrpent''
+{{Other languages|type=Grass|type2=Dragon
+|ja=オロチュ ''Orochu''|jameaning=From {{tt|大蛇 ''orochi''|large snake}} and {{tt|虫 ''chū''|bug; worm}}
+|fr=Verochi|frmeaning=From ''{{tt|ver|worm}}'' and {{tt|大蛇 ''orochi''|large snake}}
+|es=Viborappli|esmeaning=From ''{{tt|víbora|viper}}'' and ''{{p|Applin}}''
+|de=Schlangel|demeaning=From ''{{tt|Schlange|snake}}'', ''{{tt|Apfel|apple}}'', and the diminutive suffix ''-el''
+|id=Boah|idmeaning=From ''{{wp|Boidae|boa}}'' and ''{{tt|buah|fruit}}''
+|it=Appliserpe|itmeaning=From ''Applin'' and ''{{tt|serpe|snake}}''
+|ko=미드라 ''Mideura''|komeaning=From a clipping of {{tt|과미드라 ''Gwamideura''|Hydrapple}}
+|zh_yue=蛇蟲蟲 ''Sèhchùhngchùhng''|zh_cmnmeaning=From {{tt|蛇 ''shé''|snake}} and {{tt|蟲 / 虫 ''chóng''|bug}}
+|zh_cmn=蛇蟲蟲 / 蛇虫虫 ''Shéchóngchóng''|zh_yuemeaning=From {{tt|蛇 ''sèh''|snake}} and {{tt|蟲 ''chùhng''|bug}}
+}}
+
+==Related articles==
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=1018|prev=Archaludon|nextnum=1020|next=Gouging Fire}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon introduced in The Indigo Disk]]
+
+[[de:Hydrapfel]]
+[[es:Hydrapple]]
+[[fr:Pomdorochi]]
+[[it:Hydrapple]]
+[[ja:カミツオロチ]]
+[[zh:蜜集大蛇]]
+[[Category:Pokémon with cross-generational Evolutions]]

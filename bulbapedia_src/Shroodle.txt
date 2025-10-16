@@ -1,0 +1,330 @@
+{{PokémonPrevNext/Head|type=Poison|type2=Normal}}
+{{PokémonPrevNext/GO|species=Shroodle}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=0943|prev=Mabosstiff|nextnum=0945|next=Grafaiai|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Shroodle
+|jname=シルシュルー
+|jtranslit=Shirushurū
+|tmname=Shirushrew
+|ndex=0944
+|type1=Poison
+|type2=Normal
+|category=Toxic Mouse
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=1.5
+|weight-kg=0.7
+|abilityn=2
+|ability1=Unburden
+|ability2=Pickpocket
+|abilityd=Prankster
+|egggroupn=1
+|egggroup1=Field
+|egggroup2=
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=1
+|expyield=58
+|lv100exp=1059860
+|gendercode=127
+|color=Gray
+|catchrate=190
+|body=08
+|pokefordex=shroodle
+|generation=9
+|friendship=50
+}}
+'''Shroodle''' ([[List of Japanese Pokémon names|Japanese]]: '''シルシュルー''' ''Shirushrew'') is a dual-type {{2t|Poison|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Grafaiai}} starting at [[level]] 28.
+
+==Biology==
+[[File:ShroodleMegaEvolution149.jpg|thumb|200px|left|Shroodle marking its territory]]
+Shroodle is a tiny shrew-like Pokémon with an almost hemispherical body, having a stubby tail and four small white feet with gray paw pads. Its fur is gray on top and white on the underside, except for its black head, which takes up about half of its body. Shroodle's head contains large, yellow-green eyes with tiny black pupils; small semicircular ears on the sides; a single tuft of blonde hair on top; and a long, bulbous snout at the front. The snout contains a pair of sharp upper incisors, coated in a purple poison that can cause paralysis.
+
+Shroodle has a mellow personality, but if angered, it will bite into the offender, inflicting them with its venom. It paints markings around its territory using a poisonous liquid with a strong, unpleasant smell, in order to ward off intruders.
+
+===Evolution===
+Shroodle evolves into {{p|Grafaiai}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Poison
+|type2=Normal
+|pictype=art
+|no1=0944
+|name1=Shroodle
+|type1-1=Poison
+|type2-1=Normal
+|evo1=
+|no2=0945
+|name2=Grafaiai
+|type1-2=Poison
+|type2-2=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Poison|type2=Normal}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=202|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{poison color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{poison color light}}; background:#{{poison color light}} | [[File:Pokédex Image Shroodle SV.png|x200px]]
+|-
+| Shroodle in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Poison|type2=Normal}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Two)|Area Two]]<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[Tagtree Thicket]]<br>West Province: [[West Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Shroodle|1★}})}}
+|}
+|}
+|}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Poison
+|type2=Normal
+|HP=40
+|Attack=65
+|Defense=35
+|SpAtk=40
+|SpDef=35
+|Speed=75
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison
+|type2=Normal
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|normal=yes
+|newghost=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Shroodle|Poison|Normal|9}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|5|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/level9|8|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|8|Fury Swipes|Normal|Physical|18|80|15||'''}}
+{{learnlist/level9|11|Switcheroo|Dark|Status|—|100|10}}
+{{learnlist/level9|14|Poison Fang|Poison|Physical|50|100|15||'''}}
+{{learnlist/level9|18|Flatter|Dark|Status|—|100|15}}
+{{learnlist/level9|21|Slash|Normal|Physical|70|100|20||'''}}
+{{learnlist/level9|25|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/level9|29|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/level9|33|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level9|36|Substitute|Normal|Status|—|—|10}}
+{{learnlist/level9|40|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/level9|45|Gunk Shot|Poison|Physical|120|80|5||'''}}
+{{learnlist/levelf/9|Shroodle|Poison|Normal|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Shroodle|Poison|Normal|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tmf/9|Shroodle|Poison|Normal|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Shroodle|Poison|Normal|9}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0448|Lucario}}|Copycat|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0945|Grafaiai}}{{tt|*|A wild Terastallized Grafaiai in Tagtree Thicket knows this move.}}|Cross Poison|Poison|Physical|70|100|20||'''|grid=8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Parting Shot|Dark|Status|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0417|Pachirisu}}{{MSP/H|0702|Dedenne}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}|Super Fang|Normal|Physical|—|90|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0863|Perrserker}}{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0128|Tauros}}{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128|Tauros|form=-Paldea Aqua}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0289|Slaking}}{{MSP/H|0336|Seviper}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0403|Shinx}}{{MSP/H|0404|Luxio}}{{MSP/H|0405|Luxray}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0614|Beartic}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Swagger|Normal|Status|—|85|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194|Wooper|form=-Paldea}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}|Toxic|Poison|Status|—|90|10|grid=8}}
+{{learnlist/breedf/9|Shroodle|Poison|Normal|9}}
+
+===Side game data===
+{{Spindata/Head|type=Poison|type2=Normal}}
+{{Spindata/GO|col=6|type=Poison|ndex=0944
+|hatch=12 km
+|buddy=3
+|candy=Shroodle
+|evocandy=50
+|stamina=120
+|attack=124
+|defense=70
+|fast={{m|Poison Jab}}, {{m|Mud-Slap}}
+|special={{m|Acid Spray}}, {{m|Poison Fang}}, {{m|Sludge Bomb}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Poison
+|type2=Normal
+|pictype=art
+|no1=0944
+|name1=Shroodle
+|type1-1=Poison
+|type2-1=Normal
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 28}}
+|no2=0945
+|name2=Grafaiai
+|type1-2=Poison
+|type2-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=poison|type2=normal}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0944}}-->
+{{Spritebox/HOME|ndex=0944}}
+{{Spritebox/Footer|944|Shroodle}}
+
+==In animation==
+===Main series===
+[[File:Shroodle anime.png|thumb|250px|Shroodle in {{aniseries|HZ}}]]
+====Major appearances====
+====Minor appearances====
+Shroodle debuted in ''[[HZ013|An Unexpected Picnic!]]'', as a [[wild Pokémon]].
+
+Two wild Shroodle appeared in ''[[HZ046|Welcome to Naranja Academy!]]''.
+
+A Shroodle appeared in ''[[HZ052|Wattrel's High Wind Warning!]]''.
+
+A Shroodle appeared in ''[[HZ053|Hatenna and the Otherworldly]]''.
+{{-}}
+
+==In the manga==
+[[File:Shroodle Adventures.png|thumb|200px|Shroodle in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Shroodle debuted in ''[[PASV03|Battle! Team Star, the Delinquents!!]]'', under the ownership of a female {{tc|Team Star Grunt}}. It was used to battle {{adv|Violet}}'s {{p|Fuecoco}}.
+
+A Shroodle appeared in [[PASV18]] under the ownership of a {{tc|Team Star Grunt}}.
+{{-}}
+
+==In the TCG==
+{{main|Shroodle (TCG)}}
+
+==Trivia==
+* No other Pokémon have the same [[List of Pokémon with unique type combinations|type combination]] as Shroodle and {{p|Grafaiai|its Evolution}}.
+* Shroodle is the only Pokémon to have {{a|Pickpocket}} as a standard [[Ability]] instead of a [[Hidden Ability]].
+* Shroodle is the [[List of Pokémon by weight|lightest]] {{type|Normal}} Pokémon.
+* Shroodle is tied with {{p|Budew}} and {{p|Foongus}} for the [[List of Pokémon by height|shortest]] {{type|Poison}} Pokémon, and is tied with {{p|Azurill}} and Normal Form {{p|Terapagos}} for the shortest Normal-type Pokémon.
+
+===Origin===
+Shroodle may be based on the {{wp|Iberian shrew}} or the {{wp|Pyrenean desman}}, two species of shrew found in the {{wp|Iberian Peninsula}}. Its venomous bite may be inspired by the fact that certain shrew species are among the few {{wp|venomous mammal}}s, and have a venomous bite that is used to paralyze earthworms and other prey.
+
+The shape of Shroodle's snout, combined with the fact that it evolves into a Pokémon based on an {{wp|aye-aye}}, suggests that it also may be based on a {{wp|treeshrew}}, a small mammal from Southeast Asia that is believed to be the closest evolutionary relative to primates. Its large eyes and evolutionary line could be inspired by the {{wp|mouse lemur}}.
+
+Shroodle may also be based on any species of shrew tenrec in the genus ''{{wp|Microgale}}'', which are native to {{wp|Madagascar}} just like the aye-aye. {{wp|Tenrec}}s in general have the unique behavior of licking their paws and spreading their saliva around their territory as a method of scent marking.
+
+Shroodle's overall body shape and Grafaiai's graffiti theme may pay homage to "{{wp|Kilroy was here}}," a popular graffiti.
+
+====Name origin====
+Shroodle may be a combination of ''{{wp|shrew}}'' (insectivore mammal), ''shrewd'', and ''doodle''.
+
+Shirushrew may be a combination of 汁 ''shiru'' (juice), しるし ''shirushi'' (mark, sign), ''shrew'', and シュルシュル ''shurushuru'' (onomatopoeia for rustling or slithering).
+
+==In other languages==
+{{Other languages|type=Poison|type2=Normal
+|ja=シルシュルー ''Shirushrew''|jameaning=From {{tt|汁 ''shiru''|juice}}, {{tt|しるし ''shirushi''|mark, sign}}, ''shrew'', and {{tt|シュルシュル ''shurushuru''|onomatopoeia for rustling}}
+|fr=Gribouraigne|frmeaning=From ''{{tt|gribouiller|to scribble}}'' and ''{{tt|musaraigne|shrew}}''
+|es=Shroodle|esmeaning=Same as English name
+|de=Sproxi|demeaning=From ''{{tt|sprühen|to spray}}'' and ''Toxin''
+|it=Shroodle|itmeaning=Same as English name
+|ko=땃쭈르 ''Ttatjjureu''|komeaning=From {{tt|땃쥐 ''ttatjwi''|musk shrew}} and ''shrew''
+||zh_cmn=滋汁鼴 / 滋汁鼹 ''Zīzhīyǎn''|zh_cmnmeaning=From {{tt|滋 ''zī''|to squirt}}, {{tt|汁 ''zhī''|juice}}, and {{tt|鼴鼠 / 鼹鼠 ''yǎnshǔ''|talpid}}
+|zh_yue=滋汁鼴 ''Jījāpyín''|zh_yuemeaning=From {{tt|滋 ''jī''|to squirt}}, {{tt|汁 ''jāp''|juice}}, and {{tt|鼴鼠 ''yínsyú''|talpid}}
+|hi=छछूंड्रॉ ''Chhachhoondraw''|himeaning=From {{tt|छछूँदर ''chhachhū̃ṇdar''|shrew/mole/muskrat}} and ''draw''
+|th=ชิรุชูลู ''Chiruchulu''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Poison|type2=Normal}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=0943|prev=Mabosstiff|nextnum=0945|next=Grafaiai}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Sproxi]]
+[[es:Shroodle]]
+[[fr:Gribouraigne]]
+[[it:Shroodle]]
+[[ja:シルシュルー]]
+[[zh:滋汁鼹]]

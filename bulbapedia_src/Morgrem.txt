@@ -1,0 +1,351 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Fairy}}
+{{PokémonPrevNext/GO|species=Morgrem}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=0859|prev=Impidimp|nextnum=0861|next=Grimmsnarl|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Morgrem
+|jname=ギモー
+|jtranslit=Gimō
+|tmname=Gimoh
+|ndex=0860
+|type1=Dark
+|type2=Fairy
+|category=Devious
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=27.6
+|weight-kg=12.5
+|abilityn=d
+|ability1=Prankster
+|ability2=Frisk
+|abilityd=Pickpocket
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Human-Like
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=130
+|lv100exp=1,000,000
+|gendercode=0
+|color=Pink
+|catchrate=120
+|body=12
+|pokefordex=morgrem
+|generation=8
+|friendship=50
+}}
+'''Morgrem''' ([[List of Japanese Pokémon names|Japanese]]: '''ギモー''' ''Gimoh'') is a dual-type {{2t|Dark|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{p|Impidimp}} starting at [[level]] 32 and evolves into {{p|Grimmsnarl}} starting at level 42.
+
+==Biology==
+Morgrem is a somewhat humanoid {{OBP|Pokémon|species}}, with a magenta upper body and a light green lower body divided by a zig-zag line. It has long, lanky arms with hands that have three sharp fingers, and round feet that have three toes. Just like its pre-Evolution, Morgrem has prominently large ears and eyes, long white fangs, a purple tongue, and an upturned nose with a single nostril. However, Morgrem's pupils are red instead of black, and its nose is longer. Morgrem has long, black hair with a bang that covers its right eye; the end of the hair is shaped like a {{wp|Pole weapon|pole arm}}. 
+
+Morgrem lacks confidence in its physical strength, so it makes up for it with cunning and dirty tactics. It feigns surrender by going down on all fours to lure its opponents, before it stabs them with its hair. It tends to lure people into the woods where it lives. Like Impidimp, Morgrem feeds on negative emotions. Some people believe that Morgrem has the ability to make crops grow. Morgrem is very popular with people who have gloomy thoughts. Morgrem and its evolutionary relatives are male-only species.
+
+Morgrem and its evolved form, {{p|Grimmsnarl}}, are the [[signature move|only known Pokémon]] capable of learning the move {{m|False Surrender}}. In [[Generation IX]], {{m|Confide}} is also one of its signature moves.
+
+===Evolution===
+Morgrem evolves from {{p|Impidimp}} and evolves into {{p|Grimmsnarl}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|type1=Dark
+|type2=Fairy
+|no1=0859
+|name1=Impidimp
+|type1-1=Dark
+|type2-1=Fairy
+|evo1=
+|no2=0860
+|name2=Morgrem
+|type1-2=Dark
+|type2-2=Fairy
+|evo2=
+|no3=0861
+|name3=Grimmsnarl
+|type1-3=Dark
+|type2-3=Fairy}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark|type2=Fairy}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=239|reg2=Galar|label2=Crown Tundra|num2=038|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can {{m|False Surrender|stab them with its spear-like hair}}.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=286|reg2=Kitakami|num2=191|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Morgrem prefers dirty tactics, like ambushing, because it doesn’t have confidence in its brawn.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon absorbs negative emotions and turns them into energy. It's popular with people who tend to think gloomy thoughts.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fairy color dark}}; background:#{{dark color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{dark color light}}; background:#{{dark color light}} | [[File:Pokédex Image Morgrem SV.png|x200px]]
+|style="border:2px solid #{{dark color light}}; background:#{{dark color light}} | [[File:Pokédex Image Morgrem SV Kitakami.png|x200px]]
+|-
+| Morgrem in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Morgrem in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Dark|type2=Fairy}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Glimwood Tangle]]<br>[[Bridge Field/Dens|Bridge Field]], [[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Bed]], [[Snowslide Slope]], [[Giant's Foot]]<br>[[Frostpoint Field/Dens|Frostpoint Field]], [[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Giant's Foot/Dens|Giant's Foot]], [[Frigid Sea/Dens|Frigid Sea]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[Tagtree Thicket]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Morgrem|3★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Kitakami Wilds]], [[Timeless Woods]]}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Dark|type2=Fairy|lochide=yes}}
+{{eventAvail|{{gameabbrev8|Sw}}|Wild Area News|No|hide|40|February 7 to March 8, 2020|link=Wild Area News#February 7 to 16, 2020}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|40|October 1 to 31, 2020|link=Wild Area News#October 1 to 31, 2020}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Dark
+|type2=Fairy
+|HP=65
+|Attack=60
+|Defense=45
+|SpAtk=75
+|SpDef=55
+|Speed=70
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|type2=Fairy
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=50
+|Steel=200
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=0
+|Dark=25
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1
+|fairy=yes
+|newdragon=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Morgrem|Dark|Fairy|8}}
+{{learnlist/level9|1|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/level9|1|Confide|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Bite|Dark|Physical|60|100|25||'''}}
+{{learnlist/level9|1|Flatter|Dark|Status|—|100|15}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|False Surrender|Dark|Physical|80|—|10||'''}}
+{{learnlist/level9|12|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/level9|16|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/level9|20|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level9|24|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level9|28|Torment|Dark|Status|—|100|15}}
+{{learnlist/level9|35|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/level9|40|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level9|46|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/level9|52|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/levelf/9|Morgrem|Dark|Fairy|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Morgrem|Dark|Fairy|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM037|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM073|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/tm9|TM139|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM195|Burning Jealousy|Fire|Special|70|100|5}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/tmf/9|Morgrem|Dark|Fairy|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Morgrem|Dark|Fairy|8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Parting Shot|Dark|Status|—|100|20|grid=2}}
+{{learnlist/breedf/9|Morgrem|Dark|Fairy|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Morgrem|Dark|Fairy|8}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Morgrem|Dark|Fairy|8}}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Fairy}}
+{{Spindata/GO|col=6|type=Dark|ndex=0860
+|egg=N/A
+|buddy=5
+|candy=Impidimp
+|evocandy=100
+|stamina=163
+|attack=145
+|defense=102
+|fast={{m|Sucker Punch}}, {{m|Bite}}
+|special={{m|Play Rough}}, {{m|Foul Play}}, {{m|Dark Pulse}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Dark
+|type2=Fairy
+|no1=0859
+|name1=Impidimp
+|type1-1=Dark
+|type2-1=Fairy
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 32}}
+|no2=0860
+|name2=Morgrem
+|type1-2=Dark
+|type2-2=Fairy
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 42}}
+|no3=0861
+|name3=Grimmsnarl
+|type1-3=Dark
+|type2-3=Fairy}}
+
+===Sprites===
+{{Spritebox/Header|type=Dark|type2=Fairy}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=860}}
+<!--{{Spritebox/9|ndex=0860}}-->
+{{Spritebox/HOME|ndex=0860}}
+{{Spritebox/Footer|860|Morgrem}}
+
+==In animation==
+===Main series===
+[[File:Rocket Prize Master Morgrem.png|thumb|250px|Morgrem in {{aniseries|JN}}]]
+====Major appearances====
+Morgrem debuted in ''[[JN127|Just a Scone's Throw From Here!]]'', where [[James]] pulled {{DL|Rocket Prize Master|Morgrem|one}} out of the [[Rocket Prize Master]]. He was eventually defeated by {{TP|Goh|Inteleon}}.
+
+====Minor appearances====
+In ''[[HZ024|Reunion at the Ancient Castle!]]'', as [[Zirc]] and [[Onia]] were trying to find the whereabouts of the [[Rising Volt Tacklers]] outside the [[ancient castle]], a Morgrem pounced on Zirc before returning to the forest.
+{{-}}
+
+==In the manga==
+[[File:Marnie Morgrem Adventures.png|thumb|150px|Morgrem in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A Morgrem first appeared in ''[[PASS28|Splash!! The Return of the Two Pokémon]]'', under the ownership of [[Marnie]]. He later evolved into Grimmsnarl.
+{{-}}
+
+==In the TCG==
+{{main|Morgrem (TCG)}}
+
+==Trivia==
+* No Pokémon have the same [[List of Pokémon with unique type combinations|type combination]] as Morgrem and its evolutionary relatives.
+* Morgrem shares its {{pkmn|category}} with {{p|Purrloin}}. They are both known as the Devious Pokémon.
+* Morgrem, {{p|Hattrem}}, and their evolutionary lines can be considered counterparts.
+** Both are [[Generation VIII]] Pokémon evolving once at level 32, then at level 42.
+** Morgrem and its evolutionary relatives are male-only, while Hattrem and its evolutionary relatives are female-only.
+** Each Pokémon in each evolutionary line has the same base stat total, base experience yield and [[catch rate]] as their counterpart (e.g. Morgrem and Hattrem both have a base stat total of 370), except for Hatenna and Impidimp's [[catch rate]].
+** These two evolutionary lines are next to each other in the [[National Pokédex]], the [[List of Pokémon by Galar Pokédex number|Galar Pokédex]], the [[List of Pokémon by Crown Tundra Pokédex number|Crown Tundra Pokédex]] and the [[List of Pokémon by Paldea Pokédex number|Paldea Pokédex]].
+** Both evolutionary lines share similarities with mythical beings from European folklore and mythology: Morgrem's family shares traits with goblins, and Hattrem's family shares traits with witches.
+** Both final [[Evolution]]s are {{type|Fairy}} Pokémon based around long hair that have their {{stat|Speed}} drop upon Evolution.
+** Both final Evolutions are the signature Pokémon of a [[rival]] in Pokémon Sword and Shield who is a succeeding [[Gym Leader]] and [[Gigantamax]]es it ([[Marnie]]'s Grimmsnarl and [[Bede]]'s Hatterene).
+** Morgrem and Hattrem's names coincidentally both end in "-rem".
+* Morgrem and its evolutionary relatives are the only Pokémon that are in the {{egg|Fairy}} and {{egg|Human-Like}} [[Egg Group]]s.
+* Morgrem and its pre-evolved form, {{p|Impidimp}}, are the only {{DL|List of Pokémon by color|pink}} {{type|Dark}} Pokémon.
+
+===Origin===
+Morgrem seems to be based on a variety of mischievous, fairy-like creatures from European folklore, such as {{wp|imp}}s, {{wp|goblin}}s, and {{wp|gremlin}}s. It shares some notable similarities with the {{wp|redcap}}, a murderous goblin from English legend that carries a sickle or {{wp|polearm}}, which Morgrem's hair appears to be shaped after. 
+
+Morgrem may also reference some variants of {{wp|Clurichaun}}, a type of {{wp|Leprechaun}}. Notably, the Clurichaun of Monaghan, which wears red and green, and attacks by ducking and lunging to stab its enemies' eyes with its pointed hat, similarly to Morgrem's {{m|False Surrender|signature move}}.
+
+====Name origin====
+Morgrem may be a combination of ''morbid'' or ''morgue'' and ''gremlin''. It may also come from ''grem'', an old English and old German word for "to anger" or "to enrage". It may also reference {{wp|Morgan le Fay}}, an enchantress, sometimes described as a fairy, from {{wp|Matter of Britain|Arthurian}} legend.
+
+Gimoh may be a combination of 欺罔 ''gimō'' (deception), 毛 ''mō'' (hair, fur), and ''demon''.
+
+==In other languages==
+{{Other languages|type=Dark|type2=Fairy
+|ja=ギモー ''Gimoh''|jameaning=From {{tt|欺罔 ''gimō''|deception}}, {{tt|毛 ''mō''|hair, fur}}, and ''demon''
+|fr=Fourbelin|frmeaning=From ''{{tt|fourbe|tricky fellow}}'', ''{{tt|malin|shrewd}}'', and ''{{tt|gobelin|goblin}}'' or ''gremlin''
+|es=Morgrem|esmeaning=Same as English name
+|de=Pelzebub|demeaning=From ''{{tt|Pelz|fur}}'' and ''{{wp|Beelzebub}}''
+|it=Morgrem|itmeaning=Same as English name
+|ko=쏘겨모 ''Ssogyeomo''|komeaning=From {{tt|속여 ''sog-yeo''|deceive}} and {{tt|모 (毛) ''mo''|hair, fur}} or ''demon''
+|zh_cmn=詐唬魔 / 诈唬魔 ''Zhàhǔmó''|zh_cmnmeaning=From {{tt|詐唬 / 诈唬 ''zhàhǔ''|to bluff}} and {{tt|魔 ''mó''|demon}}
+|zh_yue=詐唬魔 ''Jafúmō''|zh_yuemeaning=From {{tt|詐唬 ''jafú''|to bluff}} and {{tt|魔 ''mō''|demon}}
+|hi=फ़ेराहेरी ''Feraheri''|himeaning=From a pun ({{Wp|spoonerism}}) of {{tt|हेरा-फेरी ''herā-pherī''|foul play/messing with; bungling}}; possibly also from "hairy", "fairy" and "feral"
+|th=กิโม ''Kimo''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Dark|type2=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=0859|prev=Impidimp|nextnum=0861|next=Grimmsnarl}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pelzebub]]
+[[es:Morgrem]]
+[[fr:Fourbelin]]
+[[it:Morgrem]]
+[[ja:ギモー]]
+[[zh:诈唬魔]]

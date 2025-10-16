@@ -1,0 +1,376 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Fighting}}
+{{PokémonPrevNext/GO|species=Pawmo}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0921|prev=Pawmi|nextnum=0923|next=Pawmot|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Pawmo
+|jname=パモット
+|jtranslit=Pamotto
+|tmname=Pamot
+|ndex=0922
+|type1=Electric
+|type2=Fighting
+|category=Mouse
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=14.3
+|weight-kg=6.5
+|abilityn=2
+|ability1=Volt Absorb
+|ability2=Natural Cure
+|abilityd=Iron Fist
+|egggroupn=1
+|egggroup1=Field
+|egggroup2=
+|eggcycles=15
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=2
+|expyield=123
+|lv100exp=1000000
+|gendercode=127
+|color=Yellow
+|catchrate=80
+|body=06
+|pokefordex=pawmo
+|generation=9
+|friendship=50
+}}
+'''Pawmo''' ([[List of Japanese Pokémon names|Japanese]]: '''パモット''' ''Pamot'') is a dual-type {{2t|Electric|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Pawmi}} starting at [[level]] 18, and evolves into {{p|Pawmot}} when leveled up while outside of its [[Poké Ball]] after the player walks 1000 [[step counting|steps]] using the [[Let's Go!]] feature.<ref>https://twitter.com/Sibuna_Switch/status/1678027317891694593</ref><ref>https://twitter.com/Sibuna_Switch/status/1680044846403272704</ref>
+
+==Biology==
+[[File:4KomaPlaza412.png|thumb|left|150px|Pawmo's left forepaw discharging electricity]]
+Pawmo is a stout, bipedal, rodent-like Pokémon. Compared to Pawmi and Pawmot, its fur is almost entirely light orange, with tan colorations on its forepaws, snout, and long, fluffy tail, and green on the insides of its ears. Its face has beady brown eyes, a tiny nose, and yellow electric sacs on its cheeks. It has tufts of fur on its forehead and near its ears. Pawmo has five fingers on its forelimbs which are considerably large, and stretches down to its tiny feet. Pawmo's forepaws contain yellow pads that turn teal-blue when releasing electricity. It uses these paw pads for its signature fighting technique, where it simultaneously strikes and zaps foes with its forepaws. Pawmo are known to travel in groups. When attacked, Pawmo will be the first to fight back, defeating foes with its electricity. As mentioned in [[Pokémon Sleep]], Pawmo will sometimes maintain its characteristic battle stance while sleeping, possibly because it is dreaming of training its fighting moves.
+{{left clear}}
+
+===Evolution===
+Pawmo evolves from {{p|Pawmi}} and evolves into {{p|Pawmot}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|type1=Electric
+|type2=Fighting
+|no1=0921
+|name1=Pawmi
+|type1-1=Electric
+|evo1=
+|no2=0922
+|name2=Pawmo
+|type1-2=Electric
+|type2-2=Fighting
+|evo2=
+|no3=0923
+|name3=Pawmot
+|type1-3=Electric
+|type2-3=Fighting}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric|type2=Fighting}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=23|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fighting color dark}}; background:#{{electric color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{electric color light}}; background:#{{electric color light}} | [[File:Pokédex Image Pawmo SV.png|x200px]]
+|-
+| Pawmo in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Electric|type2=Fighting}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Two)|Area Two]], [[South Province (Area Three)|Area Three]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]], [[South Province (Area Six)|Area Six]], {{pal|Pokémon League}}<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]]<br>West Province: [[West Province (Area One)|Area One]], [[West Province (Area Two)|Area Two]], [[West Province (Area Three)|Area Three]], [[Asado Desert]]<br>North Province: [[North Province (Area One)|Area One]], [[North Province (Area Three)|Area Three]], [[Glaseado Mountain]]<br>North Province: [[North Province (Area Three)|Area Three]] ({{t|Steel}} {{Tera}} [[Type]])<br>[[Area Zero]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Pawmo|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric|type2=Fighting}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Ultra 2)<small>(Holiday 2024 only)</small><br>[[Snowdrop Tundra]] (from Great 2)<br>[[Old Gold Power Plant]] (from Basic 5)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Great 1)}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|type2=Fighting
+|HP=60
+|Attack=75
+|Defense=40
+|SpAtk=50
+|SpDef=40
+|Speed=85
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Fighting
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|voltabsorb=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Pawmo|Electric|Fighting|9}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Arm Thrust|Fighting|Physical|15|100|20||'''}}
+{{learnlist/level9|3|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|6|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|8|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|12|Nuzzle|Electric|Physical|20|100|20||'''}}
+{{learnlist/level9|15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level9|19|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|23|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|27|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|32|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level9|38|Entrainment|Normal|Status|—|100|15}}
+{{learnlist/level9|42|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|46|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|52|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/levelf/9|Pawmo|Electric|Fighting|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Pawmo|Electric|Fighting|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15||'''}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM213|Coaching|Fighting|Status|—|—|10}}
+{{learnlist/tm9|TM229|Upper Hand|Fighting|Physical|65|100|15||'''}}
+{{learnlist/tmf/9|Pawmo|Electric|Fighting|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Pawmo|Electric|Fighting|9}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth}}{{MSP/H|0052|Meowth|form=-Alola}}{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0053|Persian}}{{MSP/H|0053|Persian|form=-Alola}}{{MSP/H|0863|Perrserker}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0677|Espurr}}{{MSP/H|0678|Meowstic}}|Fake Out|Normal|Physical|40|100|10|grid=6}}
+{{learnlist/breed9|{{MSP/H|0391|Monferno}}{{MSP/H|0392|Infernape}}|Mach Punch|Fighting|Physical|40|100|30||'''|grid=6}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026|Raichu|form=-Alola}}{{MSP/H|0417|Pachirisu}}|Sweet Kiss|Fairy|Status|—|75|10|grid=6}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10|grid=6}}
+{{learnlist/breedf/9|Pawmo|Electric|Fighting|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Pawmo|Electric|Fighting|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Pawmo|Electric|Fighting|9}}
+
+====Special moves====
+{{learnlist/eventh/9|Pawmo|Electric|Fighting|9}}
+{{learnlist/event9|[[North Province (Area Three)|Wild Tera Pokémon]]|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/eventf/9|Pawmo|Electric|Fighting|9}}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Fighting}}
+{{Spindata/GO|col=6|type=Electric|ndex=0922
+|hatch=N/A
+|buddy=3
+|candy=Pawmi
+|evolution= {{candy|Pawmi}} 100 + Walk 25 km
+|stamina=155
+|attack=147
+|defense=82
+|fast={{m|Spark}}, {{m|Charge Beam}}, {{m|Thunder Shock}}{{tt|*|From June 1, 2025 onward}}
+|special={{m|Thunderbolt}}, {{m|Discharge}}, {{m|Wild Charge}}, {{m|Thunder Punch}}{{tt|*|From June 3, 2024 onward}}
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0922
+|pokemon=Pawmi
+|sleeptype=Snoozing
+|type=Electric
+|dexentry=Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously. It sometimes sleeps in its characteristic battle stance-perhaps it's training its fighting moves in its dreams.
+|sleepstyle1=Curled-Up Sleep
+|sleepstyle2=Dream-Stance Sleep
+|sleepstyle3=Electrifying Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=12
+|specialty=Skills
+|evolution=9000 minutes of sleep logged with Pawmo
+|candyNum=80
+|berry=Grepa
+|ingredient1=Soothing Cacao
+|ingredient2=Moomoo Milk
+|ingredient3=Fancy Egg
+|carrylimit=12
+|skillname=Energy for Everyone S
+|skilldesc=Restores 5 Energy to each helper Pokémon on your team
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Electric
+|type2=Fighting
+|no1=0921
+|name1=Pawmi
+|type1-1=Electric
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 18}}
+|no2=0922
+|name2=Pawmo
+|type1-2=Electric
+|type2-2=Fighting
+|evo2={{bag/s|Rare Candy|SV}} + [[File:Footwear icon.png|40px]]<br>{{color2|000|Level|Level up}}<br>whilst outside of its {{color2|000|Poké Ball}} after walking<br>1,000 {{color2|000|step counting|steps}} using the {{color2|000|Let's Go!}} feature
+|no3=0923
+|name3=Pawmot
+|type1-3=Electric
+|type2-3=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=electric|type2=fighting}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0922}}-->
+{{Spritebox/HOME|ndex=0922}}
+{{Spritebox/Footer|922|Pawmo}}
+
+==In animation==
+[[File:Nemona Pawmo.png|thumb|250px|Pawmo in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Pawmo debuted in ''[[HZ010|Nemona and Brassius and…]]'', under the ownership of [[Nemona]]. In ''[[HZ046|Welcome to Naranja Academy!]]'', it was revealed to had evolved into a {{p|Pawmot}}.
+
+====Minor appearances====
+
+===Biri-Biri===
+A Pawmo appeared in the music video for [[Biri-Biri]], under the ownership of [[Nemona]].
+
+===POKÉTOON===
+A Pawmo appeared in [[PT09]], alongside its evolutionary relatives.
+
+==In the manga==
+[[File:Nemona Pawmo Adventures.png|thumb|150px|Pawmo in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Pawmo debuted in [[PASV18]], where it was revealed that {{adv|Nemona}}'s {{p|Pawmi}} had evolved into one.
+{{-}}
+
+==In the TCG==
+{{main|Pawmo (TCG)}}
+
+==Trivia==
+* Pawmo and its pre-Evolution {{p|Pawmi}} share their {{pkmn|category}} with {{p|Rattata}}, {{p|Raticate}}, {{p|Pikachu}}, {{p|Raichu}}, {{p|Sandshrew}}, and {{p|Sandslash}}. They are all known as the Mouse Pokémon, though Rattata and Raticate were originally called the Rat Pokémon prior to [[Generation III]].
+** Pawmi and Pawmo are the only Pokémon with this category to not be introduced in [[Generation I]], and the only ones whose evolutionary line has no [[Alolan form]]s.
+* Pawmi and Pawmo are the first [[electric rodents]] since {{p|Pichu}} to be able to evolve.
+* Pawmo is the [[List of Pokémon by height|shortest]] {{type|Fighting}} Pokémon.
+
+===Concept and development===
+Pawmo and its evolutionary relatives were designed by [[Atsuko Nishida]],<ref>[https://www.instagram.com/coloatsu/p/DDCg3wKPJDR/ Instagram post by Atsuko Nishida (@coloatsu) on the Paldean Pokémon designed by her.] Posted on December 1, 2024.</ref> who was responsible for designing {{p|Pikachu}} and {{p|Raichu}}.
+
+===Origin===
+Pawmo seems to be based on a {{wp|marmot}}, such as the {{wp|alpine marmot}}, which was reintroduced in 1948 to the {{wp|Pyrenees}} mountain range at the border of Spain and France, after its disappearance in the region following the end of the {{wp|Pleistocene}} epoch. Pawmo's ability of discharging electricity from its paws may be inspired by {{wp|Defibrillation|defibrillator}}s, while  its {{t|Fighting}} type and its ability to learn {{m|Arm Thrust}} could be a grim reference to {{wp|Cardiopulmonary_resuscitation#Injuries|the potential injuries that result from CPR}}.
+
+Pawmo evolving into Pawmot by using the [[Let's Go!]] feature, which requires its Trainer to walk with it outside its Poké Ball, might allude to its design as an electric rodent (commonly known as a [[Pikachu (Pokémon)|Pikachu]] clone), as a reference to how [[Ash's Pikachu]] is always outside his Poké Ball.
+
+====Name origin====
+Pawmo may be a combination of ''{{p|Pawmi}}'', ''marmot'', and ''dynamo''.
+
+Pamot may be a combination of パモ ''Pamo'' (Pawmi) and ''marmot''.
+
+==In other languages==
+{{Other languages|type=Electric|type2=Fighting
+|ja=パモット ''Pamot''|jameaning=From {{p|Pawmi|パモ ''Pamo''}} and ''marmot''
+|fr=Pohmotte|frmeaning=From ''{{tt|Pohm|Pawmi}}'' and ''{{tt|marmotte|marmot}}''
+|es=Pawmo|esmeaning=Same as English name
+|de=Pamamo|demeaning=From ''{{tt|Pamo|Pawmi}}''
+|it=Pawmo|itmeaning=Same as English name
+|ko=빠모트 ''Ppamoteu''|komeaning=Transcription of Japanese name
+|zh_cmn=布土撥 / 布土拨 ''Bùtǔbō''|zh_cmnmeaning=From {{tt|布 ''bù''|cloth}} and {{tt|土撥鼠 / 土拨鼠 ''tǔbōshǔ''|marmot}}
+|zh_yue=布土撥 ''Boutóubuht''|zh_yuemeaning=From {{tt|布 ''bou''|cloth}} and {{tt|土撥鼠 ''tóubuhtsyú''|marmot}}
+|hi=पंफ़िया ''Pumfiya''|himeaning=From {{p|Pawmi|पंफ़ी ''Pumffy''}} and {{tt|फीया ''phīyā''|marmot}}
+|th=พาม็อต ''Phamot''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Pawmot (UNITE)]]
+* [[Electric rodents]]
+
+==References==
+<references/>
+
+==External links==
+{{Electric rodents}}
+{{PokémonPrevNext/Head|type=Electric|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0921|prev=Pawmi|nextnum=0923|next=Pawmot}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve using the Let's Go! feature]]
+
+[[de:Pamamo]]
+[[es:Pawmo]]
+[[fr:Pohmotte]]
+[[it:Pawmo]]
+[[ja:パモット]]
+[[zh:布土拨]]

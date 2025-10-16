@@ -1,0 +1,331 @@
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/GO|species=Grapploct}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=0852|prev=Clobbopus|nextnum=0854|next=Sinistea|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Grapploct
+|jname=オトスパス
+|jtranslit=Otosupasu
+|tmname=Otosupus
+|ndex=0853
+|type1=Fighting
+|category=Jujitsu
+|height-ftin=5'03"
+|height-m=1.6
+|weight-lbs=86.0
+|weight-kg=39.0
+|abilityn=d
+|ability1=Limber
+|abilityd=Technician
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Human-Like
+|eggcycles=25
+|evtotal=2
+|evat=2
+|expyield=168
+|lv100exp=1,059,860
+|gendercode=127
+|color=Blue
+|catchrate=45
+|body=10
+|pokefordex=grapploct
+|generation=8
+|friendship=50
+}}
+'''Grapploct''' ([[List of Japanese Pokémon names|Japanese]]: '''オトスパス''' ''Otosupus'') is a {{type|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{p|Clobbopus}} when [[level]]ed up while knowing {{m|Taunt}}.
+
+==Biology==
+[[File:853Grapploct Dream 2.png|thumb|left|150px|Grapploct's mouth]]
+Grapploct is a blue, amphibious, cephalopod {{OBP|Pokémon|species}} with a yellow jagged eyemask-like marking, suckers, and what appears to be a breathing organ on the left side of its head, which can also be used to squirt out ink and perform special moves. It has a dark blue underside and cyan eyes. Four of its eight tentacles act as arms, three act as legs and one is wrapped around its waist like a martial artist's belt. Its mouth is in between its head and body, only clearly visible when it opens. 
+
+With a body made of pure muscle, Grapploct possesses very powerful grip strength. It enjoys fighting opponents, and moves onto the land to fight them before returning to its ocean home. {{p|Golisopod}} is the natural predator or prey of Grapploct, depending on who wins the fight.
+
+Grapploct is the [[Signature move|only known Pokémon]] capable of learning the [[move]] {{m|Octolock}}.
+
+===Evolution===
+Grapploct evolves from {{p|Clobbopus}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Fighting
+|pictype=art
+|no1=0852
+|name1=Clobbopus
+|type1-1=Fighting
+|evo1=
+|no2=0853
+|name2=Grapploct
+|type1-2=Fighting}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fighting}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=352|reg2=Galar|label2=Isle of Armor|num2=130|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fighting}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|9|Galar}}, [[Lake of Outrage]], [[West Lake Axewell]] ([[Wanderer]])<br>[[North Lake Miloch/Dens|North Lake Miloch]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Loop Lagoon]] ([[Wanderer]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fighting}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Seasonal [[sync pair scout]]: {{sync|Hilda|Grapploct|Summer 2022}} {{shinystar}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fighting
+|HP=80
+|Attack=118
+|Defense=90
+|SpAtk=70
+|SpDef=80
+|Speed=42
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fighting
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Grapploct|Fighting|Fighting|8}}
+{{learnlist/level8|1|Octolock|Fighting|Status|—|100|15}}
+{{learnlist/level8|1|Octazooka|Water|Special|65|85|10}}
+{{learnlist/level8|1|Rock Smash|Fighting|Physical|40|100|15||'''}}
+{{learnlist/level8|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level8|1|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level8|1|Bind|Normal|Physical|15|85|20}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Octolock|Fighting|Status|—|100|15}}
+{{learnlist/level8|15|Detect|Fighting|Status|—|—|5}}
+{{learnlist/level8|20|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/level8|25|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/level8|30|Submission|Fighting|Physical|80|80|20||'''}}
+{{learnlist/level8|35|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level8|40|Reversal|Fighting|Physical|—|100|15||'''}}
+{{learnlist/level8|45|Superpower|Fighting|Physical|120|100|5||'''}}
+{{learnlist/level8|50|Topsy-Turvy|Dark|Status|—|—|20}}
+{{learnlist/levelf/8|Grapploct|Fighting|Fighting|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Grapploct|Fighting|Fighting|8}}
+{{learnlist/tm8|TM00|Mega Punch|Normal|Physical|80|85|20}}
+{{learnlist/tm8|TM04|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM26|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM42|Revenge|Fighting|Physical|60|100|10||'''}}
+{{learnlist/tm8|TM43|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm8|TM45|Dive|Water|Physical|80|100|10}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM63|Drain Punch|Fighting|Physical|75|100|10||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM79|Retaliate|Normal|Physical|70|100|5}}
+{{learnlist/tm8|TM97|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm8|TM98|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15}}
+{{learnlist/tr|TR16|Waterfall|Water|Physical|80|100|15}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR21|Reversal|Fighting|Physical|—|100|15||'''}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR39|Superpower|Fighting|Physical|120|100|5||'''}}
+{{learnlist/tr|TR45|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/tr|TR48|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tr|TR53|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/tr|TR64|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tr|TR85|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tr|TR98|Liquidation|Water|Physical|85|100|10}}
+{{learnlist/tmf/8|Grapploct|Fighting|Fighting|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Grapploct|Fighting|Fighting|8}}
+{{learnlist/breed8|{{MSP/8c|062|Poliwrath}}{{MSP/8c|538|Throh}}{{MSP/8c|674|Pancham}}{{MSP/8c|675|Pangoro}}|Circle Throw|Fighting|Physical|60|90|10||'''|grid=7}}
+{{learnlist/breed8|{{MSP/8c|771|Pyukumuku}}|Pain Split|Normal|Status|—|—|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|107|Hitmonchan}}{{MSP/8c|448|Lucario}}{{MSP/8c|861|Grimmsnarl}}|Power-Up Punch|Fighting|Physical|40|100|20||'''|grid=7}}
+{{learnlist/breed8|{{MSP/8c|066|Machop}}{{MSP/8c|067|Machoke}}{{MSP/8c|068|Machamp}}{{MSP/8c|538|Throh}}|Seismic Toss|Fighting|Physical|—|100|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|054|Psyduck}}{{MSP/8c|055|Golduck}}{{MSP/8c|223|Remoraid}}{{MSP/8c|224|Octillery}}{{MSP/8c|279|Pelipper}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|771|Pyukumuku}}{{MSP/8c|816|Sobble}}{{MSP/8c|817|Drizzile}}{{MSP/8c|818|Inteleon}}|Soak|Water|Status|—|100|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|122|Mr. Mime}}{{MSP/8c|122G|Mr. Mime}}{{MSP/8c|866|Mr. Rime}}{{MSP/8c|237|Hitmontop}}{{MSP/8c|453|Croagunk}}{{MSP/8c|454|Toxicroak}}{{MSP/8c|618|Stunfisk}}{{MSP/8c|618G|Stunfisk}}{{MSP/8c|816|Sobble}}{{MSP/8c|817|Drizzile}}{{MSP/8c|818|Inteleon}}{{MSP/8c|859|Impidimp}}{{MSP/8c|860|Morgrem}}{{MSP/8c|861|Grimmsnarl}}|Sucker Punch|Dark|Physical|70|100|5|grid=7}}
+{{learnlist/breedf/8|Grapploct|Fighting|Fighting|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Grapploct|Fighting|Fighting|8}}
+{{learnlist/tutor8|Coaching|Fighting|Status|—|—|10|||no|yes}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10|||no|yes}}
+{{learnlist/tutorf/8|Grapploct|Fighting|Fighting|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Grapploct|Fighting|Fighting|8}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Grapploct|Fighting|Fighting|8}}
+
+===Side game data===
+{{Spindata/Head|type=Fighting}}
+{{Spindata/GO|col=6|type=Fighting|ndex=0853
+|egg=N/A
+|buddy=3
+|candy=Clobbopus
+|evolution=
+|stamina=190
+|attack=209
+|defense=162
+|fast={{m|Rock Smash}}, {{m|Waterfall}}
+|special={{m|Brick Break}}, {{m|Ice Punch}}, {{m|Superpower}}, {{m|Surf}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Fighting
+|pictype=art
+|no1=0852
+|name1=Clobbopus
+|type1-1=Fighting
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Bag TM Dark SV Sprite.png|40px|link=Taunt (move)]]<br>{{color2|000|Level|Level up}}<br>knowing {{color2|000|Taunt (move)|Taunt}}
+|no2=0853
+|name2=Grapploct
+|type1-2=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Fighting}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=853}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0853}}
+{{Spritebox/Footer|853|Grapploct}}
+
+==In animation==
+===Main series===
+[[File:Bea Grapploct.png|thumb|250px|Grapploct in {{aniseries|JN}}]]
+====Major appearances====
+Grapploct debuted in ''[[JN034|Solitary and Menacing!]]'', under the ownership of [[Bea]]. It was first seen battling the [[Koichi|Karate Master]] of the [[Fighting Dojo]] and defeating his {{p|Hitmonchan}}. Bea then used Grapploct as her second Pokémon in her [[World Coronation Series]] {{pkmn|battle}} against {{Ash}}, where it went up against his {{AP|Riolu}} and won. Grapploct has since made multiple reappearances.
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN034|Grapploct|Ash's Rotom Phone|Grapploct, the Jujitsu Pokémon. A {{t|Fighting}} type. Grapploct's entire body is made of overlapping muscles. Its tentacles have terrifying power for squeezing attacks.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Bea Grapploct Adventures.png|thumb|150px|Grapploct in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+[[Bea]]'s Grapploct first appeared in a fantasy in ''[[PASS15|Shocking!! Reunion in the Forest]]''.
+
+===Pokémon Journeys===
+A Grapploct appeared in ''[[JNM11|Solitary and Menacing!]]'', under the ownership of [[Bea]].
+{{-}}
+
+==In the TCG==
+{{main|Grapploct (TCG)}}
+==Trivia==
+[[File:Company Icon Galar Police Station.png|thumb|150px|Icon for Galar Police Station]]
+* Grapploct and its pre-Evolution are the only Pokémon that are in the {{egg|Water 1}} and {{egg|Human-Like}} [[Egg Group]]s.
+* The company logo for [[Poké Job|Galar Police Station]] depicts a Grapploct.
+
+===Origin===
+Grapploct is based on an {{wp|octopus}} with {{wp|jujutsu}} fighter motifs; its connection to jujutsu is further supported by its {{pkmn|category}} name. Its face design appears to be based on a {{wp|wrestling mask}}, while the arm around its waist resembles a {{wp|Black belt (martial arts)|martial artist's belt}}. It may also be a pun on {{wp|octopus wrestling}} practices popular on the West Coast of the United States during the 1960s, which involved a diver grappling with a large octopus in shallow water and dragging it to the surface. Both Grapploct's normal and {{Shiny}} colors may be a reference to blue and white being the most common colors of gi worn by martial artists who practice {{wp|Brazilian jiu-jitsu}}. Additionally, its Shiny variant's red colors may have been inspired by the {{wp|Red belt (martial arts)|red belt}}, the highest-ranking belt in Brazilian jiu-jitsu.
+
+====Name origin====
+Grapploct may be a combination of ''grapple'', ''octopus'', and ''locked''.
+
+Otosupus may be a combination of 落とす ''otosu'' (to take someone down) and ''octopus''.
+
+==In other languages==
+{{Other languages|type=Fighting|type2=Fighting
+|ja=オトスパス ''Otosupus''|jameaning=From {{tt|落とす ''otosu''|to take someone down}} and ''octopus''
+|fr=Krakos|frmeaning=From ''{{wp|kraken}}'' and possibly ''{{wp|Kratos (mythology)|{{tt|Kratos|personification of strength in Greek mythology}}}}''
+|es=Grapploct|esmeaning=Same as English name
+|de=Kaocto|demeaning=From ''K.O.'' and ''octopus''
+|it=Grapploct|itmeaning=Same as English name
+|ko=케오퍼스 ''Keopus''|komeaning=From ''K.O.'' and ''octopus''
+|zh_cmn=八爪武師 / 八爪武师 ''Bāzhuǎwǔshī''|zh_cmnmeaning=From {{tt|八爪魚 / 八爪鱼 ''bāzhuǎyú''|octopus}} and {{tt|武師 / 武师 ''wǔshī''|martial artist}}
+|zh_yue=八爪武師 ''Baatjáaumóuhsī''|zh_yuemeaning=From {{tt|八爪魚 ''baatjáauyú''|octopus}} and {{tt|武師 ''móuhsī''|martial artist}}
+|hi=ऑक्टोचोक ''Octochoke''|himeaning=From ''octopus'' and ''chokehold''
+|th=โอโทสพัส ''Othotphat''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=0852|prev=Clobbopus|nextnum=0854|next=Sinistea}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kaocto]]
+[[es:Grapploct]]
+[[fr:Krakos]]
+[[it:Grapploct]]
+[[ja:オトスパス]]
+[[zh:八爪武师]]

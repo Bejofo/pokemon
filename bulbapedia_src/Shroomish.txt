@@ -1,0 +1,617 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Shroomish}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0284|prev=Masquerain|nextnum=0286|next=Breloom|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Shroomish
+|jname=キノココ
+|jtranslit=Kinokoko
+|tmname=Kinococo
+|ndex=0285
+|typebox=1
+|type1=Grass
+|category=Mushroom
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=9.9
+|weight-kg=4.5
+|abilityn=d
+|ability1=Effect Spore
+|ability2=Poison Heal
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Quick Feet
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Grass
+|eggcycles=15
+|evtotal=1
+|evhp=1
+|expyield=59
+|oldexp=65
+|lv100exp=1,640,000
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=07
+|pokefordex=shroomish
+|generation=3
+|friendship=70
+}}
+'''Shroomish''' ([[List of Japanese Pokémon names|Japanese]]: '''キノココ''' ''Kinococo'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s into {{p|Breloom}} starting at [[level]] 23.
+
+==Biology==
+Shroomish is a small {{wp|fungus}} {{OBP|Pokémon|species}} similar to a mushroom. It has beady black eyes and a half-triangle-shaped mouth. Its upper body is beige with frilled segments along the bottom and a small opening at the top. There are green spots marking its upper body, while its lower body is completely green. It has small, round feet and no visible arms or hands. When it senses danger, it shakes its body and scatters toxic spores from the top of its head. These spores can make trees and weeds wilt and cause whole-body pain if inhaled. Shroomish lives in {{DL|List of Pokémon by habitat|Forest Pokémon|tropical forests}}. During the day, it hides under fallen leaves in the shade. It eats composted soil in forests, which is made up of fallen, rotten leaves.
+
+Prior to [[Generation V]], Shroomish and its evolved form, {{p|Breloom}}, were the [[Signature Ability|only known Pokémon]] that could have {{a|Poison Heal}} as an Ability.
+
+===Evolution===
+Shroomish evolves into {{p|Breloom}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Grass
+|pictype=art
+|no1=0285
+|name1=Shroomish
+|type1-1=Grass
+|evo1=
+|no2=0286
+|name2=Breloom
+|type1-2=Grass
+|type2-2=Fighting}}
+</div>
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Pinball: Ruby & Sapphire]]: Three Shroomish are bumpers at the top of the [[Sapphire Field]].
+
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=034|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Shroomish</sc> live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This {{ScPkmn}} feeds on compost that is made up of fallen, rotted leaves.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=If <sc>Shroomish</sc> senses danger, it shakes its body and scatters spores from the top of its head. This {{ScPkmn}}'s spores are so toxic, they make trees and weeds wilt.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many <sc>Shroomish</sc> feasting on composted soil.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=If it senses danger, it scatters spores from the top of its head to protect itself.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn|num2=035}}
+{{Dex/Entry1|v=X|t=FFF|entry=It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pokémon feeds on compost that is made up of fallen, rotted leaves.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon's spores are so toxic, they make trees and weeds wilt.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It spouts poison spores from the top of its head. These spores cause pain all over the body if inhaled.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=106|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=If it senses danger, it scatters spores from the top of its head to protect itself.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{grass color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{grass color dark}}; background:#{{grass color light}}; {{roundy|5px}};" | [[File:Pokédex Image Shroomish SV.png|x200px]]
+|-
+| Shroomish in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Petalburg Woods]]}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Petalburg Woods]]}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Lab]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Great Marsh]] (after obtaining [[National Pokédex]])}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]] (after obtaining [[National Pokédex]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Viridian Forest]] ([[Headbutt tree]]s)<br>{{safari|Johto}} (Savannah with 35 Forest points and 12 Plains points)}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|v=Black|t=FFF|area={{rt|11|Unova}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry1/None|v=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{pkmn|breeding|Breed}} {{p|Breloom}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Breloom}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Petalburg Woods]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Great Marsh]] (after obtaining [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Five)|Area Five]]<br>West Province: [[West Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Shroomish|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Hatch from {{pkmn|Egg}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[SOL Laboratory 2]], [[Secret Storage 17]], [[Huge Storage 2]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Sinister Woods]] (6F-12F), [[Joyous Tower]] (21F-25F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mt. Horn]] (1F-6F), [[Final Maze]] (B1F-B48F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mt. Horn]] (1F-6F), [[Final Maze]] (B1F-B48F)}}
+{{Availability/Entry1|v=Ranch|link=My Pokémon Ranch|color={{diamond color}}|area=[[Hayley's trades]]}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Meadow Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Echo Valley]], [[Misty Edgewater]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Verdant Plaza#Four Seasons in the Forest|Verdant Plaza: Four Seasons in the Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 2|Distortion Island: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Thorny Heath|Diamond Crater: Thorny Heath]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Snorlax Sea]], [[Rayquaza Sea]], [[Celebi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Sinister Woods]] (6F-12F), [[Joyous Tower]] (21F-25F), [[Purity Forest]] (21F-25F), [[Fantasy Strait]] (22F-24F)<br/>Fainted Pokémon: [[Mt. Steel]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Secret Side Path]]<sup><span style="color:#F05D31;">Day</span></sup>, [[Florio Nature Park]]<sup><span style="color:#F05D31;">Day</span> with [[Secret Side Path]]</sup>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 486]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Grass}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Kebia Berry|5|rows=4}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black|White|tcolor1=FFF|tcolor2={{white color}}|gcolor2=fff|Pokémon Black and White Versions}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Items2|Tiny Mushroom|50|Big Mushroom|5|rows=2}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=fff|tcolor2=fff|Pokémon Scarlet and Violet}}
+{{HeldItems/Items1|Tiny Mushroom|5}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=     60
+|Attack= 40
+|Defense=60
+|SpAtk=  40
+|SpDef=  60
+|Speed=  35}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=2
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  200
+|Ground=   50
+|Rock=    100
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Shroomish|Grass|Grass|3}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|5|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|8|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|12|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|15|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|19|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/level9|26|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|29|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|33|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level9|36|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|40|Spore|Grass|Status|—|100|15}}
+{{learnlist/levelf/9|Shroomish|Grass|Grass|3}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Shroomish|Grass|Grass|3}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM073|Drain Punch|Fighting|Physical|75|100|10||''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tmf/9|Shroomish|Grass|Grass|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Shroomish|Grass|Grass|3}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026-Alola|Raichu}}{{MSP/H|0035|Clefairy}}{{MSP/H|0036|Clefable}}{{MSP/H|0039|Jigglypuff}}{{MSP/H|0040|Wigglytuff}}{{MSP/H|0183|Marill}}{{MSP/H|0184|Azumarill}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0417|Pachirisu}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0702|Dedenne}}{{MSP/H|0764|Comfey}}|Charm|Fairy|Status|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0859|Impidimp}}{{MSP/H|0860|Morgrem}}{{MSP/H|0861|Grimmsnarl}}|Fake Tears|Dark|Status|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0183|Marill}}{{MSP/H|0184|Azumarill}}{{MSP/H|0311|Plusle}}{{MSP/H|0312|Minun}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0764|Comfey}}{{MSP/H|0876|Indeedee}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Helping Hand|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0286|Breloom}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0952|Scovillain}}|Worry Seed|Grass|Status|—|100|10|grid=8}}
+{{learnlist/breedf/9|Shroomish|Grass|Grass|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Sleep Powder}}
+| style="background:#fff; {{roundybr|5px}}" | [[Shroomish (EX Ruby & Sapphire 69)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/Trozei|col=6|type=Grass|ndex=285|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=285
+|body=1
+|rate=7.7
+|area=Mushroom Forest
+|P1=I like it where it's dark and damp.
+|P2=My HP has dropped to about half.
+|P3=I can't keep this up... I'm almost out of poison powders...
+|PL=That's my level up! My poison powders turned more toxic!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=285
+|body=1
+|rate=6.4
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=285
+|coset=3
+|conto={{p|Slaking}}
+|recruitment=Introduced by {{p|Slaking}}
+|P1=Me no mushroom! Me Shroomish! Huh? You didn't get that?
+|P2=The spores on my head are getting sticky... I seem to have trouble releasing them...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=285
+|walk=1.97
+|hp=51
+|attack=67
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Grass|ndex=285
+|Pad=Shroomish came out of the crate in the [[Meadow Zone]]! Her favorite Attraction is {{DL|Attraction (PokéPark)|Bulbasaur's Daring Dash}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=285
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=285|num=614
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Paralysis Combo
+|skilldesc=Increases damage done by combos if the foe is paralyzed.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=285
+|hatch=N/A
+|buddy=3
+|candy=Shroomish
+|evocandy=50
+|stamina=155|attack=74|defense=110
+|fast={{m|Tackle}}, {{m|Bullet Seed}}
+|special={{m|Seed Bomb}}, {{m|Grass Knot}}, {{m|Energy Ball}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Grass|ndex=285|pdex=215
+|dex=Shroomish live quiet lives, preferring to make their homes in damp, shady places. But watch out! They spout {{m|Poison Powder|toxic spores}} from their head when they’re startled.}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Grass
+|pictype=art
+|no1=0285
+|name1=Shroomish
+|type1-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 23}}
+|no2=0286
+|name2=Breloom
+|type1-2=Grass
+|type2-2=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=285}}
+{{Spritebox/4|ndex=285}}
+{{Spritebox/5|ndex=285}}
+{{Spritebox/6|ndex=285|crop=52}}
+{{Spritebox/7|ndex=285|crop=52}}
+<!--{{Spritebox/8/BDSP|ndex=285}}
+{{Spritebox/9|ndex=0285}}-->
+{{Spritebox/HOME|ndex=0285}}
+{{Spritebox/Footer|285|Shroomish}}
+
+==In animation==
+===Main series===
+[[File:Arboliva Forest Shroomish.png|thumb|250px|Shroomish in {{aniseries|HZ}}]]
+====Major appearances====
+In ''[[AG009|Taming of the Shroomish]]'', {{Ash}} and {{ashfr}} saved a group of Shroomish from having the abandoned mansion they called home from being destroyed, with the help of {{OBP|Alex|AG009}}, the grandson of [[Alex's grandfather|the mansion's owner]].
+
+In ''[[AG052|Cheer Pressure]]'', a Shroomish was part of [[Sheridan]]'s cheering squad along with a {{p|Roselia}}, {{p|Vileplume}}, and {{p|Makuhita}}. He later assigned it to heal [[James's Cacnea]] and [[Jessie's Seviper]] with {{m|Helping Hand}}.
+
+In ''[[AG082|A Shroomish Skirmish]]'', multiple Shroomish evolved into Breloom after {{TRT}} angered them.
+
+In ''[[Pokémon Mystery Dungeon: Team Go-Getters Out of the Gate!]]'', [[Team Go-Getters]] tried to sneak past multiple Shroomish while they were sleeping, but {{p|Squirtle}} bumped into one and thus awoke all of them. As a result, the Shroomish used {{m|Poison Powder}} on them and pursued them before being scared away by {{p|Charmander}}'s {{m|Ember}} and {{m|Flamethrower}}.
+
+In ''[[DP134|Promoting Healthy Tangrowth!]]'', a Shroomish assisted {{p|Tangrowth}} and other Pokémon during several attempts to restore a damaged 1,000-year-old tree back to health.
+
+====Minor appearances====
+Four Shroomish debuted in ''[[EP272|Johto Photo Finish]]'', where they were seen in {{jo|Harrison}}'s explanation of the Hoenn region.
+
+Multiple Shroomish appeared in ''[[AG011|A Bite to Remember]]''.
+
+A Shroomish appeared in ''[[AG024|A Corphish Out of Water]]''.
+
+A Shroomish appeared in ''[[AG030|A Meditite Fight]]''.
+
+A {{pkmn|Coordinator}}'s Shroomish appeared in ''[[AG033|Now That's Flower Power!]]''.
+
+A Shroomish appeared in the opening sequence of ''[[M06|Jirachi: Wish Maker]]''.
+
+In ''[[AG035|Win, Lose or Drew!]]'', a Coordinator's Shroomish competed in the {{ci|Slateport}} {{pkmn|Contest}}.
+
+A Shroomish appeared in ''[[AG063|Take the Lombre Home]]''.
+
+In ''[[AG068|A Double Dilemma]]'', a Shroomish was living at [[North Petalburg]].
+
+A Shroomish appeared in ''[[AG074|Hokey Poké Balls!]]''.
+
+A Shroomish appeared in ''[[AG077|A Fan with a Plan]]''.
+
+A Coordinator's Shroomish appeared in ''[[AG078|Cruisin' for a Losin']]''.
+
+Multiple Shroomish appeared in ''[[M07|Destiny Deoxys]]''.
+
+A Shroomish appeared in [[PK13]].
+
+In ''[[AG086|Lights, Camerupt, Action!]]'', a Shroomish was an actor in one of [[Elijah]]'s movies.
+
+A Shroomish appeared in ''[[AG093|Clamperl of Wisdom]]'', under the ownership of {{OBP|Madeleine|AG093}}.
+
+A Coordinator's Shroomish appeared in ''[[AG115|Mean With Envy]]''.
+
+In ''[[AG119|The Ribbon Cup Caper]]'', two Shroomish were at the [[S.S. St. Flower]]'s [[Pokémon Center]].
+
+In ''[[AG126|Saved by the Beldum]]'', a Trainer's Shroomish was at the [[Ever Grande Conference]].
+
+A Shroomish appeared in a fantasy in ''[[AG133|The Right Place and the Right Mime]]''.
+
+A Shroomish appeared in ''[[AG151|Weekend Warrior]]''.
+
+A Trainer's Shroomish appeared in ''[[AG166|Curbing the Crimson Tide!]]''.
+
+A Shroomish appeared in ''[[AG172|Pokémon Ranger - Deoxys' Crisis! (Part 2)]]''.
+
+In ''[[M09|Pokémon Ranger and the Temple of the Sea]]'', a Shroomish helped {{OBP|Pokémon Ranger|Ranger series}} [[Jack Walker]] when he was a young boy lost in a blizzard.
+
+In ''[[DP030|Some Enchanted Sweetening!]]'', a Shroomish was lured in by the [[Honey]] that [[Cheryl]] had slathered onto a tree. Multiple other Shroomish were featured in a [[boss fantasy]] that was [[DP030#Dub edits|cut]] from the [[dub]] due to it containing suggestive material.
+
+Three Shroomish appeared in ''[[DP032|An Angry Combeenation!]]''.
+
+In ''[[DP162|Playing the Performance Encore!]]'', a Coordinator's Shroomish and {{p|Slakoth}} competed in the [[Contest Battle|Battle Stage]] of the {{to|Daybreak}} {{pkmn|Contest}}.
+
+In ''[[DP168|Keeping In Top Forme!]]'', {{AP|Pikachu}} and {{TP|Dawn|Piplup}} scared a Shroomish, which subsequently released a {{m|Poison Powder}}.
+
+Multiple Shroomish appeared in ''[[M11|Giratina and the Sky Warrior]]''.
+
+In ''[[DP176|Coming Full-Festival Circle!]]'', a Shroomish listened to [[Nando]] play his music.
+
+In ''[[M13|Zoroark: Master of Illusions]]'', multiple Shroomish were living in [[Crown City]]. A few of them worked together with the other Pokémon in surrounding {{OBP|Zorua|M13}} in the park with the intention of attacking him in retribution for what {{OBP|Zoroark|M13}} did to the city. Before a fight could break out, the Shroomish, along with the other Pokémon, were calmed down by {{OBP|Celebi|M13}}.
+
+A Shroomish appeared in ''[[Mewtwo — Prologue to Awakening]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', multiple Shroomish were living in [[Pokémon Hills]].
+
+A Trainer's Shroomish appeared in ''[[JN022|Goodbye, Friend!]]''.
+
+In ''[[JN024|A Little Rocket R & R!]]'', a Trainer's Shroomish was seen at a market before being captured by the [[Matori Matrix]]. It was later freed by Ash and his friends.
+
+A Trainer's Shroomish appeared in ''[[JN096|Lighting the Way Home!]]''.
+
+A Trainer's Shroomish appeared in ''[[JN103|The Future is Now, Thanks to Strategy!]]''.
+
+A Shroomish appeared in ''[[HZ011|Arboliva's Forest]]''.
+
+Three Shroomish appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+A Shroomish appeared in [[HZ090]].
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG009|Shroomish|Ash's Pokédex|Shroomish, the Mushroom Pokémon. Shroomish is mild-tempered and inhabits piles of rotting leaves inside of forests.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+
+===Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+In the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]], a Shroomish surrounded {{ga|May}} and her {{p|Torchic}}, only for Torchic to scare it away with a {{type|Fire}} attack.
+
+===Pokémon Generations===
+[[File:Chimecho Mawile Skitty Shroomish Numel Volbeat PG.png|thumb|250px|Shroomish in [[Pokémon Generations]]]]
+In ''[[PG08|The Cavern]]'', a {{pkmn2|wild}} Shroomish fled from a storm that a [[Primal Reversion|Primal]] {{p|Kyogre}} was creating.
+
+===POKÉTOON===
+A Shroomish appeared in [[PT16]], under the ownership of {{OBP|Yūto|POKÉTOON}}. It evolved into {{p|Breloom}}.
+{{-}}
+
+==In the manga==
+[[File:Mitsuki Shroomish CBF.png|thumb|150px|Shroomish in [[Pokémon Battle Frontier]]]]
+===Ash & Pikachu===
+A Shroomish appears in a flashback in ''[[SP22|A Pokémon Battle Against An Entire Family?!]]'', under the ownership of the [[Winstrate family]].
+
+===Pokémon Adventures===
+Shroomish debuted in ''[[PS182|Making Mirth with Mightyena]]''.
+
+A {{pkmn|Trainer}}'s Shroomish appeared in ''[[PS232|Always Keep Whiscash on You for Emergencies]]''.
+
+===Pokémon Battle Frontier===
+{{OBP|Mitsuki|CBF}} owns a Shroomish, which first appeared in ''[[CBF1|Enta Arrives at the Battle Frontier!]]''.
+
+==In the TCG==
+{{main|Shroomish (TCG)}}
+
+==In the TFG==
+One Shroomish figure has been released.
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Shroomish|34}}
+
+==Trivia==
+* Shroomish and its evolved form share the same {{pkmn|category}} with {{p|Paras}}, {{p|Parasect}}, {{p|Foongus}}, and {{p|Amoonguss}}. They are all known as the Mushroom Pokémon.
+** All six Pokémon also share a common [[move]], {{m|Spore}}; and [[Ability]], {{a|Effect Spore}}.
+** In [[Pokémon GO]], they all give more [[Stardust (GO)|Stardust]] than most other Pokémon upon capture.
+* In [[Generation]] {{gen|IV}}, Shroomish can learn {{m|False Swipe}} via breeding, but not via [[TM]].
+
+===Origin===
+Shroomish appears to be based on a {{wp|mushroom}}, particularly a {{wp|puffball}} or an {{wp|Geastrales|earth star}}. It may also be based on a {{wp|dinosaur egg}} due to its round shape, its color scheme matching that of a [[Pokémon Egg]], and its evolved form {{p|Breloom}}'s resemblance to certain {{wp|dinosaur}}s.
+
+====Name origin====
+Shroomish may be derived from ''mushroom'' and the suffix ''-ish'' (almost like) or ''skirmish'' (brief battle).
+
+Kinococo may be a combination of キノコ ''kinoko'' (mushroom) and 子 ''ko'' (child).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=キノココ ''Kinococo''|jameaning=From {{tt|茸 ''kinoko''|mushrooms}} and {{tt|子 ''ko''|child}}
+|fr=Balignon|frmeaning=From ''{{tt|baluchon|bindle}}'' and ''{{tt|champignon|mushroom}}''
+|es=Shroomish|esmeaning=Same as English name
+|de=Knilz|demeaning=From {{tt|''Knolle''|bulb}} or {{tt|''Knirps''|little fellow}} and {{tt|''Pilz''|mushroom}}
+|it=Shroomish|itmeaning=Same as English name
+|ko=버섯꼬 ''Bosotkko''|komeaning=From {{tt|버섯 ''beoseot''|mushroom}} and {{tt|꼬마 ''kkoma''|kid}}
+|zh_cmn=蘑蘑菇 ''Mómógu''|zh_cmnmeaning=From {{tt|蘑菇 ''mógu''|mushroom}} with the first character repeated
+|zh_yue=蘑蘑菇 ''Mòhmòhgū''|zh_yuemeaning=From {{tt|蘑菇 ''mòhgū''|mushroom}} with the first character repeated
+|hi=बशरूम ''Bashroom''|himeaning=From ''mushroom''
+|ru=Шрумиш ''Shrumish''|rumeaning=Transcription of English name
+|th=คิโนโคโค ''Khinokhokho''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0284|prev=Masquerain|nextnum=0286|next=Breloom}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon that appeared in the animated series before their game debut]]
+
+[[de:Knilz]]
+[[es:Shroomish]]
+[[fr:Balignon]]
+[[it:Shroomish]]
+[[ja:キノココ]]
+[[zh:蘑蘑菇]]

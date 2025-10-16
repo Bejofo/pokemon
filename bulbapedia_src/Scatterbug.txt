@@ -1,0 +1,381 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Scatterbug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0663|prev=Talonflame|nextnum=0665|next=Spewpa|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Scatterbug
+|jname=コフキムシ
+|tmname=Kofukimushi
+|category=Scatterdust
+|typebox=1
+|type1=Bug
+|abilityn=d
+|ability1=Shield Dust
+|ability2=Compound Eyes
+|abilityd=Friend Guard
+|ndex=0664
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=5.5
+|weight-kg=2.5
+|egggroupn=1
+|egggroup1=Bug
+|gendercode=127
+|eggcycles=15
+|evtotal=1
+|evde=1
+|expyield=40
+|lv100exp=1,000,000
+|color=Black
+|catchrate=255
+|body=14
+|pokefordex=scatterbug
+|generation=6
+|friendship=70
+}}
+'''Scatterbug''' ([[List of Japanese Pokémon names|Japanese]]: '''コフキムシ''' ''Kofukimushi'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] into {{p|Spewpa}} starting at [[Level|level]] 9, which evolves into {{p|Vivillon}} starting at level 12. Scatterbug and Spewpa each have [[#Form data|20 visually indistinct forms]] that determine the {{fd|Vivillon|form}} of Vivillon they evolve into.
+
+==Biology==
+Scatterbug is a black larval {{OBP|Pokémon|species}} with a relatively large head. Its head is bisected by a line that runs from the forehead to the mouth. It has large beige eyes with square black pupils, a single pointed tooth that pokes out of its mouth, and three white hairs on top of its head. Scatterbug has a three-segmented body with a pair of nubby, beige legs on each segment. A white ruff of fur encircles its neck, and there is a large beige spot on its rear.
+
+Scatterbug eats various types of plants, including poisonous leaves and roots. The poison it ingests is processed and turned into a black powder that it scatters all over its body. This powder causes paralysis on contact, and allows Scatterbug to deter bird Pokémon from attacking. The powder also regulates Scatterbug's temperature, allowing it to adapt to any climate. {{p|Grafaiai}} is a natural predator of Scatterbug.<ref name=SVYouTube>"[https://www.youtube.com/watch?v=rPWSMyGx6OI Grafaiai makes its mark! | Pokémon Scarlet & Pokémon Violet]." [https://www.youtube.com/c/pokemon The Official Pokémon YouTube Channel]. ''YouTube''.</ref>
+
+===Evolution===
+Scatterbug evolves into {{p|Spewpa}}, which evolves into {{p|Vivillon}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=bug
+|pictype=art
+|no1=0664
+|name1=Scatterbug
+|type1-1=Bug
+|evo1=
+|no2=0665
+|name2=Spewpa
+|type1-2=Bug
+|evo2=
+|no3=0666
+|name3=Vivillon
+|type1-3=Bug
+|type2-3=Flying}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=020|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The powder that covers its body regulates its temperature, so it can live in any region or climate.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The powder that covers its body regulates its temperature, so it can live in any region or climate.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=35|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=Any poison this Pokémon takes in is converted into a black powder and secreted. That's why Scatterbug can eat poisonous leaves and roots.}}
+{{Dex/Entry1|v=Violet|t=fff|entry=This Pokémon scatters poisonous powder to repel enemies. It will eat different plants depending on where it lives.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{bug color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Scatterbug SV.png|x200px]]
+|-
+| Scatterbug in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=bug}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|2|Kalos}}, [[Santalune Forest]]}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Hau'oli City]] ({{DL|QR Scanner|Island Scan}}){{dotw|Th}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Five)|Area Five]], [[Poco Path]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 4|Renegade Meadow: Stage 4]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Shrub Forest|Leafy Expanse: Shrub Forest]] <small>(All Areas)</small>, [[Dark Land#Boundless Prairie|Dark Land: Boundless Prairie]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Greninja Sea]], [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 218]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=     38
+|Attack= 35
+|Defense=40
+|SpAtk=  27
+|SpDef=  25
+|Speed=  35}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=bug
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=  100
+|Ground=   50
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Scatterbug|Bug|Bug|6}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|String Shot|Bug|Status|—|95|40}}
+{{learnlist/level9|6|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|15|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/levelf/9|Scatterbug|Bug|Bug|6}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Scatterbug|Bug|Bug|6}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tmf/9|Scatterbug|Bug|Bug|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Scatterbug|Bug|Bug|6}}
+{{learnlist/breed9|{{MSP/H|0048|Venonat}}{{MSP/H|0049|Venomoth}}{{MSP/H|0666-Fancy|Vivillon}}|Poison Powder|Poison|Status|—|75|35|grid=3}}
+{{learnlist/breed9|{{MSP/H|0637|Volcarona}}|Rage Powder|Bug|Status|—|—|20|grid=3}}
+{{learnlist/breedf/9|Scatterbug|Bug|Bug|6}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/PSMD|col=6|type=Bug|ndex=664
+|coset=3
+|conto={{p|Cascoon}}, {{form|Burmy and Wormadam|Plant Cloak}} {{p|Burmy}}, {{form|Burmy and Wormadam|Sandy Cloak}} {{p|Burmy}}, {{form|Burmy and Wormadam|Plant Cloak}} {{p|Wormadam}}, {{form|Burmy and Wormadam|Sandy Cloak}} {{p|Wormadam}}
+|recruitment=Rescue 
+|P1=Everyone, I have to warn you not to attack me. I'll scatter powder if you do!
+|P2=Woe! I've run out of my black powder.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=664
+|walk=3.33
+|hp=44
+|attack=60
+|defense=42
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=664
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=664|num=282
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=664
+|hatch=N/A
+|buddy=1
+|candy=Scatterbug
+|evocandy=25
+|stamina=116
+|attack=63
+|defense=63
+|fast={{m|Bug Bite}}, {{m|Tackle}}
+|special={{m|Struggle}}
+}}
+|}
+
+===Form data===
+Scatterbug and {{p|Spewpa}} each have 20 forms internally, one for each {{p|Vivillon}} pattern. This determines the {{fd|Vivillon|form}} of Vivillon they will eventually evolve into, and is determined when they are first generated; for {{pkmn|Egg}}s, this means the game in which the Egg was created, regardless of parents.
+
+In [[Generation VI]] and [[Generation VII]], its internal form depends on which geographic location the user specified on the [[Nintendo 3DS]] at the time the save file was created. Due to {{DL|Software region|Nintendo 3DS|region locking}}, a Nintendo 3DS system can only pick from a certain subset of geographic locations, depending on which region the system is from. For a comprehensive list, see [[List of Nintendo 3DS country and region settings]].
+
+In {{g|Scarlet and Violet}}, all [[Pokémon breeding|hatched]] Scatterbug will evolve into Fancy Pattern Vivillon, regardless of [[Gift#Postcards|Postcard]] effects. Scatterbug and Spewpa caught with a Postcard active will evolve into the pattern of Vivillon corresponding to the Postcard. If a Scatterbug or Spewpa came from another game like {{g|GO}}, it will retain the pattern it was assigned in its original game.
+
+===Evolution data===
+{{Evobox-3
+|type1=bug
+|pictype=art
+|no1=0664
+|name1=Scatterbug
+|type1-1=Bug
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 9}}
+|no2=0665
+|name2=Spewpa
+|type1-2=Bug
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 12}}
+|no3=0666
+|name3=Vivillon
+|type1-3=Bug
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=bug}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=664|crop=56}}
+{{Spritebox/7|ndex=664|crop=56}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9|ndex=0664}}-->
+{{Spritebox/HOME|ndex=0664}}
+{{Spritebox/Footer|0664|Scatterbug}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{bug color dark}}; background: #{{bug color}}"
+|-
+| style="{{roundy|25px}} border: 2px solid #{{bug color dark}}; background: #FFF; width:160px"| [[File:HOME664-Forward Eyes.png|x200px]]
+|-
+| Prior to v3.1.0 of [[Pokémon HOME]], Scatterbug with the [[form]] [[index number|index value]] of 0 (Scatterbug with this form index value evolve into Icy Snow form {{p|Vivillon}}) had their eyes facing the camera.<br>All other form index values (1 through 19) had forward facing eyes, as shown above.<br>In v3.1.0, all forms have their eyes facing the camera.
+|}
+
+==In animation==
+[[File:Scatterbug anime.png|thumb|250px|Scatterbug in {{aniseries|XY}}]]
+===Main series===
+====Major appearances====
+Multiple Scatterbug appeared in ''[[XY012|To Catch a Pokémon Smuggler!]]'', including one that {{Ash}} and {{ashfr}} helped rescue from [[Dolan]] and his {{p|Diggersby}}. It later evolved into a Spewpa.
+
+A {{DL|List of Goh's Pokémon|Scatterbug}} appeared in ''[[JN025|A Festival Reunion!]]'', where it was among the Pokémon caught by [[Goh]] while in [[Shalour City]]. It has since made further appearances in {{aniseries|JN}}.
+
+====Minor appearances====
+Scatterbug debuted in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''
+
+A Scatterbug appeared in a flashback at {{an|Professor Sycamore}}'s lab in ''[[XYS01|Mega Evolution Special I]]''.
+
+A Scatterbug appeared in ''[[M17|Diancie and the Cocoon of Destruction]]'' as a resident of [[Allearth Forest]].
+
+A {{pkmn|Trainer}}'s Scatterbug appeared in a flashback in ''[[XY092|Cloudy Fate, Bright Future!]]'', where one of {{AP|Froakie}}'s original Trainers sent it out for a {{pkmn|battle}}.
+
+A Scatterbug appeared in ''[[XY121|Seeing the Forest for the Trees!]]'', where it, along with an {{p|Oddish}}, {{p|Budew}}, {{p|Sentret}}, and {{p|Zigzagoon}}, were brought into a cave to join Ash in the [[Kalos Route 20|Winding Woods]]. It reappeared in a flashback in ''[[XY139|Facing the Needs of the Many!]]'', ''[[XY140|Till We Compete Again!]]'', and ''[[JN108|Catching the Aura of Fate!]]''.
+
+Five Scatterbug appeared during a flashback in ''[[XYS05|The Legend of X, Y, and Z!]]''.
+
+A Trainer's Scatterbug appeared in ''[[HZ047|Put Your Heart Into It!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY012|Scatterbug|Ash's Pokédex|Scatterbug, the Scatterdust Pokémon. When attacked by another Pokémon, Scatterbug scatters the black powder that covers its body and regulates its body temperature.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+===POKÉTOON===
+A Scatterbug appeared in [[PT10]], under the ownership of a {{tc|Bug Catcher}}.
+
+==In the manga==
+[[File:Scatterbug Adventures.png|thumb|200px|Scatterbug in [[Pokémon Adventures]]]]
+===Movie adaptations===
+A Scatterbug appeared in the {{ma|Diancie and the Cocoon of Destruction|manga adaptation}} of ''[[M17|Diancie and the Cocoon of Destruction]]'' as a resident of [[Allearth Forest]].
+
+===Pokémon Adventures===
+Scatterbug debuted in ''[[PS550|X-actly What They Wanted]]'', where it fled from the {{pkmn|battle}} between {{p|Xerneas}} and {{p|Yveltal}} along with its {{pkmn|Trainer}}.
+
+A {{pkmn2|wild}} Scatterbug appeared in a flashback in ''[[PS554|Kangaskhan...Kangascan't]]'' as a resident of [[Santalune Forest]].
+
+A Scatterbug appeared in a flashback in ''[[PS582|Pinsir Glares]]''.
+
+A Scatterbug appeared in ''[[PS593|Xerneas Gives]]''.
+
+==In the TCG==
+{{main|Scatterbug (TCG)}}
+
+==Trivia==
+* Scatterbug and its evolved forms are the only:
+** {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+** {{cat|Generation VI Pokémon}} in the {{egg|Bug}} [[Egg Group]].
+* Scatterbug and its evolved form, {{p|Spewpa}}, are the only {{DL|List of Pokémon by color|black}} Bug-type Pokémon.
+
+===Origin===
+Scatterbug seems to be based on a {{wp|caterpillar}}, specifically, the larvae of {{wp|carpet moth}}s, which are known for their tendency of eating through fabric and making cocoons from it; or the {{wp|silk moth}}, whose larvae produce large amounts of silk. The square powder on Scatterbug's body might be based on {{wp|confetti}} or screen {{wp|pixel}}s.
+
+====Name origin====
+Scatterbug may be a combination of ''scatter'', ''bug'', and possibly ''litterbug''.
+
+Kofukimushi may be a combination of 粉吹金亀子 ''kofuki-kogane'' (Japanese {{wp|cockchafer}}), 粉 ''ko'' (powder), 吹き ''fuki'' (blowing), and 虫 ''mushi'' (bug).
+
+==In other languages==
+{{Other languages|type=bug|type2=bug
+|ja=コフキムシ ''Kofukimushi''|jameaning=From {{tt|粉吹金亀子 ''kofuki-kogane''|Japanese cockchafer}}, {{tt|粉 ''ko''|powder}}, {{tt|吹き ''fuki''|blowing}}, and {{tt|虫 ''mushi''|bug}}
+|fr=Lépidonille |frmeaning=From ''{{wp|Lepidoptera|{{tt|lépidoptère|Lepidoptera, order of butterflies and moths}}}}'' and ''{{tt|chenille|caterpillar}}''
+|es=Scatterbug |esmeaning=Same as English name
+|de=Purmel |demeaning=From ''{{tt|Puder|powder}}'', ''{{tt|Wurm|worm}}'', and ''{{tt|Purzel|cute (little) fellow}}''
+|it=Scatterbug |itmeaning=Same as English name
+|ko=분이벌레 ''Bun'ibeolle''|komeaning=From {{tt|분 (粉) ''bun''|powder}}, {{tt|이 ''i''|diminutive suffix}}, and {{tt|벌레 ''beolle''|worm}}
+|zh_cmn=粉蝶蟲 / 粉蝶虫 ''Fěndiéchóng''{{tt|*|Games}}<br>粉蛹 ''Fěnyǒng''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|鱗粉 / 鳞粉 ''línfěn''|scale}}, {{tt|蝶 ''dié''|butterfly}}, and {{tt|蟲 / 虫 ''chóng''|bug}}<br>From {{tt|鱗粉 / 鳞粉 ''línfěn''|scale}} and {{tt|蛹 ''yǒng''|chrysalis}}
+|zh_yue=粉蝶蟲 ''Fándihpchùhng''{{tt|*|Games}}<br>粉蛹 ''Fányúng''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|鱗粉 ''lèuhnfán''|scale}}, {{tt|蝶 ''dihp''|butterfly}}, and {{tt|蟲 ''chùhng''|bug}}<br>From {{tt|鱗粉 ''lèuhnfán''|scale}} and {{tt|蛹 ''yúng''|chrysalis}}
+|hi=फैलाबग ''Failabug''|himeaning=From {{tt|फैलाना ''phailānā''|to spread}} and ''bug''
+|ru=Скаттербаг ''Skatterbag''|rumeaning=Transcription of English name
+|th=โคฟูคิมูชิ ''Khofukhimuchi''|thmeaning=Transcription of Japanese name
+}}
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0663|prev=Talonflame|nextnum=0665|next=Spewpa}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Purmel]]
+[[es:Scatterbug]]
+[[fr:Lépidonille]]
+[[it:Scatterbug]]
+[[ja:コフキムシ]]
+[[zh:粉蝶虫]]

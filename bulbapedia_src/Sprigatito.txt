@@ -1,0 +1,380 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Sprigatito}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0905|prev=Enamorus|nextnum=0907|next=Floragato|round=none}}
+{{PokémonPrevNext/Disambig|species=Sprigatito}}
+|}
+{{Pokémon Infobox
+|name=Sprigatito
+|jname=ニャオハ
+|tmname=Nyahoja
+|jtranslit=Nyaoha
+|ndex=0906
+|type1=Grass
+|category=Grass Cat
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=9.0
+|weight-kg=4.1
+|abilityn=1
+|ability1=Overgrow
+|ability2=
+|abilityd=Protean
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=1
+|expyield=62
+|lv100exp=1,059,860
+|gendercode=31
+|color=Green
+|catchrate=45
+|body=08
+|pokefordex=sprigatito
+|generation=9
+|friendship=50
+}}
+'''Sprigatito''' ([[List of Japanese Pokémon names|Japanese]]: '''ニャオハ''' ''Nyahoja'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Floragato}} starting at [[level]] 16, which evolves into {{p|Meowscarada}} starting at level 36.
+
+Along with {{p|Fuecoco}} and {{p|Quaxly}}, Sprigatito is one of the three [[Paldea first partner Pokémon|first partner Pokémon of Paldea]] available at the beginning of [[Pokémon Scarlet and Violet]]. They were also the first Generation IX Pokémon to be revealed to the public on February 27, 2022, through a [[Pokémon Presents]] video presentation.
+
+==Biology==
+[[File:Sprigatito aroma anime.png|250px|thumb|left|Sprigatito releasing aroma from its paws]]
+Sprigatito is a quadrupedal feline Pokémon covered in pale green fur. The fur's composition is similar to that of plants, allowing it to absorb sunlight for energy.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/sprigatito/ Sprigatito — Pokémon Scarlet and Pokémon Violet | Official Website]</ref> It has green ears with pale green insides, a tuft of fur on the front of its chest and a green marking around its pink eyes and nose that resemble leaves. When its mouth is open, two pointed teeth can be seen in its upper jaw. It has a fluffy tail and small paws with pink paw pads underneath and no visible toes.
+
+Sprigatito is capricious and attention-seeking, and it tends to sulk if ignored by people. Sprigatito can rub its paws together to unleash a sweet, therapeutic aroma that mesmerizes anyone near it and causes its foes to stop battling. The scent becomes more potent when Sprigatito is exposed to sunlight. Sprigatito can absorb moisture into its fur by grooming it, which helps it to perform photosynthesis.<ref name=SVsite /> It washes its face regularly to avoid drying out. As mentioned in the [[Sleep style|Sleep Style Dex]], Sprigatito can spread this scent around by moving around as it sleeps. It is believed Sprigatito does this to help itself and other Pokémon relax more easily.
+{{left clear}}
+
+===Evolution===
+Sprigatito evolves into {{p|Floragato}}, which evolves into {{p|Meowscarada}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Grass
+|no1=0906
+|name1=Sprigatito
+|type1-1=Grass
+|evo1=
+|no2=0907
+|name2=Floragato
+|type1-2=Grass
+|evo2=
+|no3=0908
+|name3=Meowscarada
+|type1-3=Grass
+|type2-3=Dark}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=1|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Sprigatito SV.png|x200px]]
+|-
+| Sprigatito in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=[[First partner Pokémon]] from [[Clavell]] in [[Cabo Poco]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Great 1)<br>[[Lapis Lakeside]], [[Old Gold Power Plant]], [[Greengrass Isle]]<sup>Expert</sup> (from Basic 1)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Egg event]] (''{{DL|Egg event|A Lively Trio!}}''): {{sync/player|egg|Sprigatito}}<br>{{DL|Special sync pair event|Clavell & Sprigatito|Special sync pair event}}: {{sync|Clavell|Sprigatito|Alt.}}<br>Six-Year Anniversary Event (''Terastal Festival''): {{sync|Juliana|Sprigatito}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Grass}}
+{{eventAvail|{{gameabbrev9|SV}}|Liko's Sprigatito|All|Online|5|March 15 to September 30, 2024|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Liko's Sprigatito}}
+|}
+
+=====In-game events=====
+{{eventAvail/h|type=Grass|lochide=yes}}
+{{eventAvail|{{gameabbrevss|HOME}}|HOME Hidden Ability Sprigatito|Worldwide|hide|5|May 30, 2023 onwards|link=List of game-based Pokémon distributions in Generation IX#Sprigatito}}
+|}
+
+<!--===Held items===-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|HP=40
+|Attack=61
+|Defense=54
+|SpAtk=45
+|SpDef=45
+|Speed=65
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Sprigatito|Grass|Grass|9}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Leafage|Grass|Physical|40|100|40||'''}}
+{{learnlist/level9|7|Bite|Dark|Physical|60|100|25||''}}
+{{learnlist/level9|10|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level9|13|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/level9|15|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|17|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|21|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/level9|25|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/level9|28|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level9|32|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|36|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/levelf/9|Sprigatito|Grass|Grass|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Sprigatito|Grass|Grass|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm9|TM019|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM146|Grass Pledge|Grass|Special|80|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM206|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/tmf/9|Sprigatito|Grass|Grass|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Sprigatito|Grass|Grass|9}}
+{{learnlist/breed9|{{MSP/H|0972|Houndstone}}{{tt|*|A wild Terastallized Houndstone in South Province (Area Five) knows this move.}}|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0448|Lucario}}|Copycat|Normal|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0470|Leafeon}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0650|Chespin}}{{MSP/H|0651|Quilladin}}{{MSP/H|0652|Chesnaught}}{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed9|{{MSP/H|0003|Venusaur}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0154|Meganium}}{{MSP/H|0192|Sunflora}}{{MSP/H|0754|Lurantis}}{{MSP/H|0764|Comfey}}{{MSP/H|0930|Arboliva}}|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/breed9|{{MSP/H|0050|Diglett}}{{MSP/H|0050|Diglett|form=-Alola}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051|Dugtrio|form=-Alola}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0289|Slaking}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0503|Samurott|form=-Hisui}}{{MSP/H|0677|Espurr}}{{MSP/H|0678|Meowstic}}{{MSP/H|0745|Lycanroc}}{{MSP/H|0745|Lycanroc|form=-Dusk}}{{MSP/H|0775|Komala}}{{MSP/H|0816|Sobble}}{{MSP/H|0817|Drizzile}}{{MSP/H|0818|Inteleon}}|Sucker Punch|Dark|Physical|70|100|5||''}}
+{{learnlist/breedf/9|Sprigatito|Grass|Grass|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/GO|col=6|type=Grass|ndex=0906
+|hatch=N/A
+|buddy=3
+|candy=Sprigatito
+|evocandy=25
+|stamina=120
+|attack=116
+|defense=99
+|fast={{m|Leafage}}, {{m|Charm}}
+|special={{m|Grass Knot}}, {{m|Play Rough}}, {{m|Energy Ball}}
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0906
+|sleeptype=Dozing
+|type=Grass
+|dexentry=The sweet scent its body gives off mesmerizes the people and Pokémon around it. Sprigatito spreads the scent around even during sleep by moving its body, presumably to help relax both itself and the Pokémon nearby.
+|sleepstyle1=Tucked Sleep
+|sleepstyle2=Kneading Sleep
+|sleepstyle3=Belly-Up Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=5
+|specialty=Ingredients
+|candyNum=40
+|pokemon=Sprigatito
+|evolution=Lv. 12
+|berry=Durin
+|ingredient1=Soft Potato
+|ingredient2=Moomoo Milk
+|ingredient3=Warming Ginger
+|carrylimit=10
+|skillname=Cooking Power-Up S
+|skilldesc=Gives your pot room for 7 more ingredients the next time you cook.
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Grass
+|no1=0906
+|name1=Sprigatito
+|type1-1=Grass
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 16}}
+|no2=0907
+|name2=Floragato
+|type1-2=Grass
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 36}}
+|no3=0908
+|name3=Meowscarada
+|type1-3=Grass
+|type2-3=Dark
+}}
+
+===Sprites===
+{{Spritebox/Header|type=grass}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0906}}-->
+{{Spritebox/HOME|ndex=0906}}
+{{Spritebox/Footer|906|Sprigatito}}
+
+==In animation==
+===Main series===
+[[File:Liko Sprigatito.png|thumb|250px|Sprigatito in {{aniseries|HZ}}]]
+====Major appearances====
+====[[Liko's Sprigatito]]====
+Sprigatito properly debuted in the main series in ''[[HZ001|The Pendant That Starts It All (Part One)]]'', as the [[first partner Pokémon]] that [[Liko]] obtained from the [[Indigo Academy]]. She evolved into {{p|Floragato}} in ''[[HZ045|From So Far Away]]'' and later into {{p|Meowscarada}} in ''[[HZ088|The Earthshaking White Zygarde]]''.
+
+====Minor appearances====
+A Sprigatito appeared in a [[Team Rocket Expedition which stands by the evils of love and truth|post-episode segment]] that aired with [[JN133]]. This is the first time a [[Generation IX]] Pokémon appeared in the animated series.
+
+Multiple Sprigatito appeared in ''[[HZ040|Farewell, Sprigatito?]]'' at [[Marnya's house]].
+
+A Student's Sprigatito appeared in [[HZ090]].
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ001|Sprigatito|Liko's Rotom Phone|Sprigatito, the Grass Cat Pokémon. A {{t|Grass}} type. With every step it takes, it releases a sweet scent, enchanting those nearby.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Paldean Winds===
+[[File:Aliquis Sprigatito.png|thumb|right|250px|Sprigatito in [[Pokémon: Paldean Winds]]]]
+====[[Aliquis's Sprigatito]]====
+A Sprigatito appeared in a flashback in ''[[PPW02|Breathe In]]'', under the ownership of [[Aliquis]].
+
+===Biri-Biri===
+A Sprigatito appeared in the music video for [[Biri-Biri]], under the ownership of [[Nemona]]. It fully evolved into a {{p|Meowscarada}}.
+{{-}}
+
+==In the manga==
+[[File:Scarlet Sprigatito.png|thumb|200px|Sprigatito in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Sprigatito debuted in the ''[[PASV06|Skillful! The Mysterious Treasure Hunter!!]]'', under the ownership of {{Scarlet}}. She received it from [[Clavell]], and it evolved in [[PASV12]].
+
+A Sprigatito appeared on a billboard in [[PASV11]].
+{{-}}
+
+==In the TCG==
+{{main|Sprigatito (TCG)}}
+==Trivia==
+* Although Sprigatito's Pokédex entries say that it emits a sweet scent, Sprigatito cannot learn the move {{m|Sweet Scent}}.
+
+===Origin===
+Sprigatito appears to be based on a {{wp|domestic long-haired cat|long-haired}} {{wp|kitten}}, or an {{wp|Iberian lynx}} kitten. Its tufts and collar may be inspired by the {{wp|jessant-de-lys}} {{wp|Charge (heraldry)|heraldic charge}}, which depicts a fleur-de-lys issuing out of the head a feline (known as leopard in heraldry).
+
+====Name origin====
+Sprigatito may be a combination of ''sprig'' and ''gatito'' (Spanish for kitten).
+
+Nyahoja may be a combination of ニャー ''nyā'' (the sound a cat makes) and ''hoja'' (Spanish for leaf). It may also involve 葉 ''ha'' (leaf).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=ニャオハ ''Nyahoja''|jameaning=From {{tt|ニャー ''nyā''|meow}}, ''{{tt|hoja|Spanish for leaf}}'', and {{tt|葉 ''ha''|leaf}}
+|fr=Poussacha|frmeaning= From ''{{tt|pousse|sprout}}'', ''{{tt|chat|cat}}'', and possibly ''{{tt|herbe à chat|catnip}}''
+|es=Sprigatito|esmeaning=Same as English name
+|de=Felori|demeaning= From ''{{tt|felis|Latin for cat}}'' and ''Flora''
+|it=Sprigatito|itmeaning=Same as English name
+|ko=나오하 ''Naoha''|komeaning=Transcription of Japanese name and {{tt|냐오 ''nyao''|meow}}
+|zh_cmn=新葉喵 / 新叶喵 ''Xīnyèmiāo''|zh_cmnmeaning=From {{tt|新 ''xīn''|new, fresh}}, {{tt|新芽 ''xīnyá''|sprout, bud}}, {{tt|葉 / 叶 ''yè''|leaf}}, and {{tt|喵 ''miāo''|meow}}
+|zh_yue=新葉喵 ''Sānyihpmīu''|zh_yuemeaning=From {{tt|新 ''sān''|new, fresh}}, {{tt|新芽 ''sānngaa''|sprout, bud}}, {{tt|葉 ''yihp''|leaf}}, and {{tt|喵 ''mīu''|meow}}
+|bn=স্পৃগেটিটো ''Sprigatito''|bnmeaning=Transcription of English name
+|hi=म्याओहा ''Myaoha''|himeaning=From ''meow'' and ニャオハ ''Nyahoja''
+|ta=ஸ்ப்ரிகாடிடொ ''Sprigatito''|tameaning=Transcription of English name
+|te= స్ప్రిగటిటో ''Sprigatito''|temeaning=Transcription of English name
+|th=เนียวฮะ ''Niaoha''|thmeaning=Transcription of Japanese name
+|ru=Спригатито ''Sprigatito''|rumeaning=Transcription of English name}}
+
+==See also==
+* [[Liko's Sprigatito]]
+* [[Aliquis's Sprigatito]]
+* [[Meowscarada (UNITE)]]
+* [[First partner Pokémon]]
+
+==References==
+<references/>
+
+==External links==
+* {{wp|Sprigatito, Floragato, and Meowscarada|Article on Wikipedia}}
+
+{{First partner trios|Grass}}{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0905|prev=Enamorus|nextnum=0907|next=Floragato}}
+|}
+{{Project Pokédex notice}}
+[[Category:First partner Pokémon|906]]
+
+[[de:Felori]]
+[[es:Sprigatito]]
+[[fr:Poussacha]]
+[[it:Sprigatito]]
+[[ja:ニャオハ]]
+[[zh:新叶喵]]

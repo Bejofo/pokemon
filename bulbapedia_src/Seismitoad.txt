@@ -1,0 +1,520 @@
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/GO|species=Seismitoad}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0536|prev=Palpitoad|nextnum=0538|next=Throh|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Seismitoad
+|jname=ガマゲロゲ
+|tmname=Gamageroge
+|category=Vibration
+|type1=Water
+|type2=Ground
+|abilitylayout=2
+|ability1=Swift Swim
+|ability2=Poison Touch
+|abilityd=Water Absorb
+|ndex=0537
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=136.7
+|weight-kg=62.0
+|egggroupn=1
+|egggroup1=Water 1
+|eggcycles=20
+|expyield=229<!--225 in Gen V-VI-->
+|lv100exp=1,059,860
+|gendercode=127
+|color=Blue
+|catchrate=45
+|evtotal=3
+|evhp=3
+|body=12
+|pokefordex=seismitoad
+|generation=5
+|friendship=70
+}}
+'''Seismitoad''' ([[List of Japanese Pokémon names|Japanese]]: '''ガマゲロゲ''' ''Gamageroge'') is a dual-type {{2t|Water|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Palpitoad}} starting at [[level]] 36. It is the final form of {{p|Tympole}}.
+
+==Biology==
+Seismitoad is a bulky, aquamarine-blue, bipedal toad-like {{OBP|Pokémon|species}}. Its underside and the bumps found on various parts of its body are cyan with thick black edges. Its hands and feet have three bulbous digits. Additionally, Seismitoad has red eyes, cyan adornments on its legs, and a long tongue.
+
+The various lumps on its body have varying capabilities. The ones on its head can shoot a paralyzing liquid, while the ones on its hands can be vibrated to increase its punching power. It can also vibrate the lumps as a source of torment for its opponents, or use them to create earthquake-like tremors. Seismitoad is popular among the elderly, who use the lumps' vibrations for massages. Seismitoad is known to wield venom, and is related to {{p|Croagunk}} and {{p|Toxicroak}}.
+
+===Evolution===
+Seismitoad evolves from {{p|Palpitoad}} and is the final form of {{p|Tympole}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-3
+|pictype=art
+|type=Water
+|no1=0535
+|name1=Tympole
+|type1-1=Water
+|evo1=
+|no2=0536
+|name2=Palpitoad
+|type1-2=Water
+|type2-2=Ground
+|evo2=
+|no3=0537
+|name3=Seismitoad
+|type1-3=Water
+|type2-3=Ground}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Ground}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=043|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=230|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.}}
+{{Dex/Entry1|v=White|entry=It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=By putting power into its bumps, it creates vibrations and increases the power of its punches.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=134|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and {{p|Croagunk}} are similar species.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|8|Unova}}, [[Icirrus City]], [[Moor of Icirrus]] ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|8|Unova}}, [[Icirrus City]], [[Moor of Icirrus]] ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})<br>[[Pinwheel Forest]] (outer; {{DL|Phenomenon|rustling grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Palpitoad}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Palpitoad}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|7|Galar}}, [[Axew's Eye]], [[Lake of Outrage]]<br>[[Rolling Fields/Dens|Rolling Fields]], [[West Lake Axewell/Dens|West Lake Axewell]], [[South Lake Miloch/Dens|South Lake Miloch]], [[North Lake Miloch/Dens|North Lake Miloch]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Shimmering Lake]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Ochre Quarry]] (1F-13F), [[Freezing Pillar]] (1F-14F), [[Windy Shoreline]] (1F-11F), [[Silent Tundra]] (Uncharted Road, Gilded Hall), [[Dreamy Island]] (Uncharted Road, Gilded Hall), [[Moonlit Forest]] (Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#The Sword for Justice|Toy Collection: The Sword for Justice]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Wednesday Stage 3|Safari Jungle: Stage 3]]{{dotw|We}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Soothing Shore|Black Realm: Soothing Shore]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zapdos Sea]], [[Castform Sea]], [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 292]]<br>[[Marron Trail|Marron Trail: Stage 657]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Clay|Palpitoad}}<br>[[Trainer Lodge]] Friendship Level 100: {{sync|Leon|Seismitoad}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Water|type2=Ground}}
+{{HeldItems/Games2|Black|White|tcolor1=fff|Pokémon Black and White Versions}}
+{{HeldItems/Items1|Persim Berry|50}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|Pokémon Black and White Versions 2}}
+{{HeldItems/Items1|Pecha Berry|50}}
+|}
+
+===Stats===
+====Base stats====
+======Generation V======
+{{BaseStats
+|type=Water
+|type2=Ground
+|HP=105
+|Attack=85
+|Defense=75
+|SpAtk=85
+|SpDef=75
+|Speed=74}}
+
+======Generation VI onward======
+{{BaseStats
+|type=Water
+|type2=Ground
+|HP=105
+|Attack=95
+|Defense=75
+|SpAtk=85
+|SpDef=75
+|Speed=74}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Ground
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=100
+|Grass=400
+|Electric=0
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|waterabsorb=maybe
+|ground=yes
+|newelectric=2}}
+
+===Learnset===
+Seismitoad is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Seismitoad|Water|Ground|5}}
+{{learnlist/level8|1|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/level8|1|Gastro Acid|Poison|Status|—|100|10}}
+{{learnlist/level8|1|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|1|Acid|Poison|Special|40|100|30}}
+{{learnlist/level8|1|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/level8|12|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/level8|16|Round|Normal|Special|60|100|15}}
+{{learnlist/level8|20|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level8|24|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level8|30|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level8|39|Aqua Ring|Water|Status|—|—|20}}
+{{learnlist/level8|46|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/level8|54|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/level8|62|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level8|70|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/8|Seismitoad|Water|Ground|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Seismitoad|Water|Ground|5}}
+{{learnlist/tm8|TM00|Mega Punch|Normal|Physical|80|85|20}}
+{{learnlist/tm8|TM01|Mega Kick|Normal|Physical|120|75|5}}
+{{learnlist/tm8|TM04|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM43|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm8|TM45|Dive|Water|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM46|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM52|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM59|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm8|TM63|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm8|TM74|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm8|TM98|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tr|TR07|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tr|TR10|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tr|TR45|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/tr|TR57|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tr|TR64|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tr|TR67|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tr|TR72|Power Whip|Grass|Physical|120|85|10}}
+{{learnlist/tr|TR76|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR78|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tr|TR84|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tr|TR91|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/tr|TR98|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tmf/8|Seismitoad|Water|Ground|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Seismitoad|Water|Ground|5}}
+{{learnlist/breed8|{{MSP/8c|131|Lapras}}{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}{{MSP/8c|270|Lotad}}{{MSP/8c|271|Lombre}}{{MSP/8c|272|Ludicolo}}{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|875|Eiscue}}|Mist|Ice|Status|—|—|30}}
+{{learnlist/breed8|{{MSP/8c|422|Shellos}}{{MSP/8c|423|Gastrodon}}{{MSP/8c|618|Stunfisk}}{{MSP/8c|618G|Stunfisk}}|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/breed8|{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}{{MSP/8c|690|Skrelp}}{{MSP/8c|691|Dragalge}}{{MSP/8c|747|Mareanie}}{{MSP/8c|748|Toxapex}}{{MSP/8c|771|Pyukumuku}}|Toxic|Poison|Status|—|90|10}}
+{{learnlist/breed8|{{MSP/8c|007|Squirtle}}{{MSP/8c|008|Wartortle}}{{MSP/8c|009|Blastoise}}{{MSP/8c|054|Psyduck}}{{MSP/8c|055|Golduck}}{{MSP/8c|079|Slowpoke}}{{MSP/8c|079G|Slowpoke}}{{MSP/8c|080|Slowbro}}{{MSP/8c|080G|Slowbro}}{{MSP/8c|199|Slowking}}{{MSP/8c|199G|Slowking}}{{MSP/8c|131|Lapras}}{{MSP/8c|223|Remoraid}}{{MSP/8c|224|Octillery}}{{MSP/8c|226|Mantine}}{{MSP/8c|258|Mudkip}}{{MSP/8c|259|Marshtomp}}{{MSP/8c|260|Swampert}}{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|350|Milotic}}{{MSP/8c|422|Shellos}}{{MSP/8c|423|Gastrodon}}{{MSP/8c|690|Skrelp}}{{MSP/8c|691|Dragalge}}{{MSP/8c|692|Clauncher}}{{MSP/8c|693|Clawitzer}}{{MSP/8c|816|Sobble}}{{MSP/8c|817|Drizzile}}{{MSP/8c|818|Inteleon}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breedf/8|Seismitoad|Water|Ground|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Seismitoad|Water|Ground|5}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Seismitoad|Water|Ground|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Seismitoad|Water|Ground|5}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Seismitoad|Water|Ground|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Seismitoad|Water|Ground|5}}
+{{learnlist/prevgen8|Seismitoad|5|After You|Normal|Status|—|—|15|VI=yes<!--breed,tutor-->|VII=yes<!--breed,tutor-->}}
+{{learnlist/prevgen8|Seismitoad|5|Bubble|Water|Special|40|100|30||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Seismitoad|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Seismitoad|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Seismitoad|5|Endeavor|Normal|Physical|—|100|5|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Seismitoad|5|Focus Punch|Fighting|Physical|150|100|20|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Seismitoad|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Seismitoad|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Seismitoad|5|Infestation|Bug|Special|20|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Seismitoad|5|Knock Off|Dark|Physical|65|100|20|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Seismitoad|5|Mud Bomb|Ground|Special|65|85|10||'''|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Seismitoad|5|Mud Sport|Ground|Status|—|—|15|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Seismitoad|5|Power-Up Punch|Fighting|Physical|40|100|20|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Seismitoad|5|Refresh|Normal|Status|—|—|20|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Seismitoad|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Seismitoad|5|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Seismitoad|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Seismitoad|5|Strength|Normal|Physical|80|100|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Seismitoad|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Seismitoad|Water|Ground|5}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Ground}}
+{{Spindata/PSMD|col=6|type=Water|ndex=537
+|coset=12
+|conto={{p|Tympole}}
+|recruitment=Raise the {{DL|Rank (Mystery Dungeon)|Expedition Rank}} to Gold
+|P1=I'm vibrating the bumps on my head! Can you feel it?
+|P2=Do I have the strength to stand back up?
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=537
+|walk=1.42
+|hp=60
+|attack=79
+|defense=54
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=537
+|strong=[[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=It's difficult to tell what he is thinking about. He is incredibly popular among {{p|Tympole}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=537
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=537|num=405
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Last-Ditch Effort
+|skilldesc=Increases damage when things are looking desperate.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=537
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=233
+|attack=188
+|defense=150
+|fast={{m|Mud Shot}}, {{m|Bubble}}
+|special={{m|Muddy Water}}, {{m|Earth Power}}, {{m|Sludge Bomb}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|pictype=art
+|type=Water
+|no1=0535
+|name1=Tympole
+|type1-1=Water
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 25}}
+|no2=0536
+|name2=Palpitoad
+|type1-2=Water
+|type2-2=Ground
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 36}}
+|no3=0537
+|name3=Seismitoad
+|type1-3=Water
+|type2-3=Ground
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Ground}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=537}}
+{{Spritebox/6|ndex=537|crop=96}}
+{{Spritebox/7|ndex=537|crop=95}}
+{{Spritebox/8|ndex=537}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0537}}
+{{Spritebox/Footer|537|Seismitoad}}
+
+==In animation==
+===Main series===
+[[File:Edmund Seismitoad.png|thumb|250px|Seismitoad in {{aniseries|BW}}]]
+====Major appearances====
+Seismitoad made its animated series debut in ''[[BW065|Battling the Bully!]]''. It was a Pokémon owned by [[Sean]]'s father, who loaned it to his son and [[Glenn]] to use in a {{pkmn|battle}} with {{OBP|Mick|BW065}}. However, it and the {{p|Scolipede}} that Sean's father also loaned to the pair lost to [[Ash's Pikachu]] and the {{AP|Sunglasses Krokorok|Krokorok}} while under Mick's control.
+
+In ''[[BW070|The Clubsplosion Begins!]]'', [[Edmund]]'s Seismitoad battled [[Stephan's Sawk]] during the [[Clubsplosion]] tournament. It nearly gained the upper hand because of its {{a|Swift Swim}} [[Ability]]. However, Seismitoad ultimately lost after Sawk's {{m|Low Sweep}} injured its leg, slowing it down.
+
+In ''[[SM120|The One That Didn't Get Away!]]'', [[Hunter D]]'s Seismitoad tried to prevent {{an|Lana}} from curing a {{p|Kyogre}} of its {{status|poison}}, but it was soon defeated.
+
+A Seismitoad appeared in ''[[JN081|Mad About Blue!]]'', under the ownership of [[Bluto]].
+
+====Minor appearances====
+Seismitoad debuted in the opening sequence of [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']].
+
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', the {{OBP|Swords of Justice|M15}} legend featured a Seismitoad.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', a Seismitoad was living at [[Pokémon Hills]].
+
+A Seismitoad appeared in a fantasy or a flashback in ''[[BW134|The Journalist from Another Region!]]''.
+
+A Seismitoad appeared in ''[[JN072|Everybody's Doing the Underground Shuffle!]]''. [[Goh]] encountered it in a sewer and fought it to {{pkmn2|caught|catch}} it, but it managed to swim away before he could do so.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW065|Seismitoad|Ash's Pokédex|Seismitoad, the Vibration Pokémon and the evolved form of Palpitoad. By vibrating the bumps on its fists, Seismitoad increases its power, pulverizing a boulder with a single punch.}}
+{{Animedexfooter/Pokémon|Unova}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN072|Seismitoad|Goh's Rotom Phone|Seismitoad, the Vibration Pokémon. A {{t|Water}} and {{t|Ground}} type. Seismitoad vibrates the bumps on its body to create earthquake-like shaking.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Generations===
+[[File:Team Plasma Mandibuzz Seismitoad PG.png|thumb|250px|Seismitoad in [[Pokémon Generations]]]]
+In ''[[PG13|The Uprising]]'', {{tc|Team Plasma Grunt}}s used multiple Seismitoad to battle [[Iris]] and the [[Unova]] [[Gym Leader]]s at [[N's Castle]].
+{{-}}
+
+==In the manga==
+[[File:Ghetsis Seismitoad Adventures.png|thumb|200px|Seismitoad in [[Pokémon Adventures]]]]
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Seismitoad appeared in ''[[FAT2|The King's Identity...!!]]'', under the ownership of [[Togari]]. It was used in a {{pkmn|battle}} against {{OBP|Shin|FAT}} in [[Dragonspiral Tower]].
+
+===Pokémon Adventures===
+A {{pkmn|Trainer}}'s Seismitoad appeared in ''[[PS512|Hallway Hijinks]]''.
+
+[[Ghetsis]] used a Seismitoad in ''[[PS521|Triple Threat]]''.
+{{-}}
+
+==In the TCG==
+{{main|Seismitoad (TCG)}}
+
+==Trivia==
+* Seismitoad and its {{p|Palpitoad|pre-evolved form}} share their {{pkmn|category}} with {{p|Vibrava}}. They are all known as the Vibration Pokémon.
+* Since Generation VI, Seismitoad is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 509.
+* Seismitoad is the only non-{{type|Poison}} Pokémon that can legitimately have the [[Ability]] {{a|Poison Touch}}.
+
+===Origin===
+According to interviews with [[Ken Sugimori]] in ''Nintendo Dream'', Seismitoad is based on a {{wp|Japanese common toad}}. Although the team had previously created Pokémon based on frogs with the Poliwag line, Sugimori wished to go for a more "traditional frog-like Evolution" in this instance.<ref name=ND204>''Nintendo Dream'' Vol. 204, April 2011 ([https://web.archive.org/web/20110704155314/http://shellspider.blog101.fc2.com/blog-entry-502.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream-6/ Translation by Dr. Lava])</ref> The lumps on its body may be inspired by the "warts" found on most toads (known as {{wp|parotoid gland}}s), combined with {{wp|loudspeaker}} {{wp|electrodynamic speaker driver|drivers}}. This connection between frogs and loudspeakers may stem from the croaking behavior seen with male frogs, which do so to attract mates. Inspiration may also come from the {{wp|common Surinam toad}}, an aquatic amphibian whose back is covered in pockets that hold its eggs.
+
+Seismitoad being able to secrete a paralyzing liquid from its head bumps may be inspired by the {{wp|Physalaemus nattereri|Cuyaba dwarf frog}}, which has large bumps resembling eyes on its rear that can emit a poisonous secretion when threatened. Seismitoad's ability to use vibrations to enhance its punches and cause tremors may reference the phenomenon of {{wp|resonance}} and {{wp|Mechanical resonance#Resonance disaster|resonance disaster}}s.
+
+====Name origin====
+Seismitoad may be a combination of ''seismic'' and ''toad''.
+
+Gamageroge may be a combination of 蟇 ''gama'' (toad) and ゲロゲロ ''gerogero'' (onomatopoeia for frog croaking).
+
+==In other languages==
+{{Other languages|type=Water|type2=Ground
+|ja=ガマゲロゲ ''Gamageroge''|jameaning=From {{tt|蟇 ''gama''|toad}} and {{tt|ゲロゲロ ''gerogero''|onomatopoeia for croaking}}
+|fr=Crapustule|frmeaning=From ''{{tt|crapaud|toad}}'' and ''{{wp|pustule}}''
+|es=Seismitoad|esmeaning=Same as English name
+|de=Branawarz|demeaning=From ''{{tt|Membran|membrane}}'', ''{{wp|Rana (genus)|Rana}}'', and ''{{tt|Warze|wart}}''
+|it=Seismitoad|itmeaning=Same as English name
+|ko=두빅굴 ''Dubiggul''|komeaning=From {{tt|두꺼비 ''dukkeobi''|toad}}, ''big'', and {{tt|개굴개굴 ''gaegul-gaegul''|onomatopoeia for croaking}}
+|zh_cmn=蟾蜍王 ''Chánchúwáng''|zh_cmnmeaning=From {{tt|蟾蜍 ''chánchú''|toad}} and {{tt|王 ''wáng''|king}}
+|zh_yue=蟾蜍王 ''Sìhmsyùhwòhng''|zh_yuemeaning=From {{tt|蟾蜍 ''sìhmsyùh''|toad}} and {{tt|王 ''wòhng''|king}}
+|hi=टरट्रोडार ''Tartrodaar''|himeaning=From {{tt|टर्र ''tarr''|onomotopeia for frog's croaking}} and ''toad''
+|ru=Сейсмитоуд ''Seysmitoud''|rumeaning=Transcription of English name
+|th=กามาเกโรเกะ ''Kamakeroke''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0536|prev=Palpitoad|nextnum=0538|next=Throh}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Branawarz]]
+[[es:Seismitoad]]
+[[fr:Crapustule]]
+[[it:Seismitoad]]
+[[ja:ガマゲロゲ]]
+[[zh:蟾蜍王]]

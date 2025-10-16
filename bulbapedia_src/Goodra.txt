@@ -1,0 +1,689 @@
+{{PokémonPrevNext/Head|type=Dragon}}
+{{PokémonPrevNext/GO|species=Goodra}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=0705|prev=Sliggoo|nextnum=0707|next=Klefki|round=none}}
+{{PokémonPrevNext/Disambig|species=Goodra}}
+|}
+{{Pokémon Infobox
+|name=Goodra
+|jname=ヌメルゴン
+|jtranslit=Numerugon
+|tmname=Numelgon
+|ndex=0706
+|forme=2
+|form1=Goodra
+|form2=Hisuian Goodra
+|image2=0706Goodra-Hisui.png
+|category={{tt|Dragon|Goodra}} Pokémon<br/>{{tt|Shell Bunker|Hisuian Goodra}}
+|type1=Dragon
+|form2type1=Steel
+|form2type2=Dragon
+|abilityn=2d
+|abilitylayout=2+1
+|abilitycold=2
+|ability1=Sap Sipper
+|ability2=Hydration
+|ability2-1=Sap Sipper
+|ability2-2=Shell Armor
+|abilityd=Gooey
+|height-ftin=6'07"
+|height-m=2.0
+|height-ftin2=5'07"
+|height-m2=1.7
+|weight-lbs=331.8
+|weight-kg=150.5
+|weight-lbs2=736.6
+|weight-kg2=334.1
+|egggroupn=1
+|egggroup1=Dragon
+|gendercode=127
+|eggcycles=40
+|evtotal=3
+|evsd=3
+|expyield=270
+|lv100exp=1,250,000
+|color=Purple
+|catchrate=45
+|body=06
+|pokefordex=goodra
+|generation=6
+|friendship=35
+}}
+'''Goodra''' ([[List of Japanese Pokémon names|Japanese]]: '''ヌメルゴン''' ''Numelgon'') is a {{type|Dragon}} [[pseudo-legendary Pokémon]] introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Sliggoo}} starting at level 50 when leveled up during [[rain]] in the overworld. It is the final form of {{p|Goomy}}.
+
+In [[Hisui]], Goodra has a dual-type {{2t|Steel|Dragon}} [[regional form]]. It evolves from {{rf|Hisuian}} Sliggoo starting at level 50 during rain in the overworld. It is the final form of Goomy in the Hisui region.
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+Goodra is a bipedal, draconic {{OBP|Pokémon|species}} that is coated with slime. Most of its body is pale purple with a darker purple underside. It has bright green eyes, two green spots on each cheek, a relatively long neck, and a short, rounded snout. On top of its head are two pairs of antenna-like horns. The foremost horns are small nubs, but the hind horns are longer, thicker, and curve down its neck. The tips of the larger horns are slightly curled. It has proportionally short limbs with two digits each and a large, thick tail with a curled tip. Along each side of its tail are three green spots. A pale green slime is usually visible dripping from its chin and arms. It is known for having a great affinity for water, being able to live within water with no difficulty at all, as well as dive and surf all around the area.
+
+Because of its meek, friendly nature, Goodra is often teased for supposed weakness. Goodra is known to be very friendly. When it grows close to someone, it will hug them and leave them coated in slime. If it is left alone, it will ooze gooey tears. Goodra usually misunderstands instructions, appearing dazed or bewildered. Despite this, many Trainers don't mind it, instead finding this behavior to be adorable. However, it will strike at its tormentors with its retractable horns and powerful tail. Goodra can become uncontrollable once enraged. The horns can hit 100 times harder than the blow of a heavyweight boxer. It is also capable of throwing punches with incredible force. Its slimy coating in combination with a layer of fat causes attacks to slide off. Goodra lives in plains and mountains, usually during rainy days.
+
+Prior to [[Generation IX]], Goodra and its pre-evolved forms were the [[Signature Ability|only known Pokémon]] that could have {{a|Gooey}} as an [[Ability]].
+
+===Forms===
+Goodra has an ancient [[regional form]]: Hisuian Goodra.
+
+Hisuian Goodra has droopy, gray eyes as well as a thinner body and legs. Its horns are longer and thinner than Kalosian Goodra's horns. It sports a large, spiral-shaped metallic shell on its back, which it can tuck its body into to protect itself, leaving only its head outside of the shell to observe its surroundings. It can control the hardness of its shell at will. It has fewer gray spots than Kalosian Goodra, with one on each side of its cheek and two on each side of its shell. From its chin and arms drips a metallic gray slime. Hisuian Goodra has a clingy disposition and hates being alone; it will become angry and run riot if its closest companions leave its side.
+
+Hisuian Goodra and its pre-evolved forms are the [[signature move|only known Pokémon]] capable of learning the move {{m|Shelter}}.
+
+===Evolution===
+Goodra evolves from {{p|Sliggoo}} and is the final form of {{p|Goomy}}.
+
+In [[Hisui]], Goodra has a [[regional form]] that evolves from {{rf|Hisuian}} Sliggoo and is the final form of Goomy in the Hisui region.
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/2branch1
+|type1=Dragon
+|no1=0704
+|name1=Goomy
+|type1-1=Dragon
+|evo1a=
+|no2a=0705
+|name2a=Sliggoo
+|type1-2a=Dragon
+|evo1b=
+|art2b=0705Sliggoo-Hisui
+|name2b=Sliggoo
+|type1-2b=Steel
+|type2-2b=Dragon
+|form2b=Hisuian Form
+|evo2a=
+|evo2b=
+|no3a=0706
+|name3a=Goodra
+|type1-3a=Dragon
+|art3b=0706Goodra-Hisui
+|name3b=Goodra
+|type1-3b=Steel
+|type2-3b=Dragon
+|form3b=Hisuian Form
+}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dragon}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=021|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=180|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=219|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=An amazingly friendly Pokémon, but if left to itself, loneliness overcomes it, and it oozes gooey tears.}}
+{{Dex/Entry1|v=Moon|entry=It gets picked on because it's meek. But then, whoever teased it gets to feel the full force of its horns and a good swatting from its thick tail.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It's very friendly toward people. If you grow close to it, Goodra will hug you with its sticky, slime-covered body. Don't get mad.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Underneath its slimy skin is a thick layer of fat, and the combination of the two makes enemies' attacks slide right off.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=391|reg2=Galar|label2=Isle of Armor|num2=062|reg3=Sinnoh|reg4=Hisui|num4=117}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond and Shining Pearl]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don't mind, finding this behavior to be adorable.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.}}
+{{Dex/Form|Hisuian Goodra}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=174|reg2=Kitakami|num2=180|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=It loves the rain. This mellow Pokémon can be seen walking around on the plains and in the mountains on rainy days.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon is uncontrollable when enraged. It rampages on and on, lashing its tail with enough power to send a dump truck flying.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{dragon color dark}}; background:#{{dragon color}}; font-size:80%; border-radius: 10px"
+|-
+| style="{{roundy|20px}} border:2px solid #{{dragon color dark}}; background:#{{dragon color light}}| [[File:Pokédex Image Goodra SM.png|x200px]]
+|style="border:2px solid #{{dragon color light}}; background:#{{dragon color light}} | [[File:Pokédex Image Goodra SV.png|x200px]]
+|style="border:2px solid #{{dragon color light}}; background:#{{dragon color light}} | [[File:Pokédex Image Goodra SV Kitakami.png|x200px]]
+|-
+| Goodra in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Goodra in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Goodra in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Sliggoo}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Sliggoo}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Sliggoo}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1/None|v=Sword}}
+{{Availability/Entry1|v=Shield|t=FFF|area=[[Axew's Eye/Dens|Axew's Eye]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|color={{shield color dark}}|v=Shield Expansion Pass|t=fff|link=Pokémon Sword and Shield Expansion Pass|area=[[Loop Lagoon/Dens|Loop Lagoon]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' [[Lake Verity]]&nbsp;[[File:Alpha icon.png|link=Alpha Pokémon|14px]] (only [[List of in-game event Pokémon in Pokémon Legends: Arceus#Goodra|one]] during [[Task (Legends: Arceus)|Mission]] 14) <small>('''Hisuian Form''')</small><br>'''[[Crimson Mirelands]]:''' massive [[mass outbreak]]s <small>('''Hisuian Form''')</small><br>'''[[Coronet Highlands]]:''' near [[Ancient Quarry]]&nbsp;[[File:Alpha icon.png|link=Alpha Pokémon|14px]] <small>('''Hisuian Form''')</small><br>Unobtainable <small>('''Kalosian Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Paldea)|Goodra|5★}}, {{DL|List of 6★ Tera Raid Battles (Paldea)|Goodra|6★}}) <small>('''Kalosian Form''')</small><br>{{g|HOME}}, [[Evolution|Evolve]] {{rf|Hisuian}} {{p|Sliggoo}} <small> ('''Hisuian Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Sliggoo}} <small>('''Kalosian Form''')</small> <br> [[Evolution|Evolve]] {{rf|Hisuian}} {{p|Sliggoo}} <small> ('''Hisuian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 4|Mountain of Order: Stage 4]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Forgotten Forest|Dark Land: Forgotten Forest]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 27|Area 27: Stage 02]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zygarde Sea]], [[Greninja Sea]], [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Outaway Cave]]<sup><span style="color:#53349C;">Level 3</span></sup>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX30]]}}
+{{Availability/Entry1|1|v=UNITE|t=FFF|color={{violet color}}|area=Purchase for 12,000 Aeos Coins/575 Aeos Gems}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+====Hisuian Goodra====
+{{HeldItems/header|type=Steel|type2=Dragon}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Springy Mushroom|35|Ball of Mud|15|Exp. Candy L|100|Seed of Mastery|40}}
+|}
+
+===Stats===
+====Base stats====
+=====Goodra=====
+{{Stats
+|type=Dragon
+|HP=90
+|Attack=100
+|Defense=70
+|SpAtk=110
+|SpDef=150
+|Speed=80
+}}
+
+=====Hisuian Goodra=====
+{{BaseStats
+|type=Steel
+|type2=Dragon
+|HP=     80
+|Attack= 100
+|Defense= 100
+|SpAtk= 110
+|SpDef= 150
+|Speed= 60}}
+
+===Type effectiveness===
+=====Goodra=====
+{{TypeEffectiveness
+|type1=Dragon
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=50
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=200
+|Dark=100
+|Fairy=200
+|notes=yes
+|sapsipper=maybe
+}}
+
+=====Hisuian Goodra=====
+{{TypeEffectiveness
+|type1=Steel
+|type2=Dragon
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|steel=yes
+|newpoison=1
+|sapsipper=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Goodra=====
+{{learnlist/levelh/9|Goodra|Dragon|Dragon|6}}
+{{learnlist/level9|1|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/level9|1|Poison Tail|Poison|Physical|50|100|25}}
+{{learnlist/level9|1|Tearful Look|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25}}
+{{learnlist/level9|1|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Aqua Tail|Water|Physical|90|90|10}}
+{{learnlist/level9|15|Protect|Normal|Status|—|—|10}}
+{{learnlist/level9|20|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level9|25|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/level9|30|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level9|43|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level9|49|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level9|58|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/level9|67|Power Whip|Grass|Physical|120|85|10}}
+{{learnlist/levelf/9|Goodra|Dragon|Dragon|6}}
+
+=====Hisuian Goodra=====
+{{learnlist/levelh/9|Goodra|Steel|Dragon|8}}
+{{learnlist/level9|1|Shelter|Steel|Status|—|—|10}}
+{{learnlist/level9|1|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/level9|1|Tearful Look|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25}}
+{{learnlist/level9|1|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Iron Tail|Steel|Physical|100|75|15||'''}}
+{{learnlist/level9|15|Protect|Normal|Status|—|—|10}}
+{{learnlist/level9|20|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level9|25|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/level9|30|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level9|35|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level9|43|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level9|49|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level9|49|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level9|58|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/level9|67|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/levelf/9|Goodra|Steel|Dragon|8}}
+
+====By [[TM]]====
+=====Goodra=====
+{{learnlist/tmh/9|Goodra|Dragon|Dragon|6}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM026|Poison Tail|Poison|Physical|50|100|25}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM044|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM078|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM188|Scald|Water|Special|80|100|15}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM209|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM222|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM226|Dragon Cheer|Dragon|Status|—|—|15}}
+{{learnlist/tmf/9|Goodra|Dragon|Dragon|6}}
+
+=====Hisuian Goodra=====
+{{learnlist/tmh/9|Goodra|Steel|Dragon|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM044|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM078|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15}}
+{{learnlist/tm9|TM124|Ice Spinner|Ice|Physical|80|100|15}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5}}
+{{learnlist/tm9|TM209|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM222|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM226|Dragon Cheer|Dragon|Status|—|—|15}}
+{{learnlist/tmf/9|Goodra|Steel|Dragon|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Goodra|Dragon|Dragon|6}}
+{{learnlist/breed9|{{MSP/H|0004|Charmander}}{{MSP/H|0559|Scraggy}}{{MSP/H|0610|Axew}}|Counter|Fighting|Physical|—|100|20|*|grid=2}}
+{{learnlist/breed9|{{MSP/H|0350|Milotic}}|Life Dew|Water|Status|—|—|10|grid=2}}
+{{learnlist/breedf/9|Goodra|Dragon|Dragon|6}}
+
+====By a prior [[Evolution]]====
+=====Goodra=====
+{{learnlist/prevoh/9|Goodra|Dragon|Dragon|6}}
+{{learnlist/prevo9|0705|Sliggoo|||||Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/prevof/9|Goodra|Dragon|Dragon|6}}
+
+=====Hisuian Goodra=====
+{{learnlist/prevoh/9|Goodra|Steel|Dragon|8}}
+{{learnlist/prevo9|0705-Hisui|Sliggoo|||||Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/prevof/9|Goodra|Steel|Dragon|8}}
+
+===Side game data===
+====Goodra====
+{{Spindata/Head|type=Dragon}}
+{{Spindata/PSMD|col=6|type=Dragon|ndex=706
+|coset=5
+|conto={{p|Purrloin}}
+|recruitment=Raise the {{DL|Rank (Mystery Dungeon)|Expedition Rank}} to Bronze
+|P1=Who's next? Whoever it is, I'll make you slimy!
+|P2=Nooo! My poor skin's losing its lovely slime!
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Dragon|ndex=706
+|walk=1.42
+|hp=57
+|attack=83
+|defense=61
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Dragon|ndex=706
+|power=3
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Dragon|ndex=706|num=290
+|min=80
+|max=115
+|raisemaxlevel=5
+|skill=Eject+
+|skilldesc=Sometimes removes three non-Support Pokémon icons.
+|swapper=Unity Power
+}}
+|-
+{{Spindata/GO|col=6|type=Dragon|ndex=706
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=207
+|attack=220
+|defense=242
+|fast={{m|Dragon Breath}}, {{m|Water Gun}}
+|special={{m|Draco Meteor}}, {{m|Power Whip}}, {{m|Sludge Wave}}, {{m|Muddy Water}}, {{m|Aqua Tail}}{{tt|*|From March 1, 2024 onward}}, {{m|Thunder Punch}}{{tt|†|Event-exclusive from Goomy Community Day }}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Dragon|ndex=706|pdex=196
+|dex=[[Professor Mirror|I]] suspect the Goodra in [[Outaway Cave|the cave]] lives near water so it can moisten up its protective goo when it needs to. Goodra are very kindhearted and do their best to protect other Pokémon.}}
+|}
+
+====Hisuian Goodra====
+{{Spindata/Head|type=Steel|type2=Dragon}}
+{{Spindata/GO|col=6|type=Steel|ndex=0706H
+|hatch=N/A
+|buddy=5
+|candy=Goomy
+|evolution=N/A
+|stamina=190
+|attack=211
+|defense=255
+|fast=
+|special=
+}}
+|}
+
+===Evolution data===
+Goodra [[Evolution|evolves]] from {{p|Sliggoo}} starting at [[level]] 50 when leveled up during [[rain]] in the overworld. In [[Generation VII]] only, Sliggoo will also evolve when leveled up during [[fog]] in the overworld. Rain instigated by {{m|Rain Dance}}, {{a|Drizzle}}, or {{a|Primordial Sea}} will not trigger Sliggoo's Evolution. It is the final form of {{p|Goomy}}.
+
+In [[Hisui]], Goodra has a dual-type {{2t|Steel|Dragon}} [[regional form]]. It evolves from Hisuian Sliggoo starting at level 50 during rain in the overworld. It is the final form of Goomy in the Hisui region. All Goomy in Hisui will evolve into Hisuian Sliggoo regardless of their [[game of origin]].
+{{Evobox/2branch1
+|type1=Dragon
+|no1=0704
+|name1=Goomy
+|type1-1=Dragon
+|evo1a={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}<br>outside of {{color2|000|Hisui}}
+|no2a=0705
+|name2a=Sliggoo
+|type1-2a=Dragon
+|evo1b={{Bag/s|Rare Candy|SV}} + [[File:Hisui Ribbon IX.png|40px|link=Hisui]]<br>{{color2|000|Level|Level 40}}<br>in {{color2|000|Hisui}}
+|art2b=0705Sliggoo-Hisui
+|name2b=Sliggoo
+|type1-2b=Steel
+|type2-2b=Dragon
+|form2b=Hisuian Form
+|evo2a={{Bag/s|Rare Candy|SV}} + [[File:Rain icon SwSh.png|40px]]<br>{{color2|000|Level|Level 50}}<br><small>(during {{color2|000|rain}})</small>
+|evo2b={{Bag/s|Rare Candy|SV}} + [[File:Rain icon SwSh.png|40px]]<br>{{color2|000|Level|Level 50}}<br><small>(during {{color2|000|rain}})</small>
+|no3a=0706
+|name3a=Goodra
+|type1-3a=Dragon
+|art3b=0706Goodra-Hisui
+|name3b=Goodra
+|type1-3b=Steel
+|type2-3b=Dragon
+|form3b=Hisuian Form
+}}
+
+===Sprites===
+{{Spritebox/Header|type=dragon}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=706|crop=102}}
+{{Spritebox/7|ndex=706|crop=101}}
+{{Spritebox/8/LAForm|ndex=706|form1=H|LAcrop=158}}
+<!--{{Spritebox/9/2Forms|ndex=0706|form1=H}}-->
+{{Spritebox/HOME/2Forms|ndex=0706|form1=H}}
+{{Spritebox/Footer|706|Goodra}}
+
+==In animation==
+===Main series===
+[[File:Raihan Goodra.png|thumb|250px|Goodra in {{aniseries|JN}}]]
+====Major appearances====
+=====[[Ash's Goodra]]=====
+{{Ash}}'s Sliggoo [[Evolution|evolved]] into a Goodra in ''[[XY065|Good Friends, Great Training!]]'', using {{m|Rain Dance}} to trigger its Evolution. Ash {{pkmn2|released}} it in ''[[XY070|Beyond the Rainbow!]]'', but it rejoined Ash's [[party]] for the [[Lumiose Conference]] in ''[[XY126|Valuable Experience for All!]]''. It was released again in ''[[XY139|Facing the Needs of the Many!]]''.
+
+=====Other=====
+In ''[[JN109|Aim For The Eight!]]'', [[Raihan]] used his Goodra to battle Ash's [[Gigantamax]] {{AP|Gengar}} during their [[World Coronation Series]] battle, resulting a double [[Fainting|knockout]] between the two.
+
+In ''[[JN122|It's... Champion Time!]]'', [[Diantha]]'s Goodra was seen during her and {{an|Leon}}'s [[Masters Eight Tournament]] battle.
+
+====Minor appearances====
+A Goodra appeared in a fantasy in ''[[JN065|Thrash of the Titans!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY065|Goodra|Ash's Pokédex|Goodra, the Dragon Pokémon and the evolved form of {{p|Sliggoo}}. Goodra is very friendly, and one of its hugs can cover its Trainer with a sticky slime.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+===Pokémon: Twilight Wings===
+[[File:Raihan Goodra TW.png|thumb|250px|Goodra in [[Pokémon: Twilight Wings]]]]
+In ''[[TW07|Sky]]'', [[Raihan]]'s Goodra battled [[Leon]]'s {{p|Aegislash}}.
+{{-}}
+
+==In the manga==
+[[File:Zinnia Goodra Adventures.png|thumb|left|200px|Goodra in [[Pokémon Adventures]]]]
+[[File:Goodra ANN.png|thumb|200px|Goodra in [[After the Rain, Goomy.]]]]
+===Pocket Monsters XY: The Legend of the Pokémon Dragon King===
+A Goodra appeared in [[LDK4]].
+
+A Goodra appeared in [[LDK5]].
+
+===Pokémon Adventures===
+In ''[[PS600|Gorebyss Changes Color]]'', a Goodra was seen as a silhouette during {{Steven}}'s explanation about the [[Draconid people]].
+
+In ''[[PS604|Goodra Spits]]'', [[Zinnia]] used a Goodra during her raid on [[Sea Mauville]]. It was also used later to attack the [[Mossdeep Space Center]].
+
+[[Raihan]] owns a Goodra, which first appeared in ''[[PASS17|Stealth!! Infiltrate the Energy Plant]]''. It was used to help Raihan sneak into the [[Energy Plant]].
+
+===After the Rain, Goomy.===
+A Goodra is the main character of the manga. It started off as a {{p|Goomy}}, and later evolved into {{p|Sliggoo}} and then into Goodra.
+{{-}}
+
+==In the TCG==
+{{main|Goodra (TCG)}}
+
+==Other appearances==
+[[File:UNITE Goodra.png|200px|thumb|Goodra in Pokémon UNITE]]
+===[[Pokémon UNITE]]===
+{{main|Goodra (UNITE)}}
+Goodra is playable through obtaining a Unite License. It is a melee defender that starts as Goomy and evolves into Sliggoo at level 5, which evolves into Goodra at level 8.
+{{-}}
+
+==Trivia==
+* Goodra is the only [[pseudo-legendary Pokémon]]:
+** to have an Evolution method requiring more than just leveling up.
+** to have a [[regional form]].
+* Kalosian Goodra is the only pseudo-legendary Pokémon to be pure-type.
+* Every one of Kalosian Goodra's base stats are exactly double those of {{p|Goomy}}, with Kalosian {{p|Sliggoo}}'s being halfway in between (rounded up).
+* Kalosian Goodra shares its {{pkmn|category}} with the {{p|Horsea}} and {{p|Dratini}} evolutionary lines, along with {{p|Salamence}}. They are all known as the Dragon Pokémon.
+* Kalosian Goodra was designed by [[Saya Tsuruta]].<ref>[https://twitter.com/saya_tsuruta/status/1405666612103901188 Saya Tsuruta's Twitter account. Posted on June 18, 2020.]</ref>
+* Hisuian Goodra is tied with {{p|Registeel}} and {{p|Probopass}} for the highest base {{stat|Special Defense}} stat of all {{type|Steel}} {{OBP|Pokémon|species}}.
+* In [[Pokémon Legends: Arceus]]'s internal code, Hisuian Goodra's secondary Ability is {{a|Overcoat}} instead of {{a|Shell Armor}}.
+* Goodra and {{p|Hydreigon}} are the only pseudo-legendary Pokémon with a higher Special Attack stat than Physical.
+** Goodra has the lowest Attack stat of all pseudo-legendary Pokémon.
+* Goodra is the first pseudo-legendary Pokémon to not be immune to any types through ordinary type match-ups. However, if its Ability is {{a|Sap Sipper}}, that would give it immunity to {{t|Grass}}-type moves.
+* Goodra's 150 base Special Defense stat is the highest single base stat of any non–[[Mega Evolution|Mega Evolved]] pseudo-legendary Pokémon.
+* Hisuian Goodra and its pre-Evolution are the only regional forms currently unavailable in {{g|GO}}.
+
+===Origin===
+Goodra, due to its {{t|Dragon}} type, elongated body shape, and retractable tentacles used for battling is probably based on {{wp|Lou Carcolh}}, a mythical serpent/mollusk creature from French folklore.
+
+Like its pre-evolved forms, it could also be based on soft-bodied gastropods, such as {{wp|slug}}s and {{wp|nudibranch}}; in particular, the {{wp|Glaucus atlanticus|"blue dragon" sea slug}}; Goodra's Pokédex entry may be a reference to slug's retractable eyes, which retract when they are in danger.
+
+Alternatively, it could be based on the {{wp|yōkai}} called {{jwp|出世螺|Shussebora}}, meaning "ascended trumpet shell", which is a {{wp|Triton's trumpet|trumpet shell snail}} that lives 1000 years in the mountains, 1000 on the plains, and 1000 at sea, then will ascend and turn into a dragon.
+
+Hisuian Goodra is likely based on a {{wp|snail}}. Its metallic shell in particular may be based on the {{wp|scaly-foot gastropod}}, a species of deep-sea snail unique for its shell, which consists of iron sulfide compounds. The brown color of its [[Shiny]] variant's shell may reference how metal {{wp|rust}}s when exposed to water for too long. Its Pokédex entry may be a reference to [[wp:Mercury_(element)|mercury]]. Mercury has historically been used to treat various disorders including melancholy in ancient Greece and Medieval Europe<ref>https://www.psychologytoday.com/us/blog/psychiatry-a-history/202304/heavy-metal-blues-the-history-of-medicinal-mercury</ref>. However, it is actually a deadly neurotoxin which with repeated exposure will cause various physical and mental disorders overtime. While {{p|Sliggoo}}'s entry mentions melancholy implying mild exposure, Goodra appears to have progressed to full mood disorder. Alternatively, this mood could reflect a pun with the Japanese word 湿っぽい ''(shimeppoi)'', which can mean "gloomy, melancholic", but also "humid, damp", as a reference to the evolutionary line's usual habitat.  
+
+====Name origin====
+Goodra may be a combination of ''goo'' and ''dragon'' or ''Hydra''. It may also be an inversion of ''{{wp|Dragoon}}''. It may also derive from ''good'', referring to its kindly nature as opposed to the more violent dispositions of other pseudo-legendary Pokémon.
+
+Numelgon may be a combination of 滑る ''numeru'' (to be slippery), ''gel'', and ''dragon''.
+
+==In other languages==
+{{Other languages|type=dragon|type2=dragon
+|ja=ヌメルゴン ''Numelgon''|jameaning=From {{tt|滑る ''numeru''|to be slippery}}, ''gel'', and ''dragon''
+|fr=Muplodocus|frmeaning=From ''{{wp|mucus}}'' and ''{{wp|Diplodocus}}''
+|es=Goodra|esmeaning=Same as English name
+|de=Viscogon|demeaning=From ''{{tt|viskos|viscous}}'' and ''dragon''
+|it=Goodra|itmeaning=Same as English name
+|ko=미끄래곤 ''Mikkeuragon''|komeaning=From {{tt|미끄럽다 ''mikkeureopda''|to be slippery}} and ''dragon''
+|zh_cmn=黏美龍 / 黏美龙 ''Niánměilóng''{{tt|*|Games}}<br>黏美露龍 ''Niánměilùlóng''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|黏 ''nián''|sticky}}, {{tt|美 ''měi''|beautiful}}, and {{tt|龍 / 龙 ''lóng''|dragon}}<br>From {{tt|黏 ''nián''|sticky}}, {{tt|美 ''měi''|beautiful}}, {{tt|露 ''lù''|dew}}, and {{tt|龍 ''lóng''|dragon}}
+|zh_yue=黏美龍 ''Nìhmméihlùhng''|zh_yuemeaning=From {{tt|黏 ''nìhm''|sticky}}, {{tt|美 ''méi''|beautiful}}, and {{tt|龍 ''lùhng''|dragon}}
+|hi=लिसलीगॉन ''Lissleegon''|himeaning=Suffix of ''dragon''
+|ru=Гудра ''Gudra''|rumeaning=Transcriptionof English name
+|th=นูเมลกอน ''Numenkon''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Ash's Goodra]]
+* [[Goodra (UNITE)]]
+==References==
+<references />
+==External links==
+{{Hisuian forms}}
+{{Pseudo-legendary Pokémon}}{{PokémonPrevNext/Head|type=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=0705|prev=Sliggoo|nextnum=0707|next=Klefki}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Viscogon]]
+[[es:Goodra]]
+[[fr:Muplodocus]]
+[[it:Goodra]]
+[[ja:ヌメルゴン]]
+[[zh:黏美龙]]

@@ -1,0 +1,309 @@
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/GO|species=Cetoddle}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=0973|prev=Flamigo|nextnum=0975|next=Cetitan|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Cetoddle
+|jname=アルクジラ
+|tmname=Arukujira
+|ndex=0974
+|type1=Ice
+|category=Terra Whale
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=99.2
+|weight-kg=45.0
+|abilityn=2
+|ability1=Thick Fat
+|ability2=Snow Cloak
+|abilityd=Sheer Force
+|egggroupn=1
+|egggroup1=Field
+|egggroup2=
+|eggcycles=25
+|evtotal=1
+|evhp=1
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=67
+|lv100exp=1059860
+|gendercode=127
+|color=White
+|catchrate=150
+|body=06
+|pokefordex=cetoddle
+|generation=9
+|friendship=50
+}}
+'''Cetoddle''' ([[List of Japanese Pokémon names|Japanese]]: '''アルクジラ''' ''Arukujira'') is an {{type|Ice}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Cetitan}} when exposed to an [[Ice Stone]].
+
+==Biology==
+Cetoddle is a white round {{wp|cetacean}} Pokémon with large eyes, a large curved mouth, long fin-like forelimbs, a large tail, and two stubby legs. There are pink accents around its eyes, on its hands, below its feet, and on its tail; and it has a single horn on its forehead. When Cetoddle opens its mouth, a single rounded tooth can be seen on its lower jaw.
+
+Cetoddle is thought to be a close relative of {{p|Wailmer}}. However, unlike Wailmer, who once lived on land before becoming a sea-dwelling species, Cetoddle used to live in the ocean a long time ago, before it migrated onto land. Cetoddle live in cold regions, in pods consisting of around five individuals. It loves minerals found in snow and ice.
+
+Cetoddle and its evolved form, {{p|Cetitan}}, are the only known Pokémon capable of learning the move {{m|Ice Spinner}} by leveling up.
+
+===Evolution===
+Cetoddle evolves into {{p|Cetitan}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Ice
+|pictype=art
+|no1=0974
+|name1=Cetoddle
+|type1-1=Ice
+|evo1=
+|no2=975
+|name2=Cetitan
+|type1-2=Ice}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ice}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=361|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This species left the ocean and began living on land a very long time ago. It seems to be closely related to {{p|Wailmer}}.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ice color dark}}; background:#{{ice color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{ice color light}}; background:#{{ice color light}} | [[File:Pokédex Image Cetoddle SV.png|x200px]]
+|-
+| Cetoddle in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[West Province (Area Three)|Area Three]]<br>North Province: [[Dalizapa Passage]], [[Glaseado Mountain]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Cetoddle|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Ice
+|HP=108
+|Attack=68
+|Defense=45
+|SpAtk=30
+|SpDef=40
+|Speed=43
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=200
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|thickfat=maybe
+|newfire=1
+|newice=¼
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Cetoddle|Ice|Ice|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level9|6|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|9|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/level9|12|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/level9|15|Rest|Psychic|Status|—|—|5}}
+{{learnlist/level9|19|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|25|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level9|27|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/level9|31|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/level9|36|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level9|40|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/level9|44|Ice Spinner|Ice|Physical|80|100|15||'''}}
+{{learnlist/level9|49|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|53|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/levelf/9|Cetoddle|Ice|Ice|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Cetoddle|Ice|Ice|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM010|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/tm9|TM046|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/tm9|TM124|Ice Spinner|Ice|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tm9|TM187|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Cetoddle|Ice|Ice|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Cetoddle|Ice|Ice|9}}
+{{learnlist/breed9|{{MSP/H|0335|Zangoose}}|Belly Drum|Normal|Status|—|—|10|grid=7}}
+{{learnlist/breed9|{{MSP/H|0702|Dedenne}}{{MSP/H|0921|Pawmi}}{{MSP/H|0922|Pawmo}}{{MSP/H|0923|Pawmot}}|Entrainment|Normal|Status|—|100|15|grid=7}}
+{{learnlist/breed9|{{MSP/H|0028-Alola|Sandshrew}}{{MSP/H|0614|Beartic}}|Icicle Crash|Ice|Physical|85|90|10||'''|grid=7}}
+{{learnlist/breed9|{{MSP/H|0614|Beartic}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0878|Cufant}}{{MSP/H|0879|Copperajah}}|Superpower|Fighting|Physical|120|100|5|grid=7}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0775|Komala}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{tt|*|Skeledirge learns Yawn on its own only Version 2.0.1 onwards}}|Yawn|Normal|Status|—|—|10|grid=7}}
+{{learnlist/breedf/9|Cetoddle|Ice|Ice|9}}
+
+===Side game data===
+{{Spindata/Head|type=Ice}}
+{{Spindata/GO|col=6|type=Ice|ndex=0974
+|hatch=N/A
+|buddy=3
+|candy=Cetoddle
+|evocandy=50
+|stamina=239
+|attack=119
+|defense=80
+|fast={{m|Ice Shard}}, {{m|Tackle}}, {{m|Powder Snow}}{{tt|*|From June 3, 2024 onward}}
+|special={{m|Body Slam}}, {{m|Avalanche}}, {{m|Heavy Slam}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Ice
+|pictype=art
+|no1=0974
+|name1=Cetoddle
+|type1-1=Ice
+|evo1={{Bag/s|Ice Stone|SV}}<br>{{color2|000|Ice Stone}}
+|no2=975
+|name2=Cetitan
+|type1-2=Ice}}
+
+===Sprites===
+{{Spritebox/Header|type=ice}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0974}}-->
+{{Spritebox/HOME|ndex=0974}}
+{{Spritebox/Footer|974|Cetoddle}}
+
+==In animation==
+[[File:Grusha Cetoddle.png|thumb|250px|Cetoddle in {{aniseries|HZ}}]]
+[[File:Cetoddle Paldean Winds.png|thumb|left|250px|Cetoddle in [[Pokémon: Paldean Winds]]]]
+===Main series===
+====Major appearances====
+A group of Cetoddle appeared in ''[[HZ063|Ice Battle! Cold-Eyed Grusha]]'' being rode on by tourists at a snowboarding event, thus marking the species' debut. Another Cetoddle owned by [[Grusha]] appeared soon after.
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ063|Cetoddle|Dot's Rotom Phone|Cetoddle, the Terra Whale Pokémon. An {{t|Ice}} type. This species left the ocean and began living on land a very long time ago. It lives in frigid regions in pods of five or so individuals.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Paldean Winds===
+Two {{pkmn2|wild}} Cetoddle appeared in ''[[PPW01|Breathe Out]]''. They briefly reappeared in ''[[PPW04|Breathe Together]]'', during [[Ohara]], [[Aliquis]], and [[Hohma]]'s video presentation about [[Naranja Academy]].
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Cetoddle (TCG)}}
+
+==Trivia==
+* Cetoddle and its Evolution were designed by [[Yusuke Kozaki]].<ref>[https://twitter.com/kymg/status/1612716767444631552 Tweet by コザキユースケ/Yusuke Kozaki (@kymg).] Posted on January 10, 2023.</ref>
+
+===Origin===
+Cetoddle appears to be based on various {{wp|Arctic}} cetaceans. Its general appearance and shape may be based on the {{wp|bowhead whale}} (also known as the polar whale or the icewhale), its white coloration and large head may be inspired by the {{wp|beluga}}, and its singular horn may draw inspiration from the {{wp|narwhal}}. It also appears to be based on toddlers.
+
+Cetoddle's history of migrating from the ocean and adapting to living on land is an inverse of {{wp|Evolution of cetaceans|how cetaceans evolved in real life}}, as they started out as land animals that migrated into and adapted in the water.
+
+====Name origin====
+Cetoddle may be a combination of ''{{wp|Cetacea|cetacean}}'' or ''{{wp|Cetus (mythology)|Cetus}}'' (a sea monster in Greek mythology whose name became the etymology for the word ''cetacean'') and ''toddle'' (to walk unsteadily) or ''toddler''.
+
+Arukujira may be a combination of 歩く ''aruku'' (to walk) and 鯨 ''kujira'' (whale).
+
+==In other languages==
+{{Other languages|type=Ice|type2=Ice
+|ja=アルクジラ ''Arukujira''|jameaning=From {{tt|歩く ''aruku''|to walk}} and {{tt|鯨 ''kujira''|whale}}
+|fr=Piétacé|frmeaning=From ''{{tt|pied|foot}}'' and ''{{tt|cétacé|cetacean}}''
+|es=Cetoddle|esmeaning=Same as English name
+|de=Flaniwal|demeaning=From ''{{tt|flanieren|to stroll}}'' and ''{{tt|Wal|whale}}''
+|it=Cetoddle|itmeaning=Same as English name
+|ko=터벅고래 ''Teobeokgorae''|komeaning=From {{tt|터벅거리다 ''teobeokgeorida''|to totter}} and {{tt|고래 ''gorae''|whale}}
+|zh_cmn=走鯨 / 走鲸 ''Zǒujīng''|zh_cmnmeaning=From {{tt|走 ''zǒu''|to walk}} and {{tt|鯨 / 鲸 ''jīng''|whale}}
+|zh_yue=走鯨 ''Jáukìhng''|zh_yuemeaning=From {{tt|走 ''jáu''|to run}} and {{tt|鯨 ''kìhng''|whale}}
+|hi=वॉकीवेल ''Walkywhale''|himeaning=From ''walk'' and ''whale''
+|th=อารุคุจิระ ''Arukhuchira''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=0973|prev=Flamigo|nextnum=0975|next=Cetitan}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve using Ice Stone]]
+[[Category:Pokémon that evolve by Evolution stone]]
+
+[[de:Flaniwal]]
+[[es:Cetoddle]]
+[[fr:Piétacé]]
+[[it:Cetoddle]]
+[[ja:アルクジラ]]
+[[zh:走鲸]]

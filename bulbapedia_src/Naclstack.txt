@@ -1,0 +1,316 @@
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/GO|species=Naclstack}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0932|prev=Nacli|nextnum=0934|next=Garganacl|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Naclstack
+|jname=ジオヅム
+|jtranslit=Jiodzumu
+|tmname=Jiodumu
+|ndex=0933
+|type1=Rock
+|category=Rock Salt
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=231.5
+|weight-kg=105
+|abilityn=2
+|ability1=Purifying Salt
+|ability2=Sturdy
+|abilityd=Clear Body
+|egggroupn=1
+|egggroup1=Mineral
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=2
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=124
+|lv100exp=1059860
+|gendercode=127
+|color=Brown
+|catchrate=120
+|body=08
+|pokefordex=naclstack
+|generation=9
+|friendship=50
+}}
+'''Naclstack''' ([[List of Japanese Pokémon names|Japanese]]: '''ジオヅム''' ''Jiodumu'') is a {{type|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Nacli}} starting at [[level]] 24 and evolves into {{p|Garganacl}} starting at level 38.
+
+==Biology==
+Naclstack is a quadrupedal Pokémon whose body is made of rock salt. Its cubic head is white with a few cracks and two eyes in the shape of right angles. Each of the eyes are orange in color with yellow squares at their centers, and they can glow an orange-red. The head is connected to Naclstack's body; the upper half of the body consists of a brown cuboid stone at the front and a rugged, dark brown rock dotted with salt at the back, while the lower body is a single white cuboid. Naclstack's body doesn't connect to its legs and floats in place relative to them. The legs themselves are cube-shaped, with light brown on top and white at the bottom. Each of the cubes have a small brown stone on one of their corners, which seem to act as claws for the Pokémon.
+
+Naclstack attacks by pressing the rock salt inside its body into hardened pellets, which it then shoots out with enough force to puncture an iron sheet. Naclstack also uses its salt to dry out and cure its prey. Naclstack leaves behind bits of salt on its footprints as it walks; these salt grains are gathered by people and [[Salt|used as seasoning]] for [[sandwich]]es.
+
+Naclstack and its evolved form, {{p|Garganacl}}, are the [[signature move|only known Pokémon]] capable of learning the move {{m|Salt Cure}}. Naclstack and its evolutionary relatives are also the [[Signature Ability|only known Pokémon]] that can have {{a|Purifying Salt}} as an [[Ability]].
+
+===Evolution===
+Naclstack evolves from {{p|Nacli}} and evolves into {{p|Garganacl}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|pictype=art
+|type1=Rock
+|no1=0932
+|name1=Nacli
+|type1-1=Rock
+|evo1=
+|no2=0933
+|name2=Naclstack
+|type1-2=Rock
+|evo2=
+|no3=0934
+|name3=Garganacl
+|type1-3=Rock}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=130|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{rock color dark}}; background:#{{rock color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{rock color light}}; background:#{{rock color light}} | [[File:Pokédex Image Naclstack SV.png|x200px]]
+|-
+| Naclstack in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Six)|Area Six]]<br>West Province: [[West Province (Area Three)|Area Three]]<br>West Province: [[West Province (Area Two)|Area Two]] ({{t|Ghost}} {{Tera}} [[Type]])<br>North Province: [[North Province (Area One)|Area One]], [[North Province (Area Two)|Area Two]], [[North Province (Area Three)|Area Three]], [[Casseroya Lake]], [[Glaseado Mountain]]<br>[[Area Zero]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Naclstack|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Rock
+|HP=60
+|Attack=60
+|Defense=100
+|SpAtk=35
+|SpDef=65
+|Speed=35
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=200
+|Grass=200
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|purifyingsalt=maybe
+|newghost=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Naclstack|Rock|Rock|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Salt Cure|Rock|Physical|40|100|15||'''}}
+{{learnlist/level9|5|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level9|7|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/level9|10|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level9|13|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/level9|16|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|20|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level9|30|Recover|Normal|Status|—|—|5}}
+{{learnlist/level9|34|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level9|38|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level9|41|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/level9|45|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/level9|51|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/levelf/9|Naclstack|Rock|Rock|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Naclstack|Rock|Rock|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM101|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM220|Meteor Beam|Rock|Special|120|90|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Naclstack|Rock|Rock|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Naclstack|Rock|Rock|9}}
+{{learnlist/breed9|{{MSP/H|0837|Rolycoly}}{{MSP/H|0838|Carkol}}{{MSP/H|0839|Coalossal}}{{MSP/H|0969|Glimmet}}{{MSP/H|0970|Glimmora}}|Ancient Power|Rock|Special|60|100|5||'''|grid=5}}
+{{learnlist/breed9|{{MSP/H|0712|Bergmite}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713|Avalugg|form=-Hisui}}|Curse|Ghost|Status|—|—|10|grid=5}}
+{{learnlist/breed9|{{MSP/H|0878|Cufant}}|Fissure|Ground|Physical|—|30|5|*|grid=5}}
+{{learnlist/breed9|{{MSP/H|0299|Nosepass}}{{MSP/H|0476|Probopass}}{{MSP/H|0969|Glimmet}}{{MSP/H|0970|Glimmora}}|Power Gem|Rock|Special|80|100|20||'''|grid=5}}
+{{learnlist/breedf/9|Naclstack|Rock|Rock|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Naclstack|Rock|Rock|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Naclstack|Rock|Rock|9}}
+
+====Special moves====
+{{learnlist/eventh/9|Naclstack|Rock|Rock|9}}
+{{learnlist/event9|[[West Province (Area Two)|Wild Tera Pokémon]]|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/event9|[[West Province (Area Two)|Wild Tera Pokémon]]|Curse|Ghost|Status|—|—|10}}
+{{learnlist/event9|[[West Province (Area Two)|Wild Tera Pokémon]]<sup>Lv.&nbsp;33</sup>|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/eventf/9|Naclstack|Rock|Rock|9}}
+
+===Side game data===
+{{Spindata/Head|type=Rock}}
+{{Spindata/GO
+| col = 6
+| type = Rock
+| ndex = 0933
+| hatch = N/A
+| buddy = 5
+| candy = Nacli
+| evocandy = 100
+| stamina = 155
+| attack = 105
+| defense = 160
+| fast = {{m|Smack Down}}, {{m|Mud Shot}}
+| special = {{m|Rock Blast}}, {{m|Rock Tomb}}, {{m|Ancient Power}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|pictype=art
+|type1=Rock
+|no1=0932
+|name1=Nacli
+|type1-1=Rock
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 24}}
+|no2=0933
+|name2=Naclstack
+|type1-2=Rock
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 38}}
+|no3=0934
+|name3=Garganacl
+|type1-3=Rock
+}}
+
+===Sprites===
+{{Spritebox/Header|type=rock}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0933}}-->
+{{Spritebox/HOME|ndex=0933}}
+{{Spritebox/Footer|933|Naclstack}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+==In the TCG==
+{{main|Naclstack (TCG)}}
+
+==Trivia==
+* Naclstack's evolutionary line was designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/1604786117487853568 Hitoshi Ariga on Twitter]</ref>
+* Due to a duplicated entry in the spawner data in Pokémon Scarlet and Violet, Naclstack effectively has twice its programmed spawn weight; making the Pokémon more common than intended.
+* Naclstack is the only Pokémon whose Japanese name contains the uncommon {{wp|yotsugana}} ヅ (''du'' or ''zu'').
+** Similarly, {{p|Charjabug}}'s Japanese name (デンヂムシ ''Dendimushi'') is the only one that contains the uncommon yotsugana ヂ (''di'' or ''ji'').
+
+===Origin===
+<!--Do NOT add the Minecraft as possible origins. Specific copyright characters must NOT be used. Also, the designer has already given a definite origin.-->
+Naclstack is based on {{wp|Halite|rock salt}} crystals and {{wp|Sedimentary rock|sedimentary layers}} of bedrock.<ref>[https://twitter.com/ariga_megamix/status/1605483704565895170 Hitoshi Ariga on Twitter]</ref> Its shape resembles a quadrupedal animal.  It may be loosely inspired by ancient {{wp|Iberian sculpture}}s like the {{wp|Bicha of Balazote}} or the {{wp|Sphinx of Agost}}, or the {{wp|verraco}} granite sculptures. It may also be based on a {{wp|ziggurat}} or a pyramid under construction. Naclstack's front body composition appears to be inspired by {{wp|voxel}} artwork. Its glowing eyes may be based on {{wp|Salt lamp|Himalayan salt lamps}}.
+
+====Name origin====
+Naclstack may be a combination of ''NaCl'' (chemical formula for {{wp|sodium chloride}}; table salt) and ''stack'', possibly in reference to {{wp|dry stone|dry stack}} (method of stone structure building that doesn't use mortar).
+
+Jiodumu may be a combination of 塩 ''shio'' (salt), ''geo-'' (prefix for earth) or ''{{wp|geode}}'', and 積む ''tsumu'' (to stack).
+
+==In other languages==
+{{Other languages|type=Rock|type2=Rock
+|ja=ジオヅム ''Jiodumu''|jameaning=From {{tt|塩 ''shio''|salt}}, ''{{tt|geo-|prefix for earth}}'' or ''{{wp|geode}}'', and {{tt|積む ''tsumu''|stack}}
+|fr=Amassel|frmeaning=From ''{{tt|amas|stack}}'' and ''{{tt|sel|salt}}''
+|es=Naclstack|esmeaning=Same as English name
+|de=Sedisal|demeaning=From ''Sediment'' and ''{{tt|Salz|salt}}''
+|it=Naclstack|itmeaning=Same as English name
+|ko=스태솔트 ''Seutaesolteu''|komeaning=From ''stack'' and ''salt''
+|zh_cmn=鹽石壘 / 盐石垒 ''Yánshílěi''|zh_cmnmeaning=From {{tt|石鹽 / 石盐 ''shíyán''|rock salt}} and {{tt|壘 / 垒 ''lěi''|to pile}}
+|zh_yue=鹽石壘 ''Yìhmsehkléuih''|zh_yuemeaning=From {{tt|石鹽 ''sehkyìhm''|rock salt}} and {{tt|壘 ''léuih''|to pile}}
+|hi=सॉल्टाडेर ''Saltader''|himeaning=From ''salt'' and {{tt|ढेर ''ḍher''|pile/heap/stack}}
+|th=จีโอซึมู ''Chi-osuemu''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0932|prev=Nacli|nextnum=0934|next=Garganacl}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Sedisal]]
+[[es:Naclstack]]
+[[fr:Amassel]]
+[[it:Naclstack]]
+[[ja:ジオヅム]]
+[[zh:盐石垒]]

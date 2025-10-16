@@ -1,0 +1,431 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Sinistcha}}
+{{PokémonPrevNext/Pokémon|type=Grass|type2=Ghost|prevnum=1012|prev=Poltchageist|nextnum=1014|next=Okidogi|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Sinistcha
+|jname=ヤバソチャ
+|tmname=Yabasocha
+|forme=3
+|form2=Unremarkable Form
+|form3=Masterpiece Form
+|image2=HOME1013 b.png
+|image3=HOME1013M b.png
+|ndex=1013
+|type1=Grass
+|type2=Ghost
+|category=Matcha
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=4.9
+|weight-kg=2.2
+|abilitylayout=2
+|ability1=Hospitality
+|abilityd=Heatproof
+|egggroupn=2
+|egggroup1=Mineral
+|egggroup2=Amorphous
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=178
+|lv100exp=1,000,000
+|gendercode=255
+|color=Green
+|catchrate=60
+|body=01
+|pokefordex=sinistcha
+|generation=9
+|friendship=50
+}}
+'''Sinistcha''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤバソチャ''' ''Yabasocha'') is a dual-type {{2t|Grass|Ghost}} {{OBP|Pokémon|species}} introduced during [[Generation IX]], in [[The Teal Mask]].
+
+It [[Evolution|evolves]] from {{p|Poltchageist}} when exposed to an [[Unremarkable Teacup]] or a [[Masterpiece Teacup]], depending on Poltchageist's {{fd|Poltchageist|form}}. Sinistcha's [[#Form data|form]] is determined by the form it was as a Poltchageist.
+* '''Counterfeit Form''' Poltchageist (lacks a stamp of authenticity) requires an [[Unremarkable Teacup]] to evolve into '''Unremarkable Form''' Sinistcha.
+* '''Artisan Form''' Poltchageist (has a stamp of authenticity) requires a [[Masterpiece Teacup]] to evolve into '''Masterpiece Form''' Sinistcha.
+
+It is [[Ecologically similar Pokémon|ecologically similar]] to {{p|Polteageist}}; however, the two are separate species.
+
+==Biology==
+Sinistcha is a Pokémon made of {{wp|matcha}} tea. As such, its main body is entirely green, except for its mouth and swirly eyes, which are yellow in color. Its arms are thin and its hands have three digits, and it has two small legs. It inhabits a 茶碗 ''{{wp|chawan}}'', a tea bowl used in the traditional Japanese tea ceremony. The ''chawan'' it inhabits is black and white, with a few cracks sealed with green all over it, and a swirling, face-like pattern on its side. Atop its head, Sinistcha wears a 茶筅 ''{{wp|Japanese tea utensils#Whisks|chasen}}'' (a bamboo whisk used to prepare and stir matcha tea)<ref name=SVsite/>, which is broken and missing a few of its teeth. Despite appearances, Sinistcha is not biologically related to {{p|Polteageist}}.
+
+Sinistcha lives in cool, dark areas such as the back of a shelf or beneath a house's floorboards. In the past, Sinistcha would sneak into houses and pretend to be tea in order to trick people into drinking it, so it can absorb their life force. However, because the ''chawan'' Sinistcha inhabits had fallen out of use, this act became largely unsuccessful. In recent times, instead of sneaking into houses, Sinistcha roams towns and suburbs in search of prey. It is generally active after sunset, and will attack anything that approaches it with a life-force-draining splash of tea. In order to prepare itself for battle, Sinistcha builds up its energy by using the ''chasen'' on its head to stir itself.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/sinistcha/ Sinistcha — Pokémon Scarlet and Pokémon Violet | Official Website]</ref>
+
+Sinistcha is the [[Signature move|only known Pokémon]] capable of learning the move {{m|Matcha Gotcha}}. Additionally, Sinistcha and its pre-evolved form, {{p|Poltchageist}}, are the [[Signature Ability|only known Pokémon]] that can have {{a|Hospitality}} as an [[Ability]].
+
+===Forms===
+Sinistcha has two separate forms: Unremarkable Form and Masterpiece Form. Telling either of these forms apart requires careful inspection; a Masterpiece Form Sinistcha bears a stamp of authenticity on the base of its chawan, while an Unremarkable Form Sinistcha lacks it.
+
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{grass color}}; {{roundy|10px}} border: 3px solid #{{ghost color dark}}"
+|-
+| Unremarkable Form
+|-
+| style="{{roundy|96px}} border: 2px solid #{{ghost color dark}}; background: #{{grass color light}}; width:96px; height:96px"| [[File:1013Sinistcha-Unremarkable Dream.png|100px]]
+|}
+|
+{| style="background: #{{grass color}}; {{roundy|10px}} border: 3px solid #{{ghost color dark}}"
+|-
+| Masterpiece Form
+|-
+| style="{{roundy|96px}} border: 2px solid #{{ghost color dark}}; background: #{{grass color light}}; width:96px; height:96px"| [[File:1013Sinistcha-Masterpiece Dream.png|100px]]
+|}
+|}
+
+===Evolution===
+Sinistcha evolves from {{p|Poltchageist}}.
+
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-2
+|pictype=art
+|type1=Grass
+|type2=Ghost
+|no1=1012
+|name1=Poltchageist
+|type1-1=Grass
+|type2-1=Ghost
+|evo1=
+|no2=1013
+|name2=Sinistcha
+|type1-2=Grass
+|type2-2=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Ghost}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=77|reg3=Blueberry}}
+{{Dex/Form|Unremarkable Form}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.}}
+{{Dex/Form|Masterpiece Form}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It lives inside a superb teacup that was crafted by a potter of great renown. Collectors positively adore this Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The more stirring it does with the tea whisk on its head, the more energy it builds up. It does this to prepare for battle.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Sinistcha SV Kitakami.png|x200px]]
+|-
+| Sinistcha in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Ghost}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|1|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Kitakami)|Sinistcha - Unremarkable Form|5★}}, {{DL|List of 6★ Tera Raid Battles (Kitakami)|Sinistcha|6★}}) <small>('''Unremarkable Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 6★ Tera Raid Battles (Kitakami)|Sinistcha|6★}}) <small>('''Masterpiece Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Ghost}}
+{{Availability/NA|gen=IX}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Poké Fair [[sync pair scout]]: {{sync|Carmine|Sinistcha}} <small>('''Unremarkable Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Ghost
+|HP=71
+|Attack=60
+|Defense=106
+|SpAtk=121
+|SpDef=80
+|Speed=70
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=100
+|Bug=100
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|heatproof=maybe
+|newfire=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Sinistcha|Grass|Ghost|9}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|1|Withdraw|Water|Status|—|—|40}}
+{{learnlist/level9|1|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Matcha Gotcha|Grass|Special|80|90|15||'''}}
+{{learnlist/level9|6|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|12|Life Dew|Water|Status|—|—|10}}
+{{learnlist/level9|18|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/level9|24|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|30|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level9|36|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/level9|42|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/level9|48|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level9|54|Memento|Dark|Status|—|100|10}}
+{{learnlist/level9|60|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/9|Sinistcha|Grass|Ghost|9}}
+
+====By [[TM]]====
+
+{{learnlist/tmh/9|Sinistcha|Grass|Ghost|9}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM151|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM188|Scald|Water|Special|80|100|15}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Sinistcha|Grass|Ghost|9}}
+
+====By {{pkmn|breeding}}====
+
+{{learnlist/breedh/9|Sinistcha|Grass|Ghost|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Sinistcha|Grass|Ghost|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Sinistcha|Grass|Ghost|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Sinistcha|Grass|Ghost|9}}
+
+===Side game data===
+====Unremarkable Form====
+{{Spindata/Head|type=Grass|type2=Ghost}}
+{{Spindata/GO
+| col = 6
+| type = Grass
+| ndex = 1013
+| egg = N/A
+| buddy = 3
+| candy = Poltchageist
+| evolution = N/A
+| stamina = 174
+| attack = 225
+| defense = 191
+| fast = {{m|Magical Leaf}}, {{m|Astonish}}
+| special = {{m|Energy Ball}}, {{m|Poltergeist}}, {{m|Shadow Ball}}
+}}
+|}
+
+====Masterpiece Form====
+{{Spindata/Head|type=Grass|type2=Ghost}}
+{{Spindata/GO
+| col = 6
+| type = Grass
+| ndex = 1013M
+| egg = N/A
+| buddy = 3
+| candy = Poltchageist
+| evolution = N/A
+| stamina = 174
+| attack = 225
+| defense = 191
+| fast = {{m|Magical Leaf}}, {{m|Astonish}}
+| special = {{m|Energy Ball}}, {{m|Poltergeist}}, {{m|Shadow Ball}}
+}}
+|}
+
+===Form data===
+Sinistcha has two separate forms: Unremarkable Form and Masterpiece Form. Its form is determined by the {{fd|Poltchageist|form}} of {{p|Poltchageist}} it [[Evolution|evolves]] from and cannot be changed.
+
+The Masterpiece Form is rarer and has a stamp of authenticity hidden on the underside of its base. The only functional difference between the two forms is the [[Evolution item]] used by Poltchageist to evolve into Sinistcha: Counterfeit Form Poltchageist requires an [[Unremarkable Teacup]] to evolve into Unremarkable Form Sinistcha, while Artisan Form Poltchageist requires a [[Masterpiece Teacup]] to evolve into Masterpiece Form Sinistcha. 
+
+Masterpiece Form Sinistcha does not obey typical {{DL|Pokémon breeding|Inheriting forms|form inheritance}} rules when breeding, and therefore cannot produce {{pkmn|Egg}}s that contain Artisan Form Poltchageist. All Poltchageist that hatch from Eggs will always be Counterfeit Form, regardless of the parent's form.
+
+{| class="roundy" style="margin:auto; text-align:center; background:#FFF"
+|-
+| class="roundy" width="50%" style="background:#{{grass color light}}" | Unremarkable Form<br>[[File:HOME1013 b.png|150px]]<br>{{color2|000|Sinistcha (Pokémon)|Sinistcha}}
+| class="roundy" width="50%" style="background:#{{grass color}}" | Masterpiece Form<br>[[File:HOME1013M b.png|150px]]<br>{{color2|000|Sinistcha (Pokémon)|Sinistcha }}
+|}
+
+===Evolution data===
+====Unremarkable Form====
+{{evobox-2
+|pictype=sprite
+|type1=Grass
+|type2=Ghost
+|no1=HOME1012_b
+|name1=Poltchageist
+|type1-1=Grass
+|type2-1=Ghost
+|form1=Counterfeit Form
+|evo1={{Bag/s|Unremarkable Teacup|SV}}<br>{{color2|000|Unremarkable Teacup}}
+|no2=HOME1013_b
+|name2=Sinistcha
+|type1-2=Grass
+|type2-2=Ghost
+|form2=Unremarkable Form}}
+
+====Masterpiece Form====
+{{evobox-2
+|pictype=sprite
+|type1=Grass
+|type2=Ghost
+|no1=HOME1012A_b
+|name1=Poltchageist
+|type1-1=Grass
+|type2-1=Ghost
+|form1=Artisan Form
+|evo1={{Bag/s|Masterpiece Teacup|SV}}<br>{{color2|000|Masterpiece Teacup}}
+|no2=HOME1013M_b
+|name2=Sinistcha
+|type1-2=Grass
+|type2-2=Ghost
+|form2=Masterpiece Form}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Ghost}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9/2Forms|ndex=1013|form1=M b}}-->
+{{Spritebox/HOME/3Forms|ndex=1013|form1=_b|form2=M b}}
+{{Spritebox/Footer|1013|Sinistcha}}
+
+==In animation==
+[[File:Carmine Sinistcha.png|thumb|250px|Sinistcha in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Sinistcha debuted in ''[[HZ069|Roy is Crocalor, and Crocalor is Roy!]]'', under the ownership of [[Carmine]].
+
+====Minor appearances====
+
+==In the manga==
+
+==In the TCG==
+{{main|Sinistcha (TCG)}}
+
+==Trivia==
+* Despite being an apparent counterpart of {{p|Polteageist}}, Sinistcha's name resembles that of Polteageist's pre-evolved form, {{p|Sinistea}}. The reverse is also true for {{p|Poltchageist}}. They are the only [[ecologically similar Pokémon]] with this distinction.
+* The Sinistcha and Polteageist lines are the only ecologically similar Pokémon that share a [[type]] and [[Egg Group]]s with each other, as well as the only ones with multiple forms.
+
+===Origin===
+Sinistcha appears to be based on {{wp|matcha}} tea that has been prepared into a drink in the traditional {{wp|Japanese tea ceremony}}. Its design incorporates several utensils used in the aforementioned ceremony, namely the 茶碗 ''{{wp|chawan}}'' (tea bowl) and 茶筅 ''{{wp|Japanese tea utensils#Whisks|chasen}}'' (tea whisk). It may also be based on a {{wp|tsukumogami}}, being an inanimate household object come to life — in this case, equipment used in a Japanese tea ceremony.
+
+Sinistcha's overall design resembles {{p|Polteageist}}, having similar eyes and a similar body, with the teacup it inhabits having a pattern resembling {{p|Sinistea}}'s face. This may be a reference to {{wp|convergent evolution}} or {{wp|parallel evolution}}, which can lead to separate organisms independently developing similar or identical characteristics and body plans.
+
+The sealed cracks on Sinistcha's chawan are based on the process of 金継ぎ ''{{wp|kintsugi}}'',<ref>[https://www.pokemon.co.jp/ex/sv_dlc/ja/pokemon/230822_01/ チャデス｜『ポケットモンスター スカーレット・バイオレット ゼロの秘宝』公式サイト]</ref> in which cracked and broken pottery is mended using lacquer mixed with a metallic powder, usually gold.
+
+Sinistcha's forms may be based on {{wp|stoneware}} forgeries. One historical way to combat stoneware forgeries was to create a {{wp|Seal (emblem)|stamp of authenticity}} on products, hence the stamp under Masterpiece Form Sinistcha. It may also be a reference to the difference between unremarkable household objects and rare variants of them which are seen as antiques or masterpieces.
+
+====Name origin====
+Sinistcha may be a combination of ''sinister'' and 抹茶 ''matcha'', following the same naming pattern as {{p|Sinistea}}.
+
+Yabasocha may be a combination of やばい ''yabai'' (dangerous, terrible), ヤバチャ ''Yabacha'' (Sinistea), and 粗茶 ''socha'' (low grade tea, coarse tea).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Ghost
+|ja=ヤバソチャ ''Yabasocha''|jameaning=From {{tt|やばい ''yabai''|dangerous; terrible}}, ヤバチャ ''{{p|Sinistea|Yabacha}}'', and {{tt|粗茶 ''socha''|low grade tea, coarse tea}}
+|fr=Théffroyable|frmeaning=From ''{{tt|thé|tea}}'', ''{{tt|froid|cold}}'', ''{{tt|Théffroi|Sinistea}}'', and ''{{tt|effroyable|terrifying}}''
+|es=Sinistcha|esmeaning=Same as English name
+|de=Fatalitcha|demeaning=From ''fatal'' or ''{{tt|fatalité|French for fatality}}'', ''{{tt|Fatalitee|Sinistea}}'', and 抹茶 ''{{wp|matcha}}''
+|it=Sinistcha|itmeaning=Same as English name
+|ko=그우린차 ''Geuurincha''|komeaning=From ''green'', {{tt|우린 ''urin''|brewed}} and {{tt|차 (茶) ''cha''|tea}}
+|zh_cmn=來悲粗茶 / 来悲粗茶 ''Láibēicūchá''|zh_cmnmeaning=From {{tt|來悲茶 / 来悲茶 ''Láibēichá''|Sinistea}} and {{tt|粗茶 ''cūchá''|low grade tea}}
+|zh_yue=來悲粗茶 ''Lòihbēichōuchàh''|zh_yuemeaning=From {{tt|來悲茶 ''Lòihbēichàh''|Sinistea}} and {{tt|粗茶 ''chōuchàh''|low grade tea}}
+|th=ยาบาโซฉะ ''Yabasocha''|thmeaning=Transcription of Japanese name}}
+{{-}}
+<div style="display:inline-block">
+''Unremarkable Form''
+{{langtable|color={{grass color}}|bordercolor={{ghost color}}
+|ja=ボンサクのすがた ''Mediocre Form''
+|zh_yue=凡作的樣子 ''{{tt|Fàahn Jok dīk Yeuhngjí|Mediocre Form}}''
+|zh_cmn=凡作的樣子 / 凡作的样子 ''{{tt|Fán Zuò de Yàngzi|Mediocre Form}}''
+|fr=Forme Médiocre
+|de=Simple Form
+|it=Forma Dozzinale
+|ko=범작의 모습 ''Pŏmjagŭi moseub''
+|es=Forma Mediocre
+|th=ร่างดาษดื่น
+}}</div>
+<div style="display:inline-block">
+''Masterpiece Form''
+{{langtable|color={{grass color}}|bordercolor={{ghost color}}
+|ja=ケッサクのすがた ''Masterpiece Form''
+|zh_yue=傑作的樣子 ''{{tt|Gihtjok dīk Yeuhngjí|Masterpiece Form}}''
+|zh_cmn=傑作的樣子 / 杰作的样子 ''{{tt|Jiézuò de Yàngzi|Masterpiece Form}}''
+|fr=Forme Exceptionnelle
+|de=Edle Form
+|it=Forma Eccezionale
+|ko=걸작의 모습 ''Kŏlchagŭi moseub''
+|es=Forma Exquisita
+|th=ร่างชิ้นเอก
+}}</div>
+
+==Related articles==
+* [[Ecologically similar Pokémon]]
+* [[List of Pokémon with form differences]]
+
+==References==
+<references/>
+
+==External links==
+
+{{Ecologically similar Pokémon}}
+
+{{PokémonPrevNext/Head|type=Grass|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Grass|type2=Ghost|prevnum=1012|prev=Poltchageist|nextnum=1014|next=Okidogi}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon introduced in The Teal Mask]]
+
+[[de:Fatalitcha]]
+[[es:Sinistcha]]
+[[fr:Théffroyable]]
+[[it:Sinistcha]]
+[[ja:ヤバソチャ]]
+[[zh:来悲粗茶]]

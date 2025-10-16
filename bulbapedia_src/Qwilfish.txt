@@ -1,0 +1,845 @@
+{{PokémonPrevNext/Head|type=Water|type2=Poison}}
+{{PokémonPrevNext/GO|species=Qwilfish}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0210|prev=Granbull|nextnum=0212|next=Scizor|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Qwilfish
+|jname=ハリーセン
+|jtranslit=Harīsen
+|tmname=Harysen
+|category=Balloon
+|ndex=0211
+|forme=2
+|form1=Qwilfish
+|form2=Hisuian Qwilfish
+|image2=211Qwilfish-Hisui.png
+|type1=Water
+|type2=Poison
+|form2type1=Dark
+|form2type2=Poison
+|height-ftin=1'08″
+|height-m=0.5
+|weight-lbs=8.6
+|weight-kg=3.9
+|abilitylayout=2
+|ability1=Poison Point
+|ability2=Swift Swim
+|abilityd=Intimidate
+|egggroupn=1
+|egggroup1=Water 2
+|eggcycles=20
+|evtotal=1
+|evat=1
+|expyield=88<!--86 in Gen V-VI-->
+|oldexp=100
+|lv100exp=1,000,000
+|gendercode=127
+|color=Gray
+|formcolors=yes
+|catchrate=45
+|body=03
+|pokefordex=qwilfish
+|generation=2
+|friendship=70
+}}
+'''Qwilfish''' ([[List of Japanese Pokémon names|Japanese]]: '''ハリーセン''' ''Harysen'') is a dual-type {{2t|Water|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+In [[Hisui]], Qwilfish has a dual-type {{2t|Dark|Poison}} [[regional form]]. It evolves into {{p|Overqwil}} when [[level]]ed up while knowing {{m|Barb Barrage}}. In the modern day, Hisuian Qwilfish can be found in [[Blueberry Academy]]'s [[Terarium]].
+
+Johtonian Qwilfish is not known to evolve into or from any other Pokémon.
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+[[File:QwilfishShiningLegends21.jpg|thumb|150px|left|Qwilfish inflating its body]]
+Qwilfish is a {{DL|List of Pokémon by habitat|Sea Pokémon|sea dwelling}} {{wp|fish|piscine}} {{OBP|Pokémon|species}} with a spherical body and a flat, paddle-shaped tail. The upper half of its body is dark teal and the lower half is light greenish-yellow. Its tail is tall and thin with a dark teal outline, light greenish-yellow inside, and two dark teal dots in the center that resemble the Japanese character ハ ''Ha''. Its eyes are even with its body and are always seen slanted angrily. Below its eyes are its puffy pink lips. All around its body are sharp, conical spikes, which evolved from scales over time.
+
+In order to attack, Qwilfish drinks over 2.6 gallons (10 litres) of water to inflate its body. It then uses the water pressure to shoot poisonous quills at its foe, which can cause fainting. Qwilfish is briefly left defenseless shortly after firing its quills; this is believed by some expert fishers to be the opportune moment to catch this Pokémon. Due to its round body, Qwilfish is not a great swimmer, and when filled with water it is even harder for it to swim. When Qwilfish faces a larger opponent, it will inflate its body to match its size as close as it can. If it is startled while inflated, it will spit out all its water, propelling itself away.
+{{left clear}}
+
+===Forms===
+Qwilfish has a [[regional form]]: {{rf|Hisuian}} Qwilfish.
+
+In [[Hisui]], its upper half is black, while its lower half is pale yellow. Its body is covered in spikes; the spikes on its upper body have dark purple tips, except for the two spikes on its forehead, which are also smaller in size. Hisuian Qwilfish can spray poison from these spines. There are crescent purple lines underneath Hisuian Qwilfish's eyes, and its lips are also colored purple. Its flat tail has a black outline with a light yellow inside, and a black pattern that resembles the lowercase letter "q". 
+
+Hisuian Qwilfish is despised by the fisherman of the Hisui region, due to its poison wreaking havoc in the seas it lives in. Its poisonous spikes are thicker and shorter than Qwilfish from other regions. This form of Qwilfish absorbs poison from the food it consumes. The purple coloration on its body serves as evidence of its potent poison. In the present day, Hisuian Qwilfish is known to be found offshore in cold parts of the world and in Blueberry Academy, located somewhere in [[Unova]]'s ocean, specifically in the [[Terarium]]'s [[Polar Biome]].
+
+Hisuian Qwilfish and its evolved form, {{p|Overqwil}}, are the [[signature move|only known Pokémon]] capable of learning the move {{m|Barb Barrage}}.
+
+===Evolution===
+In [[Hisui]], Qwilfish has a [[regional form]] that evolves into {{p|Overqwil}}. Johtonian Qwilfish is not known to evolve into or from any other Pokémon.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Dark
+|type2=Poison
+|pictype=sprite
+|no1=0211Qwilfish-Hisui
+|name1=Qwilfish
+|form1=Hisuian Form
+|type1-1=Dark
+|type2-1=Poison
+|evo1=
+|no2=0904Overqwil
+|name2=Overqwil
+|type1-2=Dark
+|type2-2=Poison}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Poison}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=161}}
+{{Dex/Entry1|v=Gold|entry=To fire its poison spikes, it must inflate its body by drinking over {{tt|2.6 gallons|10 litres}} of water all at once.}}
+{{Dex/Entry1|v=Silver|entry=The small spikes covering its body developed from scales. They inject a toxin that causes fainting.}}
+{{Dex/Entry1|v=Crystal|entry=When faced with a larger opponent, it swallows as much water as it can to match the opponent's size.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>The small spikes covering its body developed from scales. They inject a toxin that causes fainting. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Qwilfish</sc> sucks in water, inflating itself. This {{ScPkmn}} uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A <sc>Qwilfish</sc> uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.}}
+{{Dex/Entry1|v=FireRed|entry=The small spikes covering its body developed from scales. They inject a toxin that causes fainting.}}
+{{Dex/Entry1|v=LeafGreen|entry=To fire its poison spikes, it must inflate its body by drinking over {{tt|2.6 gallons|10 litres}} of water all at once.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=163}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.}}
+{{Dex/Entry1|v=HeartGold|entry=To fire its poison spikes, it must inflate its body by drinking over {{tt|2.6 gallons|10 litres}} of water all at once.}}
+{{Dex/Entry1|v=SoulSilver|entry=The small spikes covering its body developed from scales. They inject a toxin that causes fainting.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=038|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=To fire its poison spikes, it must inflate its body by drinking over {{tt|2.6 gallons|10 litres}} of water all at once.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The small spikes covering its body developed from scales. They inject a toxin that causes fainting.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=304|reg2=Sinnoh|reg3=Hisui|num3=084}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When faced with a larger opponent, it swallows as much water as it can to match the opponent's size.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The small spikes covering its body developed from scales. They inject a toxin that causes fainting.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It shoots the poison spikes on its body in all directions. Its round form makes it a poor swimmer.}}
+{{Dex/Form|Hisuian Qwilfish}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=331|reg2=Kitakami|reg3=Blueberry|num3=146}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=Be cautious if this Pokémon starts sucking in water—it will soon attack by scattering the toxic spikes that grow all over its body.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Experienced fishers say they try to catch Qwilfish in the brief moment that these Pokémon become defenseless just after launching poisonous spikes.}}
+{{Dex/Form|Hisuian Qwilfish}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It lives just offshore in cold parts of the world. Its poisonous spikes are thicker and shorter than those of other regions’ Qwilfish.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It absorbs toxins from the food it eats. The distinct purple spikes on its body are evidence of its potent poison.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{poison color dark}}; background:#{{water color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{poison color dark}}; background:#{{water color light}}; {{roundy|5px}};" | [[File:Pokédex Image Qwilfish SV.png|x200px]]
+| style="border:2px solid #{{poison color dark}}; background:#{{dark color light}}; {{roundy|5px}};" | [[File:Pokédex Image Qwilfish SV Blueberry.png|x200px]]
+|-
+| Qwilfish in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Hisuian Qwilfish in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Poison}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, and {{rtn|32|Johto}} ([[Super Rod]]{{tt|*|During swarm on Route 32, it can be caught there with all rods}})}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, and {{rtn|32|Johto}} ([[Super Rod]]{{tt|*|During swarm on Route 32, it can be caught there with all rods}})}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1/None|v=Emerald|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1|v=FireRed|area=[[Five Isle Meadow]], [[Green Path]], [[Memorial Pillar]], [[Outcast Island]], [[Resort Gorgeous]], [[Tanoby Ruins]], [[Trainer Tower]], [[Water Labyrinth]], [[Water Path]] ([[Super Rod]])}}
+{{Availability/Entry1/None|v=LeafGreen|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1|v=Colosseum|area=[[Pyrite Bldg]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Iron Island]] ([[Super Rod]])}}
+{{Availability/Entry1|v=Platinum|area=[[Iron Island]] ([[Super Rod]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|12|Kanto}} and {{rtn|13|Kanto}} ([[Super Rod]])<br/>{{rt|32|Johto}} ([[Good Rod]] or [[Super Rod]])}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|17|Unova}} and {{rtn|18|Unova}}, [[P2 Laboratory]] ([[Fishing]] in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|4|Unova}}, [[Virbank City]], [[Virbank Complex]] ([[Fishing]])<br/>{{rt|4|Unova}}, [[P2 Laboratory]] ([[Fishing]] in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Sparkling Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|8|Kalos}} ([[Super Rod]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Dusty Bowl]], [[Lake of Outrage]], [[Bridge Field]], {{rt|9|Galar}}<br>[[Bridge Field/Dens|Bridge Field]], [[Dusty Bowl/Dens|Dusty Bowl]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[North Lake Miloch/Dens|North Lake Miloch]], [[South Lake Miloch/Dens|South Lake Miloch]], [[West Lake Axewell/Dens|West Lake Axewell]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Iron Island]] ([[Super Rod]])<br>[[Grand Underground]] - [[Fountainspring Cave]], [[Riverbank Cave]], [[Still-Water Cavern]], [[Swampy Cave]], [[Bogsunk Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' near [[Ramanas Island]] <small>('''Hisuian Form''')</small><br>'''[[Cobalt Coastlands]]:''' near [[Bathers' Lagoon]], near [[Hideaway Bay]], near [[Tombolo Walk]], near [[Sand's Reach]], [[Tranquility Cove]], [[Islespy Shore]] and nearby (additional&nbsp;[[File:Alpha icon.png|link=Alpha Pokémon|14px]]), [[Lunker's Lair]], near [[Seagrass Haven]], near [[Firespit Island]], massive [[mass outbreak]]s <small>('''Hisuian Form''')</small><br>Unobtainable <small>('''Johtonian Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Paldean Sea]] <small>('''Johtonian Form''')</small><br>East Province: [[East Paldean Sea]] <small>('''Johtonian Form''')</small><br>West Province: [[West Paldean Sea]] <small>('''Johtonian Form''')</small><br>North Province: [[North Paldean Sea]] <small>('''Johtonian Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Qwilfish|3★}}) <small>('''Johtonian Form''')</small><br>[[Trade]] <small>('''Hisuian Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Polar Biome]] <small>('''Hisuian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Poison}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 12]], Endless Level 45, Forever Level 18, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Silver Trench]] (1F-9F), [[Grand Sea]] (1F-9F), [[Fantasy Strait]] (B1F-B9F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Surrounded Sea]] (B1F-B19F), [[Miracle Sea]] (B1F-B18F, Deep Miracle Sea B1F-B3F), [[Bottomless Sea]] (B1F-B49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Surrounded Sea]] (B1F-B19F), [[Miracle Sea]] (B1F-B18F, Deep Miracle Sea B1F-B3F), [[Bottomless Sea]] (B1F-B49F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Puel Sea]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Eastern Sea]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#Empoleon the Great|Variety Battle: Empoleon the Great]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Wednesday Stage 2|Safari Jungle: Stage 2]]{{dotw|We}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Windy Sea|Silver Isles: Windy Sea]] <small>(All Areas)</small>, [[Distortion Land#Vast Ocean|Distortion Land: Vast Ocean]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Lugia Sea]], [[Zygarde Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Silver Trench]] (1F-9F), [[Grand Sea]] (1F-9F), [[Marvelous Sea]] (14F-15F), [[Fantasy Strait]] (14F-15F)<br/>Fainted Pokémon: [[Fantasy Strait]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Lental Seafloor]] (<small>'''Johtonian Form'''</small>)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Daily Pokémon#The Daily Pokémon (#5)|The Daily Pokémon (#5)]]''}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water|type2=Poison}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Double-Edge Qwilfish|English|United States|5|February 22 to March 14, 2002|link=List of PCNY event Pokémon distributions in Generation II#Double-Edge Qwilfish}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Third Campaign Qwilfish|Japanese|Japan|10|January 14 to 29, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Qwilfish}}
+|}
+
+===Held items===
+====Qwilfish====
+{{HeldItems/header|type=Water|type2=Poison}}
+{{HeldItems/Games1|Colosseum|Pokémon Colosseum}}
+{{HeldItems/Items1|Poison Barb|100}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Poison Barb|5|rows=8}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black|White|tcolor1=FFF|Pokémon Black and White Versions}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|X|Y|tcolor1=fff|Pokémon X and Y}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+====Hisuian Qwilfish====
+{{HeldItems/header|type=Dark|type2=Poison}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Pop Pod|35|Ball of Mud|15|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+=====Qwilfish=====
+======Generations II-VI======
+{{BaseStats
+|type=Water
+|type2=Poison
+|HP=     65
+|Attack= 95
+|Defense=75
+|SpAtk=  55
+|SpDef=  55
+|Speed=  85}}
+
+======Generation VII onward======
+{{BaseStats
+|type=Water
+|type2=Poison
+|HP=     65
+|Attack= 95
+|Defense=85
+|SpAtk=  55
+|SpDef=  55
+|Speed=  85}}
+
+=====Hisuian Qwilfish=====
+Hisuian Qwilfish has the same base stats as Johtonian Qwilfish.
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Poison
+|Speed=3
+|SpeedMax=3
+|Power=3
+|PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+====Qwilfish====
+{{TypeEffectiveness
+|type1=Water
+|type2=Poison
+|Normal=  100
+|Fighting= 50
+|Flying=  100
+|Poison=   50
+|Ground=  200
+|Rock=    100
+|Bug=      50
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   100
+|Electric=200
+|Psychic= 200
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=    50}}
+
+====Hisuian Qwilfish====
+{{TypeEffectiveness
+|type1=Dark
+|type2=Poison
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=100
+|notes=yes
+|dark=yes
+|newpsychic=2
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Qwilfish=====
+{{learnlist/levelh/9|Qwilfish|Water|Poison|2}}
+{{learnlist/level9|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|4|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|8|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level9|12|Fell Stinger|Bug|Physical|50|100|25}}
+{{learnlist/level9|16|Minimize|Normal|Status|—|—|10}}
+{{learnlist/level9|20|Spikes|Ground|Status|—|—|20}}
+{{learnlist/level9|24|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level9|28|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/level9|32|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/level9|36|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/level9|40|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/level9|40|Spit Up|Normal|Special|—|100|10}}
+{{learnlist/level9|44|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level9|48|Aqua Tail|Water|Physical|90|90|10||'''}}
+{{learnlist/level9|52|Acupressure|Normal|Status|—|—|30}}
+{{learnlist/level9|56|Destiny Bond|Ghost|Status|—|—|5}}
+{{learnlist/levelf/9|Qwilfish|Water|Poison|2}}
+
+=====Hisuian Qwilfish=====
+{{learnlist/levelh/9|Qwilfish|Dark|Poison|8}}
+{{learnlist/level9|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|4|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|8|Bite|Dark|Physical|60|100|25||'''}}
+{{learnlist/level9|12|Fell Stinger|Bug|Physical|50|100|25}}
+{{learnlist/level9|16|Minimize|Normal|Status|—|—|10}}
+{{learnlist/level9|20|Spikes|Ground|Status|—|—|20}}
+{{learnlist/level9|24|Brine|Water|Special|65|100|10}}
+{{learnlist/level9|28|Barb Barrage|Poison|Physical|60|100|10||'''}}
+{{learnlist/level9|32|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/level9|36|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/level9|40|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/level9|40|Spit Up|Normal|Special|—|100|10}}
+{{learnlist/level9|44|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level9|48|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/level9|52|Acupressure|Normal|Status|—|—|30}}
+{{learnlist/level9|56|Destiny Bond|Ghost|Status|—|—|5}}
+{{learnlist/levelf/9|Qwilfish|Dark|Poison|8}}
+
+====By [[TM]]====
+=====Qwilfish=====
+{{learnlist/tmh/9|Qwilfish|Water|Poison|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM026|Poison Tail|Poison|Physical|50|100|25||'''}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM196|Flip Turn|Water|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM200|Scale Shot|Dragon|Physical|25|90|20}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM208|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Qwilfish|Water|Poison|2}}
+
+=====Hisuian Qwilfish=====
+{{learnlist/tmh/9|Qwilfish|Dark|Poison|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM026|Poison Tail|Poison|Physical|50|100|25||'''}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||'''}}
+{{learnlist/tm9|TM200|Scale Shot|Dragon|Physical|25|90|20}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Qwilfish|Dark|Poison|8}}
+
+====By {{pkmn|breeding}}====
+=====Qwilfish=====
+{{learnlist/breedh/9|Qwilfish|Water|Poison|2}}
+{{learnlist/breed9|{{bag/s|TM Poison|SV|TM013}}{{tt|*|No Pokémon in the Water 2 Egg Group can learn Acid Spray via level-up. However, the move is available via TM013 and can be passed down from Qwilfish, Hisuian Qwilfish, and Overqwil or copied via Mirror Herb.}}|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/breed9|{{MSP/H|0550|Basculin}}{{MSP/H|0550-White|Basculin}}{{MSP/H|0902|Basculegion}}{{MSP/H|0594|Alomomola}}{{MSP/H|0779|Bruxish}}{{MSP/H|0846|Arrokuda}}{{MSP/H|0847|Barraskewda}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}{{MSP/H|0976|Veluza}}|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/breed9|{{MSP/H|0779|Bruxish}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/breed9|{{MSP/H|0211-Hisui|Qwilfish}}{{MSP/H|0904|Overqwil}}|Barb Barrage|Poison|Physical|60|100|10||'''}}
+{{learnlist/breed9|{{MSP/H|0170|Chinchou}}{{MSP/H|0171|Lanturn}}|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/breed9|{{MSP/H|0129|Magikarp}}{{MSP/H|0130|Gyarados}}{{MSP/H|0170|Chinchou}}{{MSP/H|0171|Lanturn}}{{MSP/H|0370|Luvdisc}}{{MSP/H|0550|Basculin}}{{MSP/H|0550-White|Basculin}}{{MSP/H|0902|Basculegion}}{{MSP/H|0977|Dondozo}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed9|{{MSP/H|0963|Finizen}}|Haze|Ice|Status|—|—|30|*}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/breed9|{{MSP/H|0170|Chinchou}}{{MSP/H|0171|Lanturn}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}{{MSP/H|0977|Dondozo}}|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/breed9|{{MSP/H|0339|Barboach}}{{MSP/H|0340|Whiscash}}{{MSP/H|0370|Luvdisc}}{{MSP/H|0456|Finneon}}{{MSP/H|0457|Lumineon}}{{MSP/H|0594|Alomomola}}{{MSP/H|0976|Veluza}}{{MSP/H|0978|Tatsugiri}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breedf/9|Qwilfish|Water|Poison|2}}
+
+=====Hisuian Qwilfish=====
+{{learnlist/breedh/9|Qwilfish|Dark|Poison|8}}
+{{learnlist/breed9|{{bag/s|TM Poison|SV|TM013}}{{tt|*|No Pokémon in the Water 2 Egg Group can learn Acid Spray via level-up. However, the move is available via TM013 and can be passed down from Qwilfish, Hisuian Qwilfish, and Overqwil or copied via Mirror Herb.}}|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/breed9|{{MSP/H|0550|Basculin}}{{MSP/H|0550-White|Basculin}}{{MSP/H|0902|Basculegion}}{{MSP/H|0594|Alomomola}}{{MSP/H|0779|Bruxish}}{{MSP/H|0846|Arrokuda}}{{MSP/H|0847|Barraskewda}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}{{MSP/H|0976|Veluza}}|Aqua Jet|Water|Physical|40|100|20}}
+{{learnlist/breed9|{{MSP/H|0130|Gyarados}}{{MSP/H|0211|Qwilfish}}{{MSP/H|0339|Barboach}}{{MSP/H|0340|Whiscash}}{{MSP/H|0779|Bruxish}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}{{MSP/H|0977|Dondozo}}|Aqua Tail|Water|Physical|90|90|10}}
+{{learnlist/breed9|{{MSP/H|0779|Bruxish}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/breed9|{{MSP/H|0170|Chinchou}}{{MSP/H|0171|Lanturn}}|Bubble Beam|Water|Special|65|100|20}}
+{{learnlist/breed9|{{MSP/H|0129|Magikarp}}{{MSP/H|0130|Gyarados}}{{MSP/H|0170|Chinchou}}{{MSP/H|0171|Lanturn}}{{MSP/H|0370|Luvdisc}}{{MSP/H|0550|Basculin}}{{MSP/H|0550-White|Basculin}}{{MSP/H|0902|Basculegion}}{{MSP/H|0977|Dondozo}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed9|{{MSP/H|0963|Finizen}}|Haze|Ice|Status|—|—|30|*}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/breed9|{{MSP/H|0170|Chinchou}}{{MSP/H|0171|Lanturn}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}{{MSP/H|0977|Dondozo}}|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/breed9|{{MSP/H|0339|Barboach}}{{MSP/H|0340|Whiscash}}{{MSP/H|0370|Luvdisc}}{{MSP/H|0456|Finneon}}{{MSP/H|0457|Lumineon}}{{MSP/H|0594|Alomomola}}{{MSP/H|0976|Veluza}}{{MSP/H|0978|Tatsugiri}}|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/breedf/9|Qwilfish|Dark|Poison|8}}
+
+===Side game data===
+====Qwilfish====
+{{Spindata/Head|type=Water|type2=Poison}}
+{{Spindata/Trozei|col=6|type=Water|ndex=211|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=211
+|body=1
+|rate=6.9
+|area=Serene Sea
+|P1=Oh, you have to stay back! You might get stuck with a poison quill!
+|P2=Hey! There's only half my HP left!
+|P3=I'm sagging... I can't even inflate myself anymore...
+|PL=Yay! My level went up! Watch me pump myself up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=211
+|body=1
+|rate=6.9
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Water|ndex=211
+|coset=13
+|conto={{p|Poliwhirl}}
+|recruitment=Item delivery
+|P1=Do I look prickly? I am NOT prickly! OK?
+|P2=My spikes are growing weak...
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=1
+|num=092
+|browser=It shoots needles to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Tackle
+|fieldpower=2
+|past=NA
+|num=273
+|browser=It shoots orbs of water to attack.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=211
+|walk=1.97
+|hp=52
+|attack=76
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=211
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=211|num=336
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Paralyze
+|skilldesc=Leaves the foe paralyzed.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=211
+|hatch=N/A
+|buddy=3
+|candy=Qwilfish
+|evolution=N/A
+|stamina=163
+|attack=184
+|defense=138
+|fast={{m|Poison Sting}}, {{m|Water Gun}}
+|special={{m|Aqua Tail}}, {{m|Ice Beam}}, {{m|Sludge Wave}}, {{m|Acid Spray}}{{tt|*|From March 19, 2019 onward}}, {{m|Fell Stinger}}{{tt|*|From December 11, 2019 onward}}, {{m|Scald}}{{tt|*|From December 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Water|ndex=211|pdex=113
+|dex=Qwilfish swallows gallons of seawater to inflate itself to {{a|intimidate}} enemies. If it gets startled, it spits out all that water and sends itself flying to who knows where.}}
+|}
+
+====Hisuian Qwilfish====
+{{Spindata/Head|type=Dark|type2=Poison}}
+{{Spindata/GO|col=6|type=Dark|ndex=211H
+|hatch=7 km
+|buddy=3
+|candy=Qwilfish
+|evocandy=50<br>+ [[File:GO Buddy icon.png|20px|link=Buddy Pokémon]] Win 10 raids
+|stamina=163
+|attack=184
+|defense=151
+|fast={{m|Poison Sting}}, {{m|Poison Jab}}
+|special={{m|Aqua Tail}}, {{m|Ice Beam}}, {{m|Sludge Bomb}}, {{m|Dark Pulse}}, {{m|Shadow Ball}}
+}}
+|}
+
+===Evolution data===
+====Qwilfish====
+{{Evobox-1
+|type1=Water
+|type2=Poison
+|pictype=art
+|no1=0211
+|name1=Qwilfish
+|type1-1=Water
+|type2-1=Poison}}
+
+====Hisuian Qwilfish====
+From {{g|Scarlet and Violet}}'s 3.0.0 update onward, {{rf|Hisuian}} Qwilfish evolves into {{p|Overqwil}} when leveled up while knowing {{m|Barb Barrage}}.
+
+In {{g|Legends: Arceus}}, Hisuian Qwilfish evolves into Overqwil after it has used {{m|Barb Barrage}} 20 times in the [[move mastery|strong style]].
+
+{{Evobox-2
+|type1=Dark
+|type2=Poison
+|pictype=sprite
+|no1=0211Qwilfish-Hisui
+|name1=Qwilfish
+|form1=Hisuian Form
+|type1-1=Dark
+|type2-1=Poison
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Bag TM Poison SV Sprite.png|40px|link=Barb Barrage (move)]]<br>{{color2|000|Level|Level up}}<br>knowing {{mcolor|Barb Barrage}}<br>[[File:Mastery scroll.png|40px|link=Move mastery]][[File:Bag TM Poison SV Sprite.png|40px|link=Barb Barrage (move)]]<br>Use {{mcolor|Barb Barrage|000}}<br> in the {{color2|000|Move mastery|strong style}} 20 times<br><small>{{gameIcon|LA}} only</small>
+|no2=0904Overqwil
+|name2=Overqwil
+|type1-2=Dark
+|type2-2=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Poison}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2/JP|ndex=211}}
+{{Spritebox/3|ndex=211}}
+{{Spritebox/4|ndex=211}}
+{{Spritebox/5|ndex=211}}
+{{Spritebox/6|ndex=211|crop=71}}
+{{Spritebox/7|ndex=211|crop=61}}
+{{Spritebox/8/LAForm|ndex=211|form1=H|LAcrop=107}}
+<!--{{Spritebox/9/2Forms|ndex=0211|form1=H}}-->
+{{Spritebox/HOME/2Forms|ndex=0211|form1=H}}
+{{Spritebox/Footer|211|Qwilfish}}
+
+==In animation==
+===Main series===
+[[File:Aether Paradise Qwilfish.png|thumb|250px|Qwilfish in {{aniseries|SM}}]]
+====Major appearances====
+In ''[[EP216|Dueling Heroes]]'', {{OBP|Harrison|EP216}} used a Qwilfish in a {{pkmn|battle}} against {{an|Misty}} and her {{TP|Misty|Corsola}} in the first round of the [[Whirl Cup]], being easily defeated; thus marking the species animated series debut.
+
+In ''[[EP256|Just Add Water]]'', [[Dorian]], the [[Gym Leader]] of the unofficial Coastline Gym, used a Qwilfish in an underwater battle against Misty and her {{TP|Misty|Goldeen}}, that he managed to win.
+
+====Minor appearances====
+Qwilfish debuted in ''[[PK09|Snorlax Snowman]]''.
+
+In ''[[The Legend of Thunder!]]'', a Qwilfish was at the [[Pokémon Center]].
+
+In ''[[EP244|Enlighten Up!]]'', multiple Qwilfish were living in [[Lake Slowpoke]].
+
+In ''[[M05|Pokémon Heroes: Latios & Latias]]'', a Trainer's Qwilfish competed in the [[Tour de Alto Mare]].
+
+In ''[[M09|Pokémon Ranger and the Temple of the Sea]]'', multiple Qwilfish were present during the final showdown with [[the Phantom]] and his crew.
+
+Multiple Qwilfish appeared in ''[[M11|Giratina and the Sky Warrior]]''.
+
+In ''[[DP113|Hold the Phione!]]'', multiple Qwilfish were living in [[Chocovine Town]].
+
+In ''[[XY022|Going for the Gold!]]'', multiple Qwilfish were living in the {{DL|Ambrette Town|Ambrette Aquarium}}.
+
+In ''[[XY024|An Undersea Place to Call Home!]]'', {{an|Serena}} saw multiple Qwilfish underwater.
+
+In ''[[SM046|Deceiving Appearances!]]'', a Qwilfish was at [[Aether Paradise]].
+
+Two Qwilfish appeared in ''[[HZ027|As Long as I'm with My Friends]]''.
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP216|Qwilfish|Ash's Pokédex|Qwilfish, the Balloon Pokémon. The quills covering the entire body have evolved from scales. A Qwilfish can cause its body to swell in order to shoot its needles in all directions.}}
+{{Animedexfooter/Pokémon|Johto}}
+
+===Pokémon: Twilight Wings===
+[[File:Nessa Qwilfish TW.png|thumb|250px|Qwilfish in [[Pokémon: Twilight Wings]]]]
+In ''[[TW03|Buddy]]'', a Qwilfish puffed itself up in [[Nessa]]'s hand. In ''[[TW04|Early-Evening Waves]]'', it was revealed to have done this during one of Nessa's photoshoots.
+{{-}}
+
+==In the manga==
+[[File:Platinum Qwilfish Adventures.png|thumb|200px|Qwilfish in [[Pokémon Adventures]]]]
+===Pokémon Ranger: The Comic – Shadows of Almia===
+A Qwilfish appeared in [[PRV3]].
+
+===Pokémon Adventures===
+===={{MangaArc|Gold, Silver & Crystal}}====
+A swarm of Qwilfish appeared in ''[[PS122|Querulous Qwilfish]]'', where they were angered by pollution that occurred as a result of an accident that occurred during the construction of the {{Gdis|Battle Tower|II}}. {{adv|Crystal}} captured all of them with her skills. Afterwards, she found a baby Qwilfish stuck in the toxic waste; as she prepared to take it to a [[Pokémon Center]], {{DL|Legendary beasts (Adventures)|Suicune}} appeared, healing Qwilfish and purifying the seawater. It is unknown if the Qwilfish are still under Crystal's ownership or were {{pkmn2|released}} afterwards.
+
+A Qwilfish appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+===={{MangaArc|Ruby & Sapphire}}====
+A Qwilfish was one of the aquarium Pokémon seen in [[Archie]]'s collection in ''[[PS192|Stick This in Your Craw, Crawdaunt! I]]''.
+
+===={{MangaArc|Platinum}}====
+Much later, in ''[[PS426|Softening Up Kakuna]]'', ''[[PS427|Uprooting Seedot]]'', and ''[[PS428|Outlasting Ledian]]'', a Qwilfish was one of the Pokémon that {{adv|Platinum}} rented during the {{gdis|Battle Factory|IV}} challenge.
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS122]]|In order to attack the enemy all over the body with its poisonous sting, the Qwilfish has to take in a lot of water and expand up to several times of its actual size.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+
+===Pokémon Gold & Silver: The Golden Boys===
+Three Qwilfish appeared in ''[[GB18|Let's Survive This Sea Battle]]''.
+
+==In the TCG==
+{{main|Qwilfish (TCG)}}
+
+==Trivia==
+* Qwilfish shares its {{pkmn|category}} with {{p|Igglybuff}}, {{p|Jigglypuff}}, {{p|Wigglytuff}}, and {{p|Drifloon}}. They are all known as the Balloon Pokémon.
+* Qwilfish can be seen as a parallel to {{p|Remoraid}}. Both of them are {{type|Water}} {{cat|Generation II Pokémon}}. Qwilfish is exclusive to {{game3|FireRed and LeafGreen|FireRed|s}}, while Remoraid is exclusive to {{game3|FireRed and LeafGreen|LeafGreen|s}}, with both Pokémon found in the same locations in their respective versions, and both being swarm Pokémon in [[Generation II]] and {{game|HeartGold and SoulSilver|s}}.
+* A [[Media:Capsule Monsters Papyo.jpg|pre-alpha sketch]] of an [[List of unused Pokémon and character designs|unused Pokémon]] depicts a Pokémon with the same Pokédex number as Qwilfish.
+* Qwilfish and {{p|Overqwil|its Hisuian evolved form}} are the only {{type|Poison}} {{DL|List of Pokémon by shape|Pokémon with fins}}, and the only Poison-type Pokémon in the {{egg3|Water 2}}.
+* According to several {{tc|Team Plasma Grunt}}s, [[Hugh]]'s hairstyle resembles a Qwilfish.
+* Hisuian Qwilfish and its evolved form were first hinted in {{g|Brilliant Diamond and Shining Pearl}} before their official reveal in {{g|Legends: Arceus}}, where they were mentioned in a [[Sinnoh myths#The Sea's Legend|book]] in the [[Canalave Library]] where Overqwil is referred to as "a Qwilfish with huge spikes".
+* Hisuian Qwilfish is the first [[Hisuian form]] that can be caught outside of [[Hisui]] (excluding [[Poké Portal News]] event [[Tera Raid Battle]]s).
+* Qwilfish is the only Pokémon with a name beginning with the letter "Q" that is not followed by a "U" like most words in the English language.
+**It is also one of only two Pokémon to have a "Q" in its name that is not followed by a "U", the other being its {{rf|Hisuian}} evolved form Overqwil.
+* Hisuian Qwilfish and its evolved form are the only dual-type {{2t|Poison|Dark}} Pokémon to have Dark as their primary type instead of their secondary type.
+* The [[Pokémon Gold and Silver Spaceworld '97 demo]] has an early design of Qwilfish named プクー ''Pukū'', whose name may be a corruption of 河豚 ''{{wp|fugu}}'' ({{wp|pufferfish}}). It was a pure Water type and would evolve into シビレフグ ''Shibirefugu'' at level 18.
+<gallery>
+Spr 2d 170.png|Sprite of Pukū from 1997 demo
+Spr 2d 171.png|Sprite of Shibirefugu from 1997 demo
+</gallery>
+
+===Origin===
+Qwilfish seems to be based on {{wp|Tetraodontidae|pufferfish}} or {{wp|porcupinefish}}, which inflate their bodies when threatened and are covered in {{wp|spine}}s. Many species are incredibly toxic when ingested, which explains Qwilfish's {{t|Poison}} type. However, its ability to directly inject venom through its spines is similar to a {{wp|lionfish}}. It is also reminiscent of a {{wp|naval mine}} due to its round body and ability to explode.
+
+Hisuian Qwilfish's {{t|Dark}} type and poisonous diet may be based on the illegalisation of the {{wp|fugu}} dish due to its toxicity. The law was put in place a few times in Japanese history, including the 1800s (which {{g|Legends: Arceus}} [[Pokémon world in relation to the real world#Sinnoh|appears to be based on]]), but the illegal fugu market continued and thrived for so long that the governing {{wp|shogun}}ate became incapable of enforcing the law. Hisuian Qwilfish and Overqwil appear to be rarer in recent times, which could be a reference to porcupinefish being threatened due to overfishing for the fugu dish.
+
+====Name origin====
+Qwilfish may be a combination of ''quill'' and ''fish''.
+
+Harysen may be derived from 針千本 ''harisenbon'' ({{wp|porcupinefish}}). The character 千 ''sen'' in 針千本 ''harisenbon'' means ''thousand'', and this numerical theming is continued with {{p|Overqwil}}'s Japanese name.
+
+==In other languages==
+{{Other languages|type=Water|type2=Poison
+|ja=ハリーセン ''Harysen''|jameaning=From {{tt|針千本 ''harisenbon''|porcupinefish}}
+|fr=Qwilfish|frmeaning=Same as English name
+|es=Qwilfish|esmeaning=Same as English name
+|de=Baldorfish|demeaning=From ''{{tt|Ballon|balloon}}'', ''{{tt|Dorn|spike}}'', and ''{{tt|Fisch|fish}}''
+|it=Qwilfish|itmeaning=Same as English name
+|ko=침바루 ''Chimbaru''|komeaning=From {{tt|침 (針) ''chim''|needle}}, {{tt|바늘 ''baneul''|needle}}, and ''balloon''
+|zh_cmn=千針魚 / 千针鱼 ''Qiānzhēnyú''|zh_cmnmeaning=From {{tt|千 ''qiān''|thousand}}, {{tt|針 / 针 ''zhēn''|needle}}, and {{tt|魚 / 鱼 ''yú''|fish}}
+|zh_yue=千針魚 ''Chīnjāmyùh''|zh_yuemeaning=From {{tt|千 ''chīn''|thousand}}, {{tt|針 ''jām''|needle}}, and {{tt|魚 ''yùh''|fish}}
+|hi=सुईफ़िश ''Suifish''|himeaning=From {{tt|सुई ''sui''|needle}} and ''fish''
+|ru=Квилфиш ''Kvilfish''|rumeaning=Transcription of English name
+|th=ฮารีเซน ''Harisen''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+<!--
+==Notes==
+<references/>-->
+
+==See also==
+* [[Regional form]]
+* [[Weaponry in the Pokémon world]]
+
+==External links==
+{{Hisuian forms}}
+{{PokémonPrevNext/Head|type=Water|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0210|prev=Granbull|nextnum=0212|next=Scizor}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+[[Category:Pokémon whose base stats changed in Generation VII]]
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Pokémon that evolve with certain moves]]
+[[Category:Pokémon that evolve with Barb Barrage]]
+
+[[de:Baldorfish]]
+[[es:Qwilfish]]
+[[fr:Qwilfish]]
+[[it:Qwilfish]]
+[[ja:ハリーセン]]
+[[zh:千针鱼]]

@@ -1,0 +1,608 @@
+{{PokémonPrevNext/Head|type=Water|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Frillish}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0591|prev=Amoonguss|nextnum=0593|next=Jellicent|round=none}}
+{{PokémonPrevNext/Disambig|species=Frillish}}
+|}
+{{Pokémon Infobox
+|name=Frillish
+|jname=プルリル
+|jtranslit=Pururiru
+|tmname=Pururill
+|category=Floating
+|typebox=1
+|type1=Water
+|type2=Ghost
+|abilityn=d
+|ability1=Water Absorb
+|ability2=Cursed Body
+|abilityd=Damp
+|ndex=0592
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=72.8
+|weight-kg=33.0
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=20
+|expyield=67
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|evtotal=1
+|evsd=1
+|catchrate=190
+|body=10
+|pokefordex=frillish
+|generation=5
+|friendship=70
+}}
+'''Frillish''' ([[List of Japanese Pokémon names|Japanese]]: '''プルリル''' ''Pururill'') is a dual-type {{2t|Water|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Jellicent}} starting at [[level]] 40.
+
+==Biology==
+Frillish is a jellyfish-like {{OBP|Pokémon|species}} resembling young royalty. Regardless of gender, it has a round head with a crown-like tuft, and five tentacle-like appendages—two function as arms and three serve as the lower half of its body. It has oval eyes with white pupils, and a collar around its neck, which is significantly larger on a male Frillish. It has invisible poison spikes on its appendages. As a male, it is blue, with smooth appendages and a triangular crown. It has red eyes with blue sclerae and a straight eyelash on each eye, its collar is wavy, and it typically appears to be frowning, but in the {{pkmn|animated series}} it is shown to smile occasionally. As a female, it is pink, with wavy appendages and a round crown. It has blue eyes with red sclerae and a curled eyelash on each eye, its collar is frilled, and it appears to be smiling.
+
+Frillish is a {{wp|Hadal zone|hadopelagic}} Pokémon which lives in dens about 5 miles (8 kilometers) under the sea surface. Because of this, it can cope with extremely dark and highly pressurized sea conditions. It is carnivorous; it gently floats around in waves until it can strike its prey. It makes its victim numb with the use of its poison spikes and takes it to its deep den. Its arms are filled with tens of thousands of poisonous stingers. There is a legend where Frillish are said to have been created from transformed residents of a sunken ancient city. Frillish preys on {{p|Magikarp}} and {{p|Lanturn}}. Female Frillish are stated to have slightly longer stingers on their arms.
+
+===Evolution===
+Frillish evolves into {{p|Jellicent}}.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Male'''
+{{evobox-2
+|type1=Water
+|type2=Ghost
+|pictype=sprite
+|no1=0592Frillish-Male
+|name1=Frillish
+|type1-1=Water
+|type2-1=Ghost
+|evo1=
+|no2=0593Jellicent-Male
+|name2=Jellicent
+|type1-2=Water
+|type2-2=Ghost}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Female'''
+{{evobox-2
+|type1=Water
+|type2=Ghost
+|pictype=sprite
+|no1=0592Frillish-Female
+|name1=Frillish
+|type1-1=Water
+|type2-1=Ghost
+|evo1=
+|no2=0593Jellicent-Female
+|name2=Jellicent
+|type1-2=Water
+|type2-2=Ghost}}
+</div>
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Ghost}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=098|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=180|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.}}
+{{Dex/Entry1|v=White|entry=They paralyze prey with poison, then drag them down to their lairs, {{tt|five miles|eight kilometers}} below the surface.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=318|label1={{gameIcon|US}}{{gameIcon|UM}}:|reg2=Kanto}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=305|reg2=Galar|num2=192|label2=Isle of Armor|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Form|Both genders}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean's surface.}}
+{{Dex/Form|Male}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Legend has it that the residents of a sunken ancient city changed into these Pokémon.{{tt|*|Used for both genders in-game}}}}
+{{Dex/Form|Female}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its thin, veillike arms have tens of thousands of poisonous stingers. Females have slightly longer stingers.{{tt|*|Unused in the final release of the game}}}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{water color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{ghost color dark}}; background:#{{water color light}}| [[File:Pokédex Image Frillish USUM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{ghost color dark}}; background:#{{water color light}}| [[File:Pokédex Image Frillish-Female USUM.png|x200px]]
+|-
+|Male Frillish in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|Female Frillish in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Ghost}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Route]]s {{rtn|4|Unova}}, {{rtn|17|Unova}}, and {{rtn|18|Unova}}, [[Driftveil City]], [[P2 Laboratory]] ([[Surfing]])}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|4|Unova}}, {{rtn|13|Unova}}, {{rtn|17|Unova}}, {{rtn|18|Unova}}, and {{rtn|21|Unova}}, [[Virbank City]], [[Virbank Complex]], [[Undella Town]], [[Undella Bay]], [[Seaside Cave]], [[Humilau City]], [[P2 Laboratory]] ([[Surfing]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Route]]s {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{rt|14|Alola}} ([[Surfing]])<br/>{{rt|14|Alola}} ([[List of in-game event Pokémon in Pokémon Ultra Sun and Ultra Moon#Frillish|One]]){{tt|*|always female}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[East Lake Axewell]], [[Bridge Field]], [[West Lake Axewell]], [[North Lake Miloch]], [[Dusty Bowl]], [[Giant's Mirror]]<br>[[Watchtower Ruins/Dens|Watchtower Ruins]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Stepping-Stone Sea]]}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Ghost}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Chill Battle#Unidentified Flying Objects|Chill Battle: Unidentified Flying Objects]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 1|Infinite Ruins: Stage 1]] <small>('''Male''')</small><br>[[Infinite Ruins#Stage 2|Infinite Ruins: Stage 2]] <small>('''Female''')</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Seabreeze Trail|White Ruins: Seabreeze Trail]] <small>(All Areas)</small>, [[Starlight Islands#Upside-Down Island|Starlight Islands: Upside-Down Island]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Lental Seafloor]]<sup><span style="color:#067162;">Level 2</span>+</sup>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 421]] <small>('''Male''')</small><br>[[Zaffiro Coast|Zaffiro Coast: Stage 643]] <small>('''Male''')</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#Ninth release|''Pokémon Safari'']] <small>(Ninth release; '''Female''')</small><br>Event: ''{{DL|One Chance a Day|A Great Chance a Day!}}'' <small>('''Female''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Ghost
+|HP=55
+|Attack=40
+|Defense=50
+|SpAtk=65
+|SpDef=85
+|Speed=40}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=200
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|waterabsorb=maybe}}
+
+===Learnset===
+Frillish is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Frillish|Water|Ghost|5}}
+{{learnlist/level8|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level8|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level8|4|Poison Sting|Poison|Physical|15|100|35}}
+{{learnlist/level8|8|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/level8|12|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level8|16|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level8|20|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level8|24|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level8|28|Recover|Normal|Status|—|—|10}}
+{{learnlist/level8|32|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level8|36|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/level8|41|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level8|44|Destiny Bond|Ghost|Status|—|—|5}}
+{{learnlist/level8|48|Water Spout|Water|Special|150|100|5||'''}}
+{{learnlist/levelf/8|Frillish|Water|Ghost|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Frillish|Water|Ghost|5}}
+{{learnlist/tm8|TM19|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm8|TM38|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM44|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM45|Dive|Water|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/tm8|TM70|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM77|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tr|TR16|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR58|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR78|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tr|TR84|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tr|TR92|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tmf/8|Frillish|Water|Ghost|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Frillish|Water|Ghost|5}}
+{{learnlist/breed8|{{MSP/8c|593|Jellicent}}|Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/breed8|{{MSP/8c|871|Pincurchin}}|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/breed8|{{MSP/8c|092|Gastly}}{{MSP/8c|093|Haunter}}{{MSP/8c|094|Gengar}}{{MSP/8c|355|Duskull}}{{MSP/8c|356|Dusclops}}{{MSP/8c|477|Dusknoir}}{{MSP/8c|442|Spiritomb}}{{MSP/8c|607|Litwick}}{{MSP/8c|608|Lampent}}{{MSP/8c|609|Chandelure}}{{MSP/8c|708|Phantump}}{{MSP/8c|709|Trevenant}}{{MSP/8c|710|Pumpkaboo}}{{MSP/8c|711|Gourgeist}}|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/breed8|{{MSP/8c|422|Shellos}}{{MSP/8c|423|Gastrodon}}|Mist|Ice|Status|—|—|30|*}}
+{{learnlist/breed8|{{MSP/8c|577|Solosis}}{{MSP/8c|578|Duosion}}{{MSP/8c|579|Reuniclus}}{{MSP/8c|607|Litwick}}{{MSP/8c|608|Lampent}}{{MSP/8c|609|Chandelure}}{{MSP/8c|710|Pumpkaboo}}{{MSP/8c|711|Gourgeist}}{{MSP/8c|778|Mimikyu}}|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/breed8|{{MSP/8c|426|Drifblim}}|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/breedf/8|Frillish|Water|Ghost|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Frillish|Water|Ghost|5}}
+{{learnlist/tutor8|Poltergeist|Ghost|Physical|110|90|5||'''|no|yes}}
+{{learnlist/tutorf/8|Frillish|Water|Ghost|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Frillish|Water|Ghost|5}}
+{{learnlist/prevgen8|Frillish|5|Bind|Normal|Physical|15|85|20|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Frillish|5|Bubble|Water|Special|40|100|30||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Frillish|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Frillish|5|Constrict|Normal|Physical|10|100|35|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Frillish|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Frillish|5|Dream Eater|Psychic|Special|100|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Frillish|5|Flash|Normal|Status|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Frillish|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Frillish|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Frillish|5|Magic Coat|Psychic|Status|—|—|15|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Frillish|5|Ominous Wind|Ghost|Special|60|100|5||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Frillish|5|Psych Up|Normal|Status|—|—|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Frillish|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Frillish|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Frillish|5|Shock Wave|Electric|Special|60|—|20|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Frillish|5|Spite|Ghost|Status|—|100|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Frillish|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Frillish|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Frillish|5|Water Sport|Water|Status|—|—|15|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Frillish|5|Wring Out|Normal|Special|—|100|5|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgenf/8|Frillish|Water|Ghost|5}}
+
+===Side game data===
+====Male Frillish====
+{{Spindata/Head|type=Water|type2=Ghost}}
+{{Spindata/PSMD|col=6|type=Water|ndex=592
+|coset=3 (♂)
+|conto={{form|Shellos and Gastrodon|East Sea}} {{p|Shellos}}, {{p|Unfezant}} (♂), Frillish (♀)
+|recruitment=Rescue Frillish
+|P1=I like to wrap my arms tightly around my partner, but maybe I should ease up a bit.
+|P2=I can't wrap my arms around it…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=592 m
+|walk=1.67
+|hp=49
+|attack=70
+|defense=52
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=592
+|pad=The Frillish on the beach are good friends. They speak politely to each other, but they want to enjoy honest conversation, too.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=592
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=592|stype=Ghost|num=568
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=592
+|hatch=N/A
+|buddy=3
+|candy=Frillish
+|evocandy=50
+|stamina=146
+|attack=115
+|defense=134
+|fast={{m|Bubble}}, {{m|Hex}}
+|special={{m|Night Shade}}, {{m|Ice Beam}}, {{m|Ominous Wind}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Water|ndex=592|pdex=119
+|dex=The Frillish drifting in the {{wp|blue hole}} are on the lookout for {{pkmn|food}}. Sometimes the males and females will work together to drag other Pokémon down to the depths of the sea.}}
+|}
+
+====Female Frillish====
+{{Spindata/Head|type=Water|type2=Ghost}}
+{{Spindata/PSMD|col=6|type=Water|ndex=592 f
+|coset=3 (♀)
+|conto={{form|Shellos and Gastrodon|West Sea}} {{p|Shellos}}, {{p|Unfezant}} (♀), Frillish (♂)
+|recruitment=Rescue
+|P1=Tee-hee! Now that I'm holding you, I'll never let go!
+|P2=Ohhh… Don't let me go!
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=592 f
+|walk=1.67
+|hp=49
+|attack=70
+|defense=52
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=592
+|pad=The Frillish on the beach are good friends. They speak politely to each other, but they want to enjoy honest conversation, too.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=592F
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=592F|stype=Ghost|num=568
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Vitality Drain
+|skilldesc=Damage varies depending on the opponent's remaining HP.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=0592 f
+|hatch=N/A
+|buddy=3
+|candy=Frillish
+|evocandy=50
+|stamina=146
+|attack=115
+|defense=134
+|fast={{m|Bubble}}, {{m|Hex}}
+|special={{m|Night Shade}}, {{m|Ice Beam}}, {{m|Ominous Wind}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Water|ndex=592F|pdex=119
+|dex=The Frillish drifting in the {{wp|blue hole}} are on the lookout for {{pkmn|food}}. Sometimes the males and females will work together to drag other Pokémon down to the depths of the sea.}}
+|}
+
+===Evolution data===
+====Male====
+{{evobox-2
+|type1=Water
+|type2=Ghost
+|pictype=sprite
+|no1=0592Frillish-Male
+|name1=Frillish
+|type1-1=Water
+|type2-1=Ghost
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}
+|no2=0593Jellicent-Male
+|name2=Jellicent
+|type1-2=Water
+|type2-2=Ghost
+}}
+
+====Female====
+{{evobox-2
+|type1=Water
+|type2=Ghost
+|pictype=sprite
+|no1=0592Frillish-Female
+|name1=Frillish
+|type1-1=Water
+|type2-1=Ghost
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}
+|no2=0593Jellicent-Female
+|name2=Jellicent
+|type1-2=Water
+|type2-2=Ghost
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Ghost}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5/Gender|ndex=592}}
+{{Spritebox/6/Gender|ndex=592|crop=87}}
+{{Spritebox/7/Gender|ndex=592|crop=87}}
+{{Spritebox/8/Gender|ndex=592}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/Gender|ndex=0592}}
+{{Spritebox/Footer|592|Frillish}}
+
+==In animation==
+[[File:Trip Frillish.png|thumb|250px|A male Frillish in {{aniseries|BW}}]]
+[[File:Jessie Frillish.png|thumb|250px|A female Frillish in {{aniseries|JN}}]]
+===Major appearances===
+====[[Jessie's Frillish]]====
+[[Jessie]] owns a female Frillish, which debuted in ''[[BW109|New Places... Familiar Faces!]]''. She eventually had to give Frillish to {{an|Giovanni}} as a sign that they accomplished something in [[Unova]]. Frillish returned to Jessie's party in ''[[JN145|Rocket Revengers!]]''.
+
+====Other====
+A male Frillish debuted in ''[[BW010|A Rival Battle for Club Champ!]]'', under the ownership of [[Trip]]. He used Frillish in his match against {{Ash}}, and he was able to defeat both {{AP|Pidove}} and {{AP|Snivy}}, despite having a disadvantage against the latter in both type and gender.
+
+A female Frillish debuted in ''[[BW037|A Fishing Connoisseur in a Fishy Competition!]]''. She took a liking to Ash after he fell into the canal. She was later hooked by {{an|Bianca}} during a [[fishing]] competition, and when she saw {{TRT}} attempting to kidnap the prize Pokémon, she released them all back into the wild.
+
+In ''[[BW115|The Pokémon Harbor Patrol!]]'', [[Halsey]] used both male and female Frillish to help rescue people from fires, and then to help put out the fires alongside {{p|Dewott}}.
+
+===Minor appearances===
+Both male and female Frillish appeared in the opening sequences of [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']]; the female Frillish was exclusive to the former movie and the male Frillish was exclusive to the latter.
+
+Multiple male and female Frillish appeared in ''[[BW069|Climbing the Tower of Success!]]''.
+
+Both male and female Frillish appeared in ''[[BW099|A Surface to Air Tag Battle Team!]].''
+
+In ''[[BW080|Clash of the Connoisseurs!]]'', a female Frillish was living in [[Stonesthrow Town]].
+
+A male Frillish appeared in ''[[BW086|Piplup, Pansage, and a Meeting of the Times!]]''.
+
+In ''[[SM058|Fighting Back the Tears!]]'', [[James]] attempted to catch a female Frillish, but he failed when {{TP|James|Mareanie}}, seeing it as a rival for James's affections, scared it off with {{m|Spike Cannon}}.
+
+In ''[[JN005|Mind-Boggling Dynamax!]]'', a female Frillish was among the Pokémon seen in the [[Wild Area]].
+
+In ''[[JN050|A Pinch of This, a Pinch of That!]]'', a female Frillish was in the Wild Area.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW010|Frillish|Ash's Pokédex|Frillish, the Floating Pokémon. Frillish can constrict its foes using its veil-like tentacles and numb them with poison. It is said to live in dens some {{tt|five miles|eight kilometers}} below sea level.}}
+{{Animedexbody|BW037|Frillish|Bianca's Pokédex|Frillish, the Floating Pokémon. Frillish numbs its opponents with its poison as it binds its victim with its thin, veil-like tentacles.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===POKÉTOON===
+A female Frillish appeared in ''[[PT06|Help! I've Turned into a Gengar]]''.
+
+==In the manga==
+[[File:Marlon Frillish Adventures.png|200px|thumb|left|Male Frillish in [[Pokémon Adventures]]]]
+[[File:Team Plasma Frillish Adventures.png|200px|thumb|Female Frillish in Pokémon Adventures]]
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+Both male and female Frillish appeared in ''[[FAT5|Clash! White Hero vs Black Hero]]''.
+
+===Pokémon Adventures===
+Both male and female Frillish debuted in ''[[PS487|A New Perspective]]''
+
+Both male and female Frillish appeared in ''[[PS541|Pink Slip]]''.
+
+[[Marlon]] owned a male Frillish, which went on to evolve into a Jellicent. He appeared in a flashback in ''[[PS514|The Tournament Continues]]''.
+
+A {{tc|Team Plasma Grunt}} used a female Frillish in a flashback in ''[[PS531|Unforgettable Memories]]''. She fought against Hugh's Purrloin and Trapinch after Hugh refused to listen to them when they convinced him that he was causing pain to his Pokémon. Frillish was able to weaken Purrloin, forcing Hugh's sister recall it to its Poké Ball, which was then taken by two Grunts afterwards.
+
+A female Frillish appeared in a flashback in ''[[PS548|Epilogue]]''.
+
+===Pokémon RéBURST===
+A Frillish appeared in [[RB41]].
+{{-}}
+
+==In the TCG==
+{{main|Frillish (TCG)}}
+
+==Trivia==
+* The Japanese [[Pokémon Black and White beta|prototype name]] for Frillish was プルンス ''Purunsu''.<ref>[http://imgur.com/lCiPM87 Cover of Japanese script] for ''[[BW010|A Rival Battle for Club Champ!]]''</ref>
+[[File:592Frillish Female Dream.png|thumb|right|150px|{{pkmn|Dream World}} artwork of female Frillish]]
+* Although female {{pkmn|Dream World}} artwork exists, any Frillish or {{p|Jellicent}} uploaded to the {{pkmn|Global Link}} would use the male artwork, regardless of their gender.
+* Frillish and Jellicent were originally pure Water-type. The Ghost type was added to their typing for balancing reasons, with [[Ken Sugimori]] noting that the designer for the Frillish line was disappointed that they ended up becoming scary Pokémon.<ref name=ND204>''Nintendo Dream'' Vol. 204, April 2011 ([https://web.archive.org/web/20110704155314/http://shellspider.blog101.fc2.com/blog-entry-502.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream-2/ Translation by Dr. Lava])</ref>
+
+===Origin===
+Frillish and its evolved form were most likely inspired by the  {{wp|Nurarihyon}}, a {{wp|jellyfish}} ''{{wp|yōkai}}'' that is either shown as a demonized jellyfish or as a jellyfish-like man who wears refined, sometimes regal, clothing. It is also possible that they were inspired by the Kurage no Hinotama, a type of jellyfish-like {{wp|will-o'-the-wisp}}. Frillish and its evolved form may also be inspired by real-life jellyfish such as the {{wp|Stygiomedusa}}, also known as the Phantom Jelly, a very rarely seen deep sea jellyfish with fabric-like arms. The two larger arms Frillish possesses are more similar to those of {{wp|squid}}s than the tentacles of real jellyfish, however.
+
+Frillish's design is inspired by the image of princes and princesses,<ref name=ND204/> perhaps specifically of the {{wp|Victorian fashion|Victorian-style}} monarch attire. Frillish and its evolved form also have traits in common with {{wp|sea monster}}s like the {{wp|Kraken}}, most notably their rumored penchant for destroying ships and feeding on the crew.
+
+====Name origin====
+Frillish may be a combination of {{wp|Frill (fashion)|''frill''}} and ''jellyfish''.
+
+Pururill may be a combination of プルプル ''purupuru'' (onomatopoeia for jiggling) and ''{{wp|Ruffle (sewing)|frill}}''.
+
+==In other languages==
+{{Other languages|type=Water|type2=Ghost
+|ja=プルリル ''Pururill''|jameaning=From {{tt|プルプル ''purupuru''|onomatopoeia for jiggling}} and ''frill''
+|fr=Viskuse|frmeaning=From ''{{tt|visqueux|viscous}}'' and ''{{tt|méduse|jellyfish}}''
+|es=Frillish|esmeaning=Same as English name
+|de=Quabbel|demeaning=From ''{{tt|Qualle|jellyfish}}'' and ''{{tt|schwabbeln|to wobble}}''
+|it=Frillish|itmeaning=Same as English name
+|ko=탱그릴 ''Tengguril''|komeaning=From {{tt|탱글탱글 ''taengeultaengeul''|mimetic word for round and taut}} and ''frill''
+|zh_cmn=輕飄飄 / 轻飘飘 ''Qīngpiāopiāo''|zh_cmnmeaning=From {{tt|輕飄飄 / 轻飘飘 ''qīngpiāopiāo''|lightly floating}}
+|zh_yue=輕飄飄 ''Hēngpīupīu''|zh_yuemeaning=From {{tt|輕飄飄 ''hēngpīupīu''|lightly floating}}
+|hi=फ़्रिलिश ''Frillish''|himeaning=Transcription of its English name
+|ru=Фриллиш ''Frillish''|rumeaning=Transcription of English name
+|th=พูรูริล ''Phururin''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==Related articles==
+*[[Jessie's Frillish]]
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0591|prev=Amoonguss|nextnum=0593|next=Jellicent}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+
+[[de:Quabbel]]
+[[es:Frillish]]
+[[fr:Viskuse]]
+[[it:Frillish]]
+[[ja:プルリル]]
+[[zh:轻飘飘]]

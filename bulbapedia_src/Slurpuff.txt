@@ -1,0 +1,448 @@
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/GO|species=Slurpuff}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0684|prev=Swirlix|nextnum=0686|next=Inkay|round=none}}
+{{PokémonPrevNext/Disambig|species=Slurpuff}}
+|}
+{{Pokémon Infobox
+|name=Slurpuff
+|jname=ペロリーム
+|tmname=Peroream
+|jtranslit=Perorīmu
+|category=Meringue
+|typebox=1
+|type1=Fairy
+|abilityn=d
+|ability1=Sweet Veil
+|abilityd=Unburden
+|ndex=0685
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=11.0
+|weight-kg=5.0
+|egggroupn=1
+|egggroup1=Fairy
+|gendercode=127
+|eggcycles=20
+|evtotal=2
+|evde=2
+|expyield=168
+|lv100exp=1,000,000
+|color=White
+|catchrate=140
+|body=12
+|pokefordex=slurpuff
+|generation=6
+|friendship=70
+}}
+'''Slurpuff''' ([[List of Japanese Pokémon names|Japanese]]: '''ペロリーム''' ''Peroream'') is a {{type|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Swirlix}} when [[Trade Evolution|traded]] while holding a [[Whipped Dream]].
+
+==Biology==
+[[File:Miette Slurpuff.png|thumb|250px|left|Slurpuff with its mouth open and fangs visible]]
+Slurpuff is a white, bipedal {{OBP|Pokémon|species}}. It has reddish-pink eyes with white pupils and is usually seen with its tongue poking out of the corner of its mouth. When its mouth is open, two upper fangs can be seen. On top of its head is a mass of fluffy pink fur with a red cherry-like sphere on top. On either side of its head, its pink fur forms a spherical shape similar to ears. Around its neck is a wavy, red collar and there is a red spot on the left side of its chest. It has small, pink feet with three toes and stubby arms.
+
+Slurpuff has an exceptionally keen sense of smell that is 100 million times stronger than that of a human. This allows it to distinguish even the faintest of smells and assist pastry chefs in the cooking. Slurpuff can tell a person's mental and physical condition by taking in their scent. Its fur contains a lot of air, making it light and soft to the touch.
+
+Prior to [[Generation VII]], Slurpuff and its pre-evolved form, {{p|Swirlix}}, were the [[Signature Ability|only known Pokémon]] that could have {{a|Sweet Veil}} as an [[Ability]].
+
+===Evolution===
+Slurpuff evolves from {{p|Swirlix}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=fairy
+|pictype=art
+|no1=0684
+|name1=Swirlix
+|type1-1=Fairy
+|evo1=
+|no2=0685
+|name2=Slurpuff
+|type1-2=Fairy}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fairy}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=132|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its sense of smell is 100 million times better than a human's, so even the faintest scent tells it about everything in the area. It's like it can see with its nose!}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Its sense of smell is 100 million times better than a human's, so even the faintest scent tells it about everything in the area. It's like it can see with its nose!}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=211|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=By taking in a person's scent, it can sniff out their mental and physical condition. It's hoped that this skill will have many medical applications.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Slurpuff's fur contains a lot of air, making it soft to the touch and lighter than it looks.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Swirlix}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|v=Sword|t=FFF|area=[[Rolling Fields/Dens|Rolling Fields]], [[Bridge Field/Dens|Bridge Field]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Lake of Outrage/Dens|Lake of Outrage]] ([[Max Raid Battle]])}}
+{{Availability/Entry1/None|v=Shield}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 1|Mountain of Order: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Pixie Glen|Fairy Land: Pixie Glen]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Snorlax Sea]], [[Mimikyu Sea]], [[Zygarde Sea]], [[Butterfree Sea]], [[Greninja Sea]], [[Mimikyu Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Sweet Strasse|Sweet Strasse: Stage 86]]<br>Event: ''[[Daily Pokémon#Special Daily Pokémon (third release)|Special Daily Pokémon]]'' <small>(Third release; Winking)</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Story event]] (''[[Rising New Year's Resolutions]]''): {{sync|Katherine|Slurpuff|Furisode Girl}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Fairy
+|HP=82
+|Attack=80
+|Defense=86
+|SpAtk=85
+|SpDef=75
+|Speed=72
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fairy
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=200
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=0
+|Dark=50
+|Fairy=100
+|notes=yes
+|fairy=yes
+|newdragon=1
+}}
+
+===Learnset===
+Slurpuff is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Slurpuff|Fairy|Fairy|6}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level8|1|Play Nice|Normal|Status|—|—|20}}
+{{learnlist/level8|1|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level8|9|Aromatherapy|Grass|Status|—|—|5}}
+{{learnlist/level8|12|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/level8|15|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/level8|18|Round|Normal|Special|60|100|15}}
+{{learnlist/level8|21|String Shot|Bug|Status|—|95|40}}
+{{learnlist/level8|24|Cotton Spore|Grass|Status|—|100|40}}
+{{learnlist/level8|27|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/level8|30|Wish|Normal|Status|—|—|10}}
+{{learnlist/level8|33|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/level8|36|Cotton Guard|Grass|Status|—|—|10}}
+{{learnlist/level8|39|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/level8|42|Sticky Web|Bug|Status|—|—|20}}
+{{learnlist/levelf/8|Slurpuff|Fairy|Fairy|6}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Slurpuff|Fairy|Fairy|6}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM19|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM63|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM87|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/tr|TR02|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tr|TR14|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tr|TR17|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR49|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR90|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/tr|TR92|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tmf/8|Slurpuff|Fairy|Fairy|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Slurpuff|Fairy|Fairy|6}}
+{{learnlist/breed8|{{MSP/8c|035|Clefairy}}{{MSP/8c|036|Clefable}}{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}{{MSP/8c|531|Audino}}{{MSP/8c|876|Indeedee}}|After You|Normal|Status|—|—|15|grid=6}}
+{{learnlist/breed8|{{MSP/8c|035|Clefairy}}{{MSP/8c|036|Clefable}}{{MSP/8c|039|Jigglypuff}}{{MSP/8c|040|Wigglytuff}}|Copycat|Normal|Status|—|—|20|grid=6}}
+{{learnlist/breed8|{{MSP/8c|685|Slurpuff}}|Sticky Web|Bug|Status|—|—|20|grid=6}}
+{{learnlist/breed8|{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}|Yawn|Normal|Status|—|—|10|grid=6}}
+{{learnlist/breedf/8|Slurpuff|Fairy|Fairy|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Slurpuff|Fairy|Fairy|6}}
+{{learnlist/tutor8|Misty Explosion|Fairy|Special|100|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Slurpuff|Fairy|Fairy|6}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Slurpuff|Fairy|Fairy|6}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Slurpuff|Fairy|Fairy|6}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Slurpuff|Fairy|Fairy|6}}
+{{learnlist/prevgen8|Slurpuff|6|Belly Drum|Normal|Status|—|—|10|VI=yes<!--breed-->|VII=yes<!--breed-->}}
+{{learnlist/prevgen8|Slurpuff|6|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Slurpuff|6|Covet|Normal|Physical|60|100|25|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Slurpuff|6|Double Team|Normal|Status|—|—|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Slurpuff|6|Dream Eater|Psychic|Special|100|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Slurpuff|6|Flash|Normal|Status|—|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Slurpuff|6|Frustration|Normal|Physical|—|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Slurpuff|6|Gastro Acid|Poison|Status|—|100|10|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Slurpuff|6|Heal Bell|Normal|Status|—|—|5|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Slurpuff|6|Hidden Power|Normal|Special|60|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Slurpuff|6|Magic Coat|Psychic|Status|—|—|15|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Slurpuff|6|Psych Up|Normal|Status|—|—|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Slurpuff|6|Return|Normal|Physical|—|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Slurpuff|6|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Slurpuff|6|Swagger|Normal|Status|—|85|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Slurpuff|6|Toxic|Poison|Status|—|90|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Slurpuff|Fairy|Fairy|6}}
+
+====[[Animated series move errors|Animated series-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{fairy color}}; border: 3px solid #{{fairy color dark}}"
+|-
+! style="background: #{{fairy color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{fairy color light}}" | Type
+! style="background: #{{fairy color light}}; {{roundytr|5px}}" | Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Electro Ball}}
+| style="background:#{{Electric color}}" | {{typecolor|Electric}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[XY075|Rivals: Today and Tomorrow!]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Fairy}}
+{{Spindata/PSMD|col=6|type=Fairy|ndex=685
+|coset=3
+|conto={{p|Happiny}}
+|recruitment=Talk to in [[Capim Town]]
+|P1=I smell something yummy from over that way. *sniff sniff* ♪
+|P2=Ugh... I just wanna eat something...
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Fairy|ndex=685
+|walk=1.67
+|hp=56
+|attack=78
+|defense=55
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Fairy|ndex=685
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Fairy|ndex=685|num=071
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Opportunist
+|skilldesc=Rarely increases damage.
+|swapper=Cheer
+}}
+{{Spindata/Shuffle|col=3|type=Fairy|ndex=685Winking|num=071
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Cross Attack
+|skilldesc=Increases damage when making a + shaped match.
+}}
+|-
+{{Spindata/GO|col=6|type=Fairy|ndex=685
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=193
+|attack=168
+|defense=163
+|fast={{m|Tackle}}, {{m|Charm}}, {{m|Fairy Wind}}{{tt|*|From September 1, 2022 onward}}
+|special={{m|Play Rough}}, {{m|Energy Ball}}, {{m|Flamethrower}}, {{m|Draining Kiss}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=fairy
+|pictype=art
+|no1=0684
+|name1=Swirlix
+|type1-1=Fairy
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]] + [[File:Dream Whipped Dream Sprite.png|40px|link=Sachet]]<br>{{color2|000|Trade}}<br>while holding {{color2|000|Whipped Dream}}
+|no2=0685
+|name2=Slurpuff
+|type1-2=Fairy
+}}
+
+===Sprites===
+{{Spritebox/Header|type=fairy}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=685|crop=71}}
+{{Spritebox/7|ndex=685|crop=71}}
+{{Spritebox/8|ndex=685}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0685}}
+{{Spritebox/Footer|685|Slurpuff}}
+
+==In animation==
+===Main series===
+[[File:Sawyer Slurpuff.png|thumb|250px|Slurpuff in {{aniseries|XY}}]]
+====Major appearances====
+=====[[Miette's Slurpuff]]=====
+Slurpuff debuted in ''[[XY026|A Battle by Any Other Name!]]'', under the ownership of [[Miette]]. She is her main Pokémon, which she uses in every [[Pokémon Showcase]] she competes in.
+
+=====Other=====
+A male Slurpuff appeared in ''[[XY075|Rivals: Today and Tomorrow!]]'', under the ownership of [[Sawyer]]. He was first used during a {{pkmn|battle}} against {{Ash}}, where he battled {{AP|Hawlucha}} but was defeated. Slurpuff reappeared in ''[[XY126|Valuable Experience for All!]]'', during Sawyer's battle against {{an|Tierno}} in the [[Lumiose Conference]]. He battled {{p|Raichu}} before being defeated by {{TP|Tierno|Blastoise}}. Sawyer used Slurpuff against Ash once more in ''[[XY128|A Riveting Rivalry!]]''; he battled {{AP|Goodra}}, which ultimately resulted in a tie.
+
+A Slurpuff appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'', under the ownership of [[Raleigh]]. It was Raleigh's companion and eventually proceeded to become his partner when Raleigh decided to set off on a Pokémon journey by the end of the movie.
+
+A Slurpuff appeared in ''[[HZ019|The Bittersweet Truth]]'', where it was used by {{OBP|Mitchell|HZ019}} in a [[Double Battle]] against a joint team of [[Murdock]] and [[Liko]].
+
+====Minor appearances====
+A {{pkmn|Trainer}}'s Slurpuff appeared in ''[[XY057|Thawing an Icy Panic!]]''.
+
+Multiple Slurpuff appeared as images in ''[[SM006|A Shocking Grocery Run!]]''.
+
+A Trainer's Slurpuff appeared in [[HZ112]].
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY026|Slurpuff|Ash's Pokédex|Slurpuff, the Meringue Pokémon. Slurpuff's keen sense of smell is especially sensitive, much more than people's.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+===Pokémon: Twilight Wings===
+A Slurpuff appeared in ''[[TW08|The Gathering of Stars]]''.
+
+==In the manga==
+[[File:Slurpuff Adventures.png|thumb|150px|Slurpuff in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Slurpuff debuted in ''[[PASS21|Swaying!! Murky Memories]],'' under the ownership of a {{tc|Gym Trainer}} working for [[Opal]].
+{{-}}
+
+==In the TCG==
+{{main|Slurpuff (TCG)}}
+
+==Trivia==
+* Slurpuff can be seen as a parallel to {{p|Aromatisse}}. Both are [[Generation VI]] {{type|Fairy}} Pokémon that are version exclusives of [[Pokémon X and Y]] and in [[Pokemon Sword and Shield]], with Slurpuff being exclusive to X and Sword, and Aromatisse to Y and Shield, both have [[Signature Ability|signature Abilities]] that affect themselves as well as their allies, and both evolve from their base forms when traded holding a certain item.
+
+===Origin===
+Slurpuff may be based on {{wp|meringue}}, a dessert made from whipped egg whites and sugar. It is often topped with {{wp|whipped cream}} and fruits to create a meringue nest. The red sphere on its head resembles a fruit topping such as a strawberry or cherry, which may refer to the phrase "Cherry on top". Meringue is also used as a sweet base on other various desserts such as cakes, pies, and pastries. Slurpuff may also be based on {{wp|cupcake}}s or Japanese-style {{wp|mille-feuille}}. Cupcakes are sometimes referred to as fairy cakes, which may be an inspiration for its type. 
+
+Although Slurpuff carries over some canine-like details from its previous stage, its design appears to be an amalgam of a {{wp|lap dog}} and a heavily stylized {{wp|clown}}, complete with white face paint, pink {{wp|Ruff (clothing)|ruff collar}}, and light pink "wig". Its facial expression may be based on a dog's behavior to often wait and beg for table scraps at dining settings.
+
+As its Dex entries suggests, it may also be based on a {{wp|chef}} and a {{wp|food taster}} as its head resembles the chef's hat and the red patterns around its neck are similar to a {{wp|neckerchief}} or {{wp|Bib (garment)|bib}}.  
+
+Its [[Shiny]] variant's tan and brown colors may reference desserts made of both meringue and chocolate, e.g. cookies and pie.
+
+====Name origin====
+Slurpuff may be a combination of ''slurp'' and ''puff''. 
+
+Peroream may be a combination of ペロペロ ''peropero'' (onomatopoeia for licking) or ''perro'' (Spanish for dog) and ''cream''.
+
+==In other languages==
+{{Other languages|type=Fairy|type2=Fairy
+|ja=ペロリーム ''Peroream''|jameaning=From {{tt|ペロペロ ''peropero''|onomatopoeia for licking}} and ''cream''
+|fr=Cupcanaille|frmeaning=From ''cupcake'' and ''{{tt|canaille|rascal}}''
+|es=Slurpuff|esmeaning=Same as English name
+|de=Sabbaione|demeaning=From ''{{tt|sabbern|to drool}}'' and ''{{wp|Zabaione}}''
+|it=Slurpuff|itmeaning=Same as English name
+|ko=나루림 ''Naruream''|komeaning=From {{tt|낼름낼름 ''naelleum-naelleum''|onomatopoeia for licking}} and ''cream''
+|zh_cmn=胖甜妮 ''Pàngtiánní / Pàngtiánnī''|zh_cmnmeaning=From {{tt|胖 ''pàng''|fat}}, {{tt|甜 ''tián''|sweet}}, and {{tt|妮 ''ní / nī''|girl}}
+|zh_yue=胖甜妮 ''Buhntìhmnèih''|zh_yuemeaning=From {{tt|胖 ''buhn''|fat}}, {{tt|甜 ''tìhm''|sweet}}, and {{tt|妮 ''nèih''|girl}}
+|hi=लिक्रीमी ''Licreamy''|himeaning=From ''lick'' and ''cream'' or ''creamy''
+|ru=Слёрпафф ''Slyorpaff''|rumeaning=Transcription of English name
+|th=เพโรรีม ''Pherorim''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Miette's Slurpuff]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0684|prev=Swirlix|nextnum=0686|next=Inkay}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Sabbaione]]
+[[es:Slurpuff]]
+[[fr:Cupcanaille]]
+[[it:Slurpuff]]
+[[ja:ペロリーム]]
+[[zh:胖甜妮]]

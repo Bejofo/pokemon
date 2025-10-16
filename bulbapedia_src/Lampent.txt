@@ -1,0 +1,508 @@
+{{PokémonPrevNext/Head|type=Ghost|type2=Fire}}
+{{PokémonPrevNext/GO|species=Lampent}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0607|prev=Litwick|nextnum=0609|next=Chandelure|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Lampent
+|jname=ランプラー
+|jtranslit=Ranpurā
+|tmname=Lampler
+|ndex=0608
+|type1=Ghost
+|type2=Fire
+|category=Lamp
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=28.7
+|weight-kg=13.0
+|abilityn=d
+|ability1=Flash Fire
+|ability2=Flame Body
+|abilityd=Infiltrator
+|abilityold=Shadow Tag
+|abilityoldcaption=Gen V{{tt|*|Lampent with this Ability was never made available legitimately.}} Hidden Ability
+|abilitydcaption=Gen VI+
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=20
+|expyield=130
+|lv100exp=1,059,860
+|gendercode=127
+|color=Black
+|catchrate=90
+|evtotal=2
+|evsa=2
+|body=04
+|pokefordex=lampent
+|generation=5
+|friendship=70
+}}
+'''Lampent''' ([[List of Japanese Pokémon names|Japanese]]: '''ランプラー''' ''Lampler'') is a dual-type {{2t|Ghost|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Litwick}} starting at level 41 and evolves into {{p|Chandelure}} when exposed to a [[Dusk Stone]].
+
+==Biology==
+Lampent is a {{OBP|Pokémon|species}} which has a clear, spherical head containing a bluish-purple flame and oval, yellow eyes. On top of its head is a black covering, which resembles a {{wp|lampshade}}, with a pointed spike on top. Underneath its head is a small, black body with a pointed spike at the bottom. Extending from its body are two long, wavy arms with no fingers. It floats through the air to move.
+
+Lampent can sense when someone is about to die, whom it visits and steals the spirit from the person's body. Though most often found in deep forests, it quietly wanders through cities and hangs around near hospitals to absorb the spirits of the fallen. It also pretends to be a lamp while in cities. Because of this, Lampent is feared as the emissary of death.  It uses the spirits it has absorbed to fuel its fire. On occasion, it has been known to work with {{p|Litwick}} to lead people to the [[Ghost World]] while stealing life energy.
+
+===Evolution===
+Lampent evolves from {{p|Litwick}} and evolves into {{p|Chandelure}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-3
+|type1=Ghost
+|type2=Fire
+|no1=0607
+|name1=Litwick
+|type1-1=Ghost
+|type2-1=Fire
+|evo1=
+|no2=0608
+|name2=Lampent
+|type1-2=Ghost
+|type2-2=Fire
+|evo2=
+|no3=0609
+|name3=Chandelure
+|type1-3=Ghost
+|type2-3=Fire}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost|type2=Fire}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=114|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=191|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen.}}
+{{Dex/Entry1|v=White|entry=It arrives near the moment of death and steals spirit from the body.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=066|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It arrives near the moment of death and steals spirit from the body.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It arrives near the moment of death and steals spirit from the body.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=288|reg2=Galar|num2=049|label2=Crown Tundra|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon appears just before someone passes away, so it's feared as an emissary of death.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=147|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Lampent appears at the moment of death and promptly absorbs the spirit as it leaves the body.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fire color dark}}; background:#{{ghost color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{ghost color light}}; background:#{{ghost color light}} | [[File:Pokédex Image Lampent SV Kitakami.png|x200px]]
+|-
+| Lampent in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ghost|type2=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Litwick}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Litwick}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Ghost-type Safari|Ghost]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Litwick}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Litwick}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Lake of Outrage]]<br>[[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Bed]], [[Old Cemetery]]<br>[[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Timeless Woods]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Kitakami)|Lampent|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ghost|type2=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Hauntyard: [[Misty Edgewater]], [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Wish Park]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Ignis]], [[Spectra]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace - Eastern Spire]] (1F-12F), [[Rusty Mountain]] (Gilded Hall), [[Jaws of the Abyss]] (Uncharted Road, Gilded Hall), [[Smoking Mountain]] (Uncharted Road, Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Wonder Area#Haunted Playland|Wonder Area: Haunted Playland]], [[Toy Collection#The Sword for Justice|Toy Collection: The Sword for Justice]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 3|Pitch-Black Cavern: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Chilling Graveyard|Dark Land: Chilling Graveyard]] <small>(All Areas)</small>, [[Legend Terrain#Tomb of Nightmares|Legend Terrain: Tomb of Nightmares]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Gengar Sea]], [[Mimikyu Sea]], [[Greninja Sea]], [[Mimikyu Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Castle Noapte|Castle Noapte: Stage 122]]<br>[[Nacht Carnival|Nacht Carnival: Stage 539]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ghost
+|type2=Fire
+|HP=60
+|Attack=40
+|Defense=60
+|SpAtk=95
+|SpDef=60
+|Speed=55
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Fire
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=200
+|Rock=200
+|Bug=25
+|Ghost=200
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=200
+|Fairy=50
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|flashfire=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Lampent|Ghost|Fire|5}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|1|Smog|Poison|Special|30|70|20||}}
+{{learnlist/level9|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level9|1|Minimize|Normal|Status|—|—|10||}}
+{{learnlist/level9|12|Confuse Ray|Ghost|Status|—|100|10||}}
+{{learnlist/level9|16|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level9|20|Will-O-Wisp|Fire|Status|—|85|15||}}
+{{learnlist/level9|24|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/level9|28|Night Shade|Ghost|Special|—|100|15||}}
+{{learnlist/level9|32|Curse|Ghost|Status|—|—|10||}}
+{{learnlist/level9|36|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level9|40|Inferno|Fire|Special|100|50|5||'''}}
+{{learnlist/level9|46|Imprison|Psychic|Status|—|—|10||}}
+{{learnlist/level9|52|Pain Split|Normal|Status|—|—|20||}}
+{{learnlist/level9|58|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/level9|64|Memento|Dark|Status|—|100|10||}}
+{{learnlist/levelf/9|Lampent|Ghost|Fire|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Lampent|Ghost|Fire|5}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10||}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm9|TM024|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM038|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20||}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10||}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15||}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10||}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm9|TM157|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM165|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30||}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10||}}
+{{learnlist/tm9|TM195|Burning Jealousy|Fire|Special|70|100|5||'''}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM207|Temper Flare|Fire|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Lampent|Ghost|Fire|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Lampent|Ghost|Fire|5}}
+{{learnlist/breed9|{{MSP/H|0088|Grimer}}{{MSP/H|0088-Alola|Grimer}}{{MSP/H|0089|Muk}}{{MSP/H|0089-Alola|Muk}}|Acid Armor|Poison|Status|—|—|20|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0109|Koffing}}{{MSP/H|0110|Weezing}}{{MSP/H|0110-Galar|Weezing}}{{MSP/H|0218|Slugma}}{{MSP/H|0219|Magcargo}}|Clear Smog|Poison|Special|50|—|15|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0109|Koffing}}{{MSP/H|0110|Weezing}}{{MSP/H|0110-Galar|Weezing}}|Haze|Ice|Status|—|—|30|||grid=5}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Power Split|Psychic|Status|—|—|10|||grid=5}}
+{{learnlist/breedf/9|Lampent|Ghost|Fire|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Lampent|Ghost|Fire|5}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/9|Lampent|Ghost|Fire|5}}
+
+====Special moves====
+{{learnlist/eventh/9|Lampent|Ghost|Fire|5}}
+{{learnlist/event9|[[Infernal Pass|Wild Tera Pokémon]]|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/event9|[[Infernal Pass|Wild Tera Pokémon]]|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/event9|[[Infernal Pass|Wild Tera Pokémon]]|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/eventf/9|Lampent|Ghost|Fire|5}}
+
+===Side game data===
+{{Spindata/Head|type=Ghost|type2=Fire}}
+{{Spindata/PSMD|col=6|type=Ghost|ndex=608
+|coset=5
+|conto={{p|Breloom}}
+|recruitment=Fleeing Pokémon
+|P1=They say my fire is made of the spirits of the fallen… Scary, isn't it? Be afraid! Be very afraid!
+|P2=Oh no! The fire in the lamp is finally…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Ghost
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ghost|ndex=608
+|walk=2.08
+|hp=51
+|attack=73
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Ghost|ndex=608
+|strong=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]]
+|weak=[[File:Snivy icon.png|link=Snivy (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=Lampent like the interior of the {{DL|Attraction (PokéPark)|Dance Inferno}} that {{p|Chandelure}} coordinated, and they reaffirmed their determination to follow him.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ghost|ndex=608
+|HP=2
+|atk=3
+|def=2
+|spd=2
+|range=3
+|move=Flame Burst
+|ability1=Flame Body
+|ability2=Flash Fire
+|ability3=Warm Blanket
+|evo=Evolves from {{p|Litwick}} when its Attack is 84 or higher<br>Evolves into {{p|Chandelure}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Dusk Stone]] |
+|link='''[[Kanbei]]''', [[Maa]], [[Masanobu]], and [[Takatora]]
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ghost|ndex=608
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Ghost|ndex=608|num=66
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+}}
+|-
+{{Spindata/GO|col=6|type=Ghost|ndex=608
+|hatch=N/A
+|buddy=5
+|candy=Litwick
+|evocandy=100 + [[File:GO Unova Stone.png|20px|link=Unova Stone]] 1
+|stamina=155
+|attack=169
+|defense=115
+|fast={{m|Astonish}}, {{m|Ember}}
+|special={{m|Energy Ball}}, {{m|Flame Burst}}, {{m|Heat Wave}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Ghost
+|type2=Fire
+|no1=0607
+|name1=Litwick
+|type1-1=Ghost
+|type2-1=Fire
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 41}}
+|no2=0608
+|name2=Lampent
+|type1-2=Ghost
+|type2-2=Fire
+|evo2={{Bag/s|Dusk Stone|SV}}<br>{{color2|000|Dusk Stone}}
+|no3=0609
+|name3=Chandelure
+|type1-3=Ghost
+|type2-3=Fire}}
+
+===Sprites===
+{{Spritebox/Header|type=Ghost|type2=Fire}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=608}}
+{{Spritebox/6|ndex=608|crop=80}}
+{{Spritebox/7|ndex=608|crop=79}}
+{{Spritebox/8|ndex=608}}
+<!--{{Spritebox/9|ndex=0608}}-->
+{{Spritebox/HOME|ndex=0608}}
+{{Spritebox/Footer|608|Lampent}}
+
+==In animation==
+[[File:Tepen Lampent.png|thumb|250px|Lampent in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Lampent debuted in ''[[BW022|A Venipede Stampede!]]'', under the ownership of [[Trip]]. He used it to try to help stop a {{pkmn2|wild}} swarm of {{p|Venipede}} from taking over [[Castelia City]].
+
+In ''[[BW026|Scare at the Litwick Mansion!]]'', a Lampent was the leader of a quartet of Litwick. They tried to take {{Ash}}, {{ashfr}}, and {{TRT}} to the [[Ghost World]].
+
+In ''[[JN014|Raid Battle in The Ruins!]]'', the excavation {{OBP|leader|JN014}} used a Lampent in a [[Raid Battle (GO)#In animation|Raid Battle]] against a {{pkmn2|giant}} {{TP|Goh|Golurk}}, which was eventually defeated.
+
+In ''[[HZ028|The Stolen Treasure]]'', a Lampent appeared under the ownership of [[Tepen]].
+
+====Minor appearances====
+In ''[[BW056|The Lonely Deino!]]'', multiple Lampent were under [[Bobby]]'s care.
+
+A Lampent appeared in ''[[BW069|Climbing the Tower of Success!]]''.
+
+A Lampent appeared in a fantasy in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+Five {{pkmn|Trainer}}s' Lampent appeared in ''[[SM034|A Crowning Moment of Truth!]]'', with one appearing in a flashback. They were among the Pokémon attending the [[Wela Fire Festival]].
+
+In ''[[SM094|A Haunted House for Everyone!]]'', a Lampent was an illusion created by a {{p|Mismagius}}.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW022|Lampent|Ash's Pokédex|Lampent, the Lamp Pokémon. Lampent moves around by floating through the air. Most often found in the deep forest, they now can be seen living in cities as well.}}
+{{Animedexbody|BW026|Lampent|Ash's Pokédex|Lampent, the Lamp Pokémon, and the [[Evolution|evolved]] form of {{p|Litwick}}. Rarely, Lampent can be found with Litwick leading [[Human|people]] and Pokémon to the [[Ghost World]] while stealing their life energy.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon: Twilight Wings===
+A Lampent appeared in ''[[TW06|Moonlight]]''.
+
+===POKÉTOON===
+A Lampent appeared in ''[[PT06|Help! I've Turned into a Gengar]]''.
+
+===Pokémon Concierge===
+[[File:Pokémon Concierge Lampent bonfire lit.png|thumb|250px|Lampent in [[Pokémon Concierge]]]]
+Lampent debuted in ''[[PC01|I'm Haru, the New Concierge!]]'', helping some guests with carrying their luggage.
+
+Lampent appeared in ''[[PC03|I Hope I Can Evolve Too...]]'', setting up camp with [[Haru]] and her {{p|Psyduck}} during her nightly island patrol shift.
+
+Lampent appeared in ''[[PC05|A Pokémon to Help Me!]]'' as one of the Pokémon that emit light during the [[Pokémon Resort]]'s impromptu light show. It also made a cameo appearance in ''[[PC08|Where I Belong]]''.
+{{-}}
+
+==In the manga==
+[[File:Rood Lampent Adventures.png|thumb|200px|Lampent in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A {{pkmn|Trainer}}'s Lampent appeared in ''[[PS486|Unraveling Mysteries]]'' and ''[[PS511|Dream a Little Dream]]''.
+
+In ''[[PS521|Triple Threat]]'', [[Rood]] used a Lampent during his {{pkmn|battle}} at the {{un|Pokémon League}}. It went up against the {{pkmn|Trainer}}s who were helping {{adv|Black}} rescue the captured [[Gym Leader]]s.
+
+A Lampent appeared in ''[[PS526|Mr. Perfect]]'', under the ownership of {{adv|Bianca}}. It was revealed to have evolved from her Litwick prior to the chapter.
+{{-}}
+
+==In the TCG==
+{{main|Lampent (TCG)}}
+
+==Trivia==
+* Lampent represents {{wp|October}} in the [[Unova]] [[horoscope]].
+* Lampent and its evolutionary relatives are the only dual-type {{2t|Fire|Ghost}} {{OBP|Pokémon|species}} to have Ghost as their primary type instead of their secondary type.
+
+===Origin===
+Lampent seems to be based on an {{wp|Street light|oil street lamp}} and the {{wp|hitodama}} or {{wp|will-o'-the-wisp}}s.  It may also take inspiration from ''{{wp|chōchin-obake}}'', albeit in a modern, Western style. Its lampshade resembles a witch hat.
+
+====Name origin====
+Lampent may be a combination of ''lamp'', ''lambent'' (softly glowing), and possibly ''lament''.
+
+Lampler may be derived from ''lamp''.
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Fire
+|ja=ランプラー ''Lampler''|jameaning=From ''lamp''
+|fr=Mélancolux|frmeaning=From ''{{tt|mélancolie|melancholy}}'' and ''{{tt|lux|Latin for light}}''
+|es=Lampent|esmeaning=Same as English name
+|de=Laternecto|demeaning=From ''{{tt|Laterne|lantern}}'' and ''{{tt|Ektoplasma|ectoplasm}}''
+|it=Lampent|itmeaning=Same as English name
+|ko=램프라 ''Lampler''|komeaning=Transcription of Japanese name
+|zh_cmn=燈火幽靈 / 灯火幽灵 ''Dēnghuǒyōulíng''|zh_cmnmeaning=From {{tt|燈火 / 灯火 ''dēnghuǒ''|lights}}, {{tt|火 ''huǒ''|fire}}, and {{tt|幽靈 / 幽灵 ''yōulíng''|ghost, phantom}}
+|zh_yue=燈火幽靈 ''Dāngfóyāulìhng''|zh_yuemeaning=From {{tt|燈火 ''dāngfó''|lights}}, {{tt|火 ''fó''|fire}}, and {{tt|幽靈 ''yāulìhng''|ghost, phantom}}
+|hi=लौमटेन ''Laumten''|himeaning=From {{tt|लालटेन ''lālṭen''|lantern}}
+|ru=Лампент ''Lampent''|rumeaning=Transcription of English name
+|th=แลมพูลา ''Laemphula''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Chandelure (UNITE)]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Ghost|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0607|prev=Litwick|nextnum=0609|next=Chandelure}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve by Evolution stone]]
+[[Category:Pokémon that evolve using Dusk Stone]]
+
+[[de:Laternecto]]
+[[es:Lampent]]
+[[fr:Mélancolux]]
+[[it:Lampent]]
+[[ja:ランプラー]]
+[[zh:灯火幽灵]]

@@ -1,0 +1,1067 @@
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/GO|species=Dugtrio}}
+{{PokémonPrevNext/Pokémon|type=Ground|species=Dugtrio|prevnum=0050|prev=Diglett|nextnum=0052|next=Meowth|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Dugtrio
+|jname=ダグトリオ
+|jtranslit=Dagutorio
+|tmname=Dugtrio
+|forme=2
+|form1=Dugtrio
+|form2=Alolan Dugtrio
+|image2=0051Dugtrio-Alola.png
+|ndex=0051
+|type1=Ground
+|form2type1=Ground
+|form2type2=Steel
+|category=Mole
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=73.4
+|weight-kg=33.3
+|weight-lbs2=146.8
+|weight-kg2=66.6
+|abilitylayout=2+1
+|abilitycold=2
+|ability1=Sand Veil
+|ability2=Arena Trap
+|ability2-1=Sand Veil
+|ability2-2=Tangling Hair
+|abilityd=Sand Force
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=2
+|evforms=2
+|evsp=2
+|evat2=2
+|expyield=149<!--142 in Gen V-VI-->
+|oldexp=153
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=50
+|body=11
+|pokefordex=dugtrio
+|generation=1
+|friendship=70
+}}
+'''Dugtrio''' ([[List of Japanese Pokémon names|Japanese]]: '''ダグトリオ''' ''Dugtrio'') is a {{type|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s from {{p|Diglett}} starting at [[level]] 26.
+
+In [[Alola]], Dugtrio has a dual-type {{2t|Ground|Steel}} [[regional form]]. It evolves from Alolan Diglett starting at level 26.
+
+It is [[Ecologically similar Pokémon|ecologically similar]] to {{p|Wugtrio}}; however, the two are separate species.
+
+==Biology==
+Dugtrio is a set of {{p|Diglett}} triplets sharing a single body, although no one knows what its body looks like since it's perpetually buried underground. Each head is incredibly tough with a smooth surface, and has brown skin, black eyes, and a large, round, pink nose. Dugtrio's three heads think the same thoughts and act cooperatively, though on rare occasions may fight over which head gets to eat first. In order to make burrowing easier, each head will bob up and down to loosen the soil. Dugtrio can tunnel under the earth at 60&nbsp;mph (100&nbsp;km/h) to a depth of 60 miles (100 kilometers), triggering tremors and earthquakes. It is capable of burrowing endlessly. Dugtrio lives in tunnels and {{DL|List of Pokémon by habitat|Cave Pokémon|caves}} under the earth. Dugtrio is considered important for agriculture as its digging aerates the soil and makes it suitable for farming. As shown in the [[Pikachu short]] ''[[PK04|Pikachu's Rescue Adventure]]'', Dugtrio sometimes lives in hollow trees in forests. It maintains the soil and plants trees to revitalize wooded areas. As mentioned in [[Pokémon Sleep]], the three triplets of Dugtrio is known to sleep together, never separating from each other. The trio's teamwork remains strong even when sleeping.<ref>[[Sleep style|Sleep Style Dex]]</ref>
+
+In [[Generation II]], Dugtrio and its pre-evolved form, {{p|Diglett}}, were the [[Signature move|only known Pokémon]] capable of learning the move {{m|Fissure}}. 
+
+===Forms===
+Dugtrio has a [[regional form]]: {{rf|Alolan}} Dugtrio.
+
+[[Alola]]n Dugtrio is visually very similar to its counterpart, except each head has a mop of golden hair formed from modified whiskers. The left head has a bob-cut, the right head has curly "shoulder-length" hair, and the last one has flowing hair that touches the ground behind it. This hair is made out of thin, yet heavy strands of steel, which grows slowly and continuously throughout Alolan Dugtrio's life.<ref name=SMsite>[https://www.pokemon-sunmoon.com/en-us/pokemon/alolan-dugtrio/ Pokémon Sun and Moon site | Alolan Dugtrio] ([https://web.archive.org/web/20170925010230/http://www.pokemon-sunmoon.com:80/en-us/pokemon/alolan-dugtrio/ archive])</ref> The hairs act as a defensive measure, as well as sensors that can detect vibrations from long distances underground. 
+
+In the [[Alola]] region, Alolan Dugtrio is regarded as a feminine deity of the earth, and taking its hairs is thought to bring bad luck.<ref name=SMsite/> The people of Alola are known to fall to their knees and bow in respect to any Alolan Dugtrio they encounter. In Alola, there is superstitious belief that several Alolan Dugtrio will emerge out of their holes whenever an volcanic eruption occurs. Older residents of Alola will flee instantly upon witnessing this unusal sight. It's believed that Alolan Dugtrio is capable of detecting movements underground that indicate an impending eruption. Due to this, they tend to come aboveground in fright as an warning. They can also be found in the [[Coastal Biome]] of [[Blueberry Academy]]'s [[Terarium]], where Alola's island life is simulated.
+
+Alolan Dugtrio and its pre-Evolution are the [[Signature Ability|only known Pokémon]] that can have {{a|Tangling Hair}} as an [[Ability]].
+
+{{p|Wugtrio}} was once considered a regional variant of Dugtrio due to their resemblance, but it has since been reclassified as a completely separate species.
+
+===Evolution===
+Dugtrio evolves from {{p|Diglett}}.
+
+{{rf|Alolan}} Dugtrio evolves from Alolan Diglett.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Dugtrio'''
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=0050
+|name1=Diglett
+|type1-1=Ground
+|evo1=
+|no2=0051
+|name2=Dugtrio
+|type1-2=Ground}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Alolan Dugtrio'''
+{{Evobox-2
+|type1=Ground
+|type2=Steel
+|pictype=sprite
+|no1=0050Diglett-Alola
+|name1=Diglett
+|form1=Alolan Form
+|type1-1=Ground
+|type2-1=Steel
+|evo1=
+|no2=0051Dugtrio-Alola
+|name2=Dugtrio
+|form2=Alolan Form
+|type1-2=Ground
+|type2-2=Steel}}
+</div>
+</div>
+
+==Game data==
+===NPC appearances===
+* {{g|Brilliant Diamond and Shining Pearl}}: Dugtrio and {{p|Diglett}} can be found roaming the halls of the [[Grand Underground]]. When 40 Diglett (or Dugtrio, which counts as 3) have been found, all players in the same Grand Underground session will receive a variety of bonuses for a period of 4 minutes. These include raising the odds of finding a [[Shiny Pokémon]] in a Pokémon Hideaway from 1/4096 to 1/2048 and forcing all Stone Boxes found when mining to become Pretty Stone Boxes.
+* {{g|Pinball}}: Dugtrio appears in a bonus stage that can be accessed by the Red Table. After the player has knocked out a number of {{p|Diglett}}, they must knock out the Dugtrio that appears to win.
+* {{g|Mystery Dungeon: Red Rescue Team and Blue Rescue Team}}: Dugtrio sends the player to [[Mt. Steel]] to rescue his son in the third story mission of the game. Dugtrio loves to show off to his son, but often forgets that people can't see him underground.
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: Dugtrio is one of the members of the [[Wigglytuff's Guild|Wigglytuff Guild]]. He updates the Outlaw Notice Board and Job Bulletin Board with rotating boards. Like in the previous game, Diglett is his son. He believes that he can swim in the sea, despite being a Ground type.
+
+===Pokédex entries===
+{{Dex/Header|type=Ground}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=051}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=A team of <sc>Diglett</sc> triplets. It triggers huge earthquakes by burrowing {{tt|60 miles|100 km}} underground.}}
+{{Dex/Entry1|v=Yellow|entry=A team of triplets that can burrow over {{tt|60 MPH|100 km/h}}. Due to this, some people think it's an earthquake.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=<sc>Diglett</sc> triplets that always travel together. Known to burrow more than {{tt|60 miles|100 km}} underground and trigger quakes.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=133}}
+{{Dex/Entry1|v=Gold|entry=Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.}}
+{{Dex/Entry1|v=Silver|entry=Extremely powerful, they can <sc>Dig</sc> through even the hardest ground to a depth of over {{tt|60 miles|100 km}}.}}
+{{Dex/Entry1|v=Crystal|entry=These <sc>Diglett</sc> triplets dig over {{tt|60 miles|100 km}} below sea level. No one knows what it's like underground.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Extremely powerful, they can <sc>Dig</sc> through even the hardest ground to a depth of over 60 miles. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=051}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Dugtrio</sc> are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.}}
+{{Dex/Entry1|v=FireRed|entry=In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.}}
+{{Dex/Entry1|v=LeafGreen|entry=A team of <sc>Diglett</sc> triplets. It triggers huge earthquakes by burrowing {{tt|60 miles|100 km}} underground.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=135}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its three heads move alternately, driving it through tough soil to depths of over {{tt|60 miles|100 km}}.}}
+{{Dex/Entry1|v=HeartGold|entry=Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.}}
+{{Dex/Entry1|v=SoulSilver|entry=Extremely powerful, they can dig through even the hardest ground to a depth of over {{tt|60 miles|100 km}}.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its three heads move alternately, driving it through tough soil to depths of over {{tt|60 miles|100 km}}.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its three heads move alternately, driving it through tough soil to depths of over {{tt|60 miles|100 km}}.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=002|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Extremely powerful, they can dig through even the hardest ground to a depth of over {{tt|60 miles|100 km}}.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=072|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=086|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=051}}
+{{Dex/Entry1|v=Sun|entry=This set of triplets moves cooperatively. It's the power of teamwork that enables this Pokémon to dig to a depth of {{tt|60 miles.|100 km}}}}
+{{Dex/Entry1|v=Moon|entry=Despite the closeness between this Pokémon and farmers and other people, no one has ever seen the parts of it concealed underground.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=While the three of them normally get along splendidly, on rare occasions a huge fight will break out over which head gets to eat first.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Dugtrio's heads are sleek and smooth and incredibly hard. It can dig through any soil with its headbutts.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=A team of triplets that can burrow to a depth of {{tt|60 miles.|100 km}} It's reported that this triggers an earthquake.}}
+{{Dex/Form|Alolan Dugtrio}}
+{{Dex/Entry1|v=Sun|entry=Its shining gold hair provides it with protection. It's reputed that keeping any of its fallen hairs will bring bad luck.}}
+{{Dex/Entry1|v=Moon|entry=These Pokémon are cherished in the Alola region, where they are thought to be feminine deities of the land incarnate.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Its metallic whiskers are heavy, so it's not very fast, but it has the power to dig through bedrock.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Its shining gold whiskers are advanced sensors that can detect vibrations from sounds several miles away.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=They're referred to as triplets, but they're not identical—the metallic elements in their bodies differ slightly. The proof shows in their whiskers!}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=165|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=A team of Diglett triplets. It triggers huge earthquakes by burrowing {{tt|60 miles|100 km}} underground.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=These Diglett triplets dig over {{tt|60 miles|100 km}} below sea level. No one knows what it's like underground.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Its three heads move alternately, driving it through tough soil to depths of over {{tt|60 miles|100 km}}.}}
+{{Dex/Form|Alolan Dugtrio}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The three of them get along very well. Through their formidable teamwork, they defeat powerful opponents.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=149|reg2=Kitakami|reg3=Blueberry|num3=67}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.}}
+{{Dex/Form|Alolan Dugtrio}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Its shining gold whiskers are advanced sensors that can detect vibrations from sounds several miles away.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Its metallic whiskers are heavy, so it’s not very fast, but it has the power to dig through even the hardest bedrock.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{ground color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{ground color light}};" | [[File:Pokédex Image Dugtrio SM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{steel color dark}}; background:#{{ground color light}};" | [[File:Pokédex Image Dugtrio-Alola SM.png|x200px]]
+|-
+| Dugtrio in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Alolan Dugtrio in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+| style="border:2px solid #{{ground color dark}}; background:#{{ground color light}}; {{roundy|5px}}; | [[File:Pokédex Image Dugtrio SV.png|x200px]]
+| style="border:2px solid #{{steel color dark}}; background:#{{ground color light}}; {{roundy|5px}};" | [[File:Pokédex Image Dugtrio SV Blueberry.png|x200px]]
+|-
+| Dugtrio in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Alolan Dugtrio in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|}
+
+===Game locations===
+{{Availability/Header|type=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Diglett's Cave]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Diglett's Cave]]}}
+{{Availability/Entry1|v=Yellow|area=[[Diglett's Cave]]<br/>[[In-game trade#Yellow|Trade]] {{p|Lickitung}} on {{rt|11|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Diglett's Cave]]}}
+{{Availability/Entry1|v=Crystal|area=[[Diglett's Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Diglett's Cave]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Citadark Isle]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|228|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|228|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Diglett's Cave]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|13|Kalos}}, [[Friend Safari]] ([[Friend Safari#Ground-type Safari|Ground]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Diglett}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Haina Desert]], [[Poni Coast]], [[Resolution Cave]], [[Vast Poni Canyon]] <small>('''Alolan Form''')</small><br>[[Pokémon Bank]] <small>('''Kantonian Form''')</small>}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Haina Desert]], [[Poni Coast]], [[Resolution Cave]], [[Vast Poni Canyon]], [[Lush Jungle]] (Cave) <small>('''Alolan Form''')</small><br>[[Pokémon Bank]] <small>('''Kantonian Form''')</small>}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Diglett's Cave]] <small>('''Kantonian Form''')</small><br/>[[Evolution|Evolve]] {{p|Diglett}} <small>('''Alolan Form''')</small>
+}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|6|Galar}}, [[Giant's Mirror]], [[Giant's Cap]], [[Dusty Bowl]], [[Lake of Outrage]], [[Hammerlocke Hills]] <small>('''Kantonian Form''')</small><br>[[Bridge Field/Dens|Bridge Field]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]]) <small>('''Kantonian From''')</small><br>[[Trade]] <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Max Lair]] ([[Dynamax Adventure]]) <small>('''Kantonian/Alolan Forms''')</small>}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|228|Sinnoh}} <small>('''Kantonian Form''')</small><br>Unobtainable <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Two)|Area Two]], [[South Province (Area Six)|Area Six]], [[Alfornada Cavern]] <small>('''Kantonian Form''')</small><br>East Province: [[East Province (Area Three)|Area Three]] <small>('''Kantonian Form''')</small><br>West Province: [[Asado Desert]] <small>('''Kantonian Form''')</small><br>North Province: [[North Province (Area Two)|Area Two]], [[North Province (Area Three)|Area Three]], [[Dalizapa Passage]] <small>('''Kantonian Form''')</small><br>[[Area Zero]] <small>('''Kantonian Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Dugtrio|4★}}) <small>('''Kantonian Form''')</small><br>[[Trade]] <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Coastal Biome]], [[Torchlit Labyrinth]] <small>('''Alolan Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 6★ Tera Raid Battles (Blueberry Academy)|Dugtrio - Alolan Form|6★}}) <small>('''Alolan Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Tunnel]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Diglett}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field|Back Yard]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 8, Endless Level 23, Forever Level 57, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Diglett}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Krokka Tunnel]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Shimmer Desert]] (1F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Shimmer Desert]] (1F-9F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area={{OBP|Rocky Cave|Rumble}} <small>(Normal Mode B & S)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Cavern Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#It's Drill Time!|Variety Battle: It's Drill Time!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 1|Safari Jungle: Stage 1]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Heat-Wave Desert|Fairy Land: Heat-Wave Desert]] <small>(All Areas)</small>, [[Legend Terrain#Sky Crest Range|Legend Terrain: Sky Crest Range]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zapdos Sea]], [[Celebi Sea]], [[Bulbasaur Sea]], [[Celebi Sea]]<sup>Final</sup> <small>('''Kantonian Form''')</small><br>[[Zygarde Sea]], [[Zygarde Sea]]<sup>Final</sup> <small>('''Alolan Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Wish Cave]] (23F-28F), [[Southern Cavern]] (20F-31F), [[Joyous Tower]] (23F-28F), [[Purity Forest]] (23F-25F)<br/>Fainted Pokémon: [[Mt. Faraway]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Great 5)<br>[[Taupe Hollow]] (from Great 1)<br>[[Old Gold Power Plant]] (from Basic 3) <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX50]] <small>('''Kantonian Form''')</small><br>Event: ''[[Special Challenge|Dugtrio Appears]]'' <small>('''Kantonian Form''')</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#17th release|''Pokémon Safari'']] <small>(17th release; '''Alolan Form''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[PML Arc]] (''{{DL|PML Arc|Chapter 26: The Future is Now!}}''): {{sync|Molayne|Dugtrio}} <small>('''Alolan Form''')</small><br>[[Evolution]]: {{sync/player|egg|Diglett}} <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+====Dugtrio====
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Ground}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Gold Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games1|XD|tcolor=FFF|Pokémon XD: Gale of Darkness}}
+{{HeldItems/Items1|Soft Sand|100}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Soft Sand|5|rows=6}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+
+====Alolan Dugtrio====
+{{HeldItems/header|type=Ground|type2=Steel}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Items1|Soft Sand|5|rows=2}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+|}
+
+===Stats===
+====Base stats====
+=====Dugtrio=====
+======Generations I-VI======
+{{Stats
+|type=Ground
+|HP=35
+|Attack=80
+|Defense=50
+|SpAtk=50
+|SpDef=70
+|Speed=120
+|Special=70
+}}
+
+======Generation VII onward======
+{{Stats
+|type=Ground
+|HP=35
+|Attack=100
+|Defense=50
+|SpAtk=50
+|SpDef=70
+|Speed=120
+}}
+
+=====Alolan Dugtrio=====
+{{Stats
+|type=Ground
+|type2=Steel
+|HP=35
+|Attack=100
+|Defense=60
+|SpAtk=50
+|SpDef=70
+|Speed=110
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|Speed=4
+|SpeedMax=5
+|Power=3
+|PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=4
+|Jump=1
+|JumpMax=1
+}}
+
+===Type effectiveness===
+====Dugtrio====
+{{TypeEffectiveness
+|type1=Ground
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=1
+}}
+
+* In addition, Dugtrio is immune to the move {{m|Telekinesis}}.
+
+====Alolan Dugtrio====
+{{TypeEffectiveness
+|type1=Ground
+|type2=Steel
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=25
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=200
+|Water=200
+|Grass=100
+|Electric=0
+|Psychic=50
+|Ice=100
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|ground=yes
+|newelectric=1
+|steel=yes
+|newpoison=½
+}}
+
+* In addition, Alolan Dugtrio is immune to the move {{m|Telekinesis}}.
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Dugtrio=====
+{{learnlist/levelh/9|Dugtrio|Ground|Ground|1}}
+{{learnlist/level9|1|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/level9|1|Tri Attack|Normal|Special|80|100|10}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level9|12|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level9|16|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|20|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level9|24|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level9|30|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level9|36|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level9|42|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|48|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level9|54|Fissure|Ground|Physical|—|30|5}}
+{{learnlist/levelf/9|Dugtrio|Ground|Ground|1}}
+
+=====Alolan Dugtrio=====
+{{learnlist/levelh/9|Dugtrio|Ground|Steel|7}}
+{{learnlist/level9|1|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/level9|1|Tri Attack|Normal|Special|80|100|10}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|1|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level9|12|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level9|16|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|20|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level9|24|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level9|30|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level9|36|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level9|42|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|48|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level9|54|Fissure|Ground|Physical|—|30|5}}
+{{learnlist/levelf/9|Dugtrio|Ground|Steel|7}}
+
+====By [[TM]]====
+=====Dugtrio=====
+{{learnlist/tmh/9|Dugtrio|Ground|Ground|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20|patch=Version 2.0.1 onwards}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Dugtrio|Ground|Ground|1}}
+
+=====Alolan Dugtrio=====
+{{learnlist/tmh/9|Dugtrio|Ground|Steel|7}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Dugtrio|Ground|Steel|7}}
+
+====By {{pkmn|breeding}}====
+=====Dugtrio=====
+{{learnlist/breedh/9|Dugtrio|Ground|Ground|2}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed9|{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}|Final Gambit|Fighting|Special|—|100|5}}
+{{learnlist/breed9|{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0273|Seedot}}{{MSP/H|0287|Slakoth}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}{{MSP/H|0875|Eiscue}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0971|Greavard}}{{MSP/H|0972|Houndstone}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0863|Perrserker}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215|Sneasel|form=-Hisui}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0335|Zangoose}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0570|Zorua}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571|Zoroark|form=-Hisui}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/breed9|{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}|Memento|Dark|Status|—|100|10}}
+{{learnlist/breedf/9|Dugtrio|Ground|Ground|2}}
+
+=====Alolan Dugtrio=====
+{{learnlist/breedh/9|Dugtrio|Ground|Steel|7}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed9|{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}|Final Gambit|Fighting|Special|—|100|5}}
+{{learnlist/breed9|{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0273|Seedot}}{{MSP/H|0287|Slakoth}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}{{MSP/H|0875|Eiscue}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0971|Greavard}}{{MSP/H|0972|Houndstone}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0863|Perrserker}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215|Sneasel|form=-Hisui}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0335|Zangoose}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0570|Zorua}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571|Zoroark|form=-Hisui}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/breed9|{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}|Memento|Dark|Status|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0863|Perrserker}}{{MSP/H|0448|Lucario}}|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0863|Perrserker}}{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0128|Tauros}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128-Paldea Blaze|Tauros}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0522|Blitzle}}{{MSP/H|0523|Zebstrika}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0766|Passimian}}{{MSP/H|0775|Komala}}{{MSP/H|0877|Morpeko}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breedf/9|Dugtrio|Ground|Steel|7}}
+
+====By a prior [[Evolution]]====
+=====Dugtrio=====
+{{learnlist/prevoh/9|Dugtrio|Ground|Ground|1}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Dugtrio|Ground|Ground|1}}
+
+=====Alolan Dugtrio=====
+{{learnlist/prevoh/9|Dugtrio|Ground|Steel|7}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Dugtrio|Ground|Steel|7}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color}}; border: 3px solid #{{tcg fighting color dark}}"
+|-
+! style="background: #{{tcg fighting color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg fighting color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|SonicBoom}}
+| style="background:#fff; {{roundybr|5px}}" | [[Dugtrio (EX FireRed & LeafGreen 22)]]
+|}
+
+===Side game data===
+====Dugtrio====
+{{Spindata/Head|type=Ground}}
+{{Spindata/Pinball|col=3|type=Ground|ndex=051|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Ground|ndex=051|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Ground|ndex=051
+|body=1
+|rate=Evolve
+|area=Boulder Cave
+|P1=We three are as one!
+|P2=Our health has been reduced to half.
+|P3=We are... No longer capable...
+|PL=We have leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ground|ndex=051
+|body=1
+|rate=-4.5
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Ground|ndex=051
+|coset=3
+|conto={{p|Diglett}}, {{p|Chimecho}}, {{p|Panpour}}
+|recruitment=Find Dugtrio's precious belonging
+|P1=We aren't like this out of laziness! No way!
+|P2=This is getting to be a bit too much… Can we go home…?
+}}
+|-
+{{Spindata/Ranger|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|field=None
+|loop=9
+|MinEXP=40
+|MaxEXP=70
+|num=062
+|browser=Dugtrio occasionally pops its heads out of the ground, but only very briefly.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ground
+|att=3
+|def=2
+|speed=4
+}}
+{{Spindata/RumbleBlast|col=3|type=Ground
+|att=3
+|def=2
+|speed=4
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ground|ndex=051
+|walk=2.33
+|hp=43
+|attack=76
+|defense=51
+|speed=70
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ground|ndex=051
+|Pad={{p|Mawile}} asked Dugtrio to hide the Mine Cart Rail in the [[Cavern Zone]]. They love to live quietly but sometimes they feel lonely.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Ground|ndex=051
+|pad=Dugtrio may look weak, but he was pushy. The incident with {{p|Excadrill}} led him to rethink his actions and his surroundings.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ground|ndex=051
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Ground|ndex=051|num=705
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Block Shot
+|skilldesc=Erases two unbreakable-block disruptions and increases damage.
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=051
+|hatch=N/A
+|buddy=3
+|candy=Diglett
+|evolution=N/A
+|stamina=111
+|attack=167
+|defense=136
+|fast={{m|Sucker Punch}}, {{m|Mud-Slap}}{{tt|*|From August 19, 2016 onward}}, {{m|Mud Shot}}{{tt|*|Prior to August 19, 2016 and from March 1, 2024 onward}}
+|special={{m|Earthquake}}, {{m|Mud Bomb}}, {{m|Stone Edge}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0051
+|sleeptype=Snoozing
+|type=Ground
+|dexentry=These triplets never get separated and they sleep all together. Their teamwork as a trio stays steadfast even when they sleep.
+|sleepstyle1=Underground Sleep
+|sleepstyle2=Aboveground Sleep
+|sleepstyle3=Cozy-Trio Sleep
+|friendpoints=12
+|specialty=Ingredients
+|berry=Figy
+|ingredient1=Snoozy Tomato
+|ingredient2=Large Leek
+|ingredient3=Greengrass Soybeans
+|carrylimit=16
+|skillname=Charge Strength S
+|skilldesc=Increases {{sleep|Snorlax}}'s Strength by 400.
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{ground color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{ground color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{ground color dark}}; background:#{{ground color light}};"| [[File:GO051Fashion2022.png|100px]]
+|-
+| Fashionable costume
+|}
+
+====Alolan Dugtrio====
+{{Spindata/Head|type=Ground|type2=Steel}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=051A|stype=Steel|num=705
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Three Force
+|skilldesc=Increases damage when you make a match of three.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ground|ndex=051A
+|walk=2.33
+|hp=43
+|attack=76
+|defense=52
+|speed=70
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=051A
+|hatch=N/A
+|buddy=3
+|candy=Diglett
+|evolution=N/A
+|stamina=111
+|attack=201
+|defense=142
+|fast={{m|Metal Claw}}, {{m|Mud-Slap}}, {{m|Sand Attack}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Earthquake}}, {{m|Mud Bomb}}, {{m|Iron Head}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+====Dugtrio====
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=0050
+|name1=Diglett
+|type1-1=Ground
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 26}}
+|no2=0051
+|name2=Dugtrio
+|type1-2=Ground}}
+
+====Alolan Dugtrio====
+{{Evobox-2
+|type1=Ground
+|type2=Steel
+|pictype=sprite
+|no1=0050Diglett-Alola
+|name1=Diglett
+|form1=Alolan Form
+|type1-1=Ground
+|type2-1=Steel
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 26}}
+|no2=0051Dugtrio-Alola
+|name2=Dugtrio
+|form2=Alolan Form
+|type1-2=Ground
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground}}
+{{Spritebox/1|ndex=051}}
+{{Spritebox/2|ndex=051}}
+{{Spritebox/3|ndex=051}}
+{{Spritebox/4|ndex=051}}
+{{Spritebox/5|ndex=051}}
+{{Spritebox/6|ndex=051|crop=69}}
+{{Spritebox/7/2Forms/PE|ndex=051|form1=A|crop=74|PEcrop=159}}
+{{Spritebox/8/2Forms|ndex=051|form1=A}}
+<!--{{Spritebox/9/2Forms|ndex=0051|form1=A}}-->
+{{Spritebox/HOME/2Forms|ndex=0051|form1=A}}
+{{Spritebox/Footer|051|Dugtrio}}
+
+==In animation==
+[[File:Dugtrio anime.png|thumb|250px|Dugtrio and {{rf|Alolan}} Dugtrio in {{aniseries|SM}}]]
+===Main series===
+====Major appearances====
+In ''[[EP031|Dig Those Diglett!]]'', multiple Dugtrio worked with Diglett to plant trees in a forest.
+
+In ''[[EP114|The Underground Round Up]]'', {{OBP|Poncho|EP114}} used a Dugtrio and multiple Diglett to rid a town of {{p|Electrode}}. Poncho only used his Dugtrio to get rid of {{TRT}}'s [[Team Rocket's mechas|Electrode Eliminator]].
+
+In ''[[EP207|Got Miltank?]]'', two Dugtrio brought {{MTR}} and [[Ash's Cyndaquil]] to a Pokémon-exclusive oasis after they got hurt and lost in the desert.
+
+In ''[[AG070|Balance of Power]]'', multiple Dugtrio were disturbed by [[Norman's Slaking]]'s {{m|Earthquake}}. The nearby [[Jessie]] kicked a rock at them, angering them and prompting them to chase after her, [[James]], and {{MTR}}.
+
+In ''[[AG128|Shocks and Bonds]]'', {{ho|Katie}} used a Dugtrio against {{Ash}} during the [[Ever Grande Conference]]. Dugtrio defeated {{AP|Pikachu}}, but was then defeated by {{AP|Glalie}}'s powerful {{m|Ice Beam}}.
+
+In ''[[AG155|The Green Guardian]]'', [[Solana]] used her [[Capture Styler]] to receive a Dugtrio's assistance in building an underground tunnel that Ash and {{ashfr}} could use to bypass vines and get to {{p|Celebi}}.
+
+In ''[[Pokémon Mystery Dungeon: Explorers of Time & Darkness]]'' and ''[[Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness]]'', multiple Dugtrio were sentries for the [[Wigglytuff's Guild|Wigglytuff Guild]].
+
+In ''[[XY117|Making Friends and Influencing Villains!]]'', two Dugtrio helped befriend a {{Shiny}} {{p|Phantump}}.
+
+In ''[[SM023|Getting the Band Back Together!]]'', [[DJ Leo]] owns an {{rf|Alolan}} Dugtrio, having named the three heads Jessica, Ashley, and Michael. In ''[[SM055|The Professors' New Adventure!]]'', it attended the wedding of {{an|Professor Kukui}} and {{an|Professor Burnet}} with DJ Leo. It reappeared again in ''[[SM129|Battle Royal 151!]]''.
+
+In ''[[JN052|How Are You Gonna Keep 'Em Off of the Farm?]]'', a Dugtrio was the leader of a group of Diglett that were eating the crops on [[Laxton Farm]]. [[Goh]] eventually {{pkmn2|caught}} it and used it in a battle against Team Rocket, sending them blasting off. Goh then gave Dugtrio to [[Laxton]] after realizing Dugtrio could help cultivate soil.
+
+In ''[[HZ055|Showdown! The Paldea Elite Four]]'', a Dugtrio appeared under the ownership of [[Rika]]. Along with her {{p|Clodsire}}, it was used to defeat [[Sidian]] and [[Tulip]], before being used to battle [[Liko]] and [[Katy]] in [[HZ056|the next episode]].
+
+====Minor appearances====
+In ''[[PK01|Pikachu's Vacation]]'', a Dugtrio was at the [[Pokémon Theme Park]].
+
+A Dugtrio appeared in ''[[EP062|Clefairy Tales]]''.
+
+Multiple {{pkmn2|wild}} Dugtrio appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[PK07|Pikachu & Pichu]]'', a Dugtrio lived in [[Big Town]].
+
+In ''[[EP169|Beauty and the Breeder]]'', a {{tc|Pokémon Breeder}}'s Dugtrio participated in the [[Pokémon Beauty Contest]].
+
+In ''[[EP204|Right On, Rhydon!]]'', [[Pietra]] uses three Dugtrio for her digging project, specifically for the task of carrying large rocks.
+
+A Dugtrio appeared in ''[[The Legend of Thunder!]]''.
+
+A Dugtrio appeared in ''[[AG071|A Six Pack Attack!]]''.
+
+In ''[[AG119|The Ribbon Cup Caper]]'', a Dugtrio was at the ship's [[Pokémon Center]].
+
+Multiple Dugtrio briefly appeared in ''[[M11|Giratina and the Sky Warrior]]''.
+
+In ''[[DP091|One Team, Two Team, Red Team, Blue Team!]]'', the [[Pokémon Summer Academy]] lent a Dugtrio to [[Conway]] for the first leg of the [[Pokémon Triathlon]].
+
+In ''[[DP145|A Rivalry to Gible On!]]'', multiple Dugtrio lived at [[Mt. Shady]].
+
+In ''[[PK24|Meloetta's Moonlight Serenade]]'', a Dugtrio watched {{an|Meloetta}}'s concert.
+
+Eight Dugtrio appeared in ''[[SM042|Alola, Kanto!]]'', with two of them belonging two Trainers, and one being an Alolan Dugtrio.
+
+In ''[[SM071|Dewpider Ascending!]]'', an Alolan Dugtrio popped up from the ground underneath {{p|Dewpider}} and bounced it on its head, sending it flying into a tree.
+
+In ''[[SM079|Showering the World with Love!]]'', an Alolan Dugtrio was leaving [[Hokulani Observatory]] just as Ash, {{ashcl}}, and Professor Kukui arrived.
+
+A Trainer's Alolan Dugtrio appeared in ''[[SM081|A Young Royal Flame Ignites!]]''.
+
+A Dugtrio appeared in flashbacks in ''[[JN001|Enter Pikachu!]]'' and ''[[JN020|Dreams Are Made of These!]]''.
+
+In ''[[JN006|Working My Way Back to Mew!]]'', Goh attempted to catch a Dugtrio but failed.
+
+In ''[[JN037|That New Old Gang of Mine!]]'', Goh ended up chasing an Alolan Dugtrio after mistaking its burrowing through the ground for a {{p|Grubbin}} that he was trying to catch.
+
+A Dugtrio appeared in ''[[JN120|Infinite Possibilities!]]''.
+
+A Dugtrio appeared in ''[[JN135|Heroes Unite!]]''.
+
+A Dugtrio appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+Two Dugtrio appeared in ''[[HZ064|The Approaching Shadow!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP031|Dugtrio|Ash's Pokédex|Dugtrio, the evolved form of {{p|Diglett}}. No specific information available.}}
+{{Animedexfooter/Pokémon|Kanto}}
+{{Animedexheader|Orange}}
+{{Animedexbody|EP114|Dugtrio|Ash's Pokédex|Dugtrio. Formed when three Diglett combine. This Pokémon is able to tunnel deep beneath the earth's surface.}}
+{{Animedexfooter/Pokémon|Orange}}
+{{Animedexheader|Alola}}
+{{Animedexbody|SM023|Dugtrio|Rotom Pokédex|Dugtrio, Alola Form. The Mole Pokémon. A {{t|Ground}} and {{t|Steel}} type. They are revered in [[Alola]] as the reincarnation of a planet guardian and its siblings. Its golden hair provides protection.}}
+{{Animedexfooter/Pokémon|Alola}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN052|Dugtrio|Goh's Rotom Phone|Dugtrio, the Mole Pokémon. A {{t|Ground}} type, and the evolved form of Diglett. These three make an excellent team. When Dugtrio moves through soil, the soil becomes extremely aerated, which is excellent for farming. It has been reported to be quite useful for agriculture.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===GOTCHA!===
+An Alolan Dugtrio briefly appeared in [[GOTCHA!]], under the ownership of [[Molayne]].
+
+==In the manga==
+[[File:Underground Man Dugtrio Adventures.png|thumb|200px|left|Dugtrio in [[Pokémon Adventures]]]]
+[[File:Molayne Dugtrio Adventures.png|thumb|200px|Alolan Dugtrio in [[Pokémon Adventures]]]]
+===Movie adaptations===
+A Dugtrio appeared in the {{ma|Volcanion and the Mechanical Marvel|manga adaptation}} of ''[[M19|Volcanion and the Mechanical Marvel]]'' as a resident of the [[Nebel Plateau]].
+
+===Pokémon Adventures===
+In ''[[PS038|Long Live the Nidoqueen!?]]'', {{adv|Giovanni}} has a Dugtrio as a part of his {{type|Ground}} team. He was used to shatter the opening mechanisms on {{adv|Red}}'s {{i|Poké Ball}}s, preventing him from releasing his Pokémon from them.
+
+A group of {{pkmn2|wild}} Diglett appeared in ''[[PS067|Can You Diglett?]]'', where they were seen crossing the tunnel [[Bruno's Onix]] made when he battled Red. During this, some of them evolved into Dugtrio.
+
+A Dugtrio appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+The [[Underground Man]] owns three Dugtrio that help him dig underground. They first appeared in ''[[PS411|Double Trouble with Dialga and Palkia I]]''.
+
+{{rf|Alolan}} Dugtrio debuted in ''[[PASM19|Truth and the Mastermind Behind Team Skull]]'', with one being seen with [[Molayne]].
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Dugtrio appeared in the intro of ''[[GB01|Let's Go! The Journey Towards The Championship]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+{{GDZ|Ken}} owns a Dugtrio, as seen in [[GDZ16]].
+
+A Dugtrio appeared in [[GDZ34]].
+
+A Dugtrio appeared in [[GDZ50]], under the ownership of a collector.
+
+A Dugtrio appeared in [[GDZ63]].
+
+===Pokémon Mystery Dungeon: Blazing Exploration Team===
+A Dugtrio appeared in [[BET2]] as a member of [[List of Wigglytuff's Guild members|Wigglytuff's Guild]].
+
+A Dugtrio appeared in [[BET5]].
+
+===Pokémon Pocket Monsters===
+{{PPM|Green}}'s Dugtrio briefly appeared in ''[[PM042|Red VS Green?!]]''.
+
+A Dugtrio appeared in ''[[PM051|Pikachu's Birthday Party]]''.
+
+==In the TCG==
+{{main|Dugtrio (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Brawl]]===
+In the {{OBP|Pokémon Stadium 2|stage}} stage, a Dugtrio can be seen on the {{t|Ground}} Terrain situated next to a large rock. {{p|Cubone}} & Pokémon Fossils can also be seen on the Ground Terrain.
+
+====Trophy information====
+''"A Mole Pokémon. It has three heads that seem to all think the same thing. It lives in caves and is skilled at digging--no matter how hard the ground is, it can dig up to 62 miles below the surface. It's among the fastest of Ground-type Pokémon, a characteristic that can be counted on in combat. Its {{m|Sand Tomb}} is an effective attack that prevents opponents from escaping."''
+
+===[[Super Smash Bros. Ultimate]]===
+Dugtrio appears as a {{sbw|Spirit}} as well as returning in the Ground transformation of {{OBP|Pokémon Stadium 2|stage}}
+
+==Trivia==
+* Dugtrio and its pre-evolved form share their {{pkmn|category}} name with {{p|Drilbur}}. They are all known as the Mole Pokémon.
+* Dugtrio has the highest base {{stat|Speed}} stat of all {{type|Ground}} Pokémon.
+** Of all Pokémon to have the highest Speed stat of their respective types, Dugtrio is the slowest.
+* Despite being the only species seen within the halls of the [[Grand Underground]] in {{g|Brilliant Diamond and Shining Pearl}}, Diglett and Dugtrio cannot actually be caught or traditionally encountered in any of the Pokémon Hideaways.
+* [[Kanto|Kantonian]] Dugtrio and {{p|Wugtrio}} have exactly the same base stats in the same distribution. Their pre-evolved forms also evolve starting at the same level.
+* {{rf|Alolan}} Dugtrio, {{p|Wugtrio}} and their pre-evolved forms share two {{Abilities}}, being {{a|Sand Veil}} and either {{a|Gooey}} or {{a|Tangling Hair}}, the latter two being variations of each other.
+* In [[Generation IX]], prior to the Version 2.0.1 update of {{g|Scarlet and Violet}}, Kantonian Dugtrio was unable to learn {{m|Helping Hand}} via [[TM]], while its pre-evolved form could.
+
+===Design quirks===
+* Due to being embedded in the ground, {{p|Diglett}} and Dugtrio have special interactions with certain mechanics in the [[Pokémon games]].
+** In the [[Pokéathlon]], Diglett and Dugtrio are unable to jump. In Hurdle Dash, they dig under hurdles instead of jumping them, in Lamp Jump they cannot move, and in Disc Catch they can only move but not jump to catch the discs.
+** Since [[Generation V]], when Diglett and Dugtrio are sent out, they merely fade onto the screen instead of dropping down like most other Pokémon. This trait is shared by Wiglett, Wugtrio, Sandygast, and Palossand.<!--even those that fly or levitate go down-->
+** In the [[Poké Transfer]], Diglett and Dugtrio run between bushes rather than jumping between them.
+** On the "Compare" screen of {{g|X and Y}}'s Pokédex, if the player taps the menu sprite of Diglett, Dugtrio, or {{me|Gengar}}, the Flying-type Pokémon will give up and disperse before even trying to lift it.
+** Diglett, Dugtrio, {{p|Sandygast}}, {{p|Palossand}}, and {{me|Gengar}} are immune to {{m|Telekinesis}}.
+** If a [[Z-Move]] animation, such as {{m|Supersonic Skystrike}}, results in showing Diglett or Dugtrio in the air, it is shown embedded in a floating chunk of ground.
+* Dugtrio's body has been described inconsistently throughout the franchise's history. Originally, it was three Diglett forming a group of three, but more recent [[Pokédex entry|Pokédex entries]] claim it split from a single Diglett into three - sometimes separate, sometimes sharing a body.
+* Despite being described as three Diglett in some sources, their official weight is listed as being well over the weight of three Diglett.
+* Dugtrio is the only Ground-type {{DL|List of Pokémon by shape|Pokémon consisting of multiple bodies}}.
+
+===Origin===
+Dugtrio appears to be based on artificial {{wp|mole (animal)|mole}}s used in the {{wp|Whac-A-Mole}} arcade games. Dugtrio also resembles a group of moles poking their heads out of the ground. Specifically, this may be inspired by a particular defensive behavior of {{wp|naked mole-rat}}s, which block tunnels leading to their nest by lining up and exposing only their heads to threats like snakes.
+
+Alolan Dugtrio's hair may be based on {{wp|Pele's hair}}, a thin {{wp|volcanic glass}} formed near {{wp|Hawaii}}an {{wp|volcano}}es. The lore of taking its hairs may reference the modern {{wp|Pele's Curse}}, while its reputation as a feminine deity may be a reference to {{wp|Pele (deity)|Pele}} herself. The darker soil surrounding its body may be a reference to {{wp|black sand}}, which is found on beaches near volcanoes. Its {{t|Steel}} type may be a reference to another kind of magnetic black sand found in {{wp|placer deposit}}s. It also resembles a stereotypical {{wp|Southern California}} {{wp|surfing|surfer}} with tanned skin and blonde hair. 
+
+====Name origin====
+Dugtrio may be a combination of ''dug'' and ''trio'' (a group of three).
+
+==In other languages==
+{{Other languages|type=Ground|type2=Ground
+|ja=ダグトリオ ''Dugtrio''|jameaning=From ''dug'' and ''trio''
+|fr=Triopikeur|frmeaning=From ''trio'', ''{{tt|taupe|mole}}'' and ''{{tt|marteau-piqueur|jackhammer}}''
+|es=Dugtrio|esmeaning=Same as English name
+|de=Digdri|demeaning=From ''dig'' and ''{{tt|drei|three}}'' or ''Trio''
+|it=Dugtrio|itmeaning=Same as English name
+|ko=닥트리오 ''Daktrio''|komeaning=Transliteration of Japanese name
+|zh_cmn=三地鼠 ''Sāndìshǔ''|zh_cmnmeaning=From {{tt|三 ''sān''|three}}, {{tt|地 ''dì''|ground}}, {{tt|鼠 ''shǔ''|rat}}, and {{tt|地鼠 ''dìshǔ''|mole}}
+|zh_yue=三地鼠 ''Sāamdeihsyú''{{tt|*|Games}}<br>三頭地鼠 ''Sāamtàuhdeihsyú''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|三 ''sāam''|three}}, {{tt|地 ''dì''|ground}}, {{tt|鼠 ''shǔ''|rat}}, and {{tt|地鼠 ''dìshǔ''|mole}}<br>From {{tt|三 ''sāam''|three}}, {{tt|頭 ''tàuh''|head}}, {{tt|地 ''dì''|ground}}, {{tt|鼠 ''shǔ''|rat}}, and {{tt|地鼠 ''dìshǔ''|mole}}
+|hi=डगट्रियो ''Dugtrio''|himeaning=Transcription of English name
+|lt=Dugtrijus|ltmeaning=From English name
+|ru=Дагтрио ''Dagtrio''|rumeaning=Transcription of English name
+|th=ดักทริโอ ''Dakthrio''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==Related articles==
+* [[Regional form]]
+* {{p|Wugtrio}}
+* [[Ecologically similar Pokémon]]
+* [[Pokémon fusion]]
+
+==References==
+<references />
+
+==External links==
+
+{{alolan forms}}
+{{Ecologically similar Pokémon}}
+
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ground|species=Dugtrio|prevnum=0050|prev=Diglett|nextnum=0052|next=Meowth|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon that appear in Pokémon Snap]]
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+[[Category:Pokémon whose base stats changed in Generation VII]]
+[[Category:Super Smash Bros. spirits]]
+[[Category:Super Smash Bros. trophies]]
+
+[[de:Digdri]]
+[[es:Dugtrio]]
+[[fr:Triopikeur]]
+[[it:Dugtrio]]
+[[ja:ダグトリオ]]
+[[zh:三地鼠]]

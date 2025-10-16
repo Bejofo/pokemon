@@ -1,0 +1,432 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Quilladin}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0650|prev=Chespin|nextnum=0652|next=Chesnaught|round=none}}
+{{PokémonPrevNext/Disambig|species=Quilladin}}
+|}
+{{Pokémon Infobox
+|name=Quilladin
+|jname=ハリボーグ
+|jtranslit=Haribōgu
+|tmname=Hariborg
+|category=Spiny Armor
+|typebox=1
+|type1=Grass
+|abilityn=d
+|ability1=Overgrow
+|abilityd=Bulletproof
+|ndex=0651
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=63.9
+|weight-kg=29.0
+|egggroupn=1
+|egggroup1=Field
+|expyield=142
+|evtotal=2
+|evde=2
+|gendercode=31
+|eggcycles=20
+|lv100exp=1,059,860
+|color=Green
+|catchrate=45
+|body=06
+|pokefordex=quilladin
+|generation=6
+|friendship=70
+}}
+'''Quilladin''' ([[List of Japanese Pokémon names|Japanese]]: '''ハリボーグ''' ''Hariborg'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Chespin}} starting at [[level]] 16 and evolves into {{p|Chesnaught}} starting at level 36.
+
+==Biology==
+Quilladin is a bipedal, mammalian {{OBP|Pokémon|species}} with some plantlike features. Most of its body is covered by a green, armor-like shell similar to a {{wp|chestnut}}. The shell covers everything except its face, lower body and legs, and the undersides of its arms. The visible parts of its body are dark brown, except for its lighter face. The face has dark, oval eyes, a small, pink nose on a pointed snout, a dark brown, sideways triangle on each cheek, rodent-like incisors, and a three-pointed patch of dark brown fur on its forehead. On either side of its head is a large, ear-like spike with reddish tips. Its tail also has a reddish tip. Its shell is banded over its arms and on its back, and the fur on its lower body creates a three-pointed pattern on its front. Quilladin has three white, clawed digits on its hands and two on its feet.
+
+Quilladin is not aggressive and never starts fights, although it is known to exercise its lower body by running into other Quilladin.<ref>[https://web.archive.org/web/20160224014849/http://www.pokemonxy.com/en-us/pokemon/starters/ | Starter Pokémon (Archived)]</ref> When it is forced to defend itself, it relies on its shell to deflect attacks, before counterattacking with its sharp quills. The shell of Quilladin is both sturdy and heavy, which naturally strengthens the lower body of Quilladin. A Quilladin's tackle is powerful enough to send a trailer flying. Due to this body, Quilladin is immune to pain, not even violent collisions will faze it.
+
+Prior to [[Generation VII]], Quilladin and its evolutionary relatives were the [[Signature Ability|only known Pokémon]] that could have {{a|Bulletproof}} as an [[Ability]].
+
+===Evolution===
+Quilladin evolves from {{p|Chespin}} and evolves into {{p|Chesnaught}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=grass
+|pictype=art
+|no1=0650
+|name1=Chespin
+|type1-1=Grass
+|evo1=
+|no2=0651
+|name2=Quilladin
+|type1-2=Grass
+|evo2=
+|no3=0652
+|name3=Chesnaught
+|type1-3=Grass
+|type2-3=Fighting}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=002|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=They strengthen their lower bodies by running into one another. They are very kind and won't start fights.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They strengthen their lower bodies by running into one another. They are very kind and won't start fights.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=210}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It’s protected by a sturdy shell. The shell is also very heavy, which naturally strengthens Quilladin’s lower body.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It can send a trailer flying with a tackle. It’s numb to pain, so even violent collisions don’t faze it.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Quilladin SV Blueberry.png|x200px]]
+|-
+| Quilladin in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Grass-type Safari|Grass]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Chespin}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Chespin}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 1|Renegade Meadow: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Shrub Forest|Leafy Expanse: Shrub Forest]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Greninja Sea]], [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 187]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=grass
+|HP=     61
+|Attack= 78
+|Defense=95
+|SpAtk=  56
+|SpDef=  58
+|Speed=  57
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  200
+|Ground=   50
+|Rock=    100
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Quilladin|Grass|Grass|6}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level9|8|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|11|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|15|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|20|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|24|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/level9|29|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|34|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/level9|38|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/level9|43|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level9|47|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/level9|53|Wood Hammer|Grass|Physical|120|100|15||'''}}
+{{learnlist/levelf/9|Quilladin|Grass|Grass|6}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Quilladin|Grass|Grass|6}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20||''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20||''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM064|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM073|Drain Punch|Fighting|Physical|75|100|10||''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM146|Grass Pledge|Grass|Special|80|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20||''}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Quilladin|Grass|Grass|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Quilladin|Grass|Grass|6}}
+{{learnlist/breed9|{{MSP/H|0335|Zangoose}}|Belly Drum|Normal|Status|—|—|10|grid=7}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark|form=-Hisui}}|Curse|Ghost|Status|—|—|10|grid=7}}
+{{learnlist/breed9|{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0678|Meowstic}}{{MSP/H|0745|Lycanroc}}{{MSP/H|0745-Dusk|Lycanroc}}|Quick Guard|Fighting|Status|—|—|15|grid=7}}
+{{learnlist/breed9|{{bag/s|TM Ground|SV|TM090}}{{tt|*|No Pokémon in the Field Egg Group can learn Spikes via level-up. However, the move is available via TM090 and can be passed down from the Sandshrew line, Alolan Sandslash, the Wooper lines, Delibird, the Chespin line, Meowscarada, and Orthworm, or copied via Mirror Herb.}}|Spikes|Ground|Status|—|—|20|grid=7}}
+{{learnlist/breed9|{{MSP/H|0417|Pachirisu}}{{MSP/H|0702|Dedenne}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}|Super Fang|Normal|Physical|—|90|10|grid=7}}
+{{learnlist/breed9|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0470|Leafeon}}{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}|Synthesis|Grass|Status|—|—|5|grid=7}}
+{{learnlist/breed9|{{MSP/H|0620|Mienshao}}|Wide Guard|Rock|Status|—|—|10|grid=7}}
+{{learnlist/breedf/9|Quilladin|Grass|Grass|6}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Quilladin|Grass|Grass|6}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Quilladin|Grass|Grass|6}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/PSMD|col=6|type=Grass|ndex=651
+|coset=1
+|conto={{p|Chespin}}, {{p|Frogadier}}
+|recruitment=Talk to in [[Sahra Town]]
+|P1=No, I'm not horizontally challenged. I'm well built.
+|P2=This may be daunting, but let's do our best!
+|protag=1
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=651
+|walk=1.67
+|hp=51
+|attack=74
+|defense=54
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=651
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=651|num=170
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Paralyze
+|skilldesc=Leaves the foe paralyzed.
+}}
+|-
+{{Spindata/GO
+| col = 6
+| type = Grass
+| ndex = 651
+| buddy = 3
+| candy = Chespin
+| evocandy = 100
+| stamina = 156
+| attack = 146
+| defense = 156
+| fast = {{m|Low Kick}}, {{m|Vine Whip}}
+| special = {{m|Gyro Ball}}, {{m|Energy Ball}}, {{m|Body Slam}}
+| egg = N/A
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=grass
+|pictype=art
+|no1=0650
+|name1=Chespin
+|type1-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 16}}
+|no2=0651
+|name2=Quilladin
+|type1-2=Grass
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 36}}
+|no3=0652
+|name3=Chesnaught
+|type1-3=Grass
+|type2-3=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=grass}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=651|crop=74}}
+{{Spritebox/7|ndex=651|crop=73}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9|ndex=0651}}-->
+{{Spritebox/HOME|ndex=0651}}
+{{Spritebox/Footer|651|Quilladin}}
+
+==In animation==
+[[File:Quilladin anime.png|thumb|250px|Quilladin in {{aniseries|XY}}]]
+===Major appearances===
+Quilladin physically debuted in ''[[XY095|Love Strikes! Eevee, Yikes!]]'', where it developed a crush on [[Serena's Eevee]] before being rejected. It then tried its luck on a {{pkmn2|wild}} {{p|Flareon}} with no success.
+
+===Minor appearances===
+Quilladin debuted in ''[[XY039|Summer of Discovery!]]'', where it was seen on a [[Pokévision]] video icon.
+
+A Quilladin appeared in the opening sequence of ''[[M19|Volcanion and the Mechanical Marvel]]'', when it evolved from Chespin and then into Chesnaught. Two Quilladin appeared in the movie proper, one during a flashback, where both were seen as residents of the [[Nebel Plateau]].
+
+In ''[[JN084|An Adventure of Mega Proportions!]]'', A {{pkmn|Trainer}}'s Quilladin was used in a battle against {{an|Korrina}}, only to be defeated by her {{TP|Korrina|Lucario}}.
+
+A Trainer's Quilladin appeared in ''[[HZ063|Ice Battle! Cold-Eyed Grusha]]'', during a flashback.
+
+A Student's Quilladin appeared in [[HZ090]].
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY095|Quilladin|Ash's Pokédex|Quilladin, the Spiny Armor Pokémon and the evolved form of Chespin. The hard shell covering Quilladin's body is so tough, a direct hit from a large truck wouldn't even dent it. Quilladin uses this shell to deflect foes' attacks, and it strikes back with its sharp quills.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+==In the manga==
+[[File:X Marisso Quilladin.png|thumb|200px|Quilladin in [[Pokémon Adventures]]]]
+===Let's Play the Pokémon Card Game XY!===
+A Quilladin appears as a Pokémon card played by [[Hiroshi Uratane|Hiroshi]].
+
+===Movie adaptations===
+A Quilladin appeared in the {{ma|Volcanion and the Mechanical Marvel|manga adaptation}} of ''[[M19|Volcanion and the Mechanical Marvel]]'' as a resident of the [[Nebel Plateau]].
+
+===Pokémon Adventures===
+{{main|Marisso}}
+In ''[[PS577|Quilladin Stands]]'', {{adv|X}}'s {{p|Chespin}}, [[nickname]]d Marisso, evolved into a Quilladin.
+{{-}}
+
+==In the TCG==
+{{main|Quilladin (TCG)}}
+
+==Trivia==
+
+===Origin===
+Quilladin seems to be based on a {{wp|hedgehog}} combined with a {{wp|chestnut}}. It may also draw inspiration from "armored" mammals such as {{wp|pangolins}}, {{wp|armadillos}}, and {{wp|glyptodonts}}. Its bulky, rotund appearance is possibly a reference to the {{wp|calybium and cupule}} that protect the nuts of chestnut trees.
+
+====Name origin====
+Quilladin may be a combination of ''{{wp|quill}}'' and ''{{wp|paladin}}''. 
+
+Hariborg may be a combination of 蝟 ''harinezumi'' (hedgehog), 防具 ''bōgu'' (armor), and ''bogue'' (French for chestnut shell).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=ハリボーグ ''Hariborg''|jameaning=From {{tt|蝟 ''harinezumi''|hedgehog}}, {{tt|防具 ''bōgu''|armor}}, and ''{{tt|bogue|French for chestnut shell}}''
+|fr=Boguérisse|frmeaning=From ''{{tt|bogue|chestnut shell}}'' and ''{{tt|hérisson|hedgehog}}''
+|es=Quilladin|esmeaning=Same as English name
+|de=Igastarnish|demeaning=From ''{{tt|Igel|hedgehog}}'', ''{{tt|Kastanie|chestnut}}'', and ''{{tt|Harnisch|armor}}''
+|it=Quilladin|itmeaning=Same as English name
+|ko=도치보구 ''Dochibogu''|komeaning=From {{tt|고슴도치 ''goseumdochi''|hedgehog}} and partial transcription of the Japanese name
+|zh_cmn=胖胖哈力 ''Pàngpànghālì''|zh_cmnmeaning=From {{tt|胖胖 ''pàngpàng''|plump}} and {{tt|哈力栗 ''Hālìlì''|Chespin}}
+|zh_yue=胖胖哈力 ''Buhnbuhnhālihk''{{tt|*|Games}}<br>肥仔哈力 ''Fèihjíhālihk''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|胖胖 ''buhnbuhn''|plump}} and {{tt|哈力栗 ''Hālihkleuht''|Chespin}}<br>From {{tt|肥仔 ''fèihjí''|fatty}} and {{tt|哈力馬龍 ''Hālihkmáhlùhng''|Chespin}}
+|hi=डिफ़ेंडल ''Defendle''|himeaning=From ''defend'' and ''needle''
+|ru=Квилладин ''Kvilladin''|rumeaning=Transcription of English name
+|th=ฮาริบอร์ก ''Haribok''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Marisso]]
+* [[First partner Pokémon]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0650|prev=Chespin|nextnum=0652|next=Chesnaught}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Igastarnish]]
+[[es:Quilladin]]
+[[fr:Boguérisse]]
+[[it:Quilladin]]
+[[ja:ハリボーグ]]
+[[zh:胖胖哈力]]

@@ -1,0 +1,617 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Bayleef}}
+{{PokémonPrevNext/Pokémon|type=Grass|species=Bayleef|prevnum=0152|prev=Chikorita|nextnum=0154|next=Meganium|round=none}}
+{{PokémonPrevNext/Disambig|species=Bayleef}}
+|}
+{{Pokémon Infobox
+|name=Bayleef
+|jname=ベイリーフ
+|jtranslit=Beirīfu
+|tmname=Bayleaf
+|category=Leaf
+|typebox=1
+|type1=Grass
+|abilityn=d
+|ability1=Overgrow
+|abilityd=Leaf Guard
+|ndex=0153
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=34.8
+|weight-kg=15.8
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Grass
+|gendercode=31
+|eggcycles=20
+|evtotal=2
+|evsd=1
+|evde=1
+|expyield=142
+|oldexp=141
+|lv100exp=1,059,860
+|color=Green
+|catchrate=45
+|body=08
+|pokefordex=bayleef
+|generation=2
+|friendship=70
+}}
+'''Bayleef''' ([[List of Japanese Pokémon names|Japanese]]: '''ベイリーフ''' ''Bayleaf'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Chikorita}} starting at [[level]] 16 and evolves into {{p|Meganium}} starting at level 32.
+
+==Biology==
+Bayleef is a quadrupedal, pale-yellow {{wp|reptile|reptilian}} {{OBP|Pokémon|species}} that resembles a {{wp|sauropoda|sauropod}} {{wp|dinosaur}}. It has a long neck, red eyes, a short, rounded snout, and a stubby tail. Each foot has a single, light gray nail. Sprouting from its forehead is a green leaf that curves back over its head and around its neck are a series of tightly curled leaves. Inside the leaves are small tree shoots. 
+
+The aroma wafting from the leaves around its neck has a spicy scent and has various beneficial effects on those who inhale it. The fragrance has a combination of energizing, stimulating, and healing effects. Bayleef can be rarely found in {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands}}. As mentioned in {{g|Sleep}}, any Pokémon sleeping near Bayleef will feel invigorated.<ref>[[Sleep style|Sleep Style Dex]]</ref>
+
+===Evolution===
+Bayleef evolves from {{p|Chikorita}} and evolves into {{p|Meganium}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Grass
+|no1=0152
+|name1=Chikorita
+|type1-1=Grass
+|evo1=
+|no2=0153
+|name2=Bayleef
+|type1-2=Grass
+|evo2=
+|no3=0154
+|name3=Meganium
+|type1-3=Grass
+}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=grass}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=002}}
+{{Dex/Entry1|v=Gold|entry=The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.}}
+{{Dex/Entry1|v=Silver|entry=A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.}}
+{{Dex/Entry1|v=Crystal|entry=The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Bayleef</sc>'s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A <sc>Bayleef</sc>'s neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.}}
+{{Dex/Entry1|v=FireRed|entry=A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.}}
+{{Dex/Entry1|v=LeafGreen|entry=The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=002}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=The buds that ring its neck give off a spicy aroma that perks people up.}}
+{{Dex/Entry1|v=HeartGold|entry=The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.}}
+{{Dex/Entry1|v=SoulSilver|entry=A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The buds that ring its neck give off a spicy aroma that perks people up.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The buds that ring its neck give off a spicy aroma that perks people up.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The buds that ring its neck give off a spicy aroma that perks people up.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|entry=Bayleef's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=The buds that ring its neck give off a spicy aroma that perks people up.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=174}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The spicy scent that wafts from around Bayleef’s neck somehow makes those who smell it want to fight.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{grass color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{grass color dark}}; background:#{{grass color light}}; {{roundy|5px}};" | [[File:Pokédex Image Bayleef SV Blueberry.png|x200px]]
+|-
+| Bayleef in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+In [[Pokémon Colosseum]], only one Bayleef can be obtained per game without [[trade|trading]], regardless of location.
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Chikorita}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Chikorita}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Chikorita}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Phenac City]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}<br>[[Realgam Tower]] (if not [[snagging|snagged]] in Phenac City)<br>[[Snagem Hideout]] (if [[Bluno]] was battled in Phenac City)<br>[[Shadow PKMN Lab]] (if [[Rosso]] was battled in Phenac City)}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Chikorita}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Chikorita}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Chikorita}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Chikorita}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Chikorita}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Chikorita}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 9, Endless Level 26, Forever Level 58, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Western Cave]] (20F-27F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Olive Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (1F-13F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (B1-B13), [[Sky Peak]] (1st Station Pass 1F-6th Station Pass 3F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F)}}
+{{Availability/Entry1/None|v=MD Wii|link=Pokémon Mystery Dungeon (WiiWare)|color={{sinnoh color}}|t={{sinnoh color dark}}|area=[[Evolution|Evolve]] [[Pal Password]] unlocked {{p|Chikorita}}}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Old Mansion]], [[Dark Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Autumnwood: [[Volcanic Slope]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#Serperior Jungle|Jungle Area: Serperior Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 5|Pitch-Black Cavern: Stage 5]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Fragrant Tree|Silver Isles: Fragrant Tree]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Snorlax Sea]], [[Entei Sea]], [[Mewtwo Sea]], [[Lugia Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Entei Sea]]<sup>Final</sup>, [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=Evolve {{p|Chikorita}}}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Great 4)<br>[[Lapis Lakeside]] (from Basic 3)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Basic 5)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 414]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Lyra|Chikorita}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=grass
+|colo1=Miracle Seed|colo1type=None|colo1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=grass
+|HP=     60
+|Attack= 62
+|Defense=80
+|SpAtk=  63
+|SpDef=  80
+|Speed=  60}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=grass
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  200
+|Ground=   50
+|Rock=    100
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+Bayleef is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Bayleef|Grass|Grass|2}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||}}
+{{learnlist/level9|1|Growl|Normal|Status|&mdash;|100|40||}}
+{{learnlist/level9|1|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|1|Poison Powder|Poison|Status|&mdash;|75|35||}}
+{{learnlist/level9|12|Synthesis|Grass|Status|&mdash;|&mdash;|5||}}
+{{learnlist/level9|18|Reflect|Psychic|Status|&mdash;|&mdash;|20||}}
+{{learnlist/level9|22|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/level9|26|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level9|32|Sweet Scent|Normal|Status|&mdash;|100|20||}}
+{{learnlist/level9|36|Light Screen|Psychic|Status|&mdash;|&mdash;|30||}}
+{{learnlist/level9|40|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/level9|46|Safeguard|Normal|Status|&mdash;|&mdash;|25||}}
+{{learnlist/level9|50|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|54|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Bayleef|Grass|Grass|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Bayleef|Grass|Grass|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM146|Grass Pledge|Grass|Special|80|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM190|Solar Blade|Grass|Physical|125|100|10||'''}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Bayleef|Grass|Grass|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Bayleef|Grass|Grass|2}}
+{{learnlist/breed9|{{MSP/H|0408|Cranidos}}{{MSP/H|0409|Rampardos}}{{MSP/H|0410|Shieldon}}{{MSP/H|0411|Bastiodon}}|Ancient Power|Rock|Special|60|100|5|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0286|Breloom}}{{MSP/H|0833|Chewtle}}{{MSP/H|0834|Drednaw}}|Counter|Fighting|Physical|&mdash;|100|20|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0143|Snorlax}}{{MSP/H|0158|Totodile}}{{MSP/H|0159|Croconaw}}{{MSP/H|0160|Feraligatr}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Flail|Normal|Physical|&mdash;|100|15|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0079|Slowpoke}}{{MSP/H|0079-Galar|Slowpoke}}{{MSP/H|0080|Slowbro}}{{MSP/H|0080-Galar|Slowbro}}{{MSP/H|0199|Slowking}}{{MSP/H|0199-Galar|Slowking}}|Heal Pulse|Psychic|Status|&mdash;|&mdash;|10|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0192|Sunflora}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}|Ingrain|Grass|Status|&mdash;|&mdash;|20|||grid=6}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0071|Victreebel}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0764|Comfey}}|Vine Whip|Grass|Physical|45|100|25||'''|grid=6}}
+{{learnlist/breedf/9|Bayleef|Grass|Grass|2}}
+
+====By a prior [[Evolution]]====
+{{Learnlist/prevoh/9|Bayleef|Grass|Grass|2}}
+{{Learnlist/prevo9null}}
+{{Learnlist/prevof/9|Bayleef|Grass|Grass|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Sleep Powder}}
+| style="background:#fff; {{roundybr|5px}}" | [[Bayleef (Chikorita Half Deck 24)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/Trozei|col=6|type=Grass|ndex=153|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=153
+|body=1
+|rate=-19
+|area=Beau Plains
+|P1=Let the fragrance from my neck energize you!
+|P2=I think my health is about half down.
+|P3=I'm finished... I can't release any more fragrances...
+|PL=Yes! Leveled up! I'm feeling energized!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=153
+|body=1
+|rate=10
+|IQ=H
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=153
+|coset=3
+|conto={{p|Dragonite}}, {{p|Cherrim}}, {{p|Panpour}}
+|recruitment=Escort to open the locked door at [[Nectar Meadow]]
+|P1=Come on! We can do this!
+|P2=It's getting tougher…
+|protag=1
+}}
+|-
+{{Spindata/Ranger|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|fieldpower=2
+|field=Cut
+|loop=11
+|MinEXP=36
+|MaxEXP=50
+|num=008
+|browser=Bayleef shoots its leaves at full force. They can obliterate a Metal Fence!
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=3
+|num=171
+|pastnum=017
+|browser=It creates vines around itself that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=153
+|walk=1.32
+|hp=51
+|attack=73
+|defense=55
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=153
+|power=2
+}}
+{{Spindata/Shuffle|col=6|type=Grass|ndex=153|num=580
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=T-Boost
+|skilldesc=Increases damage when making a T-shaped match.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=153
+|hatch=N/A
+|buddy=3
+|candy=Chikorita
+|evocandy=100
+|stamina=155
+|attack=122
+|defense=155
+|fast={{m|Razor Leaf}}, {{m|Tackle}}, {{m|Magical Leaf}}{{tt|*|From September 1, 2023 onward}}
+|special={{m|Energy Ball}}, {{m|Grass Knot}}, {{m|Ancient Power}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0153
+|sleeptype=Dozing
+|type=Grass
+|dexentry=The buds that ring Bayleef's neck give off a spicy aroma that perks people up. Maybe the Pokémon sleeping around Bayleef feel invigorated, too.
+|sleepstyle1=Stretching Sleep
+|sleepstyle2=Bud-Shaking Sleep
+|sleepstyle3=Aroma-Wafting Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=12
+|specialty=Berries
+|evolution=Lv. 24
+|pokemon=Chikorita
+|candyNum=80
+|berry=Durin
+|ingredient1=Soothing Cacao
+|ingredient2=Honey
+|ingredient3=Large Leek
+|carrylimit=17
+|skillname=Charge Strength S
+|skilldesc=Increases Snorlax's Strength by anywhere from 200 to 800.
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Grass
+|no1=0152
+|name1=Chikorita
+|type1-1=Grass
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 16}}
+|no2=0153
+|name2=Bayleef
+|type1-2=Grass
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 32}}
+|no3=0154
+|name3=Meganium
+|type1-3=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=grass}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=153}}
+{{Spritebox/3|ndex=153}}
+{{Spritebox/4|ndex=153}}
+{{Spritebox/5|ndex=153}}
+{{Spritebox/6|ndex=153|crop=85}}
+{{Spritebox/7|ndex=153|crop=79}}
+<!--{{Spritebox/8/BDSP|ndex=153}}
+{{Spritebox/9|ndex=0153}}-->
+{{Spritebox/HOME|ndex=0153}}
+{{Spritebox/Footer|153|Bayleef}}
+
+==In animation==
+[[File:Ash Bayleef.png|thumb|250px|Bayleef in {{aniseries|DP}}]]
+===Major appearances===
+====[[Ash's Bayleef]]====
+In ''[[EP199|Current Events]]'', {{Ash}}'s {{p|Chikorita}} evolved into a Bayleef while protecting Ash from {{TRT}}. Bayleef still had the same personality she had when she was still a Chikorita, but she soon mellowed out.
+
+====[[Casey's Bayleef]]====
+Bayleef debuted in ''[[EP161|The Bug Stops Here]]'', where {{an|Casey}}'s Chikorita evolved into one. It evolved again into a {{p|Meganium}} off-screen prior to the events of ''[[EP261|Here's Lookin' at You, Elekid]]''.
+
+====Other====
+[[Horace]]'s Chikorita was revealed to have evolved into a Bayleef in ''[[JN102|Battling in the Freezing Raid!]]''. It was used in a [[Raid Battle (GO)#In animation|Raid Battle]] against an {{p|Articuno}}, only to be defeated.
+
+===Minor appearances===
+A Bayleef appeared in a fantasy in ''[[AG133|The Right Place and the Right Mime]]''.
+
+A {{pkmn|Trainer}}'s Bayleef appeared in ''[[DP158|Regaining the Home Advantage!]]''.
+
+Four Bayleef appeared in ''[[M21|The Power of Us]]'', with two under the ownership of two different Trainers (including [[Mother and daughter|an unnamed recurring woman]]), the third being {{pkmn2|wild}}, and the fourth appearing during a flashback.
+
+A Student's Bayleef appeared in [[HZ090]].
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP161|Bayleef|Ash's Pokédex|Bayleef, the Leaf Pokémon. The [[Evolution|evolved]] form of {{p|Chikorita}}. Bayleef emits a spicy aroma from the leaves around its neck and its {{m|Razor Leaf}} is extremely powerful.}}
+{{Animedexfooter/Pokémon|Johto}}
+
+==In the manga==
+[[File:Crystal Megaree Bayleef.png|thumb|200px|Bayleef in [[Pokémon Adventures]]]]
+===Ash & Pikachu===
+{{main|Ash's Bayleef}}
+{{Ash}}'s Bayleef only appeared on the scoreboard in ''[[SP16|One Half Of A Poké Ball]]''.
+
+===Pocket Monsters HGSS Jō's Big Adventure===
+A Bayleef appeared in [[JBA4]].
+
+===Pokémon Adventures===
+{{main|Megaree}}
+In ''[[PS135|Lively Larvitar]]'', {{adv|Crystal}}'s Chikorita, [[nickname]]d Megaree, evolves into a Bayleef while defending his {{pkmn|Trainer}} against an attack from an old foe, an impish {{pkmn2|wild}} {{p|Larvitar}}. He evolved with his fellow first partner Pokémon in the fight against {{p|Lugia}} in the [[Whirl Islands]].
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS141]]|Its neck emits a spice-like fragrance that has a refreshing effect.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+
+===Pokémon Gold & Silver: The Golden Boys===
+{{main|Gold's Bayleef}}
+{{GnB|Gold}} has a Bayleef that used to belong to {{GnB|Black}}, but was released by its former Trainer for being too weak. After joining Gold's team, it has been able to defeat strong opponents, such as [[Bugsy's Scyther]].
+
+==In the TCG==
+{{main|Bayleef (TCG)}}
+
+==Trivia==
+* Bayleef and its evolutionary relatives are the only evolutionary line of a [[first partner Pokémon]] to keep their Japanese voices in the English [[dub]] of the {{pkmn|animated series}}, due to having nearly identical names in English and Japanese.
+* Bayleef's "necklace" is consistently described as having a spicy aroma, while real {{wp|bay leaves}} have a bitter and herbal taste, which is similar to {{wp|thyme}}.
+* Bayleef is one of the very few Pokémon who has the same front sprite in both ''[[Pokémon Gold and Silver Versions|Pokémon Gold and Silver]]''.
+
+===Origin===
+[[File:Spr 2d 153.png|200px|thumb|Hanamogura (ハナモグラ)]]
+Bayleef appears to be based on {{wp|sauropoda|sauropods}}, specifically the ''{{wp|Apatosaurus}}''. Its vegetable part may be based on the leaves of the {{wp|Laurus nobilis|bay laurel}}, whose oil is used for healing and as a stimulant in {{wp|aromatherapy}}.
+
+In the [[Pokémon Gold and Silver Spaceworld '97 demo]], Bayleef was instead a different design named Hanamogura (ハナモグラ). It is seemingly based on moles, which use the kanji meaning "earth dragon" (土竜 ''mogura''), thus being a mole that blossoms into a dragon. The antennae from this design persist in {{p|Meganium}}'s final design.
+
+====Name origin====
+Bayleef and Bayleaf derive from ''{{wp|bay leaf}}'', a herb used in cooking known for its pungent smell.
+
+==In other languages==
+{{Other languages|type=grass|type2=grass
+|ja=ベイリーフ ''Bayleaf''|jameaning=From ''{{wp|bay leaf}}''
+|fr=Macronium|frmeaning=From {{tt|''macro-''|Greek prefix for big}} and {{tt|''géranium''|geranium}}
+|es=Bayleef|esmeaning=Same as English/Japanese name
+|de=Lorblatt|demeaning=From ''{{tt|Lorbeer|laurel}}'' and {{tt|''Blatt''|leaf}}
+|it=Bayleef|itmeaning=Same as English/Japanese name
+|ko=베이리프 ''Bayleef''|komeaning=Transcription of Japanese name
+|zh_cmn=月桂葉 / 月桂叶 ''Yuèguìyè''|zh_cmnmeaning=From {{tt|月桂葉 / 月桂叶 ''yuèguì yè|bay leaf}}
+|zh_yue=月桂葉 ''Yuhtgwaiyihp''|zh_yuemeaning=From {{tt|月桂葉 ''yuhtgwai yihp''|bay leaf}}
+|he=בייליף ''Beylif''|hemeaning=Transcription of English name
+|hi=बेलीफ़ ''Bayleef''|himeaning=Transcription of English name
+|ru=Бэйлиф ''Beylif''|rumeaning=Transcription of English name
+|th=เบย์ลีฟ ''Belip''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==References==
+<references/>
+
+==See also==
+* [[Ash's Bayleef]]
+* [[Casey's Bayleef]]
+* [[Vincent's Bayleef]]
+* [[Megaree]]
+* [[Gold's Bayleef]]
+* [[First partner Pokémon]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|species=Bayleef|prevnum=0152|prev=Chikorita|nextnum=0154|next=Meganium|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+
+[[de:Lorblatt]]
+[[es:Bayleef]]
+[[fr:Macronium]]
+[[it:Bayleef]]
+[[ja:ベイリーフ]]
+[[zh:月桂叶]]

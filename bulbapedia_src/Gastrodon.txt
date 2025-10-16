@@ -1,0 +1,760 @@
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/GO|species=Gastrodon}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0422|prev=Shellos|nextnum=0424|next=Ambipom|round=none}}
+{{PokémonPrevNext/Disambig|species=Gastrodon}}
+|}
+{{Pokémon Infobox
+|name=Gastrodon
+|jname=トリトドン
+|jtranslit=Toritodon
+|tmname=Tritodon
+|ndex=0423
+|type1=Water
+|type2=Ground
+|category=Sea Slug
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=65.9
+|weight-kg=29.9
+|ability1=Sticky Hold
+|ability2=Storm Drain
+|abilityd=Sand Force
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Amorphous
+|eggcycles=20
+|evtotal=2
+|evhp=2
+|expyield=166
+|oldexp=176
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|formcolors=yes
+|catchrate=75
+|body=02
+|pokefordex=gastrodon
+|generation=4
+|friendship=70
+}}
+'''Gastrodon''' ([[List of Japanese Pokémon names|Japanese]]: '''トリトドン''' ''Tritodon'') is a dual-type {{2t|Water|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s from {{p|Shellos}} starting at [[level]] 30.
+
+Gastrodon has [[#Form data|two different forms]]: '''West Sea Gastrodon''', which is pink and brown in appearance, and '''East Sea Gastrodon''', which is blue and green. They are found on the respective sides of [[Sinnoh]]'s mountain range.<!-- Due to this, there is a myth that the Sinnoh region was once split in two.-->
+
+==Biology==
+Gastrodon is a {{wp|sea slug}}-like {{OBP|Pokémon|species}}. Much like its pre-evolved form, it has a slug-like body with a round head and a {{wp|Mantle (mollusc)|mantle}} covering the top half of its body. It has six stubby legs and two black eyes with white pupils, with a mark imitating a third eye appearing on its forehead. A yellow stripe runs along the edge of its mantle, through its two lower eyes, and around the back of its head. Like {{p|Shellos}}, Gastrodon has two forms based on the sea it lives in.
+
+In its West Sea form, it has a pair of large tentacles on its head that curve upward and a smaller, straighter pair on its neck. Its underside is pink, while its mantle is brown, with three pink spots on each side of its back. There are also two lumps on its back, resembling the {{wp|cerata}} on real-life sea slugs.
+
+In its East Sea form, it retains the head tentacles it had as a Shellos, which are now fully green and angled slightly further upward. Its underside is turquoise, while its mantle is forest green with two turquoise spots on each side. It has a pair of yellow, fin-like cerata on its back and a wavy yellow line bordering its side and rear.
+
+Gastrodon and its pre-Evolution Shellos are examples of {{wp|allopatric speciation}}, although the two forms can still breed with each other. It is also a relative of {{p|Shellder}} and {{p|Cloyster}}. When threatened, it oozes a purple liquid and flees. While not poisonous, the fluid is very bitter and sticky. Its mucus-coated body is soft and squishy yet surprisingly resilient, and it leaves behind a trail of sticky slime when moving on land. It also has strong regenerative capabilities that allow it to recover from injuries or dismemberment within a few hours. In ancient times, it had a shell on its back, which gradually became a thin yet hard vestigial plate.
+
+Gastrodon lives in shallow tidal pools, beaches, and rocky shorelines. Its diet consists mainly of plankton, but it is occasionally known to move onto land to look for other foods, such as beach sand. When it finds prey, it melts it with mucus before eating them. While Gastrodon cannot stay out of water for too long due to its body being highly vulnerable to dehydration, it becomes more active during cloudy or rainy weather. It has been found on far-off mountains during times of constant rain. The two forms of Gastrodon are known to engage in heated conflict with one another. West Sea Gastrodon was much more numerous in the past than it is in the present. Conversely, East Sea Gastrodon's population has visibly increased in population as of late.
+
+===Forms===
+Gastrodon has two separate forms: West Sea Gastrodon and East Sea Gastrodon. The two forms are purely cosmetic, and do not affect base stats or level-up moves.
+
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{water color}}; {{roundy|10px}} border: 3px solid #{{ground color dark}}"
+|-
+| West Sea
+|-
+| style="{{roundy|96px}} border: 2px solid #{{ground color dark}}; background: #{{water color light}}; width:96px; height:96px"| [[File:0423Gastrodon-West.png|100px]]
+|}
+|
+{| style="background: #{{water color}}; {{roundy|10px}} border: 3px solid #{{ground color dark}}"
+|-
+| East Sea
+|-
+| style="{{roundy|96px}} border: 2px solid #{{ground color dark}}; background: #{{water color light}}; width:96px; height:96px"| [[File:0423Gastrodon-East.png|100px]]
+|}
+|}
+
+===Evolution===
+Gastrodon evolves from {{p|Shellos}}.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''West Sea'''
+{{Evobox-2
+|type1=Water
+|type2=Ground
+|pictype=sprite
+|no1=0422Shellos-West
+|form1=West Sea
+|name1=Shellos
+|type1-1=Water
+|evo1=
+|no2=0423Gastrodon-West
+|name2=Gastrodon
+|form2=West Sea
+|type1-2=Water
+|type2-2=Ground}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''East Sea'''
+{{Evobox-2
+|type1=Water
+|type2=Ground
+|pictype=sprite
+|no1=0422Shellos-East
+|form1=East Sea
+|name1=Shellos
+|type1-1=Water
+|evo1=
+|no2=0423Gastrodon-East
+|name2=Gastrodon
+|form2=East Sea
+|type1-2=Water
+|type2-2=Ground}}
+</div>
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Ground}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=061|reg2=Johto}}
+{{Dex/Entry1|v=Diamond|entry=It has a pliable body without any bones. If any part of its body is torn off, it grows right back.}}
+{{Dex/Entry1|v=Pearl|entry=It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.}}
+{{Dex/Entry1|v=Platinum|entry=Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=When its natural enemy attacks, it oozes purple fluid and escapes.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=When its natural enemy attacks, it oozes purple fluid and escapes.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When its natural enemy attacks, it oozes purple fluid and escapes.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=261|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=342|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Form|West Sea}}
+{{Dex/Entry1|v=Sun|entry=It has strong regenerative capabilities. Even if parts of it are bitten off by fish Pokémon, it will return to normal within a few hours.}}
+{{Dex/Entry1|v=Moon|entry=Plankton, invisible to the naked eye, is its main food source. It comes onto the land periodically, but the reason for this is not known.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Long ago, it had a shell on its back. There's now a vestigial plate on its back that's hard but thin.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Their shape and color change, depending on their environment and diet. There are many of them at beaches where the waves are calm.}}
+{{Dex/Form|East Sea}}
+{{Dex/Entry1|v=Sun|entry=A team of researchers is scouring the oceans of the world in search of a Gastrodon in a color never seen before.}}
+{{Dex/Entry1|v=Moon|entry=Experiments are being conducted to discover what happens when a Gastrodon is raised in a location other than the sea where it was born.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=When it's attacked, it gushes a purple liquid that's not poisonous but makes Gastrodon's meat bitter and inedible.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=A relative of Shellder and Cloyster, this ocean dweller sometimes comes onto land in search of food.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=231|reg2=Sinnoh|num2=061|reg3=Hisui|num3=083}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=It has a pliable body without any bones. If any part of its body is torn off, it grows right back.}}
+{{Dex/Entry1|v=Shining Pearl|entry=It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.}}
+{{Dex/Form|West Sea}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its search for food sometimes leads it onto land, where it leaves behind a sticky trail of slime as it passes through.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The softness of its body helps disperse the force of impacts, so although its body is uncommonly squishy, it's also surprisingly resilient.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Eats beach sand for nourishment. Should one Gastrodon encounter another of a different color, a fierce battle will inevitably ensue.}}
+{{Dex/Form|East Sea}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It secretes a purple fluid to deter enemies. This fluid isn't poisonous—instead, it's super sticky, and once it sticks, it's very hard to unstick.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its body is covered in a sticky slime. It's very susceptible to dehydration, so it can't spend too much time on land.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Found more often on the land than in the sea. More active when it's cloudy or rainy out than when the weather is fair.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=328|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Form|West Sea}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Its whole body is sticky with mucus. In the past, this form of Gastrodon was by far the more numerous one.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It appears on beaches where the waters are shallow. Once it catches prey, it will slowly melt them with its mucus before slurping them up.}}
+{{Dex/Form|East Sea}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=They normally inhabit rocky seashores, but in times of continuous rain, they can sometimes be found in the mountains, far from the sea.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Fishers say that they didn't see many of these Pokémon in the past, but this form of Gastrodon is now increasing in number.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{water color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{water color light}}| [[File:Pokédex Image Gastrodon SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{water color light}}| [[File:Pokédex Image Gastrodon-East SM.png|x200px]]
+|style="border:2px solid #{{water color light}}; background:#{{water color light}} | [[File:Pokédex Image Gastrodon SV.png|x200px]]
+|-
+| West Sea Gastrodon in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| East Sea Gastrodon in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| East Sea Gastrodon in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|218|Sinnoh}} and {{rtn|221|Sinnoh}}, [[Fuego Ironworks]] (tall grass) <small>('''West Sea''')</small><br>[[Route]]s {{rtn|222|Sinnoh}}, {{rtn|224|Sinnoh}}, and {{rtn|230|Sinnoh}} (tall grass) <small>('''East Sea''')</small>}}
+{{Availability/Entry1|v=Platinum|area={{rt|218|Sinnoh}}, [[Fuego Ironworks]] (tall grass) <small>('''West Sea''')</small><br>[[Route]]s {{rtn|205|Sinnoh}} and {{rtn|218|Sinnoh}}, [[Canalave City]], [[Valley Windworks]], [[Fuego Ironworks]] ({{m|Surf}}ing) <small>('''West Sea''')</small><br>[[Route]]s {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, and {{rtn|224|Sinnoh}}, [[Pastoria City]] ({{m|Surf}}ing) <small>('''East Sea''')</small>}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] [[Pokéwalker]] {{p|Shellos}} <small>('''West Sea''')</small><br>[[Trade]] <small>('''East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Shellos}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Ground-type Safari|Ground]]) <small>('''West Sea''')</small>}}
+{{Availability/Entry1|v=Omega Ruby|t=fff|area=[[Evolution|Evolve]] {{p|Shellos}} <small>('''West Sea''')</small>}}
+{{Availability/Entry1|v=Alpha Sapphire|t=fff|area=[[Evolution|Evolve]] {{p|Shellos}} <small>('''East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ancient Poni Path]], [[Exeggutor Island]], [[Poni Wilds]] <small>('''East Sea''')</small><br>[[Trade]] <small>('''West Sea''')</small>}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Ancient Poni Path]], [[Exeggutor Island]], [[Poni Wilds]] <small>('''East Sea''')</small><br>[[Poni Breaker Coast]] ({{m|Surf}}ing) <small>('''East Sea''')</small><br>[[Evolution|Evolve]] {{p|Shellos}} <small>('''West Sea''')</small>}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Pokémon HOME]] <small>('''West Sea''')</small><br>{{rt|9|Galar}}, [[Galar Mine No. 2]], [[Dusty Bowl]], [[Giant's Mirror]] <small>('''East Sea''')</small><br>[[Bridge Field/Dens|Bridge Field]], [[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Cap/Dens|Giant's Cap]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Rolling Fields/Dens|Rolling Fields]], [[South Lake Miloch/Dens|South Lake Miloch]], [[West Lake Axewell/Dens|West Lake Axewell]] ([[Max Raid Battle]]) <small>('''East Sea''')</small>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Max Lair]] ([[Dynamax Adventure]]) <small>('''East Sea''')</small>}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Route]]s {{rtn|218|Sinnoh}} and {{rtn|221|Sinnoh}}, [[Fuego Ironworks]] (tall grass) <small>('''West Sea''')</small><br>[[Route]]s {{rtn|222|Sinnoh}}, {{rtn|224|Sinnoh}}, and {{rtn|230|Sinnoh}} (tall grass) <small>('''East Sea''')</small><br>[[Grand Underground]] - [[Fountainspring Cave]]}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' [[Ramanas Island]], [[Sandgem Flats]], massive [[mass outbreak]]s <small>('''West Sea''')</small><br>'''[[Cobalt Coastlands]]:''' [[Seagrass Haven]] (additional&nbsp;[[File:Alpha icon.png|link=Alpha Pokémon|14px]]), massive mass outbreaks <small>('''East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=North Province: [[North Province (Area One)|Area One]], [[North Province (Area Three)|Area Three]] <small>('''East Sea''')</small><br>North Province: [[Casseroya Lake]] <small>('''West Sea''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Gastrodon|4★}}) <small>('''West{{sup/9|V}}/East{{sup/9|S}} Sea''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Brine Cave]] (B1F-B9F, Lower Brine Cave B1F) <small>('''West Sea''')</small><br>[[Craggy Coast]] (B1F-B9F) <small>('''East Sea''')</small>}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Brine Cave]] (B1F-B9F, Lower Brine Cave B1F) <small>('''West Sea''')</small><br>[[Craggy Coast]] (B1F-B9F) <small>('''East Sea''')</small>}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area={{OBP|Marine Cave|Ranger}}, [[Volcano Cave]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Faldera Island]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Rugged Flats]] <small>('''West Sea''')</small><br>Beach: [[Sunny Seashore]] <small>('''East Sea''')</small>}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#The Enemies Within|Secret Warehouse: The Enemies Within]] <small>('''West/East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 3|Safari Jungle: Stage 3]]{{dotw|Sa}}<br>[[Island of Haste#Stage 4|Island of Haste: Stage 4]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Secret Cove|Origin Hideaway: Secret Cove]] <small>(All Areas)</small>, [[Distortion Land#Vast Ocean|Distortion Land: Vast Ocean]] <small>(All Areas)</small> <small>('''West/East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Garchomp Sea]], [[Arceus Sea]], [[Garchomp Sea]]<sup>Final</sup> <small>('''West/East Sea''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 389]] <small>('''West Sea''')</small><br>[[Prasino Woods|Prasino Woods: Stage 559]] <small>('''East Sea''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Trainer Lodge]] Friendship Level 100: {{sync|Cynthia|Gastrodon}} <small>('''West Sea''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====West Sea Gastrodon=====
+{{eventAvail/h|Language/Region|type=Water|type2=Ground}}
+{{eventAvail|{{gameabbrev7|SMUSUM}}|Paul Ruiz's West Sea Gastrodon|All|United States|50|June 21 to 23, 2019|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Paul Ruiz's West Sea Gastrodon}}
+|}
+=====East Sea Gastrodon=====
+{{eventAvail/h|Language/Region|type=Water|type2=Ground}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Hirofumi Kimura's East Sea Gastrodon|All|online|50|August 22 to 23, 2020|link=List of event Pokémon distributions in Pokémon Sword and Shield#Hirofumi Kimura's East Sea Gastrodon}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Eric Rios's East Sea Gastrodon|All|online|50|June 24 to 27, 2022|link=List of event Pokémon distributions in Pokémon Sword and Shield#Eric Rios's East Sea Gastrodon}}
+{{eventAvail|{{gameabbrev9|SV}}|Wonseok Jung's East Sea Gastrodon|All|online|50|June 17 to 18, 2023|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Wonseok Jung's East Sea Gastrodon}}
+{{eventAvail|{{gameabbrev9|SV}}|Eduardo Cunha's East Sea Gastrodon|All|online|50|August 10 to 14, 2023|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Eduardo Cunha's East Sea Gastrodon}}
+|}
+
+===Held Items===
+{{HeldItems/header|type=Water|type2=Ground}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Nanab Berry|30|Ball of Mud|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Ground
+|HP=    111
+|Attack= 83
+|Defense=68
+|SpAtk=  92
+|SpDef=  82
+|Speed=  39}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Ground
+|Speed=1
+|SpeedMax=2
+|Power=4
+|PowerMax=5
+|Technique=3
+|TechniqueMax=3
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Ground
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=   50
+|Ground=  100
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=   100
+|Grass=   400
+|Electric=  0
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|stormdrain=maybe
+|ground=yes
+|newelectric=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Gastrodon|Water|Ground|4}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level9|1|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level9|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|1|Recover|Normal|Status|—|—|5}}
+{{learnlist/level9|15|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level9|20|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level9|25|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level9|33|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/level9|39|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|46|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level9|53|Memento|Dark|Status|—|100|10}}
+{{learnlist/levelf/9|Gastrodon|Water|Ground|4}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Gastrodon|Water|Ground|4}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM208|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm9|TM209|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Gastrodon|Water|Ground|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Gastrodon|Water|Ground|4}}
+{{learnlist/breed9|{{MSP/H|0088|Grimer}}{{MSP/H|0088|Grimer|form=-Alola}}{{MSP/H|0089|Muk}}{{MSP/H|0089|Muk|form=-Alola}}|Acid Armor|Poison|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0109|Koffing}}{{MSP/H|0110|Weezing}}{{MSP/H|0110-Galar|Weezing}}{{MSP/H|0218|Slugma}}{{MSP/H|0219|Magcargo}}|Clear Smog|Poison|Special|50|—|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0833|Chewtle}}{{MSP/H|0834|Drednaw}}{{MSP/H|0914|Quaquaval}}|Counter|Fighting|Physical|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0079|Slowpoke}}{{MSP/H|0079|Slowpoke|form=-Galar}}{{MSP/H|0080|Slowbro}}{{MSP/H|0080|Slowbro|form=-Galar}}{{MSP/H|0199|Slowking}}{{MSP/H|0199|Slowking|form=-Galar}}{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0353|Shuppet}}{{MSP/H|0354|Banette}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Dusknoir}}{{MSP/H|0442|Spiritomb}}{{MSP/H|0607|Litwick}}{{MSP/H|0608|Lampent}}{{MSP/H|0609|Chandelure}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0871|Pincurchin}}|Curse|Ghost|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}|Mirror Coat|Psychic|Special|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0131|Lapras}}{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}{{MSP/H|0283|Surskit}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0875|Eiscue}}|Mist|Ice|Status|—|—|30|grid=8}}
+{{learnlist/breed9|{{MSP/H|0088|Grimer}}{{MSP/H|0089|Muk}}{{MSP/H|0109|Koffing}}{{MSP/H|0110|Weezing}}{{MSP/H|0110-Galar|Weezing}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}|Sludge|Poison|Special|65|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}{{MSP/H|0845|Cramorant}}|Spit Up|Normal|Special|—|100|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}{{MSP/H|0845|Cramorant}}|Stockpile|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}{{MSP/H|0845|Cramorant}}|Swallow|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0079|Slowpoke}}{{MSP/H|0079|Slowpoke|form=-Galar}}{{MSP/H|0080|Slowbro}}{{MSP/H|0080|Slowbro|form=-Galar}}{{MSP/H|0199|Slowking}}{{MSP/H|0199|Slowking|form=-Galar}}{{MSP/H|0194|Wooper}}{{MSP/H|0194|Wooper|form=-Paldea}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0218|Slugma}}{{MSP/H|0219|Magcargo}}{{MSP/H|0230|Kingdra}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0358|Chimecho}}|Yawn|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breedf/9|Gastrodon|Water|Ground|4}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Gastrodon|Water|Ground|4}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Gastrodon|Water|Ground|4}}
+
+===Side game data===
+====West Sea====
+{{Spindata/Head|type=Water|type2=Ground}}
+{{Spindata/MDTDS|col=6|type=Water|ndex=423
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Water|ndex=423
+|coset=3
+|conto={{p|Slowking}}, {{form|Shellos and Gastrodon|East Sea}} {{p|Shellos}}, East Sea Gastrodon
+|recruitment=Visit Gastrodon's secret base
+|P1=I used to run a business appraising [[Treasure Box]]es with my husband! ♪
+|P2=*pant pant* Protect me, honey!
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=2
+|num=038
+|browser=It spits orbs of water and hunks of dirt to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=3
+|past=NA
+|num=087
+|browser=It attacks by spitting bubbles that make Pokémon Slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=423
+|walk=2.33
+|hp=61
+|attack=78
+|defense=54
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=423
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=423|num=529
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Power of 5
+|skilldesc=Increases damage when you make a match of five.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=423
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=244
+|attack=169
+|defense=143
+|fast={{m|Mud-Slap}}, {{m|Hidden Power}}
+|special={{m|Water Pulse}}, {{m|Earth Power}}{{tt|*|From May 17, 2019 onward}}, {{m|Body Slam}}, {{m|Earthquake}}{{tt|×|Prior to official release on May 17, 2019}}
+}}
+|}
+
+====East Sea====
+{{Spindata/Head|type=Water|type2=Ground}}
+{{Spindata/MDTDS|col=6|type=Water|ndex=423E
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Water|ndex=423E
+|coset=3
+|conto={{p|Feraligatr}}, {{form|Shellos and Gastrodon|West Sea}} {{p|Shellos}}, East Sea Shellos, West Sea Gastrodon
+|recruitment=Visit Gastrodon's secret base
+|P1=My wife has a squishy body. I do, too.
+|P2=Where's…my wife?
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=423E
+|walk=2.33
+|hp=61
+|attack=78
+|defense=54
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=423E
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=423E|stype=Ground|num=529
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Swap+
+|skilldesc=Sometimes replaces three disruptions with this Pokémon.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=423E
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=244
+|attack=169
+|defense=143
+|fast={{m|Mud-Slap}}, {{m|Hidden Power}}
+|special={{m|Water Pulse}}, {{m|Earth Power}}{{tt|*|From May 17, 2019 onward}}, {{m|Body Slam}}, {{m|Earthquake}}{{tt|×|Prior to official release on May 17, 2019}}
+}}
+|}
+
+===Form data===
+Gastrodon has two different forms: West Sea Gastrodon and East Sea Gastrodon. In most cases, where it is encountered in the {{pkmn2|wild}} determines its form. This is purely a cosmetic difference, and this Pokémon cannot change between forms.
+
+West Sea Gastrodon is pink and brown in color, whereas East Sea Gastrodon is blue and green. There is also a slight difference in shape depending on the form.
+
+In [[Sinnoh]] and [[Hisui]], West Sea Gastrodon is encountered west of [[Mount Coronet]], while East Sea Gastrodon is encountered east of Mount Coronet. In [[Paldea]], West Sea Gastrodon is encountered in [[Casseroya Lake]], while East Sea Gastrodon is encountered in [[North Province (Area One)]]; both forms can also be found in [[Tera Raid Battle]]s regardless of location. In other [[region]]s, only one form appears in the wild per game (with the other only obtainable via [[trade|trading]] or [[transfer]]): Gastrodon only appears in its West Sea form in [[Kalos]]'s [[Friend Safari]], and in [[Alola]] and [[Galar]], only East Sea Gastrodon appear in the wild.
+
+===Evolution data===
+====West Sea====
+{{Evobox-2
+|type1=Water
+|type2=Ground
+|pictype=sprite
+|no1=0422Shellos-West
+|form1=West Sea
+|name1=Shellos
+|type1-1=Water
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0423Gastrodon-West
+|name2=Gastrodon
+|form2=West Sea
+|type1-2=Water
+|type2-2=Ground}}
+
+====East Sea====
+{{Evobox-2
+|type1=Water
+|type2=Ground
+|pictype=sprite
+|no1=0422Shellos-East
+|form1=East Sea
+|name1=Shellos
+|type1-1=Water
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0423Gastrodon-East
+|name2=Gastrodon
+|form2=East Sea
+|type1-2=Water
+|type2-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Ground}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/2Forms|ndex=423|form1=E}}
+{{Spritebox/5/2Forms|ndex=423|form1=E}}
+{{Spritebox/6/2Forms|ndex=423|form1=E|crop=76}}
+{{Spritebox/7/2Forms|ndex=423|form1=E|crop=77}}
+{{Spritebox/8/2FormsLA|ndex=423|form1=E|LAcrop=153}}
+<!--{{Spritebox/9/2Forms|ndex=0423|form1=E}}-->
+{{Spritebox/HOME/2Forms|ndex=0423|form1=E}}
+{{Spritebox/Footer|423|Gastrodon}}
+
+==In animation==
+[[File:Cynthia Gastrodon.png|thumb|250px|West Sea Gastrodon in {{aniseries|JN}}]]
+[[File:Paul Gastrodon.png|thumb|250px|East Sea Gastrodon in {{aniseries|DP}}]]
+===Major appearances===
+====[[Zoey's Gastrodon]]====
+In ''[[DP174|Last Call — First Round!]]'', [[Zoey]]'s {{DL|List of Pokémon with form differences|Shellos and Gastrodon|West Sea}} Shellos was revealed to have evolved into a Gastrodon. It was used alongside {{p|Lumineon}} in the [[Appeal|Performance Stage]] of the [[Sinnoh Grand Festival]]. Gastrodon was later used in the [[Contest Battle]]s as well, winning them and assuring Zoey would make her way to the finals.
+
+====Other====
+West Sea Gastrodon debuted in ''[[DP097|Double Team Turnover!]]'', under the ownership of {{an|Cynthia}}. In ''[[DP100|Aiding the Enemy]]'', it battled [[Aaron's Beautifly]] on [[television]]. It was able to defeat Beautifly in addition to [[Aaron]]'s {{p|Drapion}}, giving Cynthia the win. It reappeared in ''[[JN116|Pride of a Champion!]]'', ''[[JN117|The Fiery Road to Mastership!]]'', and ''[[JN123|Bewitch, Battle, and Bewilder!]]'' when Cynthia used it in her [[Masters Eight Tournament]] matches against {{an|Iris}} and {{Ash}}.
+
+{{DL|List of Pokémon with form differences|Shellos and Gastrodon|East Sea}} Gastrodon debuted in ''[[DP186|Familiarity Breeds Strategy!]]'', under the ownership of [[Paul]]. It battled [[Ash's Staraptor]] and {{AP|Buizel}} in their [[Lily of the Valley Conference]] match, losing against the latter.
+
+===Minor appearances===
+In ''[[DP123|Old Rivals, New Tricks!]]'', a {{pkmn|Coordinator}}'s West Sea Gastrodon competed in the {{to|Sandalstraw}} {{pkmn|Contest}}.
+
+Two Gastrodon, one East Sea and one West Sea, appeared in ''[[SM127|Chasing Memories, Creating Dreams!]]'', under the ownership of different {{pkmn|Trainer}}s. They watched {{an|Professor Kukui}}'s announcement of the [[Manalo Stadium]]'s completion.
+
+Two Trainers' East Sea Gastrodon appeared in ''[[JN089|The Gates of Warp!]]'', with one of them appearing in a flashback.
+
+A Trainer's East Sea Gastrodon appeared in ''[[JN090|Showdown at the Gates of Warp!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP097|None|po={{p|Gastrodon}}<br>(West Sea)|Dawn's Pokédex|Gastrodon, the Sea Slug Pokémon and the evolved form of {{p|Shellos}}. Gastrodon inhabits the shallow tidal pools of the ocean, and its sturdy shell serves to protect its body.}}
+{{Animedexbody|DP186|None|po={{p|Gastrodon}}<br>(East Sea)|Dawn's Pokédex|Gastrodon, the Sea Slug Pokémon and the evolved form of Shellos. A sturdy shell covered Gastrodon's back long ago. Its cells still contain evidence of it today.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN117|None|po={{p|Gastrodon}}<br>(West Sea)|Goh's Rotom Phone|Gastrodon, the Sea Slug Pokémon. A {{t|Water}} and {{t|Ground}} type. Although Gastrodon has a flexible body, it is tough, allowing it to absorb sharp blows.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Jupiter Gastrodon Adventures.png|thumb|220px|left|West Sea Gastrodon in [[Pokémon Adventures]]]]
+[[File:Pa Gastrodon Adventures.png|thumb|220px|East Sea Gastrodon in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A {{DL|List of Pokémon with form differences|Shellos and Gastrodon|East Sea}} Gastrodon first appeared in ''[[PS354|Knowledge of the Unown I]]'', under the ownership of a {{tc|Ranchers|Pa}}.
+
+[[Jupiter]] owns a {{DL|List of Pokémon with form differences|Shellos and Gastrodon|West Sea}} Gastrodon, which debuted in ''[[PS395|Stopping Sableye]]''. It was first used to battle {{adv|Platinum}}, [[Maylene]], and [[Candice]] at [[Lake Acuity]].
+
+In ''[[PS435|The Final Dimensional Duel V]]'', a West Sea Gastrodon appeared in a flashback on [[Fullmoon Island]] as one of the Pokémon affected by {{p|Darkrai}}'s {{a|Bad Dreams}}. It was rescued and healed by [[Palmer]].
+
+[[Hapu]] owns an East Sea Gastrodon, which first appeared in ''[[PASM23|Battle in Vast Poni Canyon]]''.
+
+An East Sea Gastrodon appeared in ''[[PASS21|Swaying!! Murky Memories]]''.
+{{-}}
+
+==In the TCG==
+{{main|Gastrodon (TCG)}}
+
+==Trivia==
+[[File:Spr b 4d 423b.png|thumb|Early back sprite of Gastrodon]]
+* According to an interview in [[Nintendo Power]] with [[Game Freak]], Gastrodon and {{p|Shellos}} were [[Pokémon Ruby and Sapphire beta|originally]] intended for {{game|Ruby and Sapphire|s}}.<ref name=NintendoPower>[[Junichi Masuda]]: There's also a sea-slug Pokémon that we weren't able to put in {{2v2|Ruby|Sapphire}} that we were able to put in <nowiki>[</nowiki>{{game|Diamond and Pearl|s}}<nowiki>]</nowiki>... | "Pearls of Wisdom", ''[[Nintendo Power]]'' Issue 215, May 2007, p. 37 ([https://imgur.com/a/kkZqB Scan])</ref>
+* Both Shellos and Gastrodon have [[Pokémon Diamond and Pearl beta|early back sprites]] within the game data of {{game|Diamond and Pearl|s}}; however, there are no front sprites for these forms.
+* In Diamond and Pearl, no in-game {{pkmn|Trainer}} uses East Sea Gastrodon in battle, even on the east side of [[Mount Coronet]].
+* Prior to Generation VI, Gastrodon's shape was [[File:Body14.png|32px]].
+* Gastrodon and its pre-Evolution were accidentally released in {{g|GO}} on April 29, 2019, but were removed shortly after. On May 17, 2019, they made their official debut along with various other Pokémon from Generation IV.
+* Gastrodon was featured alongside several bovine Pokémon, namely {{p|Tauros}}, {{p|Miltank}}, and {{p|Bouffalant}}, in multiple [https://twitter.com/poke_times/status/1346984961790906368 promotional] [https://www.pokemoncenter-online.com/?p_cd=4521329325095 artworks] created to celebrate New Year's 2021, also known as the {{wp|Year of the Ox}}.
+* The {{g|Scarlet and Violet}} Pokédex entries mentioning a decrease in West Sea Gastrodon and an increase in East Sea Gastrodon may be an inverse on the changes in the populations of real life sea slug species due to climate change — with species that better survive in warmer waters becoming more common.<ref>[https://web.archive.org/web/20220814133258/https://www.abc.net.au/news/2019-01-18/citizen-science-project-counting-sea-slugs-helps-map-climate/10719706 Citizen science project counting NSW sea slugs helps map effect of climate change on species (retrieved December 2nd, 2022)]</ref>
+
+===Origin===
+Gastrodon is based on a {{wp|sea slug}},<ref name=NintendoPower/> perhaps one of the order {{wp|Opisthobranchia}}. It may also be based on a {{wp|Anaspidea|sea hare}}, a type of sea slug that is also known to secrete purple fluid in self-defense. The tentacles on Gastrodon's head are shaped like cattle horns, which may be a {{wp|visual pun}} on 海牛 ''umiushi'', Japanese for sea slug, derived from 海 ''umi'' (sea) and 牛 ''ushi'' (cow; cattle). Gastrodon has appeared in two different artworks celebrating the 2021 Year of the Ox in the Chinese Zodiac, further supporting this connection.<ref>[https://twitter.com/poke_times/status/1346984961790906368 Year of the Ox artwork from official @poke_times Twitter account (January 7, 2021)]</ref><ref>[https://twitter.com/poke_times/status/1347468106629869568 Year of the Ox artwork from official @poke_times Twitter account (January 8, 2021)]</ref>
+
+====Name origin====
+Gastrodon may be a combination of ''{{wp|gastropoda|gastropod}}'' or ''{{wp|Gastropteron}}'' (genus of sea slug), and ''don'' (Spanish for ''lord'') or ''-don'' (common suffix in dinosaur names derived from the Ancient Greek word for tooth).
+
+Tritodon may be a combination of ''{{wp|Tritoniidae}}'' (family of shell-less marine gastropod molluscs) or ''{{wp|Charonia|Triton snail}}'' (marine gastropod mollusk named after {{wp|Triton (mythology)|Triton}}, Greek god of the sea), and ''don'' (Spanish for lord) or ''-don'' (common suffix in dinosaur names derived from the Ancient Greek word for tooth). It may also be derived from ''torito'' (Spanish for little bull).
+
+==In other languages==
+{{Other languages|type=Water|type2=Ground
+|ja=トリトドン ''Tritodon''|jameaning=From ''{{wp|Tritoniidae}}'', ''{{wp|Charonia|Triton snail}}'', ''{{wp|Triton (mythology)|Triton}}'', ''{{tt|don|Spanish for lord}}'', and ''{{tt|-don|common suffix in dinosaur names derived from the Ancient Greek word for tooth}}''; possibly also ''{{tt|torito|Spanish for little bull}}''
+|fr=Tritosor|frmeaning=From ''{{wp|Triton}}'' and ''{{tt|-saurus|common suffix in dinosaur names}}''
+|es=Gastrodon|esmeaning=Same as English name
+|de=Gastrodon|demeaning=Same as English name
+|it=Gastrodon|itmeaning=Same as English name
+|ko=트리토돈 ''Tritodon''|komeaning=Transcription of Japanese name
+|zh_cmn=海兔獸 / 海兔兽 ''Hǎitùshòu''{{tt|*|Pre-Gen VII media}}<br>海牛獸 / 海牛兽 ''Hǎiniúshòu''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|海兔 ''hǎitù''|sea hare}} and {{tt|獸 / 兽 ''shòu''|beast}}<br>From {{wp|Doridoidea|{{tt|海牛 ''hǎiniú''|dorid nudibranchs}}}} and {{tt|獸 / 兽 ''shòu''|beast}}
+|zh_yue=海兔獸 ''Hóitousau''{{tt|*|Pre-Gen VII media}}<br>海牛獸 ''Hóingàuhsau ''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|海兔 ''hóitou''|sea hare}} and {{tt|獸 ''sau''|beast}}<br>From {{wp|Doridoidea|{{tt|海牛 ''hóingàuh''|dorid nudibranchs}}}} and {{tt|獸 ''sau''|beast}}
+|hi=स्लगार ''Slugaar''|himeaning=From ''slug''
+|th=ไทรโทดอน ''Thraithodon''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+<div style="display:inline-block">
+''West Sea''
+{{langtable
+|color={{water color}}|bordercolor={{autumn color dark}}
+|ja=にしのうみ ''{{tt|Nishi no Umi|West Sea}}''
+|zh_yue=西海 ''{{tt|Sāihói|West Sea}}''
+|zh_cmn=西海 ''{{tt|Xīhǎi|West Sea}}''
+|fr=Mer Occident
+|de=Westliches Meer
+|hi=वेस्ट-सी ''West-Sea''
+|id=Laut Barat
+|it=Mare Ovest
+|ko=서쪽바다 ''{{tt|Seojjok Bada|West Sea}}''
+|ms=Laut Barat
+|pt_br=Mar Ocidental{{tt|*|Pokémon GO}}<br>Mar Oeste{{tt|*|TCG}}
+|pt_eu=Mar Oeste
+|es=Mar Oeste
+|th=ทะเลตะวันตก ''Thale Tawantok''
+|tr=Batı Denizi
+}}
+</div>
+<div style="display:inline-block">
+''East Sea''
+{{langtable
+|color={{water color}}|bordercolor={{green color}}
+|ja=ひがしのうみ ''{{tt|Higashi no Umi|East Sea}}''
+|zh_yue=東海 ''{{tt|Dūnghói|East Sea}}''
+|zh_cmn={{tt|東海|Traditional Chinese}} / {{tt|东海|Simplified Chinese}} ''{{tt|Dōnghǎi|East Sea}}''
+|fr=Mer Orient
+|de=Östliches Meer
+|hi=ईस्ट-सी ''East-Sea''
+|id=Laut Timur
+|it=Mare Est
+|ko=동쪽바다 ''{{tt|Dongjjok Bada|East Sea}}''
+|ms=Laut Timur
+|pt=Mar Leste
+|es=Mar Este
+|th=ทะเลตะวันออก ''Thale Tawanok''
+|tr=Doğu Denizi
+}}
+</div>
+{{-}}
+
+==Related articles==
+* [[Zoey's Gastrodon]]
+* [[List of Pokémon with form differences]]
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0422|prev=Shellos|nextnum=0424|next=Ambipom}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Blue-colored Pokémon]]<!--East Sea-->
+[[Category:Body style 14 Pokémon]]<!--Prior to Gen VI-->
+[[Category:Pokémon with different forms]]
+
+[[de:Gastrodon]]
+[[es:Gastrodon]]
+[[fr:Tritosor]]
+[[it:Gastrodon]]
+[[ja:トリトドン]]
+[[zh:海兔兽]]

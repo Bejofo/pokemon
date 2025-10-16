@@ -1,0 +1,514 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/GO|species=Unfezant}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0520|prev=Tranquill|nextnum=0522|next=Blitzle|round=none}}
+{{PokémonPrevNext/Disambig|species=Unfezant}}
+|}
+{{Pokémon Infobox
+|name=Unfezant
+|jname=ケンホロウ
+|jtranslit=Kenhorō
+|tmname=Kenhallow
+|category=Proud
+|type1=Normal
+|type2=Flying
+|abilitylayout=2
+|ability1=Big Pecks
+|ability2=Super Luck
+|abilityd=Rivalry
+|ndex=0521
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=63.9
+|weight-kg=29.0
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|expyield=220<!--215 in Gen V-VI-->
+|lv100exp=1,059,860
+|gendercode=127
+|color=Gray
+|catchrate=45
+|body=09
+|evtotal=3
+|evat=3
+|pokefordex=unfezant
+|generation=5
+|friendship=70
+}}
+'''Unfezant''' ([[List of Japanese Pokémon names|Japanese]]: '''ケンホロウ''' ''Kenhallow'') is a {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Tranquill}} starting at [[level]] 32. It is the final form of {{p|Pidove}}.
+
+==Biology==
+Unfezant is a {{OBP|Pokémon|species}} resembling a game bird. It is primarily dark gray with lighter gray markings. The light gray markings consist of a heart-shaped patch covering its face and throat, two patches divided by a lacy line on its wings, and intricate stripes with dark rimming on its tail feather. Its beak and eyes are yellow, and it has light gray legs with three clawed toes and a spur on the ankle.
+
+The male Unfezant has a reddish-pink {{wp|wattle (anatomy)|wattle}} around its eyes. Long, ribbon-like growths from the wattle extend over its head and down past its shoulders. By swinging its head, the male threatens its opponents. The male also has a mint green underside with speckling towards the chest. The males are known to fly faster than the females. In contrast, the female lacks a wattle and has brown markings on its underside. It is also more adept at flying than the males due to its stamina. However, the females take a longer time to adjust to people.
+
+Unfezant are known to be immensely proud and intelligent. It prefers to not feel close to anyone other than its {{pkmn|Trainer}}.
+
+===Evolution===
+Unfezant evolves from {{p|Tranquill}} and is the final form of {{p|Pidove}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/2branch2
+|type1=Normal
+|type2=Flying
+|no1=0519
+|name1=Pidove
+|type1-1=Normal
+|type2-1=Flying
+|evo1=
+|no2=0520
+|name2=Tranquill
+|type1-2=Normal
+|type2-2=Flying
+|evo2a=[[File:Male icon HOME.png|link=Gender|32px]]<br><small>{{color2|000|Gender|Male}}</small>
+|no3a=0521
+|name3a=Unfezant
+|form3a=Male
+|art3a=0521Unfezant-Male
+|type1-3a=Normal
+|type2-3a=Flying
+|evo2b=[[File:Female icon HOME.png|link=Gender|32px]]<br><small>{{color2|000|Gender|Female}}</small>
+|no3b=0521
+|art3b=0521Unfezant-Female
+|form3b=Female
+|name3b=Unfezant
+|type1-3b=Normal
+|type2-3b=Flying
+|genderbranch=true}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=027|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=016|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.}}
+{{Dex/Entry1|v=White|entry=Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Males swing the plumage on their heads to threaten others, but females are better at flying.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=028|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Form|Male}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Unfezant are exceptional fliers. The females are known for their stamina, while the males outclass them in terms of speed.}}
+{{Dex/Form|Female}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Females of this species are very capable fliers, particularly notable for their stamina. They also take longer to adjust to people.}}
+{{Dex/Form|Both genders}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|12|Unova}}, [[Lostlorn Forest]] ({{DL|Phenomenon|rustling grass}})<br>[[Route]]s {{rtn|6|Unova}} and {{rtn|7|Unova}}, [[Dragonspiral Tower]] ({{DL|Phenomenon|rustling grass}}){{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFFFFF|area=[[Route]]s {{rtn|3|Unova}}, {{rtn|6|Unova}}, {{rtn|7|Unova}}, and {{rtn|12|Unova}}, {{OBP|Victory Road|Black 2 and White 2}} ({{DL|Phenomenon|rustling grass}})<br>[[Dragonspiral Tower]] ({{DL|Phenomenon|rustling grass}}){{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Tranquill}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Tranquill}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Axew's Eye]], [[Hammerlocke Hills]]<br>[[Rolling Fields/Dens|Rolling Fields]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Bridge Field/Dens|Bridge Field]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Loop Lagoon/Dens|Loop Lagoon]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Race against the Clock|Frenzy Square: Race against the Clock]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 2|Safari Jungle: Stage 2]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Gracious Woodlands|Distortion Land: Gracious Woodlands]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Castform Sea]], [[Buzzwole Sea]], [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Elsewhere Forest]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#Tenth release|''Pokémon Safari'']] <small>(Tenth release; '''Male''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Trainer Lodge]] Friendship Level 100: {{sync|Skyla|Unfezant}} <small>('''Female''')</small><br>{{DL|Damage Challenge|Training Ticket Exchange}}: {{sync|Hugh|Unfezant}} <small>('''Male''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+======Generation V======
+{{BaseStats
+|type=Normal
+|type2=Flying
+|HP=80
+|Attack=105
+|Defense=80
+|SpAtk=65
+|SpDef=55
+|Speed=93}}
+
+======Generation VI onward======
+{{BaseStats
+|type=Normal
+|type2=Flying
+|HP=80
+|Attack=115
+|Defense=80
+|SpAtk=65
+|SpDef=55
+|Speed=93}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+Unfezant is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Unfezant|Normal|Flying|5}}
+{{learnlist/level8|1|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level8|1|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level8|12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level8|16|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level8|20|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level8|26|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/level8|36|Detect|Fighting|Status|—|—|5}}
+{{learnlist/level8|42|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level8|50|Roost|Flying|Status|—|—|10}}
+{{learnlist/level8|58|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/level8|66|Sky Attack|Flying|Physical|140|90|5||'''}}
+{{learnlist/levelf/8|Unfezant|Normal|Flying|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Unfezant|Normal|Flying|5}}
+{{learnlist/tm8|TM06|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15||'''}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM30|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm8|TM95|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR13|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/tr|TR36|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR66|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/tr|TR85|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tr|TR89|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/tmf/8|Unfezant|Normal|Flying|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Unfezant|Normal|Flying|5}}
+{{learnlist/breed8|{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}{{MSP/8c|627|Rufflet}}{{MSP/8c|628|Braviary}}|Defog|Flying|Status|—|—|15|grid=4}}
+{{learnlist/breed8|{{MSP/8c|163|Hoothoot}}{{MSP/8c|164|Noctowl}}{{MSP/8c|561|Sigilyph}}|Hypnosis|Psychic|Status|—|60|20|grid=4}}
+{{learnlist/breed8|{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}|Morning Sun|Normal|Status|—|—|5|*|grid=4}}
+{{learnlist/breed8|{{MSP/8c|083|Farfetch'd}}{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}|Night Slash|Dark|Physical|70|100|15|*|grid=4}}
+{{learnlist/breed8|{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}{{MSP/8c|177|Natu}}{{MSP/8c|178|Xatu}}|Wish|Normal|Status|—|—|10|grid=4}}
+{{learnlist/breedf/8|Unfezant|Normal|Flying|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Unfezant|Normal|Flying|5}}
+{{learnlist/tutor8|Dual Wingbeat|Flying|Physical|40|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Unfezant|Normal|Flying|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Unfezant|Normal|Flying|5}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Unfezant|Normal|Flying|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Unfezant|Normal|Flying|5}}
+{{learnlist/prevgen8|Unfezant|5|Aerial Ace|Flying|Physical|60|—|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Unfezant|5|Bestow|Normal|Status|—|—|15|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Unfezant|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Unfezant|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Unfezant|5|Echoed Voice|Normal|Special|40|100|15||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Unfezant|5|Frustration|Normal|Physical|—|100|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Unfezant|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Unfezant|5|Lucky Chant|Normal|Status|—|—|30|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Unfezant|5|Pluck|Flying|Physical|60|100|20||'''|V=yes<!--TM-->}}
+{{learnlist/prevgen8|Unfezant|5|Psych Up|Normal|Status|—|—|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Unfezant|5|Razor Wind|Normal|Special|80|100|10||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Unfezant|5|Return|Normal|Physical|—|100|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Unfezant|5|Secret Power|Normal|Physical|70|100|20||'''|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Unfezant|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Unfezant|Normal|Flying|5}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/PSMD|col=6|type=Normal|ndex=521
+|coset=3 (♂)
+|conto={{p|Nidoran♂}}, {{p|Garchomp}}, Unfezant (♀), {{p|Frillish}} (♂)
+|recruitment=Punish {{p|Garchomp}}
+|P1=They can sometimes see through my intimidating head plumage. So what?
+|P2=Argh... This is unbelievable!
+}}
+|-
+{{Spindata/PSMD|col=6|type=Normal|ndex=521 f
+|coset=3 (♀)
+|conto={{p|Nidoran♀}}, {{p|Garchomp}}, Unfezant (♂), {{p|Frillish}} (♀)
+|recruitment=Punish {{p|Garchomp}}
+|P1=I may look below average, but I have skills!
+|P2=I'm unable to go on...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=521 m
+|walk=1.05
+|hp=55
+|attack=79
+|defense=52
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Normal|ndex=521|bttype=Flying
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Normal|ndex=521|stype=Flying|num=578
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Nosedive
+|skilldesc=Sometimes deals a lot more damage.
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=521F|stype=Flying|num=578
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Crowd Control+
+|skilldesc=Deals even more damage when there are more Unfezant in the puzzle area.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=521
+|hatch=N/A
+|buddy=1<!--
+|candy=Pidove-->
+|evolution=N/A
+|stamina=190
+|attack=226
+|defense=146
+|fast={{m|Air Slash}}, {{m|Steel Wing}}
+|special={{m|Heat Wave}}, {{m|Hyper Beam}}, {{m|Sky Attack}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=521|pdex=067
+|dex=Male and female Unfezant work together to raise their young. One goes out in search of food while the other stays back at the nest to protect their {{pkmn|Egg|eggs}}.}}
+|}
+
+===Evolution data===
+{{Evobox/2branch2
+|type1=Normal
+|type2=Flying
+|no1=0519
+|name1=Pidove
+|type1-1=Normal
+|type2-1=Flying
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 21}}
+|no2=0520
+|name2=Tranquill
+|type1-2=Normal
+|type2-2=Flying
+|evo2a={{Bag/s|Rare Candy|SV}} + [[File:Male icon HOME.png|link=Gender|32px]]<br>{{color2|000|Level|Level 32}}<br><small>({{color2|000|Gender|male}})</small>
+|no3a=0521
+|name3a=Unfezant
+|form3a=Male
+|art3a=0521Unfezant-Male
+|type1-3a=Normal
+|type2-3a=Flying
+|evo2b={{Bag/s|Rare Candy|SV}} + [[File:Female icon HOME.png|link=Gender|32px]]<br>{{color2|000|Level|Level 32}}<br><small>({{color2|000|Gender|female}})</small>
+|no3b=0521
+|art3b=0521Unfezant-Female
+|form3b=Female
+|name3b=Unfezant
+|type1-3b=Normal
+|type2-3b=Flying
+|genderbranch=true
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5/Gender|ndex=521}}
+{{Spritebox/6/Gender|ndex=521|crop=148}}
+{{Spritebox/7/Gender|ndex=521|crop=131}}
+{{Spritebox/8/Gender|ndex=521}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/Gender|ndex=0521}}
+{{Spritebox/Footer|521|Unfezant}}
+
+==In animation==
+[[File:Skyla Unfezant.png|thumb|250px|A male Unfezant in {{aniseries|BW}}]]
+[[File:Ash Unfezant.png|thumb|250px|A female Unfezant in {{aniseries|BW}}]]
+===Major appearances===
+====[[Ash's Unfezant]]====
+In ''[[BW068|An Amazing Aerial Battle!]]'', {{Ash}}'s Tranquill, which he {{pkmn2|caught}} as a Pidove, evolved into an Unfezant during a [[Gym]] {{pkmn|battle}} against [[Skyla]] and her {{TP|Skyla|Swanna}}. This also marked the animated series debut of Unfezant's female form.
+
+====Other====
+A male Unfezant made its animated series debut in ''[[BW067|Cilan Takes Flight!]]'', under the ownership of [[Skyla]]. He was used in a battle against {{an|Cilan}} and lost to {{TP|Cilan|Crustle}}. He was then used during Ash's Gym battle with Skyla in ''[[BW068|An Amazing Aerial Battle!]]'', during which he briefly battled {{AP|Tranquill}} before falling to {{AP|Pikachu}}.
+
+In ''[[XY130|Finals Not for the Faint-Hearted!]]'', [[Alain]] used a male Unfezant during the final round of the [[Lumiose Conference]]. He had an aerial battle against [[Ash's Talonflame]], which ended in a tie.
+
+===Minor appearances===
+Multiple male and female Unfezant debuted in the opening sequence of ''[[M14|White—Victini and Zekrom]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', a male Unfezant raced {{OBP|Mewtwo|M16}}.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW067|Unfezant|Ash's Pokédex|Unfezant, the Proud Pokémon and the evolved form of {{p|Tranquill}}. Male Unfezant threaten their opponents by swinging their heads. Female Unfezant's flying skills surpass that of male Unfezant.}}
+{{Animedexbody|BW068|Unfezant|Ash's Pokédex|Unfezant, the Proud Pokémon and the evolved form of {{p|Tranquill}}. Female Unfezant's flying skills surpass that of male Unfezant.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:Bianca father Unfezant Adventures.png|thumb|left|150px|A male Unfezant in [[Pokémon Adventures]]]]
+[[File:Skyla Unfezant Adventures.png|thumb|150px|A female Unfezant in Pokémon Adventures]]
+===Pocket Monsters BW===
+An Unfezant appeared in [[PMBW18]].
+
+===Pokémon Adventures===
+[[Bianca's father]] has a male Unfezant, which {{adv|Black}}, {{adv|Cheren}}, and {{adv|Bianca}} used as children to practice battling behind his back. He appeared in a flashback in ''[[PS463|A Nickname for Tepig]]''.
+
+[[Skyla]] owns a female Unfezant, which was first used to battle {{adv|Black}} in a Gym battle in ''[[PS494|Up in the Air]]''.
+
+Cheren's male Unfezant, which evolved twice from the {{p|Pidove}} he caught before arriving at [[Castelia City]], was twice used in battle in the {{un|Pokémon League}}. He evolved sometime prior to ''[[PS514|The Tournament Continues]]''.
+{{-}}
+
+==In the TCG==
+{{main|Unfezant (TCG)}}
+
+==Trivia==
+===Origin===
+Unfezant is based on a {{wp|pheasant}}.<ref>''Nintendo Dream'' Vol. 201, January 2011 ([http://lavacutcontent.com/ken-sugimori-nintendo-dream-3/ Translation by Dr. Lava])</ref> It especially seems to draw inspiration from the {{wp|Siamese fireback}}, a species of pheasant. It may also incorporate aspects of other {{wp|Galliformes|gamebird}}s, such as {{wp|turkey (bird)|turkey}}s or the ''{{wp|Tragopan}}''. It likely also draws inspiration from the [[wp:Pheasant_pigeon|pheasant pigeon]], given its name and pre-[[Evolution]]s. It is also similar in appearance to the {{wp|greater roadrunner}} and a {{wp|King of Saxony bird-of-paradise}}. Unfezant's gender differences appears to reflect {{wp|sexual dimorphism}} in real-life birds in that males have large wattles and are more colorful than the females.
+
+====Name origin====
+Unfezant may be a combination of corruptions of ''unpleasant'' and ''{{wp|pheasant}}''. It may also involve ''unfazed''.
+
+Kenhallow may derive from ケンホロロ ''kenhororo'' (onomatopoeia of pheasant cries) and けんもほろろ ''ken-mo-hororo'' (curt or brusque).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=ケンホロウ ''Kenhallow''|jameaning=From {{tt|ケンホロロ ''kenhororo''|onomatopoeia of pheasant cries}} and {{tt|けんもほろろ ''ken-mo-hororo''|curt, brusque}}
+|fr=Déflaisan|frmeaning=From ''{{tt|déplaisant|unpleasant}}'' and ''{{tt|faisan|pheasant}}''
+|es=Unfezant|esmeaning=Same as English name
+|de=Fasasnob|demeaning=From ''{{tt|Fasan|pheasant}}'' and ''Snob''
+|it=Unfezant|itmeaning=Same as English name
+|ko=켄호로우 ''Kenhorrow''|komeaning=Transcription of Japanese name
+|zh_cmn=高傲雉雞 / 高傲雉鸡 ''Gāo'àozhìjī''{{tt|*|Games}}<br>轟隆雉雞 / 轰隆雉鸡 ''Hōnglóngzhìjī''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|高傲 ''gāo'ào''|haughty}} and {{tt|雉雞 / 雉鸡 ''zhìjī''|pheasant}}<br>From {{tt|轟隆 / 轰隆 ''hōnglóng''|sound of rumbling}} and {{tt|雉雞 / 雉鸡 ''zhìjī''|pheasant}}
+|zh_yue=高傲雉雞 ''Gōungouhjihgāi''{{tt|*|Games}}<br>轟隆雉雞 ''Gwàhnglùhngjihgāi''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|高傲 ''gōu'ngouh''|haughty}} and {{tt|雉雞 ''jihgāi''|pheasant}}<br>From {{tt|轟隆 ''gwàhnglùhng''|sound of rumbling}} and {{tt|雉雞 ''jihgāi''|pheasant}}
+|hi=कब्रूटर ''Kabrootar''|himeaning=From {{tt|क़ब्र ''qabr''|grave}} and {{tt|कबूतर ''kabootar|pigeon}}
+|ru=Унфезант ''Unfezant''|rumeaning=Transcription of English name
+|th=เคนโฮโล ''Khenholo''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Ash's Unfezant]]
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0520|prev=Tranquill|nextnum=0522|next=Blitzle}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Fasasnob]]
+[[es:Unfezant]]
+[[fr:Déflaisan]]
+[[it:Unfezant]]
+[[ja:ケンホロウ]]
+[[zh:高傲雉鸡]]

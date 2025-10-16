@@ -1,0 +1,534 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Petilil}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0547|prev=Whimsicott|nextnum=0549|next=Lilligant|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Petilil
+|jname=チュリネ
+|tmname=Churine
+|category=Bulb
+|ndex=0548
+|type1=Grass
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=14.6
+|weight-kg=6.6
+|abilitylayout=2
+|ability1=Chlorophyll
+|ability2=Own Tempo
+|abilityd=Leaf Guard
+|catchrate=190
+|evtotal=1
+|evsa=1
+|gendercode=254
+|lv100exp=1,000,000
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|color=Green
+|expyield=56
+|body=05
+|pokefordex=petilil
+|generation=5
+|friendship=70
+}}
+'''Petilil''' ([[List of Japanese Pokémon names|Japanese]]: '''チュリネ''' ''Churine'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolve]]s into {{p|Lilligant}} when exposed to a [[Sun Stone]].
+
+In [[Hisui]], Petilil evolves into {{rf|Hisuian}} Lilligant when exposed to a Sun Stone.
+
+==Biology==
+Petilil is a plant {{OBP|Pokémon|species}} that resembles a plant bulb, such as an onion. It is primarily light green. Its head is tipped with three oblong leaves, whose color can determine how healthy the Petilil is. The leaves on its head reliably grow back if any fall off, and if they are pruned regularly, Petilil can be grown into a fine round shape. Its crescent-shaped white face, seemingly lacking a nose or mouth, has brown eyes shaped like elongated ovals. A green "bib" is present on its neck, and its lower body consists of five stubs. The outer stubs act as arms, the middle stub acts as a foot, and the two inner stubs next to it are used to move itself around.
+
+The leaves on Petilil's head are very bitter, which can cause dizziness. However, these leaves possess revitalizing effects such as restoring a person's vigor. This can be achieved by eating the leaves directly, or drying and boiling them into an infusion. This infusion is also sometimes used as a bug repellent. Because of the health effects of its leaves, Petilil is very popular with the elderly.
+
+Petilil tends to appear near sources of clean waters. It lives in areas with soil abundant in moisture and nutrients. The homes can be either well-tended fields or flowerbeds. However, they will leave if the environment turns bad. This Pokémon is a female-only species with no male counterpart.
+
+In [[Hisui]], the snowy mountainous landscape causes Petilil to gain the {{t|Fighting}} type when it evolves into {{p|Lilligant}}.
+
+===Evolution===
+Petilil evolves into {{p|Lilligant}}.
+
+In [[Hisui]], Petilil evolves into {{rf|Hisuian}} {{p|Lilligant}}.
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Grass
+|no1=0548
+|name1=Petilil
+|type1-1=Grass
+|evo1a=
+|no2a=0549
+|name2a=Lilligant
+|type1-2a=Grass
+|evo1b=
+|art2b=0549Lilligant-Hisui
+|no2b=0549
+|name2b=Lilligant
+|form2b=Hisuian Form
+|type1-2b=Grass
+|type2-2b=Fighting}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=054|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=084|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body.}}
+{{Dex/Entry1|v=White|entry=Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=085|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=103|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=Although the leaves on its head are bitter enough to cause dizziness, they provide relief from weariness—even more so when boiled.}}
+{{Dex/Entry1|v=Moon|entry=By pruning the leaves on its head with regularity, this Pokémon can be grown into a fine plump shape.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Some say if you dry the leaves on its head, boil them down, and drink the infusion, your vigor will return, so Petilil is popular with the elderly.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=They prefer clean water and soil. When the environment they live in turns bad, the whole bunch will up and move to a new area.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|label1=Isle of Armor|num1=201|reg2=Sinnoh|reg3=Hisui|num3=093}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond and Shining Pearl]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Petilil appears around sources of clean water. Boiling leaves from this Pokémon's head results in a liquid that's sometimes used as a bug repellent.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The deeper the color of a Petilil's leaves, the healthier the Pokémon is. Petilil sometimes make its home in a well-tended field or flowerbed.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=The leaves on its head are highly valued for medicinal purposes. Dry the leaves in the sun, boil them, and then drink the bitter decoction for remarkably effective relief from fatigue.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=104|reg2=Kitakami|num2=66|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=If the leaves on its head are pruned with regularity, this Pokémon can be grown into a fine plump shape.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+| style="{{roundy|20px}} border:2px solid #{{grass color dark}}; background:#{{grass color light}}| [[File:Pokédex Image Petilil SM.png|x200px]]
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Petilil SV.png|x200px]]
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Petilil SV Kitakami.png|x200px]]
+|-
+| Petilil in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Petilil in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Petilil in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Black|t=FFF|area=[[Trade]] {{p|Cottonee}} in [[Nacrene City]]}}
+{{Availability/Entry1|1|v=White|area=[[Pinwheel Forest]] (inner), [[Lostlorn Forest]], [[Abundant Shrine]]}}
+{{Availability/Entry1|1|v=Black 2|t=FFF|area=[[Trade]] {{p|Cottonee}} on {{rt|4|Unova}}}}
+{{Availability/Entry1|1|v=White 2|area=[[Pinwheel Forest]] (inner), [[Lostlorn Forest]], [[Castelia City]], [[Abundant Shrine]], {{OBP|Victory Road|Black 2 and White 2}}}}
+{{Availability/Entry1|1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Grass-type Safari|Grass]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Mirage Forests]] (west of Route 114, south of Route 132)}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|2|v=Sun}}
+{{Availability/Entry1|2|v=Moon|area=[[Malie Garden]], [[Melemele Meadow]], [[Poni Meadow]], [[Poni Plains]], [[Ula'ula Meadow]]}}
+{{Availability/Entry1/None|2|v=Ultra Sun}}
+{{Availability/Entry1|2|v=Ultra Moon|t=FFF|area=[[Malie Garden]], [[Melemele Meadow]], [[Poni Meadow]], [[Poni Plains]], [[Ula'ula Meadow]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Honeycalm Island]]}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Crimson Mirelands]]:''' [[Holm of Trials]], [[Cottonsedge Prairie]], massive [[mass outbreak]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Four)|Area Four]]<br>West Province: [[West Province (Area One)|Area One]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Petilil|1★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Reveler's Road]], [[Kitakami Hall]], [[Mossfell Confluence]], [[Wistful Fields]], [[Paradise Barrens]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]], [[World Axle - B2F]]; Field: [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Greenleaf]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Stompstump Peak]], [[Desolate Canyon]] (1F-7F), [[Forest Grotto]] (1F-7F), [[Mountain Pass]] (1F-7F), [[Silent Tundra]] (Gilded Hall), [[Dreamy Island]] (Gilded Hall), [[Moonlit Forest]] (Uncharted Road, Gilded Hall), [[Rusty Mountain]] (Uncharted Road), [[Ivy Park]] (3F-14F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 4|Sacred Plains: Stage 4]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Royal Garden|Leafy Expanse: Royal Garden]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Rowlet Sea]], [[Rowlet Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Sweet Strasse|Sweet Strasse: Stage 84]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Grass}}
+{{HeldItems/Games2|Black|White|tcolor1=fff|gcolor2=fff|tcolor2={{white color}}|Pokémon Black and White Versions}}
+{{HeldItems/Items1|Cheri Berry|100|availNote=[[In-game trade]],&#32;}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|gcolor2=fff|tcolor2={{white 2 color}}|Pokémon Black and White Versions 2}}
+{{HeldItems/Items1|Power Anklet|100|availNote=[[In-game trade]],&#32;}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon|tcolor1={{sun color}}|gcolor1=fff}}
+{{HeldItems/Items1|Absorb Bulb|5|rows=2}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon|tcolor1={{ultra sun color}}|gcolor1=fff}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Absorb Bulb|5|availNote=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Vivichoke|65|Lum Berry|20|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=45
+|Attack=35
+|Defense=50
+|SpAtk=70
+|SpDef=50
+|Speed=30}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Petilil|Grass|Grass|5}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|1|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|3|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|6|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|9|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|12|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|15|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/level9|18|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/level9|21|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|24|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|27|After You|Normal|Status|—|—|15}}
+{{learnlist/level9|30|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|33|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/level9|36|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|39|Entrainment|Normal|Status|—|100|15}}
+{{learnlist/level9|42|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/9|Petilil|Grass|Grass|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Petilil|Grass|Grass|5}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tmf/9|Petilil|Grass|Grass|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Petilil|Grass|Grass|5}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Healing Wish|Psychic|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0192|Sunflora}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0071|Victreebel}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0357|Tropius}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}{{MSP/H|0764|Comfey}}{{MSP/H|0842|Appletun}}{{MSP/H|1011|Dipplin}}{{MSP/H|1019|Hydrapple}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0286|Breloom}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0952|Scovillain}}|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/breedf/9|Petilil|Grass|Grass|5}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/PSMD|col=6|type=Grass|ndex=548
+|coset=3
+|conto={{p|Dragonite}}, {{p|Axew}}
+|recruitment=Find {{p|Dragonite}} together
+|P1=A nibble from a leaf on my head will refresh you! ♪ It'll taste very bitter, though.
+|P2=*pant pant* I need to eat a leaf from my head...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=548
+|walk=2.08
+|hp=46
+|attack=67
+|defense=48
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=548
+|pad=Petilil enjoy having Chase competitions with each other.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Grass|ndex=548
+|HP=2
+|atk=2
+|def=2
+|spd=1
+|range=3
+|move=Mega Drain
+|ability1=Own Tempo
+|ability2=Nurse
+|ability3=Life Force
+|evo=Evolves into {{p|Lilligant}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Sun Stone]]
+|link=[[Terumoto]] and [[Urakusai]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=548
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=548|num=133
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Swap
+|skilldesc=Sometimes replaces a disruption with this Pokémon.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=548
+|hatch=N/A
+|buddy=1
+|candy=Petilil
+|evocandy=50 + [[File:GO Sun Stone.png|20px|link=Sun Stone]] 1
+|stamina=128
+|attack=119
+|defense=91
+|fast={{m|Charm}}, {{m|Hidden Power}}
+|special={{m|Energy Ball}}, {{m|Seed Bomb}}
+}}
+|}
+
+===Evolution data===
+{{Evobox/1branch2
+|type1=Grass
+|no1=0548
+|name1=Petilil
+|type1-1=Grass
+|evo1a={{Bag/s|Sun Stone|SV}}<br>{{color2|000|Sun Stone}}<br>outside of {{color2|000|Hisui}}
+|no2a=0549
+|name2a=Lilligant
+|type1-2a=Grass
+|evo1b={{Bag/s|Sun Stone|SV}} + [[File:Hisui Ribbon IX.png|40px|link=Hisui]]<br>{{color2|000|Sun Stone}}<br>in {{color2|000|Hisui}}
+|art2b=0549Lilligant-Hisui
+|no2b=0549
+|name2b=Lilligant
+|form2b=Hisuian Form
+|type1-2b=Grass
+|type2-2b=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=548}}
+{{Spritebox/6|ndex=548|crop=68}}
+{{Spritebox/7|ndex=548|crop=67}}
+{{Spritebox/8/SwShLA|ndex=548|LAcrop=125}}
+<!--{{Spritebox/9|ndex=0548}}-->
+{{Spritebox/HOME|ndex=0548}}
+{{Spritebox/Footer|548|Petilil}}
+
+==In animation==
+===Main series===
+[[File:Petilil M14.png|thumb|250px|Petilil in {{aniseries|BW}}]]
+====Major appearances====
+Petilil made her animated series debut in ''[[BW080|Clash of the Connoisseurs!]]'', where [[Ricard Nouveau]] thought that she would be a good Pokémon for [[Marigold]]. However, {{an|Cilan}} disagreed, much to Marigold's relief.
+
+In ''[[BW095|Unrest at the Nursery!]]'', {{OBP|Layla|BW095}} was taking care of a Petilil.
+
+====Minor appearances====
+Petilil debuted in [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']].
+
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', the {{OBP|Swords of Justice|M15}} legend featured multiple Petilil.
+
+In ''[[BW118|Secrets From Out of the Fog!]]'', multiple Petilil were living at [[N's hideout]].
+
+A Petilil appeared in a fantasy in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+In ''[[BW127|The Island of Illusions!]]'', a Petilil was living at [[Grand Spectrala Islet]].
+
+A Petilil appeared in ''[[BW132|Searching for a Wish!]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', multiple Petilil were living at [[Pokémon Hills]]. Another also appeared in {{OBP|Mewtwo|M16}}'s flashback.
+
+A {{pkmn|Trainer}}'s Petilil appeared in ''[[BW134|The Journalist from Another Region!]]''.
+
+Two Trainers' Petilil appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A Trainer's Petilil appeared in ''[[SM006|A Shocking Grocery Run!]]''.
+
+In ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', a Petilil was playing in {{an|Lillie}}'s garden. In ''[[SM030|The Ol' Raise and Switch!]]'', she was seen playing with {{AP|Pikachu}}.
+
+A Trainer's Petilil appeared in ''[[SM041|Mounting an Electrifying Charge!]]''.
+
+A Trainer's Petilil appeared in ''[[SM045|Now You See Them, Now You Don't!]]''.
+
+In ''[[SM046|Deceiving Appearances!]]'', two Petilil were seen at [[Aether Paradise]]. They reappeared in a flashback with multiple others in ''[[SM096|Don't Ignore the Small Stufful!]]''.
+
+In ''[[SM090|Securing the Future!]]'', four Trainers' Petilil joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|true form}}.
+
+A Trainer's Petilil appeared in ''[[SM130|Battling Besties!]]''.
+
+A Petilil appeared in ''[[HZ072|The Search for Kleavor!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW080|Petilil|Ash's Pokédex|Petilil, the Bulb Pokémon. Petilil prefer living in rich, fertile soil where all types of plants grow in abundance.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon: Paldean Winds===
+[[File:North Province Area Three PPW.png|thumb|250px|Petilil in [[Pokémon: Paldean Winds]]]]
+A {{pkmn2|wild}} Petilil briefly appeared in ''[[PPW04|Breathe Together]]''.
+{{-}}
+
+==In the manga==
+[[File:Brassius Petilil Adventures.png|thumb|200px|Petilil in [[Pokémon Adventures]]]]
+===Movie adaptations===
+A Petilil appeared in the {{ma|Diancie and the Cocoon of Destruction|manga adaptation}} of ''[[M17|Diancie and the Cocoon of Destruction]]'' as a resident of [[Allearth Forest]].
+
+A Petilil appeared in [[ICYR2]].
+
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Petilil appeared in ''[[FAT2|The King's Identity...!!]]''.
+
+A Petilil appeared in ''[[FAT5|Clash! White Hero vs Black Hero]]''.
+
+===Pokémon Adventures===
+{{adv|Bianca}} befriended a Petilil when she was young, but [[Bianca's father|her father]] forced her to part with her. She appeared in a flashback in ''[[PS464|Black's First Trainer Battle]]''.
+
+A {{pkmn|Trainer}}'s Petilil appeared in ''[[PS466|An Odd Speech]]''.
+
+A Petilil appeared in a fantasy in ''[[PS473|Battle at the Museum]]''.
+
+A Petilil appeared in ''[[PS481|Sandstorm]]'', under the ownership of {{tc|Worker}}s on {{rt|4|Unova}}.
+
+A Petilil made a cameo appearance in ''[[PS483|Special Delivery]]'' as one of the Pokémon competing in {{ci|Nimbasa}}'s [[Pokémon Musical]].
+
+A Petilil liberated by [[Team Plasma]] appeared in a flashback in ''[[PS529|Pokédex Lecture]]''.
+
+A {{pkmn2|wild}} Petilil appeared in ''[[PASM23|Battle in Vast Poni Canyon]]'', where she were seen in the [[Poni Wilds]].
+
+[[Brassius]]'s Petilil appeared in [[PASV09]]. It was used in Brassius's [[Gym]] {{pkmn|battle}} with {{Scarlet}}, but lost.
+
+==In the TCG==
+{{main|Petilil (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Nintendo 3DS]]===
+Petilil appears in the 3DS version as an enemy in Smash Run. It will spray {{m|Sleep Powder}}, putting any players in front of it to sleep.
+
+[[File:Petilil_3DS_trophy_SSB4.png|thumb|150px|Petilil trophy in ''Super Smash Bros. for 3DS'']]
+Petilil also appears as a trophy in the 3DS version of the game.
+
+====Trophy information====
+''The leaves on this Grass-type Pokémon's head taste bitter, but eating them is known to refresh a tired body. In Smash Run, it'll disperse purple Sleep Powder over a wide area when it gets close to you. It's easy to get caught off guard by the attack if you're busy fighting other enemies, so if you see a Petilil, take it out as fast as you can. ''
+{{-}}
+==Trivia==
+* Petilil and its Unovan evolved form were designed by [[Atsuko Nishida]].<ref name=ND204>''Nintendo Dream'' Vol. 204, April 2011 ([https://web.archive.org/web/20110704155314/http://shellspider.blog101.fc2.com/blog-entry-502.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream-2/ Translation by Dr. Lava])</ref>
+* According to [[Ken Sugimori]], Petilil and {{p|Lilligant}} were originally meant as a three-stage evolutionary line.<ref name=ND204/>
+* Petilil and {{p|Cottonee}} can be seen as counterparts. They both evolve once using a [[Sun Stone]] and share a base stat total of 280. Additionally, Petilil is exclusive to {{game|Black and White|s|Pokémon White}}, {{game3|Black and White|White 2|s 2}}, {{pkmn|Sun and Moon|Moon}}, and {{pkmn|Ultra Sun and Ultra Moon|Ultra Moon}}, while Cottonee is exclusive to Pokémon Black, Black 2, Sun, and Ultra Sun. They also have similar movesets.
+
+===Origin===
+Petilil appears to be based on the {{wp|bulb}} of a {{wp|Liliaceae}} plant, most likely a {{wp|tulip}}. Its {{Shiny}} coloration may be based on {{wp|yellow onion}} or {{wp|Allium moly|golden garlic}} bulbs.
+
+====Name origin====
+Petilil may be a combination of ''petal'', ''petite'', ''{{wp|petunia}}'', or ''{{wp|petiole (botany)|petiole}}'', and ''{{wp|lily}}'' or ''li'l'' (little).
+
+Churine may be a combination of チューリップ ''chūrippu'' (tulip), 百合根 ''yurine'' (lily bulb), and 根 ''ne'' (root).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=チュリネ ''Churine''|jameaning=From {{tt|チューリップ ''chūrippu''|tulip}}, {{tt|百合根 ''yurine''|lily bulb}}, and {{tt|根 ''ne''|root}}
+|fr=Chlorobule|frmeaning=From ''{{tt|chlorophylle|chlorophyll}}'' and ''{{tt|bulbe|bulb}}''
+|es=Petilil|esmeaning=Same as English name
+|de=Lilminip|demeaning=From ''{{tt|Lilie|lily}}'', ''mini'', and ''tulip''
+|it=Petilil|itmeaning=Same as English name
+|ko=치릴리 ''Chirilri''|komeaning=From {{tt|치 (稚) ''chi''|young}} and ''lily''
+|zh_cmn=百合根娃娃 ''Bǎihégēnwáwá''|zh_cmnmeaning=From {{tt|百合 ''bǎihé''|lily}}, {{tt|根 ''gēn''|root}}, and {{tt|娃娃 ''wáwá''|doll, baby}}
+|zh_yue=百合根娃娃 ''Baakhahpgānwāwā''|zh_yuemeaning=From {{tt|百合 ''baakhahp''|lily}}, {{tt|根 ''gān''|root}}, and {{tt|娃娃 ''wāwā''|doll, baby}}
+|hi=रूटिलि ''Rootili''|himeaning=From ''root'' and ''lily''
+|ru=Петилил ''Petilil''|rumeaning=Transcription of English name
+|th=จูริเน ''Churine''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0547|prev=Whimsicott|nextnum=0549|next=Lilligant}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve by Evolution stone]]
+[[Category:Pokémon that evolve using Sun Stone]]
+[[Category:Pokémon with cross-generational Evolutions]]<!--Hisuian Lilligant-->
+[[Category:Pokémon with Hisui-exclusive Evolutions]]<!--Hisuian Lilligant-->
+[[Category:Super Smash Bros. trophies]]
+
+[[de:Lilminip]]
+[[es:Petilil]]
+[[fr:Chlorobule]]
+[[it:Petilil]]
+[[ja:チュリネ]]
+[[zh:百合根娃娃]]

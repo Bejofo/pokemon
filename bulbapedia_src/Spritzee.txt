@@ -1,0 +1,441 @@
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/GO|species=Spritzee}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0681|prev=Aegislash|nextnum=0683|next=Aromatisse|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Spritzee
+|jname=シュシュプ
+|tmname=Shushupu
+|category=Perfume
+|typebox=1
+|type1=Fairy
+|abilityn=d
+|ability1=Healer
+|abilityd=Aroma Veil
+|ndex=0682
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=1.1
+|weight-kg=0.5
+|egggroupn=1
+|egggroup1=Fairy
+|gendercode=127
+|eggcycles=20
+|evtotal=1
+|evhp=1
+|expyield=68
+|lv100exp=1,000,000
+|color=Pink
+|catchrate=200
+|body=04
+|pokefordex=spritzee
+|generation=6
+|friendship=70
+}}
+'''Spritzee''' ([[List of Japanese Pokémon names|Japanese]]: '''シュシュプ''' ''Shushupu'') is a {{type|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] into {{p|Aromatisse}} when [[Trade Evolution|traded]] while holding a [[Sachet]].
+
+==Biology==
+Spritzee is a pink, avian {{OBP|Pokémon|species}}. It has a rounded body and a pale blue-gray face. Most of its facial area is taken up by its curved beak, which somewhat resembles a {{wp|plague doctor}}'s mask. It has large red-orange eyes with long black lashes. On top of its head is a curly tuft of feathers or fur. It has small wings and purple feet with no visible digits. 
+
+Spritzee emits a scent that varies based on its diet and enraptures those around it using a scent pouch. In the past, royal ladies carried Spritzee with them instead of using perfume.
+
+Prior to [[Generation VIII]], Spritzee and its evolved form, {{p|Aromatisse}}, were the [[Signature Ability|only known Pokémon]] that could have {{a|Aroma Veil}} as an [[Ability]].
+
+===Evolution===
+Spritzee evolves into {{p|Aromatisse}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=fairy
+|pictype=art
+|no1=0682
+|name1=Spritzee
+|type1-1=Fairy
+|evo1=
+|no2=0683
+|name2=Aromatisse
+|type1-2=Fairy}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fairy}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=129|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=212|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=A scent pouch within this Pokémon's body allows it to create various scents. A change in its diet will alter the fragrance it produces.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|2|v=X|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Fairy-type Safari|Fairy]])}}
+{{Availability/Entry1|2|v=Y|t=FFF|area={{rt|7|kalos}}, [[Friend Safari]] ([[Friend Safari#Fairy-type Safari|Fairy]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1/None|v=Sword}}
+{{Availability/Entry1|v=Shield|t=FFF|area={{rt|5|galar}}, [[Glimwood Tangle]], [[Giant's Mirror]], [[Stony Wilderness]]<br>[[Rolling Fields/Dens|Rolling Fields]], [[Bridge Field/Dens|Bridge Field]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Lake of Outrage/Dens|Lake of Outrage]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 6|Blade-and-Shield Path: Stage 6]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Boundless Prairie|Dark Land: Boundless Prairie]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mimikyu Sea]], [[Zygarde Sea]], [[Greninja Sea]], [[Mimikyu Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 246]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fairy
+|HP=78
+|Attack=52
+|Defense=60
+|SpAtk=63
+|SpDef=65
+|Speed=23
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fairy
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=200
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=0
+|Dark=50
+|Fairy=100
+|notes= yes
+|fairy=yes
+|newdragon=1
+}}
+
+===Learnset===
+Spritzee is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Spritzee|Fairy|Fairy|6}}
+{{learnlist/level8|1|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level8|1|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level8|3|Sweet Kiss|Fairy|Status|—|75|10}}
+{{learnlist/level8|6|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/level8|9|Disarming Voice|Fairy|Special|40|—|15||'''}}
+{{learnlist/level8|12|Aromatherapy|Grass|Status|—|—|5}}
+{{learnlist/level8|15|Draining Kiss|Fairy|Special|50|100|10||'''}}<!--Yes, learned twice.-->
+{{learnlist/level8|18|Attract|Normal|Status|—|100|15}}
+{{learnlist/level8|21|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level8|24|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/level8|27|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/level8|30|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level8|33|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/level8|36|Moonblast|Fairy|Special|95|100|15||'''}}
+{{learnlist/level8|39|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/levelf/8|Spritzee|Fairy|Fairy|6}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Spritzee|Fairy|Fairy|6}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM18|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM70|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM87|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/tm8|TM89|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR30|Encore|Normal|Status|—|100|5}}
+{{learnlist/tr|TR40|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tr|TR49|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR52|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR70|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR92|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tmf/8|Spritzee|Fairy|Fairy|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Spritzee|Fairy|Fairy|6}}
+{{learnlist/breed8|{{MSP/8c|035|Clefairy}}{{MSP/8c|036|Clefable}}{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}{{MSP/8c|531|Audino}}{{MSP/8c|876|Indeedee}}|After You|Normal|Status|—|—|15|grid=6}}
+{{learnlist/breed8|{{MSP/8c|039|Jigglypuff}}{{MSP/8c|040|Wigglytuff}}|Disable|Normal|Status|—|100|20|grid=6}}
+{{learnlist/breed8|{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}{{MSP/8c|684|Swirlix}}{{MSP/8c|685|Slurpuff}}|Wish|Normal|Status|—|—|10|grid=6}}
+{{learnlist/breedf/8|Spritzee|Fairy|Fairy|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Spritzee|Fairy|Fairy|6}}
+{{learnlist/tutor8|Misty Explosion|Fairy|Special|100|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Spritzee|Fairy|Fairy|6}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Spritzee|Fairy|Fairy|6}}
+{{learnlist/prevgen8|Spritzee|6|Captivate|Normal|Status|—|100|20|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Spritzee|6|Charge Beam|Electric|Special|50|90|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Spritzee|6|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Spritzee|6|Covet|Normal|Physical|60|100|25|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Spritzee|6|Double Team|Normal|Status|—|—|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Spritzee|6|Dream Eater|Psychic|Special|100|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Spritzee|6|Endeavor|Normal|Physical|—|100|5|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Spritzee|6|Flash|Normal|Status|—|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Spritzee|6|Frustration|Normal|Physical|—|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Spritzee|6|Heal Bell|Normal|Status|—|—|5|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Spritzee|6|Hidden Power|Normal|Special|60|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Spritzee|6|Magic Coat|Psychic|Status|—|—|15|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Spritzee|6|Odor Sleuth|Normal|Status|—|—|40|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Spritzee|6|Psych Up|Normal|Status|—|—|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Spritzee|6|Refresh|Normal|Status|—|—|20|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Spritzee|6|Return|Normal|Physical|—|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Spritzee|6|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Spritzee|6|Swagger|Normal|Status|—|85|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Spritzee|6|Telekinesis|Psychic|Status|—|—|15|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Spritzee|6|Torment|Dark|Status|—|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Spritzee|6|Toxic|Poison|Status|—|90|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Spritzee|Fairy|Fairy|6}}
+
+===Side game data===
+{{Spindata/Head|type=Fairy}}
+{{Spindata/PSMD|col=6|type=Fairy|ndex=682
+|coset=3
+|conto={{p|Togetic}}, {{p|Froslass}}
+|recruitment=Rescue
+|P1=Here, smell me and be amazed!
+|P2=Ooh... I'm gonna swoon...
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Fairy|ndex=682
+|walk=2.08
+|hp=55
+|attack=70
+|defense=51
+|speed=50
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Fairy|ndex=682
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Fairy|ndex=682|num=352
+|min=50
+|max=120
+|raisemaxlevel=15
+|skill=Mega Boost+
+|skilldesc=Fills the Mega Gauge of the same type of Pokémon more.
+}}
+|-
+{{Spindata/GO|col=6|type=Fairy|ndex=682
+|hatch=N/A
+|buddy=3
+|candy=Spritzee
+|evolution={{candy|Spritzee}}50<br> + [[File:GO Buddy icon.png|20px|link=Buddy Pokémon]] Use an {{OBP|Incense|GO}}
+|stamina=186
+|attack=110
+|defense=113
+|fast= {{m|Charm}}, {{m|Charge Beam}}
+|special={{m|Draining Kiss}}, {{m|Thunderbolt}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=fairy
+|pictype=art
+|no1=0682
+|name1=Spritzee
+|type1-1=Fairy
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]] + [[File:Dream Sachet Sprite.png|40px|link=Sachet]]<br>{{color2|000|Trade}}<br>while holding {{color2|000|Sachet}}
+|no2=0683
+|name2=Aromatisse
+|type1-2=Fairy
+}}
+
+===Sprites===
+{{Spritebox/Header|type=fairy}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=682|crop=56}}
+{{Spritebox/7|ndex=682|crop=62}}
+{{Spritebox/8|ndex=682}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0682}}
+{{Spritebox/Footer|682|Spritzee}}
+
+==In animation==
+[[File:Valerie Spritzee.png|thumb|250px|Spritzee in {{aniseries|XY}}]]
+===Major appearances===
+A Spritzee debuted in ''[[XY073|A Fashionable Battle!]]'', under the ownership of [[Valerie]]. It was used in Valerie's [[Gym]] {{pkmn|battle}} against [[Sawyer]], where it battled {{p|Bagon}} and won. Spritzee reappeared in ''[[XY074|Fairy-Type Trickery!]]'', where it was used in her Gym battle against {{Ash}}. It managed to beat {{AP|Fletchinder}} but lost to {{AP|Hawlucha}}. Spritzee reappeared again in ''[[XY135|Rocking Kalos Defenses!]]'' and ''[[XY136|Forming a More Perfect Union!]]'', where it participated in the fight against the [[Giant Rock]].
+
+===Minor appearances===
+Two Spritzee debuted in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]'', where Ash saw them flying through the air while stepping out of the airplane upon his arrival at [[Kalos]]. They appeared again in ''[[XY140|Till We Compete Again!]]'', during a flashback.
+
+A Spritzee appeared in ''[[XY005|A Blustery Santalune Gym Battle!]]''.
+
+A Spritzee appeared in ''[[XY009|Clemont's Got a Secret!]]''.
+
+A Spritzee appeared in ''[[XY021|A PokéVision of Things to Come!]]''.
+
+A Spritzee appeared in ''[[XY028|The Bonds of Evolution!]]''.
+
+Multiple Spritzee appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Spritzee appeared in a flashback in ''[[M19|Volcanion and the Mechanical Marvel]]'', under the ownership of [[Nikola]].
+
+A {{pkmn|Trainer}}'s Spritzee appeared in a flashback in ''[[XYS05|The Legend of X, Y, and Z!]]''.
+
+Two Spritzee appeared in ''[[M20|I Choose You!]]''.
+
+Three Spritzee appeared in ''[[JN046|Getting More Than You Battled For!]]''.
+
+Multiple Spritzee appeared in ''[[JN082|The Sweet Taste of Battle!]]'', where they were among the Pokémon seen in [[Glimwood Tangle]].
+
+A Trainer's Spritzee appeared in [[HZ112]].
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY073|Spritzee|Ash's Pokédex|Spritzee, the Perfume Pokémon. Spritzee gives off a fragrance that delights anyone who smells it, which changes depending on what Spritzee eats.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+==In the manga==
+[[File:Team Flare Spritzee Adventures.png|thumb|150px|Spritzee in [[Pokémon Adventures]]]]
+===Movie adaptations===
+A Spritzee appeared in the {{ma|Diancie and the Cocoon of Destruction|manga adaptation}} of ''[[M17|Diancie and the Cocoon of Destruction]]'' as a resident of [[Allearth Forest]].
+
+===Pokémon Adventures===
+Spritzee debuted in ''[[PS549|An X-cuse to Come Out and Play]]'' with its {{pkmn|Trainer}} in [[Vaniville Town]].
+
+In ''[[PS551|Inn-teresting Developments]]'', a Spritzee is seen in [[Aquacorde Town]] that belonged to an old woman who is a {{tc|Team Flare Grunt}}.
+
+A Spritzee appeared in ''[[PS552|They Have a Flare for a Li'l Kanga-Napping]]'', under the ownership of an innkeeper.
+
+A Spritzee appeared in a flashback in ''[[PS582|Pinsir Glares]]''.
+
+Multiple Spritzee were seen by the Sundial at [[Anistar City]] in ''[[PS584|Hawlucha Attacks]]''. They were soon startled by Zygarde and flew away.
+
+==In the TCG==
+{{main|Spritzee (TCG)}}
+
+==Trivia==
+* Spritzee can be seen as a parallel to {{p|Swirlix}}. Both are [[Generation VI]] {{type|Fairy}} Pokémon that are version exclusives of [[Pokémon X and Y]] and [[Pokémon Sword and Shield]], with Spritzee being exclusive to Y and Shield and Swirlix to X and Sword. Both have former [[Signature Ability|signature Abilities]] that affect themselves as well as their allies, and both evolve when traded holding a certain item.
+* In [[Generation VIII]], due to a coding error, Spritzee learns {{m|Draining Kiss}} twice, both at Level 9 and Level 15, while its Evolution, {{p|Aromatisse}}, learns the move only once at Level 15. It was meant to learn {{m|Disarming Voice}} at Level 9 instead.
+* Spritzee was designed by [[Saya Tsuruta]].
+
+===Origin===
+Spritzee may be based on a {{wp|sprite (folklore)|sprite}} or {{wp|pixie}}, types of fairy-like creatures in European folklore. Spritzee also seems to be inspired by different kinds of {{wp|cosmetics}}: its fluffy body may be based on powder puffs or other cosmetics applicators, while its shape seems to reference different aspects and parts of a {{wp|perfume}} bottle.
+
+Spritzee may also be based on a few different birds. Its pink coloration, as well as its diet-sensitive characteristics, may be based on {{wp|flamingo|flamingos}}. It also seems similar to small birds, sharing some traits with {{wp|hummingbird}}s and smaller types of {{wp|owl}}s. 
+
+Its bird-like face may also be based on {{wp|plague doctor}}'s mask, referencing the Pokémon's healing abilities, as well as the fact that plague doctors filled their masks with perfumed concoctions. Alternatively, the bird-like traits, healing abilities, and aromatic themes may reference the {{wp|nest protection hypothesis}}, which theorizes certain bird species add aromatic plant materials to nests to ward off or kill parasites and pathogens. The association between aromas and healing may also involve {{wp|aromatherapy}}.
+
+====Name origin====
+Spritzee may be a corruption of {{wp|Sprite (folklore)|''sprite''}} or derived words. It may also be a combination of ''spritz'' (a spray of liquid) and ''Fee'' (fairy in German and Dutch).
+
+Shushupu may be derived from プシュー ''pushū'' (onomatopoeia for spraying).
+
+==In other languages==
+{{Other languages|type=Fairy|type2=Fairy
+|ja=シュシュプ ''Shushupu''|jameaning=From {{tt|プシュー ''pushū''|onomatopoeia for spraying}}
+|fr=Fluvetin|frmeaning=From ''{{tt|effluve|whiff}}'' and ''{{wp|lutin}}''
+|es=Spritzee|esmeaning=Same as English name
+|de=Parfi|demeaning=From ''{{tt|parfum|French for perfume}}''
+|it=Spritzee|itmeaning=Same as English name
+|ko=슈쁘 ''Syuppeu''|komeaning=Partial transcription of Japanese name
+|zh_cmn=粉香香 ''Fěnxiāngxiāng''|zh_cmnmeaning=From {{tt|粉撲 ''fěn''|powder puff}}, {{tt|粉紅 / 粉红 ''fěnhóng''|pink}}, and {{tt|香 ''xiāng''|fragrant}}
+|zh_yue=粉香香 ''Fánhēunghēung''|zh_yuemeaning=From {{tt|粉撲 ''fánpok''|powder puff}}, {{tt|粉紅 ''fánhùhng''|pink}}, and {{tt|香 ''hēung''|fragrant}}
+|hi=फ़िसीफ़िस ''Fissyfiss''|himeaning=From ''fizz''
+|ru=Спритци ''Sprittsi''|rumeaning=Transcription of English name
+|he=ספריטזי ''Spritsi''|hemeaning=Transcription of English name
+|th=ชูชูป ''Chuchup''|thmeaning=Transcription of Japanese name
+}}
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0681|prev=Aegislash|nextnum=0683|next=Aromatisse}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve through trading]]
+[[Category:Pokémon that evolve through held items]]
+[[Category:Pokémon that evolve by trading with a held item]]
+[[Category:Pokémon that evolve by trading holding Sachet]]
+
+[[de:Parfi]]
+[[es:Spritzee]]
+[[fr:Fluvetin]]
+[[it:Spritzee]]
+[[ja:シュシュプ]]
+[[zh:粉香香]]

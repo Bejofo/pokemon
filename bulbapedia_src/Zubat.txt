@@ -1,0 +1,900 @@
+{{PokémonPrevNext/Head|type=Poison|type2=Flying}}
+{{PokémonPrevNext/GO|species=Zubat}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=0040|prev=Wigglytuff|nextnum=0042|next=Golbat|round=none}}
+{{PokémonPrevNext/Disambig|species=Zubat}}
+|}
+{{Pokémon Infobox
+|name=Zubat
+|jname=ズバット
+|jtranslit=Zubatto
+|tmname=Zubat
+|ndex=0041
+|type1=Poison
+|type2=Flying
+|category=Bat
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=16.5
+|weight-kg=7.5
+|abilityn=d
+|ability1=Inner Focus
+|abilityd=Infiltrator
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|evtotal=1
+|evsp=1
+|expyield=49
+|oldexp=54
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|catchrate=255
+|body=09
+|pokefordex=zubat
+|generation=1
+|friendship=70
+}}
+'''Zubat''' ([[List of Japanese Pokémon names|Japanese]]: '''ズバット''' ''Zubat'') is a dual-type {{2t|Poison|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] into {{p|Golbat}} starting at [[level]] 22, which evolves into {{p|Crobat}} when [[friendship Evolution|leveled up with high friendship]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+Zubat is a blue, {{wp|bat|chiropteran}} {{OBP|Pokémon|species}}. While it lacks eyes, it has pointed ears with purple insides and a mouth with two sharp teeth on each jaw. A male will have larger fangs than a female. It has purple wing membranes supported by two elongated fingers and two long, thin tails.
+
+Zubat lives in abundance in dark {{DL|List of Pokémon by habitat|Cave Pokémon|caves}}, although it has also been known to dwell in forests and under the eaves of old buildings. Due to its habitat, Zubat has evolved to have neither eyes nor nostrils. It instead navigates through dark environments and tight caves with {{wp|animal echolocation|echolocation}}, emitting ultrasonic cries to detect targets and obstacles. The frequency of these cries can vary slightly between Zubat colonies. As demonstrated in the ''[[Pokémon the Series]]'' episode ''[[EP006|Clefairy and the Moon Stone]]'', it will leave its abode at night with a mass of other Zubat to seek prey. Zubat is nocturnal and sleeps hanging upside down during the daytime, avoiding sunlight at all costs. Daylight causes Zubat to become unhealthy; prolonged exposure can even burn its skin. However, captured and {{tp|Brock|trained Zubat|Crobat}} have been recorded as much more tenacious in the daytime, even when directly exposed to sunbeams. While sleeping, or in colder conditions, Zubat gathers for warmth with others of its kind.
+
+<gallery>
+BrockZubatGymHeroes74.jpg|Zubat hanging upside-down
+ZubatParadoxRift110.jpg|Zubat using its echolocation
+</gallery>
+
+===Evolution===
+Zubat evolves into {{p|Golbat}}, which evolves into {{p|Crobat}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Poison
+|type2=Flying
+|pictype=art
+|no1=0041
+|name1=Zubat
+|type1-1=Poison
+|type2-1=Flying
+|evo1=
+|no2=0042
+|name2=Golbat
+|type1-2=Poison
+|type2-2=Flying
+|evo2=
+|no3=0169
+|name3=Crobat
+|type1-3=Poison
+|type2-3=Flying
+}}
+</div>
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]: Zubat is a member of {{OBP|Team Skull|Mystery Dungeon}}, along with {{p|Koffing}} and the leader {{p|Skuntank}}. Zubat is also the first boss of the game.
+
+===Pokédex entries===
+{{Dex/Header|type=Poison|type2=Flying}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=041}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.}}
+{{Dex/Entry1|v=Yellow|entry=Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=It has neither eyes nor a nose. It emits ultrasonic cries that bounce back to its large ears, enabling it to fly safely.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=037}}
+{{Dex/Entry1|v=Gold|entry=While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.}}
+{{Dex/Entry1|v=Silver|entry=Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.}}
+{{Dex/Entry1|v=Crystal|entry=During the day, it gathers with others and hangs from the ceilings of old buildings and caves.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=063|reg2=Kanto|num2=041}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Zubat</sc> remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Zubat</sc> avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.}}
+{{Dex/Entry1|v=FireRed|entry=It has no eyes. Instead, it relies on its ultrasonic cries for echo location to flit about in darkness.}}
+{{Dex/Entry1|v=LeafGreen|entry=It forms colonies in perpetually dark places and uses ultrasonic waves to identify and approach targets.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=028|reg2=Johto|num2=037}}
+{{Dex/Entry1|v=Diamond|entry=Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.}}
+{{Dex/Entry1|v=Pearl|entry=Disliking sunlight, it sleeps deep in forests and caves until sundown.}}
+{{Dex/Entry1|v=Platinum|entry=It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.}}
+{{Dex/Entry1|v=HeartGold|entry=While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.}}
+{{Dex/Entry1|v=SoulSilver|entry=Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=061|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=145|label1=Central|reg2=Hoenn|num2=065}}
+{{Dex/Entry1|v=X|t=FFF|entry=Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It has no eyes. Instead, it relies on its ultrasonic cries for echolocation to flit about in darkness.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=068|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=080|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=041}}
+{{Dex/Entry1|v=Sun|entry=It sleeps in caves during the day. It has no eyes, so to check its surroundings while flying, it emits ultrasonic waves.}}
+{{Dex/Entry1|v=Moon|entry=When exposed to sunlight, they suffer burns. The frequency of their ultrasonic waves can differ slightly from colony to colony.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It has no eyeballs, so it can't see. It checks its surroundings via the ultrasonic waves it emits from its mouth.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Their skin is so thin that they'll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another's bodies.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|label1=Crown Tundra|num1=144|reg2=Sinnoh|num2=028|reg3=Hisui|num3=034}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Zubat live in caves, down where the sun's light won't reach. In the morning, they gather together to keep each other warm as they sleep.}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.}}
+{{Dex/Entry1|v=Shining Pearl|entry=Disliking sunlight, it sleeps deep in forests and caves until sundown.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Makes its home in gloomy caves. Atrophied eyes have left this Pokémon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{poison color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{poison color light}}| [[File:Pokédex Image Zubat SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{poison color light}}| [[File:Pokédex Image Zubat-Female SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{poison color light}}| [[File:Pokédex Image Zubat USUM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{poison color light}}| [[File:Pokédex Image Zubat-Female USUM.png|x200px]]
+|-
+| Male Zubat in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Female Zubat in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Male Zubat in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Female Zubat in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Poison|type2=Flying}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Mt. Moon]], [[Rock Tunnel]], [[Seafoam Islands]], {{ka|Victory Road}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Mt. Moon]], [[Rock Tunnel]], [[Seafoam Islands]], {{ka|Victory Road}}}}
+{{Availability/Entry1|v=Yellow|area=[[Mt. Moon]], [[Rock Tunnel]], [[Seafoam Islands]], {{ka|Victory Road}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Rock Tunnel]], [[Whirl Islands]], [[Ilex Forest]], [[Mt. Moon]], [[Dark Cave]], [[Ice Path]], [[Mt. Mortar]], [[Union Cave]], [[Tohjo Falls]], [[Burned Tower]], [[Slowpoke Well]] (all times)<br>[[Route]]s {{rtn|3|Kanto}}, {{rtn|4|Kanto}}, {{rtn|32|Johto}}, {{rtn|33|Johto}}, and {{rtn|42|Johto}}{{sup/t|N}}}}
+{{Availability/Entry1|v=Crystal|area=[[Rock Tunnel]], [[Whirl Islands]], [[Mt. Moon]], [[Dark Cave]], [[Ice Path]], [[Mt. Mortar]], [[Union Cave]], [[Tohjo Falls]], [[Burned Tower]], [[Slowpoke Well]] (all times)<br>[[Route]]s {{rtn|3|Kanto}}, {{rtn|4|Kanto}}, {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|33|Johto}}, and {{rtn|42|Johto}}{{sup/t|N}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Cave of Origin]], [[Granite Cave]], {{ho|Victory Road}} (walking)<br>[[Meteor Falls]], [[Seafloor Cavern]], [[Shoal Cave]] ({{m|Surf}}ing and walking)}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Altering Cave]], [[Cave of Origin]], [[Granite Cave]], {{ho|Victory Road}} (walking)<br>[[Meteor Falls]], [[Seafloor Cavern]], [[Shoal Cave]] ({{m|Surf}}ing and walking)}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Mt. Moon]], [[Rock Tunnel]], [[Seafoam Islands]], {{ka|Victory Road}}, [[Icefall Cave]], [[Lost Cave]], [[Altering Cave]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area={{DL|Poké Spot|Cave Poké Spot}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Iron Island]], [[Oreburgh Mine]], [[Wayward Cave]], [[Lost Tower]] (walking; all times)<br>[[Route]]s {{rtn|203|Sinnoh}}, {{rtn|204|Sinnoh}}, {{rtn|206|Sinnoh}}, {{rtn|207|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|211|Sinnoh}}, {{rtn|216|Sinnoh}}, and {{rtn|217|Sinnoh}}, [[Acuity Lakefront]] (tall grass){{sup/t|N}}<br>[[Ravaged Path]], [[Oreburgh Gate]], [[Mt. Coronet]] ({{m|Surf}}ing and walking; all times)}}
+{{Availability/Entry1|v=Platinum|area=[[Iron Island]], [[Oreburgh Mine]], [[Wayward Cave]], [[Lost Tower]] (walking; all times)<br>[[Route]]s {{rtn|203|Sinnoh}}, {{rtn|204|Sinnoh}}, {{rtn|206|Sinnoh}}, {{rtn|207|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|211|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|216|Sinnoh}} (tall grass){{sup/t|N}}<br>[[Ravaged Path]], [[Oreburgh Gate]], [[Mt. Coronet]] ({{m|Surf}}ing and walking; all times)}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Dark Cave]], [[Union Cave]], [[Slowpoke Well]], [[Ilex Forest]], [[Burned Tower]], [[Mt. Mortar]], [[Ice Path]], [[Whirl Islands]], [[Mt. Moon]], [[Rock Tunnel]], [[Seafoam Islands]], [[Tohjo Falls]] (all times)<br>[[Route]]s {{rtn|3|Kanto}}, {{rtn|4|Kanto}}, {{rtn|32|Johto}}, and {{rtn|33|Johto}}, {{rtn|42|Johto}}, [[Cliff Cave]]{{sup/t|N}}<br>{{safari|Johto}}{{sup/t|N}} (Mountain and Savannah, default; tall grass in Rocky Beach, default)}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=FF3333|area={{pw|Dim Cave}} and {{pw|Night Sky's Edge}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{pkmn|breeding|Breed}} {{p|Golbat}} or {{p|Crobat}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Castelia Sewers]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{Dwa|Windswept Sky}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Connecting Cave]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Granite Cave]] (walking)<br>[[Meteor Falls]] ({{m|Surf}}ing and walking)<br>[[Sealed Chamber]] ({{m|Surfing}})<br>[[Scorched Slab]] ([[Horde Encounter]] or {{m|Surfing}})<br>[[Cave of Origin]], [[Seafloor Cavern]], [[Shoal Cave]], {{ho|Victory Road}} ([[Horde Encounter]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Diglett's Tunnel]], [[Hau'oli Cemetery]], [[Lush Jungle]] (Cave), [[Memorial Hill]], [[Verdant Cavern]], [[Poké Pelago]]<br>[[Ten Carat Hill]], [[Seaward Cave]] ({{m|Surf}}ing and walking)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Diglett's Tunnel]], [[Hau'oli Cemetery]], [[Memorial Hill]], [[Verdant Cavern]], [[Poké Pelago]]<br>[[Ten Carat Hill]], [[Seaward Cave]], [[Sandy Cave]] ({{m|Surf}}ing and walking)}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Mt. Moon]], [[Diglett's Cave]], [[Rock Tunnel]], [[Pokémon Tower]], [[Seafoam Islands]], {{ka|Victory Road}}, [[Cerulean Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.3.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Tunnel to the Top]], [[Roaring-Sea Caves]], [[Lakeside Cave]]<br>[[Frostpoint Field/Dens|Frostpoint Field]], [[Dyna Tree Hill/Dens|Dyna Tree Hill]], [[Giant's Bed/Dens|Giant's Bed]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Iron Island]], [[Oreburgh Mine]], [[Wayward Cave]], [[Lost Tower]] (walking; all times)<br>[[Route]]s {{rtn|203|Sinnoh}}, {{rtn|204|Sinnoh}}, {{rtn|206|Sinnoh}}, {{rtn|207|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|211|Sinnoh}}, {{rtn|216|Sinnoh}}, and {{rtn|217|Sinnoh}}, [[Acuity Lakefront]] (tall grass){{sup/t|N}}<br>[[Ravaged Path]], [[Oreburgh Gate]], [[Mt. Coronet]] ({{m|Surf}}ing and walking; all times)<br>[[Grand Underground]] - [[Spacious Cave]], [[Grassland Cave]], [[Swampy Cave]], [[Sunlit Cavern]], [[Bogsunk Cavern]]}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' [[Worn Bridge]]{{Sup/t|N}}, [[Deertrack Path]]{{Sup/t|N}}, [[Deertrack Heights]]{{Sup/t|N}}, [[Windswept Run]]{{Sup/t|N}}, [[Nature's Pantry]]{{Sup/t|N}}, [[Tidewater Dam]]{{Sup/t|N}}, [[The Heartwood]]{{Sup/t|N}}, [[Oreburrow Tunnel]]{{Sup/t|N}}, near [[Obsidian Falls]]{{Sup/t|N}}, massive [[mass outbreak]]s<br>'''[[Crimson Mirelands]]:''' [[Cloudpool Ridge]]{{Sup/t|N}}, near [[Diamond Settlement]]{{Sup/t|N}}, [[Diamond Heath]]{{Sup/t|N}}, [[Bolderoll Slope]]{{Sup/t|N}}<br>'''[[Coronet Highlands]]:''' [[Heavenward Lookout]]{{Sup/t|N}}, [[Wayward Wood]]{{Sup/t|N}}, [[Wayward Cave]], near [[Ancient Quarry]]{{Sup/t|N}}<br>'''[[Alabaster Icelands]]:''' [[Snowpoint Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Poison|type2=Flying}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Tunnel]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Red Field]]: [[Seafoam Islands]] <br> [[Blue Field]]: [[Mt. Moon]] <br> Both Fields: [[Rock Tunnel|Rock Mountain]], [[Indigo Plateau]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Mt. Snowfall|Ruins of Truth]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Hatch from {{pkmn|Egg}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|3|Phobos Drill}}, Endless Level 19, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Lapis Cave]] (B1F-B3F), [[Murky Cave]] (B1F-B5F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Krokka Tunnel]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Aegis Cave]] (Ice B1F-B3F, Rock B1F-B3F, Steel B1F-B3F, Pit B1F-B3F, B5F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Aegis Cave]] (Ice B1F-B3F, Rock B1F-B3F, Steel B1F-B3F, Pit B1F-B3F, B5F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Ranger School]], {{OBP|Marine Cave|Ranger}}}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area={{OBP|Rocky Cave|Rumble}} <small>(Normal Mode B)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Cavern Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Rasp Cavern]], [[Fire Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Ignis]], [[Cragspur]], [[Viperia]], [[Avia]], [[Nixtorm]], [[Dragnor]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#Festival on Mount Moon|Flower Garden: Festival on Mount Moon]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 5|Dragon Hill: Stage 5]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Bewildering Cave|Silver Isles: Bewildering Cave]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Dragonite Sea]], [[Mimikyu Sea]], [[Rowlet Sea]], [[Lugia Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Mimikyu Sea]]<sup>Final</sup>, [[Rowlet Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Lapis Cave]] (1F-3F), [[Buried Relic]] (46F-50F), [[Oddity Cave]] (1F-2F), [[Remains Island]] (1F-2F), [[Marvelous Sea]] (1F-2F), [[Fantasy Strait]] (1F-2F)<br/>Fainted Pokémon: [[Mt. Thunder]], [[Mt. Faraway]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 651]]<br>Event: [[Pokémon Safari/2015-Feb. 2018#Fourth release|''Pokémon Safari'']] <small>(Fourth release)</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#12th release|''Pokémon Safari'']] <small>(12th release)</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area={{sync/player|egg|Zubat}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Poison|type2=Flying}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Flail Zubat|English|United States|5|December 13 to 19, 2002|link=List of PCNY event Pokémon distributions in Generation II#Flail Zubat}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Poison|type2=Flying}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Chesto Berry|35|Spoiled Apricorn|15|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Poison
+|type2=Flying
+|HP=40
+|Attack=45
+|Defense=35
+|SpAtk=30
+|SpDef=40
+|Speed=55
+|Special=40
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Poison
+|type2=Flying
+|Speed=4
+|SpeedMax=5
+|Power=1
+|PowerMax=3
+|Technique=1
+|TechniqueMax=4
+|Stamina=1
+|StaminaMax=3
+|Jump=5
+|JumpMax=5}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison
+|type2=Flying
+|Normal=100
+|Fighting=25
+|Flying=100
+|Poison=50
+|Ground=0
+|Rock=200
+|Bug=25
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=25
+|Electric=200
+|Psychic=200
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|gen1poison=yes
+|oldbug=1
+|flying=ironballiv
+|newground=2}}
+
+===Learnset===
+Zubat is available in {{pkmn|Sword and Shield}} Version 1.3.0+, {{pkmn|Brilliant Diamond and Shining Pearl}}, and [[Pokémon Legends: Arceus]].
+
+====By [[Level|leveling up]]====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/levelh/8|Zubat|Poison|Flying|1}}
+{{learnlist/level8|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level8|1|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level8|5|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level8|10|Mean Look|Normal|Status|—|—|5}}
+{{learnlist/level8|15|Poison Fang|Poison|Physical|50|100|15||'''}}
+{{learnlist/level8|20|Quick Guard|Fighting|Status|—|—|15}}
+{{learnlist/level8|25|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level8|30|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level8|35|Haze|Ice|Status|—|—|30}}
+{{learnlist/level8|40|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/level8|45|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/level8|50|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level8|55|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/levelf/8|Zubat|Poison|Flying|1}}
+
+{{gameabbrev8|LA}}
+{{learnlist/levelh/LA|Zubat|Poison|Flying|1}}
+{{learnlist/levelLA|1|10|Gust|Flying|Special|40|50|30|100|100|25||'''}}
+{{learnlist/levelLA|6|15|Hypnosis|Psychic|Status|—|—|—|70|90|20||}}
+{{learnlist/levelLA|11|20|Bite|Dark|Physical|60|75|45|100|100|20||}}
+{{learnlist/levelLA|18|28|Air Cutter|Flying|Special|60|75|45|95|100|15||'''}}
+{{learnlist/levelLA|25|35|Cross Poison|Poison|Physical|70|85|55|100|100|15||'''}}
+{{learnlist/levelLA|34|45|Air Slash|Flying|Special|75|90|60|95|100|10||'''}}
+{{learnlist/levelLA|43|54|Leech Life|Bug|Physical|75|90|60|100|100|10||}}
+{{learnlist/levelf/8|Zubat|Poison|Flying|1}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Zubat|Poison|Flying|1}}
+{{learnlist/tm8|TM06|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM30|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/tm8|TM74|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM78|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm8|TM95|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR32|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR36|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR66|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tr|TR91|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/tmf/8|Zubat|Poison|Flying|1}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Zubat|Poison|Flying|1}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm8|TM12|Taunt|Dark|Status|—|100|20||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM18|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm8|TM19|Giga Drain|Grass|Special|75|100|10||}}
+{{learnlist/tm8|TM30|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|—|—|15||}}
+{{learnlist/tm8|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm8|TM40|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm8|TM41|Torment|Dark|Status|—|100|15||}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|—|—|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|—|100|15||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM47|Steel Wing|Steel|Physical|70|90|25||}}
+{{learnlist/tm8|TM51|Roost|Flying|Status|—|—|10||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM63|Nasty Plot|Dark|Status|—|—|20||}}
+{{learnlist/tm8|TM66|Payback|Dark|Physical|50|100|10||}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|—|85|15||}}
+{{learnlist/tm8|TM88|Pluck|Flying|Physical|60|100|20||'''}}
+{{learnlist/tm8|TM89|U-turn|Bug|Physical|70|100|20||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM94|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm8|TM97|Defog|Flying|Status|—|—|15||}}
+{{learnlist/tmf/8|Zubat|Poison|Flying|1}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Zubat|Poison|Flying|2}}
+{{learnlist/breed8|{{MSP/8c|083|Farfetch'd}}{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}|Curse|Ghost|Status|—|—|10|*|grid=8}}
+{{learnlist/breed8|{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}{{MSP/8c|627|Rufflet}}{{MSP/8c|628|Braviary}}|Defog|Flying|Status|—|—|15|grid=8}}
+{{learnlist/breed8|{{MSP/8c|519|Pidove}}{{MSP/8c|520|Tranquill}}{{MSP/8c|521|Unfezant}}{{MSP/8c|527|Woobat}}{{MSP/8c|528|Swoobat}}{{MSP/8c|561|Sigilyph}}{{MSP/8c|714|Noibat}}{{MSP/8c|715|Noivern}}|Gust|Flying|Special|40|100|35||'''|grid=8}}
+{{learnlist/breed8|{{MSP/8c|163|Hoothoot}}{{MSP/8c|164|Noctowl}}{{MSP/8c|561|Sigilyph}}|Hypnosis|Psychic|Status|—|60|20|grid=8}}
+{{learnlist/breed8|{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|519|Pidove}}{{MSP/8c|520|Tranquill}}{{MSP/8c|521|Unfezant}}{{MSP/8c|566|Archen}}{{MSP/8c|567|Archeops}}{{MSP/8c|661|Fletchling}}{{MSP/8c|662|Fletchinder}}{{MSP/8c|663|Talonflame}}|Quick Attack|Normal|Physical|40|100|30|grid=8}}
+{{learnlist/breed8|{{MSP/8c|561|Sigilyph}}{{MSP/8c|627|Rufflet}}{{MSP/8c|628|Braviary}}{{MSP/8c|714|Noibat}}{{MSP/8c|715|Noivern}}|Whirlwind|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed8|{{MSP/8c|142|Aerodactyl}}{{MSP/8c|227|Skarmory}}{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|566|Archen}}{{MSP/8c|567|Archeops}}{{MSP/8c|627|Rufflet}}{{MSP/8c|628|Braviary}}{{MSP/8c|701|Hawlucha}}{{MSP/8c|714|Noibat}}{{MSP/8c|715|Noivern}}|Wing Attack|Flying|Physical|60|100|35||'''|grid=8}}
+{{learnlist/breedf/8|Zubat|Poison|Flying|2}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Zubat|Poison|Flying|2}}
+{{learnlist/breed8|{{MSP/H|0083|Farfetch'd}}{{MSP/H|0227|Skarmory}}{{MSP/H|0276|Taillow}}{{MSP/H|0277|Swellow}}{{MSP/H|0396|Starly}}{{MSP/H|0397|Staravia}}{{MSP/H|0398|Staraptor}}|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/breed8|{{MSP/H|0083|Farfetch'd}}|Curse|Ghost|Status|—|—|10|*|}}
+{{learnlist/breed8|{{MSP/H|0016|Pidgey}}{{MSP/H|0017|Pidgeotto}}{{MSP/H|0018|Pidgeot}}{{MSP/H|0198|Murkrow}}{{MSP/H|0430|Honchkrow}}|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/breed8|{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}|Hypnosis|Psychic|Status|—|60|20||}}
+{{learnlist/breed8|{{MSP/H|0016|Pidgey}}{{MSP/H|0017|Pidgeotto}}{{MSP/H|0018|Pidgeot}}{{MSP/H|0084|Doduo}}{{MSP/H|0085|Dodrio}}{{MSP/H|0276|Taillow}}{{MSP/H|0277|Swellow}}{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}{{MSP/H|0396|Starly}}{{MSP/H|0397|Staravia}}{{MSP/H|0398|Staraptor}}|Quick Attack|Normal|Physical|40|100|30||}}
+{{learnlist/breed8|{{MSP/H|0041|Zubat}}{{MSP/H|0042|Golbat}}{{MSP/H|0169|Crobat}}|Venom Drench|Poison|Status|—|100|20|{{colorlink|Grand Underground|000|^}}|}}
+{{learnlist/breed8|{{MSP/H|0016|Pidgey}}{{MSP/H|0017|Pidgeotto}}{{MSP/H|0018|Pidgeot}}{{MSP/H|0396|Starly}}{{MSP/H|0397|Staravia}}{{MSP/H|0398|Staraptor}}|Whirlwind|Normal|Status|—|—|20||}}
+{{learnlist/breed8|{{MSP/H|0016|Pidgey}}{{MSP/H|0017|Pidgeotto}}{{MSP/H|0018|Pidgeot}}{{MSP/H|0021|Spearow}}{{MSP/H|0022|Fearow}}{{MSP/H|0084|Doduo}}{{MSP/H|0085|Dodrio}}{{MSP/H|0142|Aerodactyl}}{{MSP/H|0198|Murkrow}}{{MSP/H|0430|Honchkrow}}{{MSP/H|0227|Skarmory}}{{MSP/H|0276|Taillow}}{{MSP/H|0277|Swellow}}{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}{{MSP/H|0396|Starly}}{{MSP/H|0397|Staravia}}{{MSP/H|0398|Staraptor}}|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/breed8|{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}|Zen Headbutt|Psychic|Physical|80|90|15||}}
+{{learnlist/breedf/8|Zubat|Poison|Flying|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/tutorh/8|Zubat|Poison|Flying|2}}
+{{learnlist/tutor8|Dual Wingbeat|Flying|Physical|40|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Zubat|Poison|Flying|2}}
+
+{{gameabbrev8|LA}}
+{{learnlist/tutorh/PLA|Zubat|Poison|Flying|1}}
+{{learnlist/tutorPLA|Aerial Ace|Flying|Physical|60|75|45|—|—|20||'''}}
+{{learnlist/tutorPLA|Leech Life|Bug|Physical|75|90|60|100|100|10||}}
+{{learnlist/tutorPLA|Ominous Wind|Ghost|Special|60|75|45|100|100|15||}}
+{{learnlist/tutorPLA|Rest|Psychic|Status|—|—|—|—|—|10||}}
+{{learnlist/tutorPLA|Shadow Ball|Ghost|Special|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|Sludge Bomb|Poison|Special|80|100|60|100|100|10||'''}}
+{{learnlist/tutorPLA|Swift|Normal|Special|60|75|45|—|—|20||}}
+{{learnlist/tutorPLA|Zen Headbutt|Psychic|Physical|80|100|60|90|100|10||}}
+{{learnlist/tutorf/8|Zubat|Poison|Flying|1}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Zubat|Poison|Flying|1}}
+{{learnlist/prevgen8|Zubat|1|Aerial Ace|Flying|Physical|60|—|20||'''|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zubat|1|Bide|Normal|Physical|—|—|10|I=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zubat|1|Detect|Fighting|Status|—|—|5|II=yes<!--TM-->}}
+{{learnlist/prevgen8|Zubat|1|Double Team|Normal|Status|—|—|15|I=yes<!--TM-->|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zubat|1|Double-Edge|Normal|Physical|120|100|15|I=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zubat|1|Feint Attack|Dark|Physical|60|—|20|II=yes<!--breed-->|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Frustration|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Headbutt|Normal|Physical|70|100|15|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zubat|1|Hidden Power|Normal|Special|60|100|15|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Mega Drain|Grass|Special|40|100|15|I=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zubat|1|Mimic|Normal|Status|—|—|10|I=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zubat|1|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Ominous Wind|Ghost|Special|60|100|5|IV=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Pluck|Flying|Physical|60|100|20||'''|IV=yes<!--TM-->|V=yes<!--TM-->}}
+{{learnlist/prevgen8|Zubat|1|Pursuit|Dark|Physical|40|100|20|II=yes<!--breed-->|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Rage|Normal|Physical|20|100|20|I=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Razor Wind|Normal|Special|80|100|10|I=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Return|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Roost|Flying|Status|—|—|10|IV=yes<!--TM-->|V=yes<!--tutor-->|VI=yes<!--TM-->|VII=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Zubat|1|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Snatch|Dark|Status|—|—|10|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Zubat|1|Super Fang|Normal|Physical|—|90|10|IV=yes<!--tutor-->|V=yes<!--tutor,{{dwa|Windswept Sky}}-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zubat|1|Swagger|Normal|Status|—|85|15|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zubat|1|Tailwind|Flying|Status|—|—|15|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Zubat|1|Take Down|Normal|Physical|90|85|20|I=yes<!--TM-->}}
+{{learnlist/prevgen8|Zubat|1|Torment|Dark|Status|—|100|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Zubat|1|Toxic|Poison|Status|—|90|10|I=yes<!--TM-->|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--level,TM,TM-->}}
+{{learnlist/prevgen8|Zubat|1|Twister|Dragon|Special|40|100|20|IV=yes<!--tutor-->}}
+{{learnlist/prevgenf/8|Zubat|Poison|Flying|1}}
+
+===Side game data===
+{{Spindata/Head|type=Poison|type2=Flying}}
+{{Spindata/Pinball|col=2|type=Poison|ndex=041|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Poison|ndex=041|acquisition=Hatch}}
+{{Spindata/Trozei|col=2|type=Poison|ndex=041|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Poison|ndex=041
+|body=1
+|rate=13.7
+|area=Echo Cave
+|P1=My ultrasonic radar makes me fearless!
+|P2=Uh-oh, bad news. Half HP...
+|P3=It's no good... I can't fly straight anymore...
+|PL=Oh, hey! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Poison|ndex=041
+|body=1
+|rate=5.5
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Poison|ndex=041
+|coset=9
+|conto={{p|Noivern}}
+|recruitment=Introduced by {{p|Noivern}}
+|P1=How long before it gets dark?
+|P2=My eyes... My vision's becoming blurry... Wait! I don't have eyes...
+}}
+|-
+{{Spindata/Ranger|col=6|type=Poison
+|group=Poison
+|assist=Poison
+|fieldpower=0
+|field=None
+|loop=2
+|MinEXP=18
+|MaxEXP=38
+|num=058
+|browser=Zubat prefers dark places like caves. It uses ultrasonic waves to attack.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Poison
+|group=Flying
+|assist=Flying
+|field=Cut
+|fieldpower=1
+|num=014
+|browser=It flits around and releases supersonic waves to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Poison
+|group=Poison
+|assist=Poison
+|field=Cut
+|fieldpower=2
+|num=042
+|pastnum=064
+|browser=It attacks by scattering poison gas that makes Pokémon Tired.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Poison
+|att=1
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Poison
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Poison|ndex=041 f
+|walk=1.17
+|hp=45
+|attack=64
+|defense=44
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Poison|ndex=041
+|Pad=Zubat can always be found flying around the [[Cavern Zone]]. They enjoy playing {{DL|Attraction (PokéPark)|Salamence's Air Ace}} more than any other Attraction.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Poison|ndex=041
+|HP=1
+|atk=1
+|def=1
+|spd=2
+|range=4
+|move=Wing Attack
+|ability1=Melee
+|ability2=Inner Focus
+|ability3=Sponge
+|evo=Evolves into {{p|Golbat}} when its Speed is 55 or higher
+|link=[[Sandayū]] and [[Yoshi]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Poison|ndex=041
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Poison|ndex=041|num=317
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Paralyze
+|skilldesc=Leaves the foe paralyzed.
+}}
+|-
+{{Spindata/GO|col=6|type=Poison|ndex=041
+|hatch=N/A
+|buddy=1
+|candy=Zubat
+|evocandy=25{{tt|*|50 prior to February 16, 2017}}
+|stamina=120
+|attack=83
+|defense=73
+|fast={{m|Quick Attack}}, {{m|Bite}}
+|special={{m|Poison Fang}}, {{m|Air Cutter}}, {{m|Swift}}{{tt|*|From February 16, 2017 onward}}, {{m|Sludge Bomb}}{{tt|†|Prior to February 16, 2017}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+Zubat [[Evolution|evolves]] into {{p|Golbat}} starting at [[level]] 22, which evolves into {{p|Crobat}} when [[friendship Evolution|leveled up with high friendship]]. Golbat cannot evolve into Crobat in {{game|FireRed and LeafGreen|s}} until the player obtains the [[National Pokédex]], as its Evolution will be interrupted. Golbat also cannot evolve into Crobat in {{LGPE}}, as Crobat is not present in those games.
+{{Evobox-3
+|type1=Poison
+|type2=Flying
+|pictype=art
+|no1=0041
+|name1=Zubat
+|type1-1=Poison
+|type2-1=Flying
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 22}}
+|no2=0042
+|name2=Golbat
+|type1-2=Poison
+|type2-2=Flying
+|evo2={{Bag/s|Rare Candy|SV}} + {{Bag/s|Soothe Bell|SV}}<br>{{color2|000|Level|Level up}} with<br>high {{color2|000|friendship}}
+|no3=0169
+|name3=Crobat
+|type1-3=Poison
+|type2-3=Flying
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Poison|type2=Flying}}
+{{Spritebox/1|ndex=041}}
+{{Spritebox/2|ndex=041}}
+{{Spritebox/3|ndex=041}}
+{{Spritebox/4/Gender|ndex=041}}
+{{Spritebox/5/Gender|ndex=041}}
+{{Spritebox/6/Gender|ndex=041|crop=82}}
+{{Spritebox/7/Gender/PE|ndex=041|crop=73|PEcrop=153}}
+{{Spritebox/8/GenderLA|ndex=041|LAcrop=153}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/Gender|ndex=0041}}
+{{Spritebox/Footer|041|Zubat}}
+
+==In animation==
+===Main series===
+[[File:Rapp Zubat.png|thumb|250px|Zubat in {{aniseries|SM}}]]
+====Major appearances====
+=====[[Brock's Zubat]]=====
+Zubat debuted in ''[[EP006|Clefairy and the Moon Stone]]'', where it was seen attacking a {{tc|Scientist}} named [[Seymour]] at [[Mt. Moon]], alongside many others of its kind. {{an|Brock}} was later revealed to have {{pkmn2|caught}} this Zubat. It later evolved into a {{p|Golbat}} and then into a {{p|Crobat}} during the [[Johto]] saga.
+
+=====Other=====
+In ''[[EP165|Hassle in the Castle]]'', [[Dr. Anna]] uses a Zubat [[nickname]]d Mimi for its {{m|Supersonic}} sound-waves, meant to scan her patients.
+
+In ''[[DP109|Leading a Stray!]]'', multiple Zubat assisted a {{p|Luxio}} in its efforts to help a {{p|Wailmer}} trapped in the sewers.
+
+Three Zubat appeared in ''[[SM001|Alola to New Adventure!]]'', under the ownership of [[Rapp]]. One of them made further appearances in {{aniseries|SM}}.
+
+====Minor appearances====
+In ''[[M02|The Power of One]]'', multiple Zubat sensed the disturbance caused by [[Lawrence III]].
+
+A Zubat appeared in the Japanese credits of ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP140|Wired for Battle!]]'', a {{pkmn|Trainer}}'s Zubat came up as an image in [[Shingo]]'s laptop.
+
+A Zubat appeared in ''[[AG063|Take the Lombre Home]]''.
+
+Multiple Zubat appeared in ''[[AG071|A Six Pack Attack!]]''.
+
+In ''[[AG084|Who's Flying Now?]]'', a Zubat was featured in the [[Fortree City]] Feather Festival.
+
+Multiple Zubat appeared in ''[[M07|Destiny Deoxys]]''.
+
+A Zubat appeared in ''[[AG176|The Ole' Berate and Switch!]]'', under the ownership of a {{tc|Team Rocket Grunt}}.
+
+In ''[[AG191|Once More With Reeling!]]'', a {{pkmn|Coordinator}}'s Zubat competed in the {{to|Terracotta}} {{pkmn|Contest}}.
+
+In ''[[DP145|A Rivalry to Gible On!]]'', multiple Zubat were residents of [[Mt. Shady]].
+
+A Zubat appeared in ''[[XY036|Battles in the Sky!]]'', under the ownership of a {{tc|Sky Trainer}}.
+
+In ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', a Zubat was playing in {{an|Lillie}}'s garden. It reappeared in ''[[SM030|The Ol' Raise and Switch!]]''.
+
+In ''[[SM009|To Top a Totem!]]'', multiple Zubat were flying in the air just as a {{p|Psyduck}} fell from the sky.
+
+In ''[[M20|I Choose You!]]'', a Zubat was under the control of {{OBP|Marshadow|M20}}.
+
+In ''[[SM090|Securing the Future!]]'', a Trainer's Zubat joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|normal form}}.
+
+A Trainer's Zubat appeared in ''[[JN049|To Train, or Not to Train!]]''. It reappeared in ''[[JN087|Breaking the Ice!]]''.
+
+In ''[[JN133|The Mew from Here!]]'', multiple Zubat were seen on [[Faraway Island]].
+
+A Zubat appeared in ''[[JN142|The Same Moon, Now and Forever!]]''.
+
+Multiple Zubat appeared in ''[[HZ076|Wynaut?! Wy-Yes!]]'', during a flashback.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP006|Zubat|Ash's Pokédex|Zubat, {{t|Flying}} Pokémon with {{m|supersonic}} powers. Zubat live in caves and hate to fly outside in daylight.}}
+{{Animedexfooter/Pokémon|Kanto}}
+
+===Pokémon Origins===
+[[File:Weedle Magnemite Zubat PO.png|thumb|250px|Zubat in [[Pokémon Origins]]]]
+In ''[[PO03|File 3: Giovanni]]'', a Zubat was in [[Silph Co.]]
+
+===Pokémon Generations===
+[[File:Team Rocket Zubat PG.png|thumb|left|250px|Zubat in [[Pokémon Generations]]]]
+In a flashback in ''[[PG05|The Legacy]]'', a {{tc|Team Rocket Grunt}} used a Zubat to help [[Team Rocket]] invade the [[Goldenrod Radio Tower]].
+
+===Pokémon Evolutions===
+Multiple swarms of Zubat appeared in ''[[PE08|The Discovery]]'', disrupting {{ga|Green}} and {{ga|Trace}}'s attempts to explore [[Cerulean Cave]].
+
+===POKÉTOON===
+Multiple Zubat appeared in [[PT17]].
+{{-}}
+
+==In the manga==
+===Ash & Pikachu===
+Similar to her animated counterpart, [[Dr. Anna|Anna]] owns a Zubat [[nickname]]d Mimi. It appeared in ''[[SP03|Treasure Hunting?! Try The Maze!]]''.
+
+===Magical Pokémon Journey===
+A Zubat appeared in ''[[PPP01|How Do You Do, Pikachu?]]''.
+
+===Pocket Monsters DP===
+A Zubat appeared in [[PMDP60]], under the ownership of [[Charon]].
+
+===Pokémon Adventures===
+[[File:Proton Zubat Adventures.png|thumb|200px|Zubat in [[Pokémon Adventures]]]]
+Zubat makes a few cameos, first as a resident of [[Mt. Moon]] in ''[[PS007|Raging Rhydon]]''.
+
+A Zubat appeared as a silhouette when {{adv|Green}} talks about {{adv|Mew}} in ''[[PS017|The Jynx Jinx]]''.
+
+A Zubat was seen hanging and then flying in [[Union Cave]] in ''[[PS121|Off Course with Corsola]]''.
+
+Multiple Zubat appeared in ''[[PS150|Chinchou in Charge]]'', where they attacked [[Misty]], [[Brock]], and [[Erika]] in the [[Tohjo Falls]] alongside multiple Golbat and Crobat.
+
+A flock of Zubat attacked {{adv|Ruby}} in [[Granite Cave]] in ''[[PS194|Guile from Mawile]]''.
+
+Multiple Zubat appeared in ''[[PS195|Mashing Makuhita]]''.
+
+In ''[[PS344|Belligerent Bronzor]]'', a Zubat appears under {{tc|Commander}} [[Mars]]' ownership.
+
+A Zubat appeared in ''[[PS349|Passing by Probopass and Maneuvering around Magnezone]]'' and ''[[PS351|Perturbed by Pachirisu]]''.
+
+Multiple Zubat appeared in ''[[PS379|Lucky Lucario I]]''.
+
+A Zubat appeared in the ''[[PS447|Fortunately for Feraligatr]]'', under the ownership of {{tc|Executive}} [[Proton]].
+
+===Pokémon Diamond and Pearl Adventure!===
+[[B-2]] has a Zubat, which appeared in ''[[DPA02|Hareta's Very First Pokémon Battle!!]]''.
+
+[[Mars]] also has a Zubat, which had the ability to see in the dark after her {{p|Purugly}} turned off the power in ''[[DPA03|The Mystery Boy, Jun!!]]''. A {{tc|Team Galactic Grunt}} also had one in the same chapter.
+
+A Zubat appeared in ''[[DPA06|Beauty Contest: The Pokémon Super Contest!!]]''.
+
+[[Hareta]] {{pkmn2|caught}} a Zubat on [[Iron Island]] in ''[[DPA10|Serious Training on Iron Island!!]]''.
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Zubat appeared in ''[[GB02|Falkner The Bird Keeper's Challenge!!]]''.
+
+A Zubat appeared in ''[[GB05|Extreme Power!! The Friday Pokémon]]''.
+
+A Zubat appeared in ''[[GB16|The New Pokémon Is Hatched!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+[[File:Shu Zubat.png|thumb|200px|Zubat in [[Pokémon: Yeah! I Got Pokémon!]]]]
+[[Shu]] {{pkmn2|caught}} a Zubat in ''[[GDZ16|Battle in the Smokescreen]]''.
+
+===Pokémon Mystery Dungeon: Blazing Exploration Team===
+A Zubat appeared in [[BET1]].
+
+===Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~===
+Multiple Zubat appeared in [[PNA3]].
+
+A Zubat appeared in [[PNA4]], under the ownership of [[Kunoichi]].
+
+===Pokémon Pocket Monsters===
+{{OBP|Green|Pocket Monsters}} {{pkmn2|caught}} a Golbat after it evolved from a Zubat in ''[[PM004|Receive the Moon Stone!!]]''.
+
+===Pokémon Zensho===
+A Zubat appeared in a fantasy in [[PZ03]], under the ownership of a {{tc|Team Rocket Grunt}}.
+
+==In the TCG==
+{{main|Zubat (TCG)}}
+
+==In the TFG==
+One Zubat figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Zubat|38}}
+
+
+====Other sprites====
+{| style="background: #{{poison color}}; margin:auto; text-align:center; font-size: 80%; {{roundy|20px}}; border: 2px solid #{{poison color dark}}"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{flying color dark}}; background: #{{flying color light}}; width:180px"| [[File:Spr 4d 041Batty.png]]
+| style="{{roundy|80px}} border: 2px solid #{{flying color dark}}; background: #{{flying color light}}; width:180px"| [[File:Spr 4d 041Midnight.png]]
+|-
+| Batty in {{color2|000|Pokémon Super Contests}}
+| Midnight in {{color2|000|Pokémon Super Contests}}
+|}
+==Trivia==
+* No other Pokémon has the same [[List of Pokémon with unique type combinations|type combination]] as Zubat and its evolved forms.
+** Zubat and Golbat are the only Pokémon introduced in [[Generation I]] to currently have a unique type combination.
+** Zubat and its evolved forms are the only {{type|Poison}} Pokémon in the {{egg3|Flying}}.
+* Zubat and its evolved forms share their {{pkmn|category}} with Woobat. They are all known as the Bat Pokémon.
+* Zubat's evolutionary line has several similarities with {{p|Woobat}}'s.
+** All of the members of both lines are called the Bat Pokémon (excluding {{p|Swoobat}}), live in caves or other dark places, and have no visible eyes at their respective unevolved states.
+** Members of both lines reach their respective fully evolved forms by [[friendship]] and both have similar Shiny forms (with green main bodies).
+** Woobat and Zubat have somewhat similar English names, both having rhyming prefixes and ''bat'' as a suffix.
+* Zubat can also be seen as a parallel to {{p|Noibat}}, as they are both {{type|Flying}} Pokémon based on bats and can have {{a|Infiltrator}} as a possible [[Ability]]. They also share the same base stats, with their Attack and Special Attack switched around.
+* Zubat has the lowest base {{stat|Special Attack}} stat of all Flying-type Pokémon, tying with {{p|Taillow}}, {{p|Starly}}, {{p|Combee}}, and {{p|Pikipek}}.
+* Despite its lack of eyes, Zubat is still capable of learning {{m|Mean Look}}.
+* Due to its lack of eyes, Zubat is the only Pokémon whose Alpha form in {{pkmn|Legends: Arceus}} does not bear glowing red eyes.
+** It is also one of the few [[Shadow Pokémon (GO)|Shadow Pokémon]] in {{g|GO}} that doesn't have red eyes, the other being Shadow {{p|Steelix}}.
+* In order to highlight shortcomings in the review process for scientific papers, in 2020, entomologist Matan Shelomi submitted a paper titled "[[Cyllage City]] COVID-19 Outbreak Linked to Zubat Consumption" to a biomedical journal. Even though that paper rather obviously presents fabricated information, and was allegedly co-authored by fictional scientists like "Nasu Joy" of the Veterinary Virology department of Cyllage City Pokecenter, it was eventually published, before being removed shortly thereafter.<ref name="Bug Squad">[https://ucanr.edu/blog/bug-squad/article/matan-shelomi-era-fakenewspredatory-journals Matan Shelomi: In the Era of #FakeNews]</ref><ref name="">[https://www.researchgate.net/publication/343066384_Cyllage_City_COVID-19_Outbreak_Linked_to_Zubat_Consumption "Cyllage City COVID-19 Outbreak Linked to Zubat Consumption" on ResearchGate]</ref><ref name="Scientist">[https://www.the-scientist.com/opinion-using-pokmon-to-detect-scientific-misinformation-68098 The Scientist: Opinion: Using Pokémon to Detect Scientific Misinformation]</ref>
+
+===Origin===
+Zubat seems to be based on a {{wp|bat}}, particularly {{wp|vampire bat}}s, which bite other animals to {{wp|Hematophagy|feed on their blood}}. Its {{t|Poison}} type may be inspired by either the {{wp|anticoagulant}} properties of vampire bat saliva or the fact that bats are infamous for spreading deadly diseases such as {{wp|rabies}}. Its lack of eyes could be a reference to {{wp|troglomorphism}} and may additionally be influenced by the misconception that bats are blind due to their use of {{wp|Animal echolocation|echolocation}} to navigate. The claim that Zubat will suffer burns when exposed to sunlight may be inspired by mythological {{wp|vampire}}s.
+
+====Name origin====
+Zubat may be a combination of ''bat'' and ずばっと ''zubatto'' (piercingly).
+
+==In other languages==
+{{Other languages|type=Poison|type2=Flying
+|ja=ズバット ''Zubat''|jameaning=From ''{{wp|bat}}'' and {{tt|ずばっと ''zubatto''|piercingly}}
+|fr=Nosferapti|frmeaning=From ''{{wp|Nosferatu (word)|Nosferatu}}'' and ''{{tt|petit|little}}''
+|es=Zubat|esmeaning=Same as English/Japanese name
+|de=Zubat|demeaning=Same as English/Japanese name
+|it=Zubat|itmeaning=Same as English/Japanese name
+|ko=주뱃 ''Zubat''|komeaning=Transcription of Japanese name
+|zh_cmn=超音蝠 ''Chāoyīnfú''|zh_cmnmeaning=From {{tt|超音波 ''chāoyīnbō''|ultrasound}} and {{tt|蝠 ''fú''|bat}}
+|zh_yue=超音蝠 ''Chīuyāmfūk''{{tt|*|Games}}<br>波音蝠 ''Bōyāmfūk''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|超音波 ''chīuyāmbō''|ultrasound}} and {{tt|蝠 ''fūk''|bat}}<br>From {{tt|音波 ''yāmbō''|sound wave}} and {{tt|蝠 ''fūk''|bat}}
+|hi=ज़ूबैट ''Zubat''|himeaning=Transcription of English name
+|lt=Zubatas|ltmeaning=From the English name
+|ru=Зубат ''Zubat''|rumeaning=Transcription of English name
+|th=ซูแบท ''Subaet''|thmeaning=Transcription of Japanese name
+}}
+
+<br clear="left">
+
+==Related articles==
+* [[Brock's Zubat]]
+* [[Team Skull (Mystery Dungeon)]]
+
+==References==
+<references />
+
+==External links==
+{{PokémonPrevNext/Head|type=Poison|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=0040|prev=Wigglytuff|nextnum=0042|next=Golbat}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appear in Pokémon Snap]]
+
+[[de:Zubat]]
+[[es:Zubat]]
+[[fr:Nosferapti]]
+[[it:Zubat]]
+[[ja:ズバット]]
+[[zh:超音蝠]]

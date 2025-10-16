@@ -1,0 +1,332 @@
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/GO|species=Cetitan}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=0974|prev=Cetoddle|nextnum=0976|next=Veluza|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Cetitan
+|jname=ハルクジラ
+|tmname=Hulkujira
+|jtranslit=Harukujira
+|ndex=0975
+|type1=Ice
+|category=Terra Whale
+|height-ftin=14'09"
+|height-m=4.5
+|weight-lbs=1,543.2
+|weight-kg=700.0
+|abilityn=2
+|ability1=Thick Fat
+|ability2=Slush Rush
+|abilityd=Sheer Force
+|egggroupn=1
+|egggroup1=Field
+|egggroup2=
+|eggcycles=25
+|evtotal=2
+|evhp=2
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=182
+|lv100exp=1059860
+|gendercode=127
+|color=White
+|catchrate=50
+|body=06
+|pokefordex=cetitan
+|generation=9
+|friendship=50
+}}
+'''Cetitan''' ([[List of Japanese Pokémon names|Japanese]]: '''ハルクジラ''' ''Hulkujira'') is an {{type|Ice}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Cetoddle}} when exposed to an [[Ice Stone]].
+
+==Biology==
+[[File:Cetitan open mouth SV.jpg|thumb|left|250px|Cetitan with its mouth open]]
+Cetitan is a large {{wp|Cetacea|cetacean}} {{OBP|Pokémon|species}}. It has a white piscine body with large forelimbs and legs, and pink accents around its eyes, forepaws, and tail. The tail has two pairs of fins protruding from either side. Cetitan also has a gray underside with circular white accents, as well as gray accents on its armpits, and two large gray claws on each foot. It has five horns: two on the top of its head, and three around its large, wavy mouth. The singular horn on its upper jaw allows it to gather ice energy and freeze its surroundings.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/cetitan/ Cetitan — Pokémon Scarlet and Pokémon Violet | Official Website]</ref> When Cetitan opens its mouth, rows of long, teeth-like plates can be seen lining its jaws.
+
+Cetitan has tough muscles, which allow it to support its weight and attack with {{a|Sheer Force|immense physical power}}. It also has a thick layer of subcutaneous fat, which helps it migrate around snowy areas.<ref name=SVsite /> It lives in pods and shares habitats with {{p|Avalugg}}. As mentioned in ''[[PPW01|Breathe Out]]'', in Paldea, Cetitan mainly live on top of [[Glaseado Mountain]], and their main diet consists of snow and ice. It's also mentioned that Cetitan can use echolocation to find and communicate with others of its kind through sound waves, and that the sounds it makes is said to be similar to that of a flute. In ''[[HZ063|Ice Battle! Cold-Eyed Grusha]]'', Cetitan is shown to be able to slide around ice and snow on its belly to move faster across said terrain.
+
+Cetitan and its pre-evolved form, {{p|Cetoddle}}, are the only known Pokémon capable of learning the move {{m|Ice Spinner}} by leveling up.
+
+===Evolution===
+Cetitan evolves from {{p|Cetoddle}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Ice
+|pictype=art
+|no1=0974
+|name1=Cetoddle
+|type1-1=Ice
+|evo1=
+|no2=975
+|name2=Cetitan
+|type1-2=Ice}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ice}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=362|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a {{a|Thick Fat|thick layer of fat}} under its skin.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ice color dark}}; background:#{{ice color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{ice color light}}; background:#{{ice color light}} | [[File:Pokédex Image Cetitan SV.png|x200px]]
+|-
+| Cetitan in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=North Province: [[Glaseado Mountain]]<br>[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Paldea)|Cetitan|5★}}, {{DL|List of 6★ Tera Raid Battles (Paldea)|Cetitan|6★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=IX}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Poké Fair [[sync pair scout]]: {{sync|Grusha|Cetitan}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Ice}}
+{{eventAvail|{{gameabbrev9|SV}}|Glaseado Mountain Cetitan|All|Online|50|September 6, 2023 to August 31, 2024|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Glaseado Cetitan}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Ice
+|HP=170
+|Attack=113
+|Defense=65
+|SpAtk=45
+|SpDef=55
+|Speed=73
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=200
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|thickfat=maybe
+|newfire=1
+|newice=¼
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Cetitan|Ice|Ice|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level9|6|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|9|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/level9|12|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/level9|15|Rest|Psychic|Status|—|—|5}}
+{{learnlist/level9|19|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|25|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level9|27|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/level9|31|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/level9|36|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level9|40|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/level9|44|Ice Spinner|Ice|Physical|80|100|15||'''}}
+{{learnlist/level9|49|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|53|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/levelf/9|Cetitan|Ice|Ice|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Cetitan|Ice|Ice|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM010|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/tm9|TM046|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM069|Ice Punch|Ice|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/tm9|TM124|Ice Spinner|Ice|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tm9|TM187|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM225|Hard Press|Steel|Physical|—|100|10}}
+{{learnlist/tmf/9|Cetitan|Ice|Ice|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Cetitan|Ice|Ice|9}}
+{{learnlist/breed9|{{MSP/H|0335|Zangoose}}|Belly Drum|Normal|Status|—|—|10|grid=7}}
+{{learnlist/breed9|{{MSP/H|0702|Dedenne}}{{MSP/H|0921|Pawmi}}{{MSP/H|0922|Pawmo}}{{MSP/H|0923|Pawmot}}|Entrainment|Normal|Status|—|100|15|grid=7}}
+{{learnlist/breed9|{{MSP/H|0028-Alola|Sandshrew}}{{MSP/H|0614|Beartic}}|Icicle Crash|Ice|Physical|85|90|10||'''|grid=7}}
+{{learnlist/breed9|{{MSP/H|0614|Beartic}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0878|Cufant}}{{MSP/H|0879|Copperajah}}|Superpower|Fighting|Physical|120|100|5|grid=7}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0775|Komala}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{tt|*|Skeledirge learns Yawn on its own only Version 2.0.1 onwards}}|Yawn|Normal|Status|—|—|10|grid=7}}
+{{learnlist/breedf/9|Cetitan|Ice|Ice|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Cetitan|Ice|Ice|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Cetitan|Ice|Ice|9}}
+
+===Side game data===
+{{Spindata/Head|type=Ice}}
+{{Spindata/GO|col=6|type=Ice|ndex=0975
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=347
+|attack=208
+|defense=123
+|fast={{m|Ice Shard}}, {{m|Tackle}}, {{m|Powder Snow}}{{tt|*|From June 3, 2024 onward}}
+|special={{m|Body Slam}}, {{m|Avalanche}}, {{m|Heavy Slam}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Ice
+|pictype=art
+|no1=974
+|name1=Cetoddle
+|type1-1=Ice
+|evo1={{Bag/s|Ice Stone|SV}}<br>{{color2|000|Ice Stone}}
+|no2=0975
+|name2=Cetitan
+|type1-2=Ice}}
+
+===Sprites===
+{{Spritebox/Header|type=ice}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0975}}-->
+{{Spritebox/HOME|ndex=0975}}
+{{Spritebox/Footer|975|Cetitan}}
+
+==In animation==
+[[File:Grusha Cetitan.png|left|thumb|250px|Cetitan in {{aniseries|HZ}}]]
+[[File:Cetitan Paldean Winds.png|thumb|250px|Cetitan  in [[Pokémon: Paldean Winds]]]]
+===Main series===
+====Major appearances====
+Cetitan made its animated series debut in ''[[HZ063|Ice Battle! Cold-Eyed Grusha]]'', under the ownership of [[Grusha]]. He used it in [[Liko]]'s [[Tera Training]] Implementation battle against him, taking on her {{TP|Liko|Floragato}} and {{TP|Liko|Hattrem}}, beating the latter before being recalled for {{p|Altaria}}.
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ063|Cetitan|Roy's Rotom Phone|Cetitan, the Terra Whale Pokémon. An {{t|Ice}} type. It protects its body with strong muscles and a thick layer of fat under its skin.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Paldean Winds===
+
+A {{pkmn2|wild}} Cetitan appeared in ''[[PPW01|Breathe Out]]''. It chased [[Arven]] around [[Glaseado Mountain]] until it was soothed by the sound of [[Ohara]]'s flute. It briefly reappeared in ''[[PPW04|Breathe Together]]'', during Ohara, [[Aliquis]], and [[Hohma]]'s video presentation about [[Naranja Academy]].
+
+==In the manga==
+==In the TCG==
+{{main|Cetitan (TCG)}}
+
+==Trivia==
+* Cetitan is the [[List of Pokémon by height|tallest]] {{type|Ice}} Pokémon.
+* Cetitan has the highest base {{stat|HP}} stat of all Ice-type Pokémon.
+* Cetitan has the longest [[cry]] of any Pokémon, being 4.007 seconds long.
+* Cetitan and its pre-Evolution were designed by [[Yusuke Kozaki]].<ref>[https://twitter.com/kymg/status/1612716767444631552 Tweet by コザキユースケ/Yusuke Kozaki (@kymg).] Posted on January 10, 2023.</ref>
+
+===Origin===
+Cetitan appears to be based on various species of {{wp|cetacean}}s, especially the {{wp|right whale}}. Like Cetitan, right whales have highly arched mouths, round bodies without a dorsal fin, and torsos without ventral grooves. Cetitan's horns resemble the callosities (thick, hardened patches of skin) on the heads of right whales.
+
+A notable species for inspiration might be the {{wp|North Atlantic right whale}}, whose scientific name, ''Eubalaena glacialis'', means "true whale of ice", corresponding to Cetitan's type. Cetitan debuted in the [[Paldea]] [[region]]; the real-world inspiration for Paldea, the {{wp|Iberian Peninsula}}, is known for its {{wp|History of Basque whaling|history}} of {{wp|whaling}} of North Atlantic right whales — especially by its indigenous {{wp|Basque people}} — for their blubber and meat, causing their near-extinction.
+
+Cetitan also resembles the {{wp|bowhead whale}}, a close relative of the right whale. The bowhead whale lives in the {{wp|Arctic}}, and is also known as the "polar whale" or the "icewhale". Other Arctic cetaceans may also have inspired the Pokémon; Cetitan's white coloration and large head may be inspired by the {{wp|beluga}}, and its horns may draw inspiration from the {{wp|narwhal}}.
+
+====Name origin====
+Cetitan may be a combination of ''{{wp|Cetacea|cetacean}}'' or ''{{wp|Cetus (mythology)|Cetus}}'' (a sea monster in Greek mythology whose name became the etymology for the word ''cetacean'') and ''titan''.
+
+Hulkujira may be a combination of ''hulk'', 歩く ''aruku'' (to walk), and 鯨 ''kujira'' (whale). It may be a pun on 歯鯨 ''hakujira'' ({{wp|toothed whale}}).
+
+==In other languages==
+{{Other languages|type=Ice|type2=Ice
+|ja=ハルクジラ ''Hulkujira''|jameaning=From ''hulk'', {{tt|歩く ''aruku''|to walk}}, {{tt|鯨 ''kujira''|whale}}, and {{tt|歯鯨 ''hakujira''|toothed whale}}
+|fr=Balbalèze|frmeaning=From ''{{tt|baleine|whale}}'' and ''{{tt|balèze|hefty}}''
+|es=Cetitan|esmeaning=Same as English name
+|de=Kolowal|demeaning=From ''{{tt|kolossal|colossal}}'' and ''{{tt|Wal|whale}}''
+|it=Cetitan|itmeaning=Same as English name
+|ko=우락고래 ''Urakgorae''|komeaning=From {{tt|우락부락하다 ''urakburakhada''|to look threatening}} and {{tt|고래 ''gorae''|whale}}
+|zh_cmn=浩大鯨 / 浩大鲸 ''Hàodàjīng''|zh_cmnmeaning=From {{tt|浩大 ''hàodà''|vast}} and {{tt|鯨 / 鲸 ''jīng''|whale}}
+|zh_yue=浩大鯨 ''Houhdaaihkìhng''|zh_yuemeaning=From {{tt|浩大 ''houhdaaih''|vast}} and {{tt|鯨 ''kìhng''|whale}}
+|hi=वेलार्जर ''Whalarger''|himeaning=From ''whale'' and ''larger''
+|th=ฮัลค์จิระ ''Hanchira''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=0974|prev=Cetoddle|nextnum=0976|next=Veluza}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kolowal]]
+[[es:Cetitan]]
+[[fr:Balbalèze]]
+[[it:Cetitan]]
+[[ja:ハルクジラ]]
+[[zh:浩大鲸]]

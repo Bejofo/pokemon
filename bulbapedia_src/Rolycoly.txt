@@ -1,0 +1,321 @@
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/GO|species=Rolycoly}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0836|prev=Boltund|nextnum=0838|next=Carkol|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Rolycoly
+|jname=タンドン
+|tmname=Tandon
+|ndex=0837
+|type1=Rock
+|category=Coal
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=26.5
+|weight-kg=12.0
+|abilityn=d
+|ability1=Steam Engine
+|ability2=Heatproof
+|abilityd=Flash Fire
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=15
+|evtotal=1
+|evde=1
+|expyield=48
+|lv100exp=1,059,860
+|gendercode=127
+|color=Black
+|catchrate=255
+|body=01
+|pokefordex=rolycoly
+|generation=8
+|friendship=50
+}}
+'''Rolycoly''' ([[List of Japanese Pokémon names|Japanese]]: '''タンドン''' ''Tandon'') is a {{type|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Carkol}} starting at [[level]] 18, which evolves into {{p|Coalossal}} starting at level 34.
+
+==Biology==
+Rolycoly is a {{OBP|Pokémon|species}} which resembles a small piece of coal. It has a single orange-red eye that can light up and illuminate dark areas,<ref name=SwShsite/> while the rest of its body is black. It has a rugged exterior and lacks any limbs. Its lower body has a wheel-like leg, which it rolls on and uses for movement, in a similar fashion to a unicycle.
+
+Rolycoly was first discovered around 400 years ago in coal mines. It races around on grassy plains and the rough, rocky terrain in coal mines and caves, burning through the coal that sustains it. Rolycoly's diet also includes grass that gets tangled in its leg. Until about 100 years ago, every household in [[Galar]] had a Rolycoly, using the coal that it drops for cooking and heating up homes. Rolycoly's popularity continues even into the modern-day, as it is used for outdoor activities.<ref name=SwShsite>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/rolycoly/ Rolycoly | Official Website | Pokémon Sword and Pokémon Shield]</ref> {{p|Dwebble}} is Rolycoly's natural enemy, as the former tends to think that Rolycoly is an inanimate rock to turn into a home.
+
+Rolycoly and its evolved forms are the [[Signature Ability|only known Pokémon]] that can have {{a|Steam Engine}} as an [[Ability]].
+
+===Evolution===
+Rolycoly evolves into {{p|Carkol}}, which evolves into {{p|Coalossal}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Rock
+|pictype=art
+|no1=0837
+|name1=Rolycoly
+|type1-1=Rock
+|evo1=
+|no2=0838
+|name2=Carkol
+|type1-2=Rock
+|type2-2=Fire
+|evo2=
+|no3=0839
+|name3=Coalossal
+|type1-3=Rock
+|type2-3=Fire}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=161|reg2=Galar|label2=Crown Tundra|num2=176|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=91|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=On sunny days, Rolycoly will come out onto grassy plains and roll around. Then it will eat the grass that gets tangled in its wheel-like leg.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Chunks of the surface of this Pokémon's body that have grown old and flaked off have long been used for fuel as an alternative to coal.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{rock color dark}}; background:#{{rock color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{rock color light}}; background:#{{rock color light}} | [[File:Pokédex Image Rolycoly SV.png|x200px]]
+|-
+| Rolycoly in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|3|Galar}}, [[Galar Mine]], [[Giant's Cap]],  [[Motostoke Riverbank]]<br>[[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Seat/Dens|Giant's Seat]], [[Rolling Fields/Dens|Rolling Fields]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Shield Expansion Pass|color={{shield color dark}}|t=fff|link=Pokémon Sword and Shield Expansion Pass|area=[[Slippery Slope/Dens|Slippery Slope]], [[Frostpoint Field/Dens|Frostpoint Field]], [[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[East Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Rolycoly|2★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Rock|lochide=yes}}
+{{eventAvail|{{gameabbrev8|Sw}}|Wild Area News|No|hide|17|January 9 to 31, 2020|link=Wild Area News#January 9 to 31, 2020}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17|June 30 to July 16, 2020<br>July 20 to 31, 2020|link=Wild Area News#June 30 to July 16 and July 20 to July 31, 2020}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Rock
+|HP=30
+|Attack=40
+|Defense=50
+|SpAtk=40
+|SpDef=50
+|Speed=30
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=200
+|Grass=200
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|heatproof=maybe
+|flashfire=maybe
+|newfire= ¼
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Rolycoly|Rock|Rock|8}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Smokescreen|Normal|Status|—|100|20}}
+{{learnlist/level9|5|Rapid Spin|Normal|Physical|50|100|40}}
+{{learnlist/level9|10|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level9|15|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/level9|20|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level9|25|Incinerate|Fire|Special|60|100|15||''}}
+{{learnlist/level9|30|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level9|35|Heat Crash|Fire|Physical|—|100|10||''}}
+{{learnlist/level9|40|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/levelf/9|Rolycoly|Rock|Rock|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Rolycoly|Rock|Rock|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM101|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM189|Heat Crash|Fire|Physical|—|100|10||''}}
+{{learnlist/tm9|TM207|Temper Flare|Fire|Physical|75|100|10||''}}
+{{learnlist/tm9|TM220|Meteor Beam|Rock|Special|120|90|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Rolycoly|Rock|Rock|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Rolycoly|Rock|Rock|8}}
+{{learnlist/breed9|{{MSP/H|0185|Sudowoodo}}{{MSP/H|0299|Nosepass}}{{MSP/H|0476|Probopass}}{{MSP/H|0874|Stonjourner}}{{MSP/H|0934|Garganacl}}|Block|Normal|Status|—|—|5|grid=7}}
+{{learnlist/breed9|{{MSP/H|0074|Geodude}}{{MSP/H|0074-Alola|Geodude}}{{MSP/H|0075|Graveler}}{{MSP/H|0075-Alola|Graveler}}{{MSP/H|0076|Golem}}{{MSP/H|0076-Alola|Golem}}{{MSP/H|0934|Garganacl}}|Explosion|Normal|Physical|250|100|5|grid=7}}
+{{learnlist/breed9|{{bag/s|TM Ground|SV|TM005}}{{tt|*|No Pokémon in the Mineral Egg Group can learn Mud-Slap via level-up. However, the move is available via TM005 and can be passed down from the Geodude lines, Sudowoodo, the Rolycoly line, and the Fidough line, or copied via Mirror Herb.}}|Mud-Slap|Ground|Special|20|100|10|grid=7}}
+{{learnlist/breedf/9|Rolycoly|Rock|Rock|8}}
+
+===Side game data===
+{{Spindata/Head|type=Rock}}
+{{Spindata/GO|col=6|type=Rock|ndex=0837
+|hatch=N/A
+|buddy=3
+|candy=Rolycoly
+|evocandy=25
+|stamina=102
+|attack=73
+|defense=91
+|fast={{m|Smack Down}}, {{m|Tackle}}
+|special={{m|Rock Blast}}, {{m|Rock Slide}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Rock
+|pictype=art
+|no1=0837
+|name1=Rolycoly
+|type1-1=Rock
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 18}}
+|no2=0838
+|name2=Carkol
+|type1-2=Rock
+|type2-2=Fire
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 34}}
+|no3=0839
+|name3=Coalossal
+|type1-3=Rock
+|type2-3=Fire
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=837}}
+<!--{{Spritebox/9|ndex=0837}}-->
+{{Spritebox/HOME|ndex=0837}}
+{{Spritebox/Footer|837|Rolycoly}}
+
+==In animation==
+===Main series===
+[[File:Wakaba Rolycoly.png|thumb|250px|Rolycoly in {{aniseries|HZ}}]]
+====Major appearances====
+Rolycoly debuted in ''[[HZ020|Kabu's Battle Training!]]'', under the ownership of {{OBP|Wakaba|HZ020}}. It teamed up with [[Kabu]]'s {{p|Centiskorch}} in a [[Multi Battle|Tag Battle]] against [[Liko]] and [[Roy]].
+
+====Minor appearances====
+A {{pkmn|Trainer}}'s Rolycoly appeared in ''[[HZ039|Tinkatink's Ideal Hammer]]''.
+{{-}}
+
+==In the manga==
+[[File:Rampaging Dynamax Pokémon Adventures.png|thumb|250px|Rolycoly in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A [[Dynamax]]ed Rolycoly appeared in ''[[PASS27|Shock!! Chairman Rose's Plan]]'' during the [[Darkest Day]].
+{{-}}
+
+==In the TCG==
+{{main|Rolycoly (TCG)}}
+==Trivia==
+* Rolycoly and its evolved forms have several unique distinctions:
+** Rolycoly is the only Pokémon that is not {{type|Fire}} to have access to the [[Ability]] {{a|Flash Fire}}.
+** They are the only {{DL|List of Pokémon by color|black}} Rock-type Pokémon.
+* Rolycoly and its evolved forms share their {{pkmn|category}} with {{p|Torkoal}}. They are all known as the Coal Pokémon.
+* Rolycoly has the lowest base stat total of all {{type|Rock}} Pokémon.
+
+===Origin===
+Rolycoly may be based on {{wp|coal}} and a {{wp|wheel}}. Its {{Shiny}} variant's gray coloration may reference how coal turns white with ash as it burns.
+
+====Name origin====
+Rolycoly may be a combination of ''roly-poly'' and ''coal''. It may also be a pun on ''{{wp|rolling coal}}''.
+
+Tandon may be a combination of 炭 ''tan'' (coal) and どん ''don'' (bang).
+
+==In other languages==
+{{Other languages|type=Rock|type2=Rock
+|ja=タンドン ''Tandon''|jameaning=From {{tt|炭 ''tan''|coal}} and {{tt|どん ''don''|bang}}
+|fr=Charbi|frmeaning=From ''{{tt|charbon|coal}}'' and ''{{tt|petit|small}}'' or {{tt|ちび ''chibi''|Japanese for runt, pipsqueak}}
+|es=Rolycoly|esmeaning=Same as English name
+|de=Klonkett|demeaning=From ''{{tt|klonk|onomatopoeia of something hard being hit}}'', ''{{tt|Kohle|coal}}'', and ''{{tt|Brikett|briquet}}''
+|it=Rolycoly|itmeaning=Same as English name
+|ko=탄동 ''Tandong''|komeaning=From {{tt|탄 (炭) ''tan''|coal}} and {{tt|동 (童) ''dong''|child}} 
+|zh_cmn=小炭仔 ''Xiǎotànzǐ''|zh_cmnmeaning=From {{tt|小 ''xiǎo''|small}}, {{tt|炭 ''tàn''|coal}}, and {{tt|仔 ''zǐ''|young}}
+|zh_yue=小炭仔 ''Síutaanjí''|zh_yuemeaning=From {{tt|小 ''síu''|small}}, {{tt|炭 ''taan''|coal}}, and {{tt|仔 ''jí''|young}}
+|hi=कोयलार ''Koylaar''|himeaning=From {{tt|कोयला ''koylā''|coal/charcoal}}
+|ru=Роликоли ''Rolikoli''|rumeaning=Transcription of English name
+|th=ทันด้ง ''Thandong''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0836|prev=Boltund|nextnum=0838|next=Carkol}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Galar Pokédex]]
+
+[[de:Klonkett]]
+[[es:Rolycoly]]
+[[fr:Charbi]]
+[[it:Rolycoly]]
+[[ja:タンドン]]
+[[zh:小炭仔]]

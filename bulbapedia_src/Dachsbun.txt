@@ -1,0 +1,313 @@
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/GO|species=Dachsbun}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0926|prev=Fidough|nextnum=0928|next=Smoliv|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Dachsbun
+|jname=バウッツェル
+|jtranslit=Bauttseru
+|tmname=Bowtzel
+|ndex=0927
+|type1=Fairy
+|category=Dog
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=32.8
+|weight-kg=14.9
+|abilityn=1
+|ability1=Well-Baked Body
+|ability2=
+|abilityd=Aroma Veil
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Mineral
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=2
+|expyield=167
+|lv100exp=1059860
+|gendercode=127
+|color=Brown
+|catchrate=90
+|body=08
+|pokefordex=dachsbun
+|generation=9
+|friendship=50
+}}
+'''Dachsbun''' ([[List of Japanese Pokémon names|Japanese]]: '''バウッツェル''' ''Bowtzel'') is a {{type|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Fidough}} starting at [[level]] 26.
+
+==Biology==
+Dachsbun is a stout, canine Pokémon with an elongated body. Its fur is mostly brown, with various shades of lighter and darker brown on its head, snout, ears, neck, back, tail, and paws, along with a yellow underbelly. It has black beady eyes with two small eyebrow-like protrusions above them, and a long snout with a small, dark triangular nose. Its ears, together with the dewlap around its neck, resemble bread rolls. On its back is a series of protuberances that resemble a braid, and its tail is circular and somewhat flattened. It has shaggy tufts of yellow fur on its neck and the tip of its tail, and its feet have pale yellow paw pads and three yellow claws each.
+
+Dachsbun's body emanates a pleasant, appetizing aroma, which helps wheat to grow; thus, Dachsbun is historically treasured by farming villages. When it's exposed to intense heat, Dachsbun's skin will harden; this is showcased by its [[signature Ability]], {{a|Well-Baked Body}}.
+
+===Evolution===
+Dachsbun evolves from {{p|Fidough}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Fairy
+|pictype=art
+|no1=0926
+|name1=Fidough
+|type1-1=Fairy
+|evo1=
+|no2=0927
+|name2=Dachsbun
+|type1-2=Fairy}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fairy}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=77|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The surface of this Pokémon's skin hardens when exposed to intense heat, and its body has an appetizing aroma.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fairy color dark}}; background:#{{fairy color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{fairy color light}}; background:#{{fairy color light}} | [[File:Pokédex Image Dachsbun SV.png|x200px]]
+|-
+| Dachsbun in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Fairy}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Six)|Area Six]]<br>East Province: [[East Province (Area Three)|Area Three]]<br>West Province: [[West Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Dachsbun|4★}}, {{DL|List of 6★ Tera Raid Battles (Paldea)|Dachsbun|6★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fairy}}
+{{Availability/NA|gen=IX}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Poké Fair [[sync pair scout]]: {{sync|Ortega|Dachsbun}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Fairy
+|HP=57
+|Attack=80
+|Defense=115
+|SpAtk=50
+|SpDef=80
+|Speed=95
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fairy
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=200
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=0
+|Dark=50
+|Fairy=100
+|notes= yes
+|fairy=yes
+|newdragon=1
+|wellbakedbody=maybe
+|newfire=0
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Dachsbun|Fairy|Fairy|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|3|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/level9|6|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|8|Covet|Normal|Physical|60|100|25}}
+{{learnlist/level9|11|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|15|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level9|18|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/level9|22|Work Up|Normal|Status|—|—|30}}
+{{learnlist/level9|29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level9|33|Roar|Normal|Status|—|—|20}}
+{{learnlist/level9|38|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|42|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|47|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level9|53|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/levelf/9|Dachsbun|Fairy|Fairy|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Dachsbun|Fairy|Fairy|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM008|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/tm9|TM010|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM037|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM063|Psychic Fangs|Psychic|Physical|85|100|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM139|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10||'''}}
+{{learnlist/tmf/9|Dachsbun|Fairy|Fairy|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Dachsbun|Fairy|Fairy|9}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0185|Sudowoodo}}{{MSP/H|0448|Lucario}}|Copycat|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0058|Growlithe}}{{MSP/H|0058|Growlithe|form=-Hisui}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059|Arcanine|form=-Hisui}}{{MSP/H|0228|Houndour}}{{MSP/H|0229|Houndoom}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0653|Fennekin}}{{MSP/H|0654|Braixen}}{{MSP/H|0655|Delphox}}{{MSP/H|0744|Rockruff}}{{MSP/H|0745|Lycanroc}}{{MSP/H|0745|Lycanroc|form=-Midnight}}{{MSP/H|0745|Lycanroc|form=-Dusk}}|Howl|Normal|Status|—|—|40|grid=8}}
+{{learnlist/breed9|{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}|Sweet Scent|Normal|Status|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0775|Komala}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{tt|*|Skeledirge learns Yawn on its own only Version 2.0.1 onwards}}|Yawn|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breedf/9|Dachsbun|Fairy|Fairy|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Dachsbun|Fairy|Fairy|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Dachsbun|Fairy|Fairy|9}}
+
+===Side game data===
+{{Spindata/Head|type=Fairy}}
+{{Spindata/GO|col=6|type=Fairy|ndex=0927
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=149
+|attack=159
+|defense=212
+|fast={{m|Charm}}, {{m|Bite}}
+|special={{m|Body Slam}}, {{m|Play Rough}}, {{m|Psychic Fangs}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Fairy
+|pictype=art
+|no1=0926
+|name1=Fidough
+|type1-1=Fairy
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 26}}
+|no2=0927
+|name2=Dachsbun
+|type1-2=Fairy}}
+
+===Sprites===
+{{Spritebox/Header|type=fairy}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0927}}-->
+{{Spritebox/HOME|ndex=0927}}
+{{Spritebox/Footer|927|Dachsbun}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+Dachsbun debuted in ''[[HZ046|Welcome to Naranja Academy!]]'', under the ownership of a Student in an image.
+
+===Biri-Biri===
+A Dachsbun appeared in the music video for [[Biri-Biri]], under the ownership of {{ga|Juliana|Anna}}.
+
+==In the manga==
+==In the TCG==
+{{main|Dachsbun (TCG)}}
+
+==Trivia==
+* Dachsbun shares its {{pkmn|category}} with {{p|Boltund}}. They are both known as the Dog Pokémon.
+* Dachsbun is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 477.
+* Dachsbun and its pre-evolved form, {{p|Fidough}}, were designed by [[Mari Shimazaki]].<ref>[https://twitter.com/MariShimazaki/status/1806662918186188869 Tweet] by 島崎麻里 (@MariShimazaki). Posted on June 28, 2024.</ref>
+
+===Origin===
+Dachsbun seems to be based on the {{wp|dachshund}} breed of dog, known for its elongated body and short legs, and various baked goods such as bread loaves, bread rolls, {{wp|bun}}s, {{wp|challah}}, {{wp|brioche}}, and {{wp|pretzel}}s. The two concepts together may be a pun on the phrase "{{wp|purebred}}" — a term used to recognise dogs of consistent genetic lineage — as it is pronounced like "pure bread".
+
+Its darker colors compared to {{p|Fidough|its pre-Evolution}} appears to reference the {{wp|Maillard reaction}}, a chemical reaction that occurs in cooked foods that gives them their characteristic brown color and flavor. This is reinforced by its signature Ability, {{a|Well-Baked Body}}.
+
+====Name origin====
+Dachsbun may be a combination of ''dachshund'' and ''bun''.
+
+Bowtzel may be a combination of ''bow wow'' (onomatopoeia for a dog's bark) and ''pretzel''.
+
+==In other languages==
+{{Other languages|type=Fairy|type2=Fairy
+|ja=バウッツェル ''Bowtzel''|jameaning=From ''{{tt|bow wow|onomatopoeia for a dog's bark}}'' and ''pretzel''
+|fr=Briochien|frmeaning=From ''{{wp|brioche}}'' and ''{{tt|chien|dog}}''
+|es=Dachsbun|esmeaning=Same as English name
+|de=Backel|demeaning=From ''{{tt|backen|to bake}}'' and ''{{tt|Dackel|dachshund|}}''
+|it=Dachsbun|itmeaning=Same as English name
+|ko=바우첼 ''Bauchel''|komeaning=Transcription of Japanese name
+|zh_cmn=麻花犬 ''Máhuāquǎn''|zh_cmnmeaning=From 麻花 ''{{wp|Mahua (snack)|máhuā}}'' and {{tt|犬 ''quǎn''|dog}}
+|zh_yue=麻花犬 ''Màhfāhyún''|zh_yuemeaning=From 麻花 ''{{wp|Mahua (snack)|màhfā}}'' and {{tt|犬 ''hyún''|dog}}
+|hi=पाओपाओ ''Paopao''|himeaning=From {{tt|पाव ''pāv'' / ''पाओ'' [[Wiktionary:pão#Portuguese|pāo]]|bread}} and ''{{tt|bow-wow|onomatopoeia for a dog's bark}}''
+|th=บัลซ์เซล ''Bansel''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0926|prev=Fidough|nextnum=0928|next=Smoliv}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Backel]]
+[[es:Dachsbun]]
+[[fr:Briochien]]
+[[it:Dachsbun]]
+[[ja:バウッツェル]]
+[[zh:麻花犬]]

@@ -1,0 +1,342 @@
+{{PokémonPrevNext/Head|type=Ground|type2=Grass}}
+{{PokémonPrevNext/GO|species=Toedscruel}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0948|prev=Toedscool|nextnum=0950|next=Klawf|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Toedscruel
+|jname=リククラゲ
+|tmname=Rikukurage
+|ndex=0949
+|type1=Ground
+|type2=Grass
+|category=Woodear
+|height-ftin=6'03"
+|height-m=1.9
+|weight-lbs=127.9
+|weight-kg=58.0
+|abilitylayout=1
+|ability1=Mycelium Might
+|ability2=
+|abilityd=
+|egggroupn=1
+|egggroup1=Grass
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=2
+|evsp=0
+|expyield=180
+|lv100exp=1059860
+|gendercode=127
+|color=Black
+|catchrate=90
+|body=10
+|pokefordex=toedscruel
+|generation=9
+|friendship=50
+}}
+'''Toedscruel''' ([[List of Japanese Pokémon names|Japanese]]: '''リククラゲ''' ''Rikukurage'') is a dual-type {{2t|Ground|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Toedscool}} starting at [[level]] 30.
+
+It is [[Ecologically similar Pokémon|ecologically similar]] to {{p|Tentacruel}}; however, the two are separate species.
+
+==Biology==
+Toedscruel is a large mushroom-like Pokémon whose physical appearance heavily resembles {{p|Tentacruel}}, although the two species are biologically unrelated.<ref>{{p|Toedscool}}'s [[Pokédex]] entry confirms that it is not related to {{p|Tentacool}}.</ref> Its upper body resembles a mushroom cap and is black in color, with three circular pink protrusions on top; one of these protrusions is much smaller than the others and sits in the front and center of the cap. The rim on Toedscruel's cap is beige in color and has multiple folds, and serves as a popular food item. Below Toedscruel's cap is its beige-colored lower body, which contains two slanted eyes, a black tube-like mouth with yellow lips, and ten tentacles resembling {{wp|mycelium}}. The tentacles are beige on top and yellow at the bottom. 
+
+Toedscruel eats by wrapping prey with its tentacles and sucking out their nutrients, which causes the prey pain. Toedscruel form colonies deep within forests, and they do not appreciate incoming strangers. Rather than running, it jumps forward on its springy tentacles.
+
+Toedscruel and its pre-Evolution, {{p|Toedscool}}, are the [[Signature Ability|only known Pokémon]] that can have {{a|Mycelium Might}} as an [[Ability]].
+
+===Evolution===
+Toedscruel evolves from {{p|Toedscool}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Ground
+|type2=Grass
+|pictype=art
+|no1=0948
+|name1=Toedscool
+|type1-1=Ground
+|type2-1=Grass
+|evo1=
+|no2=0949
+|name2=Toedscruel
+|type1-2=Ground
+|type2-2=Grass}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground|type2=Grass}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=245|reg2=Kitakami|num2=75|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{ground color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{ground color light}}; background:#{{ground color light}} | [[File:Pokédex Image Toedscruel SV.png|x200px]]
+|style="border:2px solid #{{ground color light}}; background:#{{ground color light}} | [[File:Pokédex Image Toedscruel SV Kitakami.png|x200px]]
+|-
+| Toedscruel in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Toedscruel in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ground|type2=Grass}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=North Province: [[Socarrat Trail]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Toedscruel|4★}}, {{DL|List of 6★ Tera Raid Battles (Paldea)|Toedscruel|6★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Kitakami Wilds]], [[Timeless Woods]]}}
+|}
+|}
+|}
+
+====In side games====
+
+===Held items===
+{{HeldItems/header|type=Ground|type2=Grass}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=FFF|tcolor2=FFF|Pokémon Scarlet and Violet}}
+{{HeldItems/Items1|Tiny Mushroom|30}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ground
+|type2=Grass
+|HP=80
+|Attack=70
+|Defense=65
+|SpAtk=80
+|SpDef=120
+|Speed=100
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|type2=Grass
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  100
+|Ground=   50
+|Rock=     50
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=   100
+|Electric=  0
+|Psychic= 100
+|Ice=     400
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|ground=yes
+|newelectric=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Toedscruel|Ground|Grass|9}}
+{{learnlist/level9|1|Reflect Type|Normal|Status|—|—|15}}
+{{learnlist/level9|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level9|1|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level9|4|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|8|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|8|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/level9|12|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level9|15|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|16|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|20|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|24|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/level9|28|Hex|Ghost|Special|65|100|10}}
+{{learnlist/level9|34|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|40|Spore|Grass|Status|—|100|15}}
+{{learnlist/level9|44|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|48|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|54|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|58|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/levelf/9|Toedscruel|Ground|Grass|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Toedscruel|Ground|Grass|9}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tmf/9|Toedscruel|Ground|Grass|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Toedscruel|Ground|Grass|9}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Acupressure|Normal|Status|—|—|30}}
+{{learnlist/breed9|{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}{{MSP/H|0908|Meowscarada}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed9|{{MSP/H|0930|Arboliva}}|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Rapid Spin|Normal|Physical|50|100|40}}
+{{learnlist/breed9|{{MSP/H|0270|Lotad}}|Tickle|Normal|Status|—|100|20|*}}
+{{learnlist/breed9|{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}|Toxic|Poison|Status|—|90|10}}
+{{learnlist/breedf/9|Toedscruel|Ground|Grass|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Toedscruel|Ground|Grass|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Toedscruel|Ground|Grass|9}}
+
+===Side game data===
+{{Spindata/Head|type=Ground|type2=Grass}}
+{{Spindata/GO|col=6|type=Ground|ndex=0949
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=190
+|attack=166
+|defense=209
+|fast={{m|Mud Shot}}, {{m|Mud-Slap}}
+|special={{m|Earth Power}}, {{m|Seed Bomb}}, {{m|Acid Spray}}, {{m|Wrap}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Ground
+|type2=Grass
+|pictype=art
+|no1=0948
+|name1=Toedscool
+|type1-1=Ground
+|type2-1=Grass
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0949
+|name2=Toedscruel
+|type1-2=Ground
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=ground|type2=grass}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0949}}-->
+{{Spritebox/HOME|ndex=0949}}
+{{Spritebox/Footer|949|Toedscruel}}
+
+==In animation==
+[[File:Toedscruel anime.png|thumb|250px|Toedscruel in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+
+====Minor appearances====
+Toedscruel debuted in ''[[HZ031|Song Within the Mist]]'', as part of {{TP|Lucius|Lapras}}'s crew. It reappeared in ''[[HZ032|Lapras's Feelings for its Friends]]''.
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Toedscruel (TCG)}}
+
+==Trivia==
+* Toedscruel is tied with {{p|Claydol}} for the highest base {{stat|Special Defense}} stat of all {{type|Ground}} Pokémon.
+* Toedscruel is the only {{type|Ground}} Pokémon {{DL|List of Pokémon by shape|Pokémon with tentacles or a multiped body|with tentacles}}.
+* Toedscruel, {{p|Tentacruel}}, and their respective [[Evolution|pre-Evolutions]] have exactly the same base stats in the same distribution. They also have the same levels for Evolution.
+* Toedscruel's {{type|Ground}} is strong against Tentacruel's {{type|Poison}}, but weak to its {{type|Water}}. Similarly, Toedscruel's {{type|Grass}} is strong against Tentacruel's Water-type, but weak to its Poison-type.
+* In the game code of Scarlet and Violet, {{p|Toedscool}} and Toedscruel are referred to as "OKAKINGU" and "OKAGYARADOSU" respectively, suggesting they replaced a scrapped idea of an evolutionary line based on the {{p|Magikarp}} line.
+* {{p|Toedscool}}, Toedscruel, and {{p|Brute Bonnet}} continue the trend of odd-numbered generations introducing Pokémon that appear to be based on fungi, with the {{p|Paras}}, {{p|Shroomish}}, {{p|Foongus}}, and {{p|Morelull}} lines before them.
+
+===Origin===
+Toedscruel appears to be based on {{wp|mushroom}}s — specifically a {{wp|wood ear}} mushroom, known as {{j|木耳 / キクラゲ}} ''kikurage'' (literally "tree jellyfish") in Japan, hence its similarities to the jellyfish-based {{p|Tentacruel}}. The fact that it physically resembles Tentacruel may also be a reference to {{wp|convergent evolution}} or {{wp|parallel evolution}}, which can lead to separate organisms independently developing similar or identical characteristics and body plans. 
+
+Toedscruel's pink protrusions may derive from the {{wp|guttation}} droplets of certain fungi, such as the ''{{wp|Hydnellum peckii}}'' which produces red droplets similar in appearance to {{p|Tentacool}} and Tentacruel's red orbs.
+
+====Name origin====
+Toedscruel may be a combination of ''toadstool'' (another name for mushroom), ''toed'' (having toes), and ''{{p|Tentacruel}}''.
+
+Rikukurage may be a combination of 陸 ''riku'' (land), 木耳 ''kikurage'' ({{wp|Auricularia auricula-judae|jelly ear}}), and ドククラゲ ''Dokukurage'' (Tentacruel).
+
+==In other languages==
+{{Other languages|type=Ground|type2=Grass
+|ja=リククラゲ ''Rikukurage''|jameaning=From {{tt|陸 ''riku''|land}}, {{tt|木耳 ''kikurage''|jelly ear}}, and {{tt|ドククラゲ ''Dokukurage''|Tentacruel}}
+|fr=Terracruel|frmeaning=From ''{{tt|terre|earth}}'' and ''Tentacruel''
+|es=Toedscruel|esmeaning=Same as English name
+|de=Tenterra|demeaning=From ''{{tt|Tentoxa|Tentacruel}}'' and ''{{tt|terra|Latin for earth}}''
+|it=Toedscruel|itmeaning=Same as English name
+|ko=육파리 ''Yukpari''|komeaning=From {{tt|육 (陸) ''yuk''|land}} and {{tt|독파리 ''Tokpari''|Tentacruel}}
+|zh_cmn=陸地水母 ''Lùdìshuǐmǔ''|zh_cmnmeaning=From {{tt|陸地 / 陆地 ''lùdì''|land}} and {{tt|毒刺水母 ''Dúcìshuǐmǔ''|Tentacruel}}
+|zh_yue=陸地水母 ''Luhkdeihséuimóuh''|zh_yuemeaning=From {{tt|陸地 ''luhkdeih''|land}} and {{tt|毒刺水母 ''Duhkchiséuimóuh''|Tentacruel}}
+|hi=ज़मीन्टाक्रूअल ''Zameentacruel''|himeaning=From {{tt|ज़मीन ''zamīn''| ground/land}} and {{p|Tentacruel|टेंटाक्रूअल ''Tentacruel''}}
+|th=ริคุคุราเกะ ''Rikhukhurake''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Ecologically similar Pokémon]]
+
+==References==
+<references/>
+
+==External links==
+
+{{Ecologically similar Pokémon}}
+
+{{PokémonPrevNext/Head|type=Ground|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0948|prev=Toedscool|nextnum=0950|next=Klawf}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Tenterra]]
+[[es:Toedscruel]]
+[[fr:Terracruel]]
+[[it:Toedscruel]]
+[[ja:リククラゲ]]
+[[zh:陆地水母]]

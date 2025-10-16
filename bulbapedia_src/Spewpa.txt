@@ -1,0 +1,393 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Spewpa}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0664|prev=Scatterbug|nextnum=0666|next=Vivillon|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Spewpa
+|jname=コフーライ
+|jtranslit=Kofūrai
+|tmname=Kofuurai
+|category=Scatterdust
+|typebox=1
+|type1=Bug
+|abilityn=d
+|ability1=Shed Skin
+|abilityd=Friend Guard
+|ndex=0665
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=18.5
+|weight-kg=8.4
+|egggroupn=1
+|egggroup1=Bug
+|gendercode=127
+|eggcycles=15
+|evtotal=2
+|evde=2
+|lv100exp=1,000,000
+|color=Black
+|catchrate=120
+|body=05
+|pokefordex=spewpa
+|generation=6
+|friendship=70
+|expyield=75
+}}
+'''Spewpa''' ([[List of Japanese Pokémon names|Japanese]]: '''コフーライ''' ''Kofuurai'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Scatterbug}} starting at [[level]] 9 and evolves into {{p|Vivillon}} starting at level 12. Scatterbug and Spewpa each have [[#Form data|20 visually indistinct forms]] that determine the {{fd|Vivillon|form}} of Vivillon they evolve into.
+
+==Biology==
+Spewpa is small, cocoon-like {{OBP|Pokémon|species}} mostly hidden by sharp white fur with square particles of red, black, and pale yellow in and around the fur. Poking out of the top of its fur is its large, round head. The head is light gray in the back with a darker gray face. There is a beige dot over each eye and the face is bisected by a thin, black line that ends in a beige triangle at the top of the head. Its eyes are also beige with square, black pupils.
+
+In order to defend itself from predators such as {{p|Rufflet}}, Spewpa will bristle its fur or spray a poisonous black powder. Spewpa is a nomadic Pokémon, travelling across fields and mountains while building up energy for it to evolve. However, it generally inhabits the shadows of thickets.
+
+===Evolution===
+Spewpa evolves from {{p|Scatterbug}} and evolves into {{p|Vivillon}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=bug
+|pictype=art
+|no1=0664
+|name1=Scatterbug
+|type1-1=Bug
+|evo1=
+|no2=0665
+|name2=Spewpa
+|type1-2=Bug
+|evo2=
+|no3=0666
+|name3=Vivillon
+|type1-3=Bug
+|type2-3=Flying}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=021|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The beaks of bird Pokémon can't begin to scratch its stalwart body. To defend itself, it spews powder.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The beaks of bird Pokémon can't begin to scratch its stalwart body. To defend itself, it spews powder.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=36|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=If {{p|Rufflet}} attacks this Pokémon by pecking at it, it will retaliate with its sharp fur and poisonous black powder.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Spewpa doesn't live in a fixed location. It roams where it pleases across the fields and mountains, building up the energy it needs to evolve.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{bug color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Spewpa SV.png|x200px]]
+|-
+| Spewpa in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=bug}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{kal|Berry fields}} ([[Berry|Berry trees]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Scatterbug}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Four)|Area Four]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 4|Renegade Meadow: Stage 4]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Shrub Forest|Leafy Expanse: Shrub Forest]] <small>(All Areas)</small>, [[Dark Land#Boundless Prairie|Dark Land: Boundless Prairie]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Greninja Sea]], [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 219]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=     45
+|Attack= 22
+|Defense=60
+|SpAtk=  27
+|SpDef=  30
+|Speed=  29}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=bug
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=  100
+|Ground=   50
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Spewpa|Bug|Bug|6}}
+{{learnlist/level9|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Protect|Normal|Status|—|—|10}}
+{{learnlist/levelf/9|Spewpa|Bug|Bug|6}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Spewpa|Bug|Bug|6}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tmf/9|Spewpa|Bug|Bug|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Spewpa|Bug|Bug|6}}
+{{learnlist/breed9|{{MSP/H|0048|Venonat}}{{MSP/H|0049|Venomoth}}{{MSP/H|0666-Fancy|Vivillon}}|Poison Powder|Poison|Status|—|75|35|grid=3}}
+{{learnlist/breed9|{{MSP/H|0637|Volcarona}}|Rage Powder|Bug|Status|—|—|20|grid=3}}
+{{learnlist/breedf/9|Spewpa|Bug|Bug|6}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Spewpa|Bug|Bug|6}}
+{{learnlist/prevo9|0664|Scatterbug|||||Tackle|Normal|Physical|40|100|35}}
+{{learnlist/prevo9|0664|Scatterbug|||||String Shot|Bug|Status|—|95|40}}
+{{learnlist/prevo9|0664|Scatterbug|||||Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/prevof/9|Spewpa|Bug|Bug|6}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/PSMD|col=6|type=Bug|ndex=665
+|coset=3
+|conto={{p|Ledian}}, {{p|Nosepass}}, {{p|Staravia}}, {{p|Mothim}}
+|recruitment=Talk to in [[Lively Town]]
+|P1=I have no idea why, but... my fur's bristled!
+|P2=Don't come any closer! I'll scatter powder!
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=665
+|walk=2.92
+|hp=46
+|attack=60
+|defense=46
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=665
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=665|num=283
+|min=40
+|max=115
+|raisemaxlevel=15
+|skill=Eject
+|skilldesc=Removes one non-Support Pokémon icon without fail.
+|swapper=Shot Out
+}}
+|-
+{{Spindata/GO
+| col = 6
+| type = Bug
+| ndex = 665
+| hatch = N/A
+| buddy = 1
+| candy = Scatterbug
+| evocandy = 100
+| stamina = 128
+| attack = 48
+| defense = 89
+| fast = {{m|Struggle Bug}}
+| special = {{m|Struggle}}
+}}
+|}
+
+===Form data===
+{{p|Scatterbug}} and Spewpa each have 20 forms internally, one for each {{p|Vivillon}} pattern. This determines the {{fd|Vivillon|form}} of Vivillon they will eventually evolve into, and is determined when they are first generated; for {{pkmn|Egg}}s, this means the game in which the Egg was created, regardless of parents.
+
+In [[Generation VI]] and [[Generation VII]], its internal form depends on which geographic location the user specified on the [[Nintendo 3DS]] at the time the save file was created. Due to {{DL|Software region|Nintendo 3DS|region locking}}, a Nintendo 3DS system can only pick from a certain subset of geographic locations, depending on which region the system is from. For a comprehensive list, see [[List of Nintendo 3DS country and region settings]].
+
+In {{g|Scarlet and Violet}}, all [[Pokémon breeding|hatched]] Scatterbug will evolve into Fancy Pattern Vivillon, regardless of [[Gift#Postcards|Postcard]] effects. Scatterbug and Spewpa caught with a Postcard active will evolve into the pattern of Vivillon corresponding to the Postcard. If a Scatterbug or Spewpa came from another game like {{g|GO}}, it will retain the pattern it was assigned in its original game.
+
+===Evolution data===
+{{Evobox-3
+|type1=bug
+|pictype=art
+|no1=0664
+|name1=Scatterbug
+|type1-1=Bug
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 9}}
+|no2=0665
+|name2=Spewpa
+|type1-2=Bug
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 12}}
+|no3=0666
+|name3=Vivillon
+|type1-3=Bug
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=bug}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=665|crop=44}}
+{{Spritebox/7|ndex=665|crop=46}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9|ndex=0665}}-->
+{{Spritebox/HOME|ndex=0665}}
+{{Spritebox/Footer|665|Spewpa}}
+
+==In animation==
+[[File:Spewpa anime.png|thumb|250px|Spewpa in {{aniseries|XY}}]]
+===Main series===
+====Major appearances====
+Multiple Spewpa appeared in ''[[XY012|To Catch a Pokémon Smuggler!]]'', all of which had earlier evolved from Scatterbug, including one of them that {{Ash}} and {{ashfr}} helped out. One of the Spewpa later [[Evolution|evolved]] into a Vivillon while battling with [[Dolan]]'s {{p|Diggersby}}, and the rest evolved afterwards.
+
+Six Spewpa appeared in ''[[XY121|Seeing the Forest for the Trees!]]'' in the [[Kalos Route 20|Winding Woods]]. Ash and {{AP|Greninja}} had to save them from freezing in a blizzard, and later ended up saving one of the Spewpa from falling off a cliff. This helped them to master the Ash-Greninja form. Afterwards, they all evolved into Meadow Pattern Vivillon. Two of them reappeared in a flashback in ''[[XY139|Facing the Needs of the Many!]]'', ''[[XY140|Till We Compete Again!]]'', and ''[[JN108|Catching the Aura of Fate!]]'' as Spewpa.
+
+====Minor appearances====
+Spewpa debuted in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+Three Spewpa appeared in ''[[XY084|Adventures in Running Errands!]]'', all under the ownership of a {{pkmn|Trainer}}.
+
+A Trainer's Spewpa appeared in ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY012|Spewpa|Ash's Pokédex|Spewpa, the Scatterdust Pokémon. When Spewpa is attacked, it scares its enemies away by stiffening and spreading its fur like wings.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+===POKÉTOON===
+A Spewpa appeared in [[PT12]].
+
+==In the manga==
+[[File:Lumiose Press editor-in-chief Spewpa Adventures.png|250px|thumb|right|Spewpa in [[Pokémon Adventures]]]]
+[[File:Spewpa ANN.png|thumb|left|200px|Spewpa in [[After the Rain, Goomy.]]]]
+===Pokémon Adventures===
+Two Spewpa were used by the [[Lumiose Press editor-in-chief]] in ''[[PS562|Pangoro Poses a Problem]]'', to stop {{adv|X}} from protecting [[Alexa]]. With their {{m|Rage Powder}}, the Spewpa prevented X's [[Marisso]] and [[Salamè]] from listening to X's commands. Eventually, both were defeated, but X's Pokémon were left exhausted afterward.
+
+===After the Rain, Goomy.===
+A Spewpa appeared in [[After the Rain, Goomy.]]
+{{-}}
+
+==In the TCG==
+{{main|Spewpa (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+[[File:Spewpa SSB4.png|thumb|240px|Spewpa in [[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for 3DS.]]]]
+Spewpa appears as a {{i|Poké Ball}} summon. It uses {{m|Stun Spore}} to temporarily stun any nearby opponents that attack it, but doesn't move otherwise.
+
+[[File:Spewpa_3DS_trophy_SSB4.png|thumb|150px|Spewpa trophy in ''Super Smash Bros. for 3DS'']]
+Spewpa also appears as a trophy in both versions of the game.
+
+====Trophy information====
+'''NA''': ''Spewpa, the Scatterdust Pokémon. This Bug-type Pokémon can harden its body to protect against attacks. If attacked in Smash Bros., it'll bristle up and paralyze its opponent with Stun Spore. However, it won't do anything if you don't attack it. Don't mess with it—it won't mess with you. ''
+
+'''PAL''': ''Spewpa, the Scatterdust Pokémon. This Bug-type Pokémon can harden its body to protect against attacks. In this game, it might bristle up and paralyse you with Stun Spore. "How ever can I avoid such a terrible fate?", you ask? Just leave it alone. Don't mess with Spewpa, and Spewpa won't mess with you. ''
+
+===[[Super Smash Bros. Ultimate]]===
+Spewpa returns as a Pokémon summoned from the Poké Ball, retaining the same behavior from the previous game.
+{{-}}
+
+==Trivia==
+* Spewpa and its evolutionary relatives are the only:
+** {{type|Bug}} Pokémon introduced in [[Generation VI]].
+** {{cat|Generation VI Pokémon}} in the {{egg|Bug}} [[Egg Group]].
+* Spewpa is [[List of Pokémon with unique base stat totals|the only Pokémon]] with a base stat total of 213.
+* Spewpa can learn {{m|Iron Defense}} from a [[Move Tutor]], but its Evolution, {{p|Vivillon}}, cannot.
+* Spewpa and its pre-evolved form, {{p|Scatterbug}}, are the only {{DL|List of Pokémon by color|black}} Bug-type Pokémon.
+
+===Origin===
+Spewpa is likely based on the larval forms of certain members of the {{wp|Tineidae}} family, such as the {{wp|carpet moth}} and {{wp|Tinea pellionella|case-bearing clothes moth}}, which construct snug cases of fibres and hairs that leave their heads exposed. The square powder on Spewpa's body might be based on {{wp|confetti}} or screen {{wp|pixel}}s.
+
+Considering its evolutionary relatives, Spewpa may also represent a generic {{wp|pupa}} of a moth or butterfly, particularly {{wp|silkworm}} cocoons. The way it uses its hairs to protect itself from predation may be a reference to the {{wp|urticating hairs}} of some caterpillars that are incorporated into their cocoons for protection.
+
+====Name origin====
+Spewpa may be a combination of ''spew'' and ''{{wp|pupa}}''.
+
+Kofuurai may be a combination of 小 ''ko'' (small) or 粉 ''ko'' (powder) and 風来人 ''furaijin'' (wanderer).
+
+==In other languages==
+{{Other languages|type=bug|type2=bug
+|ja=コフーライ ''Kofūrai''|jameaning=From {{tt|小 ''ko''|small}}, {{tt|粉 ''ko''|powder}}, and {{tt|風来人 ''furaijin''|wanderer}}
+|fr=Pérégrain |frmeaning=From ''{{tt|pérenniser|to sustain or perpetuate}}'', ''{{tt|pérégriner|to peregrinate}}'' and ''grain''
+|es=Spewpa |esmeaning=Same as English name
+|de=Puponcho |demeaning=From ''{{tt|Puppe|pupa}}'' and ''Poncho''
+|it=Spewpa |itmeaning=Same as English name
+|ko=분떠도리 ''Bunddeodori''|komeaning=From {{tt|분 (粉) ''bun''|powder}} and {{tt|떠돌이 ''ddeodor-i''|wanderer}}
+|zh_cmn=粉蝶蛹 ''Fěndiéyǒng''|zh_cmnmeaning=From {{tt|鱗粉 / 鳞粉 ''línfěn''|scale}}, {{tt|蝶 ''dié''|butterfly}}, and {{tt|蛹 ''yǒng''|chrysalis}}
+|zh_yue=粉蝶蛹 ''Fándihpyúng''|zh_yuemeaning=From {{tt|鱗粉 ''lèuhnfán''|scale}}, {{tt|蝶 ''dihp''|butterfly}}, and {{tt|蛹 ''yúng''|chrysalis}}
+|hi=फैलावारा ''Failavara''|himeaning=From {{tt|फैलाना ''phailānā''|to spread}} and {{tt|आवारा ''āvārā''|wanderer}}
+|ru=Спьюпа ''Sp'yupa''|rumeaning=Transcription of English name
+|th=โคฟูไร ''Khofurai''|thmeaning=Transcription of Japanese name
+}}
+
+==External links==
+
+{{Smash Bros.}}
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0664|prev=Scatterbug|nextnum=0666|next=Vivillon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Super Smash Bros. trophies]]
+
+[[de:Puponcho]]
+[[es:Spewpa]]
+[[fr:Pérégrain]]
+[[it:Spewpa]]
+[[ja:コフーライ]]
+[[zh:粉蝶蛹]]

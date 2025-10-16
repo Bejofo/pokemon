@@ -1,0 +1,608 @@
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/GO|species=Tyrogue}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=0235|prev=Smeargle|nextnum=0237|next=Hitmontop|round=none}}
+{{PokémonPrevNext/Disambig|species=Tyrogue}}
+|}
+{{Pokémon Infobox
+|name=Tyrogue
+|jname=バルキー
+|jtranslit=Barukī
+|tmname=Balkie
+|ndex=0236
+|typebox=1
+|type1=Fighting
+|category=Scuffle
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=46.3
+|weight-kg=21.0
+|abilityn=d
+|ability1=Guts
+|ability2=Steadfast
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Vital Spirit
+|egggroupn=1
+|egggroup1=No Eggs Discovered
+|eggcycles=25
+|evtotal=1
+|evat=1
+|expyield=42
+|oldexp=91
+|lv100exp=1,000,000
+|gendercode=0
+|color=Purple
+|catchrate=75
+|body=12
+|pokefordex=tyrogue
+|generation=2
+|friendship=70
+}}
+'''Tyrogue''' ([[List of Japanese Pokémon names|Japanese]]: '''バルキー''' ''Balkie'') is a {{type|Fighting}} [[baby Pokémon]] introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s into one of [[Hitmons|three different Pokémon]] starting at [[level]] 20:
+* Tyrogue evolves into {{p|Hitmonlee}} if its {{stat|Attack}} is higher than its {{stat|Defense}}.
+* Tyrogue evolves into {{p|Hitmonchan}} if its Defense is higher than its Attack.
+* Tyrogue evolves into {{p|Hitmontop}} if its Attack and Defense stats are equal.
+
+==Biology==
+Tyrogue is a {{wp|humanoid}}  {{OBP|Pokémon|species}} with a predominantly pale purple body and brown hips and feet that resemble short pants and shoes. It has three blunt protrusions on top of its head, yellow eyes, and circular sections on each side of its head that resemble protective padding. There are white bands resembling bandages on its torso and wrists. It has thin limbs, and its hands have three fingers each. Tyrogue is a male-only species with no female counterpart.
+
+Tyrogue is famous for its eagerness to compete and boundless energy, to such an extent that it will challenge anyone, even larger foes. This is the famous intense desire that Tyrogue is known for. Determined to make itself stronger, Tyrogue will not quit no matter how many times it loses. While it is small, Tyrogue should not be ignored as it can slug a target without warning. As a result, it is always nursing its injuries from fighting opponents larger than itself. As Tyrogue becomes stressed if it is not able to train every day, its {{pkmn|Trainer}} must maintain a regular training schedule. It is usually found in {{DL|List of Pokémon by habitat|Urban Pokémon|urban areas.}} The training Tyrogue does influences its possible [[Evolution]] into  either {{p|Hitmonlee}}, {{p|Hitmonchan}}, or {{p|Hitmontop}}.
+
+===Evolution===
+Tyrogue evolves into either {{p|Hitmonlee}}, {{p|Hitmonchan}} or {{p|Hitmontop}}.
+
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch3
+|type1=Fighting
+
+|art1=0236Tyrogue
+|no1=0236
+|name1=Tyrogue
+|type1-1=Fighting
+|breed=
+
+|evo1a=
+|art2a=0106Hitmonlee
+|no2a=0106
+|name2a=Hitmonlee
+|type1-2a=Fighting
+
+|evo1b=
+|art2b=0107Hitmonchan
+|no2b=0107
+|name2b=Hitmonchan
+|type1-2b=Fighting
+
+|evo1c=
+|art2c=0237Hitmontop
+|no2c=0237
+|name2c=Hitmontop
+|type1-2c=Fighting
+}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fighting}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=143}}
+{{Dex/Entry1|v=Gold|entry=It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.}}
+{{Dex/Entry1|v=Silver|entry=Even though it is small, it can't be ignored because it will slug any handy target without warning.}}
+{{Dex/Entry1|v=Crystal|entry=To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Even though it is small, it can't be ignored because it will slug any handy target without warning. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Tyrogue</sc> becomes stressed out if it does not get to train every day. When raising this {{ScPkmn}}, the <sc>Trainer</sc> must establish and uphold various training methods.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=<sc>Tyrogue</sc> become stressed out if they do not get to train every day. When raising this {{ScPkmn}}, the <sc>Trainer</sc> must establish a regular training schedule.}}
+{{Dex/Entry1|v=FireRed|entry=Even though it is small, it can't be ignored because it will slug any handy target without warning.}}
+{{Dex/Entry1|v=LeafGreen|entry=It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=145}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.}}
+{{Dex/Entry1|v=HeartGold|entry=It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.}}
+{{Dex/Entry1|v=SoulSilver|entry=Even though it is small, it can't be ignored because it will slug any handy target without warning.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|entry=Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=107|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Even though it is small, it can't be ignored because it will slug any handy target without warning.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=92}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This earnest Pokémon battles all sorts of opponents, searching for the fighting style that suits it best.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Its intense desire to become stronger and stronger drives it to recklessly train its body and challenge any opponent it can find to battle.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{fighting color dark}}; background:#{{fighting color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{fighting color dark}}; background:#{{fighting color light}}; {{roundy|5px}};" | [[File:Pokédex Image Tyrogue SV Blueberry.png|x200px]]
+|-
+| Tyrogue in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Fighting}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[List of in-game event Pokémon in Generation II#Tyrogue|Received]] from [[Kiyo]] in [[Mt. Mortar]]}}
+{{Availability/Entry1|v=Crystal|area=[[List of in-game event Pokémon in Generation II#Tyrogue|Received]] from [[Kiyo]] in [[Mt. Mortar]]<br>{{rt|34|Johto}} ([[Odd Egg]]{{tt|*|The Pokémon in the Egg is random}})}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{pkmn|breeding|Breed}} {{p|Hitmonchan}} or {{p|Hitmonlee}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|208|Sinnoh}} and {{rtn|211|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|211|Sinnoh}} (west side, [[Poké Radar]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[List of in-game event Pokémon in Pokémon HeartGold and SoulSilver#Tyrogue|Received]] from [[Kiyo]] in [[Mt. Mortar]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|10|Unova}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Rugged Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Fighting-type Safari|Fighting]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{rt|112|Hoenn}}, [[Jagged Pass]], [[Fiery Path]] ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|3|Galar}}, [[Rolling Fields]], [[Dappled Grove]], [[West Lake Axewell]], [[South Lake Miloch]], [[Giant's Seat]], [[Stony Wilderness]]<br>[[Dusty Bowl/Dens|Dusty Bowl]], [[North Lake Miloch/Dens|North Lake Miloch]], [[Rolling Fields/Dens|Rolling Fields]], [[South Lake Miloch/Dens|South Lake Miloch]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Frostpoint Field/Dens|Frostpoint Field]], [[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Route]]s {{rtn|208|Sinnoh}} and {{rtn|211|Sinnoh}} ([[Poké Radar]])<br>[[Grand Underground]] - [[Spacious Cave]], [[Grassland Cave]], [[Sunlit Cavern]], [[Riverbank Cave]], [[Still-Water Cavern]], [[Whiteout Cave]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Canyon Biome]], [[Chargestone Cavern]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Blueberry Academy)|Tyrogue|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fighting}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|5|Phobos Walker}}, Endless Level 14, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Steel]] (5F-8F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area={{OBP|Mt. Travail|Explorers of Time, Darkness, and Sky}} (1F-19F), [[Lost Wilderness]] (B1F-B17F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area={{OBP|Mt. Travail|Explorers of Time, Darkness, and Sky}} (1F-19F), [[Lost Wilderness]] (B1F-B17F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Pueltown]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Mt. Latolato]], [[Fire Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lava: [[Volcanic Slope]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#Fighters on Ice|Secret Warehouse: Fighters on Ice]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 2|Mysterious Fountain: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Revival Mountain|Gold Plateau: Revival Mountain]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Snorlax Sea]], [[Entei Sea]], [[Lugia Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Entei Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Mt. Steel]] (1F-8F), [[Buried Relic]] (11F-14F, 16F-17F), [[Wish Cave]] (11F-14F), [[Purity Forest]] (13F-14F), [[Marvelous Sea]] (16F-17F), [[Fantasy Strait]] (16F-19F)<br/>Fainted Pokémon: [[Thunderwave Cave]], [[Solar Cave]], [[Grand Sea]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Daily Pokémon#The Daily Pokémon (#6)|The Daily Pokémon (#6)]]''}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Egg event]] (''{{DL|Egg event|Raise Tyrogue!}}''): {{sync/player|egg|Tyrogue}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Fighting}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Rage Tyrogue|English|United States|5|January 24 to 30, 2003|link=List of PCNY event Pokémon distributions in Generation II#Rage Tyrogue}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fighting
+|HP=35
+|Attack=35
+|Defense=35
+|SpAtk=35
+|SpDef=35
+|Speed=35
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Fighting
+|Speed=4
+|SpeedMax=4
+|Power=2
+|PowerMax=4
+|Technique=4
+|TechniqueMax=4
+|Stamina=2
+|StaminaMax=2
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fighting
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200}}
+
+===Learnset===
+Tyrogue is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Tyrogue|Fighting|Fighting|2}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/level9|1|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/levelf/9|Tyrogue|Fighting|Fighting|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Tyrogue|Fighting|Fighting|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM064|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM184|Vacuum Wave|Fighting|Special|40|100|30||'''}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM229|Upper Hand|Fighting|Physical|65|100|15||'''}}
+{{learnlist/tmf/9|Tyrogue|Fighting|Fighting|2}}
+
+====By {{pkmn|breeding}}====
+
+{{learnlist/breedh/9|Tyrogue|Fighting|Fighting|2}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}|Bullet Punch|Steel|Physical|40|100|30|grid=3}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}{{MSP/H|0237|Hitmontop}}|Counter|Fighting|Physical|—|100|20|grid=3}}
+{{learnlist/breed9|{{MSP/H|0106|Hitmonlee}}{{MSP/H|0107|Hitmonchan}}{{MSP/H|0237|Hitmontop}}|Feint|Normal|Physical|30|100|10|grid=3}}
+{{learnlist/breed9|{{MSP/H|0106|Hitmonlee}}|High Jump Kick|Fighting|Physical|130|90|10||'''|grid=3}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}|Mach Punch|Fighting|Physical|40|100|30||'''|grid=3}}
+{{learnlist/breed9|{{MSP/H|0237|Hitmontop}}|Rapid Spin|Normal|Physical|50|100|40|grid=3}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}|Vacuum Wave|Fighting|Special|40|100|30||'''|grid=3}}
+{{learnlist/breedf/9|Tyrogue|Fighting|Fighting|2}}
+
+====[[Animated series move errors|Animated series-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{fighting color}}; border: 3px solid #{{fighting color dark}}"
+|-
+! style="background: #{{fighting color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{fighting color light}}" | Type
+! style="background: #{{fighting color light}}; {{roundytr|5px}}" | Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Jump Kick}}
+| style="background:#{{Fighting color}}" | {{typecolor|Fighting}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[EP233|A Tyrogue Full of Trouble]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Fighting}}
+{{Spindata/Trozei|col=6|type=Fighting|ndex=236|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Fighting|ndex=236
+|body=1
+|rate=8
+|area=Mt. Discipline
+|P1=It doesn't matter how often I lose, I don't give up!
+|P2=Shoot... My health is down by half already?
+|P3=I can't take this... I don't want to lose, but... I feel faint...
+|PL=Up goes my level! I won't lose now!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Fighting|ndex=236
+|body=1
+|rate=6.4
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Fighting|ndex=236
+|coset=8
+|conto={{p|Sunkern}}, {{p|Elekid}}, {{p|Cranidos}}
+|recruitment=Rescue {{p|Elekid}}
+|P1=I love fighting! Did you see anyone my size around here?
+|P2=I'm going to lose...
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Fighting
+|group=Fighting
+|assist=Fighting
+|field=Crush
+|fieldpower=1
+|num=061
+|browser=It dashes about quickly and throws punches to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Fighting
+|group=Fighting
+|assist=Fighting
+|field=Crush
+|fieldpower=1
+|num=100
+|pastnum=070
+|browser=It creates shock waves around itself that make Pokémon Paused.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Fighting
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Fighting|ndex=236
+|walk=2.18
+|hp=43
+|attack=61
+|defense=43
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fighting|ndex=236
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Fighting|ndex=236|num=564
+|min=30
+|max=100
+|raisemaxlevel=10
+|skill=Paralyze
+|skilldesc=Leaves the foe paralyzed.
+}}
+|-
+{{Spindata/GO|col=6|type=Fighting|ndex=236
+|hatch=N/A
+|buddy=5
+|candy=Tyrogue
+|evocandy=25
+|stamina=111|attack=64|defense=64
+|fast={{m|Rock Smash}}, {{m|Tackle}}
+|special={{m|Brick Break}}, {{m|Rock Slide}}, {{m|Low Sweep}}
+}}
+|}
+In [[Pokémon GO]], Tyrogue evolves into {{p|Hitmonlee}} if {{stat|Attack}} is its highest {{IV}}, {{p|Hitmonchan}} if {{stat|Defense}} is its highest IV, or {{p|Hitmontop}} if [[HP]] is its highest IV. If there is a tie for its highest IV between two stats, it evolves into one of the Pokémon corresponding to its highest IVs at random. However, if all three stats are tied with the same IV, then there is an even split between evolving into Hitmontop and evolving into either Hitmonlee or Hitmonchan.
+
+===Evolution data===
+{{Evobox/1branch3
+|type1=Fighting
+
+|art1=0236Tyrogue
+|no1=0236
+|name1=Tyrogue
+|type1-1=Fighting
+|breed=[[File:Menu HOME Egg.png|link=Pokémon Egg|40px]]<br>{{color2|000|Pokémon Breeding|Breed}}
+
+|evo1a={{bag/s|Rare Candy|SV}}{{bag/s|Power Bracer|SV}}<br>{{color2|000|Level|Level 20}}<br><small>({{color2|000|Stat#Attack|Attack}} > {{color2|000|Stat#Defense|Defense}})</small>
+|art2a=0106Hitmonlee
+|no2a=0106
+|name2a=Hitmonlee
+|type1-2a=Fighting
+
+|evo1b={{bag/s|Rare Candy|SV}}{{bag/s|Power Belt|SV}}<br>{{color2|000|Level|Level 20}}<br><small>({{color2|000|Stat#Attack|Attack}} < {{color2|000|Stat#Defense|Defense}})</small>
+|art2b=0107Hitmonchan
+|no2b=0107
+|name2b=Hitmonchan
+|type1-2b=Fighting
+
+|evo1c={{bag/s|Rare Candy|SV}}{{bag/s|Macho Brace|BDSP}}<br>{{color2|000|Level|Level 20}}<br><small>({{color2|000|Stat#Attack|Attack}} = {{color2|000|Stat#Defense|Defense}})</small>
+|art2c=0237Hitmontop
+|no2c=0237
+|name2c=Hitmontop
+|type1-2c=Fighting
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Fighting}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=236}}
+{{Spritebox/3|ndex=236}}
+{{Spritebox/4|ndex=236}}
+{{Spritebox/5|ndex=236}}
+{{Spritebox/6|ndex=236|crop=69}}
+{{Spritebox/7|ndex=236|crop=69}}
+{{Spritebox/8|ndex=236}}
+<!--{{Spritebox/9|ndex=0236}}-->
+{{Spritebox/HOME|ndex=0236}}
+{{Spritebox/Footer|236|Tyrogue}}
+
+==In animation==
+[[File:Tyrogue anime.png|thumb|250px|Tyrogue in {{aniseries|DP}}]]
+===Major appearances===
+Tyrogue debuted in ''[[EP233|A Tyrogue Full of Trouble]]''. He had been abandoned by his [[Original Trainer|previous Trainer]] and was left to fend for himself. As a result, he developed a hatred towards [[human]]s. Tyrogue ended up forming a gang of {{p|Mankey}} and {{p|Primeape}}, and together, they would steal from weary travelers, such as {{Ash}} and {{ashfr}}. However, thanks to a {{tc|Black Belt}} named [[Kiyo]], who had been pursuing him, Tyrogue regained his trust of humans and ended up becoming his newest Pokémon.
+
+===Minor appearances===
+In ''[[EP272|Johto Photo Finish]]'', {{Gary}}'s demonstration featured a Tyrogue evolving into [[Hitmons|all three of his evolved forms]].
+
+In ''[[AG180|May, We Harley Drew'd Ya!]]'', a {{pkmn|Coordinator}}'s Tyrogue competed in the [[Kanto Grand Festival]].
+
+In ''[[DP146|Dressed for Jess Success!]]'', a Coordinator's Tyrogue competed in the [[Contest Battle|Battle Stage]] of the {{to|Lilypad}} {{pkmn|Contest}}. Tyrogue defeated another Coordinator's {{p|Meganium}} and made it to the final round before losing to [[James's Carnivine]].
+
+In ''[[DP175|Opposites Interact!]]'', a Coordinator's Tyrogue was at the [[Sinnoh Grand Festival]].
+
+In ''[[DP182|An Old Family Blend!]]'', a {{pkmn|Trainer}}'s Tyrogue was at the [[Lily of the Valley Conference]].
+
+In ''[[M21|The Power of Us]]'', a Tyrogue was following [[Harriet]] around.
+
+A Tyrogue appeared in a fantasy in ''[[JN034|Solitary and Menacing!]]'', under the ownership of [[Bea]].
+
+A Trainer's Tyrogue appeared in ''[[M23|Secrets of the Jungle]]''.
+
+A Trainer's Tyrogue appeared in [[HZ094]].
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP233|Tyrogue|Ash's Pokédex|Tyrogue, the Scuffle Pokémon. Tyrogue is the {{tt|evolved form|Incorrect; should have said pre-evolved form}} of {{p|Hitmonlee}} and {{p|Hitmonchan}}. It has a small but very energetic body.}}
+{{Animedexfooter/Pokémon|Johto}}
+
+==In the manga==
+[[File:Gold Tyrogue Golden Boys.png|thumb|200px|Tyrogue in [[Pokémon Gold & Silver: The Golden Boys]]]]
+[[File:Bruno Tyrogue Adventures.png|thumb|left|200px|Tyrogue in [[Pokémon Adventures]]]]
+===Ash & Pikachu===
+A Tyrogue appeared in ''[[SP12|The Tyrogue's Thoughts]]''.
+
+===Pokémon Adventures===
+In ''[[PS122|Querulous Qwilfish]]'', multiple Tyrogue assisted with the construction of the {{gdis|Battle Tower|II}}.
+
+In ''[[PS124|Scrappy Skarmory]]'', two Tyrogue helped [[Chuck's wife]] prepare for dinner in the [[Cianwood Gym]].
+
+In ''[[PS176|The Last Battle X]]'', [[Bruno]] was seen with a Tyrogue on his team.
+
+In ''[[PS392|Well Met, Weepinbell]]'', {{adv|Platinum}}'s butler, {{adv|Sebastian}}, is shown in possession of multiple Tyrogue that he used to corner {{adv|Diamond}} when he mistook him for an intruder.
+
+In ''[[PS553|Sylveon Enchants]]'', a {{tc|Battle Girl}}'s Tyrogue was at the Mini-game Corner.
+
+In ''[[PASS04|Zap!! A Rising Beam of Light]]'', a wild Tyrogue was in the [[Wild Area]].
+
+===Pokémon Gold & Silver: The Golden Boys===
+{{GnB|Gold}} received a Tyrogue as a prize from a battle tournament at the [[Goldenrod Game Corner]] in ''[[GB09|Let's Use Fighting Type Pokémon!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+[[Shu]] has a Tyrogue, as seen in [[GDZ51]]. It evolved into a Hitmontop in the same chapter.
+
+===Pokémon Pocket Monsters===
+{{main|Red's Tyrogue}}
+One of {{OBP|Red|Pocket Monsters}}'s main Pokémon in [[Pokémon Pocket Monsters]] and its sequels is a Tyrogue. It is one of the only serious Pokémon in Red's [[party|team]], often getting into fights with {{TP|Red|Clefairy}}. It was later released in [[Pocket Monsters HGSS]].
+
+==In the TCG==
+{{main|Tyrogue (TCG)}}
+
+==Trivia==
+* Tyrogue has several unique attributes:
+** It is the only {{OBP|Pokémon|species}} whose [[Evolution]] is determined by stats.
+** It is the only [[baby Pokémon]] whose stats are all equal.
+** It is the only Pokémon that created a shared [[List of Pokémon by evolutionary line|evolutionary line]] between two Pokémon that were previously unrelated.
+* Not including Evolutions into [[regional form]]s, Tyrogue is the only Pokémon introduced in [[Generation II]] to have a [[List of Pokémon with branched Evolutions|branched Evolution]].
+** Prior to the introduction of {{p|Dipplin}}, Tyrogue was the only Pokémon to have three different Evolutions.
+* If a Tyrogue is hacked into {{game|FireRed and LeafGreen|s}} before the [[National Pokédex]] is obtained, it will be able to evolve into {{p|Hitmonlee}} or {{p|Hitmonchan}}, but due to FireRed and LeafGreen preventing Evolution into non-[[Generation I]] Pokémon, it will be unable to evolve into Hitmontop.
+* While {{p|Hitmontop}} shares the [[Ability]] {{a|Steadfast}} with Tyrogue, Tyrogue cannot retain this Ability after evolving. This is because Tyrogue's Steadfast is its second Ability, while Hitmontop's Steadfast is its Hidden Ability. This trait is shared with {{p|Cubone}} and {{rf|Alolan}} {{p|Marowak}}'s Ability, {{a|Rock Head}}.
+* Tyrogue has the lowest base stat total of all {{type|Fighting}} Pokémon.
+** Tyrogue also has the lowest base {{stat|Attack}} stat of all Fighting-type Pokémon.
+
+===Origin===
+Tyrogue draws inspiration, especially in its most recent artwork, from wrestlers. The designs on Tyrogue's body resemble the uniform of most {{wp|scholastic wrestling}} teams—possibly showing its maturity as a fighter (a younger creature, while its evolved forms seem more professional). Tyrogue's head is also shaped similarly to {{wp|wrestling headgear}} meant to protect ears from long-term injury.
+
+====Name origin====
+Tyrogue may be a combination of ''tyro'' (a beginner) or ''tyke'' (child) and ''rogue'' (one who is playfully mischievous).
+
+Balkie may be a corruption of ''bulky''. It may also involve ''battle'' and ''rookie''.
+
+==In other languages==
+{{Other languages|type=Fighting|type2=Fighting
+|ja=バルキー ''Balkie''|jameaning=From ''bulky'', ''battle'', and ''rookie''
+|fr=Debugant|frmeaning=From ''{{tt|débutant|beginner}}'' and ''{{tt|gant|glove}}''
+|es=Tyrogue|esmeaning=Same as English name
+|de=Rabauz|demeaning=From ''{{tt|Rabauke|rascal}}'' and ''{{tt|Raubauz|colloquial term for rascal}}
+|it=Tyrogue|itmeaning=Same as English name
+|ko=배루키 ''Baeruki''|komeaning=Transcription of Japanese name
+|zh_cmn=無畏小子 / 无畏小子 ''Wúwèixiǎozi''{{tt|*|Games}}<br>巴爾郎 / 巴尔郎 ''Bā'ěrláng''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|無畏 / 无畏 ''wúwèi''|fearless}} and {{tt|小子 ''xiǎozi''|boy}}<br>From the partial transcription of its Japanese name and {{tt|郎 ''láng''|young male}}
+|zh_yue=無畏小子 ''Mòuhwaisíují''{{tt|*|Games}}<br>巴爾郎 ''Bāyíhlòhng''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|無畏 ''mòuhwai''|fearless}} and {{tt|小子 ''síují''|boy}}<br>From the Mandarin-based partial transcription of its Japanese name and {{tt|郎 ''lòhng''|young male}}
+|he=טיירוג ''Tayrog''|hemeaning=Transcription of English name
+|hi=फ़ाइटनौ ''Fightnow''|himeaning=From ''fight'' and ''now''
+|id={{tt|Balky|Pocket Monsters only}}|idmeaning=Same as Japanese name
+|ru=Тирог ''Tirog''|rumeaning=Transcription of English name
+|th=บัลกี ''Banki''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Red's Tyrogue]]
+* [[Hitmons]]
+* [[Baby Pokémon]]
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{Baby Pokémon}}
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=0235|prev=Smeargle|nextnum=0237|next=Hitmontop}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Baby Pokémon]]
+[[Category:Pokémon that evolve through a unique method]]
+[[Category:Pokémon with cross-generational Evolutions]]
+
+[[de:Rabauz]]
+[[es:Tyrogue]]
+[[fr:Debugant]]
+[[it:Tyrogue]]
+[[ja:バルキー]]
+[[zh:无畏小子]]

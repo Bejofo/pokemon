@@ -1,0 +1,1005 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Castform}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0350|prev=Milotic|nextnum=0352|next=Kecleon|round=none}}
+{{PokémonPrevNext/Disambig|species=Castform}}
+|}
+{{Pokémon Infobox
+|name=Castform
+|jname=ポワルン
+|jtranslit=Powarun
+|tmname=Powalen
+|forme=4
+|form1=Normal
+|form2=Sunny Form
+|form3=Rainy Form
+|form4=Snowy Form
+|image2=0351Castform-Sunny.png
+|image3=0351Castform-Rainy.png
+|image4=0351Castform-Snowy.png
+|ndex=0351
+|type1=Normal
+|form2type1=Fire
+|form3type1=Water
+|form4type1=Ice
+|category=Weather
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=1.8
+|weight-kg=0.8
+|abilitylayout=1
+|ability1=Forecast
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Amorphous
+|eggcycles=25
+|evtotal=1
+|evhp=1
+|expyield=147
+|oldexp=145
+|lv100exp=1,000,000
+|color=Gray
+|formcolors=yes
+|gendercode=127
+|catchrate=45
+|body=01
+|pokefordex=castform
+|generation=3
+|friendship=70
+}}
+'''Castform''' ([[List of Japanese Pokémon names|Japanese]]: '''ポワルン''' ''Powalen'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+While it is not known to [[Evolution|evolve]] into or from any other Pokémon, Castform changes [[#Form data|forms]] depending on the current [[weather]].
+* During any weather not listed below or outside of battle, it will be in its '''Normal''' form and will be {{type|Normal}}.
+* During {{weather|harsh sunlight}}, it will be in its '''Sunny Form''' and will be {{type|Fire}}.
+* During {{weather|rain}}, it will be in its '''Rainy Form''' and will be {{type|Water}}.
+* During {{weather|hail}}, it will be in its '''Snowy Form''' and will be {{type|Ice}}.
+
+(Refer to [[#Form data|Game data&rarr;Form data]] for more details.)
+
+==Biology==
+Castform is an {{pkmn2|artificial}} {{OBP|Pokémon|species}} that changes appearance and attitude based on the weather. Its body is made of cells exactly like those of water molecules, causing its cellular structure to be chemically altered by temperature and humidity. Though not of its free will, Castform uses this ability to protect its tiny body. In its Normal form, it resembles a plain, gray cloud with a single wisp extending from the top of its head.
+
+Regardless of the form it takes, it will always have a large, spherical head and a lighter-colored mask-like marking over its eyes. Various experiments were conducted to change its form in artificial conditions, but all have failed. In [[Generation III]], {{m|Weather Ball}} was its [[signature move]]. Despite its man-made origins, it can be found in {{DL|List of Pokémon by habitat|Grassland Pokémon|grassland areas}}.
+
+Castform is the [[Signature Ability|only known Pokémon]] that can have {{a|Forecast}} as an [[Ability]].
+
+===Forms===
+Castform has three alternate forms: Sunny Form, Rainy Form, and Snowy Form.
+
+Under harsh sunlight, it takes on its Sunny Form. Its lower half becomes pure white, while the head turns orange has develops small orange spheres around it. This gives it the overall appearance of the sun above a small cloud. Its skin glows and dries, and becomes hot to the touch.
+
+When it is soaked in rain, it takes on its Rainy Form. It has a dark gray lower half resembling a storm cloud. The head turns blue and resembles a raindrop. Its body is soft and slippery and seeps with water when compressed.
+
+When it is hit by hail, it takes on its Snowy Form. Its head turns purplish-blue. The rest of the body changes into the shape of a mint green, {{wp|cumulonimbus cloud}}. Its body becomes a smooth ice-like material, partially frozen measuring temperatures near {{tt|23 degrees Fahrenheit|−5 degrees Celsius}}.
+<div class="scrollbox">
+{| style="margin:auto; text-align:center; font-size:80%; background: #{{normal color}}; {{roundy|10px}} border: 3px solid #{{normal color dark}}"
+|-
+| {{color|000|Normal form}}
+| {{color|000|Sunny Form}}
+| {{color|000|Rainy Form}}
+| {{color|000|Snowy Form}}
+|-
+| style="{{roundy|96px}} border: 2px solid #{{normal color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:0351Castform.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{fire color dark}}; background: #{{fire color light}}; width:96px; height:96px"| [[File:0351Castform-Sunny.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:96px; height:96px"| [[File:0351Castform-Rainy.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{ice color dark}}; background: #{{ice color light}}; width:96px; height:96px"| [[File:0351Castform-Snowy.png|100px]]
+|}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=142|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Castform</sc>'s appearance changes with the weather. This {{ScPkmn}} gained the ability to use the vast power of nature to protect its tiny body.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Castform</sc> borrows the power of nature to transform itself into the guises of the sun, rain clouds, and snow clouds. This {{ScPkmn}}'s feelings change with the weather.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its appearance changes with the weather. Recently, its molecules were found to be just like water.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=This Pokémon can change its cells, taking different forms based on the temperature and humidity.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=163|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its appearance changes with the weather. Recently, its molecules were found to be just like water.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn|num2=147}}
+{{Dex/Entry1|v=X|t=FFF|entry=This Pokémon can change its cells, taking different forms based on the temperature and humidity.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Castform's appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Castform borrows the power of nature to transform itself into the guises of the sun, rain, and snow-clouds. This Pokémon's feelings change with the weather.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=181|label1={{gameabbrev7|SM}}:|reg2=Alola|num2=220|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|{{LGPE|Let's Go, Pikachu! and Let's Go, Eevee!}}}}
+{{Dex/Form|Normal}}
+{{Dex/Entry1|v=Sun|entry=It changes its form depending on the weather. Changes in the temperature or humidity appear to affect its cellular structure.}}
+{{Dex/Entry1|v=Moon|entry=Its form changes on its own, due to its cells' sensitive reactions to temperature and humidity.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Although its form changes with the weather, that is apparently the result of a chemical reaction and not the result of its own free will.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Its form changes depending on the weather. The rougher conditions get, the rougher Castform's disposition!}}
+{{Dex/Form|Sunny Form}}
+{{Dex/Entry1|v=Sun|entry=This is the form Castform takes on the brightest of days. Its skin is unexpectedly hot to the touch, so approach with care.}}
+{{Dex/Entry1|v=Moon|entry=This is Castform's form when basking in fair weather. Its body is warm and toasty.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=This is the form Castform takes on bright days. In an experiment where Castform was placed in front of a heater, it didn't change to this form.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Castform changes to this form when it basks in bright sunlight. When you touch its glowing skin, it feels all dried out!}}
+{{Dex/Form|Rainy Form}}
+{{Dex/Entry1|v=Sun|entry=This is the form Castform takes when soaked with rain. When its body is compressed, water will seep out as if from a sponge.}}
+{{Dex/Entry1|v=Moon|entry=This is Castform's form during a downpour of rain. Its body retains moisture and gets slippery.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Castform changes to this form when rain hits it. Its body is soft and slightly swollen with water.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=This is Castform's form when pelted by rain. In an experiment where it was placed in a shower, this Pokémon didn't change to this form.}}
+{{Dex/Form|Snowy Form}}
+{{Dex/Entry1|v=Sun|entry=This is the form Castform takes when covered in snow. Its body becomes an ice-like material, with a temperature near {{tt|23 degrees Fahrenheit|−5 degrees Celsius}}.}}
+{{Dex/Entry1|v=Moon|entry=This is Castform's form when caught in a hailstorm. Its cold skin is as smooth as ice.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=This is the form Castform takes when hit by hail. In an experiment where it was placed in a freezer, it didn't change to this form.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=This is Castform's form when caught in a hailstorm. Its whole body is chilled, and its skin is partially frozen!}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|{{pkmn|Sword and Shield|Sword, Shield}}, and {{pkmn|Legends: Arceus}}}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Its appearance changes with the weather. Recently, its molecules were found to be just like water.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{normal color dark}}; background:#{{normal color light}}| [[File:Pokédex Image Castform SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{fire color dark}}; background:#{{fire color light}}| [[File:Pokédex Image Castform-Sunny SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{water color dark}}; background:#{{water color light}}| [[File:Pokédex Image Castform-Rainy SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{ice color dark}}; background:#{{ice color light}}| [[File:Pokédex Image Castform-Snowy SM.png|x200px]]
+|-
+|Castform in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|Sunny Castform in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|Rainy Castform in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|Snowy Castform in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Weather Institute]] ([[List of in-game event Pokémon in Pokémon Ruby and Sapphire#Castform|Only one]])}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Weather Institute]] ([[List of in-game event Pokémon in Pokémon Emerald#Castform|Only one]])}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Trophy Garden]]}}
+{{Availability/Entry1|v=Platinum|area=[[Trophy Garden]]}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=Transfer from [[Pokéwalker]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+{{Availability/Entry1|v=Pokéwalker|color=F33|link=Pokéwalker|area={{pw|Treehouse}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Dream World]] or [[Trade]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|6|Unova}} ({{DL|Phenomenon|rustling grass}})}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{Dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Weather Institute]] ([[List of in-game event Pokémon in Pokémon Omega Ruby and Alpha Sapphire#Castform|Only one]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Lush Jungle]], [[Malie Garden]], [[Tapu Village]], {{rt|17|Alola}}, [[Haina Desert]], [[Exeggutor Island]], [[Mount Lanakila]] ([[SOS Battle]] in [[weather]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Lush Jungle]], [[Malie Garden]], [[Tapu Village]], {{rt|17|Alola}}, [[Haina Desert]], [[Exeggutor Island]], [[Mount Lanakila]] ([[SOS Battle]] in [[weather]])}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Trophy Garden]]}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Plains ([[Ruby Field|Both]] [[Sapphire Field|Fields]])}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 5]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Faraway]] (20F-29F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Fall City]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Blizzard Island]] (10F-20F), [[Shimmer Hill]] (1F-17F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Blizzard Island]] (10F-20F), [[Shimmer Hill]] (1F-17F)}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Seabreeze Trail]] <small>(post-ending; '''Normal''')</small><br>Glacier: [[Frozen Tundra]] <small>(post-ending; '''Snowy Form''')</small><br>Lake: [[Shimmering Lake]] <small>(post-ending; '''Rainy Form''')</small><br>Desert: [[Rugged Flats]] <small>(post-ending; '''Sunny Form''')</small>}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Sweet, Light, and Fluffy|Adventure Area: Sweet, Light, and Fluffy]] <small>('''Normal''')</small><br>[[Vehicle Gallery#A Flowing Desert|Vehicle Gallery: A Flowing Desert]] <small>('''Sunny/Snowy/Rainy Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Monday Stage 1|Safari Jungle: Stage 1]]{{dotw|Mo}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Misty Moor|Plasma Tundra: Misty Moor]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 26|Area 26: Stage 10]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Castform Sea]], [[Rayquaza Sea]], [[Celebi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Mt. Faraway]] (1F-30F), [[Wish Cave]] (12F-20F, 30F-39F, 53F-59F, 70F-79F, 90F-98F), [[Murky Cave]] (1F-19F), [[Purity Forest]] (13F-20F, 34F-38F, 70F-79F)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Zaffiro Coast|Zaffiro Coast: Stage 648]] <small>('''Sunny Form''')</small><br>[[Marron Trail|Marron Trail: Stage 658]] <small>('''Snowy Form''')</small><br>[[Marron Trail|Marron Trail: Stage 664]] <small>('''Rainy Form''')</small><br>Event: ''{{DL|Daily Pokémon|The Daily Pokémon (#6)}}'' <small>('''Normal''')</small><br>Event: ''[[Daily Pokémon#Special Daily Pokémon (second release)|Special Daily Pokémon]]'' <small>(Second release; Winking; '''Normal''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+{{HeldItems/header|type=Normal}}
+{{HeldItems/Games2|Ruby|Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Ruby and Sapphire Versions}}
+{{HeldItems/Items1|Mystic Water|100|rows=10}}
+{{HeldItems/Games1|Emerald|tcolor=fff|Pokémon Emerald Version}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=FFF|tcolor2=FFF|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|HP=     70
+|Attack= 70
+|Defense=70
+|SpAtk=  70
+|SpDef=  70
+|Speed=  70}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=4
+|SpeedMax=4
+|Power=2
+|PowerMax=4
+|Technique=2
+|TechniqueMax=4
+|Stamina=2
+|StaminaMax=4
+|Jump=4
+|JumpMax=4
+}}
+
+===Type effectiveness===
+====Normal====
+{{TypeEffectiveness
+|type1=Normal
+|Normal=  100
+|Fighting=200
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+====Sunny Form====
+{{TypeEffectiveness
+|type1=Fire
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  200
+|Rock=    200
+|Bug=      50
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=   200
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=    50}}
+
+====Rainy Form====
+{{TypeEffectiveness
+|type1=Water
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+====Snowy Form====
+{{TypeEffectiveness
+|type1=Ice
+|Normal=  100
+|Fighting=200
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   200
+|Fire=    200
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+Castform is available in {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Castform|Normal|Normal|3}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level8|10|Water Gun|Water|Special|40|100|25||''}}
+{{learnlist/level8|10|Ember|Fire|Special|40|100|25||''}}
+{{learnlist/level8|10|Powder Snow|Ice|Special|40|100|25||''}}
+{{learnlist/level8|15|Headbutt|Normal|Physical|70|100|15||'''}}
+{{learnlist/level8|20|Rain Dance|Water|Status|&mdash;|&mdash;|5||}}
+{{learnlist/level8|20|Sunny Day|Fire|Status|&mdash;|&mdash;|5||}}
+{{learnlist/level8|20|Hail|Ice|Status|&mdash;|&mdash;|10||}}
+{{learnlist/level8|25|Weather Ball|Normal|Special|50|100|10||'''}}
+{{learnlist/level8|35|Hydro Pump|Water|Special|110|80|5||''}}
+{{learnlist/level8|35|Fire Blast|Fire|Special|110|85|5||''}}
+{{learnlist/level8|35|Blizzard|Ice|Special|110|70|5||''}}
+{{learnlist/level8|45|Hurricane|Flying|Special|110|70|10||}}
+{{learnlist/levelf/8|Castform|Normal|Normal|3}}
+
+====By [[TM]]====
+{{learnlist/tmh/8|Castform|Normal|Normal|3}}
+{{learnlist/tm8|TM03|Water Pulse|Water|Special|60|100|20||''}}
+{{learnlist/tm8|TM07|Hail|Ice|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM10|Work Up|Normal|Status|&mdash;|&mdash;|30||}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM13|Ice Beam|Ice|Special|90|100|10||''}}
+{{learnlist/tm8|TM14|Blizzard|Ice|Special|110|70|5||''}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||}}
+{{learnlist/tm8|TM24|Thunderbolt|Electric|Special|90|100|15||}}
+{{learnlist/tm8|TM25|Thunder|Electric|Special|110|70|10||}}
+{{learnlist/tm8|TM30|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tm8|TM34|Shock Wave|Electric|Special|60|&mdash;|20||}}
+{{learnlist/tm8|TM35|Flamethrower|Fire|Special|90|100|15||''}}
+{{learnlist/tm8|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM38|Fire Blast|Fire|Special|110|85|5||''}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|&mdash;|100|15||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM49|Scald|Water|Special|80|100|15||''}}
+{{learnlist/tm8|TM53|Energy Ball|Grass|Special|90|100|10||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM70|Flash|Normal|Status|&mdash;|100|20||}}
+{{learnlist/tm8|TM72|Avalanche|Ice|Physical|60|100|10||''}}
+{{learnlist/tm8|TM73|Thunder Wave|Electric|Status|&mdash;|90|20||}}
+{{learnlist/tm8|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|&mdash;|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tmf/8|Castform|Normal|Normal|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Castform|Normal|Normal|3}}
+{{learnlist/breed8|{{MSP/H|0202|Wobbuffet}}{{MSP/H|0218|Slugma}}{{MSP/H|0219|Magcargo}}{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}|Amnesia|Psychic|Status|&mdash;|&mdash;|20||}}
+{{learnlist/breed8|{{MSP/H|0109|Koffing}}{{MSP/H|0110|Weezing}}{{MSP/H|0218|Slugma}}{{MSP/H|0219|Magcargo}}|Clear Smog|Poison|Special|50|&mdash;|15||}}
+{{learnlist/breed8|{{MSP/H|0035|Clefairy}}{{MSP/H|0036|Clefable}}|Cosmic Power|Psychic|Status|&mdash;|&mdash;|20||}}
+{{learnlist/breed8|{{MSP/H|0039|Jigglypuff}}{{MSP/H|0040|Wigglytuff}}{{MSP/H|0088|Grimer}}{{MSP/H|0089|Muk}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Dusknoir}}|Disable|Normal|Status|&mdash;|100|20||}}
+{{learnlist/breed8|{{MSP/H|0280|Ralts}}{{MSP/H|0281|Kirlia}}{{MSP/H|0282|Gardevoir}}{{MSP/H|0475|Gallade}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Dusknoir}}|Future Sight|Psychic|Special|120|100|10||}}
+{{learnlist/breed8|{{MSP/H|0303|Mawile}}|Guard Swap|Psychic|Status|&mdash;|&mdash;|10|*|}}
+{{learnlist/breed8|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0200|Misdreavus}}{{MSP/H|0429|Mismagius}}{{MSP/H|0353|Shuppet}}{{MSP/H|0354|Banette}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Dusknoir}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}{{MSP/H|0442|Spiritomb}}|Hex|Ghost|Special|65|100|10||}}
+{{learnlist/breed8|{{MSP/H|0094|Gengar}}|Reflect Type|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/breedf/8|Castform|Normal|Normal|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Castform|Normal|Normal|3}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Castform|Normal|Normal|3}}
+
+===Side game data===
+====Normal Form====
+{{Spindata/Head|type=Normal}}
+{{Spindata/PinballRS|col=3|type=Normal|ndex=351|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=351|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=351
+|body=1
+|rate=7.4
+|area=Thunder Meadow
+|P1=My appearance changes with the power of nature.
+|P2=My health is down to half already...
+|P3=I'm helpless... I have almost no power left...
+|PL=Yay! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=351
+|body=4
+|rate=6.4
+|IQ=G
+}}
+|-
+{{Spindata/PSMD|col=6|type=Normal|ndex=351
+|coset=21
+|conto={{p|Aromatisse}}, {{p|Aurorus}}
+|recruitment=Introduced by {{p|Aurorus}}
+|P1=I change my appearance with the weather! {{a|Cloud Nine}}, and I'm back to normal! ♪
+|P2=What…is the weather like…today?
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=351
+|walk=2.08
+|hp=53
+|attack=74
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Normal|ndex=351|bttype=Normal
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Normal|ndex=351|num=561
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Cloud Clear+
+|skilldesc=Sometimes clears away three black-cloud disruptions.
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=351Winking|num=561
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Block Smash+
+|skilldesc=Sometimes clears three unbreakable-block disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=351
+|buddy=5
+|candy=Castform
+|hatch=N/A
+|evolution=N/A
+|stamina=172
+|attack=139
+|defense=139
+|fast={{m|Tackle}}, {{m|Hex}}
+|special={{m|Hurricane}}, {{m|Energy Ball}}, {{m|Weather Ball}} (Normal), Weather Ball (Rock){{tt|*|From March 30, 2019 onward}}
+}}
+|}
+
+====Sunny Form====
+{{Spindata/Head|type=Fire}}
+{{Spindata/MDRB|col=6|type=Fire|ndex=351S
+|body=1
+|rate=7.4
+|area=Thunder Meadow
+|P1=My appearance changes with the power of nature.
+|P2=My health is down to half already...
+|P3=I'm helpless... I have almost no power left...
+|PL=Yay! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Fire|ndex=351S
+|body=4
+|rate=6.4
+|IQ=G
+}}
+|-
+{{Spindata/PSMD|col=6|type=Fire|ndex=351S
+|coset=21
+|conto={{p|Aromatisse}}, {{p|Aurorus}}
+|recruitment=Introduced by {{p|Aurorus}}
+|P1=I change my appearance with the weather! {{a|Cloud Nine}}, and I'm back to normal! ♪
+|P2=What…is the weather like…today?
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Fire
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Fire|ndex=351S
+|walk=2.08
+|hp=53
+|attack=74
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Fire|ndex=351S|stype=Fire|num=561
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Burn+
+|skilldesc=Rarely leaves the foe burned for an even longer period of time.
+}}
+|-
+{{Spindata/GO|col=6|type=Fire|ndex=351S
+|buddy=5
+|evolution=N/A
+|hatch=N/A
+|stamina=172
+|attack=139
+|defense=139
+|fast={{m|Tackle}}, {{m|Ember}}
+|special={{m|Fire Blast}}, {{m|Solar Beam}}, {{m|Weather Ball}} (Fire){{tt|*|From March 30, 2019 onward}}
+}}
+|}
+
+====Rainy Form====
+{{Spindata/Head|type=Water}}
+{{Spindata/MDRB|col=6|type=Water|ndex=351R
+|body=1
+|rate=7.4
+|area=Thunder Meadow
+|P1=My appearance changes with the power of nature.
+|P2=My health is down to half already...
+|P3=I'm helpless... I have almost no power left...
+|PL=Yay! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=351R
+|body=4
+|rate=6.4
+|IQ=G
+}}
+|-
+{{Spindata/PSMD|col=6|type=Water|ndex=351R
+|coset=21
+|conto={{p|Aromatisse}}, {{p|Aurorus}}
+|recruitment=Introduced by {{p|Aurorus}}
+|P1=I change my appearance with the weather! {{a|Cloud Nine}}, and I'm back to normal! ♪
+|P2=What…is the weather like…today?
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=351R
+|walk=2.08
+|hp=53
+|attack=74
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Water|ndex=351R|stype=Water|num=561
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Downpour
+|skilldesc=Damage varies depending on the opponent's remaining HP.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=351R
+|buddy=5
+|evolution=N/A
+|hatch=N/A
+|stamina=172
+|attack=139
+|defense=139
+|fast={{m|Tackle}}, {{m|Water Gun}}
+|special={{m|Hydro Pump}}, {{m|Thunder}}, {{m|Weather Ball}} (Water){{tt|*|From March 30, 2019 onward}}
+}}
+|}
+
+====Snowy Form====
+{{Spindata/Head|type=Ice}}
+{{Spindata/MDRB|col=6|type=Ice|ndex=351H
+|body=1
+|rate=7.4
+|area=Thunder Meadow
+|P1=My appearance changes with the power of nature.
+|P2=My health is down to half already...
+|P3=I'm helpless... I have almost no power left...
+|PL=Yay! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ice|ndex=351H
+|body=4
+|rate=6.4
+|IQ=G
+}}
+|-
+{{Spindata/PSMD|col=6|type=Ice|ndex=351H
+|coset=21
+|conto={{p|Aromatisse}}, {{p|Aurorus}}
+|recruitment=Introduced by {{p|Aurorus}}
+|P1=I change my appearance with the weather! {{a|Cloud Nine}}, and I'm back to normal! ♪
+|P2=What…is the weather like…today?
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Ice
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ice|ndex=351H
+|walk=2.08
+|hp=53
+|attack=74
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Ice|ndex=351H|stype=Ice|num=561
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Chill
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Ice|ndex=351H
+|buddy=5
+|evolution=N/A
+|hatch=N/A
+|stamina=172
+|attack=139
+|defense=139
+|fast={{m|Tackle}}, {{m|Powder Snow}}
+|special={{m|Blizzard}}, {{m|Ice Beam}}, {{m|Weather Ball}} (Ice){{tt|*|From March 30, 2019 onward}}
+}}
+|}
+
+===Form data===
+Castform has four interchangeable forms, which it switches between based on the [[weather]] in {{pkmn|battle}}s and {{pkmn|Contest}}s, due to its [[Ability]] {{a|Forecast}}. Each of its forms has a different [[type]] to match the weather. Castform was the first Pokémon to have interchangeable forms.
+
+By default, Castform is in its Normal form and is {{type|Normal}}. It is always in this form outside of battles and contests. It begins battles in this form and reverts to this form if [[Recall|withdrawn]]. It has this form in any weather that does not trigger another form, or if the weather has its effects negated by an active Ability. In [[harsh sunlight]], Forecast changes Castform into its Sunny Form, which is {{type|Fire}}. In [[rain]], Forecast changes Castform into its Rainy Form, which is {{type|Water}}. In {{weather|hail}}, Forecast changes Castform into its Snowy Form, which is {{type|Ice}}.
+
+In Generations {{gen|III}} and {{gen|IV}}, if Forecast is suppressed or replaced, Castform will remain in its current form (regardless of the weather). From [[Generation V]] onward, if Forecast is suppressed or replaced, Castform will revert to its Normal form (regardless of the weather).
+
+Castform's {{m|Weather Ball}} will usually receive {{STAB}} in any of its forms, except in a sandstorm, under {{m|Shadow Sky}}, or if it loses {{a|Forecast}}.
+
+Castform's forms cannot be viewed in the forms section of the {{game2|Diamond|Pearl|Platinum}} Pokédex, nor do they appear on the field in {{2v2|HeartGold|SoulSilver}}. All of Castform's forms will appear in the forms section of the HeartGold and SoulSilver Pokédex upon obtaining one, even if it never transformed.
+
+Prior to [[Generation VIII]], unlike most Pokémon with [[form]] differences, Castform's alternate forms had no {{Shiny}} variations of their own, so only the Normal form of a Shiny Castform would look different. Its Shiny forms were first seen in {{g|HOME}}; they first became directly obtainable in {{g|Brilliant Diamond and Shining Pearl}} (though they were also released in {{g|GO}} starting March 24, 2021<ref>[https://pokemongolive.com/post/weather-week-2021/?hl=en Therian Forme Thundurus brings rain and wind to Weather Week!]</ref>).
+
+{{Evobox/Formes
+|sprite1=0351Castform
+|type1-disp=Normal
+|name1=Castform
+|type1-1=Normal
+|forme1=Normal
+|loc1=[[File:Cloudy icon SwSh.png|24px|Clear weather|link=Weather]]{{color2|000|Weather|Clear&nbsp;weather}}
+|sprite2=0351Castform-Sunny
+|type1-2=Fire
+|forme2=Sunny Form
+|loc2=[[File:Harsh sunlight icon SwSh.png|24px|Harsh sunlight|link=Harsh sunlight]]{{color2|000|Harsh sunlight}}
+|sprite3=0351Castform-Rainy
+|type1-3=Water
+|forme3=Rainy Form
+|loc3=[[File:Rain icon SwSh.png|24px|Rain|link=Rain]]{{color2|000|Rain}}
+|sprite4=0351Castform-Snowy
+|type1-4=Ice
+|forme4=Snowy Form
+|loc4=[[File:Snow icon SwSh.png|24px|Hail|link=Hail (weather condition)]]{{color2|000|Hail (weather condition)|Hail}}
+}}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">{{Evobox-1
+|type1=Normal
+|pictype=art
+|no1=0351
+|name1=Castform
+|type1-1=Normal}}</div>
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3/Castform}}
+{{Spritebox/4/Castform}}
+{{Spritebox/5/Castform}}
+{{Spritebox/6/Castform|crop=67}}
+{{Spritebox/7/Castform|crop=66}}
+<!--{{Spritebox/8/BDSP/4Forms|ndex=351|form1=S|form2=R|form3=H}}-->
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/4Forms|ndex=0351|form1=S|form2=R|form3=H}}
+{{Spritebox/Footer|0351|Castform}}
+
+==In animation==
+===Main series===
+[[File:Totem Ally Castform.png|thumb|250px|A Normal Castform in {{aniseries|SM}}]]
+====Major appearances====
+Castform debuted in ''[[AG083|Unfair Weather Friends]]'', under the ownership of [[Bart]]. It changed into all of its forms during the episode.
+
+In ''[[SM035|Currying Favor and Flavor!]]'', an {{DL|Totem Pokémon|Ally Castform}} battled {{Ash}} alongside a {{DL|Totem Pokémon|Totem Lurantis}} during the [[Lush Jungle]] trial. It was defeated by a {{m|Tackle}} from {{AP|Rowlet}}. Besides its Normal form, it also took on its Sunny Form.
+
+In ''[[SM041|Mounting an Electrifying Charge!]]'', a Castform used its weather-changing abilities to create rain and snow obstacles during the [[Charjabug race]].
+
+====Minor appearances====
+A Castform appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+In ''[[AG093|Clamperl of Wisdom]]'', {{OBP|Spoink|recurring}} mistook a Castform for its lost pearl.
+
+A {{pkmn|Coordinator}}'s Castform appeared in ''[[AG115|Mean With Envy]]''.
+
+In ''[[AG126|Saved by the Beldum]]'', a {{pkmn|Trainer}}'s Castform attended the [[Ever Grande Conference]].
+
+In ''[[AG162|Spontaneous Combusken!]]'', a Coordinator's Castform competed in the [[Appeal|Performance Stage]] of the {{isl|Chrysanthemum}} {{pkmn|Contest}} while in its Sunny Form.
+
+A Trainer's Castform appeared in ''[[SM141|Exhibition Unmasked!]]''.
+
+In ''[[SM144|From Z to Shining Z!]]'', a Trainer's Castform watched the battle between [[Ash's Pikachu]] and {{DL|Guardian deities (anime)|Tapu Koko}}.
+
+A Trainer's Sunny Form Castform appeared in ''[[JN036|Making Battles in the Sand!]]''.
+
+<gallery>
+Totem Ally Castform Sunny Form.png|Sunny Form Castform
+Rainy Castform.png|Rainy Form Castform
+Snowy Castform.png|Snowy Form Castform
+</gallery>
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG083|Castform|Ash's Pokédex|Castform, the Weather Pokémon. Castform is able to {{a|Forecast|transform its appearance depending on the weather}}. It uses the power of nature to transform in order to protect its small body.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+{{Animedexheader|Alola}}
+{{Animedexbody|SM035|Castform|Rotom Pokédex|Castform, the Weather Pokémon. A {{t|Normal}} type. Castform has learned to use the power of nature to protect its small body.}}
+{{Animedexfooter/Pokémon|Alola}}
+
+===Pokémon Generations===
+[[File:Castform PG.png|thumb|250px|Castform in [[Pokémon Generations]]]]
+In ''[[PG09|The Scoop]]'', a Castform was working at [[TV Mauville]] as a weather forecaster, an allusion to its weather-based abilities.
+{{-}}
+
+==In the manga==
+[[File:Fofo.png|thumb|right|200px|A Normal Castform in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+===={{MangaArc|Ruby & Sapphire}}====
+{{main|Fofo}}
+{{adv|Ruby}}'s Castform, [[nickname]]d Fofo, debuted in ''[[PS188|Lombre Larceny]]''. Previously, she belonged to [[Mr. Stone]], who was injured in an attack by [[Team Aqua]]. Fofo was then given to [[Gabby and Ty]] to be cared for while he was being healed. She later decided to travel with Ruby when he began traveling with the reporters because she was lonely. Until he was reunited with [[Rara]], Fofo was Ruby's go to {{OBP|Smart|condition}} Contest Pokémon.
+
+===={{MangaArc|Sun, Moon, Ultra Sun & Ultra Moon}}====
+In ''[[PASM14|Flash and Cosmog's Secret]]'', two Ally Castform helped a {{pkmn2|Totem}} {{p|Lurantis}} fight {{adv|Moon}}.
+
+====Gallery====
+<gallery>
+Fofo Forecast Sunny.png|A Sunny Form Castform in [[Pokémon Adventures]]
+Fofo Forecast Rainy.png|A Rainy Form Castform in [[Pokémon Adventures]]
+Fofo Forecast Snowy.png|A Snowy Form Castform in [[Pokémon Adventures]]
+</gallery>
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS189]]|This Pokémon changes its form according to the weather. It has learned to protect its small body using the powers of the nature.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+
+===Pokémon Ruby-Sapphire===
+[[File:Castform PMRS.png|thumb|200px|A Normal Castform in [[Pokémon Ruby-Sapphire]]]]
+A Castform appeared in ''[[PMRS22|Descent Of The Weather God!!]]'', where it showed its ability of transforming into many forms depending on the current weather.
+<gallery>
+Castform Sunny Form PMRS.png|A Sunny Form Castform in [[Pokémon Ruby-Sapphire]]
+Castform Rainy Form PMRS.png|A Rainy Form Castform in [[Pokémon Ruby-Sapphire]]
+Castform Snowy Form PMRS.png|A Snowy Form Castform in [[Pokémon Ruby-Sapphire]]
+</gallery>
+{{-}}
+
+==In the TCG==
+{{main|Castform (TCG)}}
+
+==Other appearances==
+{{missing image|section}}
+Castform was featured as one of the Pokémon released from a Poké Ball in the demo of [[Super Smash Bros. Brawl]] that appeared at {{wp|Jump Festa}}.
+
+==Trivia==
+* Castform is the lightest {{Type|Normal}} Pokémon.
+* In [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|Mystery Dungeon: Explorers of Time, Darkness, and Sky]], Castform has a body size of 4, despite it being a body size 1 in {{g|Mystery Dungeon: Red Rescue Team and Blue Rescue Team}} and having the same in-game sprite in Explorers of Time and Explorers of Darkness. This is due to all 4 forms of Castform's sprites being loaded into the game's memory at once, meaning that it is the equivalent of 4 Pokémon with a body size of 1 each in terms of memory. <!-- This last sentence previously got removed as "baseless speculation." Proof can be found here: https://imgur.com/a/HisyLk8 -->
+* Before [[Generation VII]], Castform's Normal form was classified by Pokédex color sorting as white.
+* Castform is the only Normal-type Pokémon in the {{egg3|Amorphous}}.
+* Sunny Form Castform is tied with {{form|Rotom|Heat}} {{p|Rotom}}, {{p|Litwick}}, and {{p|Scorbunny}} for the [[List of Pokémon by height|shortest]] {{type|Fire}} Pokémon.
+** Snowy Form Castform is tied with Frost Rotom and {{p|Snom}} for the shortest {{type|Ice}} Pokémon.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Castform}}
+Castform resembles a living {{wp|cloud}} and acts like weather in general, but it may also be based on a {{wp|weather balloon}}. It is similar in both concept and design to a ''{{wp|teru teru bōzu}}'', a Japanese charm doll used to wish for good weather. Its forms and their types may have originated from the English saying "rain, hail, or shine". Its shape of a large sphere with two smaller orbs resembles an H<sub>2</sub>O molecule, matching how it is said to be composed of molecules similar to water.
+
+Conceptually, Castform may also draw inspiration from or be intended to contrast with the {{wp|weather rock}} concept. These are stones jokingly hung up as a low tech way to tell the weather. They are intended to parody the poor forecasting of more complicated modern instruments. Given Castform's artificial origins and design to predict weather, but failure to transform until after the weather is already present, it may be comparable to the opposite extreme of a weather rock.
+
+The Sunny Form looks like the {{wp|Sun}} on a cloud, the Rainy Form resembles a droplet of rain on a dark cloud, and the Snowy Form looks like a gust of wind or an ice cream cone.
+
+====Name origin====
+Castform may be a combination of ''forecast'' (the prediction of weather) and ''transform'' or ''form'' (referring to its ability to change form depending on the weather).
+
+Powalen may be a combination of ポワン ''powan'' (onomatopoeia of a sudden transformation, similar to "poof" in English) and 変わる ''kawaru'' (to change or transform).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ポワルン ''Powalen''|jameaning=From {{tt|ポワン ''powan''|onomatopoeia of a sudden transformation, similar to 'poof' in English}} and {{tt|変わる ''kawaru''|to change or transform}}
+|fr=Morphéo|frmeaning=From ''{{tt|morphế|Greek for form}}'' and ''{{tt|météo|weather}}''
+|es=Castform|esmeaning=Same as English name
+|de=Formeo|demeaning=From ''Form'' and ''{{tt|Meteorologie|meteorology}}''
+|it=Castform|itmeaning=Same as English name
+|ko=캐스퐁 ''Castpong''|komeaning=Transcription of English name
+|zh_cmn=飄浮泡泡 / 飘浮泡泡 ''Piāofúpàopào''{{tt|*|Games}}<br>漂浮泡泡 ''Piāofúpàopào''{{tt|*|Animated series, manga}}|zh_cmnmeaning=From {{tt|飄浮 ''piāofú''|drifting}} and {{tt|泡泡 ''pàopào''|bubble}}<br>From {{tt|漂浮 ''piāofú''|floating}} and {{tt|泡泡 ''pàopào''|bubble}}
+|zh_yue=飄浮泡泡 ''Pīufàuhpóuhpóuh''{{tt|*|Games}}<br>漂浮泡泡 ''Pīufàuhpóuhpóuh''{{tt|*|Animated series, manga}}|zh_yuemeaning=From {{tt|飄浮 ''pīufàuh''|drifting}} and {{tt|泡泡 ''póuhpóuh''|bubble}}<br>From {{tt|漂浮 ''pīufàuh''|floating}} and {{tt|泡泡 ''póuhpóuh''|bubble}}
+|hi=मौसमर ''Mausamar''|himeaning=From {{tt|मौसम ''mausam''|season/weather}}
+|th=โปวาลุน ''Powalun''|thmeaning=Transcription of Japanese name
+|vi=Powalen|vimeaning=Transliteration of Japanese name
+}}
+{{left clear}}
+<div style="display: flex; flex-wrap: wrap; gap: 4px">
+<div>
+''Normal''
+{{langtable|color={{normal color}}|bordercolor={{normal color dark}}
+|ja=ポワルンのすがた ''{{tt|Powalen no Sugata|Castform Form}}''
+|en=Normal<br>Normal Form ({{pkmn|GO}})
+|zh_yue=飄浮泡泡的樣子 ''{{tt|Pīufàuhpóuhpóuh dīk Yeuhngjí|Castform Form}}''
+|zh_cmn=飄浮泡泡的樣子 / 飘浮泡泡的样子 ''{{tt|Piāofúpàopào de Yàngzi|Castform Form}}''
+|cs=Normální forma
+|fr=Forme de Morphéo<br>Forme Normale ({{pkmn|GO}})
+|de=Formeo<br>Normalform ({{pkmn|GO}})
+|hi=नॉर्मल फ़ॉर्म ''Normal Form''
+|id=Wujud Castform ({{pkmn|GO}})
+|it=Forma Castform
+|ko=캐스퐁의 모습 ''{{tt|Castpong Moseup|Castform Form}}''
+|pt=Forma Normal
+|ru=Обычная форма ''Obychnaya forma''
+|es=Forma de Castform<br>Forma Normal ({{pkmn|GO}})<br>Normal{{sup/4|HGSS}}{{sup/5|BWB2W2}}
+|th=ฟอร์มปกติ ''Form Pokti'' ({{pkmn|GO}})<br>ร่างปกติ ''Rang Pokti'' ([https://niantic.helpshift.com/hc/th/6-pokemon-go/faq/2787-sending-pokemon-to-pokemon-home/ GO FAQ])
+|tr=Normal Formu
+|vi=Bình thường}}</div>
+<div>
+''Sunny Form''
+{{langtable|color={{fire color}}|bordercolor={{fire color dark}}
+|ja={{ruby|太陽|たいよう}}の{{ruby|姿|すがた}} ''{{tt|Taiyō no Sugata|Sun Form}}''
+|en=Sunny Form<br>Sunny Castform (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}})<br>Sun Form ([[Pokémon Diamond and Pearl Pokédex|DP Pokédex]])
+|zh_yue=太陽的樣子 ''{{tt|Taaiyèuhng dīk Yeuhngjí|Sun Form}}''
+|zh_cmn=太陽的樣子 / 太阳的样子 ''{{tt|Tàiyáng de Yàngzi|Sun Form}}''
+|cs=Slunečná forma ([[Pokémon Adventures|manga]])<br>Sluneční forma ([[SM035]])
+|fi=Aurinkomuoto
+|fr=Forme Solaire<br>Morpheo Soleil (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}}/{{TCG|Legends Awakened|LA}})
+|de=Sonnenform<br>Sonnen-Formeo (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}})
+|hi=सन फ़ॉर्म ''Sun Form''
+|id=Wujud Matahari (TCG, {{pkmn|GO}})<br>Bentuk Cerah (official site)
+|it=Forma Sole<br>Castform Sole (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}})
+|ko=태양의 모습 ''{{tt|Taeyang-ui Moseup|Sun Form}}''
+|ms=Bentuk Cerah
+|pl=Forma Słoneczna
+|pt=Forma Ensolarada
+|ru=Солнечная форма ''Solnechnaya forma''
+|es=Forma Sol<br>Forma Fuego (TCG: {{TCG|Legends Awakened|LA}})
+|th=ร่างพระอาทิตย์ ''Rang Phraathit''
+|tr=Güneşli Formu
+|vi=Mặt trời}}</div>
+<div>
+''Rainy Form''
+{{langtable|color={{water color}}|bordercolor={{water color dark}}
+|ja={{ruby|雨水|あまみず}}の{{ruby|姿|すがた}} ''{{tt|Amamizu no Sugata|Rainwater Form}}''
+|en=Rainy Form<br>Rain Form (TCG: {{TCG|Legends Awakened|LA}})<br>Rain Castform (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}})<br>Rain Water Form ([[Pokémon Diamond and Pearl Pokédex|DP Pokédex]])
+|zh_yue=雨水的樣子 ''{{tt|Yúhséui dīk Yeuhngjí|Rainwater Form}}''
+|zh_cmn=雨水的樣子 / 雨水的样子 ''{{tt|Yǔshuǐ de Yàngzi|Rainwater Form}}''
+|cs=Deštivá forma
+|fr=Forme Eau de Pluie<br>Morpheo Pluie (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}}/{{TCG|Legends Awakened|LA}})
+|de=Regenform<br>Regen-Formeo (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}})
+|hi=रेन वॉटर फ़ॉर्म ''Rain Water Form''
+|id=Wujud Air Hujan (TCG, {{pkmn|GO}})<br>Bentuk Hujan (official site)
+|it=Forma Pioggia<br>Castform Pioggia (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}})
+|ko=빗방울의 모습 ''{{tt|Bitbangur-ui Moseup|Raindrop Form}}''
+|ms=Bentuk Hujan
+|pt=Forma Chuvosa
+|ru=Дождевая форма ''Dozhdevaya forma''
+|es=Forma Lluvia<br>Forma Agua (TCG: {{TCG|Legends Awakened|LA}})
+|th=ร่างสายฝน ''Rang Saifon''
+|tr=Yağmurlu Formu
+|vi=Hạt mưa}}</div>
+<div>
+''Snowy Form''
+{{langtable|color={{ice color}}|bordercolor={{ice color dark}}
+|ja={{ruby|雪雲|ゆきぐも}}の{{ruby|姿|すがた}} ''{{tt|Yukigumo no Sugata|Snow Cloud Form}}''
+|en=Snowy Form<br>Snow-cloud Form (TCG: {{TCG|Legends Awakened|LA}})<br>Snow-cloud Castform (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}})<br>Snow Cloud Form ([[Pokémon Diamond and Pearl Pokédex|DP Pokédex]])
+|zh_yue=雪雲的樣子 ''{{tt|Syutwàhn dīk Yeuhngjí|Snow Cloud Form}}''
+|zh_cmn=雪雲的樣子 / 雪云的样子 ''{{tt|Xuěyún de Yàngzi|Snow Cloud Form}}''
+|cs=Sněživá forma
+|fr=Forme Blizzard<br>Morpheo Neige (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}}/{{TCG|Legends Awakened|LA}})
+|de=Schneeform<br>Schneewolkenform (TCG: {{TCG|Legends Awakened|LA}})<br>Schneewolken-Formeo (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}})
+|hi=स्नो क्लाउड फ़ॉर्म ''Snow Cloud Form''
+|id=Wujud Awan Salju (TCG, {{pkmn|GO}})<br>Bentuk Salju (official site)
+|it=Forma Nuvola di Neve<br>Forma Neve (TCG: {{TCG|Legends Awakened|LA}})<br>Castform Neve (TCG: {{TCG|EX Hidden Legends|HL}}/{{TCG|EX Delta Species|DS}})
+|ko=설운의 모습 ''{{tt|Seorun-ui Moseup|Snow Cloud Form}}''
+|ms=Bentuk Salji
+|pt=Forma Nevada
+|ru=Снежная форма ''Snezhnaya forma''
+|es=Forma Nieve<br>Forma Hielo (TCG: {{TCG|Legends Awakened|LA}})
+|th=ร่างเมฆหิมะ ''Rang Mekhima''
+|tr=Karlı Formu
+|vi=Mây tuyết}}</div>
+</div>
+{{-}}
+
+==Related articles==
+*[[Fofo]]
+* [[Artificial Pokémon]]
+* [[List of Pokémon with form differences]]
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0350|prev=Milotic|nextnum=0352|next=Kecleon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Artificial Pokémon]]
+[[Category:Red-colored Pokémon]]<!--Sunny Form-->
+[[Category:Blue-colored Pokémon]]<!--Rainy Form-->
+[[Category:White-colored Pokémon]]<!--Snowy Form-->
+
+[[de:Formeo]]
+[[es:Castform]]
+[[fr:Morphéo]]
+[[it:Castform]]
+[[ja:ポワルン]]
+[[zh:飘浮泡泡]]

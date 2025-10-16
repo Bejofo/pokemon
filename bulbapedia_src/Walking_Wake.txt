@@ -1,0 +1,315 @@
+{{PokémonPrevNext/Head|type=Water|type2=Dragon}}
+{{PokémonPrevNext/GO|species=Walking Wake}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=1008|prev=Miraidon|nextnum=1010|next=Iron Leaves|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Walking Wake
+|jname=ウネルミナモ
+|tmname=Uneruminamo
+|ndex=1009
+|type1=Water
+|type2=Dragon
+|category=Paradox
+|height-ftin=11'06"
+|height-m=3.5
+|weight-lbs=617.3
+|weight-kg=280.0
+|abilitylayout=1
+|ability1=Protosynthesis
+|ability2=
+|abilityd=
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|eggcycles=50
+|evtotal=3
+|evhp=0
+|evat=0
+|evde=0
+|evsa=3
+|evsd=0
+|evsp=0
+|expyield=295
+|lv100exp=1250000
+|gendercode=255
+|color=Blue
+|catchrate=5
+|body=06
+|pokefordex=walking_wake
+|generation=9
+|friendship=0
+}}
+'''Walking Wake''' ([[List of Japanese Pokémon names|Japanese]]: '''ウネルミナモ''' ''Uneruminamo'') is a dual-type {{2t|Water|Dragon}} [[Paradox Pokémon]] 
+introduced during [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It is said to be either an ancient relative of {{p|Suicune}} or a counterpart of it from a parallel timeline.
+
+It was revealed alongside {{p|Iron Leaves}} during the [[Pokémon Presents]] that aired on February 27, 2023, and debuted that same day in [[Pokémon Scarlet and Violet]]'s Version 1.2.0 update.
+
+==Biology==
+Walking Wake is a large, bipedal, theropod dinosaur {{OBP|Pokémon|species}} with white, diamond-shaped markings. It has a long, white snout with one horn underneath the chin. The horizontal eyes are red, with yellow sclerae with red skin surrounding them. Its face and underside are also white as well. It has a thick, large purple mane covering its arms and back. The mane resembles the {{wp|aurora borealis}} with six tips of spiky hair being red and orange. It has two small light blue forelimbs, with three white-clawed digits each, and one diamond marking. Walking Wake has two powerful light blue hind legs with six feathers, and three white claws each. It has a large, hexagonal, cerulean blue crest on its forehead with two bent prongs on either side of the base. It has a blue horn between the snout and crest. It has two long, white tails with seven small spikes each. The tails also have eight blue spikes marking on the tops of two tails each.
+
+Walking Wake is said to possess a ferocious temperament. It resembles a sketch made by a member of the Area Zero Expedition in the [[Scarlet Book]], and its name was derived from an aquatic monster described within the book. Walking Wake is able to walk on the surface of water and walks bipedally on its hind legs.<ref>[https://scarletviolet.pokemon.com/en-us/pokemon/walking_wake/ Pokémon Scarlet and Violet official site]</ref> It possesses powerful control over water, and can generate {{m|Hydro Steam|superheated water to scorch its opponents}}. According to an illustration in Occulture, Walking Wake is believed to represent a super-ancient relative of {{p|Suicune}} from the past.
+
+According to [[Professor Sada|AI Sada]], Walking Wake is an ancient Pokémon related to Suicune. However, according to a version of Professor Sada that appeared at the [[Crystal Pool]], Walking Wake is a counterpart of Suicune from another timeline. It is a highly mysterious species and its true origin is unknown. Walking Wake was brought to the depths of [[Area Zero]] by a [[time machine]] built by Professor Sada ten years ago. 200 years ago, [[Heath]] also encountered Walking Wake, as seen in the Scarlet Book, though it is unclear how it arrived there at the time.
+
+Walking Wake is the [[signature move|only known Pokémon]] capable of learning the move {{m|Hydro Steam}}.
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Dragon}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=241}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It resembles an illustration published in a paranormal magazine, said to be a depiction of a super-ancient {{p|Suicune}}.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{dragon color dark}}; background:#{{water color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{water color light}}; background:#{{water color light}} | [[File:Pokédex Image Walking Wake SV Blueberry.png|x200px]]
+|-
+| Walking Wake in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Dragon}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[#Poké Portal News|Poké Portal News]]<sup>Version 1.2.0+</sup>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+====In events====
+=====[[Poké Portal News]]=====
+{{eventAvail/h|Tera Type|type=Water|type2=Dragon|lochide=yes}}
+{{eventAvail|{{gameabbrev9|S}}|Walking Wake and Iron Leaves Showcase|Water|hide|75|February 27 to March 12, 2023<br>May 1 to 14, 2023<br>December 25, 2023 to January 7, 2024<br>April 26 to May 6, 2024<br>February 21 to 27, 2025|link=Poké Portal News/2023#February 27 to March 12, 2023}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Water
+|type2=Dragon
+|HP=99
+|Attack=83
+|Defense=91
+|SpAtk=125
+|SpDef=83
+|Speed=109
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Dragon
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=25
+|Water=25
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=200
+|Dark=100
+|Fairy=200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Walking Wake|Water|Dragon|9}}
+{{learnlist/level9|1|Roar|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Twister|Dragon|Special|40|100|20||'''}}
+{{learnlist/level9|1|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level9|7|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|14|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level9|21|Noble Roar|Normal|Status|—|100|30}}
+{{learnlist/level9|28|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level9|35|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/level9|42|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/level9|56|Hydro Steam|Water|Special|80|100|15||'''}}
+{{learnlist/level9|63|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level9|70|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/level9|77|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/level9|84|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/9|Walking Wake|Water|Dragon|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Walking Wake|Water|Dragon|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM008|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM044|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM078|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM100|Dragon Dance|Dragon|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM188|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM196|Flip Turn|Water|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM208|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm9|TM222|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/tm9|TM226|Dragon Cheer|Dragon|Status|—|—|15}}
+{{learnlist/tmf/9|Walking Wake|Water|Dragon|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Walking Wake|Water|Dragon|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Walking Wake|Water|Dragon|9}}
+
+====By {{pkmn2|event}}s====
+{{learnlist/eventh/9|Walking Wake|Water|Dragon|9}}
+{{learnlist/event9|[[Poké Portal News#February 27 to March 12, 2023|Walking Wake and Iron Leaves Showcase]]<sup>Lv.&nbsp;75</sup><br>[[Poké Portal News#May 1 to 14, 2023|Walking Wake and Iron Leaves Repeat Event]]<sup>Lv.&nbsp;75</sup>|Flamethrower|Fire|Special|90|100|15|}}
+{{learnlist/eventf/9|Walking Wake|Water|Dragon|9}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Dragon}}
+{{Spindata/GO|col=6|type=Water|ndex=1009
+|hatch=N/A
+|buddy=20
+|evolution=N/A
+|stamina=223
+|attack=256
+|defense=188
+|fast=
+|special=
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Water
+|type2=Dragon
+|pictype=art
+|no1=1009
+|name1=Walking Wake
+|type1-1=Water
+|type2-1=Dragon}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=water|type2=dragon}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=1009}}-->
+{{Spritebox/HOME|ndex=1009}}
+{{Spritebox/Footer|1009|Walking Wake}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+==In the TCG==
+{{main|Walking Wake (TCG)}}
+
+==Trivia==
+[[File:Scarlet Book Legendary-Beast.png|200px|thumb|Sketch resembling Walking Wake in the Scarlet Book]]
+* Before the official reveal of Walking Wake, a sketch of an imaginary Pokémon similar to it appeared in the [[Scarlet Book]] in {{g|Scarlet}} as an amalgam of the [[Legendary beasts]] ({{p|Raikou}}, {{p|Entei}}, and {{p|Suicune}}).
+* Walking Wake and {{p|Iron Leaves}} can be considered counterparts of one another.
+** They are both {{pkmn2|event}}-exclusive [[Paradox Pokémon]] with [[signature move]]s that can be caught only once per save file. 
+** They are both based on a [[Legendary Pokémon]] that is a member of a [[Legendary trio]]. Despite being based on Legendary Pokémon, they are both not considered Legendary Pokémon themselves.
+** They are the first Paradox Pokémon that can be encountered in a [[Tera Raid Battle]] and were both revealed and released simultaneously in the same [[Poké Portal News]] event and software update.
+**They were both teased in the [[Scarlet Book]]{{sup/9|S}}/[[Violet Book]]{{sup/9|V}}, though neither of them appear in any editions of {{DL|Magazines in the Pokémon world|Occulture}} magazine.
+** Prior to the release of [[The Indigo Disk]], their Pokédex entries in {{g|HOME}} were both only three words long and shared between Scarlet and Violet, but have been since replaced. Walking Wake's placeholder entry said "Ecology under research."
+* Walking Wake, Iron Leaves, and {{p|Pecharunt}} are the only Pokémon that can be registered but are not required for the completion of the Blueberry Pokédex.
+
+===Origin===
+Walking Wake is based on {{p|Suicune}}. Its bipedal reptilian appearance is based on {{wp|theropod}} dinosaurs and possibly the {{wp|basilisk lizard}} — the latter also has the ability to run on water. It may also be based on the {{wp|Qilin}}, which appears to be one of Suicune's original inspirations.
+
+Being more specific on Walking Wake's theropod features and Water typing, it could be based on a number of genera. It shares physical attributes with smaller theropods such as the ''{{wp|Coelophysis}}'' genus, also called to a lesser degree ''Rioarribasaurus'', from ''Río arriba'' (''upriver'' in Spanish), or the ''{{wp|Dilong}}'' genus, whose name translates to "emperor dragon". ''Coelophysis'' lived in the {{wp|Triassic}} period, characterized by a dry and hot climate, although with frequent flash floods in the areas with more rainfall, which may be referenced in its Water typing. As Walking Wake is much larger than the real-life ''Coelophysis'' and many other theropod dinosaur Pokémon, it may also be based on larger theropods such as ''{{wp|Giganotosaurus}}'', ''{{wp|Dryptosaurus}}'', or ''{{wp|Carcharodontosaurus}}'', which are commonly depicted with spines along its back similar to those seen on Walking Wake; the latter's name translates to "shark-toothed lizard", which corresponds to Walking Wake's Water/Dragon typing.
+
+====Name origin====
+Walking Wake is literally ''walking wake''. A {{wp|Wake (physics)|wake}} is a movement of water created by a moving object.
+
+Uneruminamo can be taken literally as うねる水面 ''uneru minamo'' (undulating water's surface).
+
+==In other languages==
+{{Other languages|type=Water|type2=Dragon
+|ja=ウネルミナモ ''Uneruminamo''|jameaning=From {{tt|うねる水面 ''uneru minamo''|undulating water's surface}}
+|fr=Serpente-Eau|frmeaning=From ''{{tt|serpenter|to snake, to wind}}'' and ''{{tt|eau|water}}''
+|es=Ondulagua|esmeaning=From ''{{tt|ondular|to wave}}'' and ''{{tt|agua|water}}''
+|de=Windewoge|demeaning=From ''{{tt|winde|to wind}}'' and ''{{tt|Woge|wave}}''
+|it=Acquecrespe|itmeaning=From ''{{tt|acqua|water}}'' and ''{{tt|crespo|curly, creased}}'' or ''{{tt|increspato|rippled}}'' 
+|ko=굽이치는물결 ''Gubichineunmulgyeol''|komeaning=From {{tt|굽이치는 물결 ''gubichineun mulgyeol''|undulating wave}}
+|zh_cmn=波盪水 / 波荡水 ''Bōdàngshuǐ''|zh_cmnmeaning=From {{tt|波 ''bō''|wave}}, {{tt|盪 / 荡 ''dàng''|to undulate}}, and {{tt|水 ''shuǐ''|water}}
+|zh_yue=波盪水 ''Bōdohngséui''|zh_yuemeaning=From {{tt|波 ''bō''|wave}}, {{tt|盪 ''dohng''|to undulate}}, and {{tt|水 ''séui''|water}}
+|hi=वॉकिंगवेव ''Walkingwave''|himeaning=From ''walking'' and ''wave''
+|pt_br=Onda Ando|pt_brmeaning=From ''{{tt|onda|wave}}'' and ''{{tt|ando|I walk}}'' or possibly ''{{tt|ondulando|waving}}''
+|th=คลื่นน้ำกระเพื่อม ''Khluennamkraphueam''|thmeaning=From {{tt|คลื่น ''khluen''|wave}}, {{tt|น้ำ ''nam''|water}} and {{tt|กระเพื่อม ''kraphueam''|rippling}}}}
+
+==See also==
+* [[Paradox Pokémon]]
+* [[Scarlet Book]]
+* [[Legendary beasts]]
+
+==References==
+<references/>
+
+==External links==
+
+{{EventExclusive}}
+{{Paradox Pokémon}}
+
+{{PokémonPrevNext/Head|type=Water|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=1008|prev=Miraidon|nextnum=1010|next=Iron Leaves}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Generation IX Pokémon]]
+[[Category:Paradox Pokémon]]
+[[Category:Ancient Pokémon]]
+[[Category:Event-exclusive Pokémon]]
+
+[[de:Windewoge]]
+[[es:Ondulagua]]
+[[fr:Serpente-Eau]]
+[[it:Acquecrespe]]
+[[ja:ウネルミナモ]]
+[[zh:波荡水]]

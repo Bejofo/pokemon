@@ -1,0 +1,313 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Dubwool}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0831|prev=Wooloo|nextnum=0833|next=Chewtle|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Dubwool
+|jname=バイウールー
+|jtranslit=Baiūrū
+|tmname=Baiwooluu
+|ndex=0832
+|type1=Normal
+|category=Sheep
+|height-ftin=4'03"
+|height-m=1.3
+|weight-lbs=94.8
+|weight-kg=43.0
+|abilityn=d
+|ability1=Fluffy
+|ability2=Steadfast
+|abilityd=Bulletproof
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=2
+|evde=2
+|expyield=172
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|catchrate=127
+|body=08
+|pokefordex=dubwool
+|generation=8
+|friendship=50
+}}
+'''Dubwool''' ([[List of Japanese Pokémon names|Japanese]]: '''バイウールー''' ''Baiwooluu'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{p|Wooloo}} starting at [[level]] 24.
+
+==Biology==
+Dubwool is an {{wp|sheep|ovine}} {{OBP|Pokémon|species}}, with most of its body covered by a round coat of white wool with some black patches around it. It has a gray woolly ring around its head from which two small curved horns extrude below its head. Dubwool's head is mostly black with a white patch surrounding its mouth and nose and extending to its forehead in three petal-like tips. It has two larger, longer, dark horns on top of its head which curve backwards. Its nose is pink and its eyes are yellow with black irises and white horizontal pupils with small gray eyebrows above them. Its legs are black with a visible ankle and with brown hooves. It also has a short, black, pointy tail.
+
+Dubwool's wool is very springy. Its horns serve the purpose of attracting the opposite gender rather than being used in battles. Dubwool are known to mysteriously disappear whenever a {{p|Beheeyem}} visits.
+
+===Evolution===
+Dubwool evolves from {{p|Wooloo}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0831
+|name1=Wooloo
+|type1-1=Normal
+|evo1=
+|no2=0832
+|name2=Dubwool
+|type1-2=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=035|reg2=Galar|label2=Crown Tundra|num2=004|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its majestic horns are meant only to impress the opposite gender. They never see use in battle.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Dusty Bowl]], [[Hammerlocke Hills]], [[Motostoke Riverbank]], [[Rolling Fields]]<br>[[Bridge Field/Dens|Bridge Field]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Rolling Fields/Dens|Rolling Fields]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Slippery Slope]], [[Frostpoint Field]], [[Giant's Bed]], [[Snowslide Slope]], [[Three-Point Pass]]<br>[[Slippery Slope]], [[Frostpoint Field]], [[Giant's Bed]], [[Snowslide Slope]] ([[Wanderer]])<br>[[Fields of Honor/Dens|Fields of Honor]], [[Soothing Wetlands/Dens|Soothing Wetlands]], [[Stepping-Stone Sea/Dens|Stepping-Stone Sea]], [[Insular Sea/Dens|Insular Sea]], [[Slippery Slope/Dens|Slippery Slope]], [[Giant's Bed/Dens|Giant's Bed]], [[Giant's Foot/Dens|Giant's Foot]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|HP=72
+|Attack=80
+|Defense=100
+|SpAtk=60
+|SpDef=90
+|Speed=88
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+|fluffy=maybe
+|newfire=2
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Dubwool|Normal|Normal|8}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level8|1|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level8|12|Guard Split|Psychic|Status|—|—|10}}
+{{learnlist/level8|16|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level8|21|Headbutt|Normal|Physical|70|100|15||'''}}
+{{learnlist/level8|27|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level8|32|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/level8|38|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/level8|44|Cotton Guard|Grass|Status|—|—|10}}
+{{learnlist/level8|50|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/level8|56|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/levelf/8|Dubwool|Normal|Normal|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Dubwool|Normal|Normal|8}}
+{{learnlist/tm8|TM01|Mega Kick|Normal|Physical|120|75|5||'''}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15||'''}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM52|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM61|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm8|TM79|Retaliate|Normal|Physical|70|100|5||'''}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR21|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tr|TR80|Electro Ball|Electric|Special|—|100|10}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tr|TR99|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tmf/8|Dubwool|Normal|Normal|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Dubwool|Normal|Normal|8}}
+{{learnlist/breed8|{{MSP/8c|263G|Zigzagoon}}{{MSP/8c|264G|Linoone}}{{MSP/8c|862|Obstagoon}}{{MSP/8c|448|Lucario}}{{MSP/8c|745Mn|Lycanroc}}{{MSP/8c|745D|Lycanroc}}{{MSP/8c|749|Mudbray}}{{MSP/8c|750|Mudsdale}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}{{MSP/8c|819|Skwovet}}{{MSP/8c|820|Greedent}}|Counter|Fighting|Physical|—|100|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|077|Ponyta}}{{MSP/8c|077G|Ponyta}}{{MSP/8c|078|Rapidash}}{{MSP/8c|078G|Rapidash}}{{MSP/8c|111|Rhyhorn}}{{MSP/8c|112|Rhydon}}{{MSP/8c|464|Rhyperior}}{{MSP/8c|293|Whismur}}{{MSP/8c|294|Loudred}}{{MSP/8c|295|Exploud}}{{MSP/8c|749|Mudbray}}{{MSP/8c|750|Mudsdale}}{{MSP/8c|878|Cufant}}{{MSP/8c|879|Copperajah}}|Stomp|Normal|Physical|65|100|20||'''|grid=7}}
+{{learnlist/breed8|{{MSP/8c|052G|Meowth}}{{MSP/8c|863|Perrserker}}{{MSP/8c|128|Tauros}}{{MSP/8c|274|Nuzleaf}}{{MSP/8c|275|Shiftry}}{{MSP/8c|364|Sealeo}}{{MSP/8c|365|Walrein}}{{MSP/8c|403|Shinx}}{{MSP/8c|404|Luxio}}{{MSP/8c|405|Luxray}}{{MSP/8c|551|Sandile}}{{MSP/8c|552|Krokorok}}{{MSP/8c|553|Krookodile}}{{MSP/8c|559|Scraggy}}{{MSP/8c|560|Scrafty}}{{MSP/8c|614|Beartic}}{{MSP/8c|725|Litten}}{{MSP/8c|726|Torracat}}{{MSP/8c|727|Incineroar}}|Swagger|Normal|Status|—|85|15|grid=7}}
+{{learnlist/breedf/8|Dubwool|Normal|Normal|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Dubwool|Normal|Normal|8}}
+{{learnlist/tutor8|Grassy Glide|Grass|Physical|70|100|20|||no|yes}}
+{{learnlist/tutorf/8|Dubwool|Normal|Normal|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Dubwool|Normal|Normal|8}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Dubwool|Normal|Normal|8}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|}}
+{{Spindata/GO|col=6|type=Normal|ndex=832
+|egg=N/A
+|buddy=3
+|candy=Wooloo
+|evolution=N/A
+|stamina=176
+|attack=159
+|defense=198
+|fast={{m|Tackle}}, {{m|Take Down}}, {{m|Double Kick}}{{tt|*|From September 1, 2022 onward}}
+|special={{m|Wild Charge}}, {{m|Body Slam}}, {{m|Payback}}
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{normal color dark}}; background:#{{normal color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{normal color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{normal color dark}}; background:#{{normal color light}};"| [[File:GO0832Holiday2024.png|100px]]
+|-
+| Holiday attire
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0831
+|name1=Wooloo
+|type1-1=Normal
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 24}}
+|no2=0832
+|name2=Dubwool
+|type1-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=832}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0832}}
+{{Spritebox/Footer|832|Dubwool}}
+
+==In animation==
+[[File:Rocket Prize Master Dubwool.png|thumb|250px|Dubwool in {{aniseries|JN}}]]
+===Main series===
+====Major appearances====
+Dubwool made its animated series debut in ''[[JN127|Just a Scone's Throw From Here!]]'', where [[James]] pulled one out of the [[Rocket Prize Master]].
+
+====Minor appearances====
+Dubwool debuted in ''[[M23|Secrets of the Jungle]]''.
+
+===Pokémon: Twilight Wings===
+[[File:Hop Dubwool Cramorant TW.png|thumb|250px|Dubwool in [[Pokémon: Twilight Wings]]]]
+A Dubwool appeared in ''[[TW08|The Gathering of Stars]]'', under the ownership of [[Hop]].
+
+===GOTCHA!===
+A Dubwool briefly appeared in [[GOTCHA!]], under the ownership of [[Hop]].
+
+===Pokémon Evolutions===
+A Dubwool appeared in a flashback in ''[[PE01|The Champion]]'', under the ownership of [[Hop]].
+{{-}}
+
+==In the manga==
+[[File:Hop Dubwool Adventures.png|thumb|150px|Dubwool in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Dubwool debuted in ''[[PASS21|Swaying!! Murky Memories]]'', under the ownership of [[Hop]]. It evolved from his Wooloo.
+{{-}}
+
+==In the TCG==
+{{main|Dubwool (TCG)}}
+==Trivia==
+
+===Origin===
+Dubwool may be based on the {{wp|Jacob sheep}}, a British breed of domestic sheep notable for its four horns and black-and-white color scheme. The shape of its wool and the pattern on it resembles a {{wp|Ball (association football)|soccer ball}}.
+
+====Name origin====
+Dubwool may be a combination of ''double'' and ''wool''.
+
+Baiwooluu may be a combination of 倍 ''bai'' (twice), ''wool'', and ''Wooluu'' ({{p|Wooloo}}'s Japanese name).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=バイウールー ''Baiwooluu''|jameaning=From {{tt|倍 ''bai''|twice}}, ''wool'', and {{p|Wooloo|ウールー ''Wooluu''}}
+|fr=Moumouflon|frmeaning=From ''{{tt|moumoute|sheepskin}}'', ''{{tt|mou|soft}}'', and ''{{wp|mouflon}}''
+|es=Dubwool|esmeaning=Same as English name
+|de=Zwollock|demeaning=From ''{{tt|zweimal|twice}}'', ''{{tt|Wolle|wool}}'', ''{{tt|Locke|curl}}'', and ''{{tt|Bock|ram; buck (a male sheep, goat, deer, etc.)}}''
+|it=Dubwool|itmeaning=Same as English name
+|ko=배우르 ''Baewoolu''|komeaning=From {{tt|배 (倍) ''bae''|double}}, ''wool'', and {{tt|우르 ''Woolu''|Wooloo}}
+|zh_cmn=毛毛角羊 ''Máomáojiǎoyáng''|zh_cmnmeaning=From {{tt|羊毛 ''yángmáo''|wool}}, {{tt|角 ''jiǎo''|horn}}, and {{tt|羊 ''yáng''|sheep, goat}}
+|zh_yue=毛毛角羊 ''Mòuhmòuhgokyèuhng''|zh_yuemeaning=From {{tt|羊毛 ''yèuhngmòuh''|wool}}, {{tt|角 ''gok''|horn}}, and {{tt|羊 ''yèuhng''|sheep, goat}}
+|hi=औरून ''Auroon''|himeaning=From {{tt|और ''aur''|more}} and {{tt|ऊन ''ūn''|wool}}
+|th=ไบวูลู ''Baiwulu''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0831|prev=Wooloo|nextnum=0833|next=Chewtle}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Zwollock]]
+[[es:Dubwool]]
+[[fr:Moumouflon]]
+[[it:Dubwool]]
+[[ja:バイウールー]]
+[[zh:毛毛角羊]]

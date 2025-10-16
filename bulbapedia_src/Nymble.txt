@@ -1,0 +1,282 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Nymble}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0918|prev=Spidops|nextnum=0920|next=Lokix|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Nymble
+|jname=マメバッタ
+|tmname=Mamebatta
+|ndex=0919
+|type1=Bug
+|category=Grasshopper
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=2.2
+|weight-kg=1.0
+|abilityn=1
+|ability1=Swarm
+|ability2=
+|abilityd=Tinted Lens
+|egggroupn=1
+|egggroup1=Bug
+|egggroup2=
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=1
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=42
+|lv100exp=1000000
+|gendercode=127
+|color=Gray
+|catchrate=190
+|body=14
+|pokefordex=Nymble
+|generation=9
+|friendship=20
+}}
+'''Nymble''' ([[List of Japanese Pokémon names|Japanese]]: '''マメバッタ''' ''Mamebatta'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Lokix}} starting at [[level]] 24.
+
+==Biology==
+[[File:4KomaPlaza415.png|thumb|left|150px|Nymble using its third set of legs to jump]]
+Nymble is a gray, oblong, insectoid Pokémon resembling a grasshopper, with dark gray colorations on its face, back, and legs. Its head has two stubby semicircular antennae, a circle on its snout resembling a mouth or nose, and yellow compound eyes shaped like rounded crosses, complete with cross-shaped black pupils. Its body is divided by lines into multiple segments, and it has an X-shaped pattern on its underside. It has six legs: two pairs of legs are located on the sides of its body, and each of the forelimbs is dark gray and contains a single claw. The third pair of legs is located above its body and is much larger; they are oblong in shape and solid dark gray in color, with light gray ring patterns over the joints. Nymble usually keeps its third set of legs folded up.
+
+When threatened, Nymble can jump to a height of over 30 feet (10 meters).<!--in the foreign dex entries--> Its jumping capabilities allow it to dodge attacks while dealing damage.
+
+===Evolution===
+Nymble evolves into {{p|Lokix}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|pictype=art
+|no1=0919
+|name1=Nymble
+|type1-1=Bug
+|evo1=
+|no2=0920
+|name2=Lokix
+|type1-2=Bug
+|type2-2=Dark}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=14|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over {{tt|30 feet|10 m}} using the strength of its legs.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It's highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{bug color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Nymble SV.png|x200px]]
+|-
+| Nymble in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Two)|Area Two]], [[South Province (Area Three)|Area Three]], [[South Province (Area Six)|Area Six]]<br>West Province: [[West Province (Area One)|Area One]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Nymble|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|HP=33
+|Attack=46
+|Defense=40
+|SpAtk=21
+|SpDef=25
+|Speed=45
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Nymble|Bug|Bug|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|4|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level9|6|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|9|Assurance|Dark|Physical|60|100|10||''}}
+{{learnlist/level9|11|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level9|14|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|18|Endure|Normal|Status|—|—|10}}
+{{learnlist/level9|22|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level9|26|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level9|30|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|38|Sucker Punch|Dark|Physical|70|100|5||''}}
+{{learnlist/level9|41|First Impression|Bug|Physical|90|100|10||'''}}
+{{learnlist/levelf/9|Nymble|Bug|Bug|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Nymble|Bug|Bug|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tmf/9|Nymble|Bug|Bug|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Nymble|Bug|Bug|9}}
+{{learnlist/breed9|{{MSP/H|0214|Heracross}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}|Counter|Fighting|Physical|—|100|20|grid=3}}
+{{learnlist/breed9|{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}|Skitter Smack|Bug|Physical|70|90|10||'''|grid=3}}
+{{learnlist/breedf/9|Nymble|Bug|Bug|9}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/GO|col=6|type=Bug|ndex=0919
+|hatch=N/A
+|buddy=1
+|candy=Nymble
+|evocandy=50
+|stamina=107
+|attack=81
+|defense=65
+|fast={{m|Bug Bite}}, {{m|Struggle Bug}}
+|special={{m|X-Scissor}}, {{m|Trailblaze}}, {{m|Bug Buzz}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|pictype=art
+|no1=0919
+|name1=Nymble
+|type1-1=Bug
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 24}}
+|no2=0920
+|name2=Lokix
+|type1-2=Bug
+|type2-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=bug}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0919}}-->
+{{Spritebox/HOME|ndex=0919}}
+{{Spritebox/Footer|919|Nymble}}
+
+==In animation==
+[[File:Nymble anime.png|thumb|250px|Nymble in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+====Minor appearances====
+A {{pkmn2|wild}} Nymble appeared in ''[[HZ047|Put Your Heart Into It!]]'', marking the species' debut.
+
+A Nymble appeared in ''[[HZ053|Hatenna and the Otherworldly]]''.
+
+===POKÉTOON===
+Two Nymble appeared in [[PT12]].
+
+==In the manga==
+[[File:Violet Nymble.png|thumb|left|200px|Nymble in [[Pokémon Adventures]]]]
+[[File:Violet Terastallized Nymble.png|thumb|200px|Tera Nymble in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Nymble debuted in ''[[PASV03|Battle! Team Star, the Delinquents!!]]'', under the ownership of {{Violet}}. He later evolved into a {{p|Lokix}} in [[PASV14]] after defeating a {{tc|Team Star Grunt}}.
+
+Another Nymble appeared in ''[[PASV06|Skillful! The Mysterious Treasure Hunter!!]]'', under [[Katy]]'s possession, and was used in a battle against {{adv|Scarlet}}.
+{{-}}
+
+==In the TCG==
+{{main|Nymble (TCG)}}
+
+==Trivia==
+
+===Origin===
+Nymble appears to be based on a {{wp|grasshopper}}. The fact that it cannot fly, unlike most grasshoppers, may suggest it is based on a {{wp|meadow grasshopper}}, or a {{wp|grasshopper}} in its {{wp|Nymph (biology)|nymph}} stage, which is alluded to in its English name. It may also be based on {{wp|Tridactylidae|pygmy mole crickets}} due to its coloration and rounded features. The way its third set of legs fold up resembles the Spanish {{wp|navaja}}s.
+
+====Name origin====
+Nymble may be a combination of ''{{wp|Nymph (biology)|nymph}}'' (immature form of an insect) and ''nimble''.
+
+Mamebatta may be a combination of 豆 ''mame'' (prefix for small) and 飛蝗 ''batta'' (locust; grasshopper).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=マメバッタ ''Mamebatta''|jameaning=From {{tt|豆 ''mame''|prefix for small}} and {{tt|飛蝗 ''batta''|locust; grasshopper}}
+|fr=Lilliterelle|frmeaning=From ''{{tt|lilliputien|lilliputian}}'' and ''{{tt|sauterelle|grasshopper}}''
+|es=Nymble|esmeaning=Same as English name
+|de=Micrick|demeaning=From ''{{tt|mickrig|small}}'' and ''cricket''
+|it=Nymble|itmeaning=Same as English name
+|ko=콩알뚜기 ''Kong-alttugi''|komeaning=From {{tt|콩알 ''kong-al''|bean; figurative term for small}} and {{tt|메뚜기 ''mettugi''|short-horned grasshopper; locust}}
+|zh_cmn=豆蟋蟀 ''Dòuxīshuài''|zh_cmnmeaning=From {{tt|豆 ''dòu''|bean}} and {{tt|蟋蟀 ''xīshuài''|cricket}}
+|zh_yue=豆蟋蟀 ''Dauhsīksēut''|zh_yuemeaning=From {{tt|豆 ''dauh''|bean}} and {{tt|蟋蟀 ''sīksēut''|cricket}}
+|hi=पिड्डा ''Pidda''|himeaning=From {{tt|पिद्दी ''piddī''|slang for tiny children}} and {{tt|टिड्डा ''ṭiḍḍā''|grasshopper/cricket/locust}}
+|th=มาเมะบัตตะ ''Mamebatta''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0918|prev=Spidops|nextnum=0920|next=Lokix}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Micrick]]
+[[es:Nymble]]
+[[fr:Lilliterelle]]
+[[it:Nymble]]
+[[ja:マメバッタ]]
+[[zh:豆蟋蟀]]

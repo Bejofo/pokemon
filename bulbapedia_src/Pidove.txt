@@ -1,0 +1,603 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/GO|species=Pidove}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0518|prev=Musharna|nextnum=0520|next=Tranquill|round=none}}
+{{PokémonPrevNext/Disambig|species=Pidove}}
+|}
+{{Pokémon Infobox
+|name=Pidove
+|jname=マメパト
+|tmname=Mamepato
+|category=Tiny Pigeon
+|typebox=1
+|type1=Normal
+|type2=Flying
+|abilityn=d
+|ability1=Big Pecks
+|ability2=Super Luck
+|abilityd=Rivalry
+|ndex=0519
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=4.6
+|weight-kg=2.1
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|expyield=53
+|lv100exp=1,059,860
+|gendercode=127
+|color=Gray
+|catchrate=255
+|body=09
+|evtotal=1
+|evat=1
+|pokefordex=pidove
+|generation=5
+|friendship=70
+}}
+'''Pidove''' ([[List of Japanese Pokémon names|Japanese]]: '''マメパト''' ''Mamepato'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Tranquill}} starting at [[level]] 21, which evolves into {{p|Unfezant}} starting at level 32.
+
+==Biology==
+Pidove is a mainly gray, pigeon-like {{OBP|Pokémon|species}}. It has golden, oval eyes and a tuft of feathers atop its rounded head. It has a short, black beak with a bulbous pink {{wp|cere}}, and a black patch on the nape of its neck. There is a wide, heart-shaped area of lighter coloration on its chest. Pidove's black wings have a thick gray stripe down the side. It has pink feet with black talons.
+
+Pidove is not particularly intelligent. While it always listens to its Trainer's commands, it does not always understand them. Pidove are so forgetful that they will wait for new orders from their Trainers even if it received one right before. In {{vg|Detective Pikachu}}, their forgetfulness extends to them not even remembering their own names. In the {{aniseries|JN}} episode ''[[JN029|There's a New Kid in Town!]]'', it extends to forgetting whatever scared them. Many Trainers love Pidove due to its friendliness and sincere nature. Pidove loves to follow people. Having no fear of people, flocks of Pidove are often found in city parks and plazas, though they can also be seen in grasslands and rural areas. The cooing of these flocks can be very noisy. About several hundred Pidove are known to gather when food is scattered on the ground for them.
+
+===Evolution===
+Pidove evolves into {{p|Tranquill}}, which evolves into {{p|Unfezant}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/2branch2
+|type1=Normal
+|type2=Flying
+|no1=0519
+|name1=Pidove
+|type1-1=Normal
+|type2-1=Flying
+|evo1=
+|no2=0520
+|name2=Tranquill
+|type1-2=Normal
+|type2-2=Flying
+|evo2a=[[File:Male icon HOME.png|link=Gender|32px]]<br><small>{{color2|000|Gender|Male}}</small>
+|no3a=0521
+|name3a=Unfezant
+|form3a=Male
+|art3a=0521Unfezant-Male
+|type1-3a=Normal
+|type2-3a=Flying
+|evo2b=[[File:Female icon HOME.png|link=Gender|32px]]<br><small>{{color2|000|Gender|Female}}</small>
+|no3b=0521
+|art3b=0521Unfezant-Female
+|form3b=Female
+|name3b=Unfezant
+|type1-3b=Normal
+|type2-3b=Flying
+|genderbranch=true}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=025|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=014|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.}}
+{{Dex/Entry1|v=White|entry=These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=026|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Where people go, these Pokémon follow. If you're scattering food for them, be careful— several hundred of them can gather at once.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|3|Unova}}, [[Pinwheel Forest]] (inner)}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|20|Unova}}, [[Floccesy Ranch]], [[Virbank Complex]], [[Castelia City]]<br>[[Pinwheel Forest]] (outer) ([[N's Pokémon]])}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Windswept Sky}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Pokémon breeding|Breed]] {{p|Tranquill}} or {{p|Unfezant}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|104|Hoenn}}, {{rtn|115|Hoenn}}, and {{rtn|116|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Rolling Fields]], [[East Lake Axewell]], [[North Lake Miloch]], [[Watchtower Ruins]]<br>[[Rolling Fields/Dens|Rolling Fields]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Bridge Field/Dens|Bridge Field]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|color={{galar color}}|v=Expansion Pass|link=Pokémon Sword and Shield Expansion Pass|area=[[Loop Lagoon/Dens|Loop Lagoon]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Trailhead Field]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Race against the Clock|Frenzy Square: Race against the Clock]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 1|Safari Jungle: Stage 1]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Lookout Tree|Leafy Expanse: Lookout Tree]] <small>(All Areas)</small>, [[Distortion Land#Gracious Woodlands|Distortion Land: Gracious Woodlands]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Castform Sea]], [[Buzzwole Sea]], [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#Tenth release|''Pokémon Safari'']] <small>(Tenth release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Normal|type2=Flying}}
+{{eventAvail|{{gameabbrev5|BW}}|Mystery Egg Ash's Pidove|Japanese|Japan<br>Wi-Fi|1|December 17, 2010 to January 11, 2011|link=List of Wi-Fi Japanese event Pokémon distributions in Generation V#Ash's Pidove}}
+{{eventAvail|{{gameabbrev5|BW}}|Secret Egg Ash's Pidove|English|United States|1|April 27 to May 31, 2011|link=List of local English event Pokémon distributions in Generation V#Ash's Pidove}}
+{{eventAvail|{{gameabbrev5|BW}}|Secret Egg Ash's Pidove|Korean|Wi-Fi|1|June 1 to 26, 2011|link=List of Wi-Fi Korean event Pokémon distributions in Generation V#Ash's Pidove}}
+|}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|type2=Flying
+|HP=50
+|Attack=55
+|Defense=50
+|SpAtk=36
+|SpDef=30
+|Speed=43}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+Pidove is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Pidove|Normal|Flying|5}}
+{{learnlist/level8|1|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|4|Leer|Normal|Status|—|100|30}}
+{{learnlist/level8|8|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level8|12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level8|16|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level8|20|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level8|24|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/level8|28|Detect|Fighting|Status|—|—|5}}
+{{learnlist/level8|32|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level8|36|Roost|Flying|Status|—|—|10}}
+{{learnlist/level8|40|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/level8|44|Sky Attack|Flying|Physical|140|90|5||'''}}
+{{learnlist/levelf/8|Pidove|Normal|Flying|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Pidove|Normal|Flying|5}}
+{{learnlist/tm8|TM06|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15||'''}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM30|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm8|TM95|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR13|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/tr|TR36|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR85|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tmf/8|Pidove|Normal|Flying|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Pidove|Normal|Flying|5}}
+{{learnlist/breed8|{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}{{MSP/8c|627|Rufflet}}{{MSP/8c|628|Braviary}}|Defog|Flying|Status|—|—|15|grid=4}}
+{{learnlist/breed8|{{MSP/8c|163|Hoothoot}}{{MSP/8c|164|Noctowl}}{{MSP/8c|561|Sigilyph}}|Hypnosis|Psychic|Status|—|60|20|grid=4}}
+{{learnlist/breed8|{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}|Morning Sun|Normal|Status|—|—|5|*|grid=4}}
+{{learnlist/breed8|{{MSP/8c|083|Farfetch'd}}{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}|Night Slash|Dark|Physical|70|100|15|*|grid=4}}
+{{learnlist/breed8|{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}{{MSP/8c|177|Natu}}{{MSP/8c|178|Xatu}}|Wish|Normal|Status|—|—|10|grid=4}}
+{{learnlist/breedf/8|Pidove|Normal|Flying|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Pidove|Normal|Flying|5}}
+{{learnlist/tutor8|Dual Wingbeat|Flying|Physical|40|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Pidove|Normal|Flying|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Pidove|Normal|Flying|5}}
+{{learnlist/prevgen8|Pidove|5|Aerial Ace|Flying|Physical|60|—|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pidove|5|Bestow|Normal|Status|—|—|15|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Pidove|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pidove|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pidove|5|Echoed Voice|Normal|Special|40|100|15||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pidove|5|Frustration|Normal|Physical|—|100|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Pidove|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Pidove|5|Lucky Chant|Normal|Status|—|—|30|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Pidove|5|Pluck|Flying|Physical|60|100|20||'''|V=yes<!--TM-->}}
+{{learnlist/prevgen8|Pidove|5|Razor Wind|Normal|Special|80|100|10||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Pidove|5|Return|Normal|Physical|—|100|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Pidove|5|Secret Power|Normal|Physical|70|100|20||'''|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Pidove|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Pidove|Normal|Flying|5}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/PSMD|col=6|type=Normal|ndex=519
+|coset=7
+|conto={{p|Altaria}}
+|recruitment=Visit {{p|Altaria}}'s secret base
+|P1=Lately, I feel that I'm becoming forgetful. Should I be worried?
+|P2=I'm tuckered out...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=519
+|walk=1.45
+|hp=48
+|attack=66
+|defense=45
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=519
+|pad=Pidove fly over the beach. Their motto is not to do anything tiring, but they do like to play Chase.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=519|bttype=Flying
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=519|stype=Flying|num=576
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Quirky
+|skilldesc=Sometimes erases one extra matching Pokémon elsewhere.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=519
+|hatch=2 km
+|buddy=1
+|candy=Pidove
+|evocandy=12
+|stamina=137
+|attack=98
+|defense=80
+|fast={{m|Quick Attack}}, {{m|Air Slash}}
+|special={{m|Heat Wave}}, {{m|Aerial Ace}}, {{m|Air Cutter}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox/2branch2
+|type1=Normal
+|type2=Flying
+|no1=0519
+|name1=Pidove
+|type1-1=Normal
+|type2-1=Flying
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 21}}
+|no2=0520
+|name2=Tranquill
+|type1-2=Normal
+|type2-2=Flying
+|evo2a={{Bag/s|Rare Candy|SV}} + [[File:Male icon HOME.png|link=Gender|32px]]<br>{{color2|000|Level|Level 32}}<br><small>({{color2|000|Gender|male}})</small>
+|no3a=0521
+|name3a=Unfezant
+|form3a=Male
+|art3a=0521Unfezant-Male
+|type1-3a=Normal
+|type2-3a=Flying
+|evo2b={{Bag/s|Rare Candy|SV}} + [[File:Female icon HOME.png|link=Gender|32px]]<br>{{color2|000|Level|Level 32}}<br><small>({{color2|000|Gender|female}})</small>
+|no3b=0521
+|art3b=0521Unfezant-Female
+|form3b=Female
+|name3b=Unfezant
+|type1-3b=Normal
+|type2-3b=Flying
+|genderbranch=true
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=519}}
+{{Spritebox/6|ndex=519|crop=50}}
+{{Spritebox/7|ndex=519|crop=49}}
+{{Spritebox/8|ndex=519}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0519}}
+{{Spritebox/Footer|519|Pidove}}
+
+==In animation==
+[[File:Pidove anime.png|thumb|250px|Pidove in {{aniseries|JN}}]]
+===Major appearances===
+====[[Ash's Pidove]]====
+In ''[[BW002|Enter Iris and Axew!]]'', after {{Ash}} was attacked by a flock of Pidove that later flew away, one was left behind. He battled and eventually {{pkmn2|caught}} her. She evolved into a Tranquill in ''[[BW022|A Venipede Stampede!]]'', and then into an Unfezant in ''[[BW068|An Amazing Aerial Battle!]]''.
+
+====Other====
+In ''[[BW069|Climbing the Tower of Success!]]'', multiple Pidove were the last obstacle in the [[Wishing Bell Festival]] contest.
+
+Multiple Pidove appeared in ''[[BW112|Team Plasma's Pokémon Power Plot!]]'', with one under the ownership of a {{pkmn|Trainer}} and the rest being {{pkmn2|wild}}; some of the wild Pidove appeared in a flashback.
+
+In ''[[JN029|There's a New Kid in Town!]]'', a Pidove had been injured and separated from its Trainer at the start of the episode, whereupon it was found by [[Professor Cerise's Yamper]]. [[Chloe]] and [[Parker]] nursed Pidove back to health before it was reunited with its Trainer.
+
+===Minor appearances===
+Multiple Pidove debuted in ''[[BW001|In The Shadow of Zekrom!]]''.
+
+Multiple Pidove appeared in ''[[BW002|Enter Iris and Axew!]]''. Ash attempted to catch one, but he was attacked by the other members of its flock. After that, they flew away, except for one that he later catches.
+
+In ''[[BW003|A Sandile Gusher of Change!]]'', multiple Pidove, Patrat, and Deerling needed help from Ash and {{ashfr}}.
+
+A Pidove appeared in ''[[BW005|Triple Leaders, Team Threats!]]''.
+
+A Trainer's Pidove appeared in ''[[BW006|Dreams by the Yard Full!]]''.
+
+Multiple Pidove appeared in a flashback in ''[[BW009|The Bloom Is on Axew!]]''.
+
+In ''[[BW019|A Connoisseur's Revenge!]]'', multiple Trainers' Pidove were at a [[Poké Mart]] near [[Castelia City]].
+
+Multiple Pidove appeared in ''[[BW020|Dancing With the Ducklett Trio!]]''.
+
+Multiple Pidove appeared in ''[[BW023|Battling For The Love of Bug-Types!]]''.
+
+In a flashback in ''[[BW033|Iris and Excadrill Against the Dragon Buster!]]'', a Pidove was one of {{an|Iris}}'s Pokémon friends when she was little in the [[Village of Dragons]].
+
+A Pidove appeared in ''[[BW034|Gotta Catch A Roggenrola!]]''.
+
+Multiple Pidove appeared in ''[[BW035|Where Did You Go, Audino?]]''.
+
+A Pidove appeared in ''[[BW037|A Fishing Connoisseur in a Fishy Competition!]]''.
+
+Two Pidove appeared in ''[[BW039|Reunion Battles In Nimbasa!]]''.
+
+Multiple Pidove appeared in [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']].
+
+Multiple Pidove appeared in ''[[BW042|Club Battle Finale: A Hero's Outcome!]]''.
+
+A Pidove appeared in ''[[BW047|Crisis from the Underground Up!]]''.
+
+Multiple Pidove appeared in ''[[BW051|Lost at the Stamp Rally!]]''.
+
+Multiple Pidove appeared in ''[[BW052|Ash Versus the Champion!]]''.
+
+Multiple Pidove appeared in ''[[BW053|A Maractus Musical!]]''.
+
+Multiple Pidove appeared in ''[[BW054|The Four Seasons of Sawsbuck!]]''.
+
+In ''[[BW056|The Lonely Deino!]]'', multiple Pidove were under [[Bobby]]'s care.
+
+Multiple Pidove appeared in ''[[BW058|A Call for Brotherly Love!]]''.
+
+Multiple Pidove appeared in ''[[BW059|Stopping the Rage of Legends! Part 1]]''.
+
+A Pidove appeared in ''[[BW066|Baffling the Bouffalant!]]''.
+
+Multiple Pidove appeared in ''[[BW069|Climbing the Tower of Success!]]'', with one under the ownership of a Trainer and the rest being wild.
+
+Two Pidove appeared in ''[[BW083|Rocking the Virbank Gym! Part 1]]''.
+
+Multiple Pidove appeared in ''[[BW085|All for the Love of Meloetta!]]''.
+
+Multiple Pidove appeared in ''[[M15|Kyurem VS. The Sword of Justice]]''.
+
+Multiple Pidove appeared in ''[[BW089|Iris and the Rogue Dragonite!]]''.
+
+Two Pidove appeared in ''[[BW090|Jostling for the Junior Cup!]]'', both under the ownership of a Trainer.
+
+Multiple Pidove appeared in ''[[BW092|Ash, Iris, and Trip: Then There Were Three!]]''.
+
+Multiple Pidove appeared in ''[[BW098|Beauties Battling for Pride and Prestige!]]''.
+
+In ''[[BW100|A Village Homecoming!]]'', the {{OBP|elder|Village of Dragons}}'s flashback featured a Pidove.
+
+Multiple Pidove appeared in ''[[BW103|Curtain Up, Unova League!]]'', with some under the ownership of a Trainer and others being wild.
+
+Two Pidove appeared in ''[[BW104|Mission: Defeat Your Rival!]]'', both under the ownership of a Trainer.
+
+Multiple Pidove appeared in ''[[BW105|Lost at the League!]]'', all under the ownership of a Trainer.
+
+A Pidove appeared in ''[[BW106|Strong Strategy Steals the Show!]]''.
+
+A Pidove appeared in ''[[BW114|Saving Braviary!]]''.
+
+In ''[[BW118|Secrets From Out of the Fog!]]'', multiple Pidove were living at [[N's hideout]].
+
+Multiple Pidove appeared in ''[[BW120|Ash and N: A Clash of Ideals!]]'', with one of them appearing in a fantasy.
+
+In ''[[BW127|The Island of Illusions!]]'', a Pidove was a resident of [[Grand Spectrala Islet]]. Another Pidove was in a flashback, under the ownership of a Trainer at the islet's [[Pokémon Center]].
+
+A Pidove appeared in ''[[BW132|Searching for a Wish!]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', multiple Pidove were living at [[Pokémon Hills]].
+
+A Trainer's Pidove appeared in ''[[BW134|The Journalist from Another Region!]]''.
+
+In ''[[BW138|Go, Go Gogoat!]]'', a Pidove was living at an {{OBP|unnamed island|BW138}} in the [[Decolore Islands]].
+
+A Pidove appeared in ''[[BW142|The Dream Continues!]]''.
+
+A Pidove appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+Three Pidove appeared in ''[[JN004|Settling the Scorbunny!]]''.
+
+Multiple Pidove appeared in ''[[JN013|The Climb to Be the Very Best!]]''.
+
+A Pidove appeared in ''[[M23|Secrets of the Jungle]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW002|Pidove|Ash's Pokédex|Pidove, the Tiny Pigeon Pokémon. A Pidove flock's cooing can get extremely noisy. Pidove is not attracted to shiny objects.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:N Pidove Adventures.png|thumb|200px|Pidove in [[Pokémon Adventures]]]]
+===Be the Best! Pokémon B+W===
+A Pidove appeared in ''[[PBW5|Let's Master Pokémon Capturing!]]''.
+
+===Pocket Monsters BW: Good Partners===
+A Pidove appeared in [[BWGP02]], under the ownership of [[Takurō]].
+
+Two Pidove appeared in [[BWGP03]].
+
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Pidove appeared in ''[[FAT1|Justice Trainer Shin Appears!]]''.
+
+===Pokémon Adventures===
+Two Pidove appeared in ''[[PS462|Choices]]''.
+
+A Pidove is one of the Pokémon employed by {{adv|White}} in her BW Agency. It first appeared in ''[[PS465|Lights, Camera...Action]]''.
+
+{{adv|N}} used a Pidove to battle {{adv|Black}} in [[Accumula Town]] in ''[[PS467|Letting Go]]''.
+
+A Pidove appeared in ''[[PS483|Special Delivery]]'' as one of the Pokémon competing in {{ci|Nimbasa}}'s [[Pokémon Musical]].
+
+A Pidove appeared in ''[[PS494|Up in the Air]]'' and ''[[PS547|The Final Battle]]''.
+
+Two Pidove appeared in a fantasy in ''[[PS507|A Misunderstanding]]''.
+
+{{adv|Cheren}} acquired a Pidove by the time he reached [[Castelia City]] in ''[[PS479|The Case of the Missing Pokémon]]''. Later, in [[Driftveil City]], he evolved into Tranquill.
+
+Three Pidove appeared in ''[[PS527|Flying Type]]''.
+
+A Pidove liberated by [[Team Plasma]] appeared in a flashback in ''[[PS529|Pokédex Lecture]]''.
+
+Prior to ''[[PS531|Unforgettable Memories]]'', a young [[Hugh]] was given a Pidove by his {{tc|Artist}} grandfather.
+
+A {{pkmn|Trainer}}'s Pidove appeared in ''[[PS535|Angry Boy]]'' and ''[[PS541|Pink Slip]]''.
+
+A Student's Pidove appeared in ''[[PS548|Epilogue]]''.
+
+A Pidove appeared in the [[Wild Area]] in ''[[PASS04|Zap!! A Rising Beam of Light]]''.
+
+==In the TCG==
+{{main|Pidove (TCG)}}
+
+==Trivia==
+* Pidove is the only {{OBP|Pokémon|species}} with a base stat total of 264.
+* Pidove was designed by [[Reiko Tanoue]].<ref>[http://raim2005.blog18.fc2.com/blog-entry-911.html Pokémon Peer interview] [http://pokebeach.com/2010/09/pokemon-peer-interview-translations (Translation by Pokebeach)]</ref>
+* Pidove is tied with {{p|Taillow}}, {{p|Wingull}}, {{p|Starly}}, and {{p|Pikipek}} for the lowest base {{stat|Special Defense}} stat of all {{type|Flying}} Pokémon.
+
+===Origin===
+Pidove is based on {{wp|Columbidae|pigeons and doves}} with a heart motif added. The motif's inclusion is a pun on the homophonous Japanese words 鳩 ''hato'' (pigeon) and ハート ''hāto'' (heart).<ref>''Nintendo Dream'' Vol. 201, January 2011 ([http://lavacutcontent.com/ken-sugimori-nintendo-dream-3/ Translation by Dr. Lava])</ref> It may also reference doves symbolizing romance, as Greek mythology associated the bird with {{wp|Aphrodite}}, the goddess of love. The Shiny form of Pidove may be based on the {{wp|rock dove}}.
+
+====Name origin====
+Pidove may be a combination of ''pigeon'' and ''dove'' or ''love'' (referencing the heart motif).
+
+Mamepato may be a combination of 忠実 ''mame'' (diligent) or 豆 ''mame'' (prefix meaning ''tiny'') and 鳩 ''hato'' (pigeon).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=マメパト ''Mamepato''|jameaning=From {{tt|忠実 ''mame''|diligent}} or {{tt|豆 ''mame''|prefix meaning tiny; bean}} and {{tt|鳩 ''hato''|pigeon}}
+|fr=Poichigeon|frmeaning=From ''{{tt|pois chiche|chickpea}}'' and ''pigeon''
+|es=Pidove|esmeaning=Same as English name
+|de=Dusselgurr|demeaning=From ''{{tt|dusselig|clumsy, lightheaded}}'' and ''{{tt|gurren|to coo}}''
+|it=Pidove|itmeaning=Same as English name
+|ko=콩둘기 ''Kongdulgi''|komeaning=From {{tt|콩 ''kong''|bean}} and {{tt|비둘기 ''bidulgi''|pigeon}}
+|zh_cmn=豆豆鴿 / 豆豆鸽 ''Dòudòugē''|zh_cmnmeaning=From {{tt|豆 ''dòu''|bean}} and {{tt|鴿 / 鸽 ''gē''|pigeon, dove}}
+|zh_yue=豆豆鴿 ''Dauhdauhgap''|zh_yuemeaning=From {{tt|豆 ''dauh''|bean}} and {{tt|鴿 ''gap''|pigeon, dove}}
+|hi=कबूटिंगा ''Kabootinga''|himeaning=From {{tt|कबूतर ''kabootar|pigeon}}
+|ru=Пидав ''Pidav''|rumeaning=Transcription of English name
+|th=มาเมพาโตะ ''Mamephato''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+*[[Ash's Pidove]]
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0518|prev=Musharna|nextnum=0520|next=Tranquill}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Dusselgurr]]
+[[es:Pidove]]
+[[fr:Poichigeon]]
+[[it:Pidove]]
+[[ja:マメパト]]
+[[zh:豆豆鸽]]

@@ -1,0 +1,454 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Tympole}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0534|prev=Conkeldurr|nextnum=0536|next=Palpitoad|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Tympole
+|jname=オタマロ
+|tmname=Otamaro
+|category=Tadpole
+|typebox=1
+|type1=Water
+|abilityn=d
+|ability1=Swift Swim
+|ability2=Hydration
+|abilityd=Water Absorb
+|ndex=0535
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=9.9
+|weight-kg=4.5
+|egggroupn=1
+|egggroup1=Water 1
+|eggcycles=20
+|expyield=59
+|lv100exp=1,059,860
+|gendercode=127
+|color=Blue
+|catchrate=255
+|evtotal=1
+|evsp=1
+|body=03
+|pokefordex=tympole
+|generation=5
+|friendship=70
+}}
+'''Tympole''' ([[List of Japanese Pokémon names|Japanese]]: '''オタマロ''' ''Otamaro'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Palpitoad}} starting at [[level]] 25, which evolves into {{p|Seismitoad}} starting at level 36.
+
+==Biology==
+Tympole is a round, tadpole-like {{OBP|Pokémon|species}} with a tan, circular face. It has large, oval, black eyes; a wide mouth with down-turned corners; and black eyebrows in the shape of quarter notes. Its spherical body is black with no visible limbs. Instead, it has two black-and-blue ringed cheeks akin to half-spheres on either side of its head. It has a long, blue tail with a fan-like shape and a black spot at its base.
+
+Tympole vibrates its cheeks to create a sound too high-pitched for humans and other species of Pokémon to hear. The sounds are used in rhythm to communicate with others of its kind, particularly for warning of danger. They are known to sing in high-pitched voices, which creates graceful ripples on the water's surface. The {{aniseries|BW}} episode ''[[BW032|Facing Fear with Eyes Wide Open!]]'' reveals that Tympole swim and attack in groups.
+
+===Evolution===
+Tympole evolves into {{p|Palpitoad}}, which evolves into {{p|Seismitoad}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-3
+|pictype=art
+|type=Water
+|no1=0535
+|name1=Tympole
+|type1-1=Water
+|evo1=
+|no2=0536
+|name2=Palpitoad
+|type1-2=Water
+|type2-2=Ground
+|evo2=
+|no3=0537
+|name3=Seismitoad
+|type1-3=Water
+|type2-3=Ground}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=041|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=228|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They warn others of danger by vibrating their cheeks to create a high-pitched sound.}}
+{{Dex/Entry1|v=White|entry=By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=132|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Graceful ripples running across the water's surface are a sure sign that Tympole are singing in high-pitched voices below.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It uses sound waves to communicate with others of its kind. People and other Pokémon species can't hear its cries of warning.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Pinwheel Forest]] (outside)}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Pinwheel Forest]] (outside) ([[N's Pokémon]])}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Palpitoad}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|102|Hoenn}}, {{rtn|114|Hoenn}}, and {{rtn|117|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Dappled Grove]], [[West Lake Axewell]], [[North Lake Miloch]], [[South Lake Miloch]], [[Watchtower Ruins]]<br>[[West Lake Axewell/Dens|West Lake Axewell]], [[South Lake Miloch/Dens|South Lake Miloch]], [[North Lake Miloch/Dens|North Lake Miloch]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Sun-Dappled Bank]], [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Stompstump Peak]], [[Forest Grotto]] (1F-7F), [[Mountain Pass]] (1F-7F), [[Silent Tundra]] (Uncharted Road, Gilded Hall), [[Dreamy Island]] (Uncharted Road, Gilded Hall), [[Moonlit Forest]] (Gilded Hall), [[Kecleon Bazaar]] (1F-20F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Sweet, Light, and Fluffy|Adventure Area: Sweet, Light, and Fluffy]] <small>(Reward)</small>, [[Frenzy Square#Make a Big Splash!|Frenzy Square: Make a Big Splash!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 5|Mysterious Fountain: Stage 5]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Purifying Pond|Gold Plateau: Purifying Pond]] <small>(All Areas)</small>, [[Black Realm#Soothing Shore|Black Realm: Soothing Shore]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 27|Area 27: Stage 01]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zapdos Sea]], [[Castform Sea]], [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 271]]<br>[[Zaffiro Coast|Zaffiro Coast: Stage 646]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Water}}
+{{HeldItems/Games2|Black|White|tcolor1=fff|Pokémon Black and White Versions}}
+{{HeldItems/Items1|Persim Berry|50}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|Pokémon Black and White Versions 2}}
+{{HeldItems/Items1|Pecha Berry|50}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|HP=50
+|Attack=50
+|Defense=40
+|SpAtk=50
+|SpDef=40
+|Speed=64}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|waterabsorb=maybe}}
+
+===Learnset===
+Tympole is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Tympole|Water|Water|5}}
+{{learnlist/level8|1|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|4|Acid|Poison|Special|40|100|30}}
+{{learnlist/level8|8|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level8|12|Mud Shot|Ground|Special|55|95|15||''}}
+{{learnlist/level8|16|Round|Normal|Special|60|100|15}}
+{{learnlist/level8|20|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level8|24|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level8|28|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level8|32|Aqua Ring|Water|Status|—|—|20}}
+{{learnlist/level8|36|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/level8|40|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/level8|44|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level8|48|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/8|Tympole|Water|Water|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Tympole|Water|Water|5}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM46|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm8|TM52|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15||''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tr|TR45|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/tr|TR67|Earth Power|Ground|Special|90|100|10||''}}
+{{learnlist/tr|TR78|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tr|TR84|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tr|TR91|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/tmf/8|Tympole|Water|Water|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Tympole|Water|Water|5}}
+{{learnlist/breed8|{{MSP/8c|131|Lapras}}{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}{{MSP/8c|270|Lotad}}{{MSP/8c|271|Lombre}}{{MSP/8c|272|Ludicolo}}{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|875|Eiscue}}|Mist|Ice|Status|—|—|30}}
+{{learnlist/breed8|{{MSP/8c|422|Shellos}}{{MSP/8c|423|Gastrodon}}{{MSP/8c|618|Stunfisk}}{{MSP/8c|618G|Stunfisk}}|Mud-Slap|Ground|Special|20|100|10||''}}
+{{learnlist/breed8|{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}{{MSP/8c|690|Skrelp}}{{MSP/8c|691|Dragalge}}{{MSP/8c|747|Mareanie}}{{MSP/8c|748|Toxapex}}{{MSP/8c|771|Pyukumuku}}|Toxic|Poison|Status|—|90|10}}
+{{learnlist/breed8|{{MSP/8c|007|Squirtle}}{{MSP/8c|008|Wartortle}}{{MSP/8c|009|Blastoise}}{{MSP/8c|054|Psyduck}}{{MSP/8c|055|Golduck}}{{MSP/8c|079|Slowpoke}}{{MSP/8c|079G|Slowpoke}}{{MSP/8c|080|Slowbro}}{{MSP/8c|080G|Slowbro}}{{MSP/8c|199|Slowking}}{{MSP/8c|199G|Slowking}}{{MSP/8c|131|Lapras}}{{MSP/8c|223|Remoraid}}{{MSP/8c|224|Octillery}}{{MSP/8c|226|Mantine}}{{MSP/8c|258|Mudkip}}{{MSP/8c|259|Marshtomp}}{{MSP/8c|260|Swampert}}{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|350|Milotic}}{{MSP/8c|422|Shellos}}{{MSP/8c|423|Gastrodon}}{{MSP/8c|690|Skrelp}}{{MSP/8c|691|Dragalge}}{{MSP/8c|692|Clauncher}}{{MSP/8c|693|Clawitzer}}{{MSP/8c|816|Sobble}}{{MSP/8c|817|Drizzile}}{{MSP/8c|818|Inteleon}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breedf/8|Tympole|Water|Water|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Tympole|Water|Water|5}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Tympole|Water|Water|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Tympole|Water|Water|5}}
+{{learnlist/prevgen8|Tympole|5|After You|Normal|Status|—|—|15|VI=yes<!--breed,tutor-->|VII=yes<!--breed,tutor-->}}
+{{learnlist/prevgen8|Tympole|5|Bubble|Water|Special|40|100|30||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Tympole|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Tympole|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Tympole|5|Endeavor|Normal|Physical|—|100|5|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Tympole|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tympole|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tympole|5|Infestation|Bug|Special|20|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Tympole|5|Mud Bomb|Ground|Special|65|85|10||''|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Tympole|5|Mud Sport|Ground|Status|—|—|15|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Tympole|5|Refresh|Normal|Status|—|—|20|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Tympole|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tympole|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Tympole|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Tympole|Water|Water|5}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/PSMD|col=6|type=Water|ndex=535
+|coset=12
+|conto={{p|Poliwag}}, {{p|Seismitoad}}, {{p|Binacle}}
+|recruitment=Raise the {{DL|Rank (Mystery Dungeon)|Expedition Rank}} to Gold
+|P1=*hop hop*
+|P2=My "hop hop" is now "flop flop"...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=535
+|walk=2.92
+|hp=48
+|attack=67
+|defense=45
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=535
+|pad={{p|Magikarp}} bothers them, because he acts like a king. {{p|Seismitoad}} is the only idol for Tympole.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=535
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=535|num=403
+|min=40
+|max=105
+|raisemaxlevel=10
+|skill=Astonish
+|skilldesc=Delays your opponent's disruptions.
+|swapper=Spookify
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=535
+|hatch=5 km
+|buddy=3
+|candy=Tympole
+|evocandy=25
+|stamina=137
+|attack=98
+|defense=78
+|fast={{m|Mud Shot}}, {{m|Bubble}}
+|special={{m|Water Pulse}}, {{m|Mud Bomb}}, {{m|Sludge Wave}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|pictype=art
+|type=Water
+|no1=0535
+|name1=Tympole
+|type1-1=Water
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 25}}
+|no2=0536
+|name2=Palpitoad
+|type1-2=Water
+|type2-2=Ground
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 36}}
+|no3=0537
+|name3=Seismitoad
+|type1-3=Water
+|type2-3=Ground
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=535}}
+{{Spritebox/6|ndex=535|crop=53}}
+{{Spritebox/7|ndex=535|crop=56}}
+{{Spritebox/8|ndex=535}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0535}}
+{{Spritebox/Footer|535|Tympole}}
+
+==In animation==
+[[File:Tympole anime.png|thumb|250px|Tympole in {{aniseries|BW}}]]
+===Major appearances===
+Multiple Tympole debuted in ''[[BW032|Facing Fear with Eyes Wide Open!]]'', where they attacked {{AP|Oshawott}} underwater while under the command of a {{pkmn2|wild}} {{AP|Palpitoad}}. They were trying to prevent him from getting the [[Remeyo weed]] to cure the team from the {{status|poison}}ing several {{p|Foongus}} inflicted. However, they were forced to flee when Oshawott used {{m|Razor Shell}} on them.
+
+===Minor appearances===
+Multiple Tympole appeared in [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']].
+
+A Tympole appeared near the end of ''[[BW045|Beheeyem, Duosion, and the Dream Thief!]]''.
+
+Multiple Tympole appeared in ''[[M15|Kyurem VS. The Sword of Justice]]''.
+
+A Tympole appeared in a flashback in ''[[BW101|Drayden Versus Iris: Past, Present, and Future!]]''.
+
+A Tympole appeared in ''[[BW108|A Unova League Evolution!]]''.
+
+In ''[[JN005|Mind-Boggling Dynamax!]]'', a Tympole was seen in the [[Wild Area]].
+
+==In the manga==
+[[File:N Tympole Adventures.png|thumb|100px|Tympole in [[Pokémon Adventures]]]]
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Tympole appeared in ''[[FAT2|The King's Identity...!!]]''.
+
+===Pokémon Adventures===
+{{adv|N}} used a Tympole to battle {{adv|Black}} in [[Accumula Town]] in ''[[PS467|Letting Go]]''. He was eventually defeated by Black's [[Tep]].
+
+A Tympole appeared in a flashback in ''[[PS518|True Friends]]''.
+
+Multiple Tympole appeared in ''[[PS534|Choir Tournament]]'' at the [[Autumn Choir Tournament]].
+
+Two Tympole appeared in the [[Wild Area]] in ''[[PASS05|Ooh Shiny!! Legendary Equipment]]''.
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS468]]|Tympole emits rhythmic subsonic sound waves by vibrating its cheeks. These waves can be used to communicate.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Tympole (TCG)}}
+
+==Trivia==
+* Tympole shares its {{pkmn|category}} with {{p|Poliwag}}, {{p|Poliwhirl}}, and {{p|Poliwrath}}. They are all known as the Tadpole Pokémon.
+* Although it is simulated as swimming in [[Pokédex 3D]], Tympole does not display the bubble effect that all other Pokémon simulated in an aquatic environment, such as {{p|Eelektrik}} and {{p|Stunfisk}}, display. The reason for this is unknown.
+
+===Origin===
+Tympole appears to be a combination of a {{wp|toad}} {{wp|tadpole}} and a {{wp|loudspeaker}}. Its spherical bumps resemble {{wp|headphones}}, and were probably inspired by either the toads' "warts" (known as {{wp|parotoid gland}}s), or the {{wp|tympanum (anatomy)|tympanum}} of a real-life toad, an eardrum-like body part located in the same area which the toad uses to hear. Its eyebrows resemble {{wp|musical note}}s, specifically the {{wp|quarter note}}.
+
+Tympole and Palpitoad's designs were worked backwards from Seismitoad's design.<ref name=ND204>''Nintendo Dream'' Vol. 204, April 2011 ([https://web.archive.org/web/20110704155314/http://shellspider.blog101.fc2.com/blog-entry-502.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream-6/ Translation by Dr. Lava])</ref>
+
+====Name origin====
+Tympole may be a combination of ''{{wp|timpani}}'' or ''{{wp|tympanum}}'' (both being types of drums), or ''tympanic membrane'' ({{wp|eardrum}}; referring to the bumps on each side of its head), and ''{{wp|tadpole}}''.
+
+Otamaro may be a combination of お玉杓子 ''otamajakushi'' (tadpole; musical notes) and 麿 ''maro'' (affectionate suffix for young men) or 麻呂眉 ''maro-mayu'' (shaved eyebrows).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=オタマロ ''Otamaro''|jameaning=From {{tt|お玉杓子 ''otamajakushi''|tadpole or musical notes}} and {{tt|麿 ''maro''|affectionate suffix for young men}} or {{tt|麻呂眉 ''maro-mayu''|shaved eyebrows}}
+|fr=Tritonde|frmeaning=From ''{{tt|triton|newt}}'' and ''{{tt|onde|wave}}''
+|es=Tympole|esmeaning=Same as English name
+|de=Schallquap|demeaning=From ''{{tt|Schall|sound}}'' and ''{{tt|Kaulquappe|tadpole}}''
+|it=Tympole|itmeaning=Same as English name
+|ko=동챙이 ''Dongchaengi''|komeaning=From {{tt|동글다 ''donggeulda''|round}} or {{tt|동 (童) ''dong''|child}} and {{tt|올챙이 ''olchaeng-i''|tadpole}}
+|zh_cmn=圓蝌蚪 / 圆蝌蚪 ''Yuánkēdǒu''|zh_cmnmeaning=From {{tt|圓 / 圆 ''yuán''|round}} and {{tt|蝌蚪 ''kēdǒu''|tadpole}}
+|zh_yue=圓蝌蚪 ''Yùhnfōdáu''|zh_yuemeaning=From {{tt|圓 ''yùhn''|round}} and {{tt|蝌蚪 ''fōdáu''|tadpole}}
+|hi=डिंबराउंड ''Dimbround''|himeaning=From {{tt|डिंब ''dimb''|uncommon word for egg}} or {{tt|डिंभ ''dimbh''|larva}} and ''round''
+|ru=Тимпоул ''Timpoul''|rumeaning=Transcription of English name
+|th=โอทามาโร ''Othamaro''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0534|prev=Conkeldurr|nextnum=0536|next=Palpitoad}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Schallquap]]
+[[es:Tympole]]
+[[fr:Tritonde]]
+[[it:Tympole]]
+[[ja:オタマロ]]
+[[zh:圆蝌蚪]]

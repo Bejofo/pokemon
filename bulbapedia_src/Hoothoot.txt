@@ -1,0 +1,713 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/GO|species=Hoothoot}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0162|prev=Furret|nextnum=0164|next=Noctowl|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Hoothoot
+|jname=ホーホー
+|jtranslit=Hōhō
+|tmname=Hoho
+|ndex=0163
+|typebox=1
+|type1=Normal
+|type2=Flying
+|category=Owl
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=46.7
+|weight-kg=21.2
+|abilityn=d
+|ability1=Insomnia
+|ability2=Keen Eye
+|abilityd=Tinted Lens
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|evtotal=1
+|evhp=1
+|expyield=52
+|oldexp=58
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=09
+|pokefordex=hoothoot
+|generation=2
+|friendship=70
+}}
+'''Hoothoot''' ([[List of Japanese Pokémon names|Japanese]]: '''ホーホー''' ''Hoho'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s into {{p|Noctowl}} starting at [[level]] 20.
+
+==Biology==
+[[File:HoothootBurningShadows106.jpg|thumb|150px|left|Hoothoot's feet]]
+Hoothoot is an {{wp|Aves|avian}} {{OBP|Pokémon|species}} that resembles an {{wp|owl}} with a round body. Most of its feathers are brown, but its belly is cream-colored. It has large, red eyes; a small, pinkish beak; stubby wings; and a fan-like tail with three feathers. Encircling its eyes are black rings; the lower rims of each ring have three protrusions that resemble the teeth on a gear, while the upper rims have extensions that resemble the hands of a clock. As seen in the {{aniseries|JN}} episode ''[[JN009|Finding a Legend!]]'', Hoothoot's feathers can grow to be shaggy, and the protrusions on its head droop. It has two pinkish feet, each with five clawed toes. However, it will typically only stand on one foot at a time and alternates between the two at speeds too difficult to track with the naked eye.
+
+Hoothoot begins crying at the same time every day and always tilts its head in the same rhythm. This ability is due to a special internal organ that senses the [[Pokémon world|world's]] rotation, allowing it to keep track of time. As a result, Hoothoot was once considered a divine messenger sent to tell the time. Some countries see Hoothoot as a deity of wisdom. Historically, people raised Hoothoot to serve as clocks — a practice still done by some {{pkmn|Trainer}}s today. Hoothoot is most commonly found nesting in {{DL|List of Pokémon by habitat|Forest Pokémon|trees in temperate and boreal forests}}. Hoothoot is {{pkmn2|nocturnal}}, and during the day, it sleeps in holes carved into tree trunks. Hoothoot preys on {{p|Grubbin}}.
+
+===Evolution===
+Hoothoot evolves into {{p|Noctowl}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Normal
+|type2=Flying
+|pictype=art
+|no1=0163
+|name1=Hoothoot
+|type1-1=Normal
+|type2-1=Flying
+|evo1=
+|no2=0164
+|name2=Noctowl
+|type1-2=Normal
+|type2-2=Flying}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=015}}
+{{Dex/Entry1|v=Gold|entry=It always stands on one foot. It changes feet so fast, the movement can rarely be seen.}}
+{{Dex/Entry1|v=Silver|entry=It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.}}
+{{Dex/Entry1|v=Crystal|entry=It begins to hoot at the same time every day. Some trainers use them in place of clocks.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It always stands on one foot. It changes feet so fast, the movement can rarely be seen. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Hoothoot</sc> has an internal organ that senses and tracks the earth's rotation. Using this special organ, this {{ScPkmn}} begins hooting at precisely the same time every day.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It has an internal organ that senses the earth's rotation. Using this special organ, a <sc>Hoothoot</sc> begins hooting at precisely the same time every day.}}
+{{Dex/Entry1|v=FireRed|entry=It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.}}
+{{Dex/Entry1|v=LeafGreen|entry=It always stands on one foot. It changes feet so fast, the movement can rarely be seen.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=106|reg2=Johto|num2=015}}
+{{Dex/Entry1|v=Diamond|entry=It always stands on one foot. Even when attacked, it does not brace itself using both feet.}}
+{{Dex/Entry1|v=Pearl|entry=It switches its standing foot so quickly, it can't be seen. It cries at the same time every day.}}
+{{Dex/Entry1|v=Platinum|entry=It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.}}
+{{Dex/Entry1|v=HeartGold|entry=It always stands on one foot. It changes feet so fast, the movement can rarely be seen.}}
+{{Dex/Entry1|v=SoulSilver|entry=It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=117|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It always stands on one foot. It changes feet so fast, the movement can rarely be seen.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=212|label1={{gameIcon|US}}{{gameIcon|UM}}:|reg2=Kanto}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Every day, it tilts its head in the same rhythm. A long time ago, people raised these Pokémon to serve as clocks.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=It cries out at the same time every day. A long time ago, people cherished it and considered it a divine messenger sent to tell the time.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=019|reg2=Sinnoh|num2=106|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It always stands on one foot. It changes feet so fast, the movement can rarely be seen.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It begins to hoot at the same time every day. Some Trainers use them in place of clocks.}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=It always stands on one foot. Even when attacked, it does not brace itself using both feet.}}
+{{Dex/Entry1|v=Shining Pearl|entry=It switches its standing foot so quickly that the switch can't be seen. It cries at the same time every day.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=45|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Hoothoot's internal clock is precise at all times. It tilts its head in a fixed rhythm.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Since it tells time precisely, some countries consider it to be a deity of wisdom, versed in the ways of the world.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{normal color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{normal color light}};" | [[File:Pokédex Image Hoothoot USUM.png|x200px]]
+| style="border:2px solid #{{flying color dark}}; background:#{{normal color light}}; {{roundy|5px}};" | [[File:Pokédex Image Hoothoot SV Kitakami.png|x200px]]
+|-
+| Hoothoot in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Hoothoot in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|1|Kanto}}, {{rtn|2|Kanto}}, {{rtn|29|Johto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, and {{rtn|37|Johto}}, [[National Park]]{{Sup/t|N}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|1|Kanto}}, {{rtn|2|Kanto}}, {{rtn|5|Kanto}}, {{rtn|25|Kanto}}, {{rtn|29|Johto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, and {{rtn|37|Johto}}, [[Ilex Forest]], [[National Park]]{{sup/t|Night}}<br>[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|29|Johto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, {{rtn|39|Johto}}, {{rtn|43|Johto}}, [[Ilex Forest]], [[National Park]], [[Lake of Rage]] ([[Headbutt tree]]s)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}} extension}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|210|Sinnoh}}, {{rtn|211|Sinnoh}}, [[Great Marsh]]{{Sup/t|N}}}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|211|Sinnoh}}, [[Great Marsh]], [[Eterna Forest]]{{Sup/t|N}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|29|Johto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, [[National Park]], [[Viridian Forest]]{{sup/t|N}}<br>[[Route]]s {{rtn|1|Kanto}}, {{rtn|2|Kanto}}, {{rtn|3|Kanto}}, {{rtn|4|Kanto}}, {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|8|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|18|Kanto}}, {{rtn|21|Kanto}}, {{rtn|22|Kanto}}, {{rtn|25|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|29|Johto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, {{rtn|39|Johto}}, {{rtn|43|Johto}}, {{rtn|47|Johto}}, {{rtn|48|Johto}}, [[Ilex Forest]], [[National Park]], [[Lake of Rage]], [[New Bark Town]], [[Cherrygrove City]], [[Violet City]], [[Ecruteak City]], [[Pallet Town]], [[Viridian City]], [[Pewter City]], [[Cerulean City]], [[Fuchsia City]], [[Safari Zone Gate]], [[Viridian Forest]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Rugged Road}}, {{pw|Suburban Area}}, and {{pw|Night Sky's Edge}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Noctowl}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{pkmn|breeding|Breed}} {{p|Noctowl}}; [[Unova Link|Transfer]] from {{pkmn|Dream Radar}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Windswept Sky}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Noctowl}}, [[Friend Safari]] ([[Friend Safari#Flying-type Safari|Flying]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Lush Jungle]]{{sup/t|Night}}<br>[[Poké Pelago]]{{tt|*|Only begins appearing after the player reaches Ula'Ula Island}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Route]]s {{rtn|1|Galar}} and {{rtn|2|Galar}}, [[Dappled Grove]], [[Giant's Cap]], [[Slumbering Weald]]<br>[[East Lake Axewell/Dens|East Lake Axewell]], [[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Loop Lagoon/Dens|Loop Lagoon]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Route]]s {{rtn|210|Sinnoh}}, {{rtn|211|Sinnoh}}, [[Great Marsh]]{{Sup/t|N}}<br>[[Grand Underground]] - [[Spacious Cave]], [[Grassland Cave]], [[Fountainspring Cave]], [[Riverbank Cave]], [[Still-Water Cavern]], [[Sunlit Cavern]] (After obtaining {{TM|96|Strength}})}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Reveler's Road]], [[Kitakami Hall]], [[Mossfell Confluence]], [[Fellhorn Gorge]], [[Oni Mountain]], [[Wistful Fields]], [[Paradise Barrens]], [[Kitakami Wilds]], [[Timeless Woods]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Kitakami)|Hoothoot|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Mt. Snowfall|Ruins of Truth]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 22, Endless Level 35, Forever Level 22, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Sinister Woods]] (10F-12F), [[Northern Range]] (1F-5F), [[Buried Relic]] (5F-9F), [[Remains Island]] (B1-B3)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Foggy Forest]] (1F-5F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Foggy Forest]] (1F-5F)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Teakwood Forest]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#Festival on Mount Moon|Flower Garden: Festival on Mount Moon]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 1|Safari Jungle: Stage 1]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Fragrant Tree|Silver Isles: Fragrant Tree]] <small>(All Areas)</small>, [[Dark Land#Chilling Graveyard|Dark Land: Chilling Graveyard]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 25|Area 25: Stage 09]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Dragonite Sea]], [[Aegislash Sea]], [[Lugia Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Entei Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Sinister Woods]] (7F-12F), [[Northern Range]] (1F-5F), [[Buried Relic]] (7F-11F), [[Purity Forest]] (16F-18F)<br/>Fainted Pokémon: [[Howling Forest]]<br/>[[Mystery_dungeon#Strong_Foes|Strong Foe]]: [[Murky Cave]] (5F-19F){{shinystar}}}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Florio Nature Park]], [[Secret Side Path]]<sup><span style="color:#3A546B;">Night</span></sup>, {{DL|Florio Nature Park|Florio Island Illumina Spot}}<sup><span style="color:#067162;">Level 2</span></sup>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#Seventh release|''Pokémon Safari'']] <small>(Seventh release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Normal|type2=Flying}}
+{{eventAvail|{{gameabbrev2|GSC}}|Pokémon Center Mystery Egg #3 Night Shade Hoothoot|Japanese|Japan|5|April 27 to May 12, 2002|link=List of Japanese event Pokémon distributions in Generation II#Hoothoot}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Night Shade Hoothoot|English|United States|5|December 27, 2002 to January 2, 2003|link=List of PCNY event Pokémon distributions in Generation II#Night Shade Hoothoot}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Sixth Campaign Hoothoot|Japanese|Japan|10|April 22 to May 8, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Hoothoot}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|type2=Flying
+|HP=     60
+|Attack= 30
+|Defense=30
+|SpAtk=  36
+|SpDef=  56
+|Speed=  50}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|type2=Flying
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=4
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=    0
+|Rock=    200
+|Bug=      50
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=    50
+|Electric=200
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|flying=yes
+|newground=1
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Hoothoot|Normal|Flying|2}}
+{{learnlist/level9|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40||}}
+{{learnlist/level9|3|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|6|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/level9|9|Confusion|Psychic|Special|50|100|25||}}
+{{learnlist/level9|12|Reflect|Psychic|Status|—|—|20||}}
+{{learnlist/level9|15|Defog|Flying|Status|—|—|15||}}
+{{learnlist/level9|18|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level9|21|Extrasensory|Psychic|Special|80|100|20||}}
+{{learnlist/level9|24|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level9|27|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/level9|30|Roost|Flying|Status|—|—|5||}}
+{{learnlist/level9|33|Moonblast|Fairy|Special|95|100|15||}}
+{{learnlist/level9|36|Hypnosis|Psychic|Status|—|60|20||}}
+{{learnlist/level9|39|Dream Eater|Psychic|Special|100|100|15||}}
+{{learnlist/levelf/9|Hoothoot|Normal|Flying|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Hoothoot|Normal|Flying|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10||}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10||}}
+{{learnlist/tm9|TM097|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10||}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15||}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10||}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20||}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/tm9|TM164|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30||}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10||}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM216|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/tmf/9|Hoothoot|Normal|Flying|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Hoothoot|Normal|Flying|2}}
+{{learnlist/breed9|{{MSP/H|0580|Ducklett}}{{MSP/H|0581|Swanna}}{{MSP/H|0701|Hawlucha}}{{MSP/H|0722|Rowlet}}{{MSP/H|0723|Dartrix}}{{MSP/H|0724|Decidueye}}{{MSP/H|0724-Hisui|Decidueye}}{{MSP/H|0731|Pikipek}}{{MSP/H|0732|Trumbeak}}{{MSP/H|0733|Toucannon}}{{MSP/H|0741|Oricorio}}{{MSP/H|0956|Espathra}}{{MSP/H|0913|Quaxwell}}{{MSP/H|0914|Quaquaval}}|Feather Dance|Flying|Status|—|100|15||}}
+{{learnlist/breed9|{{MSP/H|0198|Murkrow}}|Night Shade|Ghost|Special|—|100|15||}}
+{{learnlist/breed9|{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}{{MSP/H|0731|Pikipek}}{{MSP/H|0732|Trumbeak}}{{MSP/H|0733|Toucannon}}|Supersonic|Normal|Status|—|55|20||}}
+{{learnlist/breed9|{{MSP/H|0396|Starly}}{{MSP/H|0397|Staravia}}{{MSP/H|0398|Staraptor}}{{MSP/H|0627|Rufflet}}{{MSP/H|0628|Braviary}}{{MSP/H|0628-Hisui|Braviary}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}{{MSP/H|0962|Bombirdier}}|Whirlwind|Normal|Status|—|—|20||}}
+{{learnlist/breed9|{{MSP/H|0198|Murkrow}}{{MSP/H|0430|Honchkrow}}{{MSP/H|0227|Skarmory}}{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}{{MSP/H|0396|Starly}}{{MSP/H|0397|Staravia}}{{MSP/H|0398|Staraptor}}{{MSP/H|0580|Ducklett}}{{MSP/H|0581|Swanna}}{{MSP/H|0627|Rufflet}}{{MSP/H|0628|Braviary}}{{MSP/H|0628-Hisui|Braviary}}{{MSP/H|0701|Hawlucha}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}{{MSP/H|0912|Quaxly}}{{MSP/H|0913|Quaxwell}}{{MSP/H|0914|Quaquaval}}{{MSP/H|0962|Bombirdier}}{{MSP/H|0973|Flamigo}}|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/breedf/9|Hoothoot|Normal|Flying|2}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/Trozei|col=6|type=Normal|ndex=163|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=163
+|body=1
+|rate=7
+|area=Flyaway Forest
+|P1=Ticktock... Hoot! I keep perfect time!
+|P2=Say, this isn't good. I only have half my HP left.
+|P3=I'm done for... I can't keep time anymore...
+|PL=Ticktock... Woohoot! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=163
+|body=1
+|rate=6.4
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Normal|ndex=163
+|coset=3
+|conto={{p|Shuckle}}
+|recruitment=Explore the last floor of a dungeon
+|P1=We should all be punctual! Make sure you come on time for a gathering!
+|P2=I'm losing…my sense of time…
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Flying
+|assist=Flying
+|field=Cut
+|fieldpower=1
+|num=031
+|pastnum=022
+|browser=It causes twisters around itself.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=163
+|walk=1.38
+|hp=51
+|attack=64
+|defense=46
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=163|bttype=Flying
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=163|stype=Flying|num=493
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Swap
+|skilldesc=Sometimes replaces a disruption with this Pokémon.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=163
+|buddy=1
+|candy=Hoothoot
+|hatch=N/A
+|evocandy=50
+|stamina=155
+|attack=67
+|defense=88
+|fast={{m|Feint Attack}}, {{m|Peck}}
+|special={{m|Aerial Ace}}, {{m|Sky Attack}}, {{m|Night Shade}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=163|pdex=021
+|dex=Hoothoot are said to be more accurate timekeepers than any clock. As nocturnal Pokémon, they’re not big fans of light, so they spend the daylight hours sleeping in holes in tree trunks.}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{normal color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{flying color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{flying color dark}}; background:#{{normal color light}};"| [[File:GO163Jan2022.png|100px]]
+|-
+| New Year's outfit
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Normal
+|type2=Flying
+|pictype=art
+|no1=0163
+|name1=Hoothoot
+|type1-1=Normal
+|type2-1=Flying
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0164
+|name2=Noctowl
+|type1-2=Normal
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=163}}
+{{Spritebox/3|ndex=163}}
+{{Spritebox/4|ndex=163}}
+{{Spritebox/5|ndex=163}}
+{{Spritebox/6|ndex=163|crop=62}}
+{{Spritebox/7|ndex=163|crop=59}}
+{{Spritebox/8|ndex=163}}
+<!--{{Spritebox/9|ndex=0163}}-->
+{{Spritebox/HOME|ndex=0163}}
+{{Spritebox/Footer|0163|Hoothoot}}
+
+====Other sprites====
+{| style="background: #{{normal color}}; margin:auto; text-align:center; font-size: 80%; {{roundy|20px}}; border: 2px solid #{{normal color dark}}"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{flying color dark}}; background: #{{flying color light}}; width:180px"| [[File:Spr 4d 163Brainy.png]]
+| style="{{roundy|80px}} border: 2px solid #{{flying color dark}}; background: #{{flying color light}}; width:180px"| [[File:Spr 4d 163Hootie.png]]
+| style="{{roundy|80px}} border: 2px solid #{{flying color dark}}; background: #{{flying color light}}; width:180px"| [[File:Spr 4d 163Hoots.png]]
+| style="{{roundy|80px}} border: 2px solid #{{flying color dark}}; background: #{{flying color light}}; width:180px"| [[File:Spr 4d 163Strix.png]]
+| style="{{roundy|80px}} border: 2px solid #{{flying color dark}}; background: #{{flying color light}}; width:180px"| [[File:Spr 4d 163Tootie.png]]
+|-
+| Brainy in {{color2|000|Pokémon Super Contests}}
+| Hootie in {{color2|000|Pokémon Super Contests}}
+| Hoots in {{color2|000|Pokémon Super Contests}}
+| Strix in {{color2|000|Pokémon Super Contests}}
+| Tootie in {{color2|000|Pokémon Super Contests}}
+|}
+
+==In animation==
+===Main series===
+[[File:Professor Oak Laboratory Hoothoot.png|thumb|250px|Hoothoot in {{aniseries|BW}}]]
+====Major appearances====
+Multiple Hoothoot made their animated series debut in ''[[EP121|Illusion Confusion!]]'', under the ownership of [[Hagatha and Nagatha]]. The two rented their Hoothoot to {{pkmn|Trainer}}s, including [[Gary Oak]], so they can get through a haunted forest.
+
+In ''[[EP131|Fighting Flyer with Fire]]'', [[Falkner]] used a Hoothoot in his [[Gym]] {{pkmn|battle}} against {{Ash}}. It defeated {{AP|Chikorita}} with ease before being defeated by {{AP|Pikachu}}. It reappeared in a flashback in ''[[EP255|Why? Wynaut!]]''.
+
+In ''[[DP013|A Staravia is Born!]]'', a Hoothoot teamed up with [[Ash's Starly]] to hypnotize {{MTR}} into helping the other {{type|Flying}} Pokémon escape. It was later seen flying away with them, waving goodbye to Ash's newly evolved {{AP|Staravia}} in the process.
+
+In ''[[PK27|Pikachu and the Pokémon Music Squad]]'', a Hoothoot was living in a forest.
+
+====Minor appearances====
+Hoothoot debuted in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP139|Mild 'n Wooly]]'', a Hoothoot was blown around by the approaching storm.
+
+In ''[[EP146|Tricks of the Trade]]'', a Hoothoot was at the [[Pokémon Swap Meet]] in [[Palmpona]].
+
+In ''[[PK07|Pikachu and Pichu]]'', a Hoothoot was living in [[Big Town]].
+
+A Hoothoot appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+In ''[[The Legend of Thunder!]]'', a Hoothoot was perched in the hollow of a tree outside the [[Pokémon Center]]. Another Hoothoot was inside the Center with its Trainer.
+
+In a flashback in ''[[EP233|Throwing in the Noctowl]]'', [[Wings Alexander]]'s Hoothoot evolved into a Noctowl.
+
+A Hoothoot appeared in ''[[AG011|A Bite to Remember]]''.
+
+In ''[[AG015|Gonna Rule The School!]]'', the [[Pokémon Trainers' School]] lent a Hoothoot to the school's underage students for use in lessons.
+
+A Hoothoot appeared in ''[[AG118|Less is Morrison]]''.
+
+In ''[[AG162|Spontaneous Combusken!]]'', a {{pkmn|Coordinator}}'s Hoothoot competed in the [[Chrysanthemum Island|Chrysanthemum]] {{pkmn|Contest}}.
+
+In ''[[AG178|Battling the Enemy Within!]]'', a Hoothoot chased {{TRT}} while they were searching for {{p|Ho-Oh}} in some underground ruins.
+
+Two Hoothoot appeared in ''[[DP004|Dawn of a New Era!]]''.
+
+In ''[[DP176|Coming Full-Festival Circle!]]'', multiple Hoothoot were listening to [[Nando]] as he played his music.
+
+A Hoothoot appeared in ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Hoothoot appeared in ''[[DP191|Memories are Made of Bliss!]]''.
+
+A Hoothoot appeared in ''[[Mewtwo — Prologue to Awakening]]''.
+
+A Hoothoot appeared in ''[[BW142|The Dream Continues!]]''.
+
+A Hoothoot appeared in [[BWS01]].
+
+A Hoothoot appeared in a flashback or a fantasy in ''[[XY035|The Forest Champion!]]''.
+
+A Hoothoot appeared in ''[[XY073|A Fashionable Battle!]]''.
+
+A Trainer's Hoothoot appeared in ''[[XY096|A Giga Battle with Mega Results!]]''.
+
+A Hoothoot appeared in a flashback in ''[[XY108|A Watershed Moment!]]''.
+
+Multiple Hoothoot appeared in ''[[M21|The Power Of Us]]''.
+
+In ''[[JN009|Finding a Legend!]]'', [[Jaye]] has a Hoothoot frequently resting on his shoulder.
+
+In ''[[JN024|A Little Rocket R & R!]]'', a Trainer's Hoothoot was captured by the [[Matori Matrix]] but later freed by Ash and his friends.
+
+A Trainer's Hoothoot appeared in ''[[JN025|A Festival Reunion!]]''.
+
+A Trainer's Hoothoot appeared in ''[[JN027|Toughing It Out!]]''.
+
+A Hoothoot appeared in a flashback in ''[[JN032|Time After Time!]]''.
+
+A Trainer's Hoothoot appeared in ''[[JN033|Trade, Borrow, and Steal!]]''.
+
+A Trainer's Hoothoot appeared in ''[[JN049|To Train, or Not to Train!]]''. It reappeared in ''[[JN087|Breaking the Ice!]]''.
+
+A Hoothoot appeared in ''[[M23|Secrets of the Jungle]]''.
+
+A Hoothoot appeared in ''[[JN079|Night and Day, You are the Ones!]]''.
+
+In ''[[JN094|Suffering the Flings and Arrows!]]'', [[Goh]] was revealed to have caught a {{DL|List of Goh's Pokémon|Hoothoot}}.
+
+A Hoothoot appeared in ''[[JN137|The Road Most Traveled!]]''.
+
+A Student's Hoothoot appeared in an image in ''[[HZ046|Welcome to Naranja Academy!]]''.
+
+A Student's Hoothoot appeared in ''[[HZ066|Infiltrating the System! Naranja Academy in Danger!]]''.
+
+A Student's Hoothoot appeared in ''[[HZ067|Shine on, Terastallization! Liko vs. Roy!]]''.
+
+A Trainer's Hoothoot appeared in ''[[HZ069|Roy is Crocalor, and Crocalor is Roy!]]''.
+
+A Trainer's Hoothoot appeared in [[HZ094]]. A wild Hoothoot also appeared.
+
+A Trainer's Hoothoot appeared in [[HZ095]].
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP121|Hoothoot|Ash's Pokédex|Hoothoot, the Owl Pokémon. Hoothoot stands on one leg, but uses both its powerful eyes to see clearly even through the darkest night.}}
+{{Animedexfooter/Pokémon|Johto}}
+
+===Pokémon: Twilight Wings===
+[[File:Schoolboy Schoolgirl Youngster Twilight Wings.png|thumb|250px|Hoothoot in [[Pokémon: Twilight Wings]]]]
+A Hoothoot appeared in ''[[TW03|Buddy]]'', under the ownership of a {{tc|Youngster}}.
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', a Hoothoot briefly appeared under the ownership of a {{pkmn|Trainer}} in [[Ecruteak City]].
+{{-}}
+
+==In the manga==
+[[File:Chris Hoothoot Golden Boys.png|thumb|150px|Hoothoot in [[Pokémon Gold & Silver: The Golden Boys|The Golden Boys]]]]
+[[File:Bird Keeper Hoothoot Adventures.png|thumb|left|150px|Hoothoot in [[Pokémon Adventures]]]]
+===Ash & Pikachu===
+{{OBP|Lily|EP241}} owns a Hoothoot that appeared in ''[[SP13|The Dream Potion Recipe!!]]''. This is in contrast to the {{p|Murkrow}} she owned in the animated series.
+
+A Hoothoot appeared in ''[[SP31|A Clash Of Wills!! Eternal Rivals?!]]''.
+
+===Pokémon Adventures===
+In ''[[PS090|The Legend]]'', two Hoothoot were hanging under some tree branches when {{adv|Green}} had finished her message to {{adv|Silver}} in Johto.
+
+In ''[[PS091|Murkrow Row]]'', a Hoothoot was flying at night while Gold was playing cue balls in his room. It was later seen again when {{adv|Gold}} asks [[Joey]] if he recorded the [[DJ Mary]]'s song.
+
+In ''[[PS092|Who Gives a Hoothoot?]]'', a trickster claimed to use a Hoothoot as an accurate timekeeper to regulate a prize-winning game he was hosting, when in fact he was prompting Hoothoot to declare the time limit whenever a participant was on the verge of winning, thus preventing anyone from winning his game. He was busted however, by {{adv|Gold}} and his [[Aibo|Aipom]]. The same man and his Hoothoot are seen in ''[[PS137|Really Raikou & Entirely Entei (Part 1)]]'' and ''[[PS179|The Last Battle XIII]]''.
+
+In ''[[PS107|Gligar Glide]]'', two Hoothoot were seen at night near the forest Gold was sleeping in.
+
+In ''[[PS118|Three Cheers for Chikorita]]'', Crystal mentioned that she {{pkmn2|caught}} a Hoothoot on her way to Professor Elm's Lab.
+
+In ''[[PS179|The Last Battle XIII]]'' a Hoothoot was sent to participate in the fight in [[Ilex Forest]].
+
+A Hoothoot appeared in ''[[PS442|Out-Odding Oddish]]'', under the ownership of a [[Pokéathlon]] participant.
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS092]]|Cocks its head in rhythm like a metronome}}
+{{Mangadexfooter}}
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Hoothoot appeared in ''[[GB01|Let's Go! The Journey Towards The Championship]]''.
+
+In ''[[GB15|Escape From The Mystery Forest!]]'', {{GnB|Chris}} uses a Hoothoot as a lookout, helping her see where things are in the distance.
+
+A {{pkmn|Trainer}}'s Hoothoot appeared in ''[[GB23|Let's Fight For The Future!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Hoothoot appeared in [[GDZ36]].
+
+[[Shu]] {{pkmn2|caught}} a Hoothoot, as seen in [[GDZ43]].
+
+===Pokémon Ruby-Sapphire===
+A Hoothoot appeared in ''[[PMRSs2|Pokémon Short Comics]]''.
+
+==In the TCG==
+{{main|Hoothoot (TCG)}}
+
+==Trivia==
+[[File:Company Icon Bookmark.png|thumb|150px|Icon for Bookmark]]
+* In ''[[EP131|Fighting Flyer with Fire]]'', [[Falkner]]'s Hoothoot stands on both legs, even though Hoothoot supposedly only ever stands on one leg at a time.
+* Hoothoot was designed by [[Ken Sugimori]]. In [[Nintendo Power]] Vol. 134, Sugimori stated in an interview that Hoothoot is his favorite {{OBP|Pokémon|species}} because he had a pet bird as a child that would stand on one foot.<ref name=NintendoPower134>''Nintendo Power'' Vol. 134, July 2000, p.78-79 ([http://www.rigelatin.net/copycat/media/print/np134.php excerpt])</ref>
+* Hoothoot has a unique fade-in animation that is programmed into {{game|Gold and Silver|s}} but goes unused.
+* Hoothoot is tied with {{p|Spearow}}, {{p|Ledyba}}, {{p|Taillow}}, {{p|Wingull}}, {{p|Starly}}, and {{p|Pikipek}} for the lowest base {{stat|Defense}} of all {{type|Flying}} Pokémon.
+* The company logo for [[Poké Job|Bookmark]] depicts a Hoothoot.
+
+===Origin===
+Hoothoot seems to be based on a young {{wp|horned owl}}, particularly the {{wp|Eurasian eagle-owl}} due to its red eyes, combined with a {{wp|clock}}. Its round body is the shape of a clock face, the two prongs of its crest resemble clock hands, the markings around its eyes resemble {{wp|gears}}, and it has the ability to keep track of time. Its tilting movement while standing on one leg makes it resemble a {{wp|pendulum clock}}.
+
+Hoothoot's behavior of standing on one leg at any given time was inspired by Ken Sugimori's childhood pet bird, who had shown a similar behavior.<ref name=NintendoPower134 />
+
+====Name origin====
+Hoothoot is derived from ''hoot'' (the sound an owl makes).<ref>'''{{DL|Television|PokéQuiz|ポケＱポン}}''' (PokéQuiz in Japanese): 正解は　HOOTHOOT！ フートフートだね！ 『ホーホー』という　鳴き声を 英語では　『HOOT　HOOT』と いうんですよ</ref> It may also involve ''cuckoo'', as in a {{wp|cuckoo clock}}.
+
+Hoho is derived from ホー ''hō'' (the sound an owl makes).<ref>'''{{DL|Television|PokéQuiz}}''': Today’s Pokémon is Hoothoot! What is it called in Japanese? Here’s a big hint! In Japanese, the sound it makes is “hoo”! [...] The correct answer is Hoho! Ho-o ho-o!</ref>
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=ホーホー ''Hoho''|jameaning=From {{tt|ホー ''hō''|onomatopoeia for an owl's hoot}}
+|fr=Hoothoot|frmeaning=Same as English name
+|es=Hoothoot|esmeaning=Same as English name
+|de=Hoothoot|demeaning=Same as English name
+|it=Hoothoot|itmeaning=Same as English name
+|ko=부우부 ''Buubu''|komeaning=From {{tt|부엉부엉 ''bu'eong-bu'eong''|onomatopoeia for an owl's hoot}}
+|zh_cmn=咕咕 ''Gūgū''|zh_cmnmeaning=From {{tt|咕咕 ''gūgū''|onomatopoeia for a bird's coo}}
+|zh_yue=咕咕 ''Gūgū''|zh_yuemeaning=From {{tt|咕咕 ''gūgū''|onomatopoeia for a bird's coo}}
+|hi=उल्लूल ''Ullul''|himeaning=From {{tt|उल्लू ''ullu''|owl}}
+|ru=Хутхут ''Khutkhut''|rumeaning=Transcription of English name
+|th=โฮโฮ ''Hoho''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0162|prev=Furret|nextnum=0164|next=Noctowl}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appeared in the animated series before their game debut]]
+[[Category:Pokémon in the Lental Photodex]]
+
+[[de:Hoothoot]]
+[[es:Hoothoot]]
+[[fr:Hoothoot]]
+[[it:Hoothoot]]
+[[ja:ホーホー]]
+[[zh:咕咕]]

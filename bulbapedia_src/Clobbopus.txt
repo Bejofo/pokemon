@@ -1,0 +1,295 @@
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/GO|species=Clobbopus}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=0851|prev=Centiskorch|nextnum=0853|next=Grapploct|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Clobbopus
+|jname=タタッコ
+|tmname=Tatakko
+|ndex=0852
+|type1=Fighting
+|category=Tantrum
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=8.8
+|weight-kg=4.0
+|abilityn=d
+|ability1=Limber
+|abilityd=Technician
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Human-Like
+|eggcycles=25
+|evtotal=1
+|evat=1
+|expyield=62
+|lv100exp=1,059,860
+|gendercode=127
+|color=Brown
+|catchrate=180
+|body=10
+|pokefordex=clobbopus
+|generation=8
+|friendship=50
+}}
+'''Clobbopus''' ([[List of Japanese Pokémon names|Japanese]]: '''タタッコ''' ''Tatakko'') is a {{type|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Grapploct}} when [[level]]ed up while knowing {{m|Taunt}}.
+
+==Biology==
+Clobbopus is a small, beige cephalopod {{OBP|Pokémon|species}}. It has a rather large head with six orange spots on the top, an orange mask-shaped pattern on the face, and a small, orange {{wp|Siphon (mollusc)|siphon}} on the left side. It has small, blue eyes with horizontal, slit-shaped pupils. Clobbopus has six small tentacles that it uses to get around, and two large tentacles that act as arms. These large tentacles have rounded indigo bumps on each end, resembling boxing gloves. Each of the tentacles are lined with orange suction cups. Clobbopus's underside is indigo and contains its mouth, which is circular in shape and has two sharp beak-like protrusions.
+
+Clobbopus has easily torn tentacles, which allow it to escape from predators; these tentacles can be regrown later. Its intelligence is comparable to that of a three-year-old human. It is a very curious creature and often investigates things by punching them with its tentacles. It normally lives underwater, but is known to surface onto land to search for food.
+
+===Evolution===
+Clobbopus evolves into {{p|Grapploct}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Fighting
+|pictype=art
+|no1=0852
+|name1=Clobbopus
+|type1-1=Fighting
+|evo1=
+|no2=0853
+|name2=Grapploct
+|type1-2=Fighting}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fighting}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=351|reg2=Galar|label2=Isle of Armor|num2=129|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its tentacles tear off easily, but it isn't alarmed when that happens—it knows they'll grow back. It's about as smart as a three-year-old.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fighting}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|9|Galar}}<br>[[North Lake Miloch/Dens|North Lake Miloch]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Courageous Cavern]], [[Loop Lagoon]]}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fighting
+|HP=50
+|Attack=68
+|Defense=60
+|SpAtk=50
+|SpDef=50
+|Speed=32
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fighting
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Clobbopus|Fighting|Fighting|8}}
+{{learnlist/level8|1|Rock Smash|Fighting|Physical|40|100|15||'''}}
+{{learnlist/level8|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level8|5|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level8|10|Bind|Normal|Physical|15|85|20}}
+{{learnlist/level8|15|Detect|Fighting|Status|—|—|5}}
+{{learnlist/level8|20|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/level8|25|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/level8|30|Submission|Fighting|Physical|80|80|20||'''}}
+{{learnlist/level8|35|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level8|40|Reversal|Fighting|Physical|—|100|15||'''}}
+{{learnlist/level8|45|Superpower|Fighting|Physical|120|100|5||'''}}
+{{learnlist/levelf/8|Clobbopus|Fighting|Fighting|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Clobbopus|Fighting|Fighting|8}}
+{{learnlist/tm8|TM00|Mega Punch|Normal|Physical|80|85|20}}
+{{learnlist/tm8|TM04|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM42|Revenge|Fighting|Physical|60|100|10||'''}}
+{{learnlist/tm8|TM43|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm8|TM45|Dive|Water|Physical|80|100|10}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM79|Retaliate|Normal|Physical|70|100|5}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR16|Waterfall|Water|Physical|80|100|15}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR21|Reversal|Fighting|Physical|—|100|15||'''}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR39|Superpower|Fighting|Physical|120|100|5||'''}}
+{{learnlist/tr|TR45|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/tr|TR48|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tr|TR53|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/tr|TR64|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tr|TR85|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tr|TR98|Liquidation|Water|Physical|85|100|10}}
+{{learnlist/tmf/8|Clobbopus|Fighting|Fighting|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Clobbopus|Fighting|Fighting|8}}
+{{learnlist/breed8|{{MSP/8c|062|Poliwrath}}{{MSP/8c|538|Throh}}{{MSP/8c|674|Pancham}}{{MSP/8c|675|Pangoro}}|Circle Throw|Fighting|Physical|60|90|10||'''|grid=7}}
+{{learnlist/breed8|{{MSP/8c|771|Pyukumuku}}|Pain Split|Normal|Status|—|—|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|107|Hitmonchan}}{{MSP/8c|448|Lucario}}{{MSP/8c|861|Grimmsnarl}}|Power-Up Punch|Fighting|Physical|40|100|20||'''|grid=7}}
+{{learnlist/breed8|{{MSP/8c|066|Machop}}{{MSP/8c|067|Machoke}}{{MSP/8c|068|Machamp}}{{MSP/8c|538|Throh}}|Seismic Toss|Fighting|Physical|—|100|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|054|Psyduck}}{{MSP/8c|055|Golduck}}{{MSP/8c|223|Remoraid}}{{MSP/8c|224|Octillery}}{{MSP/8c|279|Pelipper}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|771|Pyukumuku}}{{MSP/8c|816|Sobble}}{{MSP/8c|817|Drizzile}}{{MSP/8c|818|Inteleon}}|Soak|Water|Status|—|100|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|122|Mr. Mime}}{{MSP/8c|122G|Mr. Mime}}{{MSP/8c|866|Mr. Rime}}{{MSP/8c|237|Hitmontop}}{{MSP/8c|453|Croagunk}}{{MSP/8c|454|Toxicroak}}{{MSP/8c|618|Stunfisk}}{{MSP/8c|618G|Stunfisk}}{{MSP/8c|816|Sobble}}{{MSP/8c|817|Drizzile}}{{MSP/8c|818|Inteleon}}{{MSP/8c|859|Impidimp}}{{MSP/8c|860|Morgrem}}{{MSP/8c|861|Grimmsnarl}}|Sucker Punch|Dark|Physical|70|100|5|grid=7}}
+{{learnlist/breedf/8|Clobbopus|Fighting|Fighting|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Clobbopus|Fighting|Fighting|8}}
+{{learnlist/tutor8|Coaching|Fighting|Status|—|—|10|||no|yes}}
+{{learnlist/tutorf/8|Clobbopus|Fighting|Fighting|8}}
+
+===Side game data===
+{{Spindata/Head|type=Fighting}}
+{{Spindata/GO|col=6|type=Fighting|ndex=0852
+|egg=N/A
+|buddy=3
+|candy=Clobbopus
+|evocandy=50
+|stamina=137
+|attack=121
+|defense=103
+|fast={{m|Rock Smash}}
+|special={{m|Brick Break}}, {{m|Ice Punch}}, {{m|Superpower}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Fighting
+|pictype=art
+|no1=0852
+|name1=Clobbopus
+|type1-1=Fighting
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Bag TM Dark SV Sprite.png|40px|link=Taunt (move)]]<br>{{color2|000|Level|Level up}}<br>knowing {{color2|000|Taunt (move)|Taunt}}
+|no2=0853
+|name2=Grapploct
+|type1-2=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Fighting}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=852}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0852}}
+{{Spritebox/Footer|852|Clobbopus}}
+
+==In animation==
+===Main series===
+====Major appearances====
+
+====Minor appearances====
+Clobbopus debuted in ''[[JN115|Curtain Up! Fight the Fights!]]'', under the ownership of a {{pkmn|Trainer}}. It reappeared in ''[[JN125|Whittle While You Work!]]''.
+
+Two Clobbopus belonging to Trainers appeared in ''[[JN122|It's... Champion Time!]]''.
+
+A Trainer's Clobbopus appeared in ''[[JN127|Just a Scone's Throw From Here!]]''.
+
+A Trainer's Clobbopus appeared in [[HZ105]].
+
+==In the manga==
+[[File:Clobbopus Adventures.png|thumb|150px|Clobbopus in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Multiple Clobbopus debuted in ''[[PASS21|Swaying!! Murky Memories]]''.
+{{-}}
+
+==In the TCG==
+{{main|Clobbopus (TCG)}}
+==Trivia==
+* Clobbopus is the [[List of Pokémon by weight|lightest]] {{type|Fighting}} Pokémon.
+* Clobbopus and its Evolution are the only Pokémon that are in the {{egg|Water 1}} and {{egg|Human-Like}} [[Egg Group]]s.
+
+===Origin===
+Clobbopus is based on an {{wp|octopus}} and a {{wp|boxer}}. The orange markings on its head resemble the patterns on {{wp|wrestling mask}}s.
+
+====Name origin====
+Clobbopus may be a combination of ''clobber'' and ''octopus''.
+
+Tatakko may be a combination of 叩く ''tataku'' (to strike), 戦い ''tatakai'' (fight, battle), ''attack'', 蛸 ''tako'' (octopus), and possibly 子 ''ko'' (child, referring to its childish mentality). It could also be a pun on 駄々っ子 ''dadakko'' (spoiled child), which is the name of its {{pkmn|category}} in Japanese.
+
+==In other languages==
+{{Other languages|type=Fighting|type2=Fighting
+|ja=タタッコ ''Tatakko''|jameaning=From {{tt|叩く ''tataku''|to strike}}, {{tt|戦い ''tatakai''|fight, battle}}, ''attack'', {{tt|蛸 ''tako''|octopus}}, and {{tt|駄々っ子 ''dadakko''|spoiled child}}
+|fr=Poulpaf|frmeaning=From ''{{tt|poulpe|octopus}}'' and ''{{tt|paf|onomatopoeia for a strike}}''
+|es=Clobbopus|esmeaning=Same as English name
+|de=Klopptopus|demeaning=From ''{{tt|kloppen|to beat}}'' and ''{{tt|Oktopus|octopus}}''
+|it=Clobbopus|itmeaning=Same as English name
+|ko=때때무노 ''Ttaettaemuno''|komeaning=From {{tt|때리다 ''ttaerida''|to hit}} and {{tt|문어 ''mun-eo''|octopus}}
+|zh_cmn=拳拳蛸 ''Quánquánxiāo''|zh_cmnmeaning=From {{tt|拳 ''quán''|fist}} and {{tt|蛸 ''xiāo''|octopus}}
+|zh_yue=拳拳蛸 ''Kyùhnkyùhnsīu''|zh_yuemeaning=From {{tt|拳 ''kyùhn''|fist}} and {{tt|蛸 ''sīu''|octopus}}
+|hi=ऑक्टोपीट ''Octopeat''|himeaning=From ''octopus'' and ''beat'' or {{tt|पीटना ''pīṭnā''|to beat up}}
+|th=ทาทักโกะ ''Thathakko''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=0851|prev=Centiskorch|nextnum=0853|next=Grapploct}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve with certain moves]]
+[[Category:Pokémon that evolve with Taunt]]
+
+[[de:Klopptopus]]
+[[es:Clobbopus]]
+[[fr:Poulpaf]]
+[[it:Clobbopus]]
+[[ja:タタッコ]]
+[[zh:拳拳蛸]]

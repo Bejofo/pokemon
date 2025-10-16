@@ -1,0 +1,349 @@
+{{PokémonPrevNext/Head|type=Ghost}}
+{{PokémonPrevNext/GO|species=Cursola}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0863|prev=Perrserker|nextnum=0865|next=Sirfetch'd|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Cursola
+|jname=サニゴーン
+|jtranslit=Sanigōn
+|tmname=Sunigoon
+|ndex=0864
+|type1=Ghost
+|category=Coral
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=0.9
+|weight-kg=0.4
+|abilityn=d
+|ability1=Weak Armor
+|abilityd=Perish Body
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Water 3
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=179
+|lv100exp=800,000
+|gendercode=191
+|color=White
+|catchrate=30
+|body=04
+|pokefordex=cursola
+|generation=8
+|friendship=50
+}}
+'''Cursola''' ([[List of Japanese Pokémon names|Japanese]]: '''サニゴーン''' ''Sunigoon'') is a {{type|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{rf|Galarian}} {{p|Corsola}} starting at [[level]] 38.
+
+==Biology==
+[[File:Cursola no branches SwSh.jpg|thumb|left|250px|Cursola detaching its branches]]
+Cursola is a coral-like {{OBP|Pokémon|species}}. The lower body of Cursola resembles that of {{rf|Galarian}} Corsola, albeit broken apart to reveal an ectoplasmic "body" which has taken the shape of a ghost. This ectoplasm surrounds Cursola's core, which is a white sphere with a face like that of Galarian Corsola, and has an oval-shaped opening with three inward-facing notches where the core is. Two half-circle openings similar to eyes are located above Cursola's core. Together, the three openings resemble a screaming face with a sad or pained expression. On its ectoplasmic body, two small branches below the core serve as its arms and one small branch on its forehead serves as a horn. It has three long branches each on both sides of the head, and three more on its lower back. All of its branches can split apart when it attacks.
+
+Cursola's overflow of ectoplasm is the result of a long and continuous process of absorbing spirit energy from other creatures. The ectoplasm causes anyone who touches it to become stiff like stone. Cursola can be seen wobbling while wandering, possibly because it enjoys being so light-weight. Cursola are known to gather together under a full moon, and send their branches into the sky. The reason for this behavior is unknown — one hypothesis suggests that it is a ritual of release, shedding the energy they've gathered from others; while another hypothesis posits that this is a form of communication between the Cursola.<ref>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/cursola/ Cursola | Official Website | Pokémon Sword and Pokémon Shield]</ref>
+
+Cursola is the [[Signature Ability|only known Pokémon]] that can have {{a|Perish Body}} as an [[Ability]].
+
+===Evolution===
+Cursola evoles from {{rf|Galarian}} {{p|Corsola}}.
+
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Ghost
+|pictype=sprite
+|no1=0222Corsola-Galar
+|name1=Corsola
+|form1=Galarian Form
+|type1-1=Ghost
+|evo1=
+|no2=0864Cursola
+|name2=Cursola
+|type1-2=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=237|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon's core spirit.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Be cautious of the ectoplasmic body surrounding its soul. You'll become stiff as stone if you touch it.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ghost}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1/None|v=Sword}}
+{{Availability/Entry1|v=Shield|t=FFF|area=[[Giant's Mirror/Dens|Giant's Mirror]], [[South Lake Miloch/Dens|South Lake Miloch]], [[Stony Wilderness/Dens|Stony Wilderness]], [[Watchtower Ruins/Dens|Watchtower Ruins]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Shield Expansion Pass|color={{shield color dark}}|t=fff|link=Pokémon Sword and Shield Expansion Pass|area=[[Slippery Slope/Dens|Slippery Slope]], [[Old Cemetery/Dens|Old Cemetery]], [[Giant's Foot/Dens|Giant's Foot]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ghost
+|HP=60
+|Attack=95
+|Defense=50
+|SpAtk=145
+|SpDef=130
+|Speed=30
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Cursola|Ghost|Ghost|8}}
+{{learnlist/level8|1|Perish Song|Normal|Status|—|—|5}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level8|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level8|1|Disable|Normal|Status|—|100|20}}
+{{learnlist/level8|15|Spite|Ghost|Status|—|100|10}}
+{{learnlist/level8|20|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level8|25|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level8|30|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level8|35|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/level8|40|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/level8|45|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/level8|50|Grudge|Ghost|Status|—|—|5}}
+{{learnlist/level8|55|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/levelf/8|Cursola|Ghost|Ghost|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Cursola|Ghost|Ghost|8}}
+{{learnlist/tm8|TM07|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM18|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm8|TM19|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm8|TM20|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15}}
+{{learnlist/tm8|TM38|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM42|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM51|Icicle Spear|Ice|Physical|25|100|30}}
+{{learnlist/tm8|TM54|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM77|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm8|TM98|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tr|TR10|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tr|TR17|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR49|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR63|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/tr|TR67|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tr|TR75|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tr|TR76|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tr|TR84|Scald|Water|Special|80|100|15}}
+{{learnlist/tr|TR95|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tr|TR98|Liquidation|Water|Physical|85|100|10}}
+{{learnlist/tmf/8|Cursola|Ghost|Ghost|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Cursola|Ghost|Ghost|8}}
+{{learnlist/breed8|{{MSP/8c|131|Lapras}}{{MSP/8c|345|Lileep}}{{MSP/8c|346|Cradily}}|Confuse Ray|Ghost|Status|—|100|10|grid=8}}
+{{learnlist/breed8|{{MSP/8c|686|Inkay}}{{MSP/8c|687|Malamar}}|Destiny Bond|Ghost|Status|—|—|5|*|grid=8}}
+{{learnlist/breed8|{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}|Haze|Ice|Status|—|—|30|grid=8}}
+{{learnlist/breed8|{{MSP/8c|369|Relicanth}}{{MSP/8c|834|Drednaw}}|Head Smash|Rock|Physical|150|80|5|grid=8}}
+{{learnlist/breed8|{{MSP/8c|270|Lotad}}{{MSP/8c|271|Lombre}}{{MSP/8c|272|Ludicolo}}|Nature Power|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed8|{{MSP/8c|007|Squirtle}}{{MSP/8c|008|Wartortle}}{{MSP/8c|009|Blastoise}}{{MSP/8c|054|Psyduck}}{{MSP/8c|055|Golduck}}{{MSP/8c|072|Tentacool}}{{MSP/8c|073|Tentacruel}}{{MSP/8c|079|Slowpoke}}{{MSP/8c|079G|Slowpoke}}{{MSP/8c|080|Slowbro}}{{MSP/8c|080G|Slowbro}}{{MSP/8c|199|Slowking}}{{MSP/8c|199G|Slowking}}{{MSP/8c|131|Lapras}}{{MSP/8c|223|Remoraid}}{{MSP/8c|224|Octillery}}{{MSP/8c|226|Mantine}}{{MSP/8c|258|Mudkip}}{{MSP/8c|259|Marshtomp}}{{MSP/8c|260|Swampert}}{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|350|Milotic}}{{MSP/8c|422|Shellos}}{{MSP/8c|423|Gastrodon}}{{MSP/8c|690|Skrelp}}{{MSP/8c|691|Dragalge}}{{MSP/8c|692|Clauncher}}{{MSP/8c|693|Clawitzer}}{{MSP/8c|816|Sobble}}{{MSP/8c|817|Drizzile}}{{MSP/8c|818|Inteleon}}|Water Pulse|Water|Special|60|100|20|grid=8}}
+{{learnlist/breedf/8|Cursola|Ghost|Ghost|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Cursola|Ghost|Ghost|8}}
+{{learnlist/tutor8|Burning Jealousy|Fire|Special|70|100|5|||no|yes}}
+{{learnlist/tutor8|Meteor Beam|Rock|Special|120|90|10|||no|yes}}
+{{learnlist/tutor8|Poltergeist|Ghost|Physical|110|90|5||'''|no|yes}}
+{{learnlist/tutorf/8|Cursola|Ghost|Ghost|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Cursola|Ghost|Ghost|8}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Cursola|Ghost|Ghost|8}}
+
+===Side game data===
+{{Spindata/Head|type=Ghost}}
+{{Spindata/GO
+| col = 6
+| type = Ghost
+| ndex = 0864
+| hatch = N/A
+| buddy = 3
+| candy = Corsola
+| evolution = N/A
+| stamina = 155
+| attack = 253
+| defense = 182
+| fast = {{m|Tackle}}, {{m|Astonish}}
+| special = {{m|Power Gem}}, {{m|Rock Blast}}, {{m|Night Shade}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Ghost
+|pictype=sprite
+|no1=0222Corsola-Galar
+|name1=Corsola
+|form1=Galarian Form
+|type1-1=Ghost
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 38}}
+|no2=0864Cursola
+|name2=Cursola
+|type1-2=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Ghost}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=864}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0864}}
+{{Spritebox/Footer|864|Cursola}}
+
+==In animation==
+[[File:Allister Cursola.png|thumb|250px|Cursola in {{aniseries|JN}}]]
+===Main series===
+====Major appearances====
+
+====Minor appearances====
+Cursola debuted in ''[[JN106|Radio Lulled the Mischievous Stars!]]'', under the ownership of [[Allister]].
+
+===Pokémon: Twilight Wings===
+A Cursola appeared in ''[[TW08|The Gathering of Stars]]'', under the ownership of [[Allister]].
+{{-}}
+
+==In the manga==
+[[File:Allister Cursola Adventures.png|thumb|150px|Cursola in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+===={{MangaArc|Sword & Shield}}====
+A Cursola first appeared in ''[[PASS13|Glittering!! The Tapestry in the Vault]]'', under the ownership of [[Allister]].
+{{-}}
+
+==In the TCG==
+{{main|Cursola (TCG)}}
+==Trivia==
+* Cursola can be seen as a parallel to {{p|Sirfetch'd}}. They are both mono-typed [[Evolution]]s of [[regional form]]s whose original forms do not evolve. In {{g|Sword and Shield}}, at the [[Stow-on-Side Stadium]] and during the [[Champion Cup]] Finals, [[Allister]] in Pokémon Shield uses Cursola in his team, while [[Bea]] in Pokémon Sword uses Sirfetch'd in her team.
+* Cursola is the only [[Generation VIII]] Pokémon in the {{egg|Water 3}} [[Egg Group]].
+* Cursola and its pre-Evolution are the only {{type|Ghost}} Pokémon in both the {{egg|Water 1}} and Water 3 Egg Groups.
+* Excluding form changes, Cursola has the largest decrease in a single base stat upon evolving, losing 50 {{stat|Defense}}.
+
+===Origin===
+Cursola appears to be based on {{wp|coral bleaching|bleached coral}}, a phenomenon in which coral expels the {{wp|zooxanthellae}} that gives it color, primarily because of rising water temperatures as a result of climate change. Its {{t|Ghost}} type refers to the high mortality rate of bleached coral. The way it paralyzes those who touch its ectoplasm may be inspired by the venomous stingers corals use to capture prey, which sometimes cause paralysis. These stingers are used more frequently by the naturally white deep-water corals. Additionally, its appearance and ability to petrify, along with its name in various languages, may reference the {{wp|Gorgons}} of Greek mythology. This is possibly a reference to {{wp|Alcyonacea}}, a suborder of coral which is also collectively known as "gorgonian corals".
+
+Alcyonacea also contain a scleroprotein known as {{wp|gorgonin}}, which forms and supports the corals' skeletons, possibly tying in to Cursola's skeletal appearance. The ectoplasmic encasing that it periodically sheds may draw inspiration from the mucus houses of {{wp|larvacean}}s. Cursola's odd ritual of gathering together under a full moon and sending their branches into the sky may be a reference to real life coral spawning and its possible relationship to the phase of the moon.
+
+====Name origin====
+Cursola may be a combination of ''curse'' and ''{{p|Corsola}}''.
+
+Sunigoon may be a combination of サニーゴ ''Sunnygo'' (Corsola), ゴルゴーン ''Gorgon'', and ''gone''.
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Ghost
+|ja=サニゴーン ''Sunigoon''|jameaning=From {{tt|サニーゴ ''Sunnygo''|Corsola}}, ''Gorgon'', and ''gone''
+|fr=Corayôme|frmeaning=From ''{{tt|Corayon|Corsola}}'' and ''{{tt|fantôme|phantom}}''
+|es=Cursola|esmeaning=Same as English name
+|de=Gorgasonn|demeaning=From ''{{tt|Gorgone|Gorgon}}'' and ''{{tt|Corasonn|Corsola}}''
+|it=Cursola|itmeaning=Same as English name
+|ko=산호르곤 ''Sanhoreugon''|komeaning=From {{tt|산호 (珊瑚) ''sanho''|coral}} and ''Gorgon''
+|zh_cmn=魔靈珊瑚 / 魔灵珊瑚 ''Mólíngshānhú''|zh_cmnmeaning=From {{tt|魔 ''mó''|demon}}, {{tt|靈 / 灵 ''líng''|spirit}}, and {{tt|珊瑚 ''shānhú''|coral}}
+|zh_yue=魔靈珊瑚 ''Mōlìhngsāanwùh''|zh_yuemeaning=From {{tt|魔 ''mō''|demon}}, {{tt|靈 ''lìhng''|spirit}}, and {{tt|珊瑚 ''sāanwùh''|coral}}
+|hi=श्रामूंगा ''Shraamoonga''|himeaning=From {{tt|श्राप ''śrāp''|curse}} and {{tt|मूंगा ''mūṅgā''|coral}}
+|ru=Курсола ''Kursola''|rumeaning=From English name
+|th=ซานิกอน ''Sanikon''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+==References==
+<references/>
+
+[[Category:Pokémon with cross-generational Evolutions]]
+
+==External links==
+
+{{Galarian forms}}
+
+{{PokémonPrevNext/Head|type=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0863|prev=Perrserker|nextnum=0865|next=Sirfetch'd}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Gorgasonn]]
+[[es:Cursola]]
+[[fr:Corayôme]]
+[[it:Cursola]]
+[[ja:サニゴーン]]
+[[zh:魔灵珊瑚]]

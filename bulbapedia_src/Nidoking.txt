@@ -1,0 +1,849 @@
+{{PokémonPrevNext/Head|type=Poison|type2=Ground}}
+{{PokémonPrevNext/GO|species=Nidoking}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=0033|prev=Nidorino|nextnum=0035|next=Clefairy|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Nidoking
+|jname=ニドキング
+|jtranslit=Nidokingu
+|tmname=Nidoking
+|ndex=0034
+|type1=Poison
+|type2=Ground
+|category=Drill
+|height-ftin=4'07"
+|height-m=1.4
+|weight-lbs=136.7
+|weight-kg=62.0
+|abilitylayout=2
+|ability1=Poison Point
+|ability2=Rivalry
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Sheer Force
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Field
+|eggcycles=20
+|evtotal=3
+|evat=3
+|expyield=227<!--223 in Gen V-VI-->
+|oldexp=195
+|lv100exp=1,059,860
+|gendercode=0
+|color=Purple
+|catchrate=45
+|body=06
+|pokefordex=nidoking
+|generation=1
+|friendship=70
+}}
+'''Nidoking''' ([[List of Japanese Pokémon names|Japanese]]: '''ニドキング''' ''Nidoking'') is a dual-type {{2t|Poison|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Nidorino}} when exposed to a [[Moon Stone]]. It is the final form of {{p|Nidoran♂}}.
+
+It is related to the {{p|Nidoran♀}} line, serving as {{p|Nidoqueen}}'s male counterpart. Starting in [[Generation V]], it can produce {{pkmn|Egg}}s that contain either Nidoran♂ or Nidoran♀ when [[Pokémon breeding|bred]] with {{p|Ditto}}.
+
+==Biology==
+Nidoking is a large, bipedal, purple {{wp|mammalian}} Pokémon with distinct {{wp|reptilian}} features. It has narrow eyes, large, spiny ears, fur-like tufts on its cheeks, and a short snout filled with pointed teeth. A long, venomous horn is on its forehead and a ridge of spines down its back. Gray plates cover its chest and belly, with a gray, rounded spine on each elbow. Each hand has three claws, while each foot has only a single hoof-like nail. It has a long, powerful tail. Nidoking is a male-only species.
+
+It is said that Nidoking's tail can topple a metal transmission tower. Nidoking uses this tail to smash, constrict, or break the bones of its prey and enemies. The tail can also be swung to create distance between it and its foes before Nidoking charges. Its steel-like hide adds to its powerful, rampaging charges. Nidoking's horn is powerful enough to crush diamonds. Nidoking is known to be very proud of its own strength. When Nidoking goes on a rampage, it becomes impossible to control. Only a {{p|Nidoqueen}} that it has lived with for a long time can calm it down from its rampages. As shown in [[PS021|the 21st chapter of Pokémon Adventures]], Nidoking has strong acid within its claws. Being the result of [[Evolution]] via an [[Evolution stone]], Nidoking is rarely found in the wild. However, they can be found in {{DL|List of Pokémon by habitat|Grassland Pokémon|savannas and plains}}.
+
+===Evolution===
+Nidoking evolves from {{p|Nidorino}} and is the final form of {{p|Nidoran♂}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Poison
+|type2=Ground
+|pictype=art
+|no1=0032
+|name1=Nidoran♂
+|type1-1=Poison
+|evo1=
+|no2=0033
+|name2=Nidorino
+|type1-2=Poison
+|evo2=
+|no3=0034
+|name3=Nidoking
+|type1-3=Poison
+|type2-3=Ground}}
+</div>
+
+==Game data==
+===NPC appearances===
+{{Spoilers}}
+* {{g|Mystery Dungeon: Explorers of Sky}}: Nidoking is an explorer who appears in [[Igglybuff the Prodigy]]. He was in pursuit of the criminal  [[Armaldo (Explorers of Sky)|Armaldo]]. {{endspoilers}}
+
+===Pokédex entries===
+{{Dex/Header|type=Poison|type2=Ground}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=034}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=It uses its powerful tail in battle to smash, constrict, then break the prey's bones.}}
+{{Dex/Entry1|v=Yellow|entry=Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Has a rock-hard hide that is worn like armor. The long horn on its head is sharp and highly venomous.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=100}}
+{{Dex/Entry1|v=Gold|entry=It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.}}
+{{Dex/Entry1|v=Silver|entry=Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.}}
+{{Dex/Entry1|v=Crystal|entry=It uses its thick arms, legs and tail to attack forcefully. Melee combat is its specialty.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=034}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Nidoking</sc>'s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this {{ScPkmn}} goes on a rampage, there is no stopping it.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A <sc>Nidoking</sc>'s thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.}}
+{{Dex/Entry1|v=FireRed|entry=It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom.}}
+{{Dex/Entry1|v=LeafGreen|entry=It uses its powerful tail in battle to smash, constrict, then break the prey's bones.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=100}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=One swing of its mighty tail can snap a telephone pole as if it were a matchstick.}}
+{{Dex/Entry1|v=HeartGold|entry=It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its tail is thick and powerful. If it binds an enemy, it can render the victim helpless quite easily.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=One swing of its mighty tail can snap a telephone pole as if it were a matchstick.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=One swing of its mighty tail can snap a telephone pole as if it were a matchstick.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=109|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It is recognized by its rock-hard hide and its extended horn. Be careful with the horn, as it contains venom.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=One swing of its mighty tail can snap a telephone pole as if it were a matchstick.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=034}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|label1=Crown Tundra|num1=070|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When it goes on a rampage, it's impossible to control. But in the presence of a {{p|Nidoqueen}} it's lived with for a long time, Nidoking calms down.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Nidoking prides itself on its strength. It's forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=One swing of its mighty tail can snap a telephone pole as if it were a matchstick.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Poison|type2=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+{{Availability/Entry1|v=Yellow|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area={{rt|23|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.3.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Bed]] ([[Wanderer]])<br>[[Giant's Bed/Dens|Giant's Bed]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Poison|type2=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 2, Forever Level 51, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Nidorino}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Shimmer Desert]] (1F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Shimmer Desert]] (1F-9F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]] <small>(Normal Mode A & S)</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Variety Battle#It's Drill Time!|Variety Battle: It's Drill Time!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 2|Safari Jungle: Stage 2]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Forgotten Forest|Dark Land: Forgotten Forest]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Dragonite Sea]], [[Garchomp Sea]], [[Butterfree Sea]], [[Bulbasaur Sea]], [[Garchomp Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Magma Cavern]] (2F-5F), [[Wish Cave]] (77F-79F), [[Southern Cavern]] (9F-19F), [[Purity Forest]] (77F-79F)<br/>Mystery House: [[Silver Trench]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Jungle Verde|Jungle Verde: Stage 141]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Poké Fair [[sync pair scout]]: {{sync|Giovanni|Nidoking|sygna=1}}<br>[[Evolution]]: {{sync/player|egg|Nidorino}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Poison|type2=Ground}}
+{{eventAvail|{{gameabbrev7|USUM}}|Team Rainbow Rocket's Ambition Giovanni's Nidoking|All|Japan|68|January 20 to March 11, 2018|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Giovanni's Nidoking}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Poison|type2=Ground}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Bitter Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+|}
+
+===Stats===
+====Base stats====
+======Generations I-V======
+{{Stats
+|type=Poison
+|type2=Ground
+|HP=81
+|Attack=92
+|Defense=77
+|SpAtk=85
+|SpDef=75
+|Speed=85
+|Special=75
+}}
+
+======Generation VI onward======
+{{Stats
+|type=Poison
+|type2=Ground
+|HP=81
+|Attack=102
+|Defense=77
+|SpAtk=85
+|SpDef=75
+|Speed=85
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Poison
+|type2=Ground
+|Speed=2
+|SpeedMax=3
+|Power=5
+|PowerMax=5
+|Technique=3
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison
+|type2=Ground
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=25
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=100
+|Electric=0
+|Psychic=200
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|gen1poison=yes
+|oldbug=2
+|ground=yes
+|newelectric=1
+}}
+
+===Learnset===
+Nidoking is available in {{pkmn|Sword and Shield}} Version 1.3.0+ and {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Nidoking|Poison|Ground|1}}
+{{learnlist/level8|1|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/level8|1|Sludge Wave|Poison|Special|95|100|10|{{sup/8|BDSP}}|'''}}
+{{learnlist/level8|1|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level8|1|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/level8|1|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level8|1|Horn Attack|Normal|Physical|65|100|25}}
+{{learnlist/level8|1|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level8|1|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level8|1|Flatter|Dark|Status|—|100|15}}
+{{learnlist/level8|1|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/level8|1|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level8|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level8|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level8|1|Peck|Flying|Physical|35|100|35}}
+{{learnlist/level8|1|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/levelf/8|Nidoking|Poison|Ground|1}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Nidoking|Poison|Ground|1}}
+{{learnlist/tm8|TM00|Mega Punch|Normal|Physical|80|85|20}}
+{{learnlist/tm8|TM01|Mega Kick|Normal|Physical|120|75|5}}
+{{learnlist/tm8|TM02|Pay Day|Normal|Physical|40|100|20}}
+{{learnlist/tm8|TM03|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm8|TM04|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm8|TM05|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15}}
+{{learnlist/tm8|TM37|Beat Up|Dark|Physical|—|100|10}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM43|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM49|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm8|TM54|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm8|TM59|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm8|TM64|Avalanche|Ice|Physical|60|100|10}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm8|TM74|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM77|Hex|Ghost|Special|65|100|10}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm8|TM96|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/tm8|TM98|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR02|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tr|TR10|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tr|TR13|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/tr|TR15|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tr|TR17|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tr|TR24|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR28|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR39|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/tr|TR54|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tr|TR57|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tr|TR62|Dragon Pulse|Dragon|Special|85|100|10}}
+{{learnlist/tr|TR64|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tr|TR67|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tr|TR75|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tr|TR76|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tr|TR78|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tr|TR87|Drill Run|Ground|Physical|80|95|10||'''}}
+{{learnlist/tr|TR91|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/tr|TR94|High Horsepower|Ground|Physical|95|95|10||'''}}
+{{learnlist/tr|TR95|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tr|TR99|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tmf/8|Nidoking|Poison|Ground|1}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Nidoking|Poison|Ground|1}}
+{{learnlist/tm8|TM01|Focus Punch|Fighting|Physical|150|100|20||}}
+{{learnlist/tm8|TM03|Water Pulse|Water|Special|60|100|20||}}
+{{learnlist/tm8|TM05|Roar|Normal|Status|&mdash;|&mdash;|20||}}
+{{learnlist/tm8|TM06|Toxic|Poison|Status|&mdash;|90|10||}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM12|Taunt|Dark|Status|&mdash;|100|20||}}
+{{learnlist/tm8|TM13|Ice Beam|Ice|Special|90|100|10||}}
+{{learnlist/tm8|TM14|Blizzard|Ice|Special|110|70|5||}}
+{{learnlist/tm8|TM15|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM23|Iron Tail|Steel|Physical|100|75|15||}}
+{{learnlist/tm8|TM24|Thunderbolt|Electric|Special|90|100|15||}}
+{{learnlist/tm8|TM25|Thunder|Electric|Special|110|70|10||}}
+{{learnlist/tm8|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm8|TM28|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM30|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm8|TM31|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tm8|TM34|Shock Wave|Electric|Special|60|&mdash;|20||}}
+{{learnlist/tm8|TM35|Flamethrower|Fire|Special|90|100|15||}}
+{{learnlist/tm8|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm8|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM38|Fire Blast|Fire|Special|110|85|5||}}
+{{learnlist/tm8|TM39|Rock Tomb|Rock|Physical|60|95|15||}}
+{{learnlist/tm8|TM41|Torment|Dark|Status|&mdash;|100|15||}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|&mdash;|100|15||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM52|Focus Blast|Fighting|Special|120|70|5||}}
+{{learnlist/tm8|TM56|Fling|Dark|Physical|&mdash;|100|10||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM59|Dragon Pulse|Dragon|Special|85|100|10||}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15||}}
+{{learnlist/tm8|TM68|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm8|TM71|Stone Edge|Rock|Physical|100|80|5||}}
+{{learnlist/tm8|TM72|Avalanche|Ice|Physical|60|100|10||}}
+{{learnlist/tm8|TM76|Stealth Rock|Rock|Status|&mdash;|&mdash;|20||}}
+{{learnlist/tm8|TM80|Rock Slide|Rock|Physical|75|90|10||}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM83|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm8|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|&mdash;|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||}}
+{{learnlist/tm8|TM95|Surf|Water|Special|90|100|15||}}
+{{learnlist/tm8|TM96|Strength|Normal|Physical|80|100|15||}}
+{{learnlist/tm8|TM98|Rock Smash|Fighting|Physical|40|100|15||}}
+{{learnlist/tm8|TM100|Rock Climb|Normal|Physical|90|85|20||}}
+{{learnlist/tmf/8|Nidoking|Poison|Ground|1}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Nidoking|Poison|Ground|2}}
+{{learnlist/breed8|{{MSP/8c|054|Psyduck}}{{MSP/8c|055|Golduck}}{{MSP/8c|077G|Ponyta}}{{MSP/8c|078G|Rapidash}}{{MSP/8c|079|Slowpoke}}{{MSP/8c|079G|Slowpoke}}{{MSP/8c|080|Slowbro}}{{MSP/8c|080G|Slowbro}}{{MSP/8c|199|Slowking}}{{MSP/8c|199G|Slowking}}{{MSP/8c|196|Espeon}}{{MSP/8c|527|Woobat}}{{MSP/8c|528|Swoobat}}{{MSP/8c|677|Espurr}}{{MSP/8c|678|Meowstic}}{{MSP/8c|765|Oranguru}}|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/breed8|{{MSP/8c|263G|Zigzagoon}}{{MSP/8c|264G|Linoone}}{{MSP/8c|862|Obstagoon}}{{MSP/8c|448|Lucario}}{{MSP/8c|745Mn|Lycanroc}}{{MSP/8c|745D|Lycanroc}}{{MSP/8c|749|Mudbray}}{{MSP/8c|750|Mudsdale}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}{{MSP/8c|819|Skwovet}}{{MSP/8c|820|Greedent}}{{MSP/8c|833|Chewtle}}{{MSP/8c|834|Drednaw}}|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/breed8|{{MSP/8c|037|Vulpix}}{{MSP/8c|037A|Vulpix}}{{MSP/8c|038|Ninetales}}{{MSP/8c|038A|Ninetales}}{{MSP/8c|054|Psyduck}}{{MSP/8c|055|Golduck}}{{MSP/8c|079|Slowpoke}}{{MSP/8c|079G|Slowpoke}}{{MSP/8c|080|Slowbro}}{{MSP/8c|080G|Slowbro}}{{MSP/8c|199|Slowking}}{{MSP/8c|199G|Slowking}}{{MSP/8c|108|Lickitung}}{{MSP/8c|463|Lickilicky}}|Disable|Normal|Status|—|100|20}}
+{{learnlist/breed8|{{MSP/8c|559|Scraggy}}{{MSP/8c|560|Scrafty}}{{MSP/8c|697|Tyrantrum}}{{MSP/8c|834|Drednaw}}|Head Smash|Rock|Physical|150|80|5}}
+{{learnlist/breed8|{{MSP/8c|111|Rhyhorn}}{{MSP/8c|112|Rhydon}}{{MSP/8c|464|Rhyperior}}{{MSP/8c|530|Excadrill}}{{MSP/8c|696|Tyrunt}}{{MSP/8c|697|Tyrantrum}}|Horn Drill|Normal|Physical|—|30|5}}
+{{learnlist/breed8|{{MSP/8c|621|Druddigon}}{{MSP/8c|843|Silicobra}}{{MSP/8c|844|Sandaconda}}|Poison Tail|Poison|Physical|50|100|25|*|'''}}
+{{learnlist/breed8|{{MSP/8c|050|Diglett}}{{MSP/8c|050A|Diglett}}{{MSP/8c|051|Dugtrio}}{{MSP/8c|051A|Dugtrio}}{{MSP/8c|273|Seedot}}{{MSP/8c|274|Nuzleaf}}{{MSP/8c|275|Shiftry}}{{MSP/8c|303|Mawile}}{{MSP/8c|359|Absol}}{{MSP/8c|434|Stunky}}{{MSP/8c|435|Skuntank}}{{MSP/8c|509|Purrloin}}{{MSP/8c|510|Liepard}}{{MSP/8c|678|Meowstic}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745D|Lycanroc}}{{MSP/8c|816|Sobble}}{{MSP/8c|817|Drizzile}}{{MSP/8c|818|Inteleon}}{{MSP/8c|827|Nickit}}{{MSP/8c|828|Thievul}}|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/breed8|{{MSP/8c|108|Lickitung}}{{MSP/8c|463|Lickilicky}}{{MSP/8c|258|Mudkip}}{{MSP/8c|259|Marshtomp}}{{MSP/8c|260|Swampert}}{{MSP/8c|293|Whismur}}{{MSP/8c|294|Loudred}}{{MSP/8c|295|Exploud}}|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|058|Growlithe}}{{MSP/8c|059|Arcanine}}{{MSP/8c|077|Ponyta}}{{MSP/8c|077G|Ponyta}}{{MSP/8c|078|Rapidash}}{{MSP/8c|078G|Rapidash}}{{MSP/8c|111|Rhyhorn}}{{MSP/8c|112|Rhydon}}{{MSP/8c|464|Rhyperior}}{{MSP/8c|128|Tauros}}{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|206|Dunsparce}}{{MSP/8c|220|Swinub}}{{MSP/8c|221|Piloswine}}{{MSP/8c|473|Mamoswine}}{{MSP/8c|258|Mudkip}}{{MSP/8c|259|Marshtomp}}{{MSP/8c|260|Swampert}}{{MSP/8c|263|Zigzagoon}}{{MSP/8c|263G|Zigzagoon}}{{MSP/8c|264|Linoone}}{{MSP/8c|264G|Linoone}}{{MSP/8c|862|Obstagoon}}{{MSP/8c|304|Aron}}{{MSP/8c|305|Lairon}}{{MSP/8c|306|Aggron}}{{MSP/8c|443|Gible}}{{MSP/8c|444|Gabite}}{{MSP/8c|445|Garchomp}}{{MSP/8c|449|Hippopotas}}{{MSP/8c|450|Hippowdon}}{{MSP/8c|506|Lillipup}}{{MSP/8c|507|Herdier}}{{MSP/8c|508|Stoutland}}{{MSP/8c|659|Bunnelby}}{{MSP/8c|660|Diggersby}}{{MSP/8c|712|Bergmite}}{{MSP/8c|713|Avalugg}}{{MSP/8c|759|Stufful}}{{MSP/8c|760|Bewear}}{{MSP/8c|766|Passimian}}{{MSP/8c|831|Wooloo}}{{MSP/8c|832|Dubwool}}|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/breed8|{{MSP/8c|052G|Meowth}}{{MSP/8c|863|Perrserker}}{{MSP/8c|104|Cubone}}{{MSP/8c|105|Marowak}}{{MSP/8c|105A|Marowak}}{{MSP/8c|128|Tauros}}{{MSP/8c|221|Piloswine}}{{MSP/8c|473|Mamoswine}}{{MSP/8c|246|Larvitar}}{{MSP/8c|247|Pupitar}}{{MSP/8c|248|Tyranitar}}{{MSP/8c|551|Sandile}}{{MSP/8c|552|Krokorok}}{{MSP/8c|553|Krookodile}}{{MSP/8c|554|Darumaka}}{{MSP/8c|554G|Darumaka}}{{MSP/8c|555|Darmanitan}}{{MSP/8c|555G|Darmanitan}}{{MSP/8c|613|Cubchoo}}{{MSP/8c|614|Beartic}}{{MSP/8c|696|Tyrunt}}{{MSP/8c|697|Tyrantrum}}{{MSP/8c|725|Litten}}{{MSP/8c|726|Torracat}}{{MSP/8c|727|Incineroar}}{{MSP/8c|759|Stufful}}{{MSP/8c|760|Bewear}}{{MSP/8c|766|Passimian}}{{MSP/8c|877|Morpeko}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breedf/8|Nidoking|Poison|Ground|2}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Nidoking|Poison|Ground|2}}
+{{learnlist/breed8|{{MSP/H|0054|Psyduck}}{{MSP/H|0055|Golduck}}{{MSP/H|0079|Slowpoke}}{{MSP/H|0080|Slowbro}}{{MSP/H|0199|Slowking}}{{MSP/H|0143|Snorlax}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0258|Mudkip}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0287|Slakoth}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0289|Slaking}}{{MSP/H|0320|Wailmer}}{{MSP/H|0321|Wailord}}{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0399|Bidoof}}{{MSP/H|0400|Bibarel}}|Amnesia|Psychic|Status|&mdash;|&mdash;|20||}}
+{{learnlist/breed8|{{MSP/H|0215|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0228|Houndour}}{{MSP/H|0229|Houndoom}}|Beat Up|Dark|Physical|&mdash;|100|10||}}
+{{learnlist/breed8|{{MSP/H|0054|Psyduck}}{{MSP/H|0055|Golduck}}{{MSP/H|0079|Slowpoke}}{{MSP/H|0080|Slowbro}}{{MSP/H|0199|Slowking}}{{MSP/H|0196|Espeon}}{{MSP/H|0203|Girafarig}}{{MSP/H|0325|Spoink}}{{MSP/H|0326|Grumpig}}|Confusion|Psychic|Special|50|100|25||}}
+{{learnlist/breed8|{{MSP/H|0287|Slakoth}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0289|Slaking}}{{MSP/H|0448|Lucario}}|Counter|Fighting|Physical|&mdash;|100|20||}}
+{{learnlist/breed8|{{MSP/H|0037|Vulpix}}{{MSP/H|0038|Ninetales}}{{MSP/H|0054|Psyduck}}{{MSP/H|0055|Golduck}}{{MSP/H|0079|Slowpoke}}{{MSP/H|0080|Slowbro}}{{MSP/H|0199|Slowking}}{{MSP/H|0108|Lickitung}}{{MSP/H|0463|Lickilicky}}{{MSP/H|0352|Kecleon}}|Disable|Normal|Status|&mdash;|100|20||}}
+{{learnlist/breed8|{{MSP/H|0408|Cranidos}}{{MSP/H|0409|Rampardos}}|Head Smash|Rock|Physical|150|80|5||}}
+{{learnlist/breed8|{{MSP/H|0111|Rhyhorn}}{{MSP/H|0112|Rhydon}}{{MSP/H|0464|Rhyperior}}|Horn Drill|Normal|Physical|&mdash;|30|5||}}
+{{learnlist/breed8|{{MSP/H|0336|Seviper}}|Poison Tail|Poison|Physical|50|100|25||'''}}
+{{learnlist/breed8|{{MSP/H|0019|Rattata}}{{MSP/H|0020|Raticate}}{{MSP/H|0050|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0289|Slaking}}{{MSP/H|0303|Mawile}}{{MSP/H|0327|Spinda}}{{MSP/H|0352|Kecleon}}{{MSP/H|0359|Absol}}{{MSP/H|0431|Glameow}}{{MSP/H|0432|Purugly}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}|Sucker Punch|Dark|Physical|70|100|5||}}
+{{learnlist/breed8|{{MSP/H|0108|Lickitung}}{{MSP/H|0463|Lickilicky}}{{MSP/H|0258|Mudkip}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0293|Whismur}}{{MSP/H|0294|Loudred}}{{MSP/H|0295|Exploud}}|Supersonic|Normal|Status|&mdash;|55|20||}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0019|Rattata}}{{MSP/H|0020|Raticate}}{{MSP/H|0058|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0077|Ponyta}}{{MSP/H|0078|Rapidash}}{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0111|Rhyhorn}}{{MSP/H|0112|Rhydon}}{{MSP/H|0464|Rhyperior}}{{MSP/H|0128|Tauros}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0179|Mareep}}{{MSP/H|0180|Flaaffy}}{{MSP/H|0181|Ampharos}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0231|Phanpy}}{{MSP/H|0232|Donphan}}{{MSP/H|0234|Stantler}}{{MSP/H|0258|Mudkip}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0263|Zigzagoon}}{{MSP/H|0264|Linoone}}{{MSP/H|0304|Aron}}{{MSP/H|0305|Lairon}}{{MSP/H|0306|Aggron}}{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0399|Bidoof}}{{MSP/H|0400|Bibarel}}{{MSP/H|0408|Cranidos}}{{MSP/H|0409|Rampardos}}{{MSP/H|0410|Shieldon}}{{MSP/H|0411|Bastiodon}}{{MSP/H|0443|Gible}}{{MSP/H|0444|Gabite}}{{MSP/H|0445|Garchomp}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/breed8|{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0104|Cubone}}{{MSP/H|0105|Marowak}}{{MSP/H|0128|Tauros}}{{MSP/H|0158|Totodile}}{{MSP/H|0159|Croconaw}}{{MSP/H|0160|Feraligatr}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0246|Larvitar}}{{MSP/H|0247|Pupitar}}{{MSP/H|0248|Tyranitar}}{{MSP/H|0327|Spinda}}|Thrash|Normal|Physical|120|100|10||}}
+{{learnlist/breed8|{{MSP/H|0336|Seviper}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}|Venom Drench|Poison|Status|&mdash;|100|20||}}
+{{learnlist/breedf/8|Nidoking|Poison|Ground|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Nidoking|Poison|Ground|2}}
+{{learnlist/tutor8|Scorching Sands|Ground|Special|70|100|10||'''|no|yes}}
+{{learnlist/tutorf/8|Nidoking|Poison|Ground|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Nidoking|Poison|Ground|1}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Nidoking|Poison|Ground|1}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Nidoking|Poison|Ground|1}}
+{{learnlist/prevgen8|Nidoking|1|Aqua Tail|Water|Physical|90|90|10|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nidoking|1|Bide|Normal|Physical|—|—|10|I=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nidoking|1|Bubble Beam|Water|Special|65|100|20|I=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Captivate|Normal|Status|—|100|20|IV=yes<!--TM,prevo-->|V=yes<!--prevo-->|VI=yes<!--prevo-->|VII=yes<!--prevo-->|x=yes}}
+{{learnlist/prevgen8|Nidoking|1|Chip Away|Normal|Physical|70|100|20|V=yes<!--level,breed-->|VI=yes<!--level,breed-->|VII=yes<!--level,breed-->|x=yes}}
+{{learnlist/prevgen8|Nidoking|1|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Curse|Ghost|Status|—|—|10|II=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Defense Curl|Normal|Status|—|—|40|II=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nidoking|1|Detect|Fighting|Status|—|—|5|II=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Double Team|Normal|Status|—|—|15|I=yes<!--TM-->|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Double-Edge|Normal|Physical|120|100|15|I=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nidoking|1|Dragon Tail|Dragon|Physical|60|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Dynamic Punch|Fighting|Physical|100|50|5|II=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nidoking|1|Echoed Voice|Normal|Special|40|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Fissure|Ground|Physical|—|30|5|I=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Focus Punch|Fighting|Physical|150|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nidoking|1|Frustration|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nidoking|1|Fury Cutter|Bug|Physical|40|95|20|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nidoking|1|Headbutt|Normal|Physical|70|100|15|II=yes<!--TM-->|IV=yes<!--tutor-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Hidden Power|Normal|Special|60|100|15|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nidoking|1|Hone Claws|Dark|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Incinerate|Fire|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Mimic|Normal|Status|—|—|10|I=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nidoking|1|Mud-Slap|Ground|Special|20|100|10||'''|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nidoking|1|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nidoking|1|Power-Up Punch|Fighting|Physical|40|100|20|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Quash|Dark|Status|—|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Rage|Normal|Physical|20|100|20|I=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nidoking|1|Reflect|Psychic|Status|—|—|20|I=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Return|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nidoking|1|Roar|Normal|Status|—|—|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Rock Smash|Fighting|Physical|40|100|15|II=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Nidoking|1|Seismic Toss|Fighting|Physical|—|100|20|I=yes<!--TM-->|III=yes<!--tutor-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Shock Wave|Electric|Special|60|—|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nidoking|1|Skull Bash|Normal|Physical|130|100|10|I=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Smack Down|Rock|Physical|50|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Strength|Normal|Physical|80|100|15|I=yes<!--TM-->|II=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Submission|Fighting|Physical|80|80|20|I=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Super Fang|Normal|Physical|—|90|10|IV=yes<!--tutor-->|V=yes<!--tutor,prevo-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Nidoking|1|Swagger|Normal|Status|—|85|15|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Tackle|Normal|Physical|40|100|35|I=yes<!--level-->|II=yes<!--level-->}}
+{{learnlist/prevgen8|Nidoking|1|Torment|Dark|Status|—|100|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Water Gun|Water|Special|40|100|25|I=yes<!--TM-->}}
+{{learnlist/prevgen8|Nidoking|1|Water Pulse|Water|Special|60|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgenf/8|Nidoking|Poison|Ground|1}}
+
+===Side game data===
+{{Spindata/Head|type=Poison|type2=Ground}}
+{{Spindata/Pinball|col=3|type=Poison|ndex=034|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Poison|ndex=034|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Poison|ndex=034
+|body=1
+|rate=Evolve
+|area=Safari
+|P1=I'm the male among males!
+|P2=I'm down to half HP now. Better watch out.
+|P3=I can't take much more... I can't muster any strength...
+|PL=I leveled! The poison in my horn's turning vile!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Poison|ndex=034
+|body=1
+|rate=-12
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Poison|ndex=034
+|coset=3
+|conto={{p|Nidoqueen}}, {{p|Nidoran♂}}, {{p|Nidorino}}
+|recruitment=Battle {{p|Nidoran♂}}
+|P1=Fool me once, shame on {{p|Sandslash}}! Fool me twice, shame on Nidoking!
+|P2=I won't fall! I'm not joking!
+}}
+|-
+{{Spindata/Rumble|col=3|type=Poison
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Poison
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Poison|ndex=034
+|walk=1.5
+|hp=56
+|attack=79
+|defense=54
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Poison|ndex=034
+|power=3
+|skill=Brute Force
+|skilldesc=Deals normal damage even to types resistant to its type.
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Poison|ndex=034|num=053
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Power of 5
+|skilldesc=Increases damage when you make a match of five.
+}}
+|-
+{{Spindata/GO|col=6|type=Poison|ndex=034
+|hatch=N/A
+|buddy=3
+|candy=Nidoran♂
+|evolution=N/A
+|stamina=191
+|attack=204
+|defense=156
+|fast={{m|Poison Jab}}, {{m|Iron Tail}}{{tt|*|From February 16, 2017 onward}}, {{m|Fury Cutter}}{{tt|†|Prior to February 16, 2017}}, {{m|Double Kick}}{{tt|*|From September 1, 2022 onward}}, {{m|Poison Sting}}{{tt|*|From June 1, 2025 onward}}
+|special={{m|Earthquake}}, {{m|Sludge Wave}}, {{m|Megahorn}}, {{m|Earth Power}}{{tt|*|From May 17, 2019 onward}}, {{m|Sand Tomb}}{{tt|*|From August 30, 2021 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{poison color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{poison color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{poison color dark}}; background:#{{poison color light}};"| [[File:GO0034Crown.png|100px]]
+|-
+| Crown
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Poison
+|type2=Ground
+|pictype=art
+|no1=0032
+|name1=Nidoran♂
+|type1-1=Poison
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 16}}
+|no2=0033
+|name2=Nidorino
+|type1-2=Poison
+|evo2={{Bag/s|Moon Stone|SV}}<br>{{color2|000|Moon Stone}}
+|no3=0034
+|name3=Nidoking
+|type1-3=Poison
+|type2-3=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Poison|type2=Ground}}
+{{Spritebox/1|ndex=034}}
+{{Spritebox/2|ndex=034}}
+{{Spritebox/3|ndex=034}}
+{{Spritebox/4|ndex=034}}
+{{Spritebox/5|ndex=034}}
+{{Spritebox/6|ndex=034|crop=130}}
+{{Spritebox/7/PE|ndex=034|crop=86|PEcrop=222}}
+{{Spritebox/8|ndex=034}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0034}}
+{{Spritebox/Footer|034|Nidoking}}
+
+==In animation==
+===Main series===
+[[File:Nidoking anime.png|thumb|250px|Nidoking in {{aniseries|JN}}]]
+====Major appearances====
+In ''[[EP063|The Battle of the Badge]]'', {{Gary}} used a Nidoking during his [[Gym]] battle with {{an|Giovanni}}. He easily defeated Giovanni's {{p|Golem}} before getting overwhelmed by {{OBP|Mewtwo|M01}}. This battle was shown again from Mewtwo's perspective in ''[[M01|Mewtwo Strikes Back]]'' and its remake, ''[[M22|Mewtwo Strikes Back—Evolution]]''. In ''[[EP077|The Fourth Round Rumble]]'', Nidoking battled [[Melissa]]'s Golem at the [[Indigo Plateau Conference]] and lost.
+
+In ''[[EP088|In the Pink]]'', a {{DL|List of alternately colored Pokémon in animation|Pink Nidoking|pink}} Nidoking was a resident of [[Pinkan Island]]. He attacked [[Jessie]] and [[James]] as they were attempting to capture a {{DL|List of alternately colored Pokémon in animation|Pink Pokémon|pink}} Nidoran couple. He was eventually subdued by [[Officer Jenny]].
+
+In ''[[HS04|Showdown at the Oak Corral]]'', a Nidoking tried to mate with [[Cassidy]], who was in a Nidoqueen costume at the time.
+
+In ''[[AG072|The Bicker the Better]]'', [[Oscar and Andi|Oscar]] has a Nidoking, while his girlfriend Andi had a Nidoqueen. They had a [[Double Battle]] with {{Ash}} and {{an|May}}, and due to Oscar and Andi's communication with each other, they were able to defeat Ash and May with relative ease.
+
+In ''[[DP128|A Pyramiding Rage!]]'', [[Paul]] used a Nidoking to battle {{an|Brandon}}'s {{DL|Brandon's legendary giants|Registeel}}. Although Nidoking was powerful and versatile, Registeel was still able to hold its own and eventually brought down Nidoking.
+
+In the original timeline of ''[[M12|Arceus and the Jewel of Life]]'', two Nidoking were used by [[Damos]], who was under {{m|Hypnosis}}, to attack {{OBP|Arceus|M12}} with {{m|Shock Wave}}. When Ash and {{ashfr}} traveled to the past to prevent this, [[Marcus]], the one responsible for hypnotizing Damos, managed to use the Nidoking again to attack Arceus.
+
+In ''[[BW135|Mystery on a Deserted Island!]]'', a Nidoking was a resident of the {{OBP|Deserted Island|BW135}}. He was first seen chasing a trio of {{p|Eevee}} before being intimidated into leaving by {{AP|Pikachu}}'s {{m|Iron Tail}}. He later attacked {{TRT}} but was defeated by them.
+
+In a flashback in ''[[JN001|Enter Pikachu!]]'', a young [[Goh]] and [[Chloe]] saw a Nidoking battling a {{p|Mew}} that was copying its [[move]]s. He reappeared in flashbacks in ''[[JN005|Mind-Boggling Dynamax!]]'' and ''[[JN032|Time After Time!]]''.
+
+====Minor appearances====
+Nidoking debuted in ''[[EP047|A Chansey Operation]]'', where one was amongst the Pokémon injured in a car crash.
+
+A Nidoking appeared in ''[[EP096|Meowth Rules!]]'', under the ownership of the [[Golden Island]] villagers.
+
+In ''[[M02|The Power of One]]'', a Nidoking sensed the disturbance caused by [[Lawrence III]].
+
+A Nidoking appeared in a fantasy in ''[[EP116|The Rivalry Revival]]''.
+
+In ''[[EP140|Wired for Battle!]]'', a Nidoking was in [[Muramasa]]'s dojo.
+
+In ''[[EP194|Ring Masters]]'', a Nidoking competed in [[Rikishii Town]]'s [[Sumo Conference]].
+
+Multiple Nidoking appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+In a flashback in ''[[EP223|Throwing in the Noctowl]]'', a Nidoking was defeated by [[Wings Alexander]]'s then-{{p|Hoothoot}}.
+
+In ''[[EP237|As Cold as Pryce]]'', [[Pryce]] remembered a Trainer's Nidoking as one of the Pokémon that fought his {{TP|Pryce|Piloswine}}.
+
+In ''[[EP266|A Claim to Flame!]]'', a female Trainer's Nidoking participated in a qualifying match for the [[Silver Conference]].
+
+In ''[[AG126|Saved by the Beldum]]'', a Trainer's Nidoking was seen during the [[Ever Grande Conference]].
+
+In ''[[M08|Lucario and the Mystery of Mew]]'', multiple Nidoking were part of the feuding armies that were eventually placated by [[Sir Aaron]] in the past.
+
+In ''[[AG161|Odd Pokémon Out!]]'', a Nidoking was a resident of [[Camomile Island]].
+
+A {{pkmn|Coordinator}}'s Nidoking appeared in ''[[DP027|Settling a Not-So-Old Score!]]''.
+
+In ''[[DP072|Pokémon Ranger and the Kidnapped Riolu! (Part 2)]]'', {{OBP|J's client|DP071}}'s henchmen used a Nidoking to attack {{an|Dawn}}, {{an|Brock}}, [[Officer Jenny]], and [[Solana]].
+
+In ''[[DP140|Historical Mystery Tour!]]'', Ash encountered a Nidoking in [[Xatu's Forest]].
+
+A Nidoking appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Nidoking appeared in [[Evolution|Cilan's demonstration]] in ''[[BW135|Mystery on a Deserted Island!]]'', where he evolved from a Nidoran♂.
+
+A soldier's Nidoking appeared in a flashback in ''[[XYS05|The Legend of X, Y, and Z!]]''.
+
+In ''[[M20|I Choose You!]]'', a Nidoking was under the control of {{OBP|Marshadow|M20}}.
+
+A Nidoking appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Nidoking appeared in ''[[HZ084|Where the Land Meets the Sky]]''.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG072|Nidoking|Ash's Pokédex|Nidoking, the Drill Pokémon. Nidoking swings its large tail about to create distance, then charges in with the full force of its body behind it.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP128|Nidoking|Dawn's Pokédex|Nidoking, the Drill Pokémon. One swing of its mighty tail can snap a telephone pole as if it were nothing but a matchstick.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+
+===Pokémon Origins===
+In ''[[PO01|File 1: Red]]'', a Nidoking was one of the Pokémon seen in [[Professor Oak]]'s introduction.
+
+===POKÉTOON===
+A Nidoking appeared in ''[[PT03|Blossom's Dream]]'' alongside a {{p|Nidoqueen}}. They followed {{OBP|Blossom|POKÉTOON}} back to her village and fought some townspeople because they thought the girl had taken their son, a {{p|Nidoran♂}}. After the misunderstanding was cleared up, they allowed their son to stay with Blossom.
+
+==In the manga==
+[[File:Giovanni Nidoking Adventures.png|thumb|200px|Nidoking in [[Pokémon Adventures]]]]
+===Ash & Pikachu===
+{{Gary}} owns a Nidoking, which appeared in ''[[SP16|One Half Of A Poké Ball]]''.
+
+===Pokémon Adventures===
+In ''[[PS021|Long Live the Nidoking!]]'', two Nidoking were fighting for a Nidoqueen.
+
+{{adv|Red}} {{pkmn2|caught}} several rampaging Nidoking in the {{safari|Kanto}} in ''[[PS022|A Hollow Victreebel]]''.
+
+{{adv|Giovanni}} used his Nidoking to destroy his former [[Gym]] with a powerful {{m|Earthquake}} in ''[[PS038|Long Live the Nidoqueen!?]]''. He was later seen again in the [[Sevii Islands]], where his {{m|Rock Tomb}} tripped a biker that {{adv|Deoxys}} had attacked.
+
+A Nidoking appeared in a flashback along with a Nidoqueen while the Day-Care Couple was reminiscing about the times they had raising Pokémon in ''[[PS107|Gligar Glide]]''.
+
+A Nidoking was seen in a [[Poké Ball]] at {{adv|Professor Oak}}'s Laboratory in [[Cherrygrove City]] in ''[[PS121|Off Course with Corsola]]''.
+
+A Nidoking appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+A Nidoking appeared in ''[[PS442|Out-Odding Oddish]]'', under the ownership of a [[Pokéathlon]] participant.
+
+A Nidoking appeared in ''[[PASS40|Rumble!! The Darkest Day Returns]]'', being one of many Pokémon to suddenly [[Dynamax]] due to the [[Darkest Day]].
+
+===Pokémon Pocket Monsters===
+{{PPM|Giovanni}} has a Nidoking, which was used in his Gym battle against {{PPM|Red}} in ''[[PM031|Get The Last Badge!!]]''.
+
+{{PPM|Professor Oak}} owns a Nidoking, which debuted in ''[[PM040|Save the Pokémon Zoo!!]]''.
+
+===Pokémon Zensho===
+In [[PZ09]], [[Giovanni]] was revealed to have become bitter and turned to crime after losing his Nidoking when he was young. At the end of the chapter, {{zensho|Satoshi}} gave Giovanni his deceased Nidoking's horn, given to him by [[Mr. Fuji]].
+
+==In the TCG==
+{{main|Nidoking (TCG)}}
+
+==Trivia==
+* Nidoking and its female counterpart {{p|Nidoqueen}} share their {{pkmn|category}} with {{p|Rhydon}} and {{p|Rhyperior}}. They are all known as the Drill Pokémon. Additionally, all four are partly {{type|Ground}}s.
+* Although its female counterpart Nidoqueen cannot be bred, Nidoking can.
+* Nidoking is a popular choice with [[rival]]s in ''[[Pokémon the Series]]'', as two of {{Ash}}'s main rivals ({{Gary}} and [[Paul]]) have one, as well as {{jo|Jimmy}}'s {{DL|Silver (game)|Counterparts|main rival}}.
+* Nidoking was designed by [[Ken Sugimori]], and is one of the first Pokémon ever created.<ref name=Shmuplations>(2001). ゲーム・マエストロ〈VOL.4〉デザイナー/イラストレーター編 ([https://shmuplations.com/pokemon/ English translation by Shmuplations])</ref>
+
+===Origin===
+<!--Do not add anything related to Nidoking being based on Baragon. The interview only states that Nidoking is based on Kaiju in general, not a specific one.-->
+Nidoking was created with a ''{{wp|kaiju}}'' monster motif.<ref name=Shmuplations/> Physically, it appears to share traits of {{wp|rhinoceros}}es, {{wp|gorilla}}s, {{wp|rabbit}}s, and {{wp|porcupine}}s.
+
+====Name origin====
+Nidoking may be a combination of ''needle'' and ''{{wp|king}}''. It may also involve 二度 ''nido'' (twice).
+
+==In other languages==
+{{Other languages|type=Poison|type2=Ground
+|ja=ニドキング ''Nidoking''|jameaning=From ''needle'', ''king'', and possibly {{tt|二度 ''nido''|twice}}
+|fr=Nidoking|frmeaning=Same as English/Japanese name
+|es=Nidoking|esmeaning=Same as English/Japanese name
+|de=Nidoking|demeaning=Same as English/Japanese name
+|it=Nidoking|itmeaning=Same as English/Japanese name
+|ko=니드킹 ''Nidoking''|komeaning=Transcription of Japanese name
+|zh_cmn=尼多王 ''Níduōwáng''|zh_cmnmeaning=From the partial transcription of the Japanese name and {{tt|王 ''wáng''|king}}
+|zh_yue=尼多王 ''Nèihdōwòhng''|zh_yuemeaning=From the partial transcription of the Japanese name and {{tt|王 ''wòhng''|king}}
+|hi=नीडोकिंग ''Nidoking''|himeaning=Transcription of Japanese name
+|lt=Nidokingas|ltmeaning=From the English name
+|ru=Нидокинг ''Nidoking''|rumeaning=Transcription of Japanese name
+|th=นิโดคิง ''Nidokhing''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Poison|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=0033|prev=Nidorino|nextnum=0035|next=Clefairy}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Nidoking]]
+[[es:Nidoking]]
+[[fr:Nidoking]]
+[[it:Nidoking]]
+[[ja:ニドキング]]
+[[zh:尼多王]]

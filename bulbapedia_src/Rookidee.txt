@@ -1,0 +1,342 @@
+{{PokémonPrevNext/Head|type=Flying}}
+{{PokémonPrevNext/GO|species=Rookidee}}
+{{PokémonPrevNext/Pokémon|type=Flying|prevnum=0820|prev=Greedent|nextnum=0822|next=Corvisquire|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Rookidee
+|jname=ココガラ
+|tmname=Kokogara
+|ndex=0821
+|type1=Flying
+|category=Tiny Bird
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=4.0
+|weight-kg=1.8
+|abilityn=d
+|ability1=Keen Eye
+|ability2=Unnerve
+|abilityd=Big Pecks
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|evtotal=1
+|evsp=1
+|expyield=49
+|lv100exp=1059860
+|gendercode=127
+|color=Blue
+|catchrate=255
+|body=09
+|pokefordex=rookidee
+|generation=8
+|friendship=50
+}}
+'''Rookidee''' ([[List of Japanese Pokémon names|Japanese]]: '''ココガラ''' ''Kokogara'') is a {{type|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Corvisquire}} starting at [[level]] 18, which evolves into {{p|Corviknight}} starting at level 38.
+
+==Biology==
+[[File:821Rookidee Dream.png|thumb|left|200px|Rookidee's wings]]
+Rookidee is a small, birdlike {{OBP|Pokémon|species}} that is primarily dark blue, including its wings, tail, back and part of its head. The lower part of its body and chest is yellow, and it has a plume of black feathers that begins from under its wings to its face, from which a few tufts protrude over its head, giving it a mask-like appearance. It has red eyes with white markings under them, which helps Rookidee to intimidate fearful Pokémon. It has small gray legs and feet, each with two toes on the front and one on the back.
+
+Rookidee are feisty and territorial Pokémon and will bravely fight against anybody, no matter how big and strong that opponent is. They are able to store some of their own energy after every battle, so they can grow a bit stronger even if they lose. Using their legs, they are able to jump nimbly from place to place to confuse Pokémon bigger than themselves. Female Rookidee are fussier than the males, and will relentlessly attack anyone who dirties its wings. Rookidee preys on {{p|Grubbin}}.
+
+===Evolution===
+Rookidee evolves into {{p|Corvisquire}}, which evolves into {{p|Corviknight}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|type1=Flying
+|no1=0821
+|name1=Rookidee
+|type1-1=Flying
+|evo1=
+|no2=0822
+|name2=Corvisquire
+|type1-2=Flying
+|evo2=
+|no3=0823
+|name3=Corviknight
+|type1-3=Flying
+|type2-3=Steel}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Flying}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=021|reg2=Galar|label2=Crown Tundra|num2=163|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle—even a defeat increases its strength a bit.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=40|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon is brave and reckless. The white markings around a Rookidee's eyes intimidate fainthearted Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The females are fussier than the males. If another creature dirties a female Rookidee's wings, it'll peck the offender relentlessly in a burning rage.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{flying color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{flying color light}}; background:#{{flying color light}} | [[File:Pokédex Image Rookidee SV.png|x200px]]
+|-
+| Rookidee in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Flying}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Route]]s {{rtn|1|Galar}}, {{rtn|2|Galar}}, and {{rtn|3|Galar}}, [[Motostoke Riverbank]], [[Slumbering Weald]]<br>[[East Lake Axewell/Dens|East Lake Axewell]], [[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Three)|Area Three]], [[South Province (Area Five)|Area Five]]<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Rookidee|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Flying|lochide=yes}}
+{{eventAvail|{{gameabbrev8|Sh}}|Wild Area News|No|hide|17|November 15 to January 9, 2020|link=Wild Area News#November 15 to December 4, 2019}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Flying
+|HP=38
+|Attack=47
+|Defense=35
+|SpAtk=33
+|SpDef=35
+|Speed=57
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Flying
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Rookidee|Flying|Flying|8}}
+{{learnlist/level9|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|4|Power Trip|Dark|Physical|20|100|10}}
+{{learnlist/level9|8|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level9|12|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level9|16|Pluck|Flying|Physical|60|100|20||'''}}
+{{learnlist/level9|20|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level9|24|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level9|28|Drill Peck|Flying|Physical|80|100|20||'''}}
+{{learnlist/level9|32|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level9|36|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/levelf/9|Rookidee|Flying|Flying|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Rookidee|Flying|Flying|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM097|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM164|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/tmf/9|Rookidee|Flying|Flying|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Rookidee|Flying|Flying|8}}
+{{learnlist/breed9|{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}{{MSP/H|0580|Ducklett}}{{MSP/H|0581|Swanna}}{{MSP/H|0627|Rufflet}}{{MSP/H|0628|Braviary}}{{MSP/H|0628-Hisui|Braviary}}{{tt|*|Noctowl could not learn Defog via level-up prior to Version 3.0.0}}|Defog|Flying|Status|—|—|15|grid=7}}
+{{learnlist/breed9|{{MSP/H|0731|Pikipek}}{{MSP/H|0732|Trumbeak}}{{MSP/H|0733|Toucannon}}|Rock Smash|Fighting|Physical|40|100|15|grid=7}}
+{{learnlist/breed9|{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}{{MSP/H|0580|Ducklett}}{{MSP/H|0581|Swanna}}{{MSP/H|0661|Fletchling}}{{MSP/H|0662|Fletchinder}}{{MSP/H|0663|Talonflame}}{{MSP/H|0701|Hawlucha}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}{{MSP/H|0731|Pikipek}}{{MSP/H|0732|Trumbeak}}{{MSP/H|0733|Toucannon}}{{MSP/H|0741|Oricorio}}{{MSP/H|0931|Squawkabilly}}{{MSP/H|0940|Wattrel}}{{MSP/H|0941|Kilowattrel}}{{MSP/H|0973|Flamigo}}|Roost|Flying|Status|—|—|5|grid=7}}
+{{learnlist/breed9|{{MSP/H|0227|Skarmory}}|Sand Attack|Ground|Status|—|100|15|grid=7}}
+{{learnlist/breed9|{{MSP/H|0164|Noctowl}}{{MSP/H|0334|Altaria}}{{MSP/H|0628|Braviary}}{{MSP/H|0628|Braviary|form=-Hisui}}{{MSP/H|0701|Hawlucha}}|Sky Attack|Flying|Physical|140|90|5||'''|grid=7}}
+{{learnlist/breed9|{{MSP/H|0724|Decidueye}}|Spite|Ghost|Status|—|100|10|grid=7}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0580|Ducklett}}{{MSP/H|0581|Swanna}}{{MSP/H|0627|Rufflet}}{{MSP/H|0628|Braviary}}{{MSP/H|0628|Braviary|form=-Hisui}}{{MSP/H|0661|Fletchling}}{{MSP/H|0662|Fletchinder}}{{MSP/H|0663|Talonflame}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}|Tailwind|Flying|Status|—|—|15|grid=7}}
+{{learnlist/breedf/9|Rookidee|Flying|Flying|8}}
+
+===Side game data===
+{{Spindata/Head|type=Flying}}
+{{Spindata/GO
+| col = 6
+| type = Flying
+| ndex = 0821
+| hatch = 2 km
+| buddy = 1
+| candy = Rookidee
+| evolution = 25
+| stamina = 116
+| attack = 88
+| defense = 67
+| fast = {{m|Peck}}, {{m|Air Slash}}, {{m|Sand Attack}}
+| special = {{m|Sky Attack}}, {{m|Payback}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Flying
+|no1=0821
+|name1=Rookidee
+|type1-1=Flying
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 18}}
+|no2=0822
+|name2=Corvisquire
+|type1-2=Flying
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 38}}
+|no3=0823
+|name3=Corviknight
+|type1-3=Flying
+|type2-3=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Flying}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=821}}
+<!--{{Spritebox/9|ndex=0821}}-->
+{{Spritebox/HOME|ndex=0821}}
+{{Spritebox/Footer|821|Rookidee}}
+
+==In animation==
+===Main series===
+[[File:Rookidee anime.png|thumb|250px|Rookidee in {{aniseries|JN}}]]
+====Major appearances====
+Three Rookidee appeared in ''[[JN100|Meeting Up with the Monarch!]]'', where two Corviknight protected their nest. One of them had an injured wing, but {{an|Leon}} put a bandage around it.
+
+====Minor appearances====
+Rookidee debuted in ''[[JN027|Toughing It Out!]]'', under the ownership of a {{pkmn|Trainer}}.
+
+Two Rookidee appeared in ''[[JN028|Sobbing Sobble!]]''.
+
+Two Rookidee appeared in ''[[JN046|Getting More Than You Battled For!]]''.
+
+In ''[[JN050|A Pinch of This, a Pinch of That!]]'', multiple Rookidee were in the [[Wild Area]].
+
+A Trainer's Rookidee appeared in ''[[JN091|The Spectral Express!]]''.
+
+Four Rookidee appeared in ''[[JN115|Curtain Up! Fight the Fights!]]'', with one of them belonging to a Trainer.
+
+A Rookidee appeared during a flashback in ''[[JN132|Partners in Time!]]'', under the ownership of [[Sonia]]. She used it in her and Leon's first [[Pokémon battle]], defeating his {{TP|Leon|Charmander}}.
+
+Two Rookidee appeared in ''[[HZ027|As Long as I'm with My Friends]]''.
+
+A Trainer's Rookidee appeared in ''[[HZ049|Dot and Nidothing]]''.
+
+A Trainer's Rookidee appeared in ''[[HZ050|Trending Terastallization! Dance, Dance, Quaxly!]]''.
+
+Four Rookidee appeared in ''[[HZ053|Hatenna and the Otherworldly]]''.
+
+Two Rookidee appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+A Rookidee appeared in [[HZ099]].
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN100|Rookidee|Ash's Rotom Phone|Rookidee, the Tiny Bird Pokémon. A {{t|Flying}} type. Although Rookidee has a small body, it confronts Pokémon of any size. {{p|Corviknight}} is its final evolved form.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===POKÉTOON===
+A Rookidee appeared in ''[[PT05|The Slugma-Powered Home]]''.
+
+==In the manga==
+[[File:Rookidee Adventures.png|thumb|150px|Rookidee in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Multiple Rookidee debuted in a flashback in ''[[PASS05|Ooh Shiny!! Legendary Equipment]]'', where they were seen in the [[Slumbering Weald]].
+{{-}}
+
+==In the TCG==
+{{main|Rookidee (TCG)}}
+==Trivia==
+* Rookidee shares its {{pkmn|category}} with {{p|Pidgey}}, {{p|Spearow}}, and {{p|Natu}}. They are all known as the Tiny Bird Pokémon, though Natu has also been called the Little Bird Pokémon.
+* Rookidee and its evolved form are the first non-[[Legendary Pokémon]] to be purely {{type|Flying}}.
+* Rookidee is tied with Natu as the [[List of Pokémon by height|smallest]] Flying-type Pokémon.
+* Rookidee and its evolved forms were designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/1213844996975017989 Tweet by ありがひとし/ArigaHitoshi (@ariga_megamix).] Posted on January 5, 2020.</ref>
+
+===Origin===
+Rookidee's design appears to draw inspiration from birds in the {{wp|Tit (bird)|Paridae}} family, such as {{wp|chickadee}}s and tits; in the latter example's case, it may specifically be inspired by the {{wp|Eurasian blue tit}} and the {{wp|great tit}}, or the {{wp|Japanese tit}} for its {{Shiny}} coloration. While these birds are not a member of the {{wp|Corvidae|corvid}} family like the apparent inspirations for {{p|Corvisquire}} and {{p|Corviknight}}, they are in the same order, {{wp|Passerine|Passeriformes}}, and were once considered to be corvids. Its color pattern is similar to the [[wp:Hooded mountain tanager|hooded mountain tanager]].
+
+====Name origin====
+Rookidee may be a combination of ''{{wp|Rook (bird)|rook}}'', ''rookie'', ''kid'', and ''{{wp|chickadee}}''.
+
+Kokogara may be a combination of 子 ''ko'' (child) and 小雀 ''kogara'' ({{wp|willow tit}}) or 烏 ''karasu'' (crow).
+
+==In other languages==
+{{Other languages|type=Flying|type2=Flying
+|ja=ココガラ ''Kokogara''|jameaning=From {{tt|子 ''ko''|child}} and {{tt|小雀 ''kogara''|willow tit}} or {{tt|烏 ''karasu''|crow}}
+|fr=Minisange|frmeaning=From ''mini'' and ''{{tt|mésange|tit, chickadee}}''
+|es=Rookidee|esmeaning=Same as English name
+|de=Meikro|demeaning=From ''micro-'', ''{{tt|Meise|chickadee, tit}}'', and ''crow''
+|it=Rookidee|itmeaning=Same as English name
+|ko=파라꼬 ''Parakko''|komeaning=From {{tt|파랑 ''parang''|blue}} and {{tt|꼬마 ''kkoma''|little thing}}
+|zh_cmn=稚山雀 ''Zhìshānquè''|zh_cmnmeaning=From {{tt|稚 ''zhì''|young}} and {{tt|山雀 ''shānquè''|tit}}
+|zh_yue=稚山雀 ''Jihsāanjéuk''|zh_yuemeaning=From {{tt|稚 ''jih''|young}} and {{tt|山雀 ''sāanjéuk''|tit}}
+|hi=क्रोवक ''Crowvak''|himeaning=From ''crow'' and {{tt|युवक ''yuvak''|youth/adolescent}}
+|th=โคโคการะ ''Khokhokara''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Flying}}
+{{PokémonPrevNext/Pokémon|type=Flying|prevnum=0820|prev=Greedent|nextnum=0822|next=Corvisquire}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Meikro]]
+[[es:Rookidee]]
+[[fr:Minisange]]
+[[it:Rookidee]]
+[[ja:ココガラ]]
+[[zh:稚山雀]]

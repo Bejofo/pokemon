@@ -1,0 +1,300 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Tarountula}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0916|prev=Oinkologne|nextnum=0918|next=Spidops|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Tarountula
+|jname=タマンチュラ
+|jtranslit=Tamanchura
+|tmname=Tamantula
+|ndex=0917
+|type1=Bug
+|category=String Ball
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=8.8
+|weight-kg=4.0
+|abilityn=1
+|ability1=Insomnia
+|ability2=
+|abilityd=Stakeout
+|egggroupn=1
+|egggroup1=Bug
+|egggroup2=
+|eggcycles=15
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=1
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=42
+|lv100exp=600000
+|gendercode=127
+|color=White
+|catchrate=255
+|body=14
+|pokefordex=tarountula
+|generation=9
+|friendship=50
+}}
+'''Tarountula''' ([[List of Japanese Pokémon names|Japanese]]: '''タマンチュラ''' ''Tamantula'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Spidops}} starting at [[level]] 15.
+
+==Biology==
+<div style="float:left; display:flex; flex-flow:row wrap;">
+[[File:SV Tarountula's abdomen.png|frame|left|<!-- As this is an animated PNG, please do not turn this into a thumbnail by determining a specific set image size! -->A Tarountula's abdomen under its ball of threads]]
+</div>
+Tarountula is a lime-green arachnid Pokémon whose body is wrapped in a ball of white threads that it secretes from its rear. Its face has white patterns that flank its two eyes on either side, as well as two pairs of protrusions resembling {{wp|chelicerae}} and {{wp|pedipalp}}s, which hides a tiny mouth on the bottom of its head. It has eight spindly legs tipped with a dark green color on the ends. Its abdomen can be seen when it willingly ejects its ball of white threads.
+
+Tarountula can sometimes be found hanging upside down from trees using its thread. Tarountula's thread is elastic and strong as wire, being able to deflect even the attacks of its natural enemy, {{p|Scyther}}. Research into the secret behind the thread's strength is currently ongoing.
+{{left clear}}
+<gallery>
+File:Tarountula thread hang.png|A Tarountula hanging from a tree on [[Poco Path]]
+</gallery>
+===Evolution===
+Tarountula evolves into {{p|Spidops}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|pictype=art
+|no1=0917
+|name1=Tarountula
+|type1-1=Bug
+|evo1=
+|no2=0918
+|name2=Spidops
+|type1-2=Bug}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=12|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The ball of threads wrapped around its body is elastic enough to deflect the scythes of {{p|Scyther}}, this Pokémon’s natural enemy.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The thread it secretes from its rear is as strong as wire. The secret behind the thread's strength is the topic of ongoing research.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{bug color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Tarountula SV.png|x200px]]
+|-
+| Tarountula in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Two)|Area Two]], [[South Province (Area Three)|Area Three]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]], [[Cabo Poco]], [[Poco Path]], {{pal|Pokémon League}}<br>North Province: [[Socarrat Trail]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Tarountula|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|HP=35
+|Attack=41
+|Defense=45
+|SpAtk=29
+|SpDef=40
+|Speed=20
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Tarountula|Bug|Bug|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|String Shot|Bug|Status|—|95|40}}
+{{learnlist/level9|5|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level9|8|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level9|11|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level9|14|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level9|18|Block|Normal|Status|—|—|5}}
+{{learnlist/level9|22|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/level9|25|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|29|Sticky Web|Bug|Status|—|—|20}}
+{{learnlist/level9|33|Gastro Acid|Poison|Status|—|100|10}}
+{{learnlist/level9|36|Circle Throw|Fighting|Physical|60|90|10}}
+{{learnlist/level9|40|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/level9|44|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/levelf/9|Tarountula|Bug|Bug|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Tarountula|Bug|Bug|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tmf/9|Tarountula|Bug|Bug|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Tarountula|Bug|Bug|9}}
+{{learnlist/breed9|{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|First Impression|Bug|Physical|90|100|10||'''|grid=6}}
+{{learnlist/breed9|{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}{{MSP/H|0920|Lokix}}{{MSP/H|0953|Rellor}}{{MSP/H|0954|Rabsca}}|Lunge|Bug|Physical|80|100|15||'''|grid=6}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Memento|Dark|Status|—|100|10|grid=6}}
+{{learnlist/breed9|{{MSP/H|0167|Spinarak}}{{MSP/H|0168|Ariados}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|Sucker Punch|Dark|Physical|70|100|5|grid=6}}
+{{learnlist/breedf/9|Tarountula|Bug|Bug|9}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/GO|col=6|type=Bug|ndex=0917
+|hatch=N/A
+|buddy=1
+|candy=Tarountula
+|evocandy=25
+|stamina=111
+|attack=70
+|defense=77
+|fast={{m|Bug Bite}}, {{m|Struggle Bug}}
+|special={{m|X-Scissor}}, {{m|Grass Knot}}, {{m|Lunge}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|pictype=art
+|no1=0917
+|name1=Tarountula
+|type1-1=Bug
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 15}}
+|no2=0918
+|name2=Spidops
+|type1-2=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=bug}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0917}}-->
+{{Spritebox/HOME|ndex=0917}}
+{{Spritebox/Footer|917|Tarountula}}
+
+==In animation==
+===Main series===
+[[File:Tarountula anime.png|thumb|250px|Tarountula in {{aniseries|HZ}}]]
+====Major appearances====
+====Minor appearances====
+Two Tarountula made their animated series debut in ''[[HZ047|Put Your Heart Into It!]]'', under the ownership of two different {{pkmn|Trainer}}s each.
+
+A Trainer's Tarountula appeared in [[HZ098]].
+
+===Pokémon: Paldean Winds===
+[[File:Katy Paldean Winds.png|thumb|left|250px|Tarountula in [[Pokémon: Paldean Winds]]]]
+A Tarountula briefly appeared in ''[[PPW04|Breathe Together]]'', under the ownership of [[Katy]].
+{{-}}
+
+==In the manga==
+[[File:Scarlet Tarountula.png|thumb|150px|Tarountula in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Tarountula debuted in ''[[PASV05|Challenge! DJ Giacomo!!]]'', under the ownership of {{Scarlet}}.
+
+A Tarountula appeared in ''[[PASV06|Skillful! The Mysterious Treasure Hunter!!]]'' under the ownership of [[Katy]]. It took on Scarlet's Tarountula in a [[Gym]] battle, only for the match to result in a tie.
+{{-}}
+
+==In the TCG==
+{{main|Tarountula (TCG)}}
+
+==Trivia==
+
+===Origin===
+Tarountula may be based on the {{wp|orb-weaver spider}} alongside members of the {{wp|Uloboridae}} family, which are non-venomous and wrap their prey in bundles of silk. Its silk-covered abdomen evokes a yarn ball and may serve as a literal take on an "orb-weaver", although it may also be based on the spherical pods that ''{{wp|Deinopis}}'' spiders create to shelter their eggs — especially as its Evolution {{p|Spidops}} appears to be primarily based on these spiders. Tarountula's {{Shiny}} coloration resembles the [[Destiny Knot]].
+
+====Name origin====
+Tarountula may be a combination of ''tarantula'' and ''round''.
+
+Tamantula may be a combination of 球 ''tama'' (sphere) and ''tarantula''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=タマンチュラ ''Tamantula''|jameaning=From {{tt|球 ''tama''|sphere}} and ''tarantula''
+|fr=Tissenboule|frmeaning=From ''{{tt|tisse|weave}}'' and ''{{tt|boule|ball}}''
+|es=Tarountula|esmeaning=Same as English name
+|de=Tarundel|demeaning=From ''{{tt|Tarantel|tarantula}}'' and ''{{tt|rund|round}}''
+|it=Tarountula|itmeaning=Same as English name
+|ko=타랜툴라 ''Taraentulla''|komeaning=From {{tt|타래 ''tarae''|skein}} and {{tt|타란툴라 ''tarantulla''|tarantula}}
+|zh_cmn=團珠蛛 / 团珠蛛 ''Tuánzhūzhū''|zh_cmnmeaning=From {{tt|團 / 团 ''tuán ''|sphere}}, {{tt|珠 ''zhū''|bead}}, and {{tt|蜘蛛 ''zhīzhū''|spider}}
+|zh_yue=團珠蛛 ''Tyùhnjyūjyū''|zh_yuemeaning=From {{tt|團 ''tyùhn''|sphere}}, {{tt|珠 ''jyū''|bead}}, and {{tt|蜘蛛 ''jījyū''|spider}}
+|hi=टैरेंगोला ''Tarangola''|himeaning=From ''tarantula'' and {{tt|गोला ''golā''|orb/sphere}}
+|th=ทามันทูล่า ''Thamanthula''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0916|prev=Oinkologne|nextnum=0918|next=Spidops}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Tarundel]]
+[[es:Tarountula]]
+[[fr:Tissenboule]]
+[[it:Tarountula]]
+[[ja:タマンチュラ]]
+[[zh:团珠蛛]]

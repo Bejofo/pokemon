@@ -1,0 +1,310 @@
+{{PokémonPrevNext/Head|type=Water|type2=Dragon}}
+{{PokémonPrevNext/GO|species=Dracovish}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0881|prev=Arctozolt|nextnum=0883|next=Arctovish|round=none}}
+{{PokémonPrevNext/Disambig|species=Dracovish}}
+|}
+{{Pokémon Infobox
+|name=Dracovish
+|jname=ウオノラゴン
+|tmname=Uonoragon
+|ndex=0882
+|type1=Water
+|type2=Dragon
+|category=Fossil
+|height-ftin=7'07"
+|height-m=2.3
+|weight-lbs=474.0
+|weight-kg=215.0
+|abilityn=d
+|ability1=Water Absorb
+|ability2=Strong Jaw
+|abilityd=Sand Rush
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|eggcycles=35
+|evtotal=2
+|evde=2
+|expyield=177
+|lv100exp=1,250,000
+|gendercode=255
+|color=Green
+|catchrate=45
+|body=07
+|pokefordex=dracovish
+|generation=8
+|friendship=50
+}}
+'''Dracovish''' ([[List of Japanese Pokémon names|Japanese]]: '''ウオノラゴン''' ''Uonoragon'') is a dual-type {{2t|Water|Dragon}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It is revived from combining a [[Fossilized Fish]] and a [[Fossilized Drake]]. It is not known to [[Evolution|evolve]] into or from any other Pokémon, but appears to be related to {{p|Dracozolt}} and {{p|Arctovish}}.
+
+==Biology==
+[[File:Ash Dracovish ability.png|thumb|left|250px|Ash's Dracovish awakening a dormant power]]
+Dracovish is a hybrid fossil {{OBP|Pokémon|species}}. It consists of the head of the fish fossil and the back legs and tail of the dino fossil; the head appears to have been mounted on the tip of the tail. The tail region ends abruptly at a circular cutoff. Dracovish's legs are mostly green with two pink stripes. The feet have three red claws. The neck is also mostly green but has a red stripe going up the middle. The stripe is lined with three curved spikes on both sides. Dracovish's head is roughly circular with a rounded triangular plate on the top. On the plate is a red and white region that extends between the eyes. Its mouth has three sharp teeth in the middle. Its eyes are round and have black rectangular pupils. Two fins protrude from the bottom of the jaw.
+
+Dracovish is said to have been the apex predator of its time due to its powerful legs and jaws, and the ability to run at speeds exceeding 40 mph (60 km/h). However, it could not breathe unless it was underwater. Dracovish allegedly went extinct due to overhunting its prey, though this is likely not the case due to it being combined from two separate Pokémon that each had their niches before going extinct. As seen in the {{aniseries|JN}} episode ''[[JN063|On Land, In the Sea, and to the Future!]]'', Dracovish can run very fast when underwater. [[JN130|It has also been shown]] that Dracovish can awaken a dormant power from within itself that causes the spikes on its chest to become surrounded by a red aura. When in this state, the spikes can be used to bind targets or jab them.
+
+Dracovish and its counterpart {{p|Arctovish}} are [[Signature move|the only known Pokémon]] capable of learning the [[move]] {{m|Fishious Rend}}.
+{{left clear}}
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Dragon}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=376|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its mighty legs are capable of running at speeds exceeding {{tt|40 mph|60 km/h}}, but this Pokémon can't breathe unless it's underwater.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Dragon}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=Revive from [[Fossilized Fish]] and [[Fossilized Drake]] by [[Cara Liss]] on {{rt|6|Galar}}}}
+{{Availability/Entry1|v=Expansion Pass|color={{galar color}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Snowslide Slope/Dens|Snowslide Slope]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+====In events====
+{{eventAvail/h|Region|type=Water|type2=Dragon}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Marco Hemantha Kaludura Silva's Dracovish|All|Online|50|April 22 to 25, 2022|link=List of event Pokémon distributions in Pokémon Sword and Shield#Marco Hemantha Kaludura Silva's Dracovish}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Ash's Dracovish|All|Online|80|August 12 to 25, 2022|link=List of event Pokémon distributions in Pokémon Sword and Shield#Dracovish}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Water
+|type2=Dragon
+|HP=90
+|Attack=90
+|Defense=100
+|SpAtk=70
+|SpDef=80
+|Speed=75
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Dragon
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=25
+|Water=25
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=200
+|Dark=100
+|Fairy=200
+|notes=yes
+|waterabsorb=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Dracovish|Water|Dragon|8}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level8|7|Protect|Normal|Status|—|—|10}}
+{{learnlist/level8|14|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/level8|21|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level8|28|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level8|35|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level8|42|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level8|49|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/level8|56|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level8|63|Fishious Rend|Water|Physical|85|100|10||'''}}
+{{learnlist/level8|70|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level8|77|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/levelf/8|Dracovish|Water|Dragon|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Dracovish|Water|Dragon|8}}
+{{learnlist/tm8|TM01|Mega Kick|Normal|Physical|120|75|5}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM45|Dive|Water|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM54|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/tm8|TM67|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm8|TM97|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm8|TM98|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tr|TR07|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tr|TR10|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tr|TR16|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR24|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR32|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tr|TR62|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tr|TR67|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tr|TR74|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tr|TR75|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tr|TR84|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tr|TR97|Psychic Fangs|Psychic|Physical|85|100|10}}
+{{learnlist/tr|TR98|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tmf/8|Dracovish|Water|Dragon|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Dracovish|Water|Dragon|8}}
+{{learnlist/breed8null}}
+{{learnlist/breedf/8|Dracovish|Water|Dragon|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Dracovish|Water|Dragon|8}}
+{{learnlist/tutor8|Draco Meteor|Dragon|Special|130|90|5||'''|yes|no}}
+{{learnlist/tutor8|Meteor Beam|Rock|Special|120|90|10|||no|yes}}
+{{learnlist/tutorf/8|Dracovish|Water|Dragon|8}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Dragon}}
+{{Spindata/GO|col=6|type=Water|ndex=0882
+|egg=N/A
+|buddy=5
+|candy=Dracovish
+|evolution=N/A
+|stamina=207
+|attack=175
+|defense=185
+|fast={{m|Water Gun}}, {{m|Dragon Breath}}
+|special={{m|Brine}}, {{m|Dragon Pulse}}, {{m|Ancient Power}}
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Water
+|type2=Dragon
+|pictype=art
+|no1=0882
+|name1=Dracovish
+|type1-1=Water
+|type2-1=Dragon}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Dragon}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=882}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0882}}
+{{Spritebox/Footer|882|Dracovish}}
+
+==In animation==
+===Main series===
+[[File:Ash Dracovish.png|thumb|250px|Dracovish in {{aniseries|JN}}]]
+====Major appearances====
+=====[[Ash's Dracovish]]=====
+Dracovish debuted in ''[[JN050|A Pinch of This, a Pinch of That!]]'', where it was restored from a pair of Fossils in the [[Wild Area]] and caught by {{Ash}}.
+
+====Minor appearances====
+{{-}}
+
+==In the manga==
+[[File:Dracovish Adventures.png|thumb|150px|Dracovish in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Dracovish first appeared in ''[[PASS17|Stealth!! Infiltrate the Energy Plant]]''. It was later caught by [[Marvin]], who added it to his [[party]] and [[nickname]]d it Drakey. Later, it was revealed to have originally belonged to [[Cara Liss]].
+
+===Pokémon Journeys===
+{{main|Ash's Dracovish}}
+Ash's Dracovish was used in his [[World Coronation Series]] battle against {{an|Iris}} in ''[[JNM19|Thrash of the Titans!]]''.
+{{-}}
+
+==In the TCG==
+{{main|Dracovish (TCG)}}
+==Trivia==
+* Dracovish shares its {{pkmn|category}} with {{p|Aerodactyl}}, {{p|Dracozolt}}, {{p|Arctozolt}}, and {{p|Arctovish}}. They are all known as the Fossil Pokémon.
+* Dracovish, Dracozolt, Arctozolt, and Arctovish are the only [[fossil]] Pokémon to not be {{type|Rock}} or have a [[gender]].
+* Dracovish is the only Dragon-type to [[List of Pokémon by shape|consist only of a head and legs]].
+* Dracovish, along with the other Galarian fossil Pokémon, was designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/1319507626372153344 Tweet by ありがひとし/ArigaHitoshi (@ariga_megamix).] Posted on October 23, 2020.</ref>
+* In {{aniseries|JN}}, [[Cara Liss]] is the person who gives Dracovish its species name.
+
+===Origin===
+Dracovish, like {{p|Dracozolt}}, {{p|Arctozolt}}, and {{p|Arctovish}}, may be based on the concept of {{wp|Chimera (paleontology)|chimera}} in paleontology, which refers to fossils reconstructed from multiple different species or genus of animals, resulting in an inaccurate and mistaken understanding of the animals' biology. In the case of Dracovish, its bottom half appears to be based mainly on a {{wp|Stegosauria|stegosaurian}} dinosaur, whilst its top half appears to be based mainly on the fish ''{{wp|Dunkleosteus}}'', though the frontal pair of fins resemble those possessed by {{wp|Sarcopterygii|lobe-finned fish}} such as {{wp|coelacanth}}s rather than the fins of ''Dunkleosteus''. The placement of its head on the tip of its tail may be a reference to the first reconstruction of ''{{wp|Elasmosaurus}}''. Dracovish and the other Galarian Fossil Pokémon may also reference the {{wp|Crystal Palace Dinosaurs}}, a series of scientifically inaccurate dinosaur sculptures displayed at the {{wp|Crystal Palace Park}}.
+
+The Pokédex entries for all the Galarian Fossil Pokémon mention them being the cause of their extinction, which may be a reference to the outdated hypothesis that the dinosaurs were evolutionarily inert, which made them get bigger, more sluggish, and stupider to the point they could not sustain themselves.
+
+Dracovish being unable to [[Pokémon breeding|breed]] could be a reference to {{wp|Hybrid (biology)|hybrid}} animals, which are born {{wp|Infertility|infertile}} (unable to produce offspring).
+
+====Name origin====
+Dracovish may be a combination of ''[[wiktionary:draco|dracō]]'' (Latin for ''dragon''), ''fish'', and possibly ''vicious'' or ''{{wp|Ordovician|Ordovician}}''.
+
+Uonoragon may be a combination of 魚 ''uo'' (fish) and ''dragon''.
+
+==In other languages==
+{{Other languages|type=Water|type2=Dragon
+|ja=ウオノラゴン ''Uonoragon''|jameaning=From {{tt|魚 ''uo''|fish}} and ''dragon''
+|fr=Hydragon|frmeaning=From ''{{tt|hydro-|prefix for water}}'' or ''{{tt|Hydre|Hydra}}'' and ''dragon''
+|es=Dracovish|esmeaning=Same as English name
+|de=Pescragon|demeaning=From ''{{tt|pesce|Italian for fish}}'' and ''Dragon''
+|it=Dracovish|itmeaning=Same as English name
+|ko=어래곤 ''Eoragon''|komeaning=From {{tt|어 (魚) ''eo''|fish}} and ''dragon''
+|zh_cmn=鰓魚龍 / 鳃鱼龙 ''Sāiyúlóng''|zh_cmnmeaning=From {{tt|鰓 / 鳃 ''sāi''|gills}}, {{tt|魚 / 鱼 ''yú''|fish}}, and {{tt|龍 / 龙 ''lóng''|dragon}}
+|zh_yue=鰓魚龍 ''Sōiyùhlùhng''|zh_yuemeaning=From {{tt|鰓 ''sōi''|gills}}, {{tt|魚 ''yùh''|fish}}, and {{tt|龍 ''lùhng''|dragon}} 
+|hi=ड्रैगोफ़िश ''Dragofish''|himeaning=From ''dragon'' and ''fish''
+|th=อุโอโนรากอน ''Uonorakon''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Ash's Dracovish]]
+* [[Fossil]]
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+{{Fossil}}{{PokémonPrevNext/Head|type=Water|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0881|prev=Arctozolt|nextnum=0883|next=Arctovish}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+
+[[de:Pescragon]]
+[[es:Dracovish]]
+[[fr:Hydragon]]
+[[it:Dracovish]]
+[[ja:ウオノラゴン]]
+[[zh:鳃鱼龙]]

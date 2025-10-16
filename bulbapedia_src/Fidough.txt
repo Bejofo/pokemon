@@ -1,0 +1,315 @@
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/GO|species=Fidough}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0925|prev=Maushold|nextnum=0927|next=Dachsbun|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Fidough
+|jname=パピモッチ
+|tmname=Pupimocchi
+|jtranslit=Papimocchi
+|ndex=0926
+|type1=Fairy
+|category=Puppy
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=24.0
+|weight-kg=10.9
+|abilityn=d
+|ability1=Own Tempo
+|ability2=
+|abilityd=Klutz
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Mineral
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=1
+|expyield=62
+|lv100exp=1059860
+|gendercode=127
+|color=Yellow
+|catchrate=190
+|body=08
+|pokefordex=fidough
+|generation=9
+|friendship=50
+}}
+'''Fidough''' ([[List of Japanese Pokémon names|Japanese]]: '''パピモッチ''' ''Pupimocchi'') is a {{type|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Dachsbun}} starting at [[level]] 26.
+
+==Biology==
+[[File:Fidough exhaling yeast.png|250px|thumb|left|Fidough exhaling yeast]]
+Fidough is a small canine {{OBP|Pokémon|species}} with a large head and stubby legs. The head contains small, black beady eyes with rounded eyebrow-like growths on top; a snout with a rounded triangular nose and a tiny mouth; and rounded ears that resemble {{wp|pastry|pastries}} or bread {{wp|bun}}s. Fidough has a large dewlap on its neck, on which it is able to rest its head while sleeping. Its back has multiple protrusions that resemble a braid, and its tail is composed of two bulbous segments. Its fur is off-white in coloration, with yellow accents on the top of its head, its eyebrows, the insides of its ears, around its neck, and on its tail.
+Fidough's smooth, moist skin is firm yet soft to the touch, and has elastic qualities; when agitated, Fidough will puff itself up to appear larger, in an attempt to intimidate its opponents. Fidough's breath contains yeast and is used to ferment things. Fidough has long been considered a companion for humanity, because its yeast is useful for cooking.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/fidough/ Fidough — Pokémon Scarlet and Pokémon Violet | Official Website]</ref>
+
+===Evolution===
+Fidough evolves into {{p|Dachsbun}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Fairy
+|pictype=art
+|no1=0926
+|name1=Fidough
+|type1-1=Fairy
+|evo1=
+|no2=0927
+|name2=Dachsbun
+|type1-2=Fairy}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fairy}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=76|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The yeast in Fidough's breath is useful for cooking, so this Pokémon has been protected by people since long ago.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fairy color dark}}; background:#{{fairy color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{fairy color light}}; background:#{{fairy color light}} | [[File:Pokédex Image Fidough SV.png|x200px]]
+|-
+| Fidough in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Fairy}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Two)|Area Two]], [[South Province (Area Three)|Area Three]], [[South Province (Area Six)|Area Six]], {{pal|Pokémon League}}<br>East Province: [[East Province (Area Three)|Area Three]]<br>West Province: [[West Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Fidough|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+====In events====
+{{eventAvail/h|Language/Region|type=Fairy}}
+{{eventAvail|{{gameabbrev9|SV}}|Pokémon Store Fidough|All|Online|5|November 3 to December 31, 2023|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Pokémon Store Fidough}}
+{{eventAvail|{{gameabbrev9|SV}}|Birthday Fidough|All|Online|??|November 1, 2025 to January 31, 2027|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Pokémon Center Birthday Fidough}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Fairy
+|HP=37
+|Attack=55
+|Defense=70
+|SpAtk=30
+|SpDef=55
+|Speed=65
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fairy
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=200
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=0
+|Dark=50
+|Fairy=100
+|notes= yes
+|fairy=yes
+|newdragon=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Fidough|Fairy|Fairy|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|3|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/level9|6|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|8|Covet|Normal|Physical|60|100|25}}
+{{learnlist/level9|11|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|15|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level9|18|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/level9|22|Work Up|Normal|Status|—|—|30}}
+{{learnlist/level9|26|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level9|30|Roar|Normal|Status|—|—|20}}
+{{learnlist/level9|33|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|36|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|40|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level9|45|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/levelf/9|Fidough|Fairy|Fairy|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Fidough|Fairy|Fairy|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM008|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/tm9|TM010|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM063|Psychic Fangs|Psychic|Physical|85|100|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM139|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10||'''}}
+{{learnlist/tmf/9|Fidough|Fairy|Fairy|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Fidough|Fairy|Fairy|9}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0185|Sudowoodo}}{{MSP/H|0448|Lucario}}|Copycat|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0058|Growlithe}}{{MSP/H|0058|Growlithe|form=-Hisui}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059|Arcanine|form=-Hisui}}{{MSP/H|0228|Houndour}}{{MSP/H|0229|Houndoom}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0653|Fennekin}}{{MSP/H|0654|Braixen}}{{MSP/H|0655|Delphox}}{{MSP/H|0744|Rockruff}}{{MSP/H|0745|Lycanroc}}{{MSP/H|0745|Lycanroc|form=-Midnight}}{{MSP/H|0745|Lycanroc|form=-Dusk}}|Howl|Normal|Status|—|—|40|grid=8}}
+{{learnlist/breed9|{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}|Sweet Scent|Normal|Status|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0775|Komala}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{tt|*|Skeledirge learns Yawn on its own only Version 2.0.1 onwards}}|Yawn|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breedf/9|Fidough|Fairy|Fairy|9}}
+
+===Side game data===
+{{Spindata/Head|type=Fairy}}
+{{Spindata/GO|col=6|type=Fairy|ndex=0926
+|hatch=N/A
+|buddy=3
+|candy=Fidough
+|evocandy=50
+|stamina=114
+|attack=102
+|defense=126
+|fast={{m|Charm}}, {{m|Bite}}
+|special={{m|Body Slam}}, {{m|Play Rough}}, {{m|Psychic Fangs}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Fairy
+|pictype=art
+|no1=0926
+|name1=Fidough
+|type1-1=Fairy
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 26}}
+|no2=0927
+|name2=Dachsbun
+|type1-2=Fairy}}
+
+===Sprites===
+{{Spritebox/Header|type=fairy}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0926}}-->
+{{Spritebox/HOME|ndex=0926}}
+{{Spritebox/Footer|926|Fidough}}
+
+==In animation==
+[[File:Alex Fidough.png|thumb|250px|Fidough in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Fidough debuted in ''[[HZ009|Welcome to Paldea!]]'', under the ownership of [[Liko]]'s father, [[Alex]].
+
+====Minor appearances====
+A Trainer's Fidough appeared in ''[[HZ058|Food Fit for a Kingambit!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ009|Fidough|Roy's Rotom Phone|Fidough, the Puppy Pokémon. A {{t|Fairy}} type. Fidough feels smooth and moist to the touch. The yeast released when it exhales is capable of fermenting things in the surrounding area.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Paldean Winds===
+A Fidough appeared in ''[[PPW01|Breathe Out]]'' at [[Naranja Academy]]. It was seen again in the [[PPW02|following episode]].
+
+A Fidough appeared in ''[[PPW04|Breathe Together]]''.
+
+===Biri-Biri===
+A Fidough appeared in the music video for [[Biri-Biri]], under the ownership of {{ga|Juliana|Anna}}. It evolved into a {{p|Dachsbun}}.
+
+==In the manga==
+===Pokémon Adventures===
+A student's Fidough debuted in a fantasy in [[PASV17]].
+{{-}}
+
+==In the TCG==
+{{main|Fidough (TCG)}}
+
+==Trivia==
+* Fidough shares its {{pkmn|category}} with {{p|Growlithe}}, {{p|Lillipup}}, {{p|Rockruff}}, and {{p|Yamper}}. They are all known as the Puppy Pokémon.
+* Fidough is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 312.
+* Fidough and its evolved form, {{p|Dachsbun}}, were designed by [[Mari Shimazaki]].<ref>[https://twitter.com/MariShimazaki/status/1806662918186188869 Tweet] by 島崎麻里 (@MariShimazaki). Posted on June 28, 2024.</ref>
+
+===Origin===
+Fidough resembles a {{wp|puppy}} — most closely resembling the {{wp|dachshund}} breed of dog because of its elongated body and short legs — made from dessert dough. The dessert may be based on the ''{{wp|Mollete de Antequera}}'', a typical Andalusian bread; or the ''{{wp|Ensaïmada}}'', a type of Spanish pastry shaped like a spiral. The two concepts together may be a pun on the phrase "{{wp|purebred}}" — a term used to recognise dogs of consistent genetic lineage — as it is pronounced like "pure bread".
+
+====Name origin====
+Fidough may be a combination of ''Fido'' (Spanish/Italian for "loyal", also a stereotypical name for a pet dog), ''{{wp|filo}}'', and ''dough''.
+
+Pupimocchi may be a combination of ''puppy'' and もっちり ''mocchiri'' (doughy, springy) or 餅 ''{{wp|mochi}}'' (Japanese rice cake).
+
+==In other languages==
+{{Other languages|type=Fairy|type2=Fairy
+|ja=パピモッチ ''Pupimocchi''|jameaning=From ''puppy'' and {{tt|もっちり ''mocchiri''|doughy, springy}} or 餅 ''{{wp|mochi}}''
+|fr=Pâtachiot|frmeaning=From ''{{wp|Choux pastry|{{tt|pâte à choux|choux pastry; a type of pastry dough}}}}'' and ''{{tt|chiot|puppy}}''
+|es=Fidough|esmeaning=Same as English name
+|de=Hefel|demeaning=From ''{{tt|Hefe|yeast}}'' and ''{{tt|Dackel|dachshund; a dog breed}}''
+|it=Fidough|itmeaning=Same as English name
+|ko=쫀도기 ''Jjondogi''|komeaning=From {{tt|쫀득쫀득 ''jjondeuk-jjondeuk''|glutinous}}, 쫀드기 ''{{wp|jjondeugi}}'', and ''doggy''
+|zh_cmn=狗仔包 ''Gǒuzǎibāo''|zh_cmnmeaning=From {{tt|狗仔 ''gǒuzǎi''|puppy}} and {{tt|包 ''bāo''|bun}}
+|zh_yue=狗仔包 ''Gáujáibāau''|zh_yuemeaning=From {{tt|狗仔 ''gáujái''|puppy}} and {{tt|包 ''bāau''|bun}}
+|hi=पपीडो ''Puppydough''|himeaning=From ''puppy'' and ''dough''
+|th=พาปิม็อตจิ ''Phapimotchi''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0925|prev=Maushold|nextnum=0927|next=Dachsbun}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Hefel]]
+[[es:Fidough]]
+[[fr:Pâtachiot]]
+[[it:Fidough]]
+[[ja:パピモッチ]]
+[[zh:狗仔包]]

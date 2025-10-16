@@ -1,0 +1,364 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Pawmi}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0920|prev=Lokix|nextnum=0922|next=Pawmo|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Pawmi
+|jname=パモ
+|tmname=Pamo
+|ndex=0921
+|type1=Electric
+|category=Mouse
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=5.5
+|weight-kg=2.5
+|abilityn=1
+|ability1=Static
+|ability2=Natural Cure
+|abilityd=Iron Fist
+|egggroupn=1
+|egggroup1=Field
+|egggroup2=
+|eggcycles=15
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=1
+|expyield=48
+|lv100exp=1000000
+|gendercode=127
+|color=Yellow
+|catchrate=190
+|body=08
+|pokefordex=pawmi
+|generation=9
+|friendship=50
+}}
+'''Pawmi''' ([[List of Japanese Pokémon names|Japanese]]: '''パモ''' ''Pamo'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Pawmo}} starting at [[level]] 18, which evolves into {{p|Pawmot}} when leveled up while outside of its [[Poké Ball]] after the player walks 1000 steps using the [[Let's Go!]] feature.<ref>https://twitter.com/Sibuna_Switch/status/1678027317891694593</ref><ref>https://twitter.com/Sibuna_Switch/status/1680044846403272704</ref>
+
+==Biology==
+[[File:4KomaPlaza403.png|thumb|left|150px|Pawmi's forepaws discharging electricity]]
+Pawmi is a small, quadrupedal, rodent-like Pokémon that has a body that is almost entirely orange, with cream colorations on its lower forelimbs, snout, and tail, and green on the insides of its ears. It has beady brown eyes and a tiny nose. Its forelimbs are considerably large, and it has a tuft of fur on top of its head. Pawmi can stand on its hind legs, but barely.
+
+Pawmi has yellow underdeveloped electric sacs in its cheeks, as well as yellow pad-like organs on its forepaws that can discharge electricity. If it feels threatened, it will rub its cheeks to generate electricity, which it then delivers to its opponents by touching them with its forepaws.<ref name=SVsite/> The organs on its forepaws turn teal-blue when discharging. Pawmi's thick fur provides insulation against the cold and allows it to store electricity.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/pawmi/ Pawmi — Pokémon Scarlet and Pokémon Violet | Official Website]</ref> As mentioned in [[Pokémon Sleep]], Pawmi will occasionally discharge electricity while sleeping, by rubbing its cheeks with its palms. It is theorized that it does this to practice generating electricity.
+{{left clear}}
+
+===Evolution===
+Pawmi evolves into {{p|Pawmo}}, which evolves into {{p|Pawmot}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|type1=Electric
+|no1=0921
+|name1=Pawmi
+|type1-1=Electric
+|evo1=
+|no2=0922
+|name2=Pawmo
+|type1-2=Electric
+|type2-2=Fighting
+|evo2=
+|no3=0923
+|name3=Pawmot
+|type1-3=Electric
+|type2-3=Fighting}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=22|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{electric color dark}}; background:#{{electric color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{electric color light}}; background:#{{electric color light}} | [[File:Pokédex Image Pawmi SV.png|x200px]]
+|-
+| Pawmi in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Two)|Area Two]], [[South Province (Area Three)|Area Three]], [[South Province (Area Five)|Area Five]], [[Poco Path]]<br>West Province: [[West Province (Area One)|Area One]]<br>[[Area Zero]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Pawmi|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Great 1)<br>[[Snowdrop Tundra]], [[Old Gold Power Plant]], [[Greengrass Isle]]<sup>Expert</sup> (from Basic 1)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region/Language|type=Electric}}
+{{eventAvail|{{gameabbrev9|SV}}|Pokémon Center Birthday Pawmi|All|Online|5|November 1, 2023 to January 31, 2025|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Pokémon Center Birthday Pawmi & Charcadet}}
+|}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|HP=45
+|Attack=50
+|Defense=20
+|SpAtk=40
+|SpDef=25
+|Speed=60
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Pawmi|Electric|Electric|9}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|3|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|6|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|8|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|12|Nuzzle|Electric|Physical|20|100|20||'''}}
+{{learnlist/level9|15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level9|19|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|23|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|27|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|31|Entrainment|Normal|Status|—|100|15}}
+{{learnlist/level9|35|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level9|38|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|40|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|44|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/levelf/9|Pawmi|Electric|Electric|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Pawmi|Electric|Electric|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tmf/9|Pawmi|Electric|Electric|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Pawmi|Electric|Electric|9}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth}}{{MSP/H|0052|Meowth|form=-Alola}}{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0053|Persian}}{{MSP/H|0053|Persian|form=-Alola}}{{MSP/H|0863|Perrserker}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0677|Espurr}}{{MSP/H|0678|Meowstic}}|Fake Out|Normal|Physical|40|100|10|grid=6}}
+{{learnlist/breed9|{{MSP/H|0391|Monferno}}{{MSP/H|0392|Infernape}}|Mach Punch|Fighting|Physical|40|100|30||''|grid=6}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026|Raichu|form=-Alola}}{{MSP/H|0417|Pachirisu}}|Sweet Kiss|Fairy|Status|—|75|10|grid=6}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10|grid=6}}
+{{learnlist/breedf/9|Pawmi|Electric|Electric|9}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/GO|col=6|type=Electric|ndex=0921
+|hatch=N/A
+|buddy=3
+|candy=Pawmi
+|evocandy=25
+|stamina=128
+|attack=95
+|defense=45
+|fast={{m|Spark}}, {{m|Charge Beam}}, {{m|Thunder Shock}}{{tt|*|From June 1, 2025 onward}}
+|special={{m|Thunderbolt}}, {{m|Discharge}}, {{m|Wild Charge}}
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0921
+|pokemon=Pawmi
+|sleeptype=Snoozing
+|type=Electric
+|dexentry=It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws. It sometimes discharges electricity by rubbing its cheeks with its palms while sleeping-perhaps it's practicing how to generate electricity.
+|sleepstyle1=Paw-Pad-Rubbing Sleep
+|sleepstyle2=Sturdy Sleep
+|sleepstyle3=Cheek-Stroking Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=5
+|specialty=Skills
+|evolution=Lv. 14
+|candyNum=40
+|berry=Grepa
+|ingredient1=Soothing Cacao
+|ingredient2=Moomoo Milk
+|ingredient3=Fancy Egg
+|carrylimit=9
+|skillname=Energy for Everyone S
+|skilldesc=Restores 5 Energy to each helper Pokémon on your team
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Electric
+|no1=0921
+|name1=Pawmi
+|type1-1=Electric
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 18}}
+|no2=0922
+|name2=Pawmo
+|type1-2=Electric
+|type2-2=Fighting
+|evo2={{bag/s|Rare Candy|SV}} + [[File:Footwear icon.png|40px]]<br>{{color2|000|Level|Level up}}<br>whilst outside of its {{color2|000|Poké Ball}} after walking<br>1000 steps using the {{color2|000|Let's Go!}} feature
+|no3=0923
+|name3=Pawmot
+|type1-3=Electric
+|type2-3=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=electric}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0921}}-->
+{{Spritebox/HOME|ndex=0921}}
+{{Spritebox/Footer|921|Pawmi}}
+
+==In animation==
+===Main series===
+[[File:RVT Pawmi.png|thumb|250px|Pawmi in {{aniseries|HZ}}]]
+====Major appearances====
+A Pawmi first appeared in ''[[HZ002|The Pendant That Starts It All (Part Two)]]'', onboard the [[Brave Olivine]], as part of the [[Rising Volt Tacklers]] crew.
+
+====Minor appearances====
+A {{pkmn2|wild}} Pawmi debuted in ''[[HZ001|The Pendant That Starts It All (Part One)]]''.
+
+A Pawmi appeared in ''[[HZ057|The Terapagos I Don't Know]]'', under the ownership of a {{tc|Student}}.
+
+===Pokémon: Paldean Winds===
+A wild Pawmi appeared in ''[[PPW01|Breathe Out]]''.
+
+Another wild Pawmi appeared in the opening scene of ''[[PPW04|Breathe Together]]''.
+
+===Biri-Biri===
+A Pawmi appeared in the music video for [[Biri-Biri]], under the ownership of [[Nemona]]. It evolved into a {{p|Pawmo}}.
+
+===POKÉTOON===
+A Pawmi appeared in [[PT09]], alongside its evolved forms.
+
+==In the manga==
+[[File:Nemona Pawmi Adventures.png|thumb|left|200px|Pawmi in [[Pokémon Adventures]]]]
+[[File:Nemona Terastallized Pawmi Adventures.png|thumb|200px|Tera Pawmi in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Pawmi debuted in ''[[PASV01|Speeding! Paldea's Prince of Speed!!]]'', under the ownership of {{adv|Nemona}}. 
+{{-}}
+
+==In the TCG==
+{{main|Pawmi (TCG)}}
+
+==Trivia==
+* Pawmi and its Evolution {{p|Pawmo}} share their {{pkmn|category}} with {{p|Rattata}}, {{p|Raticate}}, {{p|Pikachu}}, {{p|Raichu}}, {{p|Sandshrew}}, and {{p|Sandslash}}. They are all known as the Mouse Pokémon, though Rattata and Raticate were originally called the Rat Pokémon prior to [[Generation III]].
+** Pawmi and Pawmo are the only Pokémon with this category to not be introduced in [[Generation I]], and the only ones whose evolutionary line has no [[Alolan form]]s.
+* Pawmi and Pawmo are the first [[electric rodents]] since {{p|Pichu}} to be able to evolve.
+* Pawmi has the lowest base {{stat|Special Defense}} stat of all {{type|Electric}} Pokémon.
+* Pawmi is tied with {{p|Cleffa}} and {{p|Greavard}} for having the shortest Japanese name of all Pokémon, being spelled with only two kana.
+
+===Concept and development===
+Pawmi and its [[Evolution]]s were designed by [[Atsuko Nishida]],<ref>[https://www.instagram.com/coloatsu/p/DDCg3wKPJDR/ Instagram post by Atsuko Nishida (@coloatsu) on the Paldean Pokémon designed by her.] Posted on December 1, 2024.</ref> who was responsible for designing {{p|Pikachu}} and {{p|Raichu}}.
+
+===Origin===
+Pawmi appears to be based on rodents, specifically the {{wp|alpine marmot}}, which was reintroduced in 1948 to the {{wp|Pyrenees}} mountain range at the border of Spain and France, after its disappearance in the region following the end of the {{wp|Pleistocene}} epoch. Pawmi may also be based on the {{wp|chinchilla}} or the closely related {{wp|viscacha}} — much like Pawmi, the latter has long ears and a rotund build with a reddish-brown coat. Pawmi's ability of discharging electricity from its paws may be inspired by {{wp|Defibrillation|defibrillator}}s.
+
+====Name origin====
+Pawmi may be a combination of ''paw'', ''palm'', and ''mini'' or 鼠 ''nezumi'' (Japanese for mouse).
+
+Pamo may be a combination of パチパチ ''pachipachi'' (onomatopoeia for electric crackling), ''palm'', ''{{wp|marmot}}'', ''{{wp|dynamo}}'', and ''{{wp|mho}}'' (unit of electric conductance).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=パモ ''Pamo''|jameaning=From {{tt|パチパチ ''pachipachi''|onomatopoeia for crackling}}, ''palm'', ''marmot'', ''dynamo'', and ''{{tt|mho|unit of electric conductance}}''
+|fr=Pohm|frmeaning=From ''{{tt|paume|palm}}'' and ''{{wp|Ohm|{{tt|ohm|unit of electrical resistance}}}}''
+|es=Pawmi|esmeaning=Same as English name
+|de=Pamo|demeaning=Same as Japanese name
+|it=Pawmi|itmeaning=Same as English name
+|ko=빠모 ''Ppamo''|komeaning=Transcription of Japanese name
+|zh_cmn=布撥 / 布拨 ''Bùbō''|zh_cmnmeaning=From {{tt|布 ''bù''|cloth}} and {{tt|土撥鼠 / 土拨鼠 ''tǔbōshǔ''|marmot}}
+|zh_yue=布撥 ''Boubuht''|zh_yuemeaning=From {{tt|布 ''bou''|cloth}} and {{tt|土撥鼠 ''tóubuhtsyú''|marmot}}
+|hi=पंफ़ी ''Pumffy''|himeaning=From ''pump'' and ''puffy''
+|th=พาโม ''Phamo''|thmeaning=Transcription of Japanese name
+}}
+
+==See also==
+* [[Pawmot (UNITE)]]
+* [[Electric rodents]]
+
+==References==
+<references/>
+
+==External links==
+{{Electric rodents}}
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0920|prev=Lokix|nextnum=0922|next=Pawmo}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pamo]]
+[[es:Pawmi]]
+[[fr:Pohm]]
+[[it:Pawmi]]
+[[ja:パモ]]
+[[zh:布拨]]

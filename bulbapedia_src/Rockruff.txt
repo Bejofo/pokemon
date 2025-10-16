@@ -1,0 +1,488 @@
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/GO|species=Rockruff}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0743|prev=Ribombee|nextnum=0745|next=Lycanroc|round=none}}
+{{PokémonPrevNext/Disambig|species=Rockruff}}
+|}
+{{Pokémon Infobox
+|name=Rockruff
+|jname=イワンコ
+|tmname=Iwanko
+|ndex=0744
+|type1=Rock
+|category=Puppy
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=20.3
+|weight-kg=9.2
+|abilitylayout=1+1
+|ability1=Keen Eye
+|ability2=Vital Spirit
+|abilityd=Steadfast
+|abilityold=Own Tempo
+|abilityoldcaption=Own Tempo Rockruff
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=1
+|evat=1
+|expyield=56
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=190
+|body=08
+|pokefordex=rockruff
+|generation=7
+|friendship=70
+}}
+'''Rockruff''' ([[List of Japanese Pokémon names|Japanese]]: '''イワンコ''' ''Iwanko'') is a {{type|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolve]]s into {{p|Lycanroc}} starting at [[level]] 25. The {{fd|Lycanroc|form}} of Lycanroc that it evolves into depends on the {{DL|Time|Time-based Evolutions|time}}, as well as its [[Ability]], which corresponds to one of Rockruff's [[#Form data|two visually indistinct forms]].
+* Rockruff with the Abilities {{a|Keen Eye}}, {{a|Vital Spirit}}, or {{a|Steadfast}} evolve into:
+** '''Midday Form''' Lycanroc when leveled up during the day.
+** '''Midnight Form''' Lycanroc when leveled up at night.
+* Rockruff with the Ability {{a|Own Tempo}} evolve into '''Dusk Form''' Lycanroc when leveled up during the evening.
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+[[File:Rockruff SM concept art.jpg|thumb|250px|left|Concept art from {{g|Sun and Moon}}]]
+Rockruff is a quadrupedal, canine {{OBP|Pokémon|species}}. It is primarily light brown with a darker brown muzzle, paws, and ear tips. It has large blue eyes, {{wp|Canine terminology#Ears|button ears}}, a short muzzle with a triangular pink nose, and a short tuft of fur on each cheek. Around its neck is a ruff of grayish-white fur stubbed with dark brown pebbles. The dark brown markings on its paws extend to a thin point on each wrist and ankle. It has a grayish-white tail that curls tightly over its back and is covered in fluffy fur.
+
+Rockruff has an excellent sense of smell and will never forget an odor after smelling it once. There are tales of it reuniting with its Trainer after becoming lost by following the faintest traces of scent. It has lived with humans since ancient times. Rockruff is often recommended as a good Pokémon for beginner Trainers due to its friendly nature and ability to bond with Trainers easily. However, Rockruff is said to be a challenging Pokémon to raise, to the point where some Trainers abandon it due to being unable to handle it. This Pokémon is very sociable and will greet others by rubbing them with the rocks around its neck. As it ages, Rockruff becomes wilder and more independent. Once it is close to evolving, it will begin to howl when the sun goes down. It has been said to leave its Trainer's side and return once it has evolved. Despite becoming more vicious as it matures over time, Rockruff never forgets its master's kindness. Wild Rockruff travels in packs until it evolves. A persistent Pokémon, it will keep going until it outlasts foes that are even more powerful.<ref>[http://www.pokemon-sunmoon.com/en-us/pokemon/rockruff/ Pokémon Sun and Moon site | Rockruff]</ref> Rockruff intimidates opponents by using the rocks on its neck to hit the ground. As mentioned in ''[[SM015|Rocking Clawmark Hill!]]'', Rockruff trains itself by running around. It attacks foes the moment they flinch. It has been known to fight with {{p|Growlithe}} over territory.
+{{left clear}}
+
+===Evolution===
+Rockruff can evolve into Midday Form, Midnight Form, or Dusk Form {{p|Lycanroc}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch3
+|type1=Rock
+|no1=0744
+|name1=Rockruff
+|type1-1=Rock
+|evo1a=
+|no2a=0745
+|name2a=Lycanroc
+|form2a=Midday Form
+|type1-2a=Rock
+|evo1b=
+|no2b=0745
+|art2b=0745Lycanroc-Midnight
+|name2b=Lycanroc
+|form2b=Midnight Form
+|type1-2b=Rock
+|evo1c=
+|no2c=
+|name2c=Lycanroc
+|form2c=Dusk Form
+|art2c=0745Lycanroc-Dusk
+|type1-2c=Rock}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=103|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=126|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=It's considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer's side.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=157|label1=Isle of Armor|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=89|reg2=Kitakami|num2=70|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon travels in a pack with others until it grows up. When its mood turns sour, it starts striking the ground with the rocks on its neck.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{rock color dark}}; background:#{{rock color}}; font-size:80%; border-radius: 10px"
+|
+{| style="background: #{{rock color}}; {{roundy}}; border: #{{rock color}}; margin-left:auto; margin-right:auto;"
+|style="{{roundy|20px}} border:2px solid #{{rock color dark}}; background:#{{rock color light}}"| [[File:Pokédex Image Rockruff SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{rock color dark}}; background:#{{rock color light}}"| [[File:Pokédex Image Rockruff USUM.png|x200px]]
+|-
+| Rockruff in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Rockruff in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|}
+|-
+|
+{| style="background: #{{rock color}}; {{roundy}}; border: #{{rock color}}; margin-left:auto; margin-right:auto;"
+|style="border:2px solid #{{rock color light}}; background:#{{rock color light}}| [[File:Pokédex Image Rockruff SV.png|x200px]]
+|style="border:2px solid #{{rock color light}}; background:#{{rock color light}}| [[File:Pokédex Image Rockruff SV Kitakami.png|x200px]]
+|-
+| Rockruff in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Rockruff in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+|}
+
+===Game locations===
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ten Carat Hill]] <small>'''Standard Form'''</small><br>Unobtainable <small>('''Own Tempo Form''')</small>}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{rt|1|Alola}}, [[Ten Carat Hill]] <small>('''Standard Form''')</small><br>[[#In events|Events]] or [[breed]] event Rockruff <small>('''Own Tempo Form''')</small>}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Challenge Road]] <small>('''Standard Form''')</small><br>[[Fields of Honor]], [[Soothing Wetlands]], [[Challenge Road]], [[Loop Lagoon]] ([[Wanderer]]) <small>('''Standard Form''')</small><br>[[Fields of Honor/Dens|Fields of Honor]], [[Training Lowlands/Dens|Training Lowlands]], [[Potbottom Desert/Dens|Potbottom Desert]], [[Challenge Road/Dens|Challenge Road]] ([[Max Raid Battle]]) <small>('''Standard Form''')</small><br>[[Challenge Road/Dens|Challenge Road]] ([[Max Raid Battle]]) <small>('''Own Tempo Form''')</small>}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Four)|Area Four]] <small>('''Both Forms''')</small><br>East Province: [[East Province (Area Two)|Area Two]] <small>('''Both Forms''')</small><br>West Province: [[West Province (Area One)|Area One]] <small>('''Both Forms''')</small><br>West Province: [[West Province (Area One)|Area One]] ({{t|Psychic}} {{Tera}} [[Type]]) <small>('''Own Tempo Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Rockruff|1★}}) <small>('''Standard Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Reveler's Road]], [[Kitakami Hall]], [[Oni Mountain]], [[Oni's Maw]], [[Infernal Pass]], [[Crystal Pool]], [[Chilling Waterhead]], [[Wistful Fields]], [[Paradise Barrens]], [[Kitakami Wilds]] <small>('''Standard Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Buzzwole Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Barren Badlands]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#17th release|''Pokémon Safari'']] <small>(17th release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Rock}}
+{{eventAvail|{{gameabbrev7|USUM}}|Own Tempo Rockruff|Japanese|Japan|10|November 17, 2017 to January 10, 2018|link=List of Japanese region Nintendo Network event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Dusk_Rockruff}}
+{{eventAvail|{{gameabbrev7|USUM}}|Own Tempo Rockruff|America|English|10|November 17, 2017 to January 10, 2018|link=List of American region Nintendo Network event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Dusk_Rockruff}}
+{{eventAvail|{{gameabbrev7|USUM}}|Own Tempo Rockruff|Korea|Korean|10|November 17, 2017 to January 10, 2018|link=List of Korean region Nintendo Network event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Dusk_Rockruff}}
+|}
+
+===Held items===
+{{HeldItems|type=Rock
+|event1=Focus Band|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Rock
+|HP=45
+|Attack=65
+|Defense=40
+|SpAtk=30
+|SpDef=40
+|Speed=60
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=200
+|Grass=200
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Rockruff|Rock|Rock|7}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|4|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|8|Double Team|Normal|Status|—|—|15}}
+{{learnlist/level9|12|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level9|16|Howl|Normal|Status|—|—|40}}
+{{learnlist/level9|20|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|24|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/level9|28|Roar|Normal|Status|—|—|20}}
+{{learnlist/level9|32|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level9|36|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level9|40|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level9|44|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level9|48|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/levelf/9|Rockruff|Rock|Rock|7}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Rockruff|Rock|Rock|7}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM008|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM063|Psychic Fangs|Psychic|Physical|85|100|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tmf/9|Rockruff|Rock|Rock|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Rockruff|Rock|Rock|7}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}|Endeavor|Normal|Physical|—|100|5|grid=8}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0231|Phanpy}}{{MSP/H|0417|Pachirisu}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Last Resort|Normal|Physical|140|100|5|grid=8}}
+{{learnlist/breed9|{{MSP/H|0050|Diglett}}{{MSP/H|0050-Alola|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0289|Slaking}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0503-Hisui|Samurott}}{{MSP/H|0745|Lycanroc}}{{MSP/H|0745-Dusk|Lycanroc}}{{MSP/H|0775|Komala}}{{MSP/H|0816|Sobble}}{{MSP/H|0817|Drizzile}}{{MSP/H|0818|Inteleon}}|Sucker Punch|Dark|Physical|70|100|5|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0052-Galar|Meowth}}{{MSP/H|0863|Perrserker}}{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0128|Tauros}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128-Paldea Blaze|Tauros}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0522|Blitzle}}{{MSP/H|0523|Zebstrika}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0766|Passimian}}{{MSP/H|0775|Komala}}{{MSP/H|0877|Morpeko}}|Thrash|Normal|Physical|120|100|10|grid=8}}
+{{learnlist/breedf/9|Rockruff|Rock|Rock|7}}
+
+====Special moves====
+{{learnlist/eventh/9|Rockruff|Rock|Rock|7}}
+{{learnlist/event9|[[West Province (Area One)|Wild Tera Pokémon]]|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/eventf/9|Rockruff|Rock|Rock|7}}
+
+===Side game data===
+{{Spindata/Head|type=Rock}}
+{{Spindata/Shuffle|col=6|type=Rock|ndex=744|num=729
+|min=40
+|max=115
+|raisemaxlevel=15
+|skill=Rockify
+|skilldesc=Sometimes turns two non-Support Pokémon into rocks.
+|swapper=Unity Power
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Rock|ndex=744
+|walk=1.55
+|hp=46
+|attack=67
+|defense=45
+|speed=60
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Rock|ndex=744|pdex=226
+|dex=Rockruff is really good at making friends, which we saw when it was playing happily with {{p|Torchic|some}} {{p|Shinx|other}} {{p|Tepig|Pokémon}}. But it’s also brave enough to protect its friends if something were to threaten them.}}
+|-
+{{Spindata/GO|col=6|type=Rock|ndex=744
+|hatch=10 km
+|buddy=5
+|candy=Rockruff
+|evolution=<br>{{candy|Rockruff}}50 + [[File:Sunny icon GO.png|20px|Day mode|link=Time]] → {{MSP/GO|0745Md|Lycanroc}}<br>{{candy|Rockruff}}50 + [[File:Clear icon GO.png|20px|Night mode|link=Time]] → {{MSP/GO|0745Mn|Lycanroc}}<br>{{candy|Rockruff}}50 + [[File:Dusk icon GO.png|20px|Dusk mode|link=Time]] → {{MSP/GO|0745D|Lycanroc}}{{tt|*|Dusk Rockruff can also evolve during the Adventure Effects of Sunsteel Strike or Moongeist Beam}}
+|stamina=128
+|attack=117
+|defense=78
+|fast={{m|Tackle}}, {{m|Rock Throw}}
+|special={{m|Stone Edge}}, {{m|Rock Tomb}}, {{m|Crunch}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|}
+
+===Form data===
+While Rockruff does not have visually distinct forms, Rockruff with the {{Abilities}} {{a|Keen Eye}}, {{a|Vital Spirit}}, and {{a|Steadfast}} are internally considered to be a distinct form from Rockruff with the Ability {{a|Own Tempo}}.
+
+Rockruff with {{a|Own Tempo}} cannot be traded on [[Wonder Trade]], likely due to {{g|Sun and Moon}} not being programmed with Rockruff's alternate form. Due to being a separate form, Rockruff with Own Tempo behave according to {{DL|Breeding|Inheriting forms|form inheritance rules}} when bred, rather than Ability inheritance rules. Rockruff with Own Tempo and Dusk Form Lycanroc can {{pkmn|breeding|breed}} to produce more Rockruff with Own Tempo. After initially being {{pkmn2|event}}-exclusive, Own Tempo Rockruff and Dusk Form Lycanroc were later made accessible within normal gameplay starting in [[Generation VIII]].
+
+In {{g|Scarlet and Violet}}, Rockruff with Own Tempo will not have its Pokédex number displayed when viewed from the {{pkmn|Storage System|Box}}es, similar to species not found in the Paldean Pokédex. This quirk doesn't occur for all visually indistinct forms or forms without separate Pokédex entries. For example, {{p|Scatterbug}} and {{p|Spewpa}} each have 20 separate forms internally (one for each {{p|Vivillon}} pattern), but will display their Pokédex number regardless if they would evolve into a form other than Fancy Pattern Vivillon, which is the only form native to [[Paldea]].
+
+===Evolution data===
+Rockruff [[Evolution|evolves]] into {{p|Lycanroc}} starting at [[level]] 25. The [[Lycanroc (Pokémon)#Form data|form]] Rockruff evolves into depends on the {{DL|Time|Time-based Evolutions|time}}, as well as its [[Ability]], which corresponds to one of Rockruff's [[#Form data|two visually indistinct forms]].
+
+Rockruff with the Abilities {{a|Keen Eye}}, {{a|Vital Spirit}}, or {{a|Steadfast}} evolve into Midday Form Lycanroc when leveled up during the day, and Midnight Form Lycanroc when leveled up at night. In [[Generation VII]], Rockruff only evolves into Midday Form Lycanroc in {{pkmn|Sun and Moon|Pokémon Sun}} and {{pkmn|Ultra Sun and Ultra Moon|Ultra Sun}}, and Midnight Form Lycanroc in {{pkmn|Sun and Moon|Pokémon Moon}} and {{pkmn|Ultra Sun and Ultra Moon|Ultra Moon}}.
+
+Rockruff with the Ability {{a|Own Tempo}} is a separate form that can only evolve into Dusk Form Lycanroc. It evolves into this form when leveled up during the evening: from 5:00 to 5:59 PM in in-game time in Ultra Sun and Ultra Moon (equating to 5:00 to 5:59 PM in real-time in Ultra Sun and 5:00 to 5:59 AM in real-time in Ultra Moon), from 7:00 to 7:59 PM in real-time in {{pkmn|Sword and Shield}}, and for a period lasting 3 minutes out of the 72-minute day/night cycle in {{pkmn|Scarlet and Violet}}.
+
+Additionally, Pokémon Ultra Sun and Ultra Moon run a third check due to Own Tempo Rockruff being event-exclusive: if the byte 0x1D doesn't match to 0B (Fateful Encounter, Own Tempo "form"), then it will act as a regular Rockruff, and it will not evolve into Dusk Form.
+
+{{Evobox/1branch3
+|type1=Rock
+|no1=0744
+|name1=Rockruff
+|type1-1=Rock
+|evo1a={{Bag/s|Rare Candy|SV}} + [[File:Day Icon SV.png|40px|link=Time]]<br>Level 25<br><small>during the {{color2|000|time|day}}
+|no2a=0745
+|name2a=Lycanroc
+|form2a=Midday Form
+|type1-2a=Rock
+|evo1b={{Bag/s|Rare Candy|SV}} + [[File:Night Icon SV.png|40px|link=Time]]<br>Level 25<br><small>at {{color2|000|time|night}}
+|no2b=0745
+|art2b=0745Lycanroc-Midnight
+|name2b=Lycanroc
+|form2b=Midnight Form
+|type1-2b=Rock
+|evo1c={{Bag/s|Rare Candy|SV}} + [[File:Dusk Icon SV.png|40px]]<br>{{color2|000|Level|Level 25}}<br><small>during the {{color2|000|time|evening}}<br>if its {{color2|000|Ability}} is {{acolor|Own Tempo|000}}</small>
+|name2c=Lycanroc
+|form2c=Dusk Form
+|art2c=0745Lycanroc-Dusk
+|type1-2c=Rock}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=744|crop=60}}
+{{Spritebox/8|ndex=744}}
+<!--{{Spritebox/9|ndex=0744}}-->
+{{Spritebox/HOME|ndex=0744}}
+{{Spritebox/Footer|744|Rockruff}}
+
+==In animation==
+===Main series===
+[[File:Murdock Rockruff.png|thumb|250px|Rockruff in {{aniseries|HZ}}]]
+====Major appearances====
+=====[[Ash's Rockruff]]=====
+Rockruff debuted in ''[[SM002|The Guardian's Challenge!]]'', under the care of {{an|Professor Kukui}}. In ''[[SM015|Rocking Clawmark Hill!]]'', {{Ash}} officially {{pkmn2|caught}} Rockruff. It evolved into a {{DL|List of Pokémon with form differences|Lycanroc|Dusk Form}} Lycanroc in ''[[SM037|Rising from the Ruins!]]''.
+
+=====[[Murdock's Rockruff]]=====
+[[Murdock]] owns a Rockruff, which first appeared in ''[[HZ002|The Pendant That Starts It All (Part Two)]]''. Rockruff was revealed to have evolved into a {{DL|List of Pokémon with form differences|Lycanroc|Midday Form}} Lycanroc in [[HZ098]].
+
+====Minor appearances====
+A {{pkmn|Trainer}}'s Rockruff appeared in ''[[SM016|They Might Not Be Giants!]]''.
+
+A Trainer's Rockruff appeared in ''[[SM017|Crystal-Clear Sleuthing!]]''.
+
+Two Trainers' Rockruff appeared in ''[[SM081|A Young Royal Flame Ignites!]]''.
+
+Two Trainers' Rockruff appeared in ''[[SM086|I Choose Paradise!]]'', where they were among the Pokémon seen at the [[Pokémon Paradise Resort]].
+
+A Trainer's Rockruff appeared in ''[[SM092|Turning the Other Mask!]]''.
+
+A Trainer's Rockruff appeared in a flashback in ''[[SM100|Battling the Beast Within!]]'' as a resident of what is now the [[Ultra Ruin]].
+
+A Trainer's Rockruff appeared in ''[[M23|Secrets of the Jungle]]''.
+
+A Trainer's Rockruff appeared in ''[[HZ077|Ludlow's Homecoming!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Alola}}
+{{Animedexbody|SM015|None|po={{p|Rockruff}} and {{p|Lycanroc}}|Rotom Pokédex|Rockruff, the Puppy Pokémon. A {{t|Rock}} type. Rockruff have lived with humans since ancient times. They train themselves by running around. Rockruff evolves into {{p|Lycanroc}}, which has two different forms based on when it evolves. It evolves into Midday Form Lycanroc during the day and Midnight Form Lycanroc during the night. Furthermore, when it gets close to evolving, Rockruff's temperament becomes more aggressive, and it tends to act more independent. It's common for it to disappear and then return after it has evolved.}}
+{{Animedexfooter/Pokémon|Alola}}
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ003|Rockruff|Liko's Rotom Phone|Rockruff, the Puppy Pokémon. A {{t|Rock}} type. It has an extremely powerful sense of smell.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon Masters Animated Trailer===
+[[File:Paulo Rockruff Masters Trailer.png|thumb|250px|Rockruff with Paulo in the [[Pokémon Masters Animated Trailer]]]]
+A Rockruff briefly appeared in the [[Pokémon Masters Animated Trailer]], under the ownership of [[Paulo]].
+{{-}}
+
+==In the manga==
+[[File:Kukui Rockruff Adventures.png|thumb|150px|right|Rockruff in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+{{main|Professor Kukui's Rockruff}}
+Rockruff debuted in ''[[PASM04|The Decision and the Tournament of Six]]'' with its {{pkmn|Trainer}} in [[Iki Town]].
+
+A Rockruff first appeared in ''[[PASM04|The Decision and the Tournament of Six]]'', under the ownership of [[Professor Kukui]]. It was used to battle {{adv|Sun}} at an Iki Town festival tournament.
+
+A Rockruff appeared in a video in ''[[PASM11|Homecoming and the Brilliant Professional Golfer]]''.
+
+A Rockruff appeared in ''[[PASM13|Unleashing the Incredible Z-Move]]'', where it starred in a commercial for the [[Aether Foundation]].
+
+A Trainer's Rockruff appeared in ''[[PASV02|Discover! The Quaking Earth Titan!!]]'' and [[PASV07]].
+
+A Rockruff appeared in ''[[PASV03|Battle! Team Star, the Delinquents!!]]''.
+
+{{adv|Nemona}}'s Rockruff appeared in [[PASV15]].
+
+===Pokémon Horizon===
+{{hor|Akira}}, the protagonist of [[Pokémon Horizon]], has a Rockruff. It has the unique ability to evolve into Lycanroc and then [[Devolution|devolve]] into Rockruff again, thanks to the strange red stone on its neck. It also has the ability to change in between its Midday and Midnight Forms while being evolved.
+{{-}}
+
+==In the TCG==
+{{main|Rockruff (TCG)}}
+==Trivia==
+* Rockruff shares its {{pkmn|category}} with {{p|Growlithe}}, {{p|Lillipup}}, {{p|Yamper}}, and {{p|Fidough}}. They are all known as the Puppy Pokémon.
+* Rockruff is tied with {{p|Cranidos}} for the lowest base {{stat|Defense}} stat of all {{type|Rock}} Pokémon.
+* Rockruff is tied with {{p|Roggenrola}} and {{p|Nacli}} for the lowest base stat total of all Rock-type Pokémon.
+
+===Origin===
+Rockruff appears to be based on the {{wp|spitz}} breed of dogs. It may also be based on the {{wp|Japanese wolf}}, which is often associated with rocks and mountains. The fur with rocks around its neck may be based on a {{wp|wolf collar}}.
+
+====Name origin====
+Rockruff may be a combination of ''rock'', ''ruff'' (onomatopoetic word for barking, or the fur around its neck), and ''rough''.
+
+Iwanko may be a combination of 岩 ''iwa'' (rock), ワン ''wan'' (onomatopoetic word for barking), わんこ ''wanko'' (doggy), and 子 ''ko'' (young animal).
+
+==In other languages==
+{{Other languages|type=Rock|type2=Rock
+|ja=イワンコ ''Iwanko''|jameaning=From {{tt|岩 ''iwa''|rock}}, {{tt|ワン ''wan''|woof}}, {{tt|わんこ ''wanko''|doggy}}, and {{tt|子 ''ko''|young animal}}
+|fr=Rocabot|frmeaning=From {{tt|''roc''|rock}} and {{tt|''cabot''|pooch}}
+|es=Rockruff|esmeaning=Same as English name
+|de=Wuffels|demeaning=From {{tt|''wuff''|woof}} and {{tt|''Fels''|rock}}
+|it=Rockruff|itmeaning=Same as English name
+|ko=암멍이 ''Ammeong-i''|komeaning=From {{tt|암 (岩) ''am''|rock}}, {{tt|멍멍 ''meong-meong''|onomatopoeia for the sound of a dog barking}}, and {{tt|이 ''i''|diminutive marker}}
+|zh_cmn=岩狗狗 ''Yángǒugǒu''|zh_cmnmeaning=From {{tt|岩 ''yán''|rock}} and {{tt|狗狗 ''gǒugǒu''|doggy}}
+|zh_yue=岩狗狗 ''Ngàahmgáugáu''|zh_yuemeaning=From {{tt|岩 ''ngàahm''|rock}} and {{tt|狗狗 ''gáugáu''|doggy}}
+|hi=पपरॉक ''Puprock''|himeaning=From ''pup'' or ''puppy'' and ''rock''
+|ru=Рокрафф ''Rokraff''|rumeaning=Transcription of English name
+|th=อิวังโค ''Iwangkho''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Ash's Rockruff]]
+* [[Professor Kukui's Rockruff]]
+* [[Olivia's Rockruff]]
+* [[Murdock's Rockruff]]
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0743|prev=Ribombee|nextnum=0745|next=Lycanroc}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve based on game]]
+[[Category:Pokémon that evolve based on time]]
+[[Category:Pokémon that evolve only at night]]
+[[Category:Pokémon that evolve only during the day]]
+
+[[de:Wuffels]]
+[[es:Rockruff]]
+[[fr:Rocabot]]
+[[it:Rockruff]]
+[[ja:イワンコ]]
+[[zh:岩狗狗]]

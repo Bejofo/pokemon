@@ -1,0 +1,903 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Grass}}
+{{PokémonPrevNext/GO|species=Sawsbuck}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0585|prev=Deerling|nextnum=0587|next=Emolga|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Sawsbuck
+|jname=メブキジカ
+|tmname=Mebukijika
+|forme=4
+|form1=Spring Form
+|form2=Summer Form
+|form3=Autumn Form
+|form4=Winter Form
+|image=0586Sawsbuck-Spring.png
+|image2=0586Sawsbuck-Summer.png
+|image3=0586Sawsbuck-Autumn.png
+|image4=0586Sawsbuck-Winter.png
+|category=Season
+|typebox=1
+|type1=Normal
+|type2=Grass
+|abilityn=d
+|ability1=Chlorophyll
+|ability2=Sap Sipper
+|abilityd=Serene Grace
+|ndex=0586
+|height-ftin=6'03"
+|height-m=1.9
+|weight-lbs=203.9
+|weight-kg=92.5
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=166
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=75
+|evtotal=2
+|evat=2
+|body=08
+|pokefordex=sawsbuck
+|generation=5
+|friendship=70
+}}
+'''Sawsbuck''' ([[List of Japanese Pokémon names|Japanese]]: '''メブキジカ''' ''Mebukijika'') is a dual-type {{2t|Normal|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Deerling}} starting at [[level]] 34.
+
+Sawsbuck has four [[#Form data|forms]]: '''Spring Form''', '''Summer Form''', '''Autumn Form''', and '''Winter Form'''. Sawsbuck changes forms depending on the location the game was loaded in. In [[Paldea]], Spring Form corresponds to {{DL|Paldea|South Province}}, Summer Form to {{DL|Paldea|East Province}}, Autumn Form to {{DL|Paldea|West Province}}, and Winter Form to {{DL|Paldea|North Province}}.
+
+When it debuted, Sawsbuck's form changed based on the {{season}}. From [[Generation VI]] to {{gen|VIII}}, its form could not be changed at all, and only the Spring Form could be found in the wild, with the other forms being obtainable exclusively via [[transfer]] from a Generation V game or from {{g|GO}}.
+
+(Refer to [[#Form data|Game data&rarr;Form data]] for more details.)
+
+==Biology==
+Sawsbuck is a brown and cream, deer-like {{OBP|Pokémon|species}} with rhomboid ears and darker ear insides. Its eyes have light-orange markings that curve down to the sides of its face. It has a dark-brown nose, and it sports cream fur on its chin and sides of its face. Light-orange stripes rim its underbelly, and its back is decorated with spots.
+
+Its appearance changes depending on the season. During the spring, a tuft of cream fur appears on its chest, its antlers are adorned with pink flowers, and the spots on its back are pink. During the summer, its tail points up, it grows tufts of fur on the back of its head, its antlers sport green leaves, and its spots are green. During the fall, it sports a cream tuft of fur on its chest, the leaves on its antlers are red and brown, and its spots are orange. During the winter, the cream fur turns white, tufts of white fur appear on its chest and lower limbs, its antlers are coated in white, and its spots are white. 
+
+Sawsbuck lives in herds led by the Sawsbuck with the most splendid antlers. In [[Generation V]], {{m|Horn Leech}} was its [[signature move]].
+
+===Forms===
+Sawsbuck has four forms: Spring Form, Summer Form, Autumn Form, and Winter Form.
+
+Sawsbuck can live almost anywhere as they adapt to the season but prefer to live away from humans. It is herbivorous. Sawsbuck have been referred to as the ''harbingers of spring''. There are many enthusiasts out there who love the different forms of Sawsbuck. However, the Winter Form is the least popular of them all. 
+
+The flowers on Spring Form's antlers grow slower due to absorbing nutrients. The paler the Spring Form's flower is, the more beautiful Sawsbuck apparently becomes. The thicker and larger the broach leaves are, the more majestic Summer Form Sawsbuck becomes. Summer Form's leaves can be used to make black tea, which has a different taste depending on the region. In [[Paldea]], the tea has a more aromatic taste. The darker the Autumn Form's red foliage is, the more stylish it is considered. Autumn Form Sawsbuck have short tempers, and the males notably fight each other incessantly. Winter Form Sawsbuck are calmer and easier to tame during the winter. Hence, it is considered the perfect time to obtain Winter Form Sawsbuck as a partner.
+
+<div class="scrollbox">
+{| style="margin:auto; text-align:center; font-size:80%; background: #{{normal color}}; {{roundy|10px}} border: 3px solid #{{grass color dark}}"
+|-
+| {{color|000|Spring Form}}
+| {{color|000|Summer Form}}
+| {{color|000|Autumn Form}}
+| {{color|000|Winter Form}}
+|-
+| style="{{roundy|96px}} border: 2px solid #{{grass color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:0586Sawsbuck-Spring.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{grass color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:0586Sawsbuck-Summer.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{grass color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:0586Sawsbuck-Autumn.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{grass color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:0586Sawsbuck-Winter.png|100px]]
+|}
+</div>
+
+===Evolution===
+Sawsbuck evolves from {{p|Deerling}}.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Spring Form'''
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Spring
+|form1=Spring Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1=
+|no2=0586Sawsbuck-Spring
+|name2=Sawsbuck
+|form2=Spring Form
+|type1-2=Normal
+|type2-2=Grass}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Summer Form'''
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Summer
+|form1=Summer Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1=
+|no2=0586Sawsbuck-Summer
+|name2=Sawsbuck
+|form2=Summer Form
+|type1-2=Normal
+|type2-2=Grass}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Autumn Form'''
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Autumn
+|form1=Autumn Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1=
+|no2=0586Sawsbuck-Autumn
+|name2=Sawsbuck
+|form2=Autumn Form
+|type1-2=Normal
+|type2-2=Grass}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Winter Form'''
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Winter
+|form1=Winter Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1=
+|no2=0586Sawsbuck-Winter
+|name2=Sawsbuck
+|form2=Winter Form
+|type1-2=Normal
+|type2-2=Grass}}
+</div>
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Grass}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=092|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=160|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They migrate according to the seasons. People can tell the season by looking at Sawsbuck's horns.}}
+{{Dex/Entry1|v=White|entry=The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=They migrate according to the seasons. People can tell the season by looking at Sawsbuck's horns.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=They migrate according to the seasons. People can tell the season by looking at Sawsbuck's horns.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=191|reg2=Kitakami|reg3=Blueberry|num3=39}}
+{{Dex/Form|Spring Form}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=It seems that a Sawsbuck with many flowers on its antlers will grow at a slightly slower pace because the flowers absorb the Pokémon’s nutrients.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=There are many Sawsbuck enthusiasts. The paler the pink flowers that bloom on its antlers, the more beautiful the Sawsbuck is considered to be.}}
+{{Dex/Form|Summer Form}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=There are many Sawsbuck enthusiasts. The thicker and larger the branches and leaves on its antlers, the more majestic the Sawsbuck is thought to be.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon's leaves can be made into a black tea, the taste of which varies depending on the region of origin. Paldea's is especially aromatic.}}
+{{Dex/Form|Autumn Form}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=There are many Sawsbuck enthusiasts. The darker the red of the foliage that hangs from its antlers, the more stylish the Sawsbuck is thought to be.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Sawsbuck in their Autumn Form are known for having very short tempers. The males fight each other incessantly.}}
+{{Dex/Form|Winter Form}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=It’s said that Sawsbuck are calm and easy to tame during the season when they take on this form, so it’s the perfect time to make one your partner.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Though there are many enthusiasts for Sawsbuck as a species, this seasonal form in particular is not very popular.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Sawsbuck SV.png|x200px]]
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Sawsbuck SV Blueberry.png|x200px]]
+|-
+| Spring Form Sawsbuck in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Autumn Form Sawsbuck in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Dragonspiral Tower]] ({{DL|Tall grass|dark grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Dragonspiral Tower]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Grass-type Safari|Grass]]) <small>('''Spring Form''')</small><br>[[Pokémon Bank]] <small>('''Summer/Autumn/Winter Forms''')</small>}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Deerling}} <small>('''Spring Form''')</small><br>[[Pokémon Bank]] <small>('''Summer/Autumn/Winter Forms''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Six)|Area Six]] <small>('''Spring Form''')</small><br>West Province: [[West Province (Area Three)|Area Three]] <small>('''Autumn Form''')</small><br>North Province: [[Socarrat Trail]] <small>('''Autumn Form''')</small><br>North Province: [[North Province (Area One)|Area One]], [[Dalizapa Passage]], [[Glaseado Mountain]] <small>('''Winter Form''')</small><br>[[Evolution|Evolve]] {{p|Deerling}} <small>('''Summer Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Sawsbuck|4★}}) <small>('''Spring Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]] <small>('''Spring Form''')</small><br>[[Coastal Biome]], [[Torchlit Labyrinth]] <small>('''Summer Form''')</small><br>[[Canyon Biome]], [[Chargestone Cavern]] <small>('''Autumn Form''')</small><br>[[Polar Biome]] <small>('''Winter Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Echo Valley]] (post ending), [[Challenger's Ground]] (post ending) <small>('''Spring Form''')</small><br>Forest: [[Misty Edgewater]] <small>(post-game; '''Summer Form''')</small><br>Autumnwood: [[Firebreathing Mountain]] <small>('''Autumn Form''')</small><br>Glacier: [[Frozen Tundra]] <small>('''Winter Form''')</small>}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arcane Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Verdant Plaza#Four Seasons in the Forest|Verdant Plaza: Four Seasons in the Forest]] <small>('''All Forms''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 3|Island of Haste: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Trailhead Field|White Ruins: Trailhead Field]] <small>(Center Boss, Back; '''All Forms''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Buzzwole Sea]]<sup>Final</sup> <small>('''Spring Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Elsewhere Forest]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Zaffiro Coast|Zaffiro Coast: Stage 627]] <small>('''Autumn Form''')</small><br>[[Marron Trail|Marron Trail: Stage 674]] <small>('''Winter Form''')</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#Eighth release|''Pokémon Safari'']] <small>(Eighth release; '''Spring Form''')</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#22nd release|''Pokémon Safari'']] <small>(22nd release; '''Summer Form''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Seasonal [[sync pair scout]]: {{sync|Whitney|Sawsbuck|Holiday 2022}} <small>('''Winter Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{Base stats
+|type=Normal
+|type2=Grass
+|HP=80
+|Attack=100
+|Defense=70
+|SpAtk=60
+|SpDef=70
+|Speed=95}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Grass
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=0
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+|sapsipper=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Sawsbuck|Normal|Grass|5}}
+{{learnlist/level9|1|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Horn Leech|Grass|Physical|75|100|10||'''}}
+{{learnlist/level9|10|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level9|13|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|16|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|20|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level9|24|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/level9|28|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|36|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|44|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/level9|52|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Sawsbuck|Normal|Grass|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Sawsbuck|Normal|Grass|5}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM053|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM206|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Sawsbuck|Normal|Grass|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Sawsbuck|Normal|Grass|5}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026-Alola|Raichu}}{{MSP/H|0027|Sandshrew}}{{MSP/H|0058|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059-Hisui|Arcanine}}{{MSP/H|0135|Jolteon}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0203|Girafarig}}{{MSP/H|0981|Farigiraf}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215-Hisui|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}{{MSP/H|0522|Blitzle}}{{MSP/H|0523|Zebstrika}}{{MSP/H|0570|Zorua}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571-Hisui|Zoroark}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0877|Morpeko}}{{MSP/H|0921|Pawmi}}{{MSP/H|0922|Pawmo}}{{MSP/H|0923|Pawmot}}|Agility|Psychic|Status|—|—|30}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0203|Girafarig}}{{MSP/H|0981|Farigiraf}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/breed9|{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}{{MSP/H|0570|Zorua}}{{MSP/H|0571|Zoroark}}|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128-Paldea Blaze|Tauros}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0273|Seedot}}{{MSP/H|0287|Slakoth}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}{{MSP/H|0875|Eiscue}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}{{MSP/H|0971|Greavard}}{{MSP/H|0972|Houndstone}}|Headbutt|Normal|Physical|70|100|15||'''}}
+{{learnlist/breed9|{{bag/s|TM Normal|SV|TM070}}{{tt|*|No Pokémon in the Field Group can learn Sleep Talk via level-up. However, the move is available via TM070 and can be passed down from every Pokémon in the Egg Group, or copied via Mirror Herb.}}|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0470|Leafeon}}{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/breedf/9|Sawsbuck|Normal|Grass|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Sawsbuck|Normal|Grass|5}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Sawsbuck|Normal|Grass|5}}
+
+===Side game data===
+====Spring Form====
+{{Spindata/Head|type=Normal|type2=Grass}}
+{{Spindata/PSMD|col=6|type=Normal|ndex=586
+|coset=3
+|conto={{p|Deerling}}, {{p|Amaura}}
+|recruitment=Find {{p|Amaura}} together
+|P1=My large horns show that I'm the leader of the herd. I try to be a good leader.
+|P2=Awp... This is sapping me...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=586
+|walk=1.11
+|hp=55
+|attack=78
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=586
+|pad=He is serious and grounded. He visited the [[Arcane Area]], because his friends encouraged him to have a trip to relax. Now he likes it and lives there.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=586|bttype=Grass
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=586|stype=Grass|num=502
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Block Smash
+|skilldesc=Clears one unbreakable-block disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=586
+|hatch=N/A
+|buddy=3<!--
+|candy=Deerling-->
+|evolution=N/A
+|stamina=190
+|attack=198
+|defense=146
+|fast={{m|Feint Attack}}, {{m|Take Down}}
+|special={{m|Megahorn}}, {{m|Solar Beam}}, {{m|Wild Charge}}, {{m|Hyper Beam}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=586|pdex=066
+|dex=This Pokémon’s appearance changes with the passing of the {{season}}s. Normally, you could never see all four forms of Sawsbuck at the same time, but [[Elsewhere Forest]] seems to be the exception!}}
+|}
+
+====Summer Form====
+{{Spindata/Head|type=Normal|type2=Grass}}
+{{Spindata/RumbleBlast|type=Normal
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=586S
+|walk=1.11
+|hp=55
+|attack=78
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|type=Normal|ndex=586S|stype=Grass|num=502
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Barrier Shot
+|skilldesc=Removes two barrier-type disruptions and increases damage.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=586S
+|hatch=N/A
+|buddy=3<!--
+|candy=Deerling-->
+|evolution=N/A
+|stamina=190
+|attack=198
+|defense=146
+|fast={{m|Feint Attack}}, {{m|Take Down}}
+|special={{m|Megahorn}}, {{m|Solar Beam}}, {{m|Wild Charge}}, {{m|Hyper Beam}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=586S|pdex=066
+|dex=This Pokémon’s appearance changes with the passing of the {{season}}s. Normally, you could never see all four forms of Sawsbuck at the same time, but [[Elsewhere Forest]] seems to be the exception!}}
+|}
+
+====Autumn Form====
+{{Spindata/Head|type=Normal|type2=Grass}}
+{{Spindata/RumbleBlast|type=Normal
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=586A
+|walk=1.11
+|hp=55
+|attack=78
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|type=Normal|ndex=586A|stype=Grass|num=502
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Nap Time
+|skilldesc=Leaves the foe asleep.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=586A
+|hatch=N/A
+|buddy=3<!--
+|candy=Deerling-->
+|evolution=N/A
+|stamina=190
+|attack=198
+|defense=146
+|fast={{m|Feint Attack}}, {{m|Take Down}}
+|special={{m|Megahorn}}, {{m|Solar Beam}}, {{m|Wild Charge}}, {{m|Hyper Beam}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=586A|pdex=066
+|dex=This Pokémon’s appearance changes with the passing of the {{season}}s. Normally, you could never see all four forms of Sawsbuck at the same time, but [[Elsewhere Forest]] seems to be the exception!}}
+|}
+
+====Winter Form====
+{{Spindata/Head|type=Normal|type2=Grass}}
+{{Spindata/RumbleBlast|type=Normal
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=586W
+|walk=1.11
+|hp=55
+|attack=78
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|type=Normal|ndex=586W|stype=Grass|num=502
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Crowd Control+
+|skilldesc=Deals even more damage when there are more Sawsbuck in the puzzle area.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=586W
+|hatch=N/A
+|buddy=3<!--
+|candy=Deerling-->
+|evolution=N/A
+|stamina=190
+|attack=198
+|defense=146
+|fast={{m|Feint Attack}}, {{m|Take Down}}
+|special={{m|Megahorn}}, {{m|Solar Beam}}, {{m|Wild Charge}}, {{m|Hyper Beam}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=586W|pdex=066
+|dex=This Pokémon’s appearance changes with the passing of the {{season}}s. Normally, you could never see all four forms of Sawsbuck at the same time, but [[Elsewhere Forest]] seems to be the exception!}}
+|}
+
+===Form data===
+{{Incomplete|section|needs=Needs more Gen 9 details (if/how form changes in Kitakami, etc.)}}
+Sawsbuck has four different forms based on the four seasons. These forms are interchangeable in [[Generation V]] and [[Generation IX]] but not in other games. They are purely cosmetic.
+
+;Generation V
+In {{game4|BWB2W2}}, Sawsbuck will change its form to match the current {{season}}s if it is in the [[party]] when the season changes. All {{pkmn2|wild}}, [[Pokémon breeding|bred]], and [[Non-player character|NPC]] Trainer-owned Sawsbuck will match the current season, with the exception of those owned by NPC Trainers in the [[Battle Subway]] and the [[Pokémon World Tournament]], which are all Spring Form.
+* When the month is January, May, or September, the season is {{season|spring}}, and it becomes Spring Form.
+* When the month is February, June, or October, the season is {{season|summer}}, and it becomes Summer Form.
+* When the month is March, July, or November, the season is {{season|autumn}}, and it becomes Autumn Form.
+* When the month is April, August, or December, the season is {{season|winter}}, and it becomes Winter Form.
+
+;Generations VI to VIII
+From [[Generation VI]] to {{gen|VIII}}, with the abandonment of seasons as a mechanic, Sawsbuck is unable to change forms. All wild and NPC Trainer-owned Sawsbuck are Spring Form. Bred Deerling are in the same form as their mother, or the same form as the Deerling or Sawsbuck parent if bred with {{p|Ditto}}. The Summer, Autumn, and Winter forms are only obtainable via [[transfer]] from a [[Generation V]] game or from {{g|GO}}.
+
+In {{g|Super Mystery Dungeon}}, only the Spring Form is available.
+;Generation IX
+In {{g|Scarlet and Violet}}, Sawsbuck is once again able to change forms, but the form it will become is now based on the location that the game was loaded in rather than the season. Wild Sawsbuck vary in form based on location. In [[Paldea]], Spring Form corresponds to {{DL|Paldea|South Province}}, Summer Form to {{DL|Paldea|East Province}}, Autumn Form to {{DL|Paldea|West Province}}, and Winter Form to {{DL|Paldea|North Province}}. Sawsbuck only change form if they are in the [[party]]. [[Area Zero]] does not affect Sawsbuck's form.
+
+In general, Spring Form Sawsbuck can be found in South Province ([[South Province (Area Six)|Area Six]]) and in 4★ [[Tera Raid Battle]]s, Autumn Form in West Province ([[West Province (Area Three)|Area Three]]) and North Province ([[Socarrat Trail]]), Winter Form in North Province ([[North Province (Area One)|Area One]], [[Dalizapa Passage]], and [[Glaseado Mountain]]). Summer Form Sawsbuck cannot be found in the wild in Paldea.
+
+In the [[Terarium]], Spring Form Sawsbuck can be found in the [[Savanna Biome]], Autumn Form in the [[Canyon Biome]], Summer Form in the [[Coastal Biome]], and Winter Form in the [[Polar Biome]]. Unlike in [[Paldea]], the forms of Sawsbuck do not change in the [[Terarium]].
+
+Bred Deerling are born in the same form as their female parent, or in the same form as the Deerling or Sawsbuck parent if bred with {{p|Ditto}}. Bred Deerling still change form when the game is loaded.
+
+{{Evobox/Formes
+|sprite1=0586Sawsbuck-Spring
+|name1=Sawsbuck
+|type1-1=Normal
+|type2-1=Grass
+|forme1=Spring Form
+|loc1=In {{color2|000|Paldea#South Province|South Province}}
+|sprite2=0586Sawsbuck-Summer
+|type1-2=Normal
+|type2-2=Grass
+|forme2=Summer Form
+|loc2=In {{color2|000|Paldea#East Province|East Province}}
+|sprite3=0586Sawsbuck-Autumn
+|type1-3=Normal
+|type2-3=Grass
+|forme3=Autumn Form
+|loc3=In {{color2|000|Paldea#West Province|West Province}}
+|sprite4=0586Sawsbuck-Winter
+|type1-4=Normal
+|type2-4=Grass
+|forme4=Winter Form
+|loc4=In {{color2|000|Paldea#North Province|North Province}}
+}}
+
+===Evolution data===
+====Spring Form====
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Spring
+|form1=Spring Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 34}}
+|no2=0586Sawsbuck-Spring
+|name2=Sawsbuck
+|form2=Spring Form
+|type1-2=Normal
+|type2-2=Grass}}
+
+====Summer Form====
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Summer
+|form1=Summer Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 34}}
+|no2=0586Sawsbuck-Summer
+|name2=Sawsbuck
+|form2=Summer Form
+|type1-2=Normal
+|type2-2=Grass}}
+
+====Autumn Form====
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Autumn
+|form1=Autumn Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 34}}
+|no2=0586Sawsbuck-Autumn
+|name2=Sawsbuck
+|form2=Autumn Form
+|type1-2=Normal
+|type2-2=Grass}}
+
+====Winter Form====
+{{Evobox-2
+|type1=Normal
+|type2=Grass
+|pictype=sprite
+|no1=0585Deerling-Winter
+|form1=Winter Form
+|name1=Deerling
+|type1-1=Normal
+|type2-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 34}}
+|no2=0586Sawsbuck-Winter
+|name2=Sawsbuck
+|form2=Winter Form
+|type1-2=Normal
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Grass}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5/4Forms|ndex=586|form1=S|form2=A|form3=W}}
+{{Spritebox/6/4Forms|ndex=586|form1=S|form2=A|form3=W|crop=111}}
+{{Spritebox/7/4Forms|ndex=586|form1=S|form2=A|form3=W|crop=111}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9/4Forms|ndex=0586|form1=S|form2=A|form3=W}}-->
+{{Spritebox/HOME/4Forms|ndex=0586|form1=S|form2=A|form3=W}}
+{{Spritebox/Footer|586|Sawsbuck}}
+
+==In animation==
+[[File:Sawsbuck anime.png|thumb|250px|All four forms of Sawsbuck in {{aniseries|BW}}]]
+===Major appearances===
+Spring Form Sawsbuck debuted in ''[[BW019|A Connoisseur's Revenge!]]'', under the ownership of [[Burgundy]]. She used it in her {{pkmn|battle}} against {{an|Cilan}}, where it went up against {{TP|Cilan|Pansage}}. However, it lost after being hit by a powerful {{m|Solar Beam}}.
+
+All four forms of Sawsbuck appeared in ''[[BW054|The Four Seasons of Sawsbuck!]]'', with Sawsbuck's Winter Form making its debut, and Sawsbuck's Summer and Autumn Forms making their animated series debut. They resided at a secret lake that allowed the Sawsbuck to take on all four forms at the same time. {{OBP|Robert|BW054}}'s aim was to photograph all four forms together, which he was able to do.
+
+===Minor appearances===
+Multiple Summer Form Sawsbuck appeared in the opening sequences and ending credits of both [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']], while Autumn Form Sawsbuck exclusively appeared in the opening sequence of ''Black—Victini and Reshiram''. This also marked the debuts of both the Summer Form and Autumn Form Sawsbuck.
+
+Multiple Sawsbuck appeared in ''[[BW059|Stopping the Rage of Legends! Part 1]]'' and ''[[BW060|Part 2]]''.
+
+Multiple Summer Form Sawsbuck appeared in ''[[M15|Kyurem VS. The Sword of Justice]]''. The {{OBP|Swords of Justice|M15}} legend also featured their Summer and Autumn Forms.
+
+In ''[[BW090|Jostling for the Junior Cup!]]'', [[Cassie]]'s Summer Form Sawsbuck competed in the [[Pokémon World Tournament Junior Cup]], where it lost to [[Geraldo]]'s {{p|Reuniclus}} in the first round.
+
+A Summer Form Sawsbuck appeared in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+A Summer Form Sawsbuck appeared in ''[[Mewtwo — Prologue to Awakening]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', multiple Summer Form Sawsbuck were living at [[Pokémon Hills]]. Two of them helped put a fire out there.
+
+A Summer Form Sawsbuck appeared in a photo in ''[[XY085|Mending a Broken Spirit!]]''.
+
+Two Summer Form Sawsbuck appeared in ''[[JN137|The Road Most Traveled!]]''.
+
+Three Winter Form Sawsbuck appeared in ''[[HZ001|The Pendant That Starts It All (Part One)]]''.
+
+Two Summer Form Sawsbuck appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+Two Summer Form Sawsbuck appeared in ''[[HZ084|Where the Land Meets the Sky]]'', under the ownership of two Trainers.
+<gallery>
+Spring Sawsbuck anime.png|Spring Form Sawsbuck in {{aniseries|BW}}
+Pericarp Town Sawsbuck.png|Summer Form Sawsbuck in {{aniseries|HZ}}
+Autumn Sawsbuck anime.png|Autumn Form Sawsbuck in {{aniseries|BW}}
+Winter Sawsbuck anime.png|Winter Form Sawsbuck in {{aniseries|BW}}
+</gallery>
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW019|Sawsbuck|Ash's Pokédex|Sawsbuck, the Season Pokémon, and the evolved form of Deerling. The plants on Sawsbuck's horns change depending on the time of year, and people often use them to measure the passing of the seasons.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:Norman Sawsbuck Adventures.png|thumb|150px|Winter Form Sawsbuck in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+In ''[[PS534|Choir Tournament]]'', multiple Autumn Form Sawsbuck appeared at the [[Autumn Choir Tournament]].
+
+In [[PS611]], {{adv|Norman}} was revealed to own a Winter Form Sawsbuck. It was first used to break into the [[Pokémon Association]]'s old research facility.
+
+<gallery>
+Sawsbuck Autumn Form Adventures.png|Autumn Form Sawsbuck in [[Pokémon Adventures]]
+</gallery>
+{{-}}
+
+==In the TCG==
+{{main|Sawsbuck (TCG)}}
+
+==Trivia==
+* Sawsbuck represents {{wp|January}} in the [[Unova]] [[horoscope]].
+* The design for Sawsbuck was created before the concept of seasons was added to {{game|Black and White|s}}.<ref name=ND204>''Nintendo Dream'' Vol. 204, April 2011 ([https://web.archive.org/web/20110704155314/http://shellspider.blog101.fc2.com/blog-entry-502.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream-2/ Translation by Dr. Lava])</ref>
+
+===Origin===
+Sawsbuck may be based on a {{wp|Père David's deer}}, a species of deer that decorates its antlers with foliage during the breeding season. Each of its forms appears to visually represent one of the four seasons. The progression of the foliage in Sawsbuck's antlers throughout the seasons may be based on a {{wp|deciduous}} tree.
+
+Sawsbuck may also be based on the {{wp|Four Stags of Yggdrasill}}, which eat among the branches of the world tree Yggdrasil in Norse mythology and are sometimes associated with seasons. Alternatively, it may also be based on {{wp|Baron Munchausen}}'s tall tale ''Reflections on Saint Hubert's stag''— in the story, Munchausen shoots a stag using cherry pits in his musket; the stag survives and escapes, and in the following year reappears with a cherry tree growing out of its head. 
+
+====Name origin====
+Sawsbuck may be a play on ''{{wp|sawbuck}}'' (framework for holding wood to be sawn), which contains the word ''buck'' (male deer). ''SAWS'' may also be an acronym for the names of the seasons ('''s'''ummer, '''a'''utumn, '''w'''inter, and '''s'''pring).
+
+Mebukijika may be a combination of 芽吹き ''mebuki'' (to bud) and 鹿 ''shika'' (deer).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Grass
+|ja=メブキジカ ''Mebukijika''|jameaning=From {{tt|芽吹き ''mebuki''|to bud}} and {{tt|鹿 ''shika''|deer}}
+|fr=Haydaim|frmeaning=From ''{{wp|Joseph Haydn|Haydn}}'' (composer of ''{{wp|The Seasons (Haydn)|The Seasons}}'') and ''{{tt|daim|deer}}''
+|es=Sawsbuck|esmeaning=Same as English name
+|de=Kronjuwild|demeaning=From ''{{tt|Krone|crown, hunting term for the crown tine of an antler with at least three points}}'', ''{{tt|Baumkrone|treetop}}'' or ''{{tt|Kronjuwelen|crown jewels}}'' and ''{{tt|Wild|game animal}}''
+|it=Sawsbuck|itmeaning=Same as English name
+|ko=바라철록 ''Baracheolrok''|komeaning=From {{tt|발아 (發芽) ''bar-a''|germination, to sprout}}, {{tt|철 ''cheol''|season}} and {{tt|록 (鹿) ''rok''|deer}}
+|zh_cmn=萌芽鹿 ''Méngyálù''{{tt|*|Games}}<br>芽吹鹿 ''Yáchuīlù''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|萌芽 ''méngyá''|to sprout}} and {{tt|鹿 ''lù''|deer}}<br>From the Japanese 芽吹き ''mebuki'' and {{tt|鹿 ''lù''|deer}}
+|zh_yue=萌芽鹿 ''Màhngngàhlúk''{{tt|*|Games}}<br>芽吹鹿 ''Ngàhchēuilúk''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|萌芽 ''màhngngàh''|to sprout}} and {{tt|鹿 ''lúk''|deer}}<br>From the Japanese 芽吹き ''mebuki'' and {{tt|鹿 ''lúk''|deer}}
+|hi=मौसबडीयर ''Mausabdeer''|himeaning=From {{tt|मौसम ''mausam''|season/weather}}, ''bud'', and ''deer''
+|ru=Сосбак ''Sosbak''|rumeaning=Transcription of English name
+<!--|sv=Sawbuck{{tt|*|erroneously in XY085}}|svmeaning=Similar to English name-->
+|th=เมบูคิจิกะ ''Mebukhichika''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+<div style="display:inline-block">
+''Spring Form''
+{{langtable
+|color={{normal color}}|bordercolor={{spring color}}
+|ja=はるのすがた ''{{tt|Haru no Sugata|Spring Form}}''
+|zh_yue=春天的樣子 ''{{tt|Chēuntīn dīk Yeuhngjí|Spring Form}}''
+|zh_cmn=春天的樣子 / 春天的样子 ''{{tt|Chūntiān de Yàngzi|Spring Form}}''
+|fr=Forme Printemps
+|de=Frühlingsform
+|hi=स्प्रिंग फ़ॉर्म ''Spring Form''
+|id=Wujud Musim Semi{{tt|*|Pokémon GO}}<br>Bentuk Musim Semi{{tt|*|Official site}}
+|it=Forma Primavera
+|ko=봄의 모습 ''{{tt|Bom-ui Moseup|Spring Form}}''
+|ms=Bentuk Musim Bunga
+|pt_br=Forma Primavera
+|es=Forma Primavera
+|pl=Forma Wiosenna
+|th=ร่างฤดูใบไม้ผลิ ''Rang Ridubaimaiphli''
+|tr=İlkbahar Formu
+}}
+</div>
+<div style="display:inline-block">
+''Summer Form''
+{{langtable
+|color={{normal color}}|bordercolor={{summer color}}
+|ja=なつのすがた ''{{tt|Natsu no Sugata|Summer Form}}''
+|zh_yue=夏天的樣子 ''{{tt|Hahtīn dīk Yeuhngjí|Summer Form}}''
+|zh_cmn=夏天的樣子 / 夏天的样子 ''{{tt|Xiàtiān de Yàngzi|Summer Form}}''
+|fr=Forme Été
+|de=Sommerform
+|hi=समर फ़ॉर्म ''Summer Form''
+|id=Wujud Musim Panas{{tt|*|Pokémon GO}}<br>Bentuk Musim Panas{{tt|*|Official site}}
+|it=Forma Estate
+|ko=여름의 모습 ''{{tt|Yeoreum-ui Moseup|Summer Form}}''
+|ms=Bentuk Musim Panas
+|pt_br=Forma Verão
+|es=Forma Verano
+|pl=Forma Letnia
+|th=ร่างฤดูร้อน ''Rang Riduron''
+|tr=Yaz Formu
+}}
+</div>
+<div style="display:inline-block">
+''Autumn Form''
+{{langtable
+|color={{normal color}}|bordercolor={{autumn color}}
+|ja=あきのすがた ''{{tt|Aki no Sugata|Autumn Form}}''
+|zh_yue=秋天的樣子 ''{{tt|Chāutīn dīk Yeuhngjí|Autumn Form}}''
+|zh_cmn=秋天的樣子 / 秋天的样子 ''{{tt|Qiūtiān de Yàngzi|Autumn Form}}''
+|fr=Forme Automne
+|de=Herbstform
+|hi=ऑटम फ़ॉर्म ''Autumn Form''
+|id=Wujud Musim Gugur{{tt|*|Pokémon GO}}<br>Bentuk Musim Gugur{{tt|*|Official site}}
+|it=Forma Autunno
+|ko=가을의 모습 ''{{tt|Ga-eur-ui Moseup|Autumn Form}}''
+|ms=Bentuk Musim Luruh
+|pt_br=Forma Outono
+|es=Forma Otoño
+|pl=Forma Jesienna
+|th=ร่างฤดูใบไม้ร่วง ''Rang Ridubaimairuang''
+|tr=Sonbahar Formu
+}}
+</div>
+<div style="display:inline-block">
+''Winter Form''
+{{langtable
+|color={{normal color}}|bordercolor={{winter color}}
+|ja=ふゆのすがた ''{{tt|Fuyu no Sugata|Winter Form}}''
+|zh_yue=冬天的樣子 ''{{tt|Dūngtīn dīk Yeuhngjí|Winter Form}}''
+|zh_cmn=冬天的樣子 / 冬天的样子 ''{{tt|Dōngtiān de Yàngzi|Winter Form}}''
+|fr=Forme Hiver
+|de=Winterform
+|hi=विंटर फ़ॉर्म ''Winter Form''
+|id=Wujud Musim Dingin{{tt|*|Pokémon GO}}<br>Bentuk Musim Dingin{{tt|*|Official site}}
+|it=Forma Inverno
+|ko=겨울의 모습 ''{{tt|Gyeo-ur-ui Moseup|Winter Form}}''
+|ms=Bentuk Musim Sejuk
+|pt_br=Forma Inverno
+|es=Forma Invierno
+|pl=Forma Zimowa
+|th=ร่างฤดูหนาว ''Rang Ridunao''
+|tr=Kış Formu
+}}
+</div>
+{{-}}
+
+==Related articles==
+* [[List of Pokémon with form differences]]
+
+==References==
+<references />
+
+==External links==
+* [https://www.youtube.com/watch?v=bzl8yd9x8Sk Generation 5: Lost Pokemon Designs (Part 1) - Dr Lava #21] – YouTube (features breakdown of Sawsbuck's early concept art)
+
+{{PokémonPrevNext/Head|type=Normal|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0585|prev=Deerling|nextnum=0587|next=Emolga}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+
+[[de:Kronjuwild]]
+[[es:Sawsbuck]]
+[[fr:Haydaim]]
+[[it:Sawsbuck]]
+[[ja:メブキジカ]]
+[[zh:萌芽鹿]]

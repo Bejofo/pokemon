@@ -1,0 +1,319 @@
+{{PokémonPrevNext/Head|type=Ghost}}
+{{PokémonPrevNext/GO|species=Greavard}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0970|prev=Glimmora|nextnum=0972|next=Houndstone|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Greavard
+|jname=ボチ
+|tmname=Bochi
+|ndex=0971
+|type1=Ghost
+|category=Ghost Dog
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=77.2
+|weight-kg=35.0
+|abilityn=d
+|ability1=Pickup
+|abilityd=Fluffy
+|egggroupn=1
+|egggroup1=Field
+|egggroup2=
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=1
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=58
+|lv100exp=1059860
+|gendercode=127
+|color=White
+|catchrate=120
+|body=08
+|pokefordex=greavard
+|generation=9
+|friendship=50
+}}
+'''Greavard''' ([[List of Japanese Pokémon names|Japanese]]: '''ボチ''' ''Bochi'') is a {{type|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Houndstone}} when [[level]]ed up at [[Time-based Evolution|night]] starting at [[level]] 30.
+
+==Biology==
+Greavard is a quadrupedal canine Pokémon whose body is covered in long, shaggy pale grey hair that reaches down to its legs. Its large snout peeks under the hair covering most of its head, and contains a black triangular nose and a wide, jagged mouth powerful enough to shatter bones.<ref name=SVsite/> Rather than having actual teeth, Greavard instead has serrated lips. It has stubby limbs and large round feet, and it has a slight waddle to its walk. Its rear has a thin wispy tail. On the top of its head is a protrusion resembling a candle, which burns with a small purplish-yellow light.
+
+Greavard usually rests underground, with the candle-like part of its head left uncovered, as it waits for people to come nearby. If it is approached, it jumps out of the ground and lets a spooky cry that may unintentionally startle most people. Greavard is friendly, affectionate and easily gets lonely. It is really easy to befriend, and will forever follow anyone who gives it the slightest of attention. However, it is advised not to play with Greavard too often, as it is known to slowly and unwittingly drain the life-force of those near it.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/greavard/ Greavard — Pokémon Scarlet and Pokémon Violet | Official Website]</ref> It is rumored that Greavard is the reincarnation of a dog Pokémon that had never interacted with a human and died in the wild. Greavard primarily lives in boreal mountains.
+
+In [[Generation IX]], Greavard and its evolved form, {{p|Houndstone}}, are the [[Signature Ability|only known Pokémon]] that can have {{a|Fluffy}} as an [[Ability]].
+
+===Evolution===
+Greavard evolves into {{p|Houndstone}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Ghost
+|pictype=art
+|no1=0971
+|name1=Greavard
+|type1-1=Ghost
+|evo1=
+|no2=972
+|name2=Houndstone
+|type1-2=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=311|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This friendly Pokémon doesn't like being alone. Pay it even the slightest bit of attention, and it will follow you forever.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{ghost color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{ghost color light}}; background:#{{ghost color light}} | [[File:Pokédex Image Greavard SV.png|x200px]]
+|-
+| Greavard in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ghost}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[West Province (Area Three)|Area Three]]<br>North Province: [[Dalizapa Passage]], [[Glaseado Mountain]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Greavard|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Ghost
+|HP=50
+|Attack=61
+|Defense=60
+|SpAtk=30
+|SpDef=55
+|Speed=34
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|fluffy=maybe
+|newfire=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Greavard|Ghost|Ghost|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|3|Lick|Ghost|Physical|30|100|30||'''}}
+{{learnlist/level9|6|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|6|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|9|Roar|Normal|Status|—|—|20}}
+{{learnlist/level9|12|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|16|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level9|24|Rest|Psychic|Status|—|—|5}}
+{{learnlist/level9|28|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level9|32|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/level9|37|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|41|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/level9|46|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|52|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/levelf/9|Greavard|Ghost|Ghost|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Greavard|Ghost|Ghost|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM008|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/tm9|TM010|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM063|Psychic Fangs|Psychic|Physical|85|100|10}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM151|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tmf/9|Greavard|Ghost|Ghost|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Greavard|Ghost|Ghost|9}}
+{{learnlist/breed9|{{MSP/H|0972|Houndstone}}{{tt|*|A wild Terastallized Houndstone in South Province (Area Five) knows this move.}}|Ally Switch|Psychic|Status|—|—|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0229|Houndoom}}{{tt|*|A wild Terastallized Houndoom in Alfornada Cavern knows this move.}}|Destiny Bond|Ghost|Status|—|—|5|grid=8}}
+{{learnlist/breed9|{{MSP/H|0037|Vulpix}}{{MSP/H|0037-Alola|Vulpix}}{{MSP/H|0038|Ninetales}}{{MSP/H|0038-Alola|Ninetales}}{{MSP/H|0054|Psyduck}}{{MSP/H|0055|Golduck}}{{MSP/H|0335|Zangoose}}|Disable|Normal|Status|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0058|Growlithe}}{{MSP/H|0058-Hisui|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059-Hisui|Arcanine}}{{MSP/H|0228|Houndour}}{{MSP/H|0229|Houndoom}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0653|Fennekin}}{{MSP/H|0654|Braixen}}{{MSP/H|0655|Delphox}}{{MSP/H|0744|Rockruff}}{{MSP/H|0745|Lycanroc}}{{MSP/H|0745-Midnight|Lycanroc}}{{MSP/H|0745-Dusk|Lycanroc}}|Howl|Normal|Status|—|—|40|grid=8}}
+{{learnlist/breed9|{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}|Memento|Dark|Status|—|100|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571-Hisui|Zoroark}}|Shadow Sneak|Ghost|Physical|40|100|30||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0775|Komala}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{tt|*|Skeledirge learns Yawn on its own only Version 2.0.1 onwards}}|Yawn|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breedf/9|Greavard|Ghost|Ghost|9}}
+
+===Side game data===
+{{Spindata/Head|type=Ghost}}
+{{Spindata/GO|col=6|type=Ghost|ndex=0971
+|hatch=N/A
+|buddy=3
+|candy=Greavard
+|evocandy=50
+|stamina=137
+|attack=105
+|defense=106
+|fast={{m|Lick}}, {{m|Bite}}
+|special={{m|Shadow Ball}}, {{m|Dig}}, {{m|Psychic Fangs}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Ghost
+|pictype=art
+|no1=0971
+|name1=Greavard
+|type1-1=Ghost
+|evo1={{Bag/s|Rare Candy|SV}} + [[File:Night Icon SV.png|40px|link=Time]]<br>{{color2|000|Level|Level 30}}<br><small>at {{color2|000|Time|night}}</small>
+|no2=972
+|name2=Houndstone
+|type1-2=Ghost
+}}
+
+===Sprites===
+{{Spritebox/Header|type=ghost}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0971}}-->
+{{Spritebox/HOME|ndex=0971}}
+{{Spritebox/Footer|971|Greavard}}
+
+==In animation==
+[[File:Greavard anime.png|thumb|250px|Greavard in {{aniseries|HZ}}]]
+[[File:Greavard Paldean Winds.png|thumb|left|250px|Greavard  in [[Pokémon: Paldean Winds]]]]
+===Main series===
+====Major appearances====
+====Minor appearances====
+Multiple Greavard debuted in ''[[HZ061|Resonating Spirits in a Challenge to Ryme!]]'', including one [[nickname]]d DJ G-Rave. DJ G-Rave reappeared in [[HZ062|the following episode]].
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ061|Greavard|Dot's Rotom Phone|Greavard, the Ghost Dog Pokémon. A {{t|Ghost}} type. This friendly Pokémon doesn't like being alone. Pay it even the slightest bit of attention, and it will follow you forever. And gradually drains the life energy of those close to it.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Paldean Winds===
+A {{pkmn2|wild}} Greavard appeared in ''[[PPW04|Breathe Together]]''.
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Greavard (TCG)}}
+
+==Trivia==
+* Greavard and its Evolution were designed by [[Kazuyuki Kurashima]].<ref>[https://twitter.com/kurashimakaz/status/1604174633065816066 Kazuyuki Kurashima on Twitter]</ref><ref>[https://twitter.com/kurashimakaz/status/1604180891311280129 Kazuyuki Kurashima on Twitter]</ref>
+* Greavard, along with {{p|Shedinja}}, {{p|Duskull}}, and {{rf|Galarian}} {{p|Yamask}}, has the lowest base {{stat|Special Attack}} stat of all {{type|Ghost}} Pokémon.
+* Greavard is tied with {{p|Cleffa}} and {{p|Pawmi}} for having the shortest Japanese name of all Pokémon, being spelt with only two kana.
+* Greavard was first teased on October 24, 2022, through a video on the official Pokémon Twitter account, which briefly showed it in its buried state.<ref>[https://twitter.com/Pokemon/status/1584600698028969984 Tweet by Pokémon (@Pokemon).] Posted on October 24, 2022.</ref> It was properly revealed on October 25, 2022.<ref>"[https://www.youtube.com/watch?v=PF5UzdmOzPs A new Ghost-type Pokémon appeared in Paldea!]" [https://www.youtube.com/c/pokemon The Official Pokémon YouTube Channel]. ''YouTube''.</ref>
+
+===Origin===
+Greavard seems to be mainly based on the {{wp|Catalan Sheepdog}}, and could also take inspiration from other long-haired dog breeds such as the {{wp|Briard}} or the {{wp|Komondor}}. Its habit of burying itself underground and popping out to surprise people is reminiscent of depictions of the {{wp|undead}} rising from their graves. In its buried state, the candle-like protrusion above its head appears to be a stand-in for a {{wp|grave candle}} and also resembles a {{wp|bone}}. 
+
+Greavard may also be based on various of the numerous dogs from {{wp||Folklore of Spain|Spanish mythology and folklore}}, such as the {{wp|Pesanta}} or the {{wp|Dip (Catalan myth)|Dip}} (dog-shaped spirits from {{wp|Catalan myths and legends|Catalan mythology}} known for draining human vitality). The long white fur and the grave candle may also point to the {{wp|Santa Compaña}} as a possible origin, as they are wearing white, hooded cloaks and carrying candles.
+
+Greavard's candle and dog-like appearance may be a reference to the process of {{wp|Rendering (animal products)|rendering}} animal fat into {{wp|tallow}}, which was historically used to make candles and leaves behind a solid material called greaves that is often used as dog food.
+
+====Name origin====
+Greavard may be a combination of ''graveyard'', ''grieve'', ''{{wp|Tallow|greaves}}'' (a byproduct of a historical method of candlemaking; typically used as dog food), and ''{{wp|Briard}}'' (a long-haired dog breed).
+
+Bochi may be derived from 墓地 ''bochi'' (graveyard). It may also derive from ポチ ''Pochi'' (a common name for a pet dog in Japan) or ひとりぼっち ''hitoribocchi'' (loneliness).
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Ghost
+|ja=ボチ ''Bochi''|jameaning=From {{tt|墓地 ''bochi''|graveyard}}, {{tt|ポチ ''Pochi''|a common name for a pet dog}}, and {{tt|ひとりぼっち ''hitoribocchi''|loneliness}}
+|fr=Toutombe|frmeaning=From ''{{tt|toutou|pooch}}'' and ''{{tt|tombe|tomb}}''
+|es=Greavard|esmeaning=Same as English name
+|de=Gruff|demeaning=From ''{{tt|Gruft|tomb}}'' and ''{{tt|Wuff|woof}}''
+|it=Greavard|itmeaning=Same as English name
+|ko=망망이 ''Mangmang-i''|komeaning=From {{tt|망 (亡) ''mang''|death}} and {{tt|멍멍이 ''meongmeong-i''|childish term for dog}}
+|zh_cmn=墓仔狗 ''Mùzǎigǒu''|zh_cmnmeaning=From {{tt|墓仔埔 ''bōng-á-poo''|Hokkien for graveyard}} and {{tt|狗仔 ''gǒuzǎi''|puppy}}
+|zh_yue=墓仔狗 ''Mouhjáigáu''|zh_yuemeaning=From {{tt|墓仔埔 ''bōng-á-poo''|Hokkien for graveyard}} and {{tt|狗仔 ''gáujái''|puppy}}
+|hi=कब्रू ''Kabroo''|himeaning=From {{tt|क़ब्र ''qabr''|grave/tomb}}
+|th=โบจิ ''Bochi''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0970|prev=Glimmora|nextnum=0972|next=Houndstone}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve based on time]]
+[[Category:Pokémon that evolve only at night]]
+
+[[de:Gruff]]
+[[es:Greavard]]
+[[fr:Toutombe]]
+[[it:Greavard]]
+[[ja:ボチ]]
+[[zh:墓仔狗]]

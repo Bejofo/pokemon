@@ -1,0 +1,768 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/GO|species=Gloom}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0043|prev=Oddish|nextnum=0045|next=Vileplume|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Gloom
+|jname=クサイハナ
+|tmname=Kusaihana
+|ndex=0044
+|typebox=1
+|type1=Grass
+|type2=Poison
+|category=Weed
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=19.0
+|weight-kg=8.6
+|abilityn=d
+|ability1=Chlorophyll
+|abilityd=Stench
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=138
+|oldexp=132
+|lv100exp=1,059,860
+|gendercode=127
+|color=Blue
+|catchrate=120
+|body=12
+|pokefordex=gloom
+|generation=1
+|friendship=70
+}}
+'''Gloom''' ([[List of Japanese Pokémon names|Japanese]]: '''クサイハナ''' ''Kusaihana'') is a dual-type {{2t|Grass|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Oddish}} at [[level]] 21 and evolves into either {{p|Vileplume}} when exposed to a [[Leaf Stone]] or {{p|Bellossom}} when exposed to a [[Sun Stone]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+[[File:Gloom eyes.png|thumb|left|250px|Gloom's eyes as seen in ''[[Pokémon the Series]]'']]
+Gloom is a blue, bipedal ''{{wp|Rafflesia}}''-like  {{OBP|Pokémon|species}} with rudimentary hands and feet. On its head is a flower with spherical petals surrounded by four reddish-brown leaves. The petals are a dark reddish-brown and have white spots. A female displays a single large spot on each petal, while a male will have many smaller spots. Gloom's eyes are wide and often appear closed and its lips are thin and purple.
+
+Gloom trickles sticky nectar from its mouth with the appearance and consistency of drool. This can be used as a fertilizer for plants. Both this nectar and the flower on Gloom's head release a foul odor strong enough to induce fainting in humans over a mile (1.6 kilometers) away. However, it can also attract prey, and even a very small number of humans find it pleasing. This odor is a key ingredient for some perfume production. When it is in danger, the odor worsens, but it will not emit its odor if it feels safe. Gloom lives in {{DL|List of Pokémon by habitat|Grassland Pokémon|grassy plains}}.
+
+Prior to [[Generation II]], Gloom and its evolutionary relatives were the [[Signature move|only known Pokémon]] capable of learning the move {{m|Petal Dance}}.
+{{left clear}}
+
+===Evolution===
+Gloom evolves from {{p|Oddish}} and evolves into either {{p|Vileplume}} or {{p|Bellossom}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/2branch2
+|type1=Grass
+|type2=Poison
+|no1=0043
+|name1=Oddish
+|type1-1=Grass
+|type2-1=Poison
+|evo1=
+|no2=0044
+|name2=Gloom
+|type1-2=Grass
+|type2-2=Poison
+|evo2a=
+|no3a=0045
+|name3a=Vileplume
+|type1-3a=Grass
+|type2-3a=Poison
+|evo2b=
+|no3b=182
+|name3b=Bellossom
+|type1-3b=Grass
+}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Poison}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=044}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.}}
+{{Dex/Entry1|v=Yellow|entry=Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nose-bending stink.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=The horrible-smelling pistil of this flower stinks over a {{tt|mile|2 kilometers}} away. Unwittingly inhaled, it can cause fainting.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=084}}
+{{Dex/Entry1|v=Gold|entry=What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.}}
+{{Dex/Entry1|v=Silver|entry=It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.}}
+{{Dex/Entry1|v=Crystal|entry=The smell from its drool-like syrup and the pollen on its petals is so bad, it may make opponents faint.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=089|reg2=Kanto|num2=044}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Gloom</sc> releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this {{ScPkmn}} is feeling calm and secure, it does not release its usual stinky aroma.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=From its mouth <sc>Gloom</sc> drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.}}
+{{Dex/Entry1|v=FireRed|entry=Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of {{tt|1.25 miles|2 kilometers}}.}}
+{{Dex/Entry1|v=LeafGreen|entry=The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=084}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=The honey it drools from its mouth smells so atrocious, it can curl noses more than a {{tt|mile|1.6 kilometers}} away.}}
+{{Dex/Entry1|v=HeartGold|entry=What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.}}
+{{Dex/Entry1|v=SoulSilver|entry=It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=106|label1=Central|reg2=Hoenn|num2=092}}
+{{Dex/Entry1|v=X|t=FFF|entry=Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=044}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=056|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of {{tt|1.25 miles|2 kilometers}}.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=The nectar it drools from its mouth smells so atrocious that it can make noses curl from more than a mile away.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=63}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The fluid that oozes from its mouth isn’t drool. It is a nectar that is used to attract prey.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It secretes a sticky, drool-like nectar. Though sweet, it smells too repulsive to get very close.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{poison color dark}}; background:#{{grass color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{poison color dark}}; background:#{{grass color light}}; {{roundy|5px}};" | [[File:Pokédex Image Gloom SV Blueberry.png|x200px]]
+|-
+| Gloom in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=grass|type2=poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Red|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}}}
+{{Availability/Entry1/None|1|v=Blue}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}}}
+{{Availability/Entry1|1|v=Yellow|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}, [[Cerulean Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|5|Kanto}}{{sup/t|N}}}}
+{{Availability/Entry1|v=Crystal|area={{rt|24|Kanto}}{{sup/t|N}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|121|Hoenn}} and {{rtn|123|Hoenn}}, {{safari|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Route]]s {{rtn|121|Hoenn}} and {{rtn|123|Hoenn}}, {{safari|Hoenn}}}}
+{{Availability/Entry1|v=FireRed|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}, [[Berry Forest]], [[Bond Bridge]], [[Cape Brink]], [[Water Path]]}}
+{{Availability/Entry1/None|v=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|224|Sinnoh}}, {{rtn|229|Sinnoh}}, and {{rtn|230|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|224|Sinnoh}} and {{rtn|230|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|5|Kanto}}{{sup/t|N}}<br/>[[Route]]s {{rtn|47|Johto}} and {{rtn|48|Johto}}<br/>{{safari|Johto}} (tall grass in Marshland, default{{sup/t|N}} and with 2 Plains points)}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=FF3333|area={{pw|Treehouse}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Oddish}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Poison-type Safari|Poison]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Route]]s {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|121|Hoenn}}, and {{rtn|123|Hoenn}}, {{safari|Hoenn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry1|v=Let's Go Pikachu|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}} and {{rtn|21|Kanto}}}}
+{{Availability/Entry1/None|v=Let's Go Eevee}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Axew's Eye]], [[North Lake Miloch]], [[Giant's Mirror]], [[Giant's Cap]]<br>[[Dappled Grove/Dens|Dappled Grove]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Route]]s {{rtn|224|Sinnoh}}, {{rtn|229|Sinnoh}}, and {{rtn|230|Sinnoh}}, [[Grand Underground]] - [[Grassland Cave]], [[Swampy Cave]], [[Spacious Cave]], [[Riverbank Cave]], [[Still-Water Cavern]], [[Sunlit Cavern]], [[Bogsunk Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Coastal Biome]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Blueberry Academy)|Gloom|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=grass|type2=poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Oddish}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area={{OBP|Viridian Forest|Channel}}}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Oddish}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 2, Endless Level 15, Forever Level 51, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Silent Chasm]] (B1F-B9F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Olive Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Apple Woods]] (7F-12F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Apple Woods]] (7F-12F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Chroma Highlands]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode A)</small>}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Old Mansion]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#Major Clean-Up|Melodious Woodland: Major Clean-Up]], [[Chill Battle#Garden Keepers|Chill Battle: Garden Keepers]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 3|Infinite Ruins: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Royal Garden|Leafy Expanse: Royal Garden]] <small>(All Areas)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Snorlax Sea]], [[Celebi Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Celebi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Silent Chasm]] (1F-9F), [[Purity Forest]] (35F-48F)<br/>Mystery House: [[Pitfall Valley]], [[Darknight Relic]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#Sixth release|''Pokémon Safari'']] <small>(Sixth release)</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync/player|egg|Oddish}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=grass|type2=poison}}
+{{eventAvail|{{gameabbrev3|RS}}|Pokémon Center New York Evolution Stone Promotion Gloom|English|United States|50|August 30 to September 4, 2003|link=List of PCNY event Pokémon distributions in Generation III#Gloom}}
+|}
+
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Grass|type2=Poison|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17|September 18 to 20, 2020|link=Wild Area News/2020#September 18 to 20, 2020}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Grass|type2=Poison}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=FFF|tcolor2=FFF|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Items1|Absorb Bulb|5|rows=2}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Poison
+|HP=60
+|Attack=65
+|Defense=70
+|SpAtk=85
+|SpDef=75
+|Speed=40
+|Special=85
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=grass
+|type2=poison
+|Speed=2
+|SpeedMax=4
+|Power=1
+|PowerMax=3
+|Technique=2
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=grass
+|type2=poison
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=200
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|gen1poison=yes
+|oldbug=4}}
+
+===Learnset===
+Gloom is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Gloom|Grass|Poison|1}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|1|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Acid|Poison|Special|40|100|30||'''}}
+{{learnlist/level9|1|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|12|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|14|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/level9|16|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|18|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/level9|20|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|26|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level9|32|Moonblast|Fairy|Special|95|100|15}}
+{{learnlist/level9|38|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/level9|44|Moonlight|Fairy|Status|—|—|5}}
+{{learnlist/level9|50|Petal Dance|Grass|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Gloom|Grass|Poison|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Gloom|Grass|Poison|1}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM206|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/tmf/9|Gloom|Grass|Poison|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Gloom|Grass|Poison|2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|After You|Normal|Status|—|—|15}}
+{{learnlist/breed9|{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed9|{{MSP/H|0192|Sunflora}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0071|Victreebel}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}{{MSP/H|0951|Capsakid}}{{MSP/H|0952|Scovillain}}|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0191|Sunkern}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}{{MSP/H|0764|Comfey}}|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}|Teeter Dance|Normal|Status|—|100|20}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Tickle|Normal|Status|—|100|20}}
+{{learnlist/breedf/9|Gloom|Grass|Poison|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Gloom|Grass|Poison|1}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Gloom|Grass|Poison|1}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Poison}}
+{{Spindata/Pinball|col=2|type=Grass|ndex=044|acquisition=Evolve|evolved=yes}}
+{{Spindata/PinballRS|col=2|type=Grass|ndex=044|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=2|type=Grass|ndex=044|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=044
+|body=1
+|rate=-19
+|area=Jungle
+|P1=I know I stink, but I'll KO foes, so please bear with me!
+|P2=I only have half my HP left.
+|P3=No more... I'm out of power...
+|PL=Yup! Leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=044
+|body=1
+|rate=0.1
+|IQ=B
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=044
+|coset=10
+|conto={{p|Maractus}}
+|recruitment=Rescue
+|P1=When others have a gloomy day, I'm happy!
+|P2=Am I going to faint…from stinking?
+}}
+|-
+{{Spindata/Ranger|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|fieldpower=0
+|field=None
+|loop=8
+|MinEXP=34
+|MaxEXP=64
+|num=127
+|browser=Gloom blasts gas with a horrible stench. It hides in soil with only its head showing.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=2
+|num=115
+|browser=It attacks by scattering clouds of poisonous pollen.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=2
+|assistp=Poison
+|num=128
+|pastnum=013
+|browser=It creates vines around itself that make Pokémon Slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=2
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=044 f
+|walk=1.67
+|hp=51
+|attack=74
+|defense=54
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=044
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=044|num=480
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Paralyze
+|skilldesc=Leaves the foe paralyzed.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=044
+|hatch=N/A
+|buddy=3
+|candy=Oddish
+|evolution=<br/>{{MSP/GO|0045|Vileplume|size=40}} ← {{Candy|Oddish}}100<br/>{{MSP/GO|0182|Bellossom|size=40}} ← {{Candy|Oddish}}100 + {{bag/GO|Sun Stone}}1
+|stamina=155
+|attack=153
+|defense=136
+|fast={{m|Razor Leaf}}, {{m|Acid}}
+|special={{m|Petal Blizzard}}, {{m|Sludge Bomb}}, {{m|Moonblast}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+In {{g|GO}}, Gloom can be obtained by completing 1/6 of the [[Special Research]], ''A Seven-Colored Shadow''.
+
+===Evolution data===
+Gloom [[Evolution|evolves]] from {{p|Oddish}} at [[level]] 21 and evolves into either {{p|Vileplume}} when exposed to a [[Leaf Stone]] or {{p|Bellossom}} when exposed to a [[Sun Stone]]. Gloom cannot evolve into Bellossom in {{game|FireRed and LeafGreen|s}} before the player obtains the [[National Pokédex]], as its Evolution will be interrupted. Gloom also cannot evolve into Bellossom in {{LGPE}}, as Bellossom is not present in those games.
+{{Evobox/2branch2
+|type1=Grass
+|type2=Poison
+|no1=0043
+|name1=Oddish
+|type1-1=Grass
+|type2-1=Poison
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 21}}
+|no2=0044
+|name2=Gloom
+|type1-2=Grass
+|type2-2=Poison
+|evo2a={{Bag/s|Leaf Stone|SV}}<br>{{color2|000|Leaf Stone}}
+|no3a=0045
+|name3a=Vileplume
+|type1-3a=Grass
+|type2-3a=Poison
+|evo2b={{Bag/s|Sun Stone|SV}}<br>{{color2|000|Sun Stone}}
+|no3b=0182
+|name3b=Bellossom
+|type1-3b=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Poison}}
+{{Spritebox/1|ndex=044}}
+{{Spritebox/2|ndex=044}}
+{{Spritebox/3|ndex=044}}
+{{Spritebox/4/Gender|ndex=044}}
+{{Spritebox/5/Gender|ndex=044}}
+{{Spritebox/6/Gender|ndex=044|crop=75}}
+{{Spritebox/7/Gender/PE|ndex=044|crop=73|PEcrop=131}}
+{{Spritebox/8/Gender|ndex=044}}
+<!--{{Spritebox/9|ndex=0044}}-->
+{{Spritebox/HOME/Gender|ndex=0044}}
+{{Spritebox/Footer|044|Gloom}}
+
+==In animation==
+[[File:Gloom anime.png|thumb|250px|Gloom in ''[[PK08|Delibird's Dilemma]]'']]
+===Major appearances===
+Gloom debuted in ''[[EP026|Pokémon Scent-sation!]]'', under the ownership of [[Erika]]. {{Ash}} first rescued it from the [[Celadon Gym]] when it was set on fire due to {{TRT}}'s actions. Erika first met Gloom when it saved her from a {{p|Grimer}} when she was a girl. According to this episode, Gloom is a very useful Pokémon, as Erika uses Gloom's stench as a recipe for creating perfume. It reappeared in flashbacks in ''[[EP039|Pikachu's Goodbye]]'', the Japanese version of ''[[EP273|Gotta Catch Ya Later!]]'', and ''[[JN094|Suffering the Flings and Arrows!]]''.
+
+In ''[[EP068|Make Room for Gloom]]'', [[Florinda]] initially wanted to evolve her Gloom into a Vileplume. However, Florinda eventually decided it didn't need to evolve after it beat Team Rocket with its powerful {{m|Solar Beam}} attack. It reappeared in a flashback in ''[[EP225|Bulbasaur... the Ambassador!]]''.
+
+In ''[[EP107|Pokémon Food Fight!]]'', [[Gulzar]] owns a Gloom. Ash tried to battle it with {{AP|Charizard}}, but he sent {{AP|Squirtle}} and then {{AP|Snorlax}} out by mistake, which resulted in {{p|Snorlax}} trying to eat Gloom's leaves.
+
+In ''[[EP239|Whichever Way the Wind Blows]]'', multiple Gloom either evolved into Bellossom or Vileplume depending on the direction of the wind which contained fragments of [[Sun Stone]]s and [[Leaf Stone]]s.
+
+In ''[[DP181|Bucking the Treasure Trend!]]'', multiple Gloom attacked Ash, {{ashfr}}, and [[Buck]] as they searched for [[Dandelion Island]]'s treasure.
+
+In ''[[XY063|A Fork in the Road! A Parting of the Ways!]]'', a Gloom caused [[Jessie]] and {{TP|Jessie|Wobbuffet}} to fall off a cliff.
+
+===Minor appearances===
+[[File:Evolution Stone Evolution anime.png|thumb|250px|thumb|Gloom's evolutionary line shown in {{aniseries|GS}}]]
+In ''[[EP026|Pokémon Scent-sation!]]'', a Gloom was in the [[Celadon Gym]], separate from the one [[Erika]] bonded with as a child and then kept as one of her battling Pokémon.
+
+In ''[[EP065|Showdown at the Po-ké Corral]]'', multiple Gloom were living at [[Professor Oak's Laboratory]].
+
+In ''[[PK01|Pikachu's Vacation]]'', a Gloom was at the [[Pokémon Theme Park]].
+
+In ''[[EP075|Round One - Begin!]]'', a {{pkmn|Trainer}}'s Gloom competed in the [[Indigo Plateau Conference]].
+
+In ''[[EP080|Friends to the End]]'', a Trainer's Gloom was at the closing ceremonies of the Indigo Plateau Conference.
+
+In ''[[M02|The Power of One]]'', a Gloom sensed the disturbance caused by [[Lawrence III]].
+
+A {{pkmn2|wild}} Gloom appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+Multiple Gloom appeared in ''[[EP137|Foul Weather Friends]]''.
+
+In ''[[EP157|The Fortune Hunters]]'', a Gloom was stolen by [[Butch]] and [[Cassidy]].
+
+In ''[[EP176|Ariados, Amigos]]'', a Trainer's Gloom was at the [[Pokémon Jujitsu Academy]].
+
+Two Gloom appeared in ''[[EP178|The Grass Route]]'', with one being {{pkmn2|wild}} and the other under the ownership of a Trainer competing in the [[Grass Tournament]].
+
+In ''[[PK08|Delibird's Dilemma]]'', multiple Gloom helped {{AP|Bulbasaur}} find some Christmas presents dropped by a {{p|Delibird}}.
+
+In ''[[EP225|Bulbasaur... the Ambassador!]]'', multiple Gloom were among the feuding Pokémon at [[Professor Oak's Laboratory]].
+
+In ''[[EP272|Johto Photo Finish]]'', a Gloom was fed by {{Tracey}} at Professor Oak's Laboratory.
+
+In ''[[AG073|Grass Hysteria!]]'', multiple Gloom were residents of the [[Forbidden Forest]].
+
+In ''[[AG074|Hokey Poké Balls!]]'', a Gloom was at Professor Oak's Laboratory.
+
+A Gloom appeared in ''[[M07|Destiny Deoxys]]''.
+
+A {{pkmn|Coordinator}}'s Gloom appeared in ''[[AG160|Harley Rides Again]]''.
+
+In ''[[AG188|Pinch Healing!]]'', a Gloom was a resident of [[Fennel Valley]].
+
+In ''[[AG191|Once More With Reeling!]]'', a Coordinator's Gloom participated in the {{to|Terracotta}} {{pkmn|Contest}}.
+
+In ''[[DP031|The Grass-Type Is Always Greener!]]'', a Gloom was found by [[Cheryl's Mothim]] while searching for the [[Honey|Enchanted Honey]]. [[Gardenia]] tried to {{pkmn2|caught|catch}} it, but it managed to run away.
+
+A wild Gloom appeared in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! Part 1]]'' and ''[[DP072|Part 2]]''.
+
+In the opening sequence of ''[[M12|Arceus and the Jewel of Life]]'', a Gloom was in an {{tc|Aroma Lady}}'s field of flowers.
+
+A Gloom appeared in ''[[DP183|League Unleashed!]]'', under the ownership of a girl.
+
+In ''[[XY059|Under the Pledging Tree!]]'', a Trainer's Gloom was present during the [[Coumarine City Festival]].
+
+A Gloom appeared as an image in ''[[XY091|A Performance Pop Quiz!]]''.
+
+A Gloom appeared in ''[[M20|I Choose You!]]''.
+
+In ''[[SM042|Alola, Kanto!]]'', three Gloom and a Vileplume got into a fight with a {{p|Weepinbell}} and {{p|Victreebel}}, which {{AP|Bulbasaur}} had to break up.
+
+Three Gloom appeared in a flashback in ''[[JN001|Enter Pikachu!]]''.
+
+A Gloom appeared in ''[[JN002|Legend? Go! Friends? Go!]]''.
+
+A Trainer's Gloom appeared in ''[[JN033|Trade, Borrow, and Steal!]]''.
+
+A Trainer's Gloom appeared in ''[[JN049|To Train, or Not to Train!]]''. It reappeared in ''[[JN087|Breaking the Ice!]]''.
+
+A Trainer's Gloom appeared in ''[[JN057|Memories of a Warming Kindness!]]''.
+
+In ''[[JN133|The Mew from Here!]]'', a Gloom was seen on [[Faraway Island]].
+
+A Gloom appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Gloom appeared in [[HZ090]].
+
+A Trainer's Gloom appeared in [[HZ094]].
+
+===Pokédex entries===
+{{Animedexheader|Orange}}
+{{Animedexbody|EP107|Gloom|Ash's Pokédex|Gloom, the Weed Pokémon. Gloom gives off a very unpleasant smell. While strong against {{type|Water}} Pokémon, Gloom is weak against {{t|Fire}} and {{t|Flying}} types.}}
+{{Animedexfooter/Pokémon|Orange}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP031|Gloom|[[Gardenia]]|Gloom, the Weed Pokémon. It gives off a powerful aroma that can cause those to smell it to faint from {{tt|two miles|Three kilometers}} away.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+
+==In the manga==
+[[File:Erika Gloom PM.png|thumb|230px|Gloom in [[Pokémon Pocket Monsters]]]]
+===Ash & Pikachu===
+A Gloom appeared in ''[[SP11|Do Your Best Bulbasaur!!]]'', where it was seen at [[Professor Oak's Laboratory]].
+
+===The Electric Tale of Pikachu===
+In ''[[ET11|Days of Gloom and Glory]]'', [[Florinda Showers]] was shown to have multiple Gloom, unlike her animated counterpart. They were used to make herbal medicines.
+
+===Pocket Monsters HGSS===
+A Gloom appeared in [[PMHGSS14]].
+
+===Pocket Monsters HGSS Jō's Big Adventure===
+A Gloom appeared in [[JBA4]], under the ownership of [[Ariana]].
+
+===Pokémon Adventures===
+Gloom first appeared in ''[[PS048|Paras Sight]]'', under the ownership of [[Erika]]. It was part of her Gym team, but it wasn't shown battling.
+
+A Gloom appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+In ''[[PS426|Softening Up Kakuna]]'', a Gloom was used by a {{pkmn|Trainer}} that was challenging the {{gdis|Battle Factory|IV}}.
+
+A Gloom appeared in ''[[PS442|Out-Odding Oddish]]'', under the ownership of a [[Pokéathlon]] participant.
+
+[[Team Rocket]] {{tc|Executive}} [[Ariana]]'s Gloom appeared in ''[[PS448|Pleased as Punch With Parasect]]''.
+
+===Pokémon Battle Frontier===
+A Gloom appeared in ''[[CBF6|Final Battle: Versus The Salon Maiden]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Gloom appeared in ''[[GDZ04|The Raining Crystal Ball]]''.
+
+A Gloom appeared in [[GDZ23]].
+
+[[Shu]] {{pkmn2|caught}} a Gloom, as seen in [[GDZ64]].
+
+A Gloom appeared in [[GDZ67]], under the ownership of a {{OBP|monk|GDZ}}.
+
+===Pokémon Pocket Monsters===
+A Gloom appeared in ''[[PM010|Big Struggle with the Powerful Opponent Venusaur!!]]''.
+
+A Gloom appeared in ''[[PM019|Aim to be the No. 1 Pokémon!]]'', under the ownership of [[Erika]]. It evolved from an Oddish and then into a Vileplume as part of an act.
+
+A Gloom appeared in ''[[PM069|Demanding Tests at the Pokémon School!]]''.
+
+===Pokémon Zensho===
+A Gloom appeared in [[PZ05]], under the ownership of a {{tc|Gym Trainer}} at [[Celadon Gym]].
+
+==In the TCG==
+{{main|Gloom (TCG)}}
+
+==Trivia==
+* Gloom is the only dual-type Pokémon that can evolve into {{p|Bellossom|a single-type Pokémon}}.
+* In ''[[Pokémon the Series]]'', [[James]]'s description of Gloom's stench is confused in some sources as a description of his {{TP|James|Koffing}}.
+* Although Gloom has the {{a|Chlorophyll}} Ability, it is actually based on a genus of plants (''{{wp|Rafflesia}}'') that do not contain {{wp|chlorophyll}}.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Gloom and Vileplume}}
+Gloom seems to be based on a {{wp|mandrake}}, plants from the ''{{wp|Mandragora}}'' genus whose roots sometimes resemble human figures, and the {{wp|Bud|budding}} stage of ''{{wp|Rafflesia}}'', a genus of parasitic plants known for their large, foul smelling flowers. Its brown leaves may also allude to its parasitic origins, as if the flower is drawing nutrients away from Oddish's formerly green leaves and causing them to wilt. Female Gloom resemble ''{{wp|Rafflesia hasseltii}}'' due to the larger spots on their petals.
+
+Its tendency to emit a foul odor when it feels threatened is similar to a {{wp|skunk}} and comes from Rafflesia's rotting flesh smell. The fact that its pungent pollen can be made into a fragrant {{wp|perfume}} may be a reference to {{wp|musk}}, an aromatic substance secreted from the glands of various animals that is a common perfume ingredient but smells unpleasant in high concentrations.
+
+====Name origin====
+Gloom may be derived from ''gloom'' (a state of depression), ''glue'' (due to the sticky substance), and ''{{wp|Flower|bloom}}''. It may also involve ''{{wp|glume}}'' (a leaf-like structure).
+
+Kusaihana may be derived from 臭い花 ''kusai hana'' (stinking flower).
+
+==In other languages==
+{{Other languages|type=grass|type2=poison
+|ja=クサイハナ ''Kusaihana''|jameaning=From {{tt|臭い花 ''kusai hana''|stinking flower}}
+|fr=Ortide|frmeaning=From ''{{wp|nettle|{{tt|ortie|nettle}}}}'' and ''{{tt|fétide|fetid, bad-smelling}}''
+|es=Gloom|esmeaning=Same as English name
+|de=Duflor|demeaning=From ''{{tt|Duft|scent}}'' and ''{{tt|Flor|bloom}}''
+|it=Gloom|itmeaning=Same as English name
+|ko=냄새꼬 ''Naemsaeko''|komeaning=From {{tt|냄새 ''naemsae''|smell}} and {{tt|꽃 ''kkot''|flower}}
+|zh_cmn=臭臭花 ''Chòuchòuhuā''|zh_cmnmeaning=From {{tt|臭 ''chòu''|foul}} {{wp|Reduplication|reduplicated}} and {{tt|花 ''huā''|flower}}
+|zh_yue=臭臭花 ''Chauchaufā''{{tt|*|Games}}<br>怪味花 ''Gwaaimeihfā''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|臭 ''chau''|foul}} reduplicated and {{tt|花 ''fā''|flower}}<br>From {{tt|怪味 ''gwaaimeih''|strange smell}} and {{tt|花 ''fā''|flower}}
+|he=גלום ''Glum''|hemeaning=Transcription of English name
+|hi=ग्लूम ''Gloom''|himeaning=Transcription of English name
+|is=Drungi{{tt|*|in the sub of Pikachu's Rescue Adventure}}|ismeaning=From ''{{tt|drungi|lethargy}}''
+|lt=Glūmius|ltmeaning=From the English name
+|ru=Глум ''Glum''|rumeaning=Transcription of English name
+|th=คุไซฮานะ ''Khusaihana''|thmeaning=Transcription of Japanese name
+}}
+
+<br clear="left">
+<!--
+==Related articles==
+
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0043|prev=Oddish|nextnum=0045|next=Vileplume}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Pokémon that evolve by Evolution stone]]
+[[Category:Pokémon that evolve using Leaf Stone]]
+[[Category:Pokémon that evolve using Sun Stone]]
+[[Category:Pokémon that lose a type upon evolving]]
+
+[[de:Duflor]]
+[[es:Gloom]]
+[[fr:Ortide]]
+[[it:Gloom]]
+[[ja:クサイハナ]]
+[[zh:臭臭花]]

@@ -1,0 +1,324 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Normal}}
+{{PokémonPrevNext/GO|species=Arboliva}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0929|prev=Dolliv|nextnum=0931|next=Squawkabilly|roundleft=bl|roundright=br}}
+{{PokémonPrevNext/Disambig|species=Arboliva}}
+|}
+{{Pokémon Infobox
+|name=Arboliva
+|jname=オリーヴァ
+|jtranslit=Orīva
+|tmname=Oliva
+|ndex=0930
+|type1=Grass
+|type2=Normal
+|category=Olive
+|height-ftin=4'07"
+|height-m=1.4
+|weight-lbs=106.3
+|weight-kg=48.2
+|abilityn=1
+|ability1=Seed Sower
+|ability2=
+|abilityd=Harvest
+|egggroupn=1
+|egggroup1=Grass
+|egggroup2=
+|eggcycles=20
+|evtotal=3
+|evhp=0
+|evat=0
+|evde=0
+|evsa=3
+|evsd=0
+|evsp=0
+|expyield=255
+|lv100exp=1059860
+|gendercode=127
+|color=Green
+|catchrate=45
+|body=12
+|pokefordex=arboliva
+|generation=9
+|friendship=50
+}}
+'''Arboliva''' ([[List of Japanese Pokémon names|Japanese]]: '''オリーヴァ''' ''Oliva'') is a dual-type {{2t|Grass|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Dolliv}} starting at level 35. It is the final form of {{p|Smoliv}}.
+
+==Biology==
+[[File:Lucius Arboliva oil.png|left|220px|thumb|Arboliva launching oil]]
+Arboliva is a Pokémon resembling a small olive tree. Its body is white on top, and brown and woody at the bottom. Its head is oval and contains thin, slanted, purple eyes that appear closed. The top of Arboliva's head and its neck are covered with leaves, and two large leavy branches protrude from either side of its upper body. These branches can be bent above Arboliva's head to resemble a wreath. There are three purplish olive fruits on each of these branches, for a total of six fruits. Arboliva's lower body flares out into multiple root-like portions, hiding what appears to be its thin legs at the center.
+
+Arboliva has a calm and compassionate nature, kind enough to share its nutrient-rich, aromatic oil with weakened Pokémon. However, when threatened, it will drive back enemies by launching its oil at them, with a force powerful enough to destroy a boulder.
+
+Arboliva and its pre-evolved forms are the [[signature move|only known Pokémon]] capable of learning the move {{m|Terrain Pulse}} by leveling up. Arboliva is also the [[Signature Ability|only known Pokémon]] that can have {{a|Seed Sower}} as an [[Ability]].
+
+===Evolution===
+Arboliva evolves from {{p|Dolliv}} and is the final form of {{p|Smoliv}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Grass
+|type2=Normal
+|no1=0928
+|name1=Smoliv
+|type1-1=Grass
+|type2-1=Normal
+|evo1=
+|no2=0929
+|name2=Dolliv
+|type1-2=Grass
+|type2-2=Normal
+|evo2=
+|no3=0930
+|name3=Arboliva
+|type1-3=Grass
+|type2-3=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Normal}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=86|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Arboliva SV.png|x200px]]
+|-
+| Arboliva in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Normal}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Paldea)|Arboliva|5★}})}}
+|}
+|}
+|}
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Normal
+|HP=78
+|Attack=69
+|Defense=90
+|SpAtk=125
+|SpDef=109
+|Speed=39
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Normal
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=0
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Arboliva|Grass|Normal|9}}
+{{learnlist/level9|1|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/level9|1|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|1|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|5|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|7|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|10|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|13|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|16|Flail|Normal|Physical|—|100|15||'''}}
+{{learnlist/level9|20|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|23|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/level9|29|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|34|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|39|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|46|Terrain Pulse|Normal|Special|50|100|10||'''}}
+{{learnlist/level9|52|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/level9|58|Petal Dance|Grass|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Arboliva|Grass|Normal|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Arboliva|Grass|Normal|9}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM190|Solar Blade|Grass|Physical|125|100|10||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10||'''}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM206|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10}}
+{{learnlist/tmf/9|Arboliva|Grass|Normal|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Arboliva|Grass|Normal|9}}
+{{learnlist/breed9|{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0547|Whimsicott}}|Memento|Dark|Status|—|100|10}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0191|Sunkern}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}{{MSP/H|0764|Comfey}}|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/breed9|{{bag/s|TM Normal|SV|TM193}}{{tt|*|No Pokémon in the Grass Egg Group can learn Weather Ball via level-up. However, the move is available via TM193 and can be passed down from the Bulbasaur line, Vileplume, Bellossom, the Bellsprout line, Meganium, the Sunkern line, the Lotad line, Nuzleaf, Shiftry, the Snover line, the Fomantis line, and the Smoliv line, or copied via Mirror Herb.}}|Weather Ball|Normal|Special|50|100|10||'''}}
+{{learnlist/breedf/9|Arboliva|Grass|Normal|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Arboliva|Grass|Normal|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Arboliva|Grass|Normal|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Normal}}
+{{Spindata/GO|col=6|type=Grass|ndex=0930
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=186
+|attack=219
+|defense=189
+|fast={{m|Razor Leaf}}, {{m|Tackle}}, {{m|Magical Leaf}}
+|special={{m|Seed Bomb}}, {{m|Energy Ball}}, {{m|Earth Power}}, {{m|Trailblaze}}{{tt|*|From December 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Grass
+|type2=Normal
+|no1=0928
+|name1=Smoliv
+|type1-1=Grass
+|type2-1=Normal
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 25}}
+|no2=0929
+|name2=Dolliv
+|type1-2=Grass
+|type2-2=Normal
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}
+|no3=0930
+|name3=Arboliva
+|type1-3=Grass
+|type2-3=Normal
+}}
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=normal}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0930}}-->
+{{Spritebox/HOME|ndex=0930}}
+{{Spritebox/Footer|930|Arboliva}}
+
+==In animation==
+===Main series===
+[[File:Lucius Arboliva.png|thumb|250px|Arboliva in {{aniseries|HZ}}]]
+====Major appearances====
+=====[[Lucius's Arboliva]]=====
+A {{pkmn2|giant}} Arboliva debuted at the end of ''[[HZ010|Nemona and Brassius and…]]'', reappearing in ''[[HZ011|Arboliva's Forest]]'' as the guardian of [[Arboliva's Forest]]. In the [[HZ012|next episode]], after the [[Rising Volt Tacklers]] has helped to heal the damage done to the forest by a wildfire, Arboliva returned to its [[Ancient Poké Ball]] and allowed itself to be taken under [[Liko]]'s care. In the same episode, it's revealed that it was one of [[Lucius]]'s Pokémon and one of the [[Six Heroes]].
+
+====Minor appearances====
+{{left clear}}
+
+==In the manga==
+==In the TCG==
+{{main|Arboliva (TCG)}}
+
+==Trivia==
+* Arboliva and its pre-Evolutions are the only {{type|Normal}} Pokémon in the {{egg3|Grass}}.
+
+===Origin===
+Arboliva may be based on an {{wp|olive|olive tree}}, likely referencing how Spain (the region Paldea is based on) is the {{wp|Olive#Global_production|biggest producer of olives}} in the world. Arboliva sometimes makes a pose resembling the {{wp|olive wreath}} in battle. Its calm temperament may be inspired by the symbolism of the {{wp|olive branch}}, which traditionally represents peace.
+
+Arboliva may also be inspired by {{wp|dryad}}s, given its humanoid appearance and compassionate nature. Specifically, it may be based on the {{wp|Hamadryad}}, dryads which lived in trees and were sometimes considered a part of the tree itself.
+
+====Name origin====
+Arboliva may be a combination of ''arbor'' or ''árbol'' (Spanish for tree), ''olive'' or ''oliva'' (olive in various Romance languages), and ''diva''.
+
+Oliva may be derived from ''oliva'' or a combination of ''olive'' and ''diva''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Normal
+|ja=オリーヴァ ''Oliva''|jameaning=From ''{{tt|oliva|olive in various Romance languages}}'', ''olive'', and ''diva''
+|fr=Arboliva|frmeaning=Same as English name
+|es=Arboliva|esmeaning=Same as English name
+|de=Olithena|demeaning=From ''Olive'' and ''{{wp|Athena|{{tt|Athena|Greek goddess of wisdom, whose symbol was the olive tree}}}}''
+|it=Arboliva|itmeaning=Same as English name
+|ko=올리르바 ''Ollireuba''|komeaning=From ''olive'', ''diva'', and possibly ''{{tt|hierba|Spanish for herb}}''
+|zh_cmn=奧利瓦 / 奥利瓦 ''Àolìwǎ''|zh_cmnmeaning=Transcription of Japanese name
+|zh_yue=奧利瓦 ''Ouleihngáh''|zh_yuemeaning=Mandarin-based transcription of Japanese name
+|hi=ऑलीर्वा ''Olirva''|himeaning=From ''olive'' and ''arbor''; similar to Japanese name
+|th=โอลีวา ''Oliwa''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Lucius's Arboliva]]
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass|type2=Normal}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0929|prev=Dolliv|nextnum=0931|next=Squawkabilly}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Olithena]]
+[[es:Arboliva]]
+[[fr:Arboliva]]
+[[it:Arboliva]]
+[[ja:オリーヴァ]]
+[[zh:奥利瓦]]

@@ -1,0 +1,450 @@
+{{PokémonPrevNext/Head|type=Ghost}}
+{{PokémonPrevNext/GO|species=Sinistea}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0853|prev=Grapploct|nextnum=0855|next=Polteageist|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Sinistea
+|jname=ヤバチャ
+|tmname=Yabacha
+|forme=3
+|form2=Phony Form
+|form3=Antique Form
+|image2=HOME0854 b.png
+|image3=HOME0854A b.png
+|ndex=0854
+|type1=Ghost
+|category=Black Tea
+|height-ftin=0'04"
+|height-m=0.1
+|weight-lbs=0.4
+|weight-kg=0.2
+|abilityn=d
+|ability1=Weak Armor
+|abilityd=Cursed Body
+|egggroupn=2
+|egggroup1=Mineral
+|egggroup2=Amorphous
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=62
+|lv100exp=1,000,000
+|gendercode=255
+|color=Purple
+|catchrate=120
+|body=01
+|pokefordex=sinistea
+|generation=8
+|friendship=50
+}}
+'''Sinistea''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤバチャ''' ''Yabacha'') is a {{type|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Polteageist}} when exposed to a [[Cracked Pot]] or a [[Chipped Pot]], depending on Sinistea's [[#Form data|form]].
+* The '''Phony Form'''<ref name="guide">[[Pokémon Sword & Pokémon Shield: The Official Galar Region Strategy Guide]]</ref><ref>[https://sg.portal-pokemon.com/play/pokedex/854 Sinistea | Phony Form | Pokédex | The official Pokémon Website in Singapore]</ref> (if it lacks a stamp of authenticity) requires a [[Cracked Pot]] to evolve.
+* The '''Antique Form'''<ref name="guide" /><ref>[https://sg.portal-pokemon.com/play/pokedex/854_1 Sinistea | Antique Form | Pokédex | The official Pokémon Website in Singapore]</ref> (if it has a stamp of authenticity) requires a [[Chipped Pot]] to evolve.
+
+It is [[Ecologically similar Pokémon|ecologically similar]] to {{p|Poltchageist}}; however, the two are separate species.
+
+==Biology==
+[[File:Sinistea cup anime.png|thumb|left|250px|A teacup before a Sinistea has possessed it]]
+Sinistea is a {{OBP|Pokémon|species}} said to be created when a lonely spirit possesses a cold, leftover cup of tea. It is one of the [[List of Pokémon by height|shortest]] Pokémon in existence. The teacup that Sinistea lives in is a famous piece of antique tableware; seafoam green in color with gold rims and a lacy pattern that resembles a face (and functioning as one, being able to change to express emotions). However, there are many forgeries in circulation.
+
+The swirl pattern on Sinistea's purple body serves as a weakness. Should a Sinistea get stirred, the swirl will disappear and cause it to get dizzy. Sinistea can absorb the life force of anyone who drinks it. While it can wait patiently, most of Sinistea's opportunities end up being short, as it tastes so bad that it is spat out immediately. Sinistea inhabits hotels and homes. The Antique Form of Sinistea is highly sought after by certain enthusiasts. These collectors dedicate considerable time and effort to prepare the perfect tea and teacup, hoping that a Sinistea will come and possess their selections. {{p|Poltchageist}} bears a resemblance to Sinistea, although the two species are biologically unrelated. 
+{{left clear}}
+
+===Forms===
+Sinistea has two separate forms: Phony Form and Antique Form. Telling either of these forms apart requires careful inspection; Antique Form Sinistea has a stamp of authenticity on the bottom of its cup, whereas Phony Form Sinistea lacks it. This stamp appears as a teal-colored emblem on the bottom inside rim of the cup.
+
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{ghost color}}; {{roundy|10px}} border: 3px solid #{{ghost color dark}}"
+|-
+| Phony Form
+|-
+| style="{{roundy|96px}} border: 2px solid #{{ghost color dark}}; background: #{{ghost color light}}; width:96px; height:96px"| [[File:HOME0854 b.png|100px]]
+|}
+|
+{| style="background: #{{ghost color}}; {{roundy|10px}} border: 3px solid #{{ghost color dark}}"
+|-
+| Antique Form
+|-
+| style="{{roundy|96px}} border: 2px solid #{{ghost color dark}}; background: #{{ghost color light}}; width:96px; height:96px"| [[File:HOME0854A b.png|100px]]
+|}
+|}
+
+===Evolution===
+Sinistea evolves into {{p|Polteageist}}.
+
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-2
+|pictype=art
+|type1=Ghost
+|no1=0854
+|name1=Sinistea
+|type1-1=Ghost
+|evo1=
+|no2=0855
+|name2=Polteageist
+|type1-2=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=335|reg2=Galar|label2=Crown Tundra|num2=132|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Form|Phony Form}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.}}
+{{Dex/Form|Antique Form}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=The swirl pattern in this Pokémon's body is its weakness. If it gets stirred, the swirl loses its shape, and Sinistea gets dizzy.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It absorbs the life-force of those who drink it. It waits patiently, but opportunities are fleeting—it tastes so bad that it gets spat out immediately.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=237|reg2=Kitakami|reg3=Blueberry|num3=127}}
+{{Dex/Form|Phony Form}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The soul of someone who died alone possessed some leftover tea. This Pokémon appears in hotels and houses.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Sinistea gets into your body when you drink it, and then it steals your vitality from within. It also tastes awful.}}
+{{Dex/Form|Antique Form}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Some fanatics will go to great pains to prepare the perfect tea and teacup, eagerly waiting for a Sinistea to come and possess their selections.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Sinistea lives in an antique teacup. As valuable as this Pokémon is, its awful taste remains unchanged.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{ghost color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{ghost color light}}; background:#{{ghost color light}} | [[File:Pokédex Image Sinistea SV.png|x200px]]
+|style="border:2px solid #{{ghost color light}}; background:#{{ghost color light}} | [[File:Pokédex Image Sinistea SV Blueberry.png|x200px]]
+|-
+| Sinistea in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Sinistea in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ghost}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Glimwood Tangle]]<br>[[Stony Wilderness/Dens|Stony Wilderness]], [[Watchtower Ruins/Dens|Watchtower Ruins]], [[South Lake Miloch/Dens|South Lake Miloch]]{{sup/8|Sh}}, [[Giant's Mirror/Dens|Giant's Mirror]]{{sup/8|Sh}} ([[Max Raid Battle]]) <small>'''Phony Form'''</small>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Old Cemetery]]<br>[[Giant's Bed/Dens|Giant's Bed]], [[Old Cemetery/Dens|Old Cemetery]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Six)|Area Six]]<br>East Province: [[East Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Sinistea - Phony Form|2★}}) <small>('''Phony Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Canyon Biome]], [[Chargestone Cavern]]}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+====In events====
+{{eventAvail/h|Language/Region|type=Ghost}}
+{{eventAvail|{{gameabbrev8|SwSh}}|2022 World Championships Sinistea|All|ExCeL London, United Kingdom|50|August 18 to 22, 2022|link=List of event Pokémon distributions in Pokémon Sword and Shield#2022 World Championships Sinistea}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ghost
+|HP=40
+|Attack=45
+|Defense=45
+|SpAtk=74
+|SpDef=54
+|Speed=50
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Sinistea|Ghost|Ghost|8}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|1|Withdraw|Water|Status|—|—|40}}
+{{learnlist/level9|6|Aromatic Mist|Fairy|Status|—|—|20}}
+{{learnlist/level9|12|Mega Drain|Grass|Special|40|100|15}}
+{{learnlist/level9|24|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level9|30|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|36|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/level9|42|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level9|48|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level9|54|Memento|Dark|Status|—|100|10}}
+{{learnlist/level9|60|Shell Smash|Normal|Status|—|—|15}}
+{{learnlist/levelf/9|Sinistea|Ghost|Ghost|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Sinistea|Ghost|Ghost|8}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM151|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Sinistea|Ghost|Ghost|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Sinistea|Ghost|Ghost|8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Ally Switch|Psychic|Status|—|—|15|grid=2}}
+{{learnlist/breedf/9|Sinistea|Ghost|Ghost|8}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg psychic color}}; border: 3px solid #{{tcg psychic color dark}}"
+|-
+! style="background: #{{tcg psychic color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg psychic color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Teatime}}
+| style="background:#fff; {{roundybr|5px}}" | [[Sinistea (Sword & Shield 89)]]
+|}
+
+===Side game data===
+====Phony Form====
+{{Spindata/Head|type=Ghost}}
+{{Spindata/GO|col=6|type=Ghost|ndex=0854
+|hatch=N/A
+|buddy=3
+|candy=Sinistea
+|evocandy=50
+|stamina=120
+|attack=96
+|defense=134
+|fast={{m|Astonish}}, {{m|Sucker Punch}}
+|special={{m|Shadow Ball}}, {{m|Psychic}}, {{m|Dark Pulse}}
+}}
+|}
+
+====Antique Form====
+{{Spindata/Head|type=Ghost}}
+{{Spindata/GO|col=6|type=Ghost|ndex=0854A
+|hatch=N/A
+|buddy=3
+|candy=Sinistea
+|evocandy=400
+|stamina=120
+|attack=96
+|defense=134
+|fast={{m|Astonish}}, {{m|Sucker Punch}}
+|special={{m|Shadow Ball}}, {{m|Psychic}}, {{m|Dark Pulse}}
+}}
+|}
+
+===Form data===
+Sinistea has two separate forms: Phony Form and Antique Form.<ref name="guide">[[Pokémon Sword & Pokémon Shield: The Official Galar Region Strategy Guide]]</ref> Its form is maintained through [[Evolution]] into {{p|Polteageist}} and cannot be changed.
+
+The Antique Form is rarer and has a stamp of authenticity hidden on the underside of its base. The only functional difference between the two forms is the [[Evolution item]] used by Sinistea to evolve into Polteageist: Phony Form Sinistea requires a [[Cracked Pot]], while Antique Form Sinistea requires a [[Chipped Pot]]. 
+
+Antique Form Sinistea does not obey typical {{DL|Pokémon breeding|Inheriting forms|form inheritance}} rules when breeding, and therefore cannot produce {{pkmn|Egg}}s that contain Antique Form Sinistea. All Sinistea that hatch from Eggs will always be Phony Form, regardless of the parent's form.
+
+In Japanese, the names of Sinistea's forms use 「フォルム」 ''form'', the term otherwise primarily used in the names of forms localized as Forme in English.
+
+{| class="roundy" style="margin:auto; text-align:center; background:#FFF"
+|-
+| class="roundy" width="50%" style="background:#{{grey color}}" | Phony Form<br>[[File:HOME854 b.png|150px]]<br>{{color2|000|Sinistea (Pokémon)|Sinistea}}
+
+| class="roundy" width="50%" style="background:#{{ghost color light}}" | Antique Form<br>[[File:HOME854A b.png|150px]]<br>{{color2|000|Sinistea (Pokémon)|Sinistea}}
+|}
+
+===Evolution data===
+====Phony Form====
+{{evobox-2
+|pictype=sprite
+|type1=Ghost
+|no1=HOME0854_b
+|name1=Sinistea
+|type1-1=Ghost
+|evo1={{Bag/s|Cracked Pot|SV}}<br>{{color2|000|Cracked Pot}}
+|no2=HOME0855_b
+|name2=Polteageist
+|type1-2=Ghost}}
+
+====Antique Form====
+{{evobox-2
+|pictype=sprite
+|type1=Ghost
+|no1=HOME0854A_b
+|name1=Sinistea
+|type1-1=Ghost
+|evo1={{Bag/s|Chipped Pot|SV}}<br>{{color2|000|Chipped Pot}}
+|no2=HOME0855A_b
+|name2=Polteageist
+|type1-2=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Ghost}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8/2Forms|ndex=854|form1=A b}}
+<!--{{Spritebox/9/2Forms|ndex=0854|form1=A b}}-->
+{{Spritebox/HOME/3Forms|ndex=0854|form1=_b|form2=A b}}
+{{Spritebox/Footer|854|Sinistea}}
+
+==In animation==
+[[File:RVT Sinistea.png|thumb|250px|Sinistea in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+A Sinistea debuted in ''[[JN091|The Spectral Express!]]'', where [[Allister]] asked it to put some tea into {{Ash}}'s mouth, who was possessed by a {{p|Spiritomb}}.
+
+A Phony Form Sinistea appeared in ''[[HZ030|Slip and Crash! A Mystery Pokémon?!]]'', born from [[Diana]]'s antique teacup when a {{p|Polteageist}} poured its tea into it. Along with Polteageist, it subsequently joined the [[Rising Volt Tacklers]] on their travels.
+
+====Minor appearances====
+A {{pkmn|Trainer}}'s Sinistea appeared in ''[[JN092|The Winding Path to Greatness!]]''.
+
+===Pokémon: Twilight Wings===
+A {{pkmn|Trainer}}'s Sinistea appeared in ''[[TW08|The Gathering of Stars]]''.
+
+==In the manga==
+[[File:Professor Magnolia Sinistea Polteageist Adventures.png|thumb|150px|Antique Form Sinistea in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+===={{MangaArc|Sword & Shield}}====
+[[Professor Magnolia]] owns a Sinistea and Polteageist, both in their Antique Form, as shown in ''[[PASS14|Teary!! The Voice of the Master]]''. She found them in [[Glimwood Tangle]] when her car crashed and she was forced to stop to fix it.
+{{-}}
+
+==In the TCG==
+{{main|Sinistea (TCG)}}
+==Trivia==
+* Sinistea is tied with Roaming Form {{p|Gimmighoul}} and {{p|Poltchageist}} as the [[List of Pokémon by height|shortest]] {{type|Ghost}} Pokémon.
+* Sinistea was designed by [[James Turner]].<ref name=JamesTurner>@JamesTurner_42 on [https://twitter.com/JamesTurner_42/status/1322295051058212866 Twitter]: Happy Halloween to all! Here’s a pumpkin-infused cup of Sinistea - a friendly tea ghost Pokémon I designed for Sword and Shield 🎃 ☕️</ref>
+* The Sinistea and Poltchageist lines are the only [[ecologically similar Pokémon]] that share a [[type]] and [[Egg Group]]s with each other, as well as the only ones with multiple forms.
+
+===Origin===
+Sinistea is based on a ghost (possibly a {{wp|poltergeist}}, a mischievous ghost that possesses objects) possessing a cup of tea,<ref name=JamesTurner /> which has {{wp|Tea in the United Kingdom|historical and cultural significance in the United Kingdom}}, the country [[Galar]] is based on. The way Sinistea holds its own cup references a way of holding a teacup with one's pinky finger sticking out,<ref>@JamesTurner_42 on [https://twitter.com/JamesTurner_42/status/1322296076477505536 Twitter]: Thank you, the pinky is important! 😆</ref> which is commonly and erroneously believed to be part of tea drinking etiquette. Additionally, the bit of tea hanging from Sinistea's rim resembles both a tongue and a tea bag tag.
+
+Sinistea's forms may be based on {{wp|porcelain}} forgeries. One way porcelain makers historically combatted forgeries was to create a {{wp|Seal (emblem)|stamp of authenticity}} on their products, hence the stamp under Antique Form Sinistea.
+
+====Name origin====
+Sinistea may be a combination of ''sinister'' and ''tea''.
+
+Yabacha may be a combination of やばい ''yabai'' (dangerous; terrible) and 茶 ''cha'' (tea).
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Ghost
+|ja=ヤバチャ ''Yabacha''|jameaning=From {{tt|やばい ''yabai''|dangerous; terrible}} and {{tt|茶 ''cha''|tea}}
+|fr=Théffroi|frmeaning=From ''{{tt|thé|tea}}'', ''{{tt|froid|cold}}'' and ''{{tt|effroi|terror}}''
+|es=Sinistea|esmeaning=Same as English name
+|de=Fatalitee|demeaning=From ''fatal'' or ''{{tt|fatalité|French for fatality}}'' and ''{{tt|Tee|tea}}''
+|it=Sinistea|itmeaning=Same as English name
+|ko=데인차 ''Dancha''|komeaning=From ''danger'' and {{tt|차 (茶) ''cha''|tea}}
+|zh_cmn=來悲茶 / 来悲茶 ''Láibēichá''|zh_cmnmeaning=From {{tt|來 / 来 ''lái''|come}}, {{tt|悲 ''bēi''|sorrow}}, {{tt|茶 ''chá''|tea}}, and a pun of {{tt|來杯茶 / 来杯茶 ''lái bēi chá''|have some tea}}
+|zh_yue=來悲茶 ''Lòihbēichàh''|zh_yuemeaning=From {{tt|來 ''lòih''|come}}, {{tt|悲 ''bēi''|sorrow}}, and {{tt|茶 ''chàh''|tea}}
+|hi=चायकिरू ''Chaikiroo''|himeaning=From {{tt|चाय ''chāy''|tea}}
+|th=ยาบาฉะ ''Yabacha''|thmeaning=Transcription of Japanese name
+|vi=Yabacha|vimeaning=Transcription of Japanese name}}
+{{-}}
+<div style="display:inline-block">
+''Phony Form''
+{{langtable|color={{ghost color}}|bordercolor={{ghost color dark}}
+|ja=がんさくフォルム ''Counterfeit Forme''
+|zh_yue=贗品形態 ''{{tt|Ngaahnbán Yìhngtaai|Counterfeit Forme}}''
+|zh_cmn=贗品形態 / 赝品形态 ''{{tt|Yànpǐn Xíngtài|Counterfeit Forme}}''
+|fr=Forme Contrefaçon
+|de=Fälschungsform
+|hi=फ़ेक फ़ॉर्म ''Fake Form''
+|id=Bentuk Imitasi
+|it=Forma Contraffatta
+|ko=위작품 ''{{tt|Wijakpum|Counterfeit Work}}''
+|ms=Bentuk Palsu
+|pt_br=Forma Falsificada
+|es=Forma Arcaica
+|th=ฟอร์มของปลอม
+|tr=Sahte Formu
+|vi=Dạng Rởm
+}}</div>
+<div style="display:inline-block">
+''Antique Form''
+{{langtable|color={{ghost color}}|bordercolor={{ghost color dark}}
+|ja=しんさくフォルム ''Authentic Forme''
+|zh_yue=真品形態 ''{{tt|Jānbán Yìhngtaai|Authentic Forme}}''
+|zh_cmn=真品形態 / 真品形态 ''{{tt|Zhēnpǐn Xíngtài|Authentic Forme}}''
+|fr=Forme Authentique
+|de=Originalform
+|hi=ऐंटीक फ़ॉर्म ''Antique Form''
+|id=Bentuk Antik Asli
+|it=Forma Autentica
+|ko=진작품 ''{{tt|Jinjakpum|Authentic Work}}''
+|ms=Bentuk Antik
+|pt_br=Forma Autêntica
+|es=Forma Genuina
+|th=ฟอร์มของแท้
+|tr=Antika Formu
+|vi=Dạng Thật
+}}</div>
+
+==Related articles==
+* [[List of Pokémon with form differences]]
+* {{p|Poltchageist}}
+
+==References==
+<references/>
+
+==External links==
+
+{{Ecologically similar Pokémon}}
+
+{{PokémonPrevNext/Head|type=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0853|prev=Grapploct|nextnum=0855|next=Polteageist}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with different forms]]
+[[Category:Pokémon that evolve using Chipped Pot]]
+[[Category:Pokémon that evolve using Cracked Pot]]
+
+[[de:Fatalitee]]
+[[es:Sinistea]]
+[[fr:Théffroi]]
+[[it:Sinistea]]
+[[ja:ヤバチャ]]
+[[zh:来悲茶]]

@@ -1,0 +1,668 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/GO|species=Venomoth}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0048|prev=Venonat|nextnum=0050|next=Diglett|round=none}}
+{{PokémonPrevNext/Disambig|species=Venomoth}}
+|}
+{{Pokémon Infobox
+|name=Venomoth
+|jname=モルフォン
+|jtranslit=Morufon
+|tmname=Morphon
+|ndex=0049
+|typebox=1
+|type1=Bug
+|type2=Poison
+|category={{tt|Poison Moth|POISONMOTH before Generation III}}
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=27.6
+|weight-kg=12.5
+|abilityn=d
+|ability1=Shield Dust
+|ability2=Tinted Lens
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Wonder Skin
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|evtotal=2
+|evsa=1
+|evsp=1
+|expyield=158
+|oldexp=138
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|catchrate=75
+|body=13
+|pokefordex=venomoth
+|generation=1
+|friendship=70
+}}
+'''Venomoth''' ([[List of Japanese Pokémon names|Japanese]]: '''モルフォン''' ''Morphon'') is a dual-type {{2t|Bug|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s from {{p|Venonat}} starting at [[level]] 31.
+
+==Biology==
+[[File:VenomothSilverTempest2.jpg|thumb|left|180px|Venomoth's translucent wings]]
+Venomoth is a {{wp|lepidoptera|lepidopteran}} {{wp|insectoid|insect}} {{OBP|Pokémon|species}} whose body is varying shades of purple. Its head and thorax are both light purple, and it has bulbous, round, light blue eyes, a small mandible, and a three-point crest on its head. Tucked close to its thorax are three pairs of tiny, whitish legs. Its abdomen is paler with several black, zigzagging stripes encircling it. It has two pairs of pale purple moth-like wings with thin black {{wp|Insect wing#Venation|venation}}. Its official artwork and various {{Trading Card Game}} cards depict the wings as translucent.<ref>Depicted on the {{TCG|Venomoth}} cards [[Venomoth-GX (Unbroken Bonds 12)|Unbroken Bonds 12]], [[Venomoth (Silver Tempest 2)|Silver Tempest 2]], and [[Venomoth (151 49)|151 49]].</ref>
+
+Venomoth's wings are covered in dust-like scales that vary in color depending on their toxic capability. Dark scales are poisonous, while lighter scales can cause paralysis. These scales are released when Venomoth flutters its wings and leak out poison once they make contact with the skin. Venomoth lives in dense {{DL|List of Pokémon by habitat|Forest Pokémon|temperate forests}} with thick undergrowth and little light. As a nocturnal Pokémon, Venomoth comes out at night to hunt for its favorite prey. It prefers to feed on insects that gather around light sources, and Venomoth is attracted to bright lights itself. As stated in [[PS003|the third chapter of Pokémon Adventures]], Venomoth has a short lifespan.
+{{left clear}}
+
+===Evolution===
+Venomoth evolves from {{p|Venonat}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0048
+|name1=Venonat
+|type1-1=Bug
+|type2-1=Poison
+|evo1=
+|no2=0049
+|name2=Venomoth
+|type1-2=Bug
+|type2-2=Poison}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=bug|type2=poison}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=049}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.}}
+{{Dex/Entry1|v=Yellow|entry=The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=The powder on its wings is poisonous. It scatters the powder with every flap, so you may be poisoned if you are downwind.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=109}}
+{{Dex/Entry1|v=Gold|entry=When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.}}
+{{Dex/Entry1|v=Silver|entry=The powder on its wings is poisonous if it is dark in color. If it is light, it causes paralysis.}}
+{{Dex/Entry1|v=Crystal|entry=The scales it scatters will paralyze anyone who touches them, making that person unable to stand.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=When it attacks, it flaps its large wings violently to scatter its poisonous powder all around. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>The powder on its wings is poisonous if it is dark in color. If it is light, it causes paralysis. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=049}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Venomoth</sc> is {{pkmn2|nocturnal}} - it is a {{ScPkmn}} that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=<sc>Venomoth</sc> are nocturnal--they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.}}
+{{Dex/Entry1|v=FireRed|entry=The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.}}
+{{Dex/Entry1|v=LeafGreen|entry=The dustlike scales covering its wings are color-coded to indicate the kinds of poison it has.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=110}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.}}
+{{Dex/Entry1|v=HeartGold|entry=When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.}}
+{{Dex/Entry1|v=SoulSilver|entry=The powder on its wings is poisonous if it is dark in hue. If it is light in hue, it causes paralysis.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=The scales it scatters will paralyze anyone who touches them, making that person unable to stand.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|entry=Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=049}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=257|reg2=Kitakami|reg3=Blueberry|num3=9}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{poison color dark}}; background:#{{bug color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{poison color dark}}; background:#{{bug color light}}; {{roundy|5px}};" | [[File:Pokédex Image Venomoth SV.png|x200px]]
+| style="border:2px solid #{{poison color dark}}; background:#{{bug color light}}; {{roundy|5px}};" | [[File:Pokédex Image Venomoth SV Blueberry.png|x200px]]
+|-
+| Venomoth in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Venomoth in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=bug|type2=poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{safari|Kanto}}, {{ka|Victory Road}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{safari|Kanto}}, {{ka|Victory Road}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|v=Yellow|area=[[Route]]s {{rtn|14|Kanto}} and {{rtn|15|Kanto}}, [[Cerulean Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|24|Kanto}} and {{rtn|25|Kanto}}{{sup/t|N}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, and {{rtn|43|Johto}}{{sup/t|N}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{safari|Kanto}}, [[Berry Forest]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|229|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|229|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|24|Kanto}} and {{rtn|25|Kanto}}{{sup/t|N}}}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Dreamyard]] ({{DL|Tall grass|dark grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Venonat}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Bug-type Safari|Bug]] and [[Friend Safari#Poison-type Safari|Poison]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Mirage Islands]] (west of {{rt|104|Hoenn}}, west of [[Dewford Town]], north of {{rt|124|Hoenn}}, south of {{rt|134|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Route]]s {{rtn|14|Kanto}} and {{rtn|15|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|229|Sinnoh}} ([[Poké Radar]])<br>[[Grand Underground]] - [[Spacious Cave]], [[Grassland Cave]], [[Swampy Cave]], [[Riverbank Cave]], [[Still-Water Cavern]], [[Sunlit Cavern]], [[Bogsunk Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[Tagtree Thicket]]<br>North Province: [[North Province (Area Two)|Area Two]], [[Casseroya Lake]]<br>[[Area Zero]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Venomoth|3★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Venonat}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 1]], [[Huge Storage 4]], Endless Level 57, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Venonat}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mt. Horn]] (8F-14F), [[Landslide Cave]] (B1F-B12F), [[Mt. Mistral]] (1F-19F), [[Midnight Forest]] (B1F-B21F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mt. Horn]] (8F-14F), [[Landslide Cave]] (B1F-B12F), [[Mt. Mistral]] (1F-19F), [[Midnight Forest]] (B1F-B21F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode B & S)</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#All Aboard!|Model Train Room: All Aboard!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 3|Infinite Ruins: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Obsidian Shrine|Black Realm: Obsidian Shrine]] <small>(All Areas)</small>, [[Distortion Land#Breezy Grasslands|Distortion Land: Breezy Grasslands]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Butterfree Sea]], [[Bulbasaur Sea]], [[Rayquaza Sea]], [[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Sky Tower]] (21F-27F), [[Purity Forest]] (86F-98F)<br/>Fainted Pokémon: [[Buried Relic]], [[Wyvern Hill]], [[Far-Off Sea]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#20th release|''Pokémon Safari'']] <small>(20th release)</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync/player|egg|Venonat}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Bug|type2=Poison}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Gold Leaf|100|rows=2}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|FireRed|LeafGreen|Pokémon FireRed and LeafGreen Versions}}
+{{HeldItems/Items1|SilverPowder|5}}
+{{HeldItems/Games1|XD|Pokémon XD: Gale of Darkness}}
+{{HeldItems/Items1|SilverPowder|100}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Shed Shell|5|rows=7}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black|White|tcolor1=FFF|Pokémon Black and White Versions}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=FFF|tcolor2=FFF|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Poison
+|HP=70
+|Attack=65
+|Defense=60
+|SpAtk=90
+|SpDef=75
+|Speed=90
+|Special=90
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Poison
+|Speed=3
+|SpeedMax=3
+|Power=2
+|PowerMax=4
+|Technique=3
+|TechniqueMax=3
+|Stamina=1
+|StaminaMax=3
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=bug
+|type2=poison
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=50
+|Ground=100
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=25
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|gen1bug=yes
+|gen1poison=yes
+|oldbug=2
+|oldpoison=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Venomoth|Bug|Poison|1}}
+{{learnlist/level9|1|Quiver Dance|Bug|Status|—|—|20}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Disable|Normal|Status|—|100|20}}
+{{learnlist/level9|1|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Air Slash|Flying|Special|75|95|15}}
+{{learnlist/level9|11|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/level9|13|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/level9|17|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level9|23|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|25|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level9|29|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/level9|37|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/level9|41|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/level9|47|Poison Fang|Poison|Physical|50|100|15||'''}}
+{{learnlist/level9|55|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/levelf/9|Venomoth|Bug|Poison|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Venomoth|Bug|Poison|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10}}
+{{learnlist/tmf/9|Venomoth|Bug|Poison|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Venomoth|Bug|Poison|2}}
+{{learnlist/breed9|{{MSP/H|0123|Scyther}}{{MSP/H|0212|Scizor}}{{MSP/H|0900|Kleavor}}{{MSP/H|0167|Spinarak}}{{MSP/H|0168|Ariados}}{{MSP/H|0283|Surskit}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0738|Vikavolt}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|Agility|Psychic|Status|—|—|30}}
+{{learnlist/breed9|{{MSP/H|0283|Surskit}}|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/breed9|{{MSP/H|0168|Ariados}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0401|Kricketot}}{{MSP/H|0415|Combee}}{{MSP/H|0540|Sewaddle}}{{MSP/H|0541|Swadloon}}{{MSP/H|0542|Leavanny}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0636|Larvesta}}{{MSP/H|0637|Volcarona}}{{MSP/H|0664|Scatterbug}}{{MSP/H|0736|Grubbin}}{{MSP/H|0737|Charjabug}}{{MSP/H|0738|Vikavolt}}{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}{{MSP/H|0953|Rellor}}{{MSP/H|0954|Rabsca}}{{tt|*|Larvesta learned Bug Bite via level-up prior to Version 2.0.1; it can still learn Bug Bite via TM182}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Morning Sun|Normal|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0637|Volcarona}}|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0207|Gligar}}{{MSP/H|0472|Gliscor}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}{{MSP/H|0402|Kricketune}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0636|Larvesta}}{{MSP/H|0637|Volcarona}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|Screech|Normal|Status|—|85|40}}
+{{learnlist/breed9|{{MSP/H|0205|Forretress}}|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/breed9|{{bag/s|TM Poison|SV|TM045}}{{tt|*|No Pokémon in the Bug Egg Group learn this move via level-up; however, it is available as a TM and can be passed down from the Venonat line, the Spinarak line, the Pineco line, and the Gligar line, or copied with Mirror Herb from another Pokémon.}}|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/breedf/9|Venomoth|Bug|Poison|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Venomoth|Bug|Poison|1}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Venomoth|Bug|Poison|1}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Poison}}
+{{Spindata/Pinball|col=3|type=Bug|ndex=049|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=049|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=049
+|body=1
+|rate=Evolve
+|area=Secretive Forest
+|P1=I'll dump venomous powder on foes with every flap of my wings!
+|P2=My health is half gone.
+|P3=I'm about to crash... I can barely flap my wings...
+|PL=Yes! I leveled! My toxins powered up, too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=049
+|body=1
+|rate=-4.5
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=049
+|coset=3
+|conto={{p|Pidgey}}, {{p|Tangela}}
+|recruitment=Introduced by {{p|Pidgey}}
+|P1=Scattering scales, I flap my wings!
+|P2=My body's going numb...
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=049
+|walk=1.5
+|hp=53
+|attack=77
+|defense=52
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=049
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=049|num=751
+|min=60
+|max=125
+|raisemaxlevel=15
+|skill=Sleep Combo
+|skilldesc=Increases damage done by combos if the foe is asleep.
+}}
+|-
+{{Spindata/GO
+| col = 6
+| type = Bug
+| ndex = 049
+| hatch = N/A
+| buddy = 3
+| candy = Venonat
+| evolution = N/A
+| stamina = 172
+| attack = 179
+| defense = 143
+| fast = {{m|Infestation}}{{tt|*|From February 16, 2017 onward}}, {{m|Confusion}}, {{m|Bug Bite}}{{tt|†|Prior to February 16, 2017}}, {{m|Psywave}}{{tt|*|From March 4, 2025 onward}}
+| special = {{m|Silver Wind}}{{tt|*|From February 16, 2017 onward}}, {{m|Psychic}}, {{m|Bug Buzz}}, {{m|Poison Fang}}{{tt|*|Prior to February 16, 2017 and from January 23, 2020 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0048
+|name1=Venonat
+|type1-1=Bug
+|type2-1=Poison
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 31}}
+|no2=0049
+|name2=Venomoth
+|type1-2=Bug
+|type2-2=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Poison}}
+{{Spritebox/1|ndex=049}}
+{{Spritebox/2|ndex=049}}
+{{Spritebox/3|ndex=049}}
+{{Spritebox/4|ndex=049}}
+{{Spritebox/5|ndex=049}}
+{{Spritebox/6|ndex=049|crop=112}}
+{{Spritebox/7/PE|ndex=049|crop=102|PEcrop=177}}
+<!--{{Spritebox/8/BDSP|ndex=049}}-->
+<!--{{Spritebox/9|ndex=0049}}-->
+{{Spritebox/HOME|ndex=0049}}
+{{Spritebox/Footer|049|Venomoth}}
+
+==In animation==
+[[File:Venomoth anime.png|thumb|250px|Venomoth in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+=====[[Goh's Venomoth]]=====
+In ''[[JN006|Working My Way Back to Mew!]]'', [[Goh]] caught a Venomoth. It has since made further appearances in {{aniseries|JN}}.
+
+=====[[Tracey's Venomoth]]=====
+In ''[[JN147|The Rainbow and the Pokémon Master!]]'', {{Tracey}}'s {{p|Venonat}} was revealed to have evolved into Venomoth.
+
+=====Other=====
+Venomoth debuted in ''[[EP032|The Ninja Poké-Showdown]]'', where [[Koga]]'s Venonat evolved into one during a [[Gym]] {{pkmn|battle}} against {{Ash}}. It battled {{AP|Pidgeotto}} and {{AP|Charmander}} before the match was interrupted by {{TRT}}.
+
+In ''[[AG013|All Things Bright and Beautifly!]]'', {{an|Chaz}} used a Venomoth during the [[Rustboro City]] [[Pokémon Contest]]. During the Contest, it was able to advance to the [[Contest Battle|Battle Stage]] and reach the final round, where it went up against [[Janet]]'s {{p|Beautifly}}. Although both {{pkmn|Coordinator}}s gave it everything they had, Janet managed to defeat Chaz and won herself the Rustboro [[Ribbon]].
+
+In ''[[AG128|Shocks and Bonds]]'', {{ho|Katie}} used a Venomoth during her battle with {{Ash}} during the [[Ever Grande Conference]]. Venomoth's {{m|Disable}} caused {{AP|Torkoal}} to be unable to use {{m|Iron Defense}}, so that her {{p|Golduck}} could knock out the Coal Pokémon with {{m|Hydro Pump}}. In [[AG129|the following episode]], it used Disable once again to prohibit {{AP|Swellow}} from using {{m|Peck}}. Despite this, it was eventually defeated by Swellow.
+
+====Minor appearances====
+A Venomoth appeared at the beginning of ''[[M01|Mewtwo Strikes Back]]'' and its remake ''[[M22|Mewtwo Strikes Back—Evolution]]'', under the ownership of [[Raymond]]. Alongside two of his other Pokémon, it fought [[Ash's Pikachu]], only for all of them to be defeated with {{m|Thunderbolt}}.
+
+A Venomoth appeared in ''[[EP034|The Kangaskhan Kid]]''.
+
+In ''[[EP075|Round One - Begin!]]'', a {{pkmn|Trainer}}'s Venomoth competed in the [[Indigo Plateau Conference]].
+
+In ''[[EP080|Friends to the End]]'', [[Assunta]] used a Venomoth to battle [[Ritchie]]'s {{p|Butterfree}}, Happy, during the Indigo Plateau Conference.
+
+In ''[[EP097|Tracey Gets Bugged]]'', a Venomoth was on [[Murcott Island]].
+
+In ''[[EP103|Misty Meets Her Match]]'', [[Rudy]]'s Venomoth was at the [[Trovita Gym]].
+
+In ''[[M02|The Power of One]]'', multiple Venomoth sensed the disturbance caused by [[Lawrence III]].
+
+A Venomoth appeared in a fantasy in ''[[EP116|The Rivalry Revival]]''.
+
+In ''[[EP121|Illusion Confusion!]]'', a group of {{p|Haunter}} and {{p|Gengar}} created the illusion of a Venomoth.
+
+In ''[[EP161|The Bug Stops Here]]'', a Venomoth was prompted to use {{m|Stun Spore}} after being scared by [[Jessie]], who was dressed as a Venomoth in order to attract {{type|Bug}} Pokémon.
+
+A Venomoth appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+Multiple Venomoth appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A Venomoth appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A {{pkmn|Coordinator}}'s Venomoth appeared in ''[[AG167|What I Did for Love!]]''.
+
+A Venomoth appeared in ''[[AG176|The Ole' Berate and Switch!]]'', under the ownership of a {{tc|Team Rocket Grunt}}.
+
+In ''[[DP077|Staging a Heroes' Welcome!]]'', a Coordinator's Venomoth competed in the [[Appeal|Performance Stage]] of the [[Wallace Cup]].
+
+A Venomoth appeared in a flashback in ''[[DP099|A Trainer and Child Reunion!]]''.
+
+A Venomoth made a cameo appearance in ''[[M12|Arceus and the Jewel of Life]]''.
+
+In ''[[M20|I Choose You!]]'', a Venomoth fell under the control of {{OBP|Marshadow|M20}}.
+
+A Trainer's Venomoth appeared in ''[[HZ050|Trending Terastallization! Dance, Dance, Quaxly!]]''.
+
+Multiple Venomoth appeared in ''[[HZ080|Total-lie Awesome Pokémon in Area Zero?!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP032|Venomoth|Ash's Pokédex|Venomoth, an evolved form of {{p|Venonat}}. Tiny scales on its wings disperse various spores when they are flapped.}}
+{{Animedexfooter/Pokémon|Kanto}}
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', a Venomoth was used to provide special effects for the [[Kimono Girl]]s' performance.
+
+A Venomoth appeared in ''[[PE08|The Discovery]]'', under the ownership of a {{tc|Bug Catcher}}. It was used to challenge {{ga|Green}} to a battle and lost almost immediately.
+
+==In the manga==
+[[File:Sabrina Venomoth Adventures.png|thumb|200px|Venomoth in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Venomoth debuted in ''[[PS003|The Secret of Kangaskhan]]'', where {{adv|Blue}} defeated a {{pkmn2|wild}} one but didn't {{pkmn2|caught|catch}} it because he already had one. This was the first Pokémon to be shown with a [[Pokédex]] entry.
+
+A Venomoth appeared in ''[[PS012|Wake Up—You're Snorlax!]]'' when {{adv|Red}} participated in the bike race held in {{rt|11|Kanto}}.
+
+In ''[[PS073|Valiant Venomoth!]]'', [[Sabrina]] used a Venomoth in a {{pkmn|battle}} against [[Lorelei]].
+
+The {{gdis|Battle Factory|III}} rented a Venomoth, which was stolen by [[Guile Hideout]] in ''[[PS315|Skirting Around Surskit I]]''.
+
+In ''[[PS422|Interrupting Ivysaur]]'', a Venomoth under the ownership of a {{tc|Veteran}} named Beck appeared during {{adv|Platinum}}'s challenge at the [[Battle Arcade]].
+
+A Venomoth appeared in ''[[PS446|Weavile Wobbles But It Won't Fall Down]]'', under the ownership of a {{tc|Double Team}} at the {{safari|Johto}}.
+
+Two Venomoth were used by [[Team Flare]] in ''[[PS592|Zygarde Agitated]]''.
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS003]]|The dust-like scales covering its wings are color coded to indicate the kinds of poison it has. It has a short life span, and appears to be the evolved form of a Venonat.}}
+{{Mangadexfooter}}
+
+===Pokémon Chapter Books===
+Jet's Venomoth appeared in [[Race to Danger]].
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Venomoth appeared in ''[[GDZ03|A Match For Pokémon]]''.
+
+==In the TCG==
+{{main|Venomoth (TCG)}}
+
+==Trivia==
+[[File:049Venomoth RB.png|thumb|150px|[[Ken Sugimori]] artwork of Venomoth from {{game|Red and Blue|s}}]]
+* Venomoth shares its {{pkmn|category}} name with {{p|Dustox}}. They are both known as the Poison Moth Pokémon.
+* In early official art, Venomoth had yellow spots on the back of its wings. This was removed when later official artwork was released.
+** In {{2v2|Ruby|Sapphire}}, Venomoth's sprite color set contains 2 shades of yellow that go unused.
+* Venomoth's {{v2|Crystal}} sprite is different from its {{2v2|Gold|Silver}} sprite, making it one of the few Pokémon to have three different sprites in [[Generation II]].
+* Venomoth and {{p|Venonat|its pre-evolved form}} are the Pokémon that went the longest without appearing in a regional [[Pokédex]], excluding their appearances in remakes: prior to the release of {{g|Scarlet and Violet}}, their last appearance in a regional Pokédex was in Crystal, almost 22 years earlier.
+
+===Origin===
+Venomoth seems to be based on {{wp|Uraniidae|swallowtail moths}}, many of which are toxic. Its face and insect diet suggest that it may also draw inspiration from {{wp|Hemerobiiformia|lacewings}}, which, like many moths, are attracted to lights at night. Specifically, it may be a play on ''moth lacewing'' (family {{wp|Ithonidae}}).
+
+Its {{Shiny}} coloration is similar to a {{wp|Morpho rhetenor|blue morpho}} butterfly.
+
+====Name origin====
+Venomoth may be a combination of ''{{wp|venom}}'' and ''moth''.
+
+Morphon may be derived from ''{{wp|metamorphosis}}'' or the butterfly genus ''{{wp|Morpho}}''.
+
+==In other languages==
+{{Other languages|type=bug|type2=poison
+|ja=モルフォン ''Morphon''|jameaning=  From ''{{wp|metamorphosis}}'' or the genus ''{{wp|Morpho}}''
+|fr=Aéromite|frmeaning=From {{tt|''aéro-''|aero- (Greek prefix for air)}} and ''{{tt|mite|moth}}''
+|es=Venomoth|esmeaning=Same as English name
+|de=Omot|demeaning=From ''venom'' and ''{{tt|Motte|moth}}''
+|it=Venomoth|itmeaning=Same as English name
+|ko=도나리 ''Donari''|komeaning=From {{tt|독 (毒) ''dok''|poison}}, {{tt|날다 ''nalda''|fly}}, and {{tt|～이 ''-i''|diminutive suffix}}
+|zh_cmn=摩魯蛾 / 摩鲁蛾 ''Mólǔ'é''{{tt|*|Games}}<br>末入蛾 ''Mòrù'é''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From the partial transcription of Japanese name and {{tt|蛾 ''é''|moth}}<br>From the partial transcription of Japanese name, {{tt|粉末 ''fěnmò''|powder, dust}}, and {{tt|蛾 ''é''|moth}}
+|zh_yue=摩魯蛾 ''Mōlóuh'ngòh''{{tt|*|Games}}<br>魔魯風 ''Mōlóuhfūng''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From the partial transcription of Japanese name and {{tt|蛾 ''ngòh''|moth}}<br>From the transcription of Japanese name and {{tt|風 ''fūng''|wind}}
+|hi=वेनोमॉथ ''Venomoth''|himeaning=Transcription of English name
+|lt=Venomotas|ltmeaning=From the English name
+|ru=Веномот ''Venomot''|rumeaning=Transcription of English name
+|th=มอร์ฟอน ''Mofon''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==Notes==
+{{reflist}}
+
+==Related articles==
+* [[Tracey's Venomoth]]
+* [[Goh's Venomoth]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0048|prev=Venonat|nextnum=0050|next=Diglett}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+
+[[de:Omot]]
+[[es:Venomoth]]
+[[fr:Aéromite]]
+[[it:Venomoth]]
+[[ja:モルフォン]]
+[[zh:摩鲁蛾]]

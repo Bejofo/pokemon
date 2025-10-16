@@ -1,0 +1,291 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/GO|species=Flittle}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0954|prev=Rabsca|nextnum=0956|next=Espathra|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Flittle
+|jname=ヒラヒナ
+|tmname=Hirahina
+|ndex=0955
+|type1=Psychic
+|category=Frill
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=3.3
+|weight-kg=1.5
+|abilityn=2
+|ability1=Anticipation
+|ability2=Frisk
+|abilityd=Speed Boost
+|egggroupn=1
+|egggroup1=Flying
+|egggroup2=
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=1
+|expyield=51
+|lv100exp=1059860
+|gendercode=127
+|color=Yellow
+|catchrate=120
+|body=07
+|pokefordex=flittle
+|generation=9
+|friendship=50
+}}
+'''Flittle''' ([[List of Japanese Pokémon names|Japanese]]: '''ヒラヒナ''' ''Hirahina'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Espathra}} starting at [[level]] 35.
+
+==Biology==
+Flittle is a small Pokémon resembling a bird chick, with a yellow body, large blue eyes with a lavender triangular mark between them, and a small lavender mouth. It has white frills on its head and both yellow and pink frills extending from its belly, which it uses to emit psychic energy. Its pointed feet are extremely small and appear to serve no use in movement, dangling from its body as it levitates above the ground.
+
+Flittle spends most of its time roaming wastelands and mountainous regions. Flittle is also known to be quite vengeful. Should anyone steal Flittle's berries, it will chase after them for revenge.
+
+===Evolution===
+Flittle evolves into {{p|Espathra}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Psychic
+|pictype=art
+|no1=0955
+|name1=Flittle
+|type1-1=Psychic
+|evo1=
+|no2=0956
+|name2=Espathra
+|type1-2=Psychic}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=263|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{psychic color dark}}; background:#{{psychic color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{psychic color light}}; background:#{{psychic color light}} | [[File:Pokédex Image Flittle SV.png|x200px]]
+|-
+| Flittle in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]], [[South Province (Area Six)|Area Six]]<br>East Province: [[East Province (Area Two)|Area Two]]<br>West Province: [[West Province (Area One)|Area One]], [[Asado Desert]]<br>North Province: [[North Province (Area One)|Area One]], [[Dalizapa Passage]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Flittle|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Psychic
+|HP=30
+|Attack=35
+|Defense=30
+|SpAtk=55
+|SpDef=30
+|Speed=75
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Flittle|Psychic|Psychic|9}}
+{{learnlist/level9|1|Peck|Flying|Physical|35|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|5|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level9|8|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level9|11|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/level9|15|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|19|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level9|24|Pluck|Flying|Physical|60|100|20}}
+{{learnlist/level9|29|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|34|Uproar|Normal|Special|90|100|10}}
+{{learnlist/levelf/9|Flittle|Psychic|Psychic|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Flittle|Psychic|Psychic|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM019|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM138|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tmf/9|Flittle|Psychic|Psychic|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Flittle|Psychic|Psychic|9}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Ally Switch|Psychic|Status|—|—|15|grid=7}}
+{{learnlist/breed9|{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}|Hypnosis|Psychic|Status|—|60|20|grid=7}}
+{{learnlist/breed9|{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}{{MSP/H|0580|Ducklett}}{{MSP/H|0581|Swanna}}{{MSP/H|0661|Fletchling}}{{MSP/H|0662|Fletchinder}}{{MSP/H|0663|Talonflame}}{{MSP/H|0701|Hawlucha}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}{{MSP/H|0731|Pikipek}}{{MSP/H|0732|Trumbeak}}{{MSP/H|0733|Toucannon}}{{MSP/H|0741|Oricorio}}{{MSP/H|0931|Squawkabilly}}{{MSP/H|0940|Wattrel}}{{MSP/H|0941|Kilowattrel}}{{MSP/H|0973|Flamigo}}|Roost|Flying|Status|—|—|5|grid=7}}
+{{learnlist/breedf/9|Flittle|Psychic|Psychic|9}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/GO|col=6|type=Psychic|ndex=0955
+|hatch=N/A
+|buddy=3
+|candy=Flittle
+|evocandy=50
+|stamina=102
+|attack=105
+|defense=60
+|fast={{m|Peck}}, {{m|Confusion}}
+|special={{m|Psybeam}}, {{m|Psyshock}}, {{m|Psychic}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Psychic
+|pictype=art
+|no1=0955
+|name1=Flittle
+|type1-1=Psychic
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}
+|no2=0956
+|name2=Espathra
+|type1-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=psychic}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0955}}-->
+{{Spritebox/HOME|ndex=0955}}
+{{Spritebox/Footer|955|Flittle}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+A Flittle appeared in a flashback in ''[[HZ063|Ice Battle! Cold-Eyed Grusha]]'', under the ownership of a {{pkmn|Trainer}}.
+
+A {{tc|Student}}'s Flittle appeared in [[HZ101]].
+
+===POKÉTOON===
+A Trainer's Flittle appeared in [[PT16]].
+
+==In the manga==
+[[File:Flittle Adventures.png|thumb|170px|Flittle in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Flittle debuted in ''[[PASV02|Discover! The Quaking Earth Titan!!]]''.
+
+Two Flittle appeared in ''[[PASV03|Battle! Team Star, the Delinquents!!]]''. At [[West Province (Area One)]], {{adv|Violet}} battled one as part of his training.
+{{-}}
+
+==In the TCG==
+{{main|Flittle (TCG)}}
+
+==Trivia==
+* Flittle was designed by [[Atsuko Nishida]].<ref>[https://www.instagram.com/coloatsu/p/DDCg3wKPJDR/ Instagram post by Atsuko Nishida (@coloatsu) on the Paldean Pokémon designed by her.] Posted on December 1, 2024.</ref>
+
+===Origin===
+Flittle's appearance may be based on the chicks of various {{wp|bird}} species. The frills on its body resemble a frilled {{wp|dress}} or {{wp|gown}}. Its overall body shape may also be inspired by an {{wp|ostrich egg}} or the {{wp|Grimpoteuthis|dumbo octopus}}.
+
+====Name origin====
+Flittle may be a combination of ''flitter'' (a fluttering movement) and ''little''.
+
+Hirahina may be a combination of ひらひら ''hirahira'' (onomatopoetic word for fluttering) and 雛 ''hina'' (chick).
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=ヒラヒナ ''Hirahina''|jameaning=From {{tt|ひらひら ''hirahira''|onomatopoetic word for fluttering}} and {{tt|雛 ''hina''|chick}}
+|fr=Flotillon|frmeaning=From ''{{tt|flotter|to float}}'' and ''{{tt|oisillon|chick}}''
+|es=Flittle|esmeaning=Same as English name
+|de=Flattutu|demeaning=From ''{{tt|flattern|to flutter}}'' and ''Tutu''
+|it=Flittle|itmeaning=Same as English name
+|ko=하느라기 ''Haneuragi''|komeaning=From {{tt|하늘하늘 ''haneul-haneul''|buoyantly}} and {{tt|아기 ''agi''|baby}}
+|zh_cmn=飄飄雛 / 飘飘雏 ''Piāopiāochú''|zh_cmnmeaning=From {{tt|飄飄 / 飘飘 ''piāopiāo''|fluttering in the wind}} and {{tt|雛 ''chú''|chick}}
+|zh_yue=飄飄雛 ''Pīupīuchòh''|zh_yuemeaning=From {{tt|飄飄 ''pīupīu''|fluttering in the wind}} and {{tt|雛 ''chòh''|chick}}
+|hi=फ़्रिलिचिक ''Frillychick''|himeaning=From ''frill'' and ''chick''
+|th=ฮิราฮินะ ''Hirahina''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0954|prev=Rabsca|nextnum=0956|next=Espathra}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Flattutu]]
+[[es:Flittle]]
+[[fr:Flotillon]]
+[[it:Flittle]]
+[[ja:ヒラヒナ]]
+[[zh:飘飘雏]]

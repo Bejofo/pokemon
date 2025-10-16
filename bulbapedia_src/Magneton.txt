@@ -1,0 +1,813 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Steel}}
+{{PokémonPrevNext/GO|species=Magneton}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0081|prev=Magnemite|nextnum=0083|next=Farfetch'd|round=none}}
+{{PokémonPrevNext/Disambig|species=Magneton}}
+|}
+{{Pokémon Infobox
+|name=Magneton
+|jname=レアコイル
+|jtranslit=Reakoiru
+|tmname=Rarecoil
+|ndex=0082
+|type1=Electric
+|type2=Steel
+|category=Magnet
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=132.3
+|weight-kg=60.0
+|ability1=Magnet Pull
+|ability2=Sturdy
+|abilityd=Analytic
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=163
+|oldexp=161
+|lv100exp=1,000,000
+|gendercode=255
+|color=Gray
+|catchrate=60
+|body=11
+|pokefordex=magneton
+|generation=1
+|friendship=70
+}}
+'''Magneton''' ([[List of Japanese Pokémon names|Japanese]]: '''レアコイル''' ''Rarecoil'') is a dual-type {{2t|Electric|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation I]]. Prior to [[Generation II]], it [[:Category:Pokémon that have had their type changed|was]] a pure {{type|Electric}} Pokémon.
+
+It [[Evolution|evolves]] from {{p|Magnemite}} starting at [[level]] 30 and evolves into {{p|Magnezone}} when [[level]]ed up in a [[special magnetic field]] or when exposed to a [[Thunder Stone]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+The [[Paradox Pokémon]] {{p|Sandy Shocks}} is said to be an ancient relative of Magneton or a counterpart of it from a parallel timeline.
+
+==Biology==
+[[File:Clemont Magneton three Magnemite.png|thumb|250px|left|Magneton splitting into three Magnemite]]
+Magneton is a robot-like {{OBP|Pokémon|species}}, the result of three {{p|Magnemite}} becoming linked together by a strong magnetic force, although a single Magnemite can evolve by itself when there are no other Magnemite in the vicinity. Each individual Magnemite has a gray spherical body with a single eye, and a gray and red-and-blue tipped horseshoe magnet on each side. The topmost Magnemite has three {{wp|Phillips head}} screws on its body, while the others appear to have only two. The three Magnemite that Magneton consists of can be linked in several ways. Magneton is most commonly seen as one Magnemite on top, and two Magnemite linked by the screws on the bottom, forming a triangle. In some cases, commonly seen in 3D games such as {{g|Snap}}, the Magnemite will not be connected at all, remain in a triangular formation at rest, and are able to freely move within each other's vicinity to form other patterns. In this case, all three Magnemite have three screws. The magnetic forces that hold the three Magnemite together are powerful enough to dry up all moisture and raise the temperature by 3.6&nbsp;°F (2&nbsp;°C) within a radius of 3,300 feet (one kilometer). It can also be disruptive to electronic devices and induce earaches. It uses powerful radio waves to help it study the surrounding area.
+
+Magneton's anti-gravitational powers enable it to fly through the air. Being composed of three Magnemite, it is about three times as powerful electrically, though not three times as intelligent. Even though Magneton is a mechanical creature, it still needs to eat. As seen in the ''[[Pokémon the Series]]'' episode ''[[EP195|The Poké Spokesman]]'', food for Magneton consists of electrical currents. It is usually found in {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|rough terrain}}, often near [[power plant]]s. 
+
+When sunspots flare up, Magneton tends to appear more often, presumably due to the changes in the sun's magnetic field. When rain clouds form, it also gathers in high areas prone to lightning strikes. As seen in [[PS011|the eleventh chapter of Pokémon Adventures]], it possesses the ability to form its electricity into both platforms and barriers. As seen in the {{aniseries|HZ}} episode ''[[HZ012|The Future I Choose]]'', it can cause interference with phone and internet signals. In ''[[HZ013|An Unexpected Picnic!]]'', a herd of Magneton produced an EMP that could destroy computer software. Despite its modern, artificial appearance, carvings depicting Magneton have been [[Media:Neo Premium File 2.jpg|discovered]] at the [[Ruins of Alph]]. One was shown in the [[Pokémon Generations]] episode ''[[PG18|The Redemption]]'' in a flashback to the great war of [[Kalos]], indicating it has existed for at least 3,000 years. Additionally, {{p|Sandy Shocks}} bears a strong resemblance to Magneton. It is believed to be an ancient Magneton that was alive 10,000 years ago. As mentioned in [[Pokémon Sleep]], Magneton is known to sleep with its three linked Magnemite either stuck together or drifting apart by a strong magnetic force.<ref>[[Sleep style|Sleep Style Dex]]</ref> It is theoried that its magnetism is unstable while Magneton sleeps.
+
+===Evolution===
+Magneton evolves from {{p|Magnemite}} and evolves into {{p|Magnezone}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Electric
+|type2=Steel
+|pictype=art
+|no1=0081
+|name1=Magnemite
+|type1-1=Electric
+|type2-1=Steel
+|evo1=
+|no2=0082
+|name2=Magneton
+|type1-2=Electric
+|type2-2=Steel
+|evo2=
+|no3=0462
+|name3=Magnezone
+|type1-3=Electric
+|type2-3=Steel}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric|type2=Steel}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=082}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Formed by several <sc>Magnemite</sc>s linked together. They frequently appear when sunspots flare up.}}
+{{Dex/Entry1|v=Yellow|entry=Generates strange radio signals. It raises the temperature by {{tt|3.6F degrees|2C degrees }} within {{tt|3,300 feet|one kilometer}}.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Formed by <sc>Magnemite</sc> that link together when the number of black spots on the sun increases. Fires high-voltage power, etc.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=119}}
+{{Dex/Entry1|v=Gold|entry=Three <sc>Magnemite</sc> are linked by a strong magnetic force. Earaches will occur if you get too close.}}
+{{Dex/Entry1|v=Silver|entry=The <sc>Magnemite</sc> are united by a magnetism so powerful, it dries all moisture in its vicinities.}}
+{{Dex/Entry1|v=Crystal|entry=When many <sc>Magneton</sc> gather together, the resulting magnetic storm disrupts radio waves.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Three <sc>Magnemite</sc> are linked by a strong magnetic force. Earaches will occur if you get too close. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>The <sc>Magnemite</sc> are united by a magnetism so powerful, it dries all moisture in their vicinity. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=083|reg2=Kanto|num2=082}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Magneton</sc> emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this {{ScPkmn}}.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Magneton</sc> emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this {{ScPkmn}} inside a {{ScBall}}.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It is actually three <sc>Magnemite</sc> linked by magnetism. It generates powerful radio waves that raise temperatures by {{tt|3.6 degrees F|2 degrees C}} within a {{tt|3,300-foot|one-kilometer}} radius.}}
+{{Dex/Entry1|v=FireRed|entry=A linked cluster formed of several <sc>Magnemite</sc>. It discharges powerful magnetic waves at high voltage.}}
+{{Dex/Entry1|v=LeafGreen|entry=Formed by several <sc>Magnemite</sc> linked together. They frequently appear when sunspots flare up.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=179|label1={{gameIcon|Pt}}:|reg2=Johto|num2=120}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=It is actually three <sc>Magnemite</sc> linked by magnetism. A group can set off a magnetic storm.}}
+{{Dex/Entry1|v=Platinum|entry=Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.}}
+{{Dex/Entry1|v=HeartGold|entry=Three <sc>Magnemite</sc> are linked by a strong magnetic force. Earaches will occur if you get too close.}}
+{{Dex/Entry1|v=SoulSilver|entry=The <sc>Magnemite</sc> are united by a magnetism so powerful, it dries all moisture in its vicinity.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=049|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=070|label1=Mountain|reg2=Hoenn|num2=085}}
+{{Dex/Entry1|v=X|t=FFF|entry=A linked cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Generates strange radio signals. It raises the temperature by {{tt|3.6 degrees Fahrenheit|2 degrees Celsius}} within {{tt|3,300 feet|one kilometer}}.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pokémon inside a Poké Ball.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=048|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=055|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=082}}
+{{Dex/Entry1|v=Sun|entry=When three Magnemite link together, their brains also become one. They do not become three times more intelligent.}}
+{{Dex/Entry1|v=Moon|entry=It has about three times the electrical power of Magnemite. For some reason, outbreaks of this Pokémon happen when lots of sunspots appear.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Delicate equipment can malfunction in areas inhabited by Magneton, which send out mysterious electrical signals.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=When rain clouds form, many Magneton gather in high places to wait for lightning to strike.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Generates strange radio signals. It raises the temperature by {{tt|3.6 degrees Fahrenheit|2 degrees Celsius}} within {{tt|3,300 feet|one kilometer}}.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|label1=Isle of Armor|num1=106|reg2=Sinnoh|reg3=Hisui|num3=178}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=A Magneton is actually three Magnemite linked by magnetism. A group of these Pokémon can set off a magnetic storm.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Three Magnemite gathered to evolve into this Pokémon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=210|reg2=Kitakami|reg3=Blueberry|num3=117}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=They're formed by several Magnemite linked together. They frequently appear when sunspots flare up.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{steel color dark}}; background:#{{electric color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{steel color dark}}; background:#{{electric color light}};" | [[File:Pokédex Image Magneton SM.png|x200px]]
+| style="border:2px solid #{{steel color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Magneton SV.png|x200px]]
+| style="border:2px solid #{{steel color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Magneton SV Blueberry.png|x200px]]
+|-
+| Magneton in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Magneton in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Magneton in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=electric|type2=steel}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{FB|Kanto|Power Plant}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{FB|Kanto|Power Plant}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|v=Yellow|area={{FB|Kanto|Power Plant}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Magnemite}}}}
+{{Availability/Entry1|v=Crystal|area=[[In-game trade#Pokémon Crystal|Trade]] {{p|Dugtrio}} in {{FB|Kanto|Power Plant}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[New Mauville]]}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[New Mauville]]}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{FB|Kanto|Power Plant}}, [[Cerulean Cave]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=fff|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Magnemite}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|222|Sinnoh}}, {{si|Victory Road}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Cerulean Cave]]<br/>{{safari|Johto}} (Peak, default; Mountain, default and 3 Plains points)<br/>[[In-game trade#Pokémon HeartGold and SoulSilver|Trade]] {{p|Dugtrio}} in {{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1|v=Pal Park|color=D4B5A7|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Magnemite}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[P2 Laboratory]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Lost Hotel]], [[Friend Safari]] ([[Friend Safari#Steel-type Safari|Steel]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Magnemite}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Magnemite}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Magnemite}}}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area={{FB|Kanto|Power Plant}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Challenge Road]], [[Training Lowlands]] ([[Wanderer]])<br>[[Fields of Honor/Dens|Fields of Honor]], [[Forest of Focus/Dens|Forest of Focus]], [[Challenge Beach/Dens|Challenge Beach]], [[Brawlers' Cave/Dens|Brawlers' Cave]], [[Courageous Cavern/Dens|Courageous Cavern]], [[Stepping-Stone Sea/Dens|Stepping-Stone Sea]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Magnemite}}}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Cobalt Coastlands]]:''' [[Space-time distortion]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=North Province: [[Dalizapa Passage]], [[Glaseado Mountain]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Magneton|4★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Canyon Biome]], [[Chargestone Cavern]], [[Polar Biome]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric|type2=Steel}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Tunnel]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Magnemite}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Magnemite}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 2]], Endless Level 21, Forever Level 21, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Magnemite}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Krokka Tunnel]], [[Waterworks]], [[Dusk Factory]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (26F-49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (26F-49F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Oil Field Hideout]], [[Haruba Desert]], [[Hippowdon Temple]], [[Altru Building]], [[Altru Tower]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Fiery Furnace]] <small>(Normal Mode C & A, Advanced Mode B & A)</small>}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Oblivia Ruins]], [[Layuda Island]], [[Sky Fortress]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#Rumbling Magnetic Motors|Conductor Room: Rumbling Magnetic Motors]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 2|Distortion Island: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Super-Aura Test Lab|Origin Hideaway: Super-Aura Test Lab]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zapdos Sea]], [[Garchomp Sea]], [[Aegislash Sea]], [[Bulbasaur Sea]], [[Arceus Sea]], [[Greninja Sea]], [[Garchomp Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Lightning Field]] (20F-28F)<br/>Fainted Pokémon: [[Lightning Field]], [[Northwind Field]], [[Southern Cavern]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Great 2)<br>[[Old Gold Power Plant]] (from Basic 1)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Basic 5)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 328]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync/player|egg|Magnemite}}<br>{{mas|Battle Point|BP Sync Pair Voucher}}: {{sync|Clemont|Magneton}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Electric|type2=Steel}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Silver Leaf|100|rows=2}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games1|Crystal|Pokémon Crystal Version}}
+{{HeldItems/Items1|Metal Coat|100|availNote=[[In-game trade]],&#32;}}
+{{HeldItems/Games2|Ruby|Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Ruby and Sapphire Versions}}
+{{HeldItems/Items1|Metal Coat|5}}
+{{HeldItems/Games2|FireRed|LeafGreen|Pokémon FireRed and LeafGreen Versions}}
+{{HeldItems/Items1|Magnet|5}}
+{{HeldItems/Games1|Emerald|tcolor=fff|Pokémon Emerald Version}}
+{{HeldItems/Items1|Metal Coat|5}}
+{{HeldItems/Games1|XD|tcolor=fff|Pokémon XD: Gale of Darkness}}
+{{HeldItems/Items1|Metal Coat|100}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Items1|Metal Coat|5}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Items2|Metal Coat|5|Metal Coat|100|availNote2=[[In-game trade]],&#32;}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Items1|Metal Coat|5|rows=2}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Metal Coat|5|availNote=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Iron Chunk|30|Metal Coat|7|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|type2=Steel
+|HP=50
+|Attack=60
+|Defense=95
+|SpAtk=120
+|SpDef=70
+|Speed=70
+|Special=120
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|type2=Steel
+|Speed=3
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Steel
+|Normal=   50
+|Flying=   25
+|Fighting=200
+|Ground=  400
+|Rock=     50
+|Bug=      50
+|Poison=    0
+|Ghost=   100
+|Steel=    25
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric= 50
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=    100
+|Fairy=50
+|notes= yes
+|magnemite=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|olddark=½
+|gen5ghost=yes
+|oldghost2=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Magneton|Electric|Steel|1}}
+{{learnlist/level9|1|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/level9|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level9|1|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Tri Attack|Normal|Special|80|100|10}}
+{{learnlist/level9|12|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/level9|16|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/level9|20|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|24|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|28|Magnet Rise|Electric|Status|—|—|10}}
+{{learnlist/level9|34|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/level9|40|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|46|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level9|52|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|58|Lock-On|Normal|Status|—|—|5}}
+{{learnlist/level9|64|Zap Cannon|Electric|Special|120|50|5||'''}}
+{{learnlist/levelf/9|Magneton|Electric|Steel|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Magneton|Electric|Steel|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tmf/9|Magneton|Electric|Steel|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Magneton|Electric|Steel|2}}
+{{learnlist/breed9|{{MSP/H|0081|Magnemite}}{{tt|*|Magnemite caught in 2★ Tera Raid Battles know this move}}|Electroweb|Electric|Special|55|95|15||'''|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Explosion|Normal|Physical|250|100|5|grid=2}}
+{{learnlist/breedf/9|Magneton|Electric|Steel|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Magneton|Electric|Steel|1}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Magneton|Electric|Steel|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg lightning color}}; border: 3px solid #{{tcg lightning color dark}}"
+|-
+! style="background: #{{tcg lightning color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg lightning color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Self-Destruct}}
+| style="background:#fff; {{roundybr|5px}}" | [[Magneton (Base Set 9)]]<br>[[Magneton (Fossil 11)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Steel}}
+{{Spindata/Pinball|col=2|type=Electric|ndex=082|acquisition=Evolve|evolved=yes}}
+{{Spindata/PinballRS|col=2|type=Electric|ndex=082|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=2|type=Electric|ndex=082|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Electric|ndex=082
+|body=1
+|rate=Evolve
+|area=Power Plant
+|P1=<sc>vzvzvzz... go to next.</sc>
+|P2=<sc>vzvzvzzz... hp at 50 percent...</sc>
+|P3=<sc>vzvzvzzt... go to error... system failure imminent.</sc>
+|PL=<sc>vzvzvzt! go to next level!</sc>
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Electric|ndex=082
+|body=1
+|rate=-10
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Electric|ndex=082
+|coset=15
+|conto={{p|Voltorb}}, {{p|Electrode}}, {{p|Magnezone}}
+|recruitment=Talk to in [[Serene Village]]
+|P1=Protecting the safety around here! Pi-pi-pi!
+|P2=I won't give up… I can still move…
+}}
+|-
+{{Spindata/Ranger|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|fieldpower=2
+|field=Recharge
+|loop=3
+|MinEXP=8
+|MaxEXP=8
+|num=057
+|browser=Magneton generates electricity using its magnetism to recharge your [[Capture Styler|Styler]].
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Recharge
+|field=Recharge
+|fieldpower=5
+|num=063
+|browser=It discharges electricity from its body. It protects itself with an electric barrier.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Recharge
+|field=Recharge
+|fieldpower=4
+|past=NA
+|num=111
+|browser=It restores the Styler Energy.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Electric
+|att=4
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Electric
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=082
+|walk=1.67
+|hp=48
+|attack=78
+|defense=56
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=082
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=082|num=441
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Crowd Control
+|skilldesc=Increases damage when there are more Magneton in the puzzle area.
+|swapper=Three Force
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=082
+|hatch=N/A
+|buddy=3
+|candy=Magnemite
+|evolution={{candy|Magnemite}}100 + {{bag/GO|Magnetic Lure Module}}
+|stamina=137
+|attack=223
+|defense=169
+|fast={{m|Spark}}, {{m|Charge Beam}}{{tt|*|From February 16, 2017 onward}}, {{m|Thunder Shock}}{{tt|*|Prior to February 16, 2017 and from January 23, 2020 onward}}, {{m|Volt Switch}}{{tt|*|From September 1, 2023 onward}}, {{m|Metal Sound}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Zap Cannon}}{{tt|*|From February 16, 2017 onward}}, {{m|Magnet Bomb}}, {{m|Flash Cannon}}, {{m|Discharge}}{{tt|*|Prior to February 16, 2017 and from January 23, 2020 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0082
+|sleeptype=Slumbering
+|type=Steel
+|dexentry=The three Magnemite are usually linked by a strong magnetic force. They have been spotted sleeping stuck together and drifting apart. Perhaps their magnetism is unstable during sleep.
+|sleepstyle1=Linked Sleep
+|sleepstyle2=Near-Falling Sleep
+|sleepstyle3=Unlinked Sleep
+|friendpoints=12
+|specialty=Skills
+|evolution=[[File:Sleep Thunder Stone.png|30px]]{{color2|000|Thunder Stone}} ×1
+|pokemon=Magnemite
+|candyNum=80
+|berry=Belue
+|ingredient1=Pure Oil
+|ingredient2=Fiery Herb
+|carrylimit=11
+|skillname=Cooking Power-Up S
+|skilldesc=Gives your pot room for 7 more ingredients next time you cook.
+}}
+|}
+
+===Evolution data===
+Magneton [[Evolution|evolves]] from {{p|Magnemite}} starting at [[level]] 30 and, since [[Generation IV]], evolves into {{p|Magnezone}} when [[level]]ed up in a [[special magnetic field]]. Magneton cannot evolve into Magnezone in {{game|HeartGold and SoulSilver|s}}, due to there being no area in [[Kanto]] or [[Johto]] with a special magnetic field. Magneton also cannot evolve in {{LGPE}}, as Magnezone is not present in those games. There is also no special magnetic field in {{g|Sword and Shield}} or {{g|Scarlet and Violet}}, so from [[Generation VIII]] onwards, Magneton is also able to evolve into Magnezone when exposed to a [[Thunder Stone]].
+{{Evobox-3
+|type1=Electric
+|type2=Steel
+|pictype=art
+|no1=0081
+|name1=Magnemite
+|type1-1=Electric
+|type2-1=Steel
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0082
+|name2=Magneton
+|type1-2=Electric
+|type2-2=Steel
+|evo2={{bag/s|Rare Candy|SV}} + [[File:Town Map Icon BDSP.png|40px]]<br>{{color2|000|Level|Level up}}<br><small>in areas with a<br>{{color2|000|special magnetic field}}</small><br><big><big>→</big></big><br>{{Bag/s|Thunder Stone|SV}}<br>{{color2|000|Thunder Stone}}<sup>{{gen|VIII}}+</sup>
+|no3=0462
+|name3=Magnezone
+|type1-3=Electric
+|type2-3=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric|type2=Steel}}
+{{Spritebox/1|ndex=082}}
+{{Spritebox/2|ndex=082}}
+{{Spritebox/3|ndex=082}}
+{{Spritebox/4|ndex=082}}
+{{Spritebox/5|ndex=082}}
+{{Spritebox/6|ndex=082|crop=87}}
+{{Spritebox/7/PE|ndex=082|crop=89|PEcrop=182}}
+{{Spritebox/8/SwShLA|ndex=082|LAcrop=145}}
+<!--{{Spritebox/9|ndex=0082}}-->
+{{Spritebox/HOME|ndex=0082}}
+{{Spritebox/Footer|0082|Magneton}}
+
+====Other sprites====
+{| style="background: #{{electric color}}; margin:auto; text-align:center; font-size: 80%; {{roundy|20px}}; border: 2px solid #{{electric color dark}}"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{steel color dark}}; background: #{{steel color light}}; width:180px"| [[File:Spr 4d 082Jolt.png]]
+|-
+| Jolt in {{color2|000|Pokémon Super Contests}}
+|}
+
+==In animation==
+===Main series===
+[[File:Magneton anime.png|thumb|250px|Magneton in {{aniseries|HZ}}]]
+[[File:Vincent Magneton.png|thumb|250px|{{Shiny}} Magneton in {{aniseries|GS}}]]
+====Major appearances====
+=====[[Clemont's Magneton]]=====
+{{an|Clemont}} owns a Magneton, which he keeps at the [[Lumiose Gym]] so [[Clembot]] can use it for Gym Battles while Clemont is away. It first appeared in ''[[XY009|Clemont's Got a Secret!]]'', where it was revealed to be able to separate itself into three Magnemite in order to dodge attacks.
+
+=====Other=====
+Magneton debuted in ''[[EP030|Sparks Fly for Magnemite]]'', where a swarm of them, along with a Magnemite, saved {{Ash}} and {{ashfr}} from a {{p|Grimer}} attack.
+
+In ''[[EP101|Get Along, Little Pokémon]]'', {{OBP|Ethan|EP101}}'s Magnemite evolved into a Magneton to save Ash and his {{AP|Pikachu}} from {{TRT}}. This Magneton is [[nickname]]d "Number 6".
+
+In ''[[EP195|The Poké Spokesman]]'', a group of [[phony Pokémon interpreters]] deprived their two Magneton of electricity so they would remain obedient. They were convinced by [[Simon]] to cease their attacks on a [[Pokémon Center]].
+
+In ''[[EP199|Current Events]]'', a Magneton served as a security guard for an electric company's power station. Ash was attacked by the Magnemite assisting Magneton, but when he retaliated with {{AP|Chikorita}}, Magneton attacked as well.
+
+In ''[[EP268|Tie One On!]]'', [[Vincent|Jackson]] used a {{DL|List of alternately colored Pokémon in animation|Magneton|Shiny}} Magneton against Ash during the [[Silver Conference]]. It proved to be very strong, knocking out Pikachu and {{AP|Cyndaquil}} before being defeated by {{AP|Bulbasaur}}.
+
+In ''[[AG040|Watt's with Wattson?]]'', [[Wattson]] used a Magneton during his brief [[Gym]] {{pkmn|battle}} with Ash. It was easily defeated by Pikachu, who had become super-charged during an incident at the [[Mauville Gym]]. Three {{pkmn2|wild}} Magneton also appeared later in the same episode.
+
+In ''[[AG058|All Torkoal, No Play!]]'', multiple Magneton were among the {{type|Steel}} Pokémon in the [[Valley of Steel]] bullying a wild {{AP|Torkoal}}.
+
+In ''[[M11|Giratina and the Sky Warrior]]'', an army of Magneton and Magnemite, led by a {{p|Magnezone}}, was owned by [[Zero]]. He mainly used them as a swarm to trap or capture targets by linking together around them.
+
+In ''[[XY066|Confronting the Darkness!]]'', [[Belmondo]] has a Magneton. It was first used by the [[Dark Clembot]] to destroy electric appliances in a storehouse using Discharge. It then battled [[Clemont's Heliolisk]], which was being used by [[Clembot]]. After a hard-fought battle, it was recalled by Belmondo after the battle had been interrupted by {{TRT}}.
+
+A Magneton appeared in ''[[HZ012|The Future I Choose]]'', under the ownership of [[Spinel]].  Spinel's Magneton has since made further appearances in {{aniseries|HZ}}.
+
+====Minor appearances====
+In ''[[M01|Mewtwo Strikes Back]]'', a {{pkmn|Trainer}}'s Magneton was defeated by {{OBP|Mewtwo|M01}} while it was serving {{an|Giovanni}} at the [[Viridian Gym]].
+
+In ''[[M02|The Power of One]]'', a Magneton sensed the disturbance caused by [[Lawrence III]].
+
+In ''[[The Legend of Thunder!]]'', multiple Magneton were lured by the "Miracle Crystal" used by [[Attila]] and [[Hun]].
+
+A Magneton appeared in ''[[M08|Lucario and the Mystery of Mew]]''.
+
+In ''[[AG160|Harley Rides Again]]'', a {{pkmn|Coordinator}}'s Magneton competed in the [[Wisteria Town]] [[Pokémon Contest]].
+
+In ''[[DP026|Getting the Pre-Contest Titters!]]'', a Coordinator's Magneton competed in the {{to|Floaroma}} {{pkmn|Contest}}. In [[DP027|the next episode]], it was still competing in the same Contest.
+
+In ''[[DP111|Saving the World from Ruins!]]'', multiple Magneton were some of the {{type|Steel}} Pokémon that had been disturbed due to [[Team Galactic]]'s interference on [[Iron Island]].
+
+In the ending credits of ''[[M13|Zoroark: Master of Illusions]]'', a Magneton played in the [[Pokémon Baccer World Cup]].
+
+A Magneton appeared in ''[[XY048|A Campus Reunion!]]''.
+
+In ''[[XY062|The Future Is Now, Thanks to Determination!]]'', four Magneton were controlled by {{TRT}}.
+
+In ''[[M20|I Choose You!]]'', a Magneton fell under the control of {{OBP|Marshadow|M20}}.
+
+In ''[[SM042|Alola, Kanto!]]'', {{Rotom}} photographed a Magneton.
+
+[[Molayne]]'s Magneton first appeared in ''[[SM079|Showering the World with Love!]]''. In ''[[SM092|Turning the Other Mask!]]'', it caused a power outage at the [[Battle Royal Dome]], allowing Kukui to slip away and become the Masked Royal.
+
+Three Magneton appeared in ''[[M21|The Power of Us]]'', with two each under the ownership of a Trainer and the other appearing during a flashback.
+
+In ''[[SM090|Securing the Future!]]'', three Trainers' Magneton joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|true form}}.
+
+In ''[[SM111|Show Me the Metal!]]'', a group of {{OBP|Meltan|recurring}} tried to consume a Magneton, only for it to attack them in return.
+
+Two Magneton appeared in ''[[JN040|A Crackling Raid Battle!]]''.
+
+A Magneton appeared in a fantasy in ''[[JN093|It's All in the Name!]]''.
+
+Two Magneton appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Trainer's Magneton appeared in ''[[HZ039|Tinkatink's Ideal Hammer]]''.
+
+====Pokédex entries====
+{{Animedexheader|Orange}}
+{{Animedexbody|EP101|Magneton|Ash's Pokédex|Magneton, the Magnet Pokémon. The evolved form of Magnemite. Its anti-gravitational powers allow it to float, and it can emit powerful magnetic and electric fields.}}
+{{Animedexfooter/Pokémon|Orange}}
+
+===Pokémon Black 2 and White 2 Animated Trailer===
+[[File:Colress B2W2 Trailer.png|thumb|left|250px|Magneton (rear) in the animated trailer]]
+In the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], [[Colress]]'s Magneton accompanied him when he met up with {{ga|Nate}} in the [[Castelia City]] square.
+
+===Pokémon Generations===
+[[File:Noivern Magneton Bisharp PG.png|thumb|250px|Magneton in [[Pokémon Generations]]]]
+A soldier's Magneton appeared in ''[[PG18|The Redemption]]'', during a fantasy of a story from the past. It was one of the many Pokémon fighting in the great war of [[Kalos]] 3,000 years previously.
+
+===GOTCHA!===
+A Magneton briefly appeared in [[GOTCHA!]], under the ownership of [[Wattson]].
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', three Magneton were used to provide special effects for the [[Kimono Girl]]s' performance.
+
+===POKÉTOON===
+A Magneton appeared in [[PT15]], as one of the many Pokémon angered by Akira's {{p|Capsakid}}'s spicy bite.
+
+==In the manga==
+[[File:Cyrus Magneton Adventures.png|thumb|230px|Magneton in [[Pokémon Adventures]]]]
+===Pokémon Ranger: The Comic – Shadows of Almia===
+A Magneton appeared in [[PRV3]] as one of the Pokémon {{OBP|Heath|Ranger}} controlled.
+
+===Pokémon Adventures===
+Magneton debuted in ''[[PS010|Danger: High Voltorb]]'', under the ownership of [[Lt. Surge]], who used it, along with his other Pokémon, to attack {{adv|Red}}. However, later in ''[[PS011|Buzz Off, Electabuzz!]]'', some of them tortured Red with {{m|Thunderbolt}}. Lt. Surge uses two on his shoulder pads in ''[[PS029|Go for the Golbat]]'' where they produced sonic booms that act as a defensive barrier. Lt. Surge has a squad of Magneton, capable of using electromagnetism to create a tetrahedral aura. This aura is able to ferry people as well as attack and trap anything within, as seen in Volumes [[Pokémon Adventures volume 3|3]], [[Pokémon Adventures volume 7|7]], [[Pokémon Adventures volume 10|10]], and [[Pokémon Adventures volume 12|12]].
+
+A {{pkmn2|wild}} Magneton appeared in a flashback in ''[[PS051|Electro Magneton]]'', where it and three Magnemite attacked {{adv|Blue}} and [[Evan]]. Blue used his {{TP|Blue|Machamp}} to defeat it.
+
+[[Jasmine]]'s two Magneton first appeared in ''[[PS108|Quilava Quandary]]''. They were seen accompanying Jasmine through Ecruteak City. They, along with their Trainer, were caught in the earthquake the ravaged the entire area.
+
+A Magneton appeared as a member of [[Wattson]]'s team, debuting in ''[[PS204|Plugging Past Electrike I]]''.
+
+[[Cyrus]] was briefly shown with a Magneton in ''[[PS349|Passing by Probopass and Maneuvering around Magnezone]]'' before it evolved into a Magnezone in [[Mount Coronet|Mt. Coronet]].
+
+A Magneton belonging to an {{tc|Aether Foundation Employee}} first appeared in ''[[PASM23|Battle in Vast Poni Canyon]]''.
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Magneton appeared in ''[[GB17|A Spectacular Battle To Save Ampharos!!]]'', under the ownership of [[Jasmine]].
+
+===Pokémon Pocket Monsters===
+A Magneton appeared in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]'', where it was one of the Pokémon that took part in a baseball match.
+
+===Pokémon Ranger the Comic: Double Mission===
+A Magneton appeared in ''[[PR2|Pokémon Ranger the Comic: Double Mission Episode Two]]'' as one of the Pokémon that [[Lunick]] captured with his [[Capture Styler]]. It reappeared in ''[[PR3|Pokémon Ranger the Comic: Double Mission Episode Three]]'' and was released in ''[[PR5|Pokémon Ranger the Comic: Double Mission Episode Five]]''.
+
+===Pokémon Zensho===
+A Magneton appeared in [[PZ04]], under the ownership of [[Lt. Surge]].
+
+==In the TCG==
+{{main|Magneton (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Ultimate]]===
+Magneton appears as a {{sbw|Spirit}}.
+
+==Trivia==
+* In the [[Pokémon Red and Green beta|Pokémon Red and Blue beta]], Magneton was originally known as "Recoil".
+* Magneton and its pre-evolved form were the first {{OBP|Pokémon|species}} to ever change [[type]]s with the progress of [[generation]]s.
+* Although it is said that Magneton is made up of three Magnemite, there is contradictory evidence seen in various forms of media.
+** In the only animated episode to date showing a Magnemite Evolution, ''[[EP101|Get Along, Little Pokémon]]'', when {{OBP|Ethan|EP101}}'s Magnemite #6 evolves into Magneton, it "creates" two Magnemite during Evolution, instead of combining with two real Magnemite. Similarly, in the main series games, when Magnemite reaches level 30, it evolves without the aid of two additional Magnemite. This is unlike {{p|Mantyke}}, which requires a {{p|Remoraid}} to evolve.
+** In {{g|Snap}}, a Magneton is clearly shown to be created by three Magnemite. Also, when two Magnemite get stuck together halfway through Evolution in {{g|Mystery Dungeon: Red Rescue Team and Blue Rescue Team}}, they mention how three Magnemite must come together to evolve.
+** After Evolution, Magneton becomes exactly ten times heavier than Magnemite. Logically, it should be three times heavier due to it being three Magnemite (39.6&nbsp;lbs). Magnemite weighs 13.2&nbsp;lbs. (6.0&nbsp;kg), whereas Magneton weighs 132.3&nbsp;lbs. (60.0&nbsp;kg). This could be related to early art which depicts Magneton as having larger spheres.
+* Magneton is usually depicted with only seven screws, with two of the Magnemite losing one screw each upon Evolution. However, it is occasionally depicted with 9 screws such as in its [[Generation II]] and [[Generation III]] sprites.  
+* The 3 Magnemite composing Magneton are usually depicted as attached to each other and only occasionally separating. However, in certain games such as {{g|Stadium}} and {{g|Colosseum}}, the Magnemite are depicted as floating separately from each other and only occasionally combining to attack.   
+* Magneton and Magnemite are two of few Pokémon that had their [[cry]] changed slightly in [[Generation III]]. This was due to Generation III utilizing a better sound effects game engine and [[Game Boy Advance|newer game system]].
+* Despite most depictions of Magneton showing they are able to float through the air, Magneton does not have the Ability {{a|Levitate}}, so it is still affected by {{type|Ground}} moves. However, starting in [[Generation IV]], Magneton can learn {{m|Magnet Rise}}, which simulates Levitate for five turns.
+* Magneton is the only {{type|Electric}} {{DL|List of Pokémon by shape|Pokémon consisting of multiple bodies}}.
+* Magneton is the Pokémon with the most cosmopolitan distribution. It was available in at least one version of every regional Pokédex until Kitakami. This includes the Orre region and the ''Pokémon Ranger'' series regional browsers.
+* Magneton is the only Pokémon to share its weight with any of its {{pkmn2|Paradox}} relative species, weighing the same as {{p|Sandy Shocks}}.
+** It is also the only Pokémon with an ancient relative that is not heavier than its present-day relative. 
+
+===Origin===
+Magneton is a cluster of three Magnemite, which in turn seems to be based on the objectification of {{wp|electromagnetism}}, one of the four {{wp|fundamental interactions}} of nature. They are likely linked through strong electromagnetic force.
+
+====Name origin====
+Magneton may be a combination of ''magnet'' and ''ton''. It may also be derived from ''{{wp|magneton}}'' (various units of magnetic moment) or possibly ''{{wp|Cavity magnetron|magnetron}}'' (high-power vacuum tube).
+
+Rarecoil may be a combination of ''{{wp|rare-earth magnet}}'' and ''{{wp|electromagnetic coil}}''.
+
+==In other languages==
+{{Other languages|type=electric|type2=steel
+|ja=レアコイル ''Rarecoil''|jameaning=From ''{{wp|rare-earth magnet}}'' and ''{{wp|electromagnetic coil}}''
+|fr=Magnéton|frmeaning=Same as English name
+|es=Magneton|esmeaning=Same as English name
+|de=Magneton|demeaning=Same as English name
+|it=Magneton|itmeaning=Same as English name
+|ko=레어코일 ''Rarekoil''|komeaning=Transcription of Japanese name
+|zh_cmn=三合一磁怪 ''Sānhéyīcíguài''|zh_cmnmeaning=From {{tt|三合一 ''sān-hé-yī''|three-in-one}}, {{tt|磁 ''cí''|magnetic}}, and {{tt|怪 ''guài''|monster}}
+|zh_yue=三合一磁怪 ''Sāamhahpyātchìhgwaai''|zh_yuemeaning=From {{tt|三合一 ''sāam-hahp-yāt''|three-in-one}}, {{tt|磁 ''chìh''|magnetic}}, and {{tt|怪 ''gwaai''|monster}}
+|hi=मैग्नेटॉन ''Magneton''|himeaning=Transcription of English name
+|ru=Магнетон ''Magneton''|rumeaning=Transcription of English name
+|th=แรคอยล์ ''Raekhoi''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==Related articles==
+* [[Clemont's Magneton]]
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Electric|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0081|prev=Magnemite|nextnum=0083|next=Farfetch'd}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appear in Pokémon Snap]]
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Single-type Pokémon|082]]<!--In Gen I-->
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Pokémon that evolve by training in a certain location]]
+[[Category:Pokémon that evolve by training in a special magnetic field]]
+[[Category:Pokémon that evolve by Evolution stone]]<!--In Gen VIII-->
+[[Category:Pokémon that evolve using Thunder Stone]]<!--In Gen VIII-->
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+[[Category:Pokémon that have had their type changed]]
+[[Category:Super Smash Bros. spirits]]
+
+[[de:Magneton]]
+[[es:Magneton]]
+[[fr:Magnéton]]
+[[it:Magneton]]
+[[ja:レアコイル]]
+[[zh:三合一磁怪]]

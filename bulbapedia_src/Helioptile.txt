@@ -1,0 +1,454 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Normal}}
+{{PokémonPrevNext/GO|species=Helioptile}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0693|prev=Clawitzer|nextnum=0695|next=Heliolisk|round=none}}
+{{PokémonPrevNext/Disambig|species=Helioptile}}
+|}
+{{Pokémon Infobox
+|name=Helioptile
+|jname=エリキテル
+|tmname=Erikiteru
+|category=Generator
+|typebox=1
+|type1=Electric
+|type2=Normal
+|abilityn=d
+|ability1=Dry Skin
+|ability2=Sand Veil
+|abilityd=Solar Power
+|ndex=0694
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=13.2
+|weight-kg=6.0
+|egggroupn=1
+|egggroup1=Monster
+|egggroup2=Dragon
+|eggcycles=20
+|expyield=58
+|evtotal=1
+|evsp=1
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|catchrate=190
+|body=06
+|pokefordex=helioptile
+|generation=6
+|friendship=70
+}}
+'''Helioptile''' ([[List of Japanese Pokémon names|Japanese]]: '''エリキテル''' ''Erikiteru'') is a dual-type {{2t|Electric|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] into {{p|Heliolisk}} when exposed to a [[Sun Stone]].
+
+==Biology==
+[[File:HelioptileAlterGenesis81.jpg|thumb|left|150px|Helioptile generating electricity]]
+Helioptile is a bipedal, lizard-like {{OBP|Pokémon|species}}. It is primarily pale yellow with black feet and a black tail tip. The top of its head is also black with a triangular yellow marking on its forehead. It has blue eyes, a V-shaped mouth, a slightly pointed head, a tapering tail, and three toes on each foot. On either side of its head hangs a pointed, extension with a yellow tip. These can stiffen and expand into a frill. 
+
+These frills have cells that generate electricity when exposed to sunlight. This allows it to create its own energy and thrive without food in its desert home. The frills act similar to solar panels and are the source of Helioptile's electric moves. However should this process get interrupted, Helioptile will be stressed to the point of weakness. As seen in one of its attack animations in the games, its head and frills glow with a pale yellow light when it uses certain moves.
+
+Prior to [[Generation VIII]], Helioptile and its evolved form, {{p|Heliolisk}}, were the [[signature move|only known Pokémon]] capable of learning the move {{m|Electrify}}.
+{{left clear}}
+
+===Evolution===
+Helioptile evolves into {{p|Heliolisk}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=electric
+|type2=normal
+|pictype=art
+|no1=0694
+|name1=Helioptile
+|type1-1=Electric
+|type2-1=Normal
+|evo1=
+|no2=0695
+|name2=Heliolisk
+|type1-2=Electric
+|type2-2=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric|type2=Normal}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=046|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The frills on either side of its head have cells that generate electricity when exposed to sunlight.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The frills on either side of its head have cells that generate electricity when exposed to sunlight.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=318|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The sun powers this Pokémon's electricity generation. Interruption of that process stresses Helioptile to the point of weakness.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=electric|type2=normal}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|9|Kalos}}, [[Friend Safari]] ([[Friend Safari#Electric-type Safari|Electric]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Heliolisk}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|6|Galar}}, [[Giant's Mirror]]<br>[[Rolling Fields/Dens|Rolling Fields]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric|type2=Normal}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 6|Renegade Meadow: Stage 6]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Rumbling Hall|White Ruins: Rumbling Hall]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Greninja Sea]], [[Jirachi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 483]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|type2=Normal
+|HP=44
+|Attack=38
+|Defense=33
+|SpAtk=61
+|SpDef=43
+|Speed=70
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Normal
+|Normal=100
+|Fighting=200
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+|dryskin=maybe
+|newfire=1¼
+}}
+
+===Learnset===
+Helioptile is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Helioptile|Electric|Normal|6}}
+{{learnlist/level8|1|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level8|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level8|4|Pound|Normal|Physical|40|100|35||'''}}
+{{learnlist/level8|8|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level8|12|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level8|16|Charge|Electric|Status|—|—|20}}
+{{learnlist/level8|20|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/level8|24|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/level8|28|Parabolic Charge|Electric|Special|65|100|20||'''}}
+{{learnlist/level8|32|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level8|36|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level8|40|Electrify|Electric|Status|—|—|20}}
+{{learnlist/level8|44|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/levelf/8|Helioptile|Electric|Normal|6}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Helioptile|Electric|Normal|6}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15||'''}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm8|TM75|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm8|TM80|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm8|TM82|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm8|TM90|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR58|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR80|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tmf/8|Helioptile|Electric|Normal|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Helioptile|Electric|Normal|6}}
+{{learnlist/breed8|{{MSP/8c|147|Dratini}}{{MSP/8c|148|Dragonair}}{{MSP/8c|149|Dragonite}}{{MSP/8c|329|Vibrava}}{{MSP/8c|330|Flygon}}{{MSP/8c|443|Gible}}{{MSP/8c|444|Gabite}}{{MSP/8c|445|Garchomp}}{{MSP/8c|633|Deino}}{{MSP/8c|634|Zweilous}}{{MSP/8c|635|Hydreigon}}{{MSP/8c|841|Flapple}}{{MSP/8c|886|Drakloak}}{{MSP/8c|887|Dragapult}}|Dragon Rush|Dragon|Physical|100|75|10|grid=7}}
+{{learnlist/breed8|{{MSP/8c|147|Dratini}}{{MSP/8c|148|Dragonair}}{{MSP/8c|149|Dragonite}}{{MSP/8c|329|Vibrava}}{{MSP/8c|330|Flygon}}{{MSP/8c|350|Milotic}}{{MSP/8c|373|Salamence}}{{MSP/8c|621|Druddigon}}{{MSP/8c|696|Tyrunt}}{{MSP/8c|697|Tyrantrum}}{{MSP/8c|782|Jangmo-o}}{{MSP/8c|783|Hakamo-o}}{{MSP/8c|784|Kommo-o}}{{MSP/8c|884|Duraludon}}|Dragon Tail|Dragon|Physical|60|90|10|grid=7}}
+{{learnlist/breed8|{{MSP/8c|780|Drampa}}{{MSP/8c|843|Silicobra}}{{MSP/8c|844|Sandaconda}}|Glare|Normal|Status|—|100|30|grid=7}}
+{{learnlist/breedf/8|Helioptile|Electric|Normal|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Helioptile|Electric|Normal|6}}
+{{learnlist/tutor8|Rising Voltage|Electric|Special|70|100|20||'''|no|yes}}
+{{learnlist/tutor8|Scale Shot|Dragon|Physical|25|90|20|||no|yes}}
+{{learnlist/tutorf/8|Helioptile|Electric|Normal|6}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Helioptile|Electric|Normal|6}}
+{{learnlist/prevgen8|Helioptile|6|Camouflage|Normal|Status|—|—|20|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Helioptile|6|Charge Beam|Electric|Special|50|90|10||'''|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Helioptile|6|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Helioptile|6|Cut|Normal|Physical|50|95|30||'''|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Helioptile|6|Double Team|Normal|Status|—|—|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Helioptile|6|Flash|Normal|Status|—|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Helioptile|6|Frustration|Normal|Physical|—|100|20||'''|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Helioptile|6|Hidden Power|Normal|Special|60|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Helioptile|6|Magnet Rise|Electric|Status|—|—|10|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Helioptile|6|Psych Up|Normal|Status|—|—|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Helioptile|6|Razor Wind|Normal|Special|80|100|10||'''|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Helioptile|6|Return|Normal|Physical|—|100|20||'''|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Helioptile|6|Secret Power|Normal|Physical|70|100|20||'''|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Helioptile|6|Shock Wave|Electric|Special|60|—|20||'''|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Helioptile|6|Signal Beam|Bug|Special|75|100|15|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Helioptile|6|Swagger|Normal|Status|—|85|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Helioptile|6|Toxic|Poison|Status|—|90|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Helioptile|Electric|Normal|6}}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Normal}}
+{{Spindata/PSMD|col=6|type=Electric|ndex=694
+|coset=15
+|conto={{p|Magnemite}}, {{p|Zebstrika}}
+|recruitment=Raise the {{DL|Rank (Mystery Dungeon)|Expedition Rank}} to Bronze
+|P1=I generate electricity while I sunbathe. This is called photovoltaic generation.
+|P2=Gah… I've almost run out of electricity…
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=694
+|walk=2.08
+|hp=46
+|attack=67
+|defense=44
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Electric|ndex=694
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Electric|ndex=694|num=631
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Swap
+|skilldesc=Sometimes replaces a disruption with this Pokémon.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=694
+|hatch=N/A
+|buddy=3
+|candy=Helioptile
+|evolution={{Candy|Helioptile}} 50+ {{bag/GO|Sun Stone}}1
+|stamina=127
+|attack=115
+|defense=78
+|fast={{m|Thunder Shock}}, {{m|Quick Attack}}
+|special={{m|Parabolic Charge}}, {{m|Thunderbolt}}, {{m|Bulldoze}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=electric
+|type2=normal
+|pictype=art
+|no1=0694
+|name1=Helioptile
+|type1-1=Electric
+|type2-1=Normal
+|evo1={{Bag/s|Sun Stone|SV}}<br>{{color2|000|Sun Stone}}
+|no2=0695
+|name2=Heliolisk
+|type1-2=Electric
+|type2-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=electric|type2=normal}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=694|crop=61}}
+{{Spritebox/7|ndex=694|crop=60}}
+{{Spritebox/8|ndex=694}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0694}}
+{{Spritebox/Footer|694|Helioptile}}
+
+==In animation==
+[[File:Alexa Helioptile.png|thumb|250px|Helioptile in {{aniseries|BW}}]]
+===Major appearances===
+Helioptile debuted in ''[[BW134|The Journalist from Another Region!]]'', under the ownership of [[Alexa]]. It is Alexa's companion Pokémon and is often seen climbing on her back. Helioptile and {{p|Gogoat}} were the first [[Generation VI]] Pokémon to appear in an episode of the animated series. It has since made further appearances in {{aniseries|BW}} and {{aniseries|XY}}.
+
+A {{pkmn|Trainer}}'s Helioptile appeared in ''[[XY031|The Cave of Trials!]]''. The Trainer purchased a [[Sun Stone]] in [[Geosenge Town]] to evolve Helioptile into a Heliolisk. This prompted {{an|Clemont}} to reveal that, in the past, he used a Sun Stone to evolve his own {{TP|Clemont|Heliolisk}}, which appeared in ''[[XY009|Clemont's Got a Secret!]]''.
+
+A Helioptile appeared in ''[[XY117|Making Friends and Influencing Villains!]]'', where it was among a group of Pokémon that helped befriend a {{Shiny}} {{p|Phantump}}.
+
+===Minor appearances===
+A Helioptile appeared in ''[[XY002|Lumiose City Pursuit!]]'', ''[[XY010|Mega-Mega Meowth Madness!]]'', ''[[XY040|Day Three Blockbusters!]]'', and ''[[XY137|Battling With a Clean Slate!]]''; and in a flashback in ''[[XYS01|Mega Evolution Special I]]'' and ''[[XY068|Garchomp's Mega Bond!]]''. It was a resident of {{an|Professor Sycamore}}'s lab.
+
+Three Helioptile appeared in ''[[XY062|The Future Is Now, Thanks to Determination!]]'', where they were among the {{type|Electric}} {{OBP|Pokémon|species}} being controlled by {{TRT}}.
+
+A Helioptile appeared in ''[[XY073|A Fashionable Battle!]]''.
+
+A Trainer's Helioptile appeared in ''[[XY084|Adventures in Running Errands!]]''.
+
+Two Helioptile appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'', one of which was a resident of the [[Nebel Plateau]].
+
+A Trainer's Helioptile appeared in ''[[XY135|Rocking Kalos Defenses!]]''.
+
+Two Helioptile appeared in ''[[XY138|The First Day of the Rest of Your Life!]]'', each belonging to a different Trainer.
+
+A Helioptile appeared in ''[[JN098|Out of Their Elements!]]'', under the ownership of {{OBP|Billy|JN098}}.
+
+Two Helioptile appeared in [[HZ112]], one under the ownership of a trainer.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW134|Helioptile|Ash's Pokédex|No data.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:Alexa Helioptile Adventures.png|thumb|200px|Helioptile in [[Pokémon Adventures]]]]
+===Movie adaptations===
+A Helioptile appeared in the {{ma|Volcanion and the Mechanical Marvel|manga adaptation}} of ''[[M19|Volcanion and the Mechanical Marvel]]'' as a resident of the [[Nebel Plateau]].
+
+===Pokémon Adventures===
+[[Alexa]] owns a Helioptile [[nickname]]d Heli, which debuted in ''[[PS549|An X-cuse to Come Out and Play]]''.
+{{-}}
+
+==In the TCG==
+{{main|Helioptile (TCG)}}
+
+==Other appearances==
+[[File:Helioptile 3DS trophy SSB4.png|thumb|150px|Helioptile trophy in Super Smash Bros. for 3DS]]
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Nintendo 3DS]]===
+Helioptile appears in the background of the {{st|Prism Tower}} stage.
+
+Helioptile appears as a trophy in the 3DS version of the game, but not the Wii U version.
+
+====Trophy information====
+''A very timid Pokémon that makes its home in arid deserts. The necktie-like frills on either side of its head can be stretched out to absorb sunlight, which Helioptile then uses to generate electricity. Thanks to this energy source, it can even survive without food. If your phone runs out of battery in the desert, why not ask this guy for help?''
+{{-}}
+
+==Trivia==
+* Helioptile is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 289.
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Helioptile and its evolved form.
+* Helioptile is the only non-{{type|Grass}} Pokémon that [[Evolution|evolves]] by using a [[Sun Stone]].
+* Helioptile and its evolved form are the only Pokémon to have three possible {{Abilities}} ({{a|Dry Skin}}, {{a|Sand Veil}}, and {{a|Solar Power}}) that get affected by three different weather conditions ({{weather|rain}}, {{weather|sandstorm}}, and {{weather|harsh sunlight}}, respectively).
+* Helioptile and its Evolution are the only {{type|Electric}} Pokémon in the {{egg3|Dragon}}.
+
+===Origin===
+Helioptile is probably based on {{wp|Chlamydosaurus|frilled-neck lizard}}s, although its frills also resemble those found on the {{wp|Phrynocephalus mystaceus|secret toadhead agama}}. It may also be based on the {{wp|spotted salamander}}, a salamander that can {{wp|photosynthesize}}. Its ability to learn {{m|Surf}} may be a reference to the {{wp|common basilisk}}, a reptile capable of running on water for short distances. Additionally, it shares few resemblances to the {{wp|leopard gecko}}. Its {{Shiny}} variant's red coloration may be a reference to {{wp|sunburn}}.
+
+====Name origin====
+Helioptile may be a combination of ἥλιος ''{{wp|helios}}'' (Ancient Greek for sun), ''heliophile'' (organism attracted to large amounts of sunlight), ''{{wp|coleoptile}} (the tip of a plant shoot)'', and ''reptile''.
+
+Erikiteru may be a combination of ''{{wp|elekiter}}'', 襟巻蜥蜴 ''erimaki tokage'' (frill-necked lizard), and 照る ''teru'' (to shine).
+
+==In other languages==
+{{Other languages|type=electric|type2=normal
+|ja=エリキテル ''Erikiteru''|jameaning=From ''{{wp|elekiter}}'', {{tt|襟巻蜥蜴 ''erimaki tokage''|frill-necked lizard}}, and {{tt|照る ''teru''|to shine}}
+|fr=Galvaran|frmeaning=From ''{{wp|galvanism|galvanisme}}'' and the genus ''{{tt|Varanus|Monitor lizard}}''
+|es=Helioptile|esmeaning=Same as English name
+|de=Eguana|demeaning=From ''{{tt|elektrisch|electric}}'' and ''iguana''
+|it=Helioptile|itmeaning=Same as English name
+|ko=목도리키텔 ''Mokdorikitel''|komeaning=From {{tt|목도리도마뱀 ''mokdori domabaem''|frilled-neck lizard}} and ''elekiter''
+|zh_cmn=傘電蜥 / 伞电蜥 ''Sǎndiànxī''|zh_cmnmeaning=From {{tt|傘蜥蜴 / 伞蜥裼  ''sǎnxīyì''|frilled-neck lizard}} and {{tt|電 / 电 ''diàn''|electricity}}
+|zh_yue=傘電蜥 ''Saandihnsīk''{{tt|*|Games}}<br>發電蜥 ''Faatdihnsīk''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|傘蜥蜴 ''saansīkjihk''|frilled-neck lizard}} and {{tt|電 ''dihn''|electricity}}<br>From {{tt|發電 ''faatdihn''|to generate electricity}} and {{tt|蜥 ''sīk''|lizard}}
+|hi=जेनरेक्ली ''Genreklee''|himeaning=From ''generator'' and {{tt|छिपकली ''chipkalī''|lizard}}
+|ru=Хелиоптайл ''Khelioptayl''|rumeaning=Transcription of English name
+|th=เอลิคิเทล ''Elikhithen''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Clemont's Helioptile]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Electric|type2=Normal}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0693|prev=Clawitzer|nextnum=0695|next=Heliolisk}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve by Evolution stone]]
+[[Category:Pokémon that evolve using Sun Stone]]
+[[Category:Pokémon that appeared in the animated series before their game debut]]
+[[Category:Super Smash Bros. trophies]]
+
+[[de:Eguana]]
+[[es:Helioptile]]
+[[fr:Galvaran]]
+[[it:Helioptile]]
+[[ja:エリキテル]]
+[[zh:伞电蜥]]

@@ -1,0 +1,307 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Poison}}
+{{PokémonPrevNext/GO|species=Glimmet}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0968|prev=Orthworm|nextnum=0970|next=Glimmora|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Glimmet
+|jname=キラーメ
+|jtranslit=Kirāme
+|tmname=Kirame
+|ndex=0969
+|type1=Rock
+|type2=Poison
+|category=Ore
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=17.6
+|weight-kg=8.0
+|abilityn=1
+|ability1=Toxic Debris
+|ability2=
+|abilityd=Corrosion
+|egggroupn=1
+|egggroup1=Mineral
+|egggroup2=
+|eggcycles=30
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=0
+|evsa=1
+|evsd=0
+|evsp=0
+|expyield=70
+|lv100exp=1059860
+|gendercode=127
+|color=Blue
+|catchrate=70
+|body=01
+|pokefordex=glimmet
+|generation=9
+|friendship=50
+}}
+'''Glimmet''' ([[List of Japanese Pokémon names|Japanese]]: '''キラーメ''' ''Kirame'') is a dual-type {{2t|Rock|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Glimmora}} starting at [[level]] 35.
+
+==Biology==
+Glimmet is a crystal plant-like Pokémon. It has a light purple body shaped like the stem of a plant, and its face is black with bright yellow eyes covered by a transparent cone. It has six dark blue crystal petals with light blue lines each around the head. The minerals inside of these petals are filled with crystallized poison.
+
+Glimmet's diet consists of absorbing minerals from the walls of caves and [[Terastal energy]]. Glimmet is capable of floating to travel. To defend itself from foes, Glimmet scatters poisonous powder from its petals. It may have a connection to the [[Terastal phenomenon]], though this is not confirmed; its {{p|Glimmora|Evolution}}'s petals resemble the Tera Jewels that are seen when a Pokémon Terastallizes, many Glimmet (along with its Evolution) can also be found in [[Area Zero]] and the [[ Area Zero Underdepths]], the place where the Terastal phenomenon originated, and eight [[TM Material|Glimmet Crystals]] are needed to make {{TM|171|Tera Blast}}, a move that changes type with Terastallizing. Glimmet has also been seen at [[Kitakami]], specifically the [[Crystal Pool]], where there are Terastal crystals at the bottom of the lake. In {{aniseries|HZ}}, it is revealed that Glimmet can propel itself faster through the air by spinning its petals like a propeller. It can also separate its body from its head to use as a projectile but this causes it to faint.
+
+Glimmet and its evolved form, {{p|Glimmora}}, are the [[Signature Ability|only known Pokémon]] that can have {{a|Toxic Debris}} as an [[Ability]].
+
+===Evolution===
+Glimmet evolves into {{p|Glimmora}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Rock
+|type2=Poison
+|pictype=art
+|no1=0969
+|name1=Glimmet
+|type1-1=Rock
+|type2-1=Poison
+|evo1=
+|no2=0970
+|name2=Glimmora
+|type1-2=Rock
+|type2-2=Poison}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Poison}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=308|reg2=Kitakami|num2=156|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Glimmet's toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{poison color dark}}; background:#{{rock color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{rock color light}}; background:#{{rock color light}} | [[File:Pokédex Image Glimmet SV.png|x200px]]
+|style="border:2px solid #{{rock color light}}; background:#{{rock color light}} | [[File:Pokédex Image Glimmet SV Kitakami.png|x200px]]
+|-
+| Glimmet in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Glimmet in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Poison}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[Alfornada Cavern]]<br>East Province: [[East Province (Area Three)|Area Three]]<br>West Province: [[West Province (Area Two)|Area Two]]<br>North Province: [[North Province (Area One)|Area One]], [[North Province (Area Two)|Area Two]], [[Glaseado Mountain]]<br>[[Area Zero]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Glimmet|3★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Oni Mountain]], [[Infernal Pass]], [[Crystal Pool]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Rock
+|type2=Poison
+|HP=48
+|Attack=35
+|Defense=42
+|SpAtk=105
+|SpDef=60
+|Speed=60
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Poison
+|Normal=50
+|Fighting=100
+|Flying=50
+|Poison=25
+|Ground=400
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=200
+|Grass=100
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Glimmet|Rock|Poison|9}}
+{{learnlist/level9|1|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level9|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|1|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level9|7|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/level9|11|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level9|15|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/level9|18|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level9|22|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/level9|26|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level9|29|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level9|33|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level9|37|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/level9|41|Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/level9|46|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/levelf/9|Glimmet|Rock|Poison|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Glimmet|Rock|Poison|9}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM101|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm9|TM220|Meteor Beam|Rock|Special|120|90|10||'''}}
+{{learnlist/tmf/9|Glimmet|Rock|Poison|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Glimmet|Rock|Poison|9}}
+{{learnlist/breed9|{{MSP/H|0074|Geodude}}{{MSP/H|0074-Alola|Geodude}}{{MSP/H|0075|Graveler}}{{MSP/H|0075-Alola|Graveler}}{{MSP/H|0076|Golem}}{{MSP/H|0076-Alola|Golem}}{{MSP/H|0934|Garganacl}}|Explosion|Normal|Physical|250|100|5|grid=7}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Memento|Dark|Status|—|100|10|grid=7}}
+{{learnlist/breed9|{{bag/s|TM Poison|SV|TM175}}{{tt|*|No Pokémon in the Mineral Egg Group can learn Toxic via level-up. However, the move is available via TM175 and can be passed down from Varoom line and the Glimmet line, or copied via Mirror Herb.}}|Toxic|Poison|Status|—|90|10|grid=7}}
+{{learnlist/breedf/9|Glimmet|Rock|Poison|9}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Poison}}
+{{Spindata/GO|col=6|type=Rock|ndex=0969
+|hatch=N/A
+|buddy=3
+|candy=Glimmet
+|evocandy=50
+|stamina=134
+|attack=187
+|defense=104
+|fast={{m|Rock Throw}}, {{m|Smack Down}}
+|special={{m|Dazzling Gleam}}, {{m|Power Gem}}, {{m|Sludge Wave}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Rock
+|type2=Poison
+|pictype=art
+|no1=0969
+|name1=Glimmet
+|type1-1=Rock
+|type2-1=Poison
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}
+|no2=0970
+|name2=Glimmora
+|type1-2=Rock
+|type2-2=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=rock|type2=poison}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0969}}-->
+{{Spritebox/HOME|ndex=0969}}
+{{Spritebox/Footer|969|Glimmet}}
+
+==In animation==
+[[File:Geeta Glimmet.png|thumb|250px|Glimmet in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Two Glimmet appeared in ''[[HZ079|Over the Top!]]'', under the ownership of [[Geeta]]. They were used to battle [[Liko]], [[Roy]], and [[Dot]] alongside {{p|Glimmora}} before [[fainting]] due to using {{m|Memento}} on {{TP|Roy|Crocalor}} and {{TP|Dot|Quaxwell}}.
+
+====Minor appearances====
+Glimmet made its debut in ''[[HZ064|The Approaching Shadow!]]'', where several of them were seen in a cave at [[Glaseado Mountain]].
+
+A {{tc|Student}}'s Glimmet appeared in ''[[HZ066|Infiltrating the System! Naranja Academy in Danger!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ079|Glimmet|Dot's Rotom Phone|Glimmet, the Ore Pokémon. A {{t|Rock}} and {{t|Poison}} type. It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+==In the manga==
+==In the TCG==
+{{main|Glimmet (TCG)}}
+
+==Trivia==
+*Glimmet shares its {{pkmn|category}} with {{p|Glimmora|its Evolution}} and {{p|Boldore}}. They are all known as the Ore Pokémon.
+
+===Origin===
+Glimmet and its evolved form may be based on a variety of animals with sessile habits, like {{wp|sea anemones}}, {{wp|crinoids}}, and most notably some species of {{wp|sea sponge}}, some of which may bear resemblance to flowers, like the carnivorous {{wp|demosponge}}s of the clade {{wp|cladorhizidae}}. It is common for sponges to use mineralized {{wp|Sponge spicule|spicules}} and chemical deterrents as a form of defense mechanism, which may be the source of inspiration for its {{A|Toxic Debris}} [[Ability]].
+
+It may also reference {{wp|copper(II) sulfate}}, a toxic inorganic compound taking the form of blue crystals. Its flower-like characteristics may specifically be a reference to the copper(II) sulfate hydrate {{wp|chalcanthite}}. Glimmet may also be loosely based on {{wp|Lithops}}, which are also known as "pebble plants" or "living stones".
+
+====Name origin====
+Glimmet may be a combination of ''glimmer'' and the suffix ''-et'' (indicating something is small or lesser) or ''emit''.
+
+Kirame may be a combination of キラキラ ''kirakira'' (onomatopoeia for glittering) or 煌めく ''kirameku'' (to glitter), 芽 ''me'' (bud), and possibly ''killer''.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Poison
+|ja=キラーメ ''Kirame''|jameaning=From {{tt|キラキラ ''kirakira''|onomatopoeia for glittering}} or {{tt|煌めく ''kirameku''|to glitter}}, ''killer'' and {{tt|芽 ''me''|bud}}
+|fr=Germéclat|frmeaning=From ''{{tt|germe|sprout}}'' and ''{{tt|éclat|radiance or shard}}''
+|es=Glimmet|esmeaning=Same as English name
+|de=Lumispross|demeaning=From ''{{tt|luminare|Latin for 'to shine'}}'' and ''{{tt|Spross|sprout}}''
+|it=Glimmet|itmeaning=Same as English name
+|ko=초롱순 ''Chorongsun''|komeaning=From {{tt|초롱초롱 ''chorong-chorong''|onomatopoeia for glittering}} and {{tt|순 (筍) ''sun''|sprout}}
+|zh_cmn=晶光芽 ''Jīngguāngyá''|zh_cmnmeaning=From {{tt|晶 ''jīng''|crystal}}, {{tt|光 ''guāng''|light}}, and {{tt|芽 ''yá''|bud}}
+|zh_yue=晶光芽 ''Jīnggwōngngàh''|zh_yuemeaning=From {{tt|晶 ''jīng''|crystal}}, {{tt|光 ''gwōng''|light}}, and {{tt|芽 ''ngàh''|bud}}
+|hi=चमकिलर ''Chamkiller''|himeaning=From {{tt|चमकीला ''chamkīlā''|glittering}} and ''killer''
+|th=คิราเมะ ''Khirame''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Rock|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0968|prev=Orthworm|nextnum=0970|next=Glimmora}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Lumispross]]
+[[es:Glimmet]]
+[[fr:Germéclat]]
+[[it:Glimmet]]
+[[ja:キラーメ]]
+[[zh:晶光芽]]

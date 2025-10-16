@@ -1,0 +1,324 @@
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/GO|species=Cufant}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0877|prev=Morpeko|nextnum=0879|next=Copperajah|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Cufant
+|jname=ゾウドウ
+|jtranslit=Zōdō
+|tmname=Zoudou
+|ndex=0878
+|type1=Steel
+|category=Copperderm
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=220.5
+|weight-kg=100.0
+|abilityn=d
+|ability1=Sheer Force
+|abilityd=Heavy Metal
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Mineral
+|eggcycles=25
+|evtotal=1
+|evat=1
+|expyield=66
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|catchrate=190
+|body=08
+|pokefordex=cufant
+|generation=8
+|friendship=50
+}}
+'''Cufant''' ([[List of Japanese Pokémon names|Japanese]]: '''ゾウドウ''' ''Zoudou'') is a {{type|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Copperajah}} starting at [[level]] 34.
+
+==Biology==
+Cufant is a roughly spherical elephantine {{OBP|Pokémon|species}} with a body made of copper. The tip of its trunk is shaped like a spoon or shovel, and Cufant uses it to dig in the ground and carve out rocks and ores to eat. It has four stout legs, and each leg has a single anterior nail. Cufant has a bulbous dome atop its head and a short bobtail.
+
+Most of its body is a tangerine color, but its ventral side is lighter. It's also covered in patches of green where rain has tarnished the copper in its skin. It has two such patches at the base of its trunk, and a dappled tarnish pattern on its domed skull and dorsal side. The tip of its trunk and the rims of its nails are also tarnished green, and it has a green patch behind each of its eyes.
+
+Cufant is said to be tremendously strong, carrying loads of over five tons with minimal effort. Cufant and Copperajah are docile in nature, and were introduced to the [[Galar]] and [[Paldea]] regions to assist with heavy labor. It travels in herds, searching for food in caves in the morning.
+
+===Evolution===
+Cufant evolves into {{p|Copperajah}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Steel
+|pictype=art
+|no1=0878
+|name1=Cufant
+|type1-1=Steel
+|evo1=
+|no2=0879
+|name2=Copperajah
+|type1-2=Steel}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Steel}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=302|reg2=Galar|label2=Crown Tundra|num2=108|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It digs up the ground with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=124|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Using the pointy tip of its trunk, it carves off chunks of hard rocks to eat. It is very docile and helps people with physical labor.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pokémon feed.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{steel color dark}}; background:#{{steel color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{steel color light}}; background:#{{steel color light}} | [[File:Pokédex Image Cufant SV.png|x200px]]
+|-
+| Cufant in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Steel}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Bridge Field]]<br>[[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Seat/Dens|Giant's Seat]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Foot]]}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[East Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Cufant|2★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Steel|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17, 30|March 26 to April 28, 2020<br>June 30 to July 16, 2020<br>July 20 to 31, 2020|link=Wild Area News#March 26 to April 9 and April 16 to April 28, 2020}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Steel}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Lagging Tail|5}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Steel
+|HP=72
+|Attack=80
+|Defense=49
+|SpAtk=40
+|SpDef=49
+|Speed=40
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Cufant|Steel|Steel|8}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|5|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|10|Rock Smash|Fighting|Physical|40|100|15}}
+{{learnlist/level9|15|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/level9|20|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level9|25|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level9|30|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level9|35|Strength|Normal|Physical|80|100|15}}
+{{learnlist/level9|40|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level9|45|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/level9|50|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/level9|55|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/levelf/9|Cufant|Steel|Steel|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Cufant|Steel|Steel|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Cufant|Steel|Steel|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Cufant|Steel|Steel|8}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0326|Grumpig}}{{MSP/H|0336|Seviper}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0916|Oinkologne}}|Belch|Poison|Special|120|90|10}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571-Hisui|Zoroark}}{{MSP/H|0712|Bergmite}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713-Hisui|Avalugg}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0027|Sandshrew}}{{MSP/H|0027-Alola|Sandshrew}}{{MSP/H|0028|Sandslash}}{{MSP/H|0028-Alola|Sandslash}}{{MSP/H|0074|Geodude}}{{MSP/H|0074-Alola|Geodude}}{{MSP/H|0075|Graveler}}{{MSP/H|0075-Alola|Graveler}}{{MSP/H|0076|Golem}}{{MSP/H|0076-Alola|Golem}}{{MSP/H|0155|Cyndaquil}}{{MSP/H|0156|Quilava}}{{MSP/H|0157|Typhlosion}}{{MSP/H|0157-Hisui|Typhlosion}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0231|Phanpy}}{{MSP/H|0232|Donphan}}{{MSP/H|0498|Tepig}}{{MSP/H|0499|Pignite}}{{MSP/H|0500|Emboar}}{{MSP/H|0775|Komala}}|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/breed9|{{MSP/H|0074|Geodude}}{{MSP/H|0074-Alola|Geodude}}{{MSP/H|0075|Graveler}}{{MSP/H|0075-Alola|Graveler}}{{MSP/H|0076|Golem}}{{MSP/H|0076-Alola|Golem}}{{MSP/H|0128|Tauros}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0155|Cyndaquil}}{{MSP/H|0156|Quilava}}{{MSP/H|0157|Typhlosion}}{{MSP/H|0157-Hisui|Typhlosion}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0185|Sudowoodo}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0231|Phanpy}}{{MSP/H|0234|Stantler}}{{MSP/H|0899|Wyrdeer}}{{MSP/H|0322|Numel}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}{{MSP/H|0712|Bergmite}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713-Hisui|Avalugg}}{{MSP/H|0766|Passimian}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}{{MSP/H|0967|Cyclizar}}{{MSP/H|0971|Greavard}}{{MSP/H|0972|Houndstone}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed9|{{MSP/H|0050|Diglett}}{{MSP/H|0050-Alola|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0323|Camerupt}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}|Fissure|Ground|Physical|—|30|5}}
+{{learnlist/breed9|{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0185|Sudowoodo}}{{MSP/H|0194|Wooper}}{{MSP/H|0194-Paldea|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0980|Clodsire}}{{MSP/H|0231|Phanpy}}{{MSP/H|0232|Donphan}}{{MSP/H|0775|Komala}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}{{MSP/H|0921|Pawmi}}{{MSP/H|0922|Pawmo}}{{MSP/H|0923|Pawmot}}|Slam|Normal|Physical|80|75|20}}
+{{learnlist/breed9|{{MSP/H|0052-Galar|Meowth}}{{MSP/H|0863|Perrserker}}{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0128|Tauros}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128-Paldea Blaze|Tauros}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0289|Slaking}}{{MSP/H|0336|Seviper}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0403|Shinx}}{{MSP/H|0404|Luxio}}{{MSP/H|0405|Luxray}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0614|Beartic}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}{{MSP/H|0965|Varoom}}{{MSP/H|0966|Revavroom}}|Swagger|Normal|Status|—|85|15}}
+{{learnlist/breed9|{{MSP/H|0275|Shiftry}}|Whirlwind|Normal|Status|—|—|20}}
+{{learnlist/breedf/9|Cufant|Steel|Steel|8}}
+
+===Side game data===
+{{Spindata/Head|type=Steel}}
+{{Spindata/GO|col=6|type=Steel|ndex=0878
+|egg=N/A
+|buddy=5
+|candy=Cufant
+|evocandy=50
+|stamina=176
+|attack=140
+|defense=91
+|fast={{m|Tackle}}, {{m|Rock Smash}}
+|special={{m|Iron Head}}, {{m|Dig}}, {{m|Play Rough}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Steel
+|pictype=art
+|no1=0878
+|name1=Cufant
+|type1-1=Steel
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 34}}
+|no2=0879
+|name2=Copperajah
+|type1-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Steel}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=878}}
+<!--{{Spritebox/9|ndex=0878}}-->
+{{Spritebox/HOME|ndex=0878}}
+{{Spritebox/Footer|878|Cufant}}
+
+==In animation==
+===Main series===
+[[File:Cufant anime.png|thumb|250px|Cufant in {{aniseries|HZ}}]]
+====Major appearances====
+
+====Minor appearances====
+Cufant debuted in a flashback in ''[[JN044|Sword and Shield: "From Here to Eternatus!"]]'', under the ownership of [[Rose]]. It is his Copperajah in the present day.
+
+A {{pkmn|Trainer}}'s Cufant appeared in ''[[HZ019|The Bittersweet Truth]]''. It was used in a battle against {{OBP|Mitchell|HZ019}} where it defeated his {{p|Vanillite}}.
+{{-}}
+
+==In the manga==
+[[File:Rose Oleana Adventures.png|thumb|130px|Cufant in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Cufant debuted under the ownership of [[Rose]] in ''[[PASS08|Toasty!! Battle Against Toxapex]]''. It evolved into {{p|Copperajah}} prior to ''[[PASS14|Teary!! The Voice of the Master]]''.
+
+Two Cufant appeared in [[PASV17]].
+{{-}}
+
+==In the TCG==
+{{main|Cufant (TCG)}}
+==Trivia==
+[[File:Company Icon Galar Minerals.png|thumb|150px|Icon for Galar Minerals]]
+* The company logo for [[Poké Job|Galar Minerals]] depicts a Cufant head.
+* Cufant's English {{pkmn|category}}, "Copperderm", may be a combination of ''copper'' and ''-derm'' (suffix derived from an Ancient Greek word meaning "skin") or ''{{wp|Pachydermata|Pachyderm}}''. The name can be taken to mean "copper skin".
+
+===Origin===
+Cufant resembles an {{wp|Indian elephant}} calf with a {{wp|spade}} for a trunk. It may also be based on elephant statues common in {{wp|Indian art}} and {{wp|Thai art}}. The way its {{wp|copper}} body tarnishes in the rain may be inspired by how metallic copper oxides into {{wp|Copper(II) oxide|cupric oxide}} when exposed to the environment. 
+
+====Name origin====
+Cufant may be a combination of ''Cu'' ({{wp|chemical symbol|element symbol}} for copper), ''cuprum'' (the Latin name for copper from which the symbol is derived), or ''cute'', and ''elephant'' or ''infant''.
+
+Zoudou may be a combination of 象 ''zō'' (elephant) and 銅 ''dō'' (copper) or 童 ''dō'' (child). It may also reference 銅像 ''dōzō'' (bronze statue).
+
+==In other languages==
+{{Other languages|type=Steel|type2=Steel
+|ja=ゾウドウ ''Zoudou''|jameaning=From {{tt|象 ''zō''|elephant}} and {{tt|銅 ''dō''|copper}} or {{tt|童 ''dō''|child}}, and {{tt|銅像 ''dōzō''|bronze statue}}
+|fr=Charibari|frmeaning=From ''{{wp|charivari}}'' and ''{{tt|barrir|to make the sound of an elephant's cry}}''
+|es=Cufant|esmeaning=Same as English name
+|de=Kupfanti|demeaning=From ''{{tt|Kupfer|copper}}'' and ''{{tt|Elefant|elephant}}''
+|it=Cufant|itmeaning=Same as English name
+|ko=끼리동 ''Kkiridong''|komeaning=From {{tt|코끼리 ''kokkiri''|elephant}}, {{tt|동 (銅) ''dong''|copper}}, and {{tt|동 (童) ''dong''|child}}
+|zh_cmn=銅象 / 铜象 ''Tóngxiàng''|zh_cmnmeaning=From {{tt|銅 / 铜 ''tóng''|copper}}, {{tt|象 ''xiàng''|elephant}}, and {{tt|銅像 / 铜像 ''tóngxiàng''|bronze statue}}
+|zh_yue=銅象 ''Tùhngjeuhng''|zh_yuemeaning=From {{tt|銅 ''tùhng''|copper}}, {{tt|象 ''jeuhng''|elephant}}, and {{tt|銅像 ''tùhngjeuhng''|bronze statue}} 
+|hi=कॉपाराती ''Copperaati''|himeaning=From ''copper'' and {{tt|हाथी ''hāthī''|elephant}}
+|th=โซโด ''Sodo''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0877|prev=Morpeko|nextnum=0879|next=Copperajah}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kupfanti]]
+[[es:Cufant]]
+[[fr:Charibari]]
+[[it:Cufant]]
+[[ja:ゾウドウ]]
+[[zh:铜象]]

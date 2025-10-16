@@ -1,0 +1,307 @@
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/GO|species=Orthworm}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0967|prev=Cyclizar|nextnum=0969|next=Glimmet|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Orthworm
+|jname=ミミズズ
+|tmname=Mimizuzu
+|ndex=0968
+|type1=Steel
+|category=Earthworm
+|height-ftin=8'02"
+|height-m=2.5
+|weight-lbs=683.4
+|weight-kg=310.0
+|abilityn=1
+|ability1=Earth Eater
+|ability2=
+|abilityd=Sand Veil
+|egggroupn=1
+|egggroup1=Field
+|egggroup2=
+|eggcycles=35
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=2
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=240
+|lv100exp=1250000
+|gendercode=127
+|color=Pink
+|catchrate=25
+|body=02
+|pokefordex=orthworm
+|generation=9
+|friendship=50
+}}
+'''Orthworm''' ([[List of Japanese Pokémon names|Japanese]]: '''ミミズズ''' ''Mimizuzu'') is a {{type|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+[[File:968Orthworm Dream 2.png|thumb|left|250px|Orthworm's parapodia]]
+Orthworm is a long, worm-like Pokémon with a six-segmented metal body. Its body is red on top and light orange on the bottom, except for its second segment, which is steel-colored. The first segment is its head, which contains its small, pale blue eyes and a large, toothless mouth. There are pairs of cyan ovals lining either side of its body from its third to fifth segments, while its second segment has three of such pairs. {{wp|Parapodium|Parapodia}}-like tendrils can extend from the ovals on its second segment, which resemble simple fists. 
+
+When threatened, Orthworm uses its blue fist-like parapodia to pelt its opponent with a storm of punches. It lives in dry deserts, and eats iron from the soil to maintain its body. It is sometimes seen buried in the ground, with only its head visible.
+
+A {{pkmn2|giant}} Orthworm, known as the Lurking Steel Titan, is one of the [[Titan Pokémon]] found in [[Paldea]]. It mainly resides near a cavern in [[East Province (Area Three)]] where it feeds on [[Salty Herba Mystica]] inside a hidden cave.
+
+Orthworm is the [[Signature Ability|only known Pokémon]] that can have {{a|Earth Eater}} as an [[Ability]].
+{{left clear}}
+
+==Game data==
+[[File:Titan Orthworm SV.png|thumb|250px|The Lurking Steel Titan in {{g|Scarlet and Violet}}]]
+===NPC appearances===
+* {{g|Scarlet and Violet}}: Orthworm, known as the Lurking Steel Titan, is a minor character and a boss encounter in the games. It became a [[Titan Pokémon]] after consuming some [[Herba Mystica]].
+** The {{player}} and [[Arven]] eventually found it in [[East Province (Area Three)]] to find the [[Salty Herba Mystica|Herba Mystica it guards]] and defeated it, forcing it to flee. After both took the Herba Mystica, Orthworm became a normal-sized Pokémon once again. After this, it can be rematched in its original location, and will have the [[Mark|Titan Mark]] when captured.
+
+===Pokédex entries===
+{{Dex/Header|type=Steel}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=296|reg2=Kitakami|num2=96|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{steel color dark}}; background:#{{steel color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{steel color light}}; background:#{{steel color light}} | [[File:Pokédex Image Orthworm SV.png|x200px]]
+|style="border:2px solid #{{steel color light}}; background:#{{steel color light}} | [[File:Pokédex Image Orthworm SV Kitakami.png|x200px]]
+|-
+| Orthworm in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Orthworm in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Steel}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[East Province (Area Three)|Area Three]]<br>West Province: [[Asado Desert]]<br>East Province: [[East Province (Area Three)|Area Three]]<sup>[[Titan Pokémon|Former Titan]]</sup> ([[List of in-game event Pokémon in Pokémon Scarlet and Violet#Orthworm|Only one]])<br>[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Paldea)|Orthworm|5★}}, {{DL|List of 6★ Tera Raid Battles (Paldea)|Orthworm|6★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Apple Hills]], [[Reveler's Road]], [[Oni Mountain]], [[Oni's Maw]], [[Wistful Fields]], [[Paradise Barrens]], [[Kitakami Wilds]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Steel
+|HP=70
+|Attack=85
+|Defense=145
+|SpAtk=60
+|SpDef=55
+|Speed=65
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=1
+|eartheater=maybe
+|newground=0
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Orthworm|Steel|Steel|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level9|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|7|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level9|12|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/level9|16|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/level9|21|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level9|26|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|30|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level9|34|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level9|38|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level9|43|Iron Tail|Steel|Physical|100|75|15||'''}}
+{{learnlist/level9|47|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/level9|52|Shed Tail|Normal|Status|—|—|10}}
+{{learnlist/levelf/9|Orthworm|Steel|Steel|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Orthworm|Steel|Steel|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Orthworm|Steel|Steel|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Orthworm|Steel|Steel|9}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0162|Furret}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0336|Seviper}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}|Coil|Poison|Status|—|—|20|grid=6}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark|form=-Hisui}}|Curse|Ghost|Status|—|—|10|grid=6}}
+{{learnlist/breed9|{{MSP/H|0028-Alola|Sandslash}}{{MSP/H|0863|Perrserker}}|Metal Burst|Steel|Physical|—|100|10|grid=6}}
+{{learnlist/breedf/9|Orthworm|Steel|Steel|9}}
+
+====Special moves====
+{{learnlist/eventh/9|Orthworm|Steel|Steel|9}}
+{{learnlist/event9|[[List of in-game event Pokémon in Pokémon Scarlet and Violet#Orthworm|Former Titan Orthworm]]|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/eventf/9|Orthworm|Steel|Steel|9}}
+
+===Side game data===
+{{Spindata/Head|type=Steel}}
+{{Spindata/GO|col=6|type=Steel|ndex=0968
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=172
+|attack=161
+|defense=219
+|fast={{m|Iron Tail}}, {{m|Mud-Slap}}
+|special={{m|Rock Tomb}}, {{m|Earthquake}}, {{m|Iron Head}}
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Steel
+|pictype=art
+|no1=0968
+|name1=Orthworm
+|type1-1=Steel}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=steel}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0968}}-->
+{{Spritebox/HOME|ndex=0968}}
+{{Spritebox/Footer|968|Orthworm}}
+
+==In animation==
+[[File:Orthworm anime.png|thumb|250px|Orthworm in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+An Orthworm debuted in ''[[HZ039|Tinkatink's Ideal Hammer]]'', causing trouble on the [[Brave Olivine]] before being defeated by [[Dot]] with the help of {{TP|Dot|Quaxly}} and {{TP|Dot|Tinkatink}}.
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ039|Orthworm|Liko's Rotom Phone|Orthworm, the Earthworm Pokémon. A {{t|Steel}} type. It inhabits dry, sandy areas. It eats iron in the soil to maintain its metalic body.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Biri-Biri===
+A Orthworm, namely the [[Titan Pokémon|Lurking Steel Titan]], briefly appeared as a silhouette in the music video for [[Biri-Biri]].
+{{-}}
+
+==In the manga==
+[[File:Titan Orthworm Adventures.png|thumb|190px|Orthworm in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A [[Titan Pokémon|Titan]] Orthworm debuted in [[PASV17]]. {{Scarlet}} and {{adv|Arven}} challenged the Lurking Steel Titan in order to obtain its supply of [[Herba Mystica]].
+{{-}}
+
+==In the TCG==
+{{main|Orthworm (TCG)}}
+
+==Trivia==
+* Despite its [[Pokédex entry]] in {{pkmn|Scarlet and Violet|Pokémon Scarlet}} stating that Orthworm can "wield the tendrils on its body like fists and pelt the opponent with a storm of punches," it cannot learn any {{Cat|punching moves}}.
+
+===Origin===
+Orthworm appears to be based on an {{wp|earthworm}}, and also shares similarities to a {{wp|Rapid transit#Trains|subway train}}. Its tendrils may be derived from the pronounced {{wp|parapodia}} of {{wp|polychaete}}s, relatives of earthworms. It may also be inspired by the {{wp|Iberian worm lizard}}, a reptile that superficially resembles an earthworm that lives deep underground and is native to Spain and Portugal (where Paldea is based on).
+
+The [[Titan Pokémon|Titan]] Orthworm may take some inspiration from {{wp|giant earthworm}}s, the {{wp|Mongolian death worm}}, or giant sandworms, a common archetype of monster popularized through works like ''{{wp|Dune (franchise)|Dune}}'' and ''{{wp|Beetlejuice}}''.
+
+====Name origin====
+Orthworm may be a combination of ''ore'', ''ortho-'' (prefix meaning "straight" or "upright"), ''{{wp|orthoclase}}'' (a mineral), and ''earthworm''.
+
+Mimizuzu may be a combination of 蚯蚓 ''mimizu'' (earthworm) and 埋める ''uzumeru'' (to bury).
+
+==In other languages==
+{{Other languages|type=Steel|type2=Steel
+|ja=ミミズズ ''Mimizuzu''|jameaning=From {{tt|蚯蚓 ''mimizu''|earthworm}} and {{tt|埋める ''uzumeru''|to bury}}
+|fr=Ferdeter|frmeaning=From ''{{tt|fer|iron}}'' and ''{{tt|ver de terre|earthworm}}''
+|es=Orthworm|esmeaning=Same as English name
+|de=Schlurm|demeaning=From ''{{tt|schleppen|to tow or haul}}'' and ''{{tt|Wurm|worm}}''
+|it=Orthworm|itmeaning=Same as English name
+|ko=꿈트렁 ''Kkumteureong''|komeaning=From {{tt|꿈틀꿈틀 ''kkumteul-kkumteul''|wriggling}} and {{tt|지렁이 ''jireong-i|earthworm}}
+|zh_cmn=拖拖蚓 ''Tuōtuōyǐn''|zh_cmnmeaning=From {{tt|拖 ''tuō''|to drag}} and {{tt|蚯蚓 ''qiūyǐn''|earthworm}}
+|zh_yue=拖拖蚓 ''Tōtōyáhn''|zh_yuemeaning=From {{tt|拖 ''tō''|to drag}} and {{tt|蚯蚓 ''yāuyáhn''|earthworm}}
+|hi=केचुक्रॉल ''Kechucrawl''|himeaning=From {{tt|केंचुआ ''kẽchuā''|earthworm}} and ''crawl''
+|th=มิมิซึซึ ''Mimisuesue''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Titan Pokémon]]
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{Titan Pokémon}}{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0967|prev=Cyclizar|nextnum=0969|next=Glimmet}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Schlurm]]
+[[es:Orthworm]]
+[[fr:Ferdeter]]
+[[it:Orthworm]]
+[[ja:ミミズズ]]
+[[zh:拖拖蚓]]

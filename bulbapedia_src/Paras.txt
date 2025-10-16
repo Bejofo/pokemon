@@ -1,0 +1,726 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Grass}}
+{{PokémonPrevNext/GO|species=Paras}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0045|prev=Vileplume|nextnum=0047|next=Parasect|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Paras
+|jname=パラス
+|jtranslit=Parasu
+|tmname=Paras
+|ndex=0046
+|type1=Bug
+|type2=Grass
+|category=Mushroom
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=11.9
+|weight-kg=5.4
+|abilitylayout=2
+|ability1=Effect Spore
+|ability2=Dry Skin
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Damp
+|egggroupn=2
+|egggroup1=Bug
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=1
+|evat=1
+|expyield=57
+|oldexp=70
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=190
+|body=14
+|pokefordex=paras
+|generation=1
+|friendship=70
+}}
+'''Paras''' ([[List of Japanese Pokémon names|Japanese]]: '''パラス ''' ''Paras'') is a dual-type {{2t|Bug|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Parasect}} starting at [[level]] 24.
+
+==Biology==
+[[File:Mt Moon Paras.png|thumb|left|250px|Paras removing its {{wp|Ophiocordyceps sinensis|tochukaso}}]]
+Paras is an orange, {{wp|insect|insectoid}} {{OBP|Pokémon|species}} that resembles the nymph stage of a {{wp|cicada}}. Its ovoid body is segmented, and it has three pairs of legs. The foremost pair of legs is the largest and has sharp claws at the tips. There are five specks on its forehead and three teeth on either side of its mouth. It has circular eyes with large pseudopupils.
+
+Red-and-yellow mushrooms known as [[tochukaso]] grow on this Pokémon's back. The mushrooms can be removed at any time and grow from spores that are doused on this Pokémon's back at birth by the mushroom on its mother's back. Tochukaso are parasitic in nature, drawing their nutrients from the host Paras's body in order to grow and exerting some command over the Pokémon's actions. For example, Paras drains nutrients from tree roots due to commands from the mushrooms. The mushrooms are also popular among collectors and have medicinal uses, usually involving extended life. Prior to [[Generation III]], {{m|Spore}} was its [[signature move]].
+
+Paras can often be found in [[cave]]s; however, it can also thrive in damp {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}. In the [[Alola]] [[region]], the mushrooms on its back do not grow well. This is thought to be from a lack of moisture or nutrients.
+
+===Evolution===
+Paras evolves into {{p|Parasect}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|type2=Grass
+|pictype=art
+|no1=0046
+|name1=Paras
+|type1-1=Bug
+|type2-1=Grass
+|evo1=
+|no2=0047
+|name2=Parasect
+|type1-2=Bug
+|type2-2=Grass}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Grass}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=046}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.}}
+{{Dex/Entry1|v=Yellow|entry=Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Grows by sucking nutrients from the roots of trees. The mushrooms on its back grow by drawing extracts from the bug host.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=070}}
+{{Dex/Entry1|v=Gold|entry=It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.}}
+{{Dex/Entry1|v=Silver|entry=As its body grows large, oriental mushrooms named tochukaso start sprouting out of its back.}}
+{{Dex/Entry1|v=Crystal|entry=The tochukaso growing on this {{ScPkmn}}'s back orders it to extract juice from tree trunks.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>As its body grows large, oriental mushrooms called tochukaso start sprouting out of its back. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=046}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Paras</sc> has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from the{{sup/3|R}}/this{{sup/3|S}} <sc>Bug</sc> {{ScPkmn}} host. They are highly valued as a medicine for extending life. <small>''(Version 1.0)''</small><br><sc>Paras</sc> has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this <sc>Bug</sc>/<sc>Grass</sc> {{ScPkmn}} host. They are highly valued as a medicine for extending life. <small>''(Versions 1.1 and 1.2)''</small>}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A <sc>Paras</sc> has parasitic tochukaso mushrooms growing on its back. They grow by drawing nutrients from the host. They are valued as a medicine for long life.}}
+{{Dex/Entry1|v=FireRed|entry=Growing out of the bug's back are mushrooms called tochukaso. The mushrooms grow with the bug host.}}
+{{Dex/Entry1|v=LeafGreen|entry=Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=070}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Mushrooms named tochukaso grow on its back. They grow along with the host <sc>Paras</sc>.}}
+{{Dex/Entry1|v=HeartGold|entry=It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.}}
+{{Dex/Entry1|v=SoulSilver|entry=As its body grows, large mushrooms named tochukaso start sprouting out of its back.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Mushrooms named tochukaso grow on its back. They grow along with the host Paras.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Mushrooms named tochukaso grow on its back. They grow along with the host Paras.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Growing out of the bug's back are mushrooms called tochukaso. The mushrooms grow with the bug host.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life. <small>''(matches Pokémon Sapphire version 1.0)''</small>}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=147|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=180|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=046}}
+{{Dex/Entry1|v=Sun|entry=No matter how much it eats, the mushrooms growing on its back steal away most of the nutrients it consumes.}}
+{{Dex/Entry1|v=Moon|entry=Mushrooms called tochukaso sprout from its back. They can be dried and powdered to make a medicine used to extend life.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Whether it's due to a lack of moisture or a lack of nutrients, in Alola the mushrooms on Paras don't grow up quite right.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=The mushrooms, known as tochukaso, are controlling the bug. Even if the bug bugs the mushrooms, they tell it to bug off.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui|num3=053}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword and Shield]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Mushrooms named tochukaso grow on its back. They grow along with the host Paras.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Sometimes seen at the foot of trees in humid forests. The mushrooms on its back—called tochukaso—are not present on infant specimens and instead emerge as Paras matures.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{grass color dark}}; background:#{{bug color light}}| [[File:Pokédex Image Paras SM.png|x200px]]
+|-
+| Paras in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=bug|type2=grass}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Mt. Moon]], {{safari|Kanto}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Mt. Moon]], {{safari|Kanto}}}}
+{{Availability/Entry1|v=Yellow|area=[[Mt. Moon]], {{safari|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>[[Ilex Forest]], [[Mt. Moon]]}}
+{{Availability/Entry1|v=Crystal|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>[[Ilex Forest]], [[Mt. Moon]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Mt. Moon]], {{safari|Kanto}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Great Marsh]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>[[Ilex Forest]], [[Mt. Moon]]<br/>{{safari|Johto}} (Peak with 3 Forest points; tall grass in Swamp, default{{sup/t|M}}{{sup/t|D}})}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=FF3333|area={{pw|Noisy Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area={{rt|11|Unova}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{Dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Bug-type Safari|Bug]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Petalburg Woods]] ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|11|Alola}}, [[Brooklet Hill]], [[Lush Jungle]]{{sup/t|Day}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Brooklet Hill]], [[Lush Jungle]]{{sup/t|Day}}}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Mt. Moon]]}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Great Marsh]] (After obtaining the [[National Pokédex]])<br>[[Grand Underground]] - [[Grassland Cave]], [[Sunlit Cavern]], [[Swampy Cave]], [[Bogsunk Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' [[Nature's Pantry]], massive mass outbreaks<br>'''[[Crimson Mirelands]]:''' [[Golden Lowlands]], near [[Ursa's Ring]], near [[Cloudpool Ridge]], [[Diamond Heath]], near [[Cottonsedge Prairie]], [[Droning Meadow]], massive mass outbreaks<br>'''[[Cobalt Coastlands]]:''' near [[Windbreak Stand]]<br>'''[[Coronet Highlands]]:''' [[Heavenward Lookout]], [[Wayward Wood]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Grass}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Blue Field]]: [[Mt. Moon]] <br> Blue and [[Red Field]]s: {{safari|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 1]], [[Secret Storage 10]], Endless Level 25, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Silent Chasm]] (B7F-B9F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Krokka Tunnel]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Apple Woods]] (1F-12F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Apple Woods]] (1F-12F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode C)</small>}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Soothing Shore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 1|Safari Jungle: Stage 1]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Lookout Tree|Leafy Expanse: Lookout Tree]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Snorlax Sea]], [[Bulbasaur Sea]], [[Rayquaza Sea]], [[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Silent Chasm]] (6F-9F), [[Oddity Cave]] (3F-4F), [[Remains Island]] (3F-4F), [[Marvelous Sea]] (3F-4F), [[Fantasy Strait]] (3F-4F)<br/>Fainted Pokémon: [[Sinister Woods]]<br/>Mystery House: [[Pitfall Valley]], [[Darknight Relic]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 302]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Egg event]] (''{{DL|Egg event|Fighting- and Bug-Type Egg Event}}, {{DL|Egg event|Bug- and Steel-Type Egg Event}}''): {{sync/player|egg|Paras}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=bug|type2=grass}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Synthesis Paras|English|United States|5|January 3 to 9, 2003|link=List of PCNY event Pokémon distributions in Generation II#Synthesis Paras}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Bug|type2=Grass}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Gold|Silver|Pokémon Gold and Silver Versions}}
+{{HeldItems/Items2|TinyMushroom|23|Big Mushroom|2|rows=2}}
+{{HeldItems/Games1|Crystal|Pokémon Crystal Version}}
+{{HeldItems/Games2|FireRed|LeafGreen|Pokémon FireRed and LeafGreen Versions}}
+{{HeldItems/Items2|TinyMushroom|50|Big Mushroom|5|rows=4}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black|White|gcolor1=FFF|tcolor1={{black color}}|Pokémon Black and White Versions}}
+{{HeldItems/Items3|TinyMushroom|50|Big Mushroom|5|BalmMushroom|1|availNote3=[[Dark grass]] only,&#32;}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Items2|Tiny Mushroom|50|Big Mushroom|5|rows=5}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=FFF|tcolor2=FFF|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Springy Mushroom|35|Ball of Mud|15|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Grass
+|HP=35
+|Attack=70
+|Defense=55
+|SpAtk=45
+|SpDef=55
+|Speed=25
+|Special=55
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Grass
+|Speed=2
+|SpeedMax=5
+|Power=1
+|PowerMax=3
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=3
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=bug
+|type2=grass
+|Normal=100
+|Fighting=50
+|Flying=400
+|Poison=200
+|Ground=25
+|Rock=200
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=400
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|gen1bug= yes
+|oldpoison= 4
+|dryskin=maybe
+|newfire=5
+}}
+
+===Learnset===
+Paras is available in {{pkmn|Brilliant Diamond and Shining Pearl}} and [[Pokémon Legends: Arceus]].
+
+====By [[Level|leveling up]]====
+{{gameabbrev8|BDSP}}
+{{learnlist/levelh/8|Paras|Bug|Grass|1}}
+{{learnlist/level8|1|Scratch|Normal|Physical|40|100|35||}}
+{{learnlist/level8|6|Stun Spore|Grass|Status|—|75|30||}}
+{{learnlist/level8|6|Poison Powder|Poison|Status|—|75|35||}}
+{{learnlist/level8|11|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level8|17|Fury Cutter|Bug|Physical|40|95|20||'''}}
+{{learnlist/level8|22|Spore|Grass|Status|—|100|15||}}
+{{learnlist/level8|27|Slash|Normal|Physical|70|100|20||}}
+{{learnlist/level8|33|Growth|Normal|Status|—|—|20||}}
+{{learnlist/level8|38|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level8|43|Aromatherapy|Grass|Status|—|—|5||}}
+{{learnlist/level8|49|Rage Powder|Bug|Status|—|—|20||}}
+{{learnlist/level8|54|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/levelf/8|Paras|Bug|Grass|1}}
+
+{{gameabbrev8|LA}}
+{{learnlist/levelh/LA|Paras|Bug|Grass|1}}
+{{learnlist/levelLA|1|9|Absorb|Grass|Special|30|40|20|100|100|20||'''}}
+{{learnlist/levelLA|5|14|Stun Spore|Grass|Status|—|—|—|80|100|20||}}
+{{learnlist/levelLA|9|18|Poison Powder|Poison|Status|—|—|—|80|100|20||}}
+{{learnlist/levelLA|15|25|Venoshock|Poison|Special|65|80|50|100|100|15||}}
+{{learnlist/levelLA|21|31|Slash|Normal|Physical|70|85|55|100|100|15||}}
+{{learnlist/levelLA|29|40|Spore|Grass|Status|—|—|—|100|100|10||}}
+{{learnlist/levelLA|37|48|X-Scissor|Bug|Physical|80|100|60|100|100|10||'''}}
+{{learnlist/levelLA|47|59|Energy Ball|Grass|Special|80|100|60|100|100|10||'''}}
+{{learnlist/levelf/8|Paras|Bug|Grass|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/8|Paras|Bug|Grass|1}}
+{{learnlist/tm8|TM09|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm8|TM16|Light Screen|Psychic|Status|—|—|30||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM19|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm8|TM28|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm8|TM31|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|—|—|15||}}
+{{learnlist/tm8|TM36|Sludge Bomb|Poison|Special|90|100|10||}}
+{{learnlist/tm8|TM40|Aerial Ace|Flying|Physical|60|—|20||}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|—|—|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|—|100|15||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM54|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM70|Flash|Normal|Status|—|100|20||}}
+{{learnlist/tm8|TM75|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm8|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM86|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|—|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||}}
+{{learnlist/tm8|TM98|Rock Smash|Fighting|Physical|40|100|15||}}
+{{learnlist/tmf/8|Paras|Bug|Grass|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Paras|Bug|Grass|2}}
+{{learnlist/breed8|{{MSP/H|0015|Beedrill}}{{MSP/H|0123|Scyther}}{{MSP/H|0212|Scizor}}{{MSP/H|0165|Ledyba}}{{MSP/H|0166|Ledian}}{{MSP/H|0167|Spinarak}}{{MSP/H|0168|Ariados}}{{MSP/H|0283|Surskit}}{{MSP/H|0284|Masquerain}}{{MSP/H|0291|Ninjask}}|Agility|Psychic|Status|—|—|30|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0010|Caterpie}}{{MSP/H|0012|Butterfree}}{{MSP/H|0013|Weedle}}{{MSP/H|0015|Beedrill}}{{MSP/H|0127|Pinsir}}{{MSP/H|0168|Ariados}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0213|Shuckle}}{{MSP/H|0265|Wurmple}}{{MSP/H|0267|Beautifly}}{{MSP/H|0269|Dustox}}{{MSP/H|0291|Ninjask}}{{MSP/H|0401|Kricketot}}{{MSP/H|0402|Kricketune}}{{MSP/H|0412|Burmy}}{{MSP/H|0414|Mothim}}{{MSP/H|0415|Combee}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}{{MSP/H|0469|Yanmega}}|Bug Bite|Bug|Physical|60|100|20||'''|grid=8}}
+{{learnlist/breed8|{{MSP/H|0214|Heracross}}{{MSP/H|0286|Breloom}}|Counter|Fighting|Physical|—|100|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0047|Parasect}}{{MSP/H|0167|Spinarak}}{{MSP/H|0168|Ariados}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}|Cross Poison|Poison|Physical|70|100|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0015|Beedrill}}{{MSP/H|0168|Ariados}}{{MSP/H|0402|Kricketune}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}|Fell Stinger|Bug|Physical|50|100|25||'''|grid=8}}
+{{learnlist/breed8|{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}|Flail|Normal|Physical|—|100|15|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0114|Tangela}}{{MSP/H|0465|Tangrowth}}{{MSP/H|0407|Roserade}}|Grassy Terrain|Grass|Status|—|—|10|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0315|Roselia}}{{MSP/H|0407|Roserade}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0420|Cherubi}}{{MSP/H|0421|Cherrim}}|Leech Seed|Grass|Status|—|90|10|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0212|Scizor}}{{MSP/H|0290|Nincada}}{{MSP/H|0291|Ninjask}}|Metal Claw|Steel|Physical|50|95|35|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0012|Butterfree}}{{MSP/H|0048|Venonat}}{{MSP/H|0049|Venomoth}}{{MSP/H|0269|Dustox}}{{MSP/H|0414|Mothim}}|Psybeam|Psychic|Special|65|100|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0207|Gligar}}{{MSP/H|0472|Gliscor}}{{MSP/H|0291|Ninjask}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}{{MSP/H|0402|Kricketune}}|Screech|Normal|Status|—|85|40|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0071|Victreebel}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0283|Surskit}}{{MSP/H|0284|Masquerain}}{{MSP/H|0315|Roselia}}{{MSP/H|0407|Roserade}}{{MSP/H|0357|Tropius}}{{MSP/H|0415|Combee}}{{MSP/H|0455|Carnivine}}|Sweet Scent|Normal|Status|—|100|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0046|Paras}}{{MSP/H|0047|Parasect}}|Wide Guard|Rock|Status|—|—|10|{{colorlink|Grand Underground|000|^}}||grid=8}}
+{{learnlist/breedf/8|Paras|Bug|Grass|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{gameabbrev8|BDSP}}
+{{learnlist/tutorh/8|Paras|Bug|Grass|1}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Paras|Bug|Grass|1}}
+
+{{gameabbrev8|LA}}
+{{learnlist/tutorh/PLA|Paras|Bug|Grass|1}}
+{{learnlist/tutorPLA|Aerial Ace|Flying|Physical|60|75|45|—|—|20||}}
+{{learnlist/tutorPLA|Energy Ball|Grass|Special|80|100|60|100|100|10||'''}}
+{{learnlist/tutorPLA|False Swipe|Normal|Physical|40|50|30|100|100|30||}}
+{{learnlist/tutorPLA|Leech Life|Bug|Physical|75|90|60|100|100|10||'''}}
+{{learnlist/tutorPLA|Rest|Psychic|Status|—|—|—|—|—|10||}}
+{{learnlist/tutorPLA|Rock Smash|Fighting|Physical|40|50|30|100|100|20||}}
+{{learnlist/tutorPLA|Sludge Bomb|Poison|Special|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|X-Scissor|Bug|Physical|80|100|60|100|100|10||'''}}
+{{learnlist/tutorf/8|Paras|Bug|Grass|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|- style="background:#fff"
+| {{m|Vice Grip}}
+| [[Erika's Paras (Gym Challenge 71)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Stomp}}
+| style="background:#fff; {{roundybr|5px}}" | [[Paras (Supreme Victors 119)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Grass}}
+{{Spindata/Pinball|col=3|type=Bug|ndex=046|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=046|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=046
+|body=1
+|rate=11.4
+|area=Mushroom Forest
+|P1=The mushrooms on my back are my friends!
+|P2=Hey, my health is half gone...
+|P3=Please... I'm about to fall with my mushrooms...
+|PL=Yay! I leveled up! That makes me happy!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=046
+|body=1
+|rate=8.2
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=046
+|coset=3
+|conto={{p|Slowbro}}
+|recruitment=Feed an [[Food (Mystery Dungeon)|Apple]] to in a dungeon
+|P1=May I offer one of the mushrooms on my back as a token of friendship?
+|P2=This is too much...
+}}
+|-
+{{Spindata/Ranger|col=6|type=Bug
+|group=Bug
+|assist=Grass
+|fieldpower=1
+|field=Cut
+|loop=4
+|MinEXP=13
+|MaxEXP=24
+|num=050
+|browser=Paras cuts the [[Capture Line]] with its front claws to avoid being caught.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=2
+|def=2
+|speed=2
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=2
+|def=2
+|speed=2
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=046
+|walk=3.33
+|hp=43
+|attack=68
+|defense=49
+|speed=50
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=046
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=046|num=454
+|min=40
+|max=115
+|raisemaxlevel=15
+|skill=Paralyze
+|skilldesc=Leaves the foe paralyzed.
+|swapper=Paralyze+
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=046
+|hatch=N/A
+|buddy=3
+|candy=Paras
+|evocandy=50
+|stamina=111
+|attack=121
+|defense=99
+|fast={{m|Scratch}}, {{m|Bug Bite}}
+|special={{m|Cross Poison}}, {{m|X-Scissor}}, {{m|Seed Bomb}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|type2=Grass
+|pictype=art
+|no1=0046
+|name1=Paras
+|type1-1=Bug
+|type2-1=Grass
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 24}}
+|no2=0047
+|name2=Parasect
+|type1-2=Bug
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Grass}}
+{{Spritebox/1|ndex=046}}
+{{Spritebox/2|ndex=046}}
+{{Spritebox/3|ndex=046}}
+{{Spritebox/4|ndex=046}}
+{{Spritebox/5|ndex=046}}
+{{Spritebox/6|ndex=046|crop=55}}
+{{Spritebox/7/PE|ndex=046|crop=55|PEcrop=108}}
+{{Spritebox/8/LA|ndex=046|LAcrop=100}}
+{{Spritebox/NA|is=yes|gen=IX}}
+{{Spritebox/HOME|ndex=0046}}
+{{Spritebox/Footer|046|Paras}}
+
+==In animation==
+[[File:Paras anime.png|thumb|250px|Paras in ''[[Pokémon the Series]]'']]
+===Major appearances===
+In ''[[EP044|The Problem with Paras]]'', [[Cassandra]] owns a Paras that is extremely weak, but she needed it to [[Evolution|evolve]] into a Parasect so she could use its giant mushroom to aid her in her medical research. It did so towards the end of the episode.
+
+===Minor appearances===
+Multiple Paras debuted in ''[[EP006|Clefairy and the Moon Stone]]'', where they were removing the mushrooms on their backs. [[Seymour]] explained that this behavior was due to someone stringing lights in the caves of Mt. Moon, and implied that this was not good for them.
+
+In ''[[EP010|Bulbasaur and the Hidden Village]]'', a Paras was under [[Melanie]]'s care. It reappeared in a flashback in ''[[EP225|Bulbasaur... the Ambassador!]]''.
+
+In ''[[EP028|Pokémon Fashion Flash]]'', a Paras was on [[Scissor Street]].
+
+A Paras appeared in ''[[EP047|A Chansey Operation]]''.
+
+A Paras appeared in ''[[EP057|The Breeding Center Secret]]''.
+
+In ''[[PK01|Pikachu's Vacation]]'', a Paras was at the [[Pokémon Theme Park]].
+
+In ''[[EP065|Showdown at the Po-ké Corral]]'', multiple Paras were living at [[Professor Oak's Laboratory]].
+
+Two Paras of the {{DL|List of alternately colored Pokémon in animation|Valencian Pokémon|Valencia Island variant}} appeared in ''[[EP083|Poké Ball Peril]]''.
+
+In ''[[EP088|In the Pink]]'', a {{DL|List of alternately colored Pokémon in animation|Pink Pokémon|pink}} Paras was a resident of [[Pinkan Island]].
+
+In ''[[EP097|Tracey Gets Bugged]]'', a Paras was on [[Murcott Island]].
+
+In ''[[M02|The Power of One]]'', a Paras sensed the disturbance caused by [[Lawrence III]].
+
+A {{pkmn2|wild}} Paras appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP157|The Fortune Hunters]]'', a Paras was stolen by [[Butch]] and [[Cassidy]].
+
+In ''[[EP161|The Bug Stops Here]]'', a Paras was chased away by Misty after it scared her.
+
+In ''[[EP178|The Grass Route]]'', a Trainer's Paras competed in the [[Grass Tournament]].
+
+A Paras appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+In ''[[EP207|Got Miltank?]]'', a Paras was an inhabitant of a Pokémon-exclusive oasis.
+
+A Paras appeared in ''[[AG011|A Bite to Remember]]''.
+
+A Paras appeared in ''[[M07|Destiny Deoxys]]''.
+
+A Paras appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A {{pkmn|Coordinator}}'s Paras appeared in ''[[AG160|Harley Rides Again]]''.
+
+In ''[[AG191|Once More With Reeling!]]'', a Coordinator's Paras participated in the {{to|Terracotta}} {{pkmn|Contest}}.
+
+A Paras appeared in ''[[DP022|Borrowing on Bad Faith!]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', multiple Paras were residents of [[Pokémon Hills]].
+
+A Trainer's Paras appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+In ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', a Paras was playing in {{an|Lillie}}'s garden. It reappeared in ''[[SM030|The Ol' Raise and Switch!]]''.
+
+In ''[[M20|I Choose You!]]'', a Paras taking shelter from the rain in a cave alongside {{p|Entei}}.
+
+In ''[[SM042|Alola, Kanto!]]'', multiple Paras were seen at Professor Oak's Laboratory.
+
+Five Trainers' Paras appeared in ''[[SM081|A Young Royal Flame Ignites!]]''.
+
+Five Paras appeared in ''[[M21|The Power of Us]]'', with four under the ownership of different Trainers and the fourth being {{pkmn2|wild}}.
+
+Three Paras appeared in ''[[SM090|Securing the Future!]]'', with two under the ownership of different Trainers and the third being wild. They joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|true form}}.
+
+In ''[[SM131|The Battlefield of Truth and Love!]]'', a Paras was watching {{an|Bewear}} and {{an|Stufful}} put on a performance in their hot springs.
+
+In ''[[JN006|Working My Way Back to Mew!]]'', [[Goh]] caught a {{DL|List of Goh's Pokémon|Paras}}. It has since made further appearances in {{aniseries|JN}}.
+
+Multiple Paras appeared in a fantasy in ''[[JN033|Trade, Borrow, and Steal!]]''.
+
+A Trainer's Paras appeared in ''[[JN070|Take My Thief! Please!]]''.
+
+A Paras appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Paras appeared in ''[[JNS05|Distant Blue Sky!]]''.
+
+A Paras appeared in ''[[JN147|The Rainbow and the Pokémon Master!]]''.
+
+A Paras appeared as an image in [[HZ094]].
+
+===Pokédex entries===
+{{Animedexheader|Kanto|no}}
+{{Animedexbody|EP044|Paras|Ash's Pokédex|Paras, the Mushroom Pokémon. Rare mushrooms grow on its back.}}
+{{Animedexbody|EP044|Paras's type|Ash's Pokédex|Paras has qualities of both {{t|Bug}} and {{t|Grass}} Pokémon.}}
+{{Animedexfooter/Pokémon|Kanto}}
+
+==In the manga==
+[[File:Miles Paras.png|thumb|150px|Paras in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+In ''[[PS047|Purrrr-sian]]'', {{tc|Super Nerd}} {{adv|Miles}}, disguised as {{adv|Red}}, used a Paras during an attempt to {{pkmn2|caught|catch}} [[Pika]], who was with {{adv|Yellow}} at the time. It used its spores, attacking alongside his {{p|Persian}} and {{p|Marowak}}.
+
+In ''[[PS179|The Last Battle XIII]]'', a Paras was sent to participate in the fight in [[Ilex Forest]].
+
+===Pokémon Gold & Silver: The Golden Boys===
+A {{pkmn|Trainer}}'s Paras appeared in ''[[GB23|Let's Fight For The Future!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Paras appeared in ''[[GDZ03|A Match For Pokémon]]''.
+
+A Paras appeared in ''[[GDZ06|The Challenge at Celadon University!]]''.
+
+==In the TCG==
+{{main|Paras (TCG)}}
+
+==Trivia==
+* Early English promotional material for [[Pokémon Red and Green beta|Pokémon Red and Blue]] listed Paras's name as ''Parasyte''.
+* In [[Generation I]], {{type|Poison}} attacks were super effective against {{type|Bug}} Pokémon, making Paras and {{p|Parasect}} the only Pokémon to have ever had three 4× weaknesses.
+* Paras and Parasect with Dry Skin are the only Pokémon that can naturally take more than double damage from a move based on its type without the use of {{M|Forest's Curse}}.
+* No other Pokémon has the same [[Egg Group]] combination as Paras and its Evolution.
+** Paras and its Evolution are also the only {{type|Bug}} Pokémon in the {{egg3|Grass}}.
+* Paras and {{p|Parasect}} share their species name with {{p|Shroomish}}, {{p|Breloom}}, {{p|Foongus}}, and {{p|Amoonguss}}. They are all known as the Mushroom Pokémon.
+** All six Pokémon also share a common [[move]], {{m|Spore}}; and [[Ability]], {{a|Effect Spore}}.
+** In [[Pokémon GO]], they all give more [[Stardust (GO)|Stardust]] than most other Pokémon upon capture.
+* Paras can be seen as a counterpart to {{p|Morelull}}. Both share the {{t|Grass}} type, the same base stat total of 285, evolve at Level 24, both are mushroom-based Pokémon and thus can learn {{m|Spore}}, and both can be found in the wild in [[Pokémon Sun and Moon]], taking the place of the other depending on the [[time]], with Paras being found during the day and Morelull at night.
+* Paras and {{p|Parasect}} are the first in the trend of odd-numbered generations introducing Pokémon that appear to be based on fungi, followed by the {{p|Shroomish}}, {{p|Foongus}}, {{p|Morelull}}, and {{p|Toedscool}} lines, as well as {{p|Brute Bonnet}}.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Paras and Parasect}}
+The fungus on Paras is identified as [[tochukaso]], an {{wp|Parasitoid|endoparasitoid}} that replaces the host tissue and can affect the behavior of its {{wp|insect}} host. The base insect appears to be a {{wp|cicada}} {{wp|nymph (biology)|nymph}}. In concept, it could be inspired by ants that are infected with mushroom spores that take control of the host ant's brain and sprout from its head or back. It may also draw inspiration from ''{{wp|Massospora}}'', a genus of fungi which include species that specifically infect cicadas.
+
+====Name origin====
+Paras may be derived from ''{{wp|Parasitism|parasite}}'', referring to the parasitic {{wp|mushroom}} growing on its back.
+
+==In other languages==
+{{Other languages|type=bug|type2=grass
+|ja=パラス ''Paras''|jameaning=From ''{{wp|parasite}}''
+|fr=Paras|frmeaning=Same as English/Japanese name
+|es=Paras|esmeaning=Same as English/Japanese name
+|de=Paras|demeaning=Same as English/Japanese name
+|it=Paras|itmeaning=Same as English/Japanese name
+|ko=파라스 ''Paras''|komeaning=Transcription of Japanese name
+|zh_cmn=派拉斯 ''Pàilāsī''|zh_cmnmeaning=Transcription of Japanese name
+|zh_yue=派拉斯 ''Pāailāaisī''{{tt|*|Games}}<br>蘑菇蟲 ''Mòhgūchùhng''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=Transcription of Japanese name<br>From {{tt|蘑菇 ''mòhgū''|mushroom}} and {{tt|蟲 ''chùhng''|bug}}
+|he=פרס ''Paras''|hemeaning=Transcription of English name
+|hi=पैरस ''Paras''|himeaning= Transcription of English name
+|is=Sníkill{{tt|*|in the sub of Pikachu's Rescue Adventure}}|ismeaning=From ''{{tt|sníkill|parasite}}''
+|lt=Paras|ltmeaning=Same as English name
+|ru=Парас ''Paras''|rumeaning=Transcription of English name
+|th=พารัส ''Pharat''|thmeaning=Transcription of Japanese name
+}}
+
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0045|prev=Vileplume|nextnum=0047|next=Parasect}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+
+[[de:Paras]]
+[[es:Paras]]
+[[fr:Paras]]
+[[it:Paras]]
+[[ja:パラス]]
+[[zh:派拉斯]]

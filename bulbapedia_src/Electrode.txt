@@ -1,0 +1,987 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Electrode}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0100|prev=Voltorb|nextnum=0102|next=Exeggcute|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Electrode
+|jname=マルマイン
+|jtranslit=Marumain
+|tmname=Marumine
+|category={{tt|Ball|Electrode}} Pokémon<br/>{{tt|Sphere|Hisuian Electrode}}
+|ndex=0101
+|forme=2
+|form1=Electrode
+|form2=Hisuian Electrode
+|image2=0101Electrode-Hisui.png
+|type1=Electric
+|form2type1=Electric
+|form2type2=Grass
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=146.8
+|weight-kg=66.6
+|weight-lbs2=156.5
+|weight-kg2=71.0
+|abilitylayout=2
+|ability1=Soundproof
+|ability2=Static
+|abilityd=Aftermath
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=2
+|evsp=2
+|expyield=172<!--168 in Gen V-VI-->
+|oldexp=150
+|lv100exp=1,000,000
+|gendercode=255
+|color=Red
+|catchrate=60
+|body=01
+|pokefordex=electrode
+|generation=1
+|friendship=70
+}}
+'''Electrode''' ([[List of Japanese Pokémon names|Japanese]]: '''マルマイン''' ''Marumine'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Voltorb}} starting at [[level]] 30.
+
+In [[Hisui]], Electrode has an {{2t|Electric|Grass}} [[regional form]]. It [[Evolution|evolves]] from Hisuian {{p|Voltorb}} when exposed to a [[Leaf Stone]].
+
+==Biology==
+Electrode is a round {{OBP|Pokémon|species}} resembling an upside-down {{i|Poké Ball}} with a smile mouth, black slit eyes, prominent black eyebrows that are usually depicted with an angry expression and eyes. Its top half is white, while its lower half is red. The [[Bandai Pokémon Carddass Cards]] depict Electrode as hollow.
+
+Electrode tends to live in {{DL|List of Pokémon by habitat|Urban Pokémon|power plants}} where fresh electricity is being generated, which it consumes. As a result, it often causes blackouts. The more electric energy Electrode consumes, the faster it moves. When full of stored electricity, it has been known to drift with the wind.
+
+Electrode explodes in response to even the smallest stimulation, simply to entertain itself, or because it has taken in too much electricity. However, unlike Voltorb, Electrode can control its explosive ability at will. This unpredictable and explosive nature has earned it the nickname of "Bomb Ball". Because of its appearance, many Trainers try to pick Electrode up, mistaking it for an item. As seen in the anime, if Electrode explode to defend themselves, this also results in them using up their energy and becoming extremely worn out.
+
+===Forms===
+Electrode has a [[regional form]]: {{rf|Hisuian}} Electrode.
+
+In [[Hisui]], Electrode also resembles an upside-down Poké Ball, specifically one of its time period, with a wooden upper half and a glossy, dark red lower half with a hole in the bottom. Its eyes are large black holes inside a debossed pattern, resembling an angry glare. Its mouth is in a constant frown, unlike its Kantonian counterpart's smile, giving the impression that it is drawn on. Interestingly, its surface texture is similar to that of an [[Apricorn]].
+
+When enraged, Hisuian Electrode can unleash an electric current equivalent to about twenty lightning bolts. It can absorb and store chlorophyll energy along with electricity. Electrode can release this energy through the hole on its lower half. It can also climb up trees.
+
+A special Hisuian Electrode is worshipped by the Hisui people due to it being descended from one of the ten ancient Pokémon who received a blessing from {{p|Arceus}} despite the fact that Poké Balls had not yet been invented. In particular, it is one of the [[Noble Pokémon]] who resides in the [[Coronet Highlands]], watched over by the [[Warden]] [[Melli]].
+
+Hisuian Electrode is the [[signature move|only known Pokémon]] capable of learning the move {{m|Chloroblast}}.
+
+===Evolution===
+Electrode evolves from {{p|Voltorb}}.
+
+{{rf|Hisuian}} Electrode evolves from Hisuian Voltorb.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Electrode'''
+{{Evobox-2
+|type1=Electric
+|pictype=art
+|no1=0100
+|name1=Voltorb
+|type1-1=Electric
+|evo1=
+|no2=0101
+|name2=Electrode
+|type1-2=Electric}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Hisuian Electrode'''
+{{Evobox-2
+|type1=Electric
+|type2=Grass
+|pictype=sprite
+|no1=0100Voltorb-Hisui
+|name1=Voltorb
+|form1=Hisuian Form
+|type1-1=Electric
+|type2-1=Grass
+|evo1=
+|no2=0101Electrode-Hisui
+|form2=Hisuian Form
+|name2=Electrode
+|type1-2=Electric
+|type2-2=Grass}}
+</div>
+</div>
+
+==Game data==
+===NPC appearance===
+* [[Pokémon Legends: Arceus]]: [[Noble Pokémon|Hisuian Electrode]] is a supporting character and {{DL|Appendix:Fan terminology|boss}} in the game. It is one of the [[Noble Pokémon]], a descendant of the Electrode that the [[Ancient hero]] befriended ages ago. It was beloved by the people of the [[Hisui]] region along with the other Noble and [[Ride Pokémon (Hisui)|Ride Pokémon]].
+
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=101}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=It stores electric energy under very high pressure. It often explodes with little or no provocation.}}
+{{Dex/Entry1|v=Yellow|entry=Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Stores enormous amounts of electricity within its body and explodes with the slightest provocation. Extremely dangerous.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=121}}
+{{Dex/Entry1|v=Gold|entry=It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.}}
+{{Dex/Entry1|v=Silver|entry=It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.}}
+{{Dex/Entry1|v=Crystal|entry=The more energy it charges up, the faster it gets. But this also makes it more likely to explode.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=085|reg2=Kanto|num2=101}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Electrode</sc> eats electricity in the atmosphere. On days when lightning strikes, you can see this {{ScPkmn}} exploding all over the place from eating too much electricity.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=One of <sc>Electrode</sc>'s characteristics is its attraction to electricity. It is a problematical {{ScPkmn}} that congregates mostly at electrical power plants to feed on electricity that has just been generated.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.}}
+{{Dex/Entry1|v=FireRed|entry=It explodes in response to even minor stimuli. It is feared, with the nickname of “The Bomb Ball.”}}
+{{Dex/Entry1|v=LeafGreen|entry=It stores electric energy under very high pressure. It often explodes with little or no provocation.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=122}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It is known to drift on winds if it is bloated to bursting with stored electricity.}}
+{{Dex/Entry1|v=HeartGold|entry=It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.}}
+{{Dex/Entry1|v=SoulSilver|entry=It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is known to drift on winds if it is bloated to bursting with stored electricity.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is known to drift on winds if it is bloated to bursting with stored electricity.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=073|label1=Mountain|reg2=Hoenn|num2=088}}
+{{Dex/Entry1|v=X|t=FFF|entry=It explodes in response to even minor stimuli. It is feared, with the nickname of "The Bomb Ball."}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=One of Electrode's characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=101}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui|num3=193}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword and Shield]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It is known to drift on winds if it is bloated to bursting with stored electricity.}}
+{{Dex/Form|Hisuian Electrode}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=The tissue on the surface of its body is curiously similar in composition to an [[Apricorn]]. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=208|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The more energy it charges up, the faster it gets. But this also makes it more likely to explode.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{electric color dark}}; background:#{{electric color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{electric color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Electrode SV.png|x200px]]
+|-
+| Electrode in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{FB|Kanto|Power Plant}} (Two)<br/>[[Cerulean Cave]]<br/>[[In-game trade#Red and Blue|Trade]] {{p|Raichu}} at the [[Cinnabar Lab|Pokémon Lab]] on [[Cinnabar Island]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{FB|Kanto|Power Plant}} (Two)<br/>[[Cerulean Cave]]}}
+{{Availability/Entry1|v=Yellow|area={{FB|Kanto|Power Plant}} (Two)}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Team Rocket HQ]] ([[List of in-game event Pokémon in Generation II#Electrode|Three]])}}
+{{Availability/Entry1|v=Crystal|area=[[Team Rocket HQ]] ([[List of in-game event Pokémon in Generation II#Electrode|Three]])}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Ruby|t=fff|area=[[New Mauville]]<br/>[[Team Magma Hideout]] (Two)}}
+{{Availability/Entry1|v=Sapphire|t=fff|area=[[New Mauville]]<br/>[[Team Aqua Hideout]] (Two)}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[New Mauville]]<br/>[[Team Aqua Hideout]] (Two)}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{FB|Kanto|Power Plant}} (Two)<br/>[[Cerulean Cave]]<br/>[[In-game trade#FireRed and LeafGreen|Trade]] {{p|Raichu}} at the [[Cinnabar Lab|Pokémon Lab]] on [[Cinnabar Island]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=fff|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Voltorb}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Voltorb}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Voltorb}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Team Rocket HQ]] ([[List of in-game event Pokémon in Pokémon HeartGold and SoulSilver#Electrode|Three]])<br/>[[Cerulean Cave]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Lost Hotel]], [[Friend Safari]] ([[Friend Safari#Electric-type Safari|Electric]])}}
+{{Availability/Entry1|v=Omega Ruby|t=fff|area=[[Team Magma Hideout]] (Two)}}
+{{Availability/Entry1|v=Alpha Sapphire|t=fff|area=[[Team Aqua Hideout]] (Two)}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Team Rocket's Castle]] ([[List of in-game event Pokémon in Pokémon Ultra Sun and Ultra Moon#Electrode|Three]])}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area={{FB|Kanto|Power Plant}} ([[List of in-game event Pokémon in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!#Electrode|Four]])}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Voltorb}}}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Coronet Highlands]]:''' massive [[mass outbreak]]s <small>('''Hisuian Form''')</small><br>Unobtainable <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[West Province (Area Three)|Area Three]] <small>('''Kantonian Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Electrode|4★}}) <small>('''Kantonian Form''')</small><br>{{g|HOME}} <small>('''Hisuian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Tunnel]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Voltorb}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Voltorb}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 15]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Voltorb}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Concealed Ruins]] (B16F-B29F), [[World Abyss]] (B1F-B29F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Concealed Ruins]] (B16F-B29F), [[World Abyss]] (B1F-B29F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Altru Building]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Fiery Furnace]] <small>(Normal Mode B & S)</small>}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Evolution|Evolve]] {{p|Voltorb}}}}
+{{Availability/Entry2/None|v=MD Stormy|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|t={{water color dark}}|color2={{electric color}}|t2={{electric color dark}}|area=[[Evolution|Evolve]] [[Wonder Mail]] unlocked {{p|Voltorb}}}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Haunted Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Layuda Island]], [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Locomotive Café#Boom! Boom! Boom!|Locomotive Café: Boom! Boom! Boom!]] <small>(Boss)</small>, [[Variety Battle#Pokémon on a Roll|Variety Battle: Pokémon on a Roll]],<br>[[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 3|Safari Jungle: Stage 3]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Fix-Up Factory|Diamond Crater: Fix-Up Factory]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zapdos Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD red color}}|area=[[Lightning Field]] (15F-21F), [[Wish Cave]] (51F-55F), [[Joyous Tower]] (50F-55F), [[Purity Forest]] (51F-53F)<br/>Mystery House: [[Lightning Field]]<br/>[[Mystery_dungeon#Strong_Foes|Strong Foe]]: [[Mt. Faraway]] (5F-59F){{shinystar}}}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX43]]<br>Event: ''[[Special Challenge|Electrode Appears]]''}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Lt. Surge|Voltorb}} <small>('''Kantonian Form''')</small>, {{sync/player|egg|Voltorb}} <small>('''Kantonian Form''')</small>}}
+{{Availability/Entry1|1|v=Café ReMix|color={{cool color}}|area=Electrode Team Event <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+====Electrode====
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+{{HeldItems/header|type=Electric}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Silver Leaf|100|rows=2}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+|}
+
+====Hisuian Electrode====
+{{HeldItems/header|type=Electric|type2=Grass}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Caster Fern|35|Ball of Mud|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+=====Electrode=====
+======Generation I to VI======
+{{Stats
+|type=Electric
+|HP=60
+|Attack=50
+|Defense=70
+|SpAtk=80
+|SpDef=80
+|Speed= 140
+|Special=80
+}}
+
+======Generation VII onwards======
+{{BaseStats
+|type=Electric
+|HP=     60
+|Attack= 50
+|Defense=70
+|SpAtk=  80
+|SpDef=  80
+|Speed= 150
+}}
+
+=====Hisuian Electrode=====
+Hisuian Electrode has the same base stats as Kantonian Electrode.
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|Speed=5
+|SpeedMax=5
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=4
+}}
+
+===Type effectiveness===
+====Electrode====
+{{TypeEffectiveness
+|type1=electric
+|Normal=  100
+|Flying=   50
+|Fighting=100
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Poison=  100
+|Ghost=   100
+|Steel=    50
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric= 50
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=100}}
+
+====Hisuian Electrode====
+{{TypeEffectiveness
+|type1=Electric
+|type2=Grass
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=50
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=25
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Electrode=====
+{{learnlist/levelh/9|Electrode|Electric|Electric|1}}
+{{learnlist/level9|1|Magnetic Flux|Electric|Status|—|—|20}}
+{{learnlist/level9|1|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|1|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/level9|9|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|11|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|13|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|16|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/level9|20|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|22|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/level9|26|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level9|29|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|36|Magnet Rise|Electric|Status|—|—|10}}
+{{learnlist/level9|41|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|47|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/level9|54|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/level9|58|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/levelf/9|Electrode|Electric|Electric|1}}
+
+=====Hisuian Electrode=====
+{{learnlist/levelh/9|Electrode|Electric|Grass|8}}
+{{learnlist/level9|1|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Chloroblast|Grass|Special|150|95|5||'''}}
+{{learnlist/level9|4|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|6|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|9|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|11|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|13|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|16|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/level9|20|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|22|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/level9|26|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level9|29|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|34|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|34|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|41|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/level9|46|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/level9|50|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/levelf/9|Electrode|Electric|Grass|8}}
+
+====By [[TM]]====
+=====Electrode=====
+{{learnlist/tmh/9|Electrode|Electric|Electric|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM210|Supercell Slam|Electric|Physical|100|95|15||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Electrode|Electric|Electric|1}}
+
+=====Hisuian Electrode=====
+{{learnlist/tmh/9|Electrode|Electric|Grass|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM210|Supercell Slam|Electric|Physical|100|95|15||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Electrode|Electric|Grass|8}}
+
+====By {{pkmn|breeding}}====
+=====Electrode=====
+{{learnlist/breedh/9|Electrode|Electric|Electric|2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Metal Sound|Steel|Status|—|85|40|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Recycle|Normal|Status|—|—|10|grid=2}}
+{{learnlist/breedf/9|Electrode|Electric|Electric|2}}
+
+=====Hisuian Electrode=====
+{{learnlist/breedh/9|Electrode|Electric|Grass|8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Leech Seed|Grass|Status|—|90|10|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Recycle|Normal|Status|—|—|10|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Worry Seed|Grass|Status|—|100|10|grid=2}}
+{{learnlist/breedf/9|Electrode|Electric|Grass|8}}
+
+====By a prior [[Evolution]]====
+=====Electrode=====
+{{learnlist/prevoh/9|Electrode|Electric|Electric|1}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Electrode|Electric|Electric|1}}
+
+=====Hisuian Electrode=====
+{{learnlist/prevoh/9|Electrode|Electric|Grass|8}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Electrode|Electric|Grass|8}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg lightning color}}; border: 3px solid #{{tcg lightning color dark}}"
+|-
+! style="background: #{{tcg lightning color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg lightning color light}}; {{roundytr|5px}}" | Card
+|- style="background:#fff"
+| style="background:#fff; {{roundybl|5px}}" | {{m|Supersonic}}
+| style="background:#fff; {{roundybr|5px}}" | [[Electrode (EX Legend Maker 32)]]
+|}
+
+===Side game data===
+
+=====Electrode=====
+{{Spindata/Head|type=Electric}}
+{{Spindata/Pinball|col=2|type=Electric|ndex=101|acquisition=Evolve|evolved=yes}}
+{{Spindata/PinballRS|col=2|type=Electric|ndex=101|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=2|type=Electric|ndex=101|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Electric|ndex=101
+|body=1
+|rate=Evolve
+|area=Power Plant
+|P1=Whoa! Don't touch me! I'm liable to blow up!
+|P2=Watch it! My HP is down to half.
+|P3=I can't hold it... I'm about to blow up.
+|PL=Hey! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Electric|ndex=101
+|body=1
+|rate=-4.5
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Electric|ndex=101
+|coset=15
+|conto={{p|Magneton}}, {{p|Voltorb}}
+|recruitment=Feed an [[Food (Mystery Dungeon)|Apple]] to in a dungeon
+|P1=Watch out! I sometimes explode.
+|P2=Argh… I'm about to explode…
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=3
+|num=077
+|browser=It discharges electricity from its body. Beware: It may explode!
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Normal
+|field=Electrify
+|fieldpower=3
+|num=114
+|pastnum=157
+|browser=It causes explosions around itself.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Electric
+|att=3
+|def=3
+|speed=5
+}}
+{{Spindata/RumbleBlast|col=3|type=Electric
+|att=3
+|def=3
+|speed=5
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=101
+|walk=1.33
+|hp=51
+|attack=78
+|defense=54
+|speed=80
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Electric|ndex=101
+|Pad=Electrode and his friends came to explore the [[Haunted Zone]] when they learned what a popular place it was becoming.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=101
+|power=2
+|skill=Flinch Attack
+|skilldesc=Briefly stops wild Pokémon from taking action.
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=101|num=602
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Rock Break++
+|skilldesc=Sometimes destroys five breakable-rock disruptions.
+|swapper=Quirky++
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=101
+|hatch=N/A
+|buddy=3
+|candy=Voltorb
+|evolution=N/A
+|stamina=155
+|attack=173
+|defense=173
+|fast={{m|Spark}}, {{m|Volt Switch}}{{tt|*|From February 16, 2017 onward}}, {{m|Tackle}}{{tt|†|Prior to February 16, 2017}}
+|special={{m|Discharge}}, {{m|Thunderbolt}}, {{m|Hyper Beam}}, {{m|Foul Play}}{{tt|*|From July 9, 2019 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/CaféReMix|col=6|type=Electric
+|pkmn=Electrode
+|name=Electrode
+|rarity=gold
+|icon=0101
+|cookie=Electrode
+|specialty=Sweets
+|hearts=
+|deliveryrate=
+|puzzlescorelv1=110
+|puzzlescorelv25=230
+|linkslv1=35
+|linkslv25=28
+|skillgauge=80
+|skillicon1=Café ReMix Skill Clear Surrounding
+|skilldescription1=Clears surrounding icons and gimmicks three times. The section it clears changes every time you use the skill.
+|skillicon2=Café ReMix Skill Clear Surrounding Combined
+|skilldescription2=Clears more surrounding icons and gimmicks three times. The section it clears changes every time you use the skill.
+|spgimmicklv3=Popcorn
+|spgimmicklv3desc1=Clear up to 3
+|spgimmicklv3desc2= by making a combo next to them.
+|spgimmicklv5=Parchment Paper
+|spgimmicklv5desc1=Clear up to 3
+|spgimmicklv5desc2= and get their contents directly by making a combo net to them.
+|spgimmicklv15=Turnip
+|spgimmicklv15desc1=Clear up to 3
+|spgimmicklv15desc2= by making a combo next to them.
+|outfitgrade1=Puzzle score +3%
+|outfitgrade2=Puzzle score +3%
+|outfitgrade3=Puzzle score +3%
+|outfitgrade4=Puzzle score +3%
+|grade4gimmick=Popcorn
+|grade4score=1
+|alternate=Yes
+|customer=Electrode
+}}
+|}
+
+=====Hisuian Electrode=====
+{{Spindata/Head|type=Electric|type2=Grass}}
+{{Spindata/GO|col=6|type=Electric|ndex=101H
+|egg=N/A
+|buddy=3
+|candy=Voltorb
+|evolution=N/A
+|stamina=155
+|attack=176
+|defense=176
+|fast={{m|Tackle}}, {{m|Thunder Shock}}
+|special={{m|Energy Ball}}, {{m|Wild Charge}}, {{m|Swift}}
+}}
+|}
+
+===Evolution data===
+====Electrode====
+{{Evobox-2
+|type1=Electric
+|pictype=art
+|no1=0100
+|name1=Voltorb
+|type1-1=Electric
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0101
+|name2=Electrode
+|type1-2=Electric}}
+
+====Hisuian Electrode====
+{{Evobox-2
+|type1=Electric
+|type2=Grass
+|pictype=sprite
+|no1=0100Voltorb-Hisui
+|name1=Voltorb
+|form1=Hisuian Form
+|type1-1=Electric
+|type2-1=Grass
+|evo1={{Bag/s|Leaf Stone|SV}}<br>{{color2|000|Leaf Stone}}
+|no2=0101Electrode-Hisui
+|form2=Hisuian Form
+|name2=Electrode
+|type1-2=Electric
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/1|ndex=101}}
+{{Spritebox/2|ndex=101}}
+{{Spritebox/3|ndex=101}}
+{{Spritebox/4|ndex=101}}
+{{Spritebox/5|ndex=101}}
+{{Spritebox/6|ndex=101|crop=61}}
+{{Spritebox/7/PE|ndex=101|crop=60|PEcrop=120}}
+{{Spritebox/8/HOME<!--BDSP-->/LAForm|ndex=101|form1=H|LAcrop=156}}
+<!--{{Spritebox/9/2Forms|ndex=0101|form1=H}}-->
+{{Spritebox/HOME/2Forms|ndex=0101|form1=H}}
+{{Spritebox/Footer|101|Electrode}}
+
+==In animation==
+===Main series===
+[[File:Visquez Electrode.png|thumb|250px|Electrode in {{aniseries|JN}}]]
+====Major appearances====
+In ''[[EP093|Navel Maneuvers]]'', [[Danny]] used an Electrode during his third challenge against {{Ash}}. It used its weight to help Danny steer during the race down the mountain. Electrode reappeared in flashbacks in ''[[EP098|A Way Off Day Off]]'' and ''[[EP111|Hello, Pummelo!]]''.
+
+In ''[[EP114|The Underground Round Up]]'', {{OBP|Poncho|EP114}} was contracted to remove an overpopulation of Electrode occurred from a town on [[Hamlin Island]].
+
+In ''[[EP199|Current Events]]'', multiple Electrode served as security guards for an electric company's power station.
+
+In ''[[AG041|What You Seed is What You Get]]'', [[Natasha]] owns an Electrode, which she painted like a watermelon in order to guard a patch of actual watermelons.
+
+In ''[[AG079|Pearls are a Spoink's Best Friend]]'', a {{OBP|Spoink|recurring}} thought an Electrode was a pearl. When {{ashfr|the group}} tried to take the Electrode off of Spoink's head, it exploded.
+
+In ''[[AG188|Pinch Healing!]]'', [[Jessie]] unintentionally and indirectly caused an Electrode to fall and explode on a bus that a Poké-Sitter was driving near [[Fennel Valley]].
+
+In ''[[JN018|Destination: Coronation!]]'', [[Visquez]] used an Electrode in her battle against Ash, where it went up against {{AP|Gengar}} and defeated it. Electrode was then defeated by {{AP|Pikachu}}.
+
+====Minor appearances====
+Electrode debuted in ''[[EP033|The Flame Pokémon-athon]]'', where one was used in the [[Big P Pokémon Race]].
+
+An Electrode appeared in a flashback in ''[[EP037|Ditto's Mysterious Mansion]]''.
+
+A Voltorb appeared as an image in the dubbed version of ''[[EP056|The Ultimate Test]]''.
+
+Multiple Electrode appeared in ''[[EP065|Showdown at the Po-ké Corral]]'', living at [[Professor Oak's Laboratory]]. They were part of a pit trap that {{TRT}} fell into while trying to infiltrate the lab.
+
+An Electrode's explosion signaled the start of a swimming race between [[Ash's Squirtle]] and a {{p|Marill}} in ''[[PK01|Pikachu's Vacation]]''.
+
+In ''[[EP122|Flower Power]]'', [[Florando]] used an Electrode in his annual [[Pokémon Exhibition]].
+
+In ''[[PK07|Pikachu & Pichu]]'', an Electrode was living in [[Big Town]].
+
+In ''[[EP169|Beauty and the Breeder]]'', a {{tc|Pokémon Breeder}}'s Electrode participated in the [[Pokémon Beauty Contest]].
+
+An Electrode appeared in the opening intro of ''[[M04|Celebi: The Voice of the Forest]]'', which was reused for ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+In ''[[The Legend of Thunder!]]'', multiple Electrode were lured by [[Attila]] and [[Hun]]'s "Miracle Crystal".
+
+In ''[[EP266|A Claim to Flame!]]'', a {{pkmn|Trainer}}'s Electrode was on the athlete screening for the [[Silver Conference]].
+
+Multiple Electrode appeared in ''[[M07|Destiny Deoxys]]''.
+
+A Trainer's Electrode appeared in ''[[AG096|Training Wrecks]]''.
+
+A {{pkmn|Coordinator}}'s Electrode appeared in ''[[AG122|Deceit and Assist]]''.
+
+Two Electrode appeared in ''[[M11|Giratina and the Sky Warrior]]''.
+
+An Electrode appeared in a fantasy in ''[[XY009|Clemont's Got a Secret!]]''.
+
+In ''[[XY039|Summer of Discovery!]]'', ''[[XY041|Foggy Pokémon Orienteering!]]'', and ''[[XY042|Battling Into the Hall of Fame!]]'', a Trainer's Electrode attended the [[Pokémon Summer Camp]].
+
+In ''[[XY062|The Future Is Now, Thanks to Determination!]]'', four Electrode were among the {{type|Electric}} {{OBP|Pokémon|species}} controlled by {{TRT}}.
+
+An Electrode appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Trainer's Electrode appeared in [[HZ097]].
+
+A Trainer's Electrode appeared in [[HZ109]].
+
+====Pokédex entries====
+{{Animedexheader|Orange}}
+{{Animedexbody|EP114|Electrode|Ash's Pokédex|Electrode, the evolved form of Voltorb. Highly concentrated electric energy causes this Pokémon to {{m|Explosion|explode}} unpredictably. Also known as "The Bomb Ball."}}
+{{Animedexfooter/Pokémon|Orange}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN018|Electrode|Goh's Rotom Phone|Electrode, the Ball Pokémon. An {{t|Electric}} type. Electrode reacts to stimulation with explosive power. Feared far and wide, it's known as "The Bomb Ball."}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Generations===
+[[File:Electrode PG.png|thumb|250px|Electrode in [[Pokémon Generations]]]]
+In ''[[PG04|The Lake of Rage]]'', multiple Electrode were forcibly used to power [[Team Rocket]]'s radio wave generator. They were eventually freed by [[Lance's Dragonite]] and escape the [[Team Rocket HQ]], but not before gathering in front of [[Petrel]] and shocking him as revenge.
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', an Electrode briefly appeared under the ownership of a {{pkmn|Trainer}} in [[Ecruteak City]].
+{{-}}
+
+==In the manga==
+[[File:Eusine Electrode Adventures.png|thumb|250px|Electrode in [[Pokémon Adventures]]]]
+===Magical Pokémon Journey===
+An Electrode appeared in ''[[PPP01|How Do You Do, Pikachu?]]''.
+
+===Pocket Monsters DP===
+An Electrode appeared in [[PMDP11]].
+
+===Pokémon Adventures===
+Electrode made a cameo aboard the [[S.S. Anne]] in ''[[PS010|Danger: High Voltorb]]'' as one of [[Lt. Surge]]'s Pokémon ready to attack {{adv|Red}}. Lt. Surge also possesses a cannon capable of firing Electrode at high speeds to attack, supplied by Team Rocket technology in ''[[PS029|Go for the Golbat]]''. Since the disbandment of [[Team Rocket]] in ''[[PS090|The Legend]]'', Lt. Surge is technically no longer a member, and it is unconfirmed if he still possesses the weaponry.
+
+Ken of the [[Team Rocket Elite Trio]] used an Electrode along with its unevolved form, Voltorb, to attack {{adv|Yellow}} in ''[[PS056|The Coming of Slowpoke (Eventually)]]''.
+
+A {{tc|Team Rocket Grunt}} in [[Johto]] owns an Electrode in ''[[PS093|Sneasel Sneak Attack]]''.
+
+[[Eusine]], as seen in ''[[PS126|Jumping Jumpluff!]]'', possesses an Electrode, which allows him to travel over large distances by riding it. It apparently uses electric charges to suspend itself in midair. It was temporarily given to {{adv|Crystal}} to follow Suicune in ''[[PS128|Indubitably Ditto]]'' and ''[[PS129|Great Girafarig]]'', where they reached the [[Bell Tower|Tin Tower]]. It helped Crystal float during the {{pkmn|battle}} against Suicune in ''[[PS130|Suddenly Suicune (Part 1)]]'' to ''[[PS132|Suddenly Suicune (Part 3) ]]''; in the latter, it was seen over the debris near the Tin Tower, and was later retrieved back by its {{pkmn|Trainer}}.
+
+An Electrode appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+[[Wattson]]'s Electrode was only seen in ''[[PS204|Plugging Past Electrike I]]'', inside the Power Plant located in [[New Mauville]].
+
+In ''[[PS304|Swanky Showdown with Swalot]]'', an Electrode fought [[Spenser]] and [[Lucy]] in an {{wp|Exhibition game|exhibition battle}}, where it was swiftly defeated by Spenser's {{p|Crobat}} and [[Lucy's Seviper]] before it could even attack.
+
+The {{OBP|Battle Tower|Generation III}} rented an Electrode, which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+In a flashback, an Electrode appeared as one of the Pokémon trained by the [[International Police]] in ''[[PS528|Innocent Scientist]]'', alongside Swalot.
+
+A Trainer's Electrode appeared in [[PASV12]].
+
+===Pokémon Gold & Silver: The Golden Boys===
+In ''[[GB11|Gold and Black VS Team Rocket]]'', [[Team Rocket]] threatened to blow up the [[Pokémon Summit]] dome with a group of Electrode. In ''[[GB12|The Legendary Pokémon]]'', these Electrode were sent flying by the [[Legendary beasts]]' {{m|Roar}} before they could explode, saving the dome.
+
+In ''[[GB22|Farewell To Pikachu?!]]'', {{GnB|Black}} used an Electrode he had stolen to unseal the [[Black Tyranitar]].
+
+[[Eusine]] owns an Electrode, which appeared in ''[[GB23|Let's Fight For The Future!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+An Electrode appeared in [[GDZ56]], where it was seen in a game at a game center.
+
+===Pokémon Journeys===
+[[Visquez]]'s Electrode appeared in ''[[JNM09|Destination: Coronation!]]''.
+
+===Pokémon Pocket Monsters===
+[[Lt. Surge]]'s Voltorb battled {{TP|Red|Clefairy}} and evolved into Electrode the same match in ''[[PM006|Great Success in the Mountains or the Seas!?]]''.
+
+An Electrode appeared in ''[[PM017|Regain the Deserted Power Plant!]]''.
+
+An Electrode appeared in ''[[PM022|Part-Time Job At The Swimming Pool!!]]''.
+
+An Electrode appeared in ''[[PM047|Squirtle, the Crybaby Pokémon]]'', under the ownership of {{PPM|Giovanni}}. He was revealed to own additional Electrode in ''[[PM099|Stop the Strange Sonic Sound!!]]''.
+
+An Electrode appeared in ''[[PM051|Pikachu's Birthday Party]]''.
+
+===Pokémon Zensho===
+An Electrode appeared in [[PZ04]], under the ownership of [[Lt. Surge]].
+
+==In the TCG==
+{{main|Electrode (TCG)}}
+
+==Other appearances==
+[[File:Electrode SSBB.png|250px|thumb|An Electrode in [[Super Smash Bros. Brawl]]]]
+===[[Super Smash Bros.]]/[[Super Smash Bros. Melee|Melee]]/[[Super Smash Bros. Brawl|Brawl]]/[[Super Smash Bros. for Nintendo 3DS/Wii U|3DS and Wii U]]/[[Super Smash Bros. Ultimate|Ultimate]]===
+In the original Smash Bros. Electrode would appear from the doorway atop the [[Silph Co.]] building on the [[Saffron City (stage)|Saffron City stage]] and use {{m|Explosion}}, damaging any players near it. In the sequels, it would be released randomly from a {{i|Poké Ball}}. When released, Electrode will pause for a few seconds before using Explosion. It can be picked up and thrown, though this is risky as Electrode will hurt everyone near it, including the player who threw the Poké Ball. Electrode functions in ''Brawl'' in much the same way as in ''Melee''; however, sometimes, it will fail to explode. Other times, Electrode will merely pretend to fail to explode, then explode suddenly after a few seconds. Electrode appears in the fourth and fifth installments, retaining its behavior from ''Brawl''.
+
+====Melee trophy information====
+''Electrode, an electric Ball Pokémon, is the evolved form of Voltorb. It has the tendency to explode with even the slightest provocation, which has earned it the nickname "Wrecking Ball." Electrode is the quickest Pokémon found to date, and its distinctive white-over-red coloring is the opposite of Voltorb's.''
+
+====Brawl trophy information====
+''"A Ball Pokémon. The more electricity stored in its body, the quicker it moves. One danger of storing that much electricity is the slightest stimulus may cause it to explode. Moves it specializes in are {{m|Selfdestruct}} and {{m|Explosion}}. Its love of electricity cause it to gather near power plants."''
+
+====3DS/Wii U trophy information====
+[[File:Electrode 3DS trophy SSB4.png|thumb|150px|Electrode trophy in Super Smash Bros. for 3DS]]
+'''NA''': ''An Electric-type Pokémon that stores energy inside its body. Nicknamed "the Bomb Ball" by some, the slightest shock risks setting this Pokémon off. If you're feeling brave, you can throw Electrode at your foes before it detonates. Handle with care, or it'll go off in your hands instead! ''
+
+'''PAL''': ''This Electric-type Pokémon stores huge amounts of electricity in its body. It is also known as the Bomb Ball due to the fact that even the lightest touch can make it blow up. Sometimes it takes a little while for Electrode to use its Explosion attack, so you might have enough time to throw it in someone else's direction! Feeling brave?''
+
+===[[Super Smash Bros. Ultimate]]===
+Electrode appears as a {{sbw|Spirit}}.
+{{-}}
+
+==Trivia==
+* In [[Generation I]] and [[Generation II]], Electrode is the only {{Type|Electric}} Pokémon to not learn a single Electric move in its level up learnset.
+* In [[Pokémon Red and Blue Versions|Red, Blue]], [[Pokémon FireRed and LeafGreen Versions|FireRed, and LeafGreen]], {{player}}s can obtain an Electrode at a level as low as 3 by catching a {{p|Pikachu}} in [[Viridian Forest]], evolving it, and [[In-game trade|trading]] it to an old man at [[Cinnabar Island]]'s [[Cinnabar Lab|Pokémon Lab]].
+* Electrode has a [[Oh Electrode|short song]] dedicated to it, sung by [[Suzukisan]].
+* Electrode is the only non-playable Pokémon to use the same move in [[Pokkén Tournament]] and the [[Super Smash Bros.]] series.
+* The author of [[Pokémon Adventures]], [[Hidenori Kusaka]], uses Electrode to represent himself in the volume's comment boxes.
+* Hisuian Electrode has the highest base {{stat|Speed}} stat of all {{type|Grass}} Pokémon.
+
+===Origin===
+Electrode seems to be based on the concept of a living {{i|Poké Ball}}, and is often mistaken for one. As such, its design may be inspired by ''{{wp|gashapon}}'' capsules, which often consist of a white half and a vibrant colored half. The idea of Voltorb and Electrode being mistaken for the standard Poké Balls that represent items is similar to a {{wp|Mimic (Dungeons & Dragons)|mimic}}, a monster archetype commonly found in RPGs. Its {{Shiny}} coloration is possibly based on a [[Great Ball]].
+
+Electrode may also be based on a {{wp|ball lightning}}, as hinted by its spherical shape, type, explosive behavior, and tendency to drift on wind. Based on its Japanese name and its explosive tendencies, Electrode may have some connection to {{wp|land mine}}s or {{wp|bomb}}s.
+
+The expressions on both Electrode and Voltorb may be a personification of the positive and negative charges associated with {{wp|electric charge}}. For their original forms, Voltorb has a negative angry look, where Electrode has a positive happy look. The polarity of these expressions, or charges, are reversed for their Hisuian forms.
+
+Hisuian Electrode and its {{t|Grass}} typing may be based on the fact that Poké Balls were originally made from [[Apricorn]]s, which may be based on {{wp|Castanea crenata|Japanese chestnut}} or {{wp|acorn}}s. It may also be based on traditional Japanese fireworks: they are spherical in shape, with shells made of {{wp|papier-mâché}}, charges inside that are often made with rice husks, and a hole where the fuse goes. This can be seen in the [[TCG]] and its statue at the [[Temple of Sinnoh]], which all depict it emitting blasts from a hole on its bottom to launch itself. Its {{Shiny}} coloration may be based on an {{hi|Ultra Ball}} or a {{hi|Heavy Ball}}.
+
+====Name origin====
+Electrode may be a portmanteau of ''electric'' and ''explode'' or ''node'' (a computer or program), as well as a pun on ''{{wp|electrode}}'', a device through which electrical currents pass (although such a device is usually in the shape of a rod).
+
+Marumine may be a combination of 丸 ''maru'' (circle) and ''{{wp|mine}}'', as in {{wp|landmine}}.
+
+==In other languages==
+{{Other languages|type=electric|type2=electric
+|ja=マルマイン ''Marumine''|jameaning=From {{tt|丸 ''maru''|circle}} and ''{{wp|land mine}}''
+|fr=Électrode|frmeaning=Similar to English name
+|es=Electrode|esmeaning=Same as English name
+|de=Lektrobal|demeaning=From ''{{tt|Elektro-|electric}}'' and ''Ball''
+|it=Electrode|itmeaning=Same as English name
+|ko=붐볼 ''Boomball''|komeaning=From ''boom'' and ''ball''
+|zh_cmn=頑皮雷彈 / 顽皮雷弹 ''Wánpíléidàn''{{tt|*|Games}}<br>頑皮彈 / 顽皮弹 ''Wánpídàn''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|頑皮 / 顽皮 ''wánpí''|naughty}}, {{tt|雷 ''léi''|thunder}}, and {{tt|炸彈 / 炸弹 ''zhàdàn''|bomb}}<br>From {{tt|頑皮 / 顽皮 ''wánpí''|naughty}} and {{tt|炸彈 / 炸弹 ''zhàdàn''|bomb}}
+|zh_yue=頑皮雷彈 ''Wàahnpèihlèuidáan''{{tt|*|Games}}<br>雷霆蛋 ''Lèuihtìhngdaahn''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|頑皮  ''wàahnpèih''|naughty}}, {{tt|雷 ''lèuih''|thunder}}, and {{tt|炸彈 ''jadáan''|bomb}}<br>From {{tt|雷霆 ''lèuihtìhng''|thunderclap}} and {{tt|蛋 ''daahn''|egg}}
+|he=אלקטרוד ''Elektrod''|hemeaning=Transcription of English name
+|hi=इलेक्ट्रोड ''Electrode''|himeaning=Transcription of English name
+|is=Elektróða{{tt|*|in the sub of Pikachu & Pichu}}|ismeaning=From English name
+|id=Electrode{{tt|*|Pokémon Smile, TCG, official site (since March 19, 2021)}}<br>Elektroda{{tt|*|TCG, official site (prior to March 19, 2021)}}|idmeaning=Same as English name<br>From ''{{tt|elektroda|electrode}}''
+|ru=Электрод ''Elektrod''|rumeaning=Transcription of English name
+|th=มารุมายน์ ''Marumai''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Artificial Pokémon]]
+* [[Regional form]]
+* [[Weaponry in the Pokémon world]]
+
+==External links==
+{{Hisuian forms}}
+{{Ancient Hero Pokémon}}
+
+{{Smash Bros.}}
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0100|prev=Voltorb|nextnum=0102|next=Exeggcute}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that appear in Pokémon Snap]]
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+[[Category:Artificial Pokémon]]
+[[Category:Pokémon whose base stats changed in Generation VII]]
+[[Category:Super Smash Bros. spirits]]
+[[Category:Super Smash Bros. trophies]]
+
+[[de:Lektrobal]]
+[[es:Electrode]]
+[[fr:Électrode]]
+[[it:Electrode]]
+[[ja:マルマイン]]
+[[zh:顽皮雷弹]]

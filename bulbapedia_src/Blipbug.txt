@@ -1,0 +1,268 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Blipbug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0823|prev=Corviknight|nextnum=0825|next=Dottler|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Blipbug
+|jname=サッチムシ
+|jtranslit=Satchimushi
+|tmname=Sacchimushi
+|ndex=0824
+|type1=Bug
+|category=Larva
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=17.6
+|weight-kg=8.0
+|abilityn=d
+|ability1=Swarm
+|ability2=Compound Eyes
+|abilityd=Telepathy
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=1
+|evsd=1
+|expyield=36  
+|lv100exp=1000000
+|gendercode=127
+|color=Blue
+|catchrate=255
+|body=14
+|pokefordex=blipbug
+|generation=8
+|friendship=50
+}}
+'''Blipbug''' ([[List of Japanese Pokémon names|Japanese]]: '''サッチムシ''' ''Sacchimushi'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Dottler}} starting at [[level]] 10, which evolves into {{p|Orbeetle}} starting at level 30.
+
+==Biology==
+Blipbug is an insectoid {{OBP|Pokémon|species}}. It has five body segments and is covered in sensitive setae that it uses to collect information about its environment. The dorsal half of its ovular head is a dark blue, and the ventral half is beige. Blipbug's large, reflective eyes resemble glasses. It has a small mouth and eyebrow-like markings that give it a perpetually surprised expression.
+
+Blipbug's second body segment is the same shade of blue as the top of its head, and resembles a collar. The third segment is thinner than the first two, and the two consecutive segments are thicker. Its last three segments are white, yellow, and blue respectively. Blipbug has two legs on both its third and fourth body segment; and it also has tufts of setae on its head, collar, and posterior. The setae on its collar are yellow and resemble a bow tie.
+
+A constant collector of information, Blipbug are very smart, but very weak. They are often found in gardens.
+
+===Evolution===
+Blipbug evolves into {{p|Dottler}}, which evolves into {{p|Orbeetle}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|type1=Bug
+|no1=0824
+|name1=Blipbug
+|type1-1=Bug
+|evo1=
+|no2=0825
+|name2=Dottler
+|type1-2=Bug
+|type2-2=Psychic
+|evo2=
+|no3=0826
+|name3=Orbeetle
+|type1-3=Bug
+|type2-3=Psychic}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=010|reg2=Galar|label2=Isle of Armor|num2=014|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=A constant collector of information, this Pokémon is very smart. Very strong is what it isn't.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area= Routes {{rtn|1|Galar}} and {{rtn|2|Galar}}, [[Giant's Cap]], [[Slumbering Weald]]<br>[[Bridge Field/Dens|Bridge Field]], [[Dappled Grove/Dens|Dappled Grove]], [[Rolling Fields/Dens|Rolling Fields]], [[South Lake Miloch/Dens|South Lake Miloch]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Fields of Honor]], [[Challenge Beach]], [[Training Lowlands]], [[Challenge Road]], [[Workout Sea]], [[Loop Lagoon]], [[Stepping-Stone Sea]], [[Insular Sea]], [[Honeycalm Island]]}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|HP=25
+|Attack=20
+|Defense=20
+|SpAtk=25
+|SpDef=45
+|Speed=45
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Blipbug|Bug|Bug|8}}
+{{learnlist/level8|1|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/levelf/8|Blipbug|Bug|Bug|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Blipbug|Bug|Bug|8}}
+{{learnlist/tm8null}}
+{{learnlist/tr8null}}
+{{learnlist/tmf/8|Blipbug|Bug|Bug|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Blipbug|Bug|Bug|8}}
+{{learnlist/breed8|{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|873|Frosmoth}}|Infestation|Bug|Special|20|100|20||'''|grid=5}}
+{{learnlist/breed8|{{MSP/8c|616|Shelmet}}{{MSP/8c|617|Accelgor}}|Recover|Normal|Status|—|—|10|grid=5}}
+{{learnlist/breed8|{{MSP/8c|213|Shuckle}}{{MSP/8c|596|Galvantula}}{{MSP/8c|736|Grubbin}}{{MSP/8c|737|Charjabug}}{{MSP/8c|738|Vikavolt}}|Sticky Web|Bug|Status|—|—|20|grid=5}}
+{{learnlist/breed8|{{MSP/8c|012|Butterfree}}{{MSP/8c|329|Vibrava}}{{MSP/8c|330|Flygon}}|Supersonic|Normal|Status|—|55|20|grid=5}}
+{{learnlist/breedf/8|Blipbug|Bug|Bug|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Blipbug|Bug|Bug|8}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Blipbug|Bug|Bug|8}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/GO|col=6|type=Bug|ndex=0824
+|hatch=N/A
+|buddy=1
+|candy=Blipbug
+|evolution=25
+|stamina=93
+|attack=46
+|defense=67
+|fast={{m|Struggle Bug}}
+|special={{m|Struggle}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Bug
+|no1=0824
+|name1=Blipbug
+|type1-1=Bug
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 10}}
+|no2=0825
+|name2=Dottler
+|type1-2=Bug
+|type2-2=Psychic
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no3=0826
+|name3=Orbeetle
+|type1-3=Bug
+|type2-3=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=824}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0824}}
+{{Spritebox/Footer|824|Blipbug}}
+
+==In animation==
+===Main series===
+[[File:Old Castle Blipbug.png|thumb|250px|Blipbug in {{aniseries|HZ}}]]
+====Major appearances====
+
+====Minor appearances====
+Blipbug debuted in ''[[M23|Secrets of the Jungle]]''.
+
+A Blipbug made its animated series debut in ''[[HZ024|Reunion at the Ancient Castle!]]''.
+{{-}}
+
+==In the manga==
+[[File:Rampaging Dynamax Pokémon Adventures.png|thumb|250px|Blipbug in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A [[Dynamax]]ed Blipbug appeared in ''[[PASS27|Shock!! Chairman Rose's Plan]]'' during the [[Darkest Day]].
+
+A Blipbug appeared in ''[[PASS40|Rumble!! The Darkest Day Returns]]'', being one of many Pokémon to suddenly Dynamax due to the Darkest Day.
+{{-}}
+
+==In the TCG==
+{{main|Blipbug (TCG)}}
+==Trivia==
+* Blipbug shares its {{pkmn|category}} with {{p|Grubbin}}. They are both known as the Larva Pokémon.
+** Both Blipbug and Grubbin are also the only pure {{type|Bug}} Pokémon of their respective [[generation]].
+* Blipbug has the lowest base {{stat|Defense}} stat and base stat total of all {{type|Bug}} Pokémon.
+* Blipbug and its evolutionary relatives are the only three-stage evolutionary line whose members are all the same height, at 1'04" (0.4 m).
+
+===Origin===
+Blipbug may be based on a {{wp|Coccinellidae|ladybird}} larva. Some details—namely the glasses-like eyes and bowtie-like neck feelers—may also echo the image of a stereotypical "{{wp|Nerd#Nerd stereotype|nerd}}". Together, they may imply a "bookworm", a word that can mean someone obsessed with books (such as a "nerd"), or an insect that burrows into the pages of books.
+
+====Name origin====
+Blipbug may be a combination of ''blip'' (a small dot on a {{wp|radar}}; the sound of a radar finding a target) and ''bug''.
+
+Sacchimushi may be a combination of 察知 ''satchi'' (sense), ''search'', and 虫 ''mushi'' (bug).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=サッチムシ ''Sacchimushi''|jameaning=From {{tt|察知 ''satchi''|sense}}, ''search'', and {{tt|虫 ''mushi''|bug}}
+|fr=Larvadar|frmeaning=From ''{{tt|larve|larva}}'' and ''radar''
+|es=Blipbug|esmeaning=Same as English name
+|de=Sensect|demeaning=From ''Sensor'' and ''insect''
+|it=Blipbug|itmeaning=Same as English name
+|ko=두루지벌레 ''Durujibeollae''|komeaning=From {{tt|두루 ''duru''|throughout}}, {{tt|찰지 (察知) ''chalji''|sense}}, and {{tt|벌레 ''beollae''|bug}}
+|zh_cmn=索偵蟲 / 索侦虫 ''Suǒzhēnchóng''|zh_cmnmeaning=From {{tt|索 ''suǒ''|search}}, {{tt|偵 / 侦 ''zhēn''|detect}}, and {{tt|蟲 / 虫 ''chóng''|bug}}
+|zh_yue=索偵蟲 ''Sokjīngchùhng''|zh_yuemeaning=From {{tt|索 ''sok''|search}}, {{tt|偵 ''jīng''|detect}}, and {{tt|蟲 ''chùhng''|bug}}
+|hi=खोजीबग ''Khojibug''|himeaning=From {{tt|खोजना ''khojnā''|to search}} or {{tt|खोजी ''khojī''|searcher}} and ''bug''
+|th=ซัจจิมุชิ ''Satchimuchi''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0823|prev=Corviknight|nextnum=0825|next=Dottler}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Sensect]]
+[[es:Blipbug]]
+[[fr:Larvadar]]
+[[it:Blipbug]]
+[[ja:サッチムシ]]
+[[zh:索侦虫]]

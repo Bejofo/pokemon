@@ -1,0 +1,303 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Grass}}
+{{PokémonPrevNext/GO|species=Wo-Chien}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=1000|prev=Gholdengo|nextnum=1002|next=Chien-Pao|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Wo-Chien
+|jname=チオンジェン
+|tmname=Chionjen
+|ndex=1001
+|type1=Dark
+|type2=Grass
+|category=Ruinous
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=163.6
+|weight-kg=74.2
+|abilitylayout=1
+|ability1=Tablets of Ruin
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|egggroup2=
+|eggcycles=50
+|evtotal=3
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=3
+|evsp=0
+|expyield=285
+|lv100exp=1250000
+|gendercode=255
+|color=Brown
+|catchrate=6
+|body=02
+|pokefordex=wo-chien
+|generation=9
+|friendship=0
+}}
+'''Wo-Chien''' ([[List of Japanese Pokémon names|Japanese]]: '''チオンジェン''' ''Chionjen'') is a dual-type {{2t|Dark|Grass}} [[Legendary Pokémon]] introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+Along with {{p|Chien-Pao}}, {{p|Ting-Lu}}, and {{p|Chi-Yu}}, Wo-Chien is a member of the [[treasures of ruin]].
+
+==Biology==
+[[File:Wo-ChienexPaldeaEvolved27.jpg|thumb|left|140px|Wo-Chien's vines]]
+Wo-Chien is a snail-like Pokémon comprising a dark-green mossy form covered in dead green and yellow leaves. Two pairs of long, curling vines form its eyestalks, which contain eyes with green eyelids, orange sclerae, and pale greenish pupils. A long row of wooden tablets curled around its backside forms its shell. Wooden tablets were once used as a writing medium in the East during ancient times, although the inscriptions written on the particular set forming Wo-Chien's shell have become too faded to be read.
+
+Like the other treasures of ruin, Wo-Chien's true form is the row of wooden writing tablets forming its shell, having been given life by the grudges of the person punished for writing the evil deeds of a king on them long ago — while its body is a form it has constructed using its control over plant matter. Wo-Chien is able to drain the life force of vegetations in a wide area around it, causing entire forests and fields to instantly become barren. It is known as the Tablets of Ruin.
+
+Wo-Chien and the other treasures of ruin are the [[signature move|only known Pokémon]] capable of learning the move {{m|Ruination}}. Wo-Chien is also the [[Signature Ability|only known Pokémon]] that can have {{a|Tablets of Ruin}} as an [[Ability]].{{-}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark|type2=Grass}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=393|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{dark color}}; font-size:80%; border-radius: 10px"
+|-
+| style="border:2px solid #{{dark color light}}; background:#{{dark color light}} " |[[File:Pokédex Image Wo-Chien SV.png|x200px]]
+|-
+|Wo-Chien in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Dark|type2=Grass}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[Grasswither Shrine]] ([[List of in-game event Pokémon in Pokémon Scarlet and Violet#Wo-Chien|Only one]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+====In events====
+{{eventAvail/h|Language/Region|type=Dark|type2=Grass}}
+{{eventAvail|{{gameabbrev9|SV}}|Shiny Wo-Chien|All|Online|75{{shinystar|HOME}}|August 8 to September 30, 2025|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Shiny Wo-Chien}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+=====Version 1.0.0=====
+{{Stats|type=Dark|type2=Grass|HP=85|Attack=90|Defense=100|SpAtk=100|SpDef=135|Speed=70|nocat=yes}}
+
+=====Version 1.0.1+=====
+{{Stats|type=Dark|type2=Grass|HP=85|Attack=85|Defense=100|SpAtk=95|SpDef=135|Speed=70}}
+
+===Type effectiveness===
+{{TypeEffectiveness|type1=Dark|type2=Grass
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=400
+|Ghost=50
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=0
+|Ice=200
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Wo-Chien|Dark|Grass|9}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|1|Spite|Ghost|Status|—|100|10||}}
+{{learnlist/level9|1|Mean Look|Normal|Status|—|—|5||}}
+{{learnlist/level9|5|Tickle|Normal|Status|—|100|20||}}
+{{learnlist/level9|10|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/level9|15|Poison Powder|Poison|Status|—|75|35||}}
+{{learnlist/level9|15|Stun Spore|Grass|Status|—|75|30||}}
+{{learnlist/level9|20|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|25|Leech Seed|Grass|Status|—|90|10||}}
+{{learnlist/level9|30|Growth|Normal|Status|—|—|20||}}
+{{learnlist/level9|35|Ingrain|Grass|Status|—|—|20||}}
+{{learnlist/level9|40|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/level9|45|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|50|Ruination|Dark|Special|—|90|10||}}
+{{learnlist/level9|55|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/level9|60|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/level9|65|Grassy Terrain|Grass|Status|—|—|10||}}
+{{learnlist/level9|70|Knock Off|Dark|Physical|65|100|20||'''}}
+{{learnlist/level9|75|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/9|Wo-Chien|Dark|Grass|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Wo-Chien|Dark|Grass|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20||}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10||}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15||}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10||}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20||'''}}
+{{learnlist/tm9|TM190|Solar Blade|Grass|Physical|125|100|10||'''}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||'''}}
+{{learnlist/tmf/9|Wo-Chien|Dark|Grass|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Wo-Chien|Dark|Grass|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Wo-Chien|Dark|Grass|9}}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Grass}}
+{{Spindata/GO
+| col = 6
+| type = Dark
+| ndex = 1001
+| hatch = N/A
+| buddy = 20
+| evolution = N/A
+| stamina = 198
+| attack = 186
+| defense = 242
+| fast = {{m|Snarl}}, {{m|Magical Leaf}}
+| special = {{m|Dark Pulse}}, {{m|Grass Knot}}, {{m|Leaf Storm}}
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Dark
+|type2=Grass
+|pictype=art
+|no1=1001
+|name1=Wo-Chien
+|type1-1=Dark
+|type2-1=Grass}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=dark|type2=grass}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=1001}}-->
+{{Spritebox/HOME|ndex=1001}}
+{{Spritebox/Footer|1001|Wo-Chien}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+===Pokémon Adventures===
+Wo-Chien, along with the other [[treasures of ruin]], appeared in a fantasy in [[PASV13]].
+
+==In the TCG==
+{{main|Wo-Chien (TCG)}}
+
+==Trivia==
+*Wo-Chien has the highest base {{stat|Special Defense}} stat of all {{type|Dark}} and {{type|Grass}} {{OBP|Pokémon|species}}.
+*Wo-Chien and the other [[treasures of ruin]] are the first Pokémon whose [[base stats]] were adjusted via a {{DL|Pokémon Scarlet and Violet|Version history|patch}} to the game.
+* Wo-Chien is the only member of the treasures of ruin that was given life by a specific individual's emotion rather than the emotions of humanity in general.
+*Wo-Chien's in-game model has 92 tablets in total. In one of its animations, the tablets spiral out from under the plants that are comprised by its body, and all 92 can be seen at the peak of this animation.
+
+===Origin===
+Wo-Chien may be modeled after the {{wp|decollate snail}}, predatory land snails native to the Mediterranean whose shells are blunt and conical. The snail is often considered a symbol of fertility and fortune, contrasting with Wo-Chien's perilous nature and ability to wither the plants around itself. Wo-Chien's shell is constructed from {{wp|Bamboo and wooden slips|slips}}, narrow strips of bamboo or wood used as writing media in China prior to the introduction of paper. Its Pokédex entry in Scarlet may be a reference to the idiom [[wiktionary:罄竹難書|罄竹難書 / 罄竹难书]] ''qìng zhú nán shū'', referring to sins that have become so numerous that it is difficult to record them all on bamboo slips. It may also refer to the heroic deed of court chroniclers of {{wp|Qi (state)|Qi}} in the {{wp|Spring and Autumn Annals}}, where two brothers dedicated their lives to defend the integrity of the annals by recording the regicide of {{wp|Duke Zhuang II of Qi}} by usurper Cui Zhu.
+
+Wo-Chien and the other treasures of ruin may be based on the {{wp|Four Perils}} of Chinese mythology. Specifically, Wo-Chien may be based on 檮杌 / 梼杌 ''Táowù'', a creature that shares its name with the now-lost chronicles of the state of {{wp|Chu (state)|Chu}}. Since the 16th century, ''Taowu'' has been reimagined as a prophetic monster that records the evil deeds committed by ancient rulers and punishes wrongdoers from its vision, similar to the tablets that created Wo-Chien and its ability to cause perils.
+
+====Name origin====
+Wo-Chien may be a combination of 蝸 / 蜗 ''wō'' (Chinese for snail) and 簡 / 简 ''jiǎn'' (Chinese for bamboo slips). The name is formatted in {{wp|Wade–Giles}}, a romanization system used in the Anglosphere for most of the 20th century.
+
+Chionjen may be a combination of 蟲 / 虫 ''chóng'' (Chinese for bug) and 簡 / 简 ''jiǎn'' (Chinese for bamboo slips).
+
+==In other languages==
+{{Other languages
+| type = Dark
+| type2 = Grass
+| ja = チオンジェン ''Chionjen''
+| jameaning = From {{tt|蟲 / 虫 ''chóng''|Chinese for bug}} and {{tt|簡 / 简 ''jiǎn''|Chinese for bamboo slips}}
+| fr = Chongjian
+| frmeaning = Transcription of Japanese name
+| es = Wo-Chien
+| esmeaning = Same as English name
+| de = Chongjian
+| demeaning = Transcription of Japanese name
+| it = Wo-Chien
+| itmeaning = Same as English name
+| ko = 총지엔 ''Chongjien''
+| komeaning = Transcription of Japanese name
+| zh_cmn = 古簡蝸 / 古简蜗 ''Gǔjiǎnguā / Gǔjiǎnwō''
+| zh_cmnmeaning = From {{tt|古 ''gǔ''|ancient}}, {{tt|簡 / 简 ''jiǎn''|bamboo slips}}, and {{tt|蝸牛 / 蜗牛 ''guāniú / wōniú''|snail}}
+| zh_yue = 古簡蝸 ''Gúgáanwō''
+| zh_yuemeaning = From {{tt|古 ''gú''|ancient}}, {{tt|簡 ''gáan''|bamboo slips}}, and {{tt|蝸牛 ''wō'ngàuh''|snail}}
+| hi = वोचिएन ''Wochien''
+| himeaning = Transcription of English name
+| th = ฉงเจี่ยน ''Chongchian''
+| thmeaning = Transcription of Japanese name
+}}
+
+==Related articles==
+*[[Myths and legends involving Legendary and Mythical Pokémon]]
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{Legendary Pokémon}}<br>{{PokémonPrevNext/Head|type=Dark|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=1000|prev=Gholdengo|nextnum=1002|next=Chien-Pao}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Legendary Pokémon]]
+
+[[de:Chongjian]]
+[[es:Wo-Chien]]
+[[fr:Chongjian]]
+[[it:Wo-Chien]]
+[[ja:チオンジェン]]
+[[zh:古简蜗]]

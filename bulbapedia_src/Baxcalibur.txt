@@ -1,0 +1,353 @@
+{{PokémonPrevNext/Head|type=Dragon|type2=Ice}}
+{{PokémonPrevNext/GO|species=Baxcalibur}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=0997|prev=Arctibax|nextnum=0999|next=Gimmighoul|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Baxcalibur
+|jname=セグレイブ
+|jtranslit=Segureibu
+|tmname=Seglaive
+|ndex=0998
+|type1=Dragon
+|type2=Ice
+|category=Ice Dragon
+|height-ftin=6'11"
+|height-m=2.1
+|weight-lbs=463.0
+|weight-kg=210.0
+|abilityn=1
+|ability1=Thermal Exchange
+|ability2=
+|abilityd=Ice Body
+|egggroupn=2
+|egggroup1=Dragon
+|egggroup2=Mineral
+|eggcycles=40
+|evtotal=3
+|evhp=0
+|evat=3
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=300
+|lv100exp=1250000
+|gendercode=127
+|color=Blue
+|catchrate=10
+|body=06
+|pokefordex=baxcalibur
+|generation=9
+|friendship=50
+}}
+'''Baxcalibur''' ([[List of Japanese Pokémon names|Japanese]]: '''セグレイブ''' ''Seglaive'') is a dual-type {{2t|Dragon|Ice}} [[pseudo-legendary Pokémon]] introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Arctibax}} starting at [[level]] 54. It is the final form of {{p|Frigibax}}.
+
+==Biology==
+Baxcalibur is a large, {{wp|theropod}}-like Pokémon whose body is predominantly navy blue in color. It has a series of hexagon-shaped ice patches located near its chest area, on its kneecaps, and underneath its tail. It also has squareish polygonal light blue patches underneath its feet. It has long muscular arms and three sharp white claws on its hands and feet, along with three red quills protruding from each of its wrists. It appears to be wearing an icy mask on its face, with a pair of ice spikes pointing upward on its snout and icicles pointing downward on its chin. The only part of the face not covered in ice is its yellow eyes. The black, ice-coated spine on its back resembles an axe.
+
+When in battle, Baxcalibur flips upside-down, using its spine as an axe while supporting itself with its head and forelimbs. It also spews out cryogenic air from its mouth, which is cold enough to freeze lava. To finish opponents off, it launches towards them with the blade on its back.
+
+Baxcalibur is the [[Signature move|only known Pokémon]] capable of learning the move {{m|Glaive Rush}}. Baxcalibur and its pre-evolved forms are also the [[Signature Ability|only known Pokémon]] that can have {{a|Thermal Exchange}} as an [[Ability]].
+
+===Evolution===
+Baxcalibur evolves from {{p|Arctibax}} and is the final form of {{p|Frigibax}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Dragon
+|type2=Ice
+|pictype=art
+|no1=996
+|name1=Frigibax
+|type1-1=Dragon
+|type2-1=Ice
+|evo1=
+|no2=997
+|name2=Arctibax
+|type1-2=Dragon
+|type2-2=Ice
+|evo2=
+|no3=998
+|name3=Baxcalibur
+|type1-3=Dragon
+|type2-3=Ice}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dragon|type2=Ice}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=390|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ice color dark}}; background:#{{dragon color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{dragon color light}}; background:#{{dragon color light}} | [[File:Pokédex Image Baxcalibur SV.png|x200px]]
+|-
+| Baxcalibur in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Dragon|type2=Ice}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Paldea)|Baxcalibur|5★}}, {{DL|List of 6★ Tera Raid Battles (Paldea)|Baxcalibur|6★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+====In events====
+{{eventAvail/h|Language/Region|type=Dragon|type2=Ice}}
+{{eventAvail|{{gameabbrev9|SV}}|Winter Festa 2023 Baxcalibur|All|Online|54|December 30, 2023 to February 10, 2024|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Winter Festa 2023 Baxcalibur}}
+|}
+
+=====[[Poké Portal News]]=====
+{{eventAvail/h|Tera Type|type=Dragon|type2=Ice|lochide=yes}}
+{{eventAvail|{{gameabbrev9|SV}}|Baxcalibur the Unrivaled|Ice|hide|100|June 20 to 22, 2025<br>June 27 to 29, 2025|link=Poké Portal News#June 20 to 22, 2025 & June 27 to 29}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Dragon
+|type2=Ice
+|HP=115
+|Attack=145
+|Defense=92
+|SpAtk=75
+|SpDef=86
+|Speed=87
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dragon
+|type2=Ice
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=100
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=200
+|Dark=100
+|Fairy=200
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Baxcalibur|Dragon|Ice|9}}
+{{learnlist/level9|1|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/level9|1|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/level9|1|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Glaive Rush|Dragon|Physical|120|100|5||'''}}
+{{learnlist/level9|6|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level9|12|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level9|18|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level9|24|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|29|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/level9|35|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/level9|42|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|48|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/level9|55|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level9|62|Icicle Crash|Ice|Physical|85|90|10||'''}}
+{{learnlist/levelf/9|Baxcalibur|Dragon|Ice|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Baxcalibur|Dragon|Ice|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/tm9|TM010|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/tm9|TM044|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm9|TM046|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM078|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM100|Dragon Dance|Dragon|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tm9|TM187|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM200|Scale Shot|Dragon|Physical|25|90|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM222|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/tm9|TM226|Dragon Cheer|Dragon|Status|—|—|15}}
+{{learnlist/tmf/9|Baxcalibur|Dragon|Ice|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Baxcalibur|Dragon|Ice|9}}
+{{learnlist/breed9|{{MSP/H|0130|Gyarados}}{{MSP/H|0147|Dratini}}{{MSP/H|0148|Dragonair}}{{MSP/H|0149|Dragonite}}{{MSP/H|0350|Milotic}}{{MSP/H|0690|Skrelp}}{{MSP/H|0691|Dragalge}}{{MSP/H|0706|Goodra}}|Aqua Tail|Water|Physical|90|90|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0147|Dratini}}{{MSP/H|0148|Dragonair}}{{MSP/H|0149|Dragonite}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}{{MSP/H|0443|Gible}}{{MSP/H|0444|Gabite}}{{MSP/H|0445|Garchomp}}{{MSP/H|0633|Deino}}{{MSP/H|0634|Zweilous}}{{MSP/H|0635|Hydreigon}}{{MSP/H|0841|Flapple}}{{MSP/H|0886|Drakloak}}{{MSP/H|0887|Dragapult}}|Dragon Rush|Dragon|Physical|100|75|10||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0362|Glalie}}|Freeze-Dry|Ice|Special|70|100|20||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0996|Frigibax}}{{tt|*|A wild Terastallized Frigibax in Glaseado Mountain knows this move.}}|Icicle Spear|Ice|Physical|25|100|30||'''|grid=8}}
+{{learnlist/breedf/9|Baxcalibur|Dragon|Ice|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Baxcalibur|Dragon|Ice|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Baxcalibur|Dragon|Ice|9}}
+
+===Side game data===
+{{Spindata/Head|type=Dragon|type2=Ice}}
+{{Spindata/GO|col=6|type=Dragon|ndex=0998
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=229
+|attack=254
+|defense=168
+|fast={{m|Dragon Breath}}, {{m|Ice Fang}}
+|special={{m|Dragon Claw}}, {{m|Outrage}}, {{m|Avalanche}}, {{m|Blizzard}}, {{m|Icy Wind}}{{tt|*|From December 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Dragon
+|type2=Ice
+|pictype=art
+|no1=996
+|name1=Frigibax
+|type1-1=Dragon
+|type2-1=Ice
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}
+|no2=997
+|name2=Arctibax
+|type1-2=Dragon
+|type2-2=Ice
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 54}}
+|no3=998
+|name3=Baxcalibur
+|type1-3=Dragon
+|type2-3=Ice}}
+
+===Sprites===
+{{Spritebox/Header|type=dragon|type2=ice}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0998}}-->
+{{Spritebox/HOME|ndex=0998}}
+{{Spritebox/Footer|998|Baxcalibur}}
+
+==In animation==
+[[File:Hassel Baxcalibur.png|thumb|250px|Baxcalibur in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Baxcalibur debuted in ''[[HZ055|Showdown! The Paldea Elite Four]]'', under the ownership of [[Hassel]]. It was used alongside his {{p|Flapple}} in a battle against [[Roy]] and [[Brassius]], eventually emerging victorious.
+
+====Minor appearances====
+
+===Biri-Biri===
+A Baxcalibur appeared in the music video for [[Biri-Biri]], facing off against [[Nemona]]'s {{p|Pawmot}}.
+
+===POKÉTOON===
+[[File:Dragon Tamer Baxcalibur PT.png|thumb|250px|Baxcalibur in [[POKÉTOON]]]]
+A Baxcalibur appeared in [[PT10]], under the ownership of a {{pkmn|Champion}}. It battled and lost against the {{OBP|boy|PT10}}'s {{p|Primeape}}.
+
+Another Baxcalibur appeared during a video in [[PT16]], this time under the ownership of a {{tc|Dragon Tamer}}.
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Baxcalibur (TCG)}}
+
+==Trivia==
+* Baxcalibur and its pre-evolved forms are the only {{type|Ice}} Pokémon in the {{egg3|Dragon}}.
+* Baxcalibur is the only pseudo-legendary Pokémon whose [[catch rate]] differs across its entire evolutionary line.
+* Baxcalibur has the highest base {{stat|HP}} and {{stat|Attack}} stats of all [[pseudo-legendary Pokémon]].
+** Furthermore, Baxcalibur has the lowest base {{stat|Special Attack}} stat of all pseudo-legendary Pokémon.
+
+===Origin===
+<!--Do NOT mention Godzilla. Referencing the genre is fine, but not the specific character.-->
+Baxcalibur may draw inspiration from ''{{wp|kaiju}}''. Its upright posture may allude to how most ''kaiju'' are humanoid in shape, due to the need to fit a human actor inside the {{wp|creature suit}} in ''kaiju'' films. It also has traits of certain species of dinosaurs, most notably ''{{wp|Concavenator}}'', a theropod dinosaur which had a crest on its back and quills on its forelimbs. Fossils of the genus were first discovered in {{wp|Spain}}, and the crest is hypothesized to have functioned as a tool of {{wp|thermoregulation}}.
+
+Baxcalibur may also be based on other sail-backed prehistoric animals, most notably ''{{wp|Spinosaurus}}'', ''{{wp|Ouranosaurus}}'', ''{{wp|Arizonasaurus}}'', and ''{{wp|Dimetrodon}}''. The diamond shape of its sail may allude to the plates on the back of {{wp|stegosaurid}}s. Its overall design may also reference old depictions of non-avian {{wp|theropod}} dinosaurs in {{wp|paleoart}}. Based on Baxcalibur's Japanese name and the way it utilizes its sail through the move {{m|Glaive Rush}}, this sail may be inspired by the head of a glaive.
+
+Baxcalibur evolving at level 54 could be a reference to 1954, the year {{wp|Godzilla (1954 film)|the first ''Godzilla'' movie}} was released.
+
+Its shape, colors and way of use, as well as its English name and theming, suggest that Baxcalibur's back sail may be based on a {{wp|Hand axe|biface}}, and, more specifically, on Excalibur,<ref>[https://www.atapuerca.org/es/ficha/Z8FC4C2AB-EDC9-0CF7-518801EAF032F4A7/el-secreto-de-excalibur El secreto de Excalibur]</ref> one of the most important bifaces ever discovered, located on {{wp|Archaeological site of Atapuerca|Atapuerca}}, Spain, whose geographical distribution matches with the portion of Paldea where Frigibax can be found.
+
+====Name origin====
+Baxcalibur may be a combination of ''back'' and ''Excalibur'' (referring to {{wp|Excalibur|the mythical sword}} belonging to {{wp|King Arthur}} and the [https://artsandculture.google.com/asset/biface-excalibur/jAFplRP5hEZRoA prehistoric hand axe] discovered in Atapuerca, Spain).
+
+Seglaive may be a combination of 背 ''se'' (back) and ''glaive'' (referring to {{wp|glaive|a polearm weapon}} with origins in Europe, or short swords such as the {{wp|Gladius}}).
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Ice
+|ja=セグレイブ ''Seglaive''|jameaning=From {{tt|背 ''se''|back}} and ''glaive''
+|fr=Glaivodo|frmeaning=From ''glaive'', ''{{tt|dos|back}}'', ''{{wp|Komodo dragon|{{tt|dragon de Komodo|Komodo dragon}}}}'', and ''{{wp|Quasimodo}}''
+|es=Baxcalibur|esmeaning=Same as English name
+|de=Espinodon|demeaning=From ''{{tt|espina|Spanish for spine}}'', ''{{wp|Spinosaurus}}'', and ''{{tt|-don|common suffix in dinosaur names derived from the Ancient Greek word for tooth}}''
+|it=Baxcalibur|itmeaning=Same as English name
+|ko=드닐레이브 ''Deunilleibeu''|komeaning=From {{tt|등 ''deung''|back}} and ''glaive''
+|zh_cmn=戟脊龍 / 戟脊龙 ''Jǐjǐlóng''|zh_cmnmeaning=From {{tt|戟 ''jǐ''|halberd}}, {{tt|脊 ''jǐ''|spine}}, and {{tt|棘龍 / 棘龙 ''jílóng''|Spinosaurus}}
+|zh_yue=戟脊龍 ''Gīkjeklùhng''|zh_yuemeaning=From {{tt|戟 ''gīk''|halberd}}, {{tt|脊 ''jek''|spine}}, and {{tt|棘龍 '' gīklùhng''|Spinosaurus}}
+|hi=बैकटार ''Backtaar''|himeaning=From ''back'' and {{tt|कटार ''kaṭār''|dagger}}
+|th=เซเกลฟ ''Seklep''|thmeaning=Transcription of Japanese name
+}}
+{{-}}
+
+<!--==Related articles==-->
+==References==
+{{reflist}}
+
+==External links==
+{{Pseudo-legendary Pokémon}}{{PokémonPrevNext/Head|type=Dragon|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=0997|prev=Arctibax|nextnum=0999|next=Gimmighoul}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Espinodon]]
+[[es:Baxcalibur]]
+[[fr:Glaivodo]]
+[[it:Baxcalibur]]
+[[ja:セグレイブ]]
+[[zh:戟脊龙]]

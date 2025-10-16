@@ -1,0 +1,282 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Ice}}
+{{PokémonPrevNext/GO|species=Chien-Pao}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=1001|prev=Wo-Chien|nextnum=1003|next=Ting-Lu|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Chien-Pao
+|jname=パオジアン
+|tmname=Paojian
+|ndex=1002
+|type1=Dark
+|type2=Ice
+|category=Ruinous
+|height-ftin=6'03"
+|height-m=1.9
+|weight-lbs=335.5
+|weight-kg=152.2
+|abilitylayout=1
+|ability1=Sword of Ruin
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|egggroup2=
+|eggcycles=50
+|evtotal=3
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=3
+|expyield=285
+|lv100exp=1250000
+|gendercode=255
+|color=White
+|catchrate=6
+|body=08
+|pokefordex=chien-pao
+|generation=9
+|friendship=0
+}}
+'''Chien-Pao''' ([[List of Japanese Pokémon names|Japanese]]: '''パオジアン''' ''Paojian'') is a dual-type {{2t|Dark|Ice}} [[Legendary Pokémon]] introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+Along with {{p|Wo-Chien}}, {{p|Ting-Lu}}, and {{p|Chi-Yu}}, Chien-Pao is a member of the [[treasures of ruin]].
+
+==Biology==
+Chien-Pao is a quadrupedal, pantherine Pokémon with an elongated body composed of snow. Ice crystals run down its back and legs, and also forms its claws, eyes, and whiskers. Its large fangs, tipped with ice, comprise two pieces of a broken, ornately patterned sword. The sword's blade, which narrows slightly near the tip, forms its left fang; while the sword's hilt forms its right fang. The broken ends of the sword halves jut through Chien-Pao's upper jaw.
+
+Like the other treasures of ruin, Chien-Pao's true form is that of the broken sword forming its fangs, having been given life by the hatred of people slain by those who wielded it long ago — while its body is a form it has constructed using its control over ice and snow. Chien-Pao is described as being able to control 100 tons of fallen snow, causing avalanches and playing around in them innocently. It is known as the Sword of Ruin.
+
+Chien-Pao and the other treasures of ruin are the [[signature move|only known Pokémon]] capable of learning the move {{m|Ruination}}. Chien-Pao is also the [[Signature Ability|only known Pokémon]] that can have {{a|Sword of Ruin}} as an [[Ability]].
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark|type2=Ice}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=394|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ice color dark}}; background:#{{dark color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{dark color light}}; background:#{{dark color light}} | [[File:Pokédex Image Chien-Pao SV.png|x200px]]
+|-
+| Chien-Pao in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Dark|type2=Ice}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[Icerend Shrine]] ([[List of in-game event Pokémon in Pokémon Scarlet and Violet#Chien-Pao|Only one]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+====In events====
+{{eventAvail/h|Language/Region|type=Dark|type2=Ice}}
+{{eventAvail|{{gameabbrev9|SV}}|Shiny Chien-Pao|All|Online|75{{shinystar|HOME}}|August 22 to September 30, 2025|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Shiny Chien-Pao}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+=====Version 1.0.0=====
+{{Stats|type=Dark|type2=Ice|HP=80|Attack=130|Defense=80|SpAtk=90|SpDef=65|Speed=135|nocat=yes}}
+
+=====Version 1.0.1+=====
+{{Stats|type=Dark|type2=Ice|HP=80|Attack=120|Defense=80|SpAtk=90|SpDef=65|Speed=135}}
+
+===Type effectiveness===
+{{TypeEffectiveness|type1=Dark|type2=Ice
+|Normal=100
+|Fighting=400
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=200
+|Bug=200
+|Ghost=50
+|Steel=200
+|Fire=200
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=50
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Chien-Pao|Dark|Ice|9}}
+{{learnlist/level9|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level9|1|Spite|Ghost|Status|—|100|10||}}
+{{learnlist/level9|1|Mean Look|Normal|Status|—|—|5||}}
+{{learnlist/level9|5|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level9|10|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/level9|15|Mist|Ice|Status|—|—|30||}}
+{{learnlist/level9|15|Haze|Ice|Status|—|—|30||}}
+{{learnlist/level9|20|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/level9|25|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/level9|30|Snowscape|Ice|Status|—|—|10||}}
+{{learnlist/level9|35|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level9|40|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/level9|45|Icicle Crash|Ice|Physical|85|90|10||'''}}
+{{learnlist/level9|50|Ruination|Dark|Special|—|90|10||}}
+{{learnlist/level9|55|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level9|60|Sacred Sword|Fighting|Physical|90|100|15||}}
+{{learnlist/level9|65|Recover|Normal|Status|—|—|5||}}
+{{learnlist/level9|70|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/level9|75|Sheer Cold|Ice|Special|—|30|5||'''}}
+{{learnlist/levelf/9|Chien-Pao|Dark|Ice|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Chien-Pao|Dark|Ice|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM010|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/tm9|TM046|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10||}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm9|TM063|Psychic Fangs|Psychic|Physical|85|100|10||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20||}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM124|Ice Spinner|Ice|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/tmf/9|Chien-Pao|Dark|Ice|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Chien-Pao|Dark|Ice|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Chien-Pao|Dark|Ice|9}}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Ice}}
+{{Spindata/GO|col=6|type=Dark|ndex=1002
+|hatch=N/A
+|buddy=20
+|evolution=N/A
+|stamina=190
+|attack=261
+|defense=167
+|fast={{m|Snarl}}, {{m|Powder Snow}}
+|special={{m|Dark Pulse}}, {{m|Avalanche}}, {{m|Blizzard}}
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Dark
+|type2=Ice
+|pictype=art
+|no1=1002
+|name1=Chien-Pao
+|type1-1=Dark
+|type2-1=Ice}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=dark|type2=ice}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=1002}}-->
+{{Spritebox/HOME|ndex=1002}}
+{{Spritebox/Footer|1002|Chien-Pao}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+===Pokémon Adventures===
+Chien-Pao, along with the other [[treasures of ruin]], appeared in a fantasy in [[PASV13]].
+
+==In the TCG==
+{{main|Chien-Pao (TCG)}}
+
+==Trivia==
+* Chien-Pao has the highest base {{stat|Speed}} stat of all {{type|Dark}} {{OBP|Pokémon|species}}.
+* Chien-Pao and the other [[treasures of ruin]] are the first Pokémon whose [[base stats]] were adjusted via a {{DL|Pokémon Scarlet and Violet|Version history|patch}} to the game.
+* Chien-Pao is one of the only {{type|Ice}} Pokémon, the other ones being {{p|Snom}} and {{form|Rotom|Frost}} {{p|Rotom}}, to not be able to learn {{m|Ice Beam}}.
+
+===Origin===
+Chien-Pao may be based on the {{wp|snow leopard}} and the prehistoric ''{{wp|Smilodon}}'', one of the most well-known true saber-toothed cats. It also may be inspired by {{wp|Nimravidae|nimravids}} such as ''{{wp|Dinictis}}'' and ''{{wp|Hoplophoneus}}'', {{wp|saber-toothed predator}}s with elongated bodies closely related to {{wp|felid}}s. The pieces of a sword that it uses as fangs may have been inspired by bronze swords, particularly the ''{{wp|jian}}'' (double-edged straight sword); and they may make Chien-Pao a literal interpretation of a "saber-toothed cat".
+
+The {{wp|weasel}}- or {{wp|linsang}}-like shape of its form likely alludes to the {{wp|Fu (tally)|tiger tally}} (虎符 ''hǔfú''), the proof of imperial authorization in ancient China for implementation of troop orders. Most examples of the tiger tally depict a stylized tiger long and crouching.
+
+Chien-Pao and the other treasures of ruin may be based on the {{wp|Four Perils}} of Chinese mythology. Specifically, Chien-Pao may be based on 窮奇 / 穷奇 ''Qióngqí'', a vicious tiger-like creature that was later identified as the prototype of ''{{wp|kamaitachi}}'' in Japanese folklore, hence Chien-Pao's similar stats and typing to {{p|Weavile}}. It may also be partly inspired by the 檮杌 / 梼杌 ''Táowù'', another of the Four Perils known for its large tusks as well as having a {{wp|Taowu liui|genus of saber-toothed cats}} named after it.
+
+Chien-Pao's {{Shiny}} coloring might allude to how the fur coat in some mammals living in icy areas, such as the {{wp|arctic fox}}, changes from white to brownish in warmer seasons. 
+
+====Name origin====
+Chien-Pao and Paojian may be a combination of 劍 / 剑 ''jiàn'' (Chinese for sword) or 寶劍 / 宝剑 ''bǎojiàn'' (Chinese for treasure sword) and 豹 ''bào'' (Chinese for leopard). The English name is formatted in {{wp|Wade–Giles}}, a romanization system used in the Anglosphere for most of the 20th century.
+
+==In other languages==
+{{Other languages|type=Dark|type2=Ice
+|ja=パオジアン ''Paojian''|jameaning=From {{tt|豹 ''bào''|Chinese for leopard}} and {{tt|劍 / 剑 ''jiàn''|Chinese for sword}}
+|fr=Baojian|frmeaning=Transcription of Japanese name
+|es=Chien-Pao|esmeaning=Same as English name
+|de=Baojian|demeaning=Transcription of Japanese name
+|it=Chien-Pao|itmeaning=Same as English name
+|ko=파오젠 ''Paozen''|komeaning=Transcription of Japanese name
+|zh_cmn=古劍豹 / 古剑豹 ''Gǔjiànbào''|zh_cmnmeaning=From {{tt|古 ''gǔ''|ancient}}, {{tt|劍 / 剑 ''jiàn''|sword}}, and {{tt|豹 ''bào''|leopard, panther}}
+|zh_yue=古劍豹 ''Gúgimpaau''|zh_yuemeaning=From {{tt|古 ''gú''|ancient}}, {{tt|劍 ''gim''|sword}}, and {{tt|豹 ''paau''|leopard, panther}}
+|hi=चिएनपाओ ''Chienpao''|himeaning=Transcription of English name
+|th=เป้าเจี้ยน ''Paochian''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Myths and legends involving Legendary and Mythical Pokémon]]
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{Legendary Pokémon}}<br>{{PokémonPrevNext/Head|type=Dark|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=1001|prev=Wo-Chien|nextnum=1003|next=Ting-Lu}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Legendary Pokémon]]
+
+[[de:Baojian]]
+[[es:Chien-Pao]]
+[[fr:Baojian]]
+[[it:Chien-Pao]]
+[[ja:パオジアン]]
+[[zh:古剑豹]]

@@ -1,0 +1,1144 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Ground}}
+{{PokémonPrevNext/GO|species=Geodude}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0073|prev=Tentacruel|nextnum=0075|next=Graveler|round=none}}
+{{PokémonPrevNext/Disambig|species=Geodude}}
+|}
+{{Pokémon Infobox
+|name=Geodude
+|jname=イシツブテ
+|jtranslit=Ishitsubute
+|tmname=Isitsubute
+|forme=2
+|form1=Geodude
+|form2=Alolan Geodude
+|image2=0074Geodude-Alola.png
+|ndex=0074
+|type1=Rock
+|type2=Ground
+|form2type1=Rock
+|form2type2=Electric
+|category=Rock
+|height-ftin=1'04"
+|height-m=0.4
+|height-ftin2=1'04"
+|height-m2=0.4
+|weight-lbs=44.1
+|weight-kg=20.0
+|weight-lbs2=44.8
+|weight-kg2=20.3
+|abilitylayout=2+2
+|ability1=Rock Head
+|ability2=Sturdy
+|abilityd=Sand Veil
+|abilitydcaption=Geodude
+|ability2-1=Magnet Pull
+|ability2-2=Sturdy
+|abilityd2=Galvanize
+|abilityd2caption=Alolan Geodude
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=15
+|evtotal=1
+|evde=1
+|expyield=60
+|g4exp=73
+|oldexp=86
+|lv100exp=1,059,860
+|gendercode=127
+|color=Brown
+|formcolors=yes
+|catchrate=255
+|body=04
+|pokefordex=geodude
+|generation=1
+|friendship=70
+}}
+'''Geodude''' ([[List of Japanese Pokémon names|Japanese]]: '''イシツブテ''' ''Isitsubute'') is a dual-type {{2t|Rock|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] into {{p|Graveler}} starting at [[level]] 25, which evolves into {{p|Golem}} when [[Trade Evolution|traded]] or when exposed to a [[Linking Cord]].
+
+In [[Alola]], Geodude has a dual-type {{2t|Rock|Electric}} [[regional form]]. It evolves into {{rf|Alolan}} Graveler starting at level 25, which evolves into Alolan Golem when traded. These Geodude can also be found in [[Blueberry Academy]]'s [[Terarium]]. 
+
+(Refer to [[#Evolution data|Game data&rarr;Evolution data]] for more details.)
+
+==Biology==
+Geodude is a brownish-gray {{wp|boulder}} {{OBP|Pokémon|species}}. It has bulging, rocky eyebrows, trapezoidal eyes with brown pupils, and a wide mouth. Its arms are muscular with five-fingered hands. Geodude uses its arms to climb steadily up steep mountain paths. As a result of their physical appearance, {{p|Rhyperior}} sometimes mistake this Pokémon for actual boulders and fire them through their hands.
+
+Geodude is proud of its {{a|Sturdy|sturdy body}} and will bash against others of its kind in a contest of sorts to prove whose body is harder. It will even go as far as to compare itself with other species such as {{p|Roggenrola}} and {{p|Carbink}}. The longer it lives, the more chipped and worn its body becomes. Long-lived Geodude are completely smooth and round and they have a calm demeanor. However, Geodude's heart remains rugged and tough, no matter what. Geodude can be most often found on {{DL|List of Pokémon by habitat|Mountain Pokémon|mountain trails and fields}}, with a scholar counting about 100 of them on just one route. It will sit still in these areas, which is why it is often mistaken for a rock. It is often stepped on and will sometimes swing its arms in anger when this occurs. When Geodude sleeps deeply, it buries itself halfway into the ground. Once buried, it will not awaken even if someone steps on it. In the morning, Geodude rolls downhill in search of food.
+
+===Forms===
+Geodude has a [[regional form]]: {{rf|Alolan}} Geodude.
+
+In the [[Alola]] region, Geodude is made from a magnetic rock with a more silvery appearance. There are areas on Alolan Geodude's body that are especially magnetic and attract iron sand, creating the appearance of black eyebrows and strands of short black hair.<ref>[https://web.archive.org/web/20170925010027mp_/http://www.pokemon-sunmoon.com/en-us/pokemon/alolan-geodude/ | Alolan Geodude (Archived)]</ref> Its fingers are fused together, leaving only the thumb and index finger free. 
+
+Stepping on Alolan Geodude results in an electrical shock and sometimes an angry headbutt. Like regular Geodude, it competes with others by bashing their bodies together. The iron sand sticks to the one with stronger magnetism. The Alolan {{p|Golem}} will fire these Geodude from its back if real rocks are absent. They can also be found in the [[Canyon Biome]] of [[Blueberry Academy]]'s [[Terarium]], where Alola's island life is simulated.
+
+Alolan Geodude and its evolved forms are the [[Signature Ability|only known Pokémon]] that can have {{a|Galvanize}} as an [[Ability]].
+
+===Evolution===
+Geodude evolves into {{p|Graveler}}, which evolves into {{p|Golem}}.
+
+{{rf|Alolan}} Geodude has a dual-type {{2t|Rock|Electric}} [[regional form]]. It evolves into Alolan Graveler, which evolves into Alolan Golem.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Geodude'''
+{{Evobox-3
+|type1=Rock
+|type2=Ground
+|pictype=art
+|no1=0074
+|name1=Geodude
+|type1-1=Rock
+|type2-1=Ground
+|evo1=
+|no2=0075
+|name2=Graveler
+|type1-2=Rock
+|type2-2=Ground
+|evo2=
+|no3=0076
+|name3=Golem
+|type1-3=Rock
+|type2-3=Ground}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Alolan Geodude'''
+{{Evobox-3
+|type1=Rock
+|type2=Electric
+|pictype=sprite
+|no1=0074Geodude-Alola
+|name1=Geodude
+|form1=Alolan Form
+|type1-1=Rock
+|type2-1=Electric
+|evo1=
+|no2=0075Graveler-Alola
+|name2=Graveler
+|form2=Alolan Form
+|type1-2=Rock
+|type2-2=Electric
+|evo2=
+|no3=0076Golem-Alola
+|name3=Golem
+|form3=Alolan Form
+|type1-3=Rock
+|type2-3=Electric}}
+</div>
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Ground}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=074}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.}}
+{{Dex/Entry1|v=Yellow|entry=Commonly found near mountain trails, etc. If you step on one by accident, it gets angry.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=When traveling uphill, if it encounters a raised step, it cleverly hoists itself up and over using its two arms.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=034}}
+{{Dex/Entry1|v=Gold|entry=Most people may not notice, but a closer look should reveal that there are many <sc>Geodude</sc> around.}}
+{{Dex/Entry1|v=Silver|entry=It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered.}}
+{{Dex/Entry1|v=Crystal|entry=Proud of their sturdy bodies, they bash against each other in a contest to prove whose is harder.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Most people may not notice, but a closer look should reveal that there are many <sc>Geodude</sc> around. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=057|reg2=Kanto|num2=074}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=The longer a <sc>Geodude</sc> lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this {{ScPkmn}}'s heart will remain hard, craggy, and rough always.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=When <sc>Geodude</sc> sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this {{ScPkmn}} rolls downhill in search of food.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It climbs mountain paths using only the power of its arms. Because they look just like boulders lining paths, hikers may step on them without noticing.}}
+{{Dex/Entry1|v=FireRed|entry=Its round form makes it easy to pick up. Some people have used them to hurl at each other in a snowball fight.}}
+{{Dex/Entry1|v=LeafGreen|entry=Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=031|reg2=Johto|num2=034}}
+{{Dex/Entry1|v=Diamond|entry=Many live on mountain trails and remain half buried while keeping an eye on climbers.}}
+{{Dex/Entry1|v=Pearl|entry=It is impossible to distinguish from rocks. It slams against others in contests of hardness.}}
+{{Dex/Entry1|v=Platinum|entry=At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.}}
+{{Dex/Entry1|v=HeartGold|entry=Most people may not notice, but a closer look should reveal that there are many <sc>Geodude</sc> around.}}
+{{Dex/Entry1|v=SoulSilver|entry=It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=009|label1=Mountain|reg2=Hoenn|num2=058}}
+{{Dex/Entry1|v=X|t=FFF|entry=Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It is impossible to distinguish from rocks. It slams against others in contests of hardness.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon's heart will remain hard, craggy, and rough always.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When Geodude sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this Pokémon rolls downhill in search of food.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=229|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=298|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=074}}
+{{Dex/Entry1|v=Sun|entry=Its round body makes it easy to pick up, but it is hard and heavy. It's dangerous to play with them as if they were snowballs.}}
+{{Dex/Entry1|v=Moon|entry=There are plenty of them to be found along any road. A scholar with too much free time once counted a hundred of them along a single route.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Geodude that have lived a long life have had all their edges smoothed out until they're totally round. They also have a calm, quiet disposition.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=It uses both hands to climb precipitous cliffs. People who see it in action have been known to take up bouldering.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.}}
+{{Dex/Form|Alolan Geodude}}
+{{Dex/Entry1|v=Sun|entry=Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.}}
+{{Dex/Entry1|v=Moon|entry=If you accidentally step on a Geodude sleeping on the ground, you'll hear a crunching sound and feel a shock ripple through your entire body.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=If you mistake it for a rock and step on it, it will headbutt you in anger. In addition to the pain, it will also zap you with a shock.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Geodude compete against each other with headbutts. The iron sand on their heads will stick to whichever one has stronger magnetism.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|num2=031|reg3=Hisui|num3=046}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword and Shield]]}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=Many live on mountain trails and remain	half-buried while keeping an eye on climbers.}}
+{{Dex/Entry1|v=Shining Pearl|entry=It is impossible to distinguish from rocks. It slams against others in contests of toughness.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome—carelessly kicking one will cause it to fly into a rage and chase after you.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=80|reg3=Blueberry|num3=96}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Most people may not notice, but a closer look should reveal that there are many Geodude around.}}
+{{Dex/Form|Alolan Geodude}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=If you step on a Geodude sleeping on the ground, you’ll hear a zapping sound and feel a tingling shock throughout your entire body.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{rock color}}; font-size:80%; {{roundy|10px}};"
+|
+{| style="background: #{{rock color}}; {{roundy|10px}}; border: #{{rock color}}; margin-left:auto; margin-right:auto;"
+| style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{rock color light}}" | [[File:Pokédex Image Geodude SM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{rock color light}}" | [[File:Pokédex Image Geodude-Alola SM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{rock color light}}" | [[File:Pokédex Image Geodude USUM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{rock color light}}" | [[File:Pokédex Image Geodude-Alola USUM.png|x200px]]
+|-
+| Geodude in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Alolan Geodude in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Geodude in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Alolan Geodude in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|}
+|-
+|
+{| style="background: #{{rock color}}; {{roundy|10px}}; border: #{{rock color}}; margin-left:auto; margin-right:auto;"
+| style="border:2px solid #{{ground color dark}}; background:#{{rock color light}}; {{roundy|5px}};" | [[File:Pokédex Image Geodude SV Kitakami.png|x200px]]
+| style="border:2px solid #{{electric color dark}}; background:#{{rock color light}}; {{roundy|5px}};" | [[File:Pokédex Image Geodude SV Blueberry.png|x200px]]
+|-
+| Geodude in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+| Alolan Geodude in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+|}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Mt. Moon]], [[Rock Tunnel]], {{ka|Victory Road}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Mt. Moon]], [[Rock Tunnel]], {{ka|Victory Road}}}}
+{{Availability/Entry1|v=Yellow|area=[[Mt. Moon]], [[Rock Tunnel]], {{ka|Victory Road}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|45|Johto}} and {{rtn|46|Johto}}, [[Mt. Mortar]], [[Dark Cave]], [[Union Cave]], [[Mt. Moon]], [[Rock Tunnel]]<br>[[Team Rocket HQ]] (Seven; trap floor)}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|33|Johto}}, {{rtn|45|Johto}}, and {{rtn|46|Johto}}, [[Mt. Mortar]], [[Dark Cave]], [[Union Cave]], [[Mt. Moon]], [[Rock Tunnel]]<br>[[Team Rocket HQ]] (Seven; trap floor)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|111|Hoenn}} and {{rtn|114|Hoenn}}, {{ho|Victory Road}}, {{safari|Hoenn}} ({{m|Rock Smash}})<br/>[[Granite Cave]] (walking and {{m|Rock Smash}})}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Route]]s {{rtn|111|Hoenn}} and {{rtn|114|Hoenn}}, {{ho|Victory Road}}, {{safari|Hoenn}} ({{m|Rock Smash}})<br/>[[Granite Cave]] (walking and {{m|Rock Smash}})<br/>{{OBP|Magma Hideout|Jagged Pass}} (walking)}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{ka|Victory Road}}, [[Mt. Moon]] (walking)<br/>[[Kindle Road]], [[Sevault Canyon]], [[Rock Tunnel]], [[Cerulean Cave]], [[Mt. Ember]] ([[Tall grass]] and {{m|Rock Smash}})}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|206|Sinnoh}}, {{rtn|207|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|211|Sinnoh}}, {{rtn|214|Sinnoh}}, and {{rtn|215|Sinnoh}}, [[Oreburgh Gate]], [[Ruin Maniac Cave]], [[Oreburgh Mine]], [[Iron Island]], [[Mt. Coronet]], [[Maniac Tunnel]], [[Ravaged Path]], [[Stark Mountain]], [[Valor Lakefront]], [[Wayward Cave]]}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|206|Sinnoh}}, {{rtn|207|Sinnoh}}, {{rtn|210|Sinnoh}}, and {{rtn|214|Sinnoh}}, [[Oreburgh Gate]], [[Ruin Maniac Cave]], [[Oreburgh Mine]], [[Iron Island]], [[Mt. Coronet]], [[Maniac Tunnel]], [[Wayward Cave]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|45|Johto}} and {{rtn|46|Johto}}, [[Union Cave]], [[Dark Cave]], [[Ruins of Alph]], [[Mt. Mortar]], [[Cliff Cave]], {{ka|Victory Road}}, [[Rock Tunnel]], [[Mt. Moon]], [[Cerulean Cave]]<br>{{safari|Johto}} (Peak, default; Meadow with 3 Peak points)<br>[[Team Rocket HQ]] (Five; trap floor)}}
+{{Availability/Entry1|v=Pal Park|color=D4B5A7|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=FF3333|area={{pw|Rugged Road}}, {{pw|Volcano Path}}, and {{pw|Night Sky's Edge}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Graveler}} or {{p|Golem}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|18|Kalos}}, [[Terminus Cave]], {{kal|Victory Road}} ([[Horde Encounter]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Granite Cave]]<br>[[Route]]s {{rtn|111|Hoenn}}, {{rtn|114|Hoenn}}, [[Rusturf Tunnel]] ({{m|Rock Smash}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|12|Alola}}, [[Blush Mountain]] <small>('''Alolan Form''')</small><br>[[Pokémon Bank]] <small>('''Kantonian Form''')</small>}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Graveler}} or {{p|Golem}} <small>('''Alolan Form''')</small><br>[[Pokémon Bank]] <small>('''Kantonian Form''')</small>}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Mt. Moon]], [[Rock Tunnel]], {{ka|Victory Road}}, [[Cerulean Cave]] <small>('''Kantonian Form''')</small><br/>[[In-game trade|Trade]] Kantonian Geodude in [[Vermilion City]] <small>('''Alolan Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Route]]s {{rtn|206|Sinnoh}}, {{rtn|207|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|211|Sinnoh}}, {{rtn|214|Sinnoh}}, and {{rtn|215|Sinnoh}}, [[Oreburgh Gate]], [[Ruin Maniac Cave]], [[Oreburgh Mine]], [[Iron Island]], [[Mt. Coronet]], [[Maniac Tunnel]],  [[Ravaged Path]], [[Stark Mountain]], [[Valor Lakefront]], [[Wayward Cave]] <small>('''Kantonian Form''')</small><br>[[Grand Underground]] - [[Rocky Cave]], [[Spacious Cave]], [[Volcanic Cave]], [[Big Bluff Cavern]], [[Typhlo Cavern]] <small>('''Kantonian Form''')</small><br>Unobtainable <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' [[Worn Bridge]], [[Deertrack Heights]], near [[Obsidian Falls]], massive [[mass outbreak]]s <small>('''Kantonian Form''')</small><br>'''[[Crimson Mirelands]]:''' [[Gapejaw Bog]], [[Ursa's Ring]], near [[Sludge Mound]], near [[Scarlet Bog]], [[Bolderoll Slope]], [[Droning Meadow]] <small>('''Kantonian Form''')</small><br>'''[[Cobalt Coastlands]]:''' massive mass outbreaks <small>('''Kantonian Form''')</small><br>'''[[Coronet Highlands]]:''' near [[Ancient Quarry]], [[Clamberclaw Cliffs]]{{Sup/t|D}}, [[Celestica Ruins]], [[Sacred Plaza]], [[Bolderoll Ravine]], massive mass outbreaks <small>('''Kantonian Form''')</small><br>Unobtainable <small>('''Alolan Form''')</small>
+<div style="border-bottom: 1px solid black;"></div>
+'''Obsidian Fieldlands:''' near Worn Bridge, [[Deertrack Path]], Deertrack Heights, [[Windswept Run]], [[Nature's Pantry]], [[Tidewater Dam]], [[The Heartwood]], [[Oreburrow Tunnel]]<sup>Shaking ore deposits</sup> <small>('''Kantonian Form''')</small><br>'''Crimson Mirelands:''' [[Golden Lowlands]], Gapejaw Bog, [[Holm of Trials]], Ursa's Ring, Sludge Mound, Scarlet Bog, [[Cloudpool Ridge]], [[Shrouded Ruins]], [[Diamond Heath]], Bolderoll Slope, near [[Cottonsedge Prairie]]<sup>Shaking ore deposits</sup> <small>('''Kantonian Form''')</small><br>'''Cobalt Coastlands:''' [[Crossing Slope]], [[Ginkgo Landing]], [[Aipom Hill]], [[Bathers' Lagoon]], [[Deadwood Haunt]], [[Sand's Reach]], [[Tranquility Cove]], [[Castaway Shore]], near [[Windbreak Stand]], [[Veilstone Cape]]<sup>Shaking ore deposits</sup> <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Kitakami Road]], [[Apple Hills]], [[Reveler's Road]], [[Oni Mountain]], [[Oni's Maw]], [[Infernal Pass]], [[Chilling Waterhead]], [[Wistful Fields]], [[Paradise Barrens]], [[Kitakami Wilds]] <small>('''Kantonian Form''')</small><br>[[Canyon Biome]], [[Chargestone Cavern]] <small>('''Alolan Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Kitakami)|Geodude|1★}} <small>('''Kantonian Form''')</small>, {{DL|List of 3★ Tera Raid Battles (Blueberry Academy)|Geodude - Alolan Form|3★}} <small>('''Alolan Form''')</small>)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Valley]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Blue Field]]: [[Mt. Moon]] <br> Blue and [[Red Field]]s: [[Rock Tunnel|Rock Mountain]], [[Indigo Plateau]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area={{OBP|Viridian Forest|Channel}}}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Wilderness ({{color2|{{sapphire color}}|Sapphire Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|3|Phobos Drill}}, Endless Level 24, Forever Level 24, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Steel]] (5F-8F), [[Buried Relic]] (B16F-B20F), [[Wish Cave]] (B12F-B14F), [[Southern Cavern]] (B1F-B6F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Krokka Tunnel]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mt. Bristle]] (1F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mt. Bristle]] (1F-9F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area={{OBP|Marine Cave|Ranger}}, [[Peril Cliffs]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area={{OBP|Rocky Cave|Rumble}} <small>(Both Modes C)</small>}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Cavern Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Rasp Cavern]], [[Fire Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#Pokémon on a Roll|Variety Battle: Pokémon on a Roll]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 2|Safari Jungle: Stage 2]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Booming Grotto|Sapphire Sea: Booming Grotto]] <small>(All Areas)</small>, [[Fairy Land#Guardian's Peak|Fairy Land: Guardian's Peak]] <small>(All Areas)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Gengar Sea]], [[Castform Sea]], [[Bulbasaur Sea]], [[Arceus Sea]], [[Charizard Sea]]<sup>Final</sup> <small>('''Kantonian Form''')</small><br> [[Buzzwole Sea]], [[Buzzwole Sea]]<sup>Final</sup> <small>('''Alolan Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Mt. Steel]] (4F-8F), [[Buried Relic]] (4F-10F), [[Wish Cave]] (12F-14F), [[Southern Cavern]] (1F-6F), [[Purity Forest]] (12F-14F)<br/>Fainted Pokémon: [[Howling Forest]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Outaway Cave]] <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]], [[Taupe Hollow]], [[Snowdrop Tundra]], [[Old Gold Power Plant]] (from Basic 1) <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 412]] <small>('''Kantonian Form''')</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#16th release|''Pokémon Safari'']] <small>(16th release; '''Alolan Form''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area={{sync/player|egg|Geodude}} <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Rock|type2=Ground}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Rapid Spin Geodude|English|United States|5|December 13 to 19, 2002;<br>January 31 to February 5, 2003|link=List of PCNY event Pokémon distributions in Generation II#Rapid Spin Geodude}}
+|}
+
+===Held items===
+====Geodude====
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Rock|type2=Ground}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Gold|Silver|Pokémon Gold and Silver Versions}}
+{{HeldItems/Items1|Everstone|2|rows=2}}
+{{HeldItems/Games1|Crystal|Pokémon Crystal Version}}
+{{HeldItems/Games2|Ruby|Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Ruby and Sapphire Versions}}
+{{HeldItems/Items1|Everstone|5|rows=8}}
+{{HeldItems/Games1|Emerald|tcolor=fff|Pokémon Emerald Version}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Tumblestone|40|Ball of Mud|15|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+====Alolan Geodude====
+{{HeldItems/header|type=Rock|type2=Electric}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Items1|Cell Battery|5}}
+|}
+
+===Stats===
+====Base stats====
+=====Geodude=====
+{{Stats
+|type=Rock
+|type2=Ground
+|HP=40
+|Attack=80
+|Defense=100
+|SpAtk=30
+|SpDef=30
+|Speed=20
+|Special=30
+}}
+
+=====Alolan Geodude=====
+Alolan Geodude has the same base stats as Kantonian Geodude.
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|type2=Ground
+|Speed=1
+|SpeedMax=2
+|Power=3
+|PowerMax=3
+|Technique=1
+|TechniqueMax=2
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+====Geodude====
+{{TypeEffectiveness
+|type1=Rock
+|type2=Ground
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=25
+|Ground=200
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=400
+|Grass=400
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=1
+}}
+
+====Alolan Geodude====
+{{TypeEffectiveness
+|type1=Rock
+|type2=Electric
+|Normal=50
+|Fighting=200
+|Flying=25
+|Poison=50
+|Ground=400
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=50
+|Water=200
+|Grass=200
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Geodude=====
+{{learnlist/levelh/9|Geodude|Rock|Ground|1}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||}}
+{{learnlist/level9|1|Defense Curl|Normal|Status|—|—|40||}}
+{{learnlist/level9|6|Rock Polish|Rock|Status|—|—|20||}}
+{{learnlist/level9|10|Rollout|Rock|Physical|30|90|20||'''}}
+{{learnlist/level9|12|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|16|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level9|18|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level9|24|Self-Destruct|Normal|Physical|200|100|5||}}
+{{learnlist/level9|28|Stealth Rock|Rock|Status|—|—|20||}}
+{{learnlist/level9|30|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level9|34|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level9|36|Explosion|Normal|Physical|250|100|5||}}
+{{learnlist/level9|40|Double-Edge|Normal|Physical|120|100|15||}}
+{{learnlist/level9|42|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/levelf/9|Geodude|Rock|Ground|1}}
+
+=====Alolan Geodude=====
+{{learnlist/levelh/9|Geodude|Rock|Electric|7}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||}}
+{{learnlist/level9|1|Defense Curl|Normal|Status|—|—|40||}}
+{{learnlist/level9|4|Charge|Electric|Status|—|—|20||}}
+{{learnlist/level9|6|Rock Polish|Rock|Status|—|—|20||}}
+{{learnlist/level9|10|Rollout|Rock|Physical|30|90|20||'''}}
+{{learnlist/level9|12|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|16|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level9|18|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level9|22|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/level9|24|Self-Destruct|Normal|Physical|200|100|5||}}
+{{learnlist/level9|28|Stealth Rock|Rock|Status|—|—|20||}}
+{{learnlist/level9|30|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level9|34|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|36|Explosion|Normal|Physical|250|100|5||}}
+{{learnlist/level9|40|Double-Edge|Normal|Physical|120|100|15||}}
+{{learnlist/level9|42|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/levelf/9|Geodude|Rock|Electric|7}}
+
+====By [[TM]]====
+=====Geodude=====
+{{learnlist/tmh/9|Geodude|Rock|Ground|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10||}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15||}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15||}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20||}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5||}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10||'''}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20||}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Geodude|Rock|Ground|1}}
+
+=====Alolan Geodude=====
+{{learnlist/tmh/9|Geodude|Rock|Electric|7}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10||}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15||}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM076|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15||}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20||}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5||}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20||}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10||}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20||}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM210|Supercell Slam|Electric|Physical|100|95|15||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Geodude|Rock|Electric|7}}
+
+====By {{pkmn|breeding}}====
+=====Geodude=====
+{{learnlist/breedh/9|Geodude|Rock|Ground|2}}
+{{learnlist/breed9|{{MSP/H|0185|Sudowoodo}}{{MSP/H|0299|Nosepass}}{{MSP/H|0476|Probopass}}{{MSP/H|0874|Stonjourner}}{{MSP/H|0934|Garganacl}}|Block|Normal|Status|—|—|5|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0712|Bergmite}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713|Avalugg|form=-Hisui}}|Curse|Ghost|Status|—|—|10|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0074|Geodude}}{{tt|*|A wild Terastallized Geodude in Oni's Maw knows this move.}}|Dynamic Punch|Fighting|Physical|100|50|5|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0185|Sudowoodo}}|Flail|Normal|Physical|—|100|15|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0185|Sudowoodo}}{{MSP/H|0934|Garganacl}}|Hammer Arm|Fighting|Physical|100|90|10|||grid=5}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Mega Punch|Normal|Physical|80|85|20|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0476|Probopass}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713|Avalugg|form=-Hisui}}{{MSP/H|0874|Stonjourner}}{{MSP/H|0934|Garganacl}}|Wide Guard|Rock|Status|—|—|10|||grid=5}}
+{{learnlist/breedf/9|Geodude|Rock|Ground|2}}
+
+=====Alolan Geodude=====
+{{learnlist/breedh/9|Geodude|Rock|Electric|7}}
+{{learnlist/breed9|{{MSP/H|0185|Sudowoodo}}{{MSP/H|0299|Nosepass}}{{MSP/H|0476|Probopass}}{{MSP/H|0874|Stonjourner}}{{MSP/H|0934|Garganacl}}|Block|Normal|Status|—|—|5|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0185|Sudowoodo}}|Counter|Fighting|Physical|—|100|20|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0712|Bergmite}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713|Avalugg|form=-Hisui}}|Curse|Ghost|Status|—|—|10|||grid=5}}
+{{learnlist/breed9|{{bag/s|TM Normal|SV|TM047}}{{tt|*|The only Pokémon in the Mineral Egg Group that can learn Endure via level-up is Falinks, which cannot breed with Geodude as its gender is unknown. However, the move is available via TM047 and can be passed down from various Pokémon or copied via Mirror Herb.}}|Endure|Normal|Status|—|—|10|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0185|Sudowoodo}}|Flail|Normal|Physical|—|100|15|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0965|Varoom}}{{MSP/H|0966|Revavroom}}|Screech|Normal|Status|—|85|40|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0476|Probopass}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713|Avalugg|form=-Hisui}}{{MSP/H|0874|Stonjourner}}{{MSP/H|0934|Garganacl}}|Wide Guard|Rock|Status|—|—|10|||grid=5}}
+{{learnlist/breed9|{{MSP/H|0299|Nosepass}}{{MSP/H|0476|Probopass}}|Zap Cannon|Electric|Special|120|50|5||'''|grid=5}}
+{{learnlist/breedf/9|Geodude|Rock|Electric|7}}
+
+====Special moves====
+=====Geodude=====
+{{learnlist/eventh/9|Geodude|Rock|Ground|1}}
+{{learnlist/event9|[[Oni's Maw|Wild Tera Pokémon]]|Dynamic Punch|Fighting|Physical|100|50|5}}
+{{learnlist/eventf/9|Geodude|Rock|Ground|1}}
+
+===Side game data===
+====Geodude====
+{{Spindata/Head|type=Rock|type2=Ground}}
+{{Spindata/Pinball|col=2|type=Rock|ndex=074|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Rock|ndex=074|acquisition=Catch}}
+{{Spindata/Trozei|col=2|type=Rock|ndex=074|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Rock|ndex=074
+|body=1
+|rate=9.1
+|area=Mt. Deepgreen
+|P1=My control's great for picking up and pitching rocks!
+|P2=My HP's gone down halfway...
+|P3=I'm bushed... I can't throw rocks with any power...
+|PL=All right! Leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Rock|ndex=074
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Rock|ndex=074
+|coset=3
+|conto={{p|Roggenrola}}, {{p|Timburr}}
+|recruitment=Give an [[Food (Mystery Dungeon)|Apple]] to in a dungeon
+|P1=Whatever you do, don't throw me like a pebble!
+|P2=My body may break…
+}}
+|-
+{{Spindata/Ranger|col=6|type=Rock
+|group=Ground
+|assist=Rock
+|fieldpower=1
+|field=Crush
+|loop=8
+|MinEXP=20
+|MaxEXP=36
+|num=064
+|browser=Geodude may be found lying on the ground. It has the power to crush small rocks.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Rock
+|group=Rock
+|assist=Rock
+|field=Crush
+|fieldpower=1
+|num=041
+|browser=It hurls stones to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Rock
+|group=Rock
+|assist=Rock
+|field=Crush
+|fieldpower=1
+|num=047
+|pastnum=067
+|browser=It triggers rockfalls to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Rock
+|att=2
+|def=3
+|speed=2
+}}
+{{Spindata/RumbleBlast|col=3|type=Rock
+|att=2
+|def=3
+|speed=2
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Rock|ndex=074
+|walk=1.67
+|hp=45
+|attack=69
+|defense=52
+|speed=50
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Rock|ndex=074
+|Pad=Geodude can often be found playing in the [[Cavern Zone]]. They really enjoy {{DL|Attraction (PokéPark)|Blaziken's Boulder Bash}}!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Rock|ndex=074
+|strong=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=They are {{p|Rhyperior}}'s friends, but they are treated like his subordinates. It bothers them a bit.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Rock|ndex=074
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Rock|ndex=074|num=588
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Quake
+|skilldesc=Sometimes increases damage and leaves opponent paralyzed for a short period of time.
+}}
+|-
+{{Spindata/GO|col=6|type=Rock|ndex=074
+|hatch=N/A
+|buddy=1
+|candy=Geodude
+|evocandy=25
+|stamina=120
+|attack=132
+|defense=132
+|fast={{m|Rock Throw}}, {{m|Tackle}}
+|special={{m|Rock Slide}}, {{m|Rock Tomb}}, {{m|Dig}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Rock|ndex=074|pdex=185
+|dex=When they’re sleeping, Geodude look so much like rocks that it’s hard to even notice them! Apparently, they’re proud of their hard bodies and compete with each other to see who’s the toughest.}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0074
+|sleeptype=Slumbering
+|type=Rock
+|dexentry=This Pokémon sleeps soundly, half-buried in the ground. Apparently, it will sometimes stay fast asleep even when trod on by a mountain climber.
+|sleepstyle1=Arms-Crossed Sleep
+|sleepstyle2=Biding Sleep
+|sleepstyle3=Buried Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=5
+|specialty=Ingredients
+|evolution=Lv. 19
+|pokemon=Geodude
+|candyNum=40
+|berry=Sitrus
+|ingredient1=Greengrass Soybeans
+|ingredient2=Tasty Mushroom
+|ingredient3=Soft Potato
+|carrylimit=9
+|skillname=Charge Strength S
+|skilldesc=Increases Snorlax's Strength by anywhere from 200 to 800.
+}}
+|}
+
+====Alolan Geodude====
+{{Spindata/Head|type=Rock|type2=Electric}}
+{{Spindata/Shuffle|col=6|type=Rock|ndex=074A|stype=Electric|num=588
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Rockify
+|skilldesc=Sometimes turns two non-Support Pokémon into rocks.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Rock|ndex=074A
+|walk=1.67
+|hp=45
+|attack=69
+|defense=52
+|speed=50
+}}
+|-
+{{Spindata/GO|col=6|type=Rock|ndex=074A
+|hatch=N/A
+|buddy=1
+|candy=Geodude
+|evocandy=25
+|stamina=120
+|attack=132
+|defense=132
+|fast={{m|Rock Throw}}, {{m|Volt Switch}}
+|special={{m|Rock Slide}}, {{m|Rock Tomb}}, {{m|Thunderbolt}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+====Geodude====
+Geodude [[Evolution|evolves]] into {{p|Graveler}} starting at [[level]] 25, which evolves into {{p|Golem}} when [[Trade Evolution|traded]]. In {{g|Legends: Arceus}}, Graveler can also evolve into Golem when exposed to a [[Linking Cord]].
+{{Evobox-3
+|type1=Rock
+|type2=Ground
+|pictype=art
+|no1=0074
+|name1=Geodude
+|type1-1=Rock
+|type2-1=Ground
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 25}}
+|no2=0075
+|name2=Graveler
+|type1-2=Rock
+|type2-2=Ground
+|evo2=[[File:Link Trade icon SV.png|40px|link=Trade]]<br>{{color2|000|Trade}}<br><big><big>→</big></big><br>{{bag/s|Linking Cord|LA}}<br>{{color2|000|Linking Cord}}<br><small>{{gameIcon|LA}} only</small>
+|no3=0076
+|name3=Golem
+|type1-3=Rock
+|type2-3=Ground}}
+
+====Alolan Geodude====
+{{Evobox-3
+|type1=Rock
+|type2=Electric
+|pictype=sprite
+|no1=0074Geodude-Alola
+|name1=Geodude
+|form1=Alolan Form
+|type1-1=Rock
+|type2-1=Electric
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 25}}
+|no2=0075Graveler-Alola
+|name2=Graveler
+|form2=Alolan Form
+|type1-2=Rock
+|type2-2=Electric
+|evo2=[[File:Link Trade icon SV.png|40px|link=Trade]]<br>{{color2|000|Trade}}
+|no3=0076Golem-Alola
+|name3=Golem
+|form3=Alolan Form
+|type1-3=Rock
+|type2-3=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Ground}}
+{{Spritebox/1|ndex=074}}
+{{Spritebox/2|ndex=074}}
+{{Spritebox/3|ndex=074}}
+{{Spritebox/4|ndex=074}}
+{{Spritebox/5|ndex=074}}
+{{Spritebox/6|ndex=074|crop=72}}
+{{Spritebox/7/2Forms/PE|ndex=074|form1=A|crop=74|PEcrop=138}}
+{{Spritebox/8/LA|ndex=074|LAcrop=163}}
+<!--{{Spritebox/9|ndex=0074}}-->
+{{Spritebox/HOME/2Forms|ndex=0074|form1=A}}
+{{Spritebox/Footer|0074|Geodude}}
+
+====Other sprites====
+{| style="background: #{{rock color}}; margin:auto; text-align:center; font-size: 80%; {{roundy|20px}}; border: 2px solid #{{rock color dark}}"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{ground color dark}}; background: #{{ground color light}}; width:180px"| [[File:Spr 4d 074Iggy.png]]
+| style="{{roundy|80px}} border: 2px solid #{{ground color dark}}; background: #{{ground color light}}; width:180px"| [[File:Spr 4d 074Pebbles.png]]
+| style="{{roundy|80px}} border: 2px solid #{{ground color dark}}; background: #{{ground color light}}; width:180px"| [[File:Spr 4d 074Rocky.png]]
+|-
+| Iggy in {{color2|000|Pokémon Super Contests}}
+| Pebbles in {{color2|000|Pokémon Super Contests}}
+| Rocky in {{color2|000|Pokémon Super Contests}}
+|}
+
+==In animation==
+===Main series===
+[[File:Geodude anime.png|thumb|250px|Geodude and {{rf|Alolan}} Geodude in {{aniseries|SM}}]]
+====Major appearances====
+=====[[Brock's Geodude]]=====
+In ''[[EP005|Showdown in Pewter City]]'', {{an|Brock}} was revealed to own a Geodude, marking the animated debut of the species. He used it during his {{pkmn|journey}}s in [[Kanto]] and [[Johto]] before lending it to his brother [[Forrest]] prior to his departure to [[Hoenn]]. Geodude reappeared under Brock's command during the Kanto mini-arc depicted in ''[[SM042|Alola, Kanto!]]'' and ''[[SM043|When Regions Collide!]]''.
+
+=====Other=====
+In ''[[EP093|Navel Maneuvers]]'', [[Danny]] used a Geodude to help create and ride a sled as part of the challenges. It reappeared in flashbacks in ''[[EP098|A Way Off Day Off]]'' and ''[[EP111|Hello, Pummelo!]]''.
+
+In ''[[AG016|Winner by a Nosepass]]'', [[Roxanne]] used a Geodude during her [[Gym]] {{pkmn|battle}} with {{Ash}}. It easily defeated {{AP|Treecko}} before losing to {{AP|Pikachu}}'s {{m|Thunder}}{{tt|*|Which should be impossible due to Geodude's immunity against electricity}}.
+
+In ''[[AG137|Hooked on Onix]]'', multiple Geodude were the loyal subjects of an {{p|Onix}} called King Onix.
+
+In ''[[DP015|Shapes of Things to Come!]]'', [[Roark]] used a Geodude during his Gym battle against [[Paul]]. It battled his {{p|Azumarill}} and won before losing to {{TP|Paul|Elekid}}. In ''[[DP018|O'er the Rampardos we Watched!]]'', Geodude battled [[Ash's Aipom]] but was soon defeated.
+
+In ''[[SM032|Treasure Hunt, Akala Style!]]'', {{Ash}} attempted to {{pkmn2|caught|catch}} an {{rf|Alolan}} Geodude. After a short battle, Alolan Geodude punched Ash's {{i|Poké Ball}} into his face with {{m|Thunder Punch}} and then fled.
+
+In ''[[SM095|Sparking Confusion!]]'', multiple Geodude, along with a group of Alolan Graveler and an Alolan Golem, caused havoc at [[Wela Volcano Park]] after their feeding rituals were disrupted by [[Rock hunters|a group of rock hunters]].
+
+In ''[[JN076|All Out, All of the Time!]]'', an {{DL|List of Goh's Pokémon|Alolan Geodude}} was caught by [[Goh]] during the [[Pokémon Catch Adventure Race]].
+
+====Minor appearances====
+Multiple Geodude appeared in ''[[EP015|Battle Aboard the St. Anne]]''.
+
+In ''[[EP065|Showdown at the Po-ké Corral]]'', a Geodude lived at [[Professor Oak's Laboratory]].
+
+In ''[[EP088|In the Pink]]'', {{TRT}}'s fantasy featured a {{DL|List of alternately colored Pokémon in animation|Pink Pokémon|pink}} Geodude.
+
+In ''[[EP092|The Joy of Pokémon]]'', a {{pkmn|Trainer}}'s Geodude was treated by the [[Nurse Joy]] of an {{OBP|unnamed island|EP092}}.
+
+In ''[[M02|The Power of One]]'', a Geodude sensed the disturbance caused by [[Lawrence III]].
+
+A Geodude appeared in the Japanese credits of ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP140|Wired for Battle!]]'', a Trainer's Geodude came up as an image in [[Shingo]]'s laptop.
+
+A Geodude appeared in a fantasy in ''[[EP162|Type Casting]]''.
+
+In ''[[EP164|Carrying On!]]'', a sick Geodude was in [[Way Away Island]]'s [[Pokémon Center]].
+
+In ''[[EP169|Beauty and the Breeder]]'', a fantasy featured a Geodude participating in a Pokémon beauty contest.
+
+In ''[[HS12|Training Daze]]'', a Geodude was partnered with two [[Team Rocket]] trainees.
+
+Multiple Geodude appeared in ''[[M04|Celebi: The Voice of the Forest]]''. Some of them appeared during the movie's opening intro, which was reused for ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+Multiple Geodude appeared in ''[[M07|Destiny Deoxys]]''.
+
+Three Geodude appeared in ''[[AG096|Training Wrecks]]'', all under the ownership of a Trainer.
+
+A {{pkmn|Coordinator}}'s Geodude appeared in ''[[AG121|Hi Ho Silver Wind!]]''.
+
+A Geodude made a brief cameo in ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Geodude appeared in ''[[DP005|Gettin' Twiggy With It!]]''.
+
+A Geodude made a brief cameo in ''[[M11|Giratina and the Sky Warrior]]''.
+
+Multiple Geodude appeared in ''[[DP110|Steeling Peace of Mind!]]'' and ''[[DP111|Saving the World From Ruins!]]''.
+
+Two Geodude made a cameo in ''[[M12|Arceus and the Jewel of Life]]''.
+
+In ''[[DP182|An Old Family Blend!]]'', a Trainer's Geodude competed in the [[Lily of the Valley Conference]].
+
+In ''[[PK27|Pikachu and the Pokémon Music Squad]]'', a Geodude lived in a forest.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', multiple Geodude lived at [[Pokémon Hills]]. They participated in the battle against the [[Genesect Army]].
+
+Two Geodude appeared in ''[[M20|I Choose You!]]'', with one being wild and the other under the ownership of a Trainer. The wild Geodude fell under the control of {{OBP|Marshadow|M20}}.
+
+Multiple Geodude appeared in ''[[SM042|Alola, Kanto!]]'', with two each belonging to Trainers, and one of them being an Alolan Geodude. The Alolan Geodude was compared to [[Brock's Geodude]].
+
+In ''[[SM129|Battle Royal 151!]]'', a Trainer's Alolan Geodude competed in the [[Battle Royal]] preliminary round of the [[Manalo Conference]] but was defeated.
+
+In ''[[JN015|A Snow Day for Searching!]]'', three Geodude threw a snowball at [[Goh's Scyther]] while it was searching for a group of {{p|Mankey}}, hitting it in the face. This caused Scyther to become angry and start chasing them around.
+
+A Geodude appeared in ''[[JN038|Restore and Renew!]]''.
+
+A Trainer's Geodude appeared in ''[[JN069|Errand Endurance!]]''.
+
+A Trainer's Geodude appeared in ''[[JN070|Take My Thief! Please!]]''.
+
+Several Geodude appeared in ''[[JN102|Battling in the Freezing Raid!]]''.
+
+Two Geodude appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Trainer's Geodude appeared in ''[[HZ039|Tinkatink's Ideal Hammer]]''.
+
+<gallery widths=200>
+Brock Geodude.png|Kantonian Geodude in ''Pokémon the Series: Sun & Moon''
+Alolan Geodude anime.png|Alolan Geodude in ''Pokémon the Series: Sun & Moon''
+</gallery>
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG016|Geodude|May's Pokédex|Geodude, the Rock Pokémon. Geodude has incredibly high defensive power, making it virtually resistant to any [[Physical move|physical attacks]].}}
+{{Animedexfooter/Pokémon|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP015|Geodude|Dawn's Pokédex|Geodude, the Rock Pokémon. Geodude is often found on mountain roads with half of its body buried in the ground so it can observe mountain travelers.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+{{Animedexheader|Alola}}
+{{Animedexbody|SM032|Geodude|Rotom Pokédex|Geodude, Alola Form. The Rock Pokémon. A {{t|Rock}} and {{t|Electric}} type. If you step on a sleeping Geodude, you'll hear a snap, and your body will go numb from its electrical discharge.}}
+{{Animedexfooter/Pokémon|Alola}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN051|Geodude|Goh's Rotom Phone|Geodude, the Rock Pokémon. A {{t|Rock}} and {{t|Ground}} type. Geodude's habitat is mostly made up of mountain paths. It gets angry if stepped on, so it's good to be careful in those areas.}}
+{{Animedexbody|JN076|Geodude|Goh's Rotom Phone|Geodude, [[Alolan form]]. The Rock Pokémon. A {{t|Rock}} and {{t|Electric}} type. Most Geodude inhabit mountainous paths.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Origins===
+[[File:Brock Geodude PO.png|thumb|250px|Geodude in [[Pokémon Origins]]]]
+====[[Brock's Geodude]]====
+In ''[[PO01|File 1: Red]]'', [[Brock]]'s Geodude fought [[Red's Charmander]] and {{p|Nidoran♂}}. It lost to Nidoran♂ after Brock told {{OBP|Red|Origins}} about type advantages and switched out his Charmander.
+{{-}}
+
+==In the manga==
+[[File:Brock Geodude Adventures.png|thumb|250px|Geodude in [[Pokémon Adventures]]]]
+===Ash & Pikachu===
+Similar to the animated series, Roxanne used a Geodude during her Gym battle against {{Ash}}.
+
+A Trainer's Geodude appeared in ''[[SP19|Trust In Each Other!!]]''.
+
+===The Electric Tale of Pikachu===
+{{main|Brock's Geodude}}
+{{an|Brock}} uses a pair of Geodude in his Gym battle against {{OBP|Ash Ketchum|EToP|Ash}} in ''[[ET02|Play Misty For Me]]''.
+
+===Magical Pokémon Journey===
+A Geodude appeared in ''[[PPP01|How Do You Do, Pikachu?]]''.
+
+===Pocket Monsters DP===
+A Geodude appeared in [[PMDP16]].
+
+===Pocket Monsters HGSS===
+A Geodude appeared in [[PMHGSS07]], under the ownership of {{PPM|Professor Oak}}.
+
+===Pokémon Adventures===
+{{main|Brock's Geodude}}
+In ''[[PS005|Onix is On!]]'', a Geodude appeared floating next to [[Brock]]. He was later seen with six Geodude forming a belt around his jacket in the {{MangaArc|Yellow}}. The Geodude sextet was later seen in ''[[PS169|The Last Battle III]]'', where they were attempting to halt the [[Magnet Train]] with a combined {{m|Magnitude}}. Each of them have [[nickname]]s, ranging from Geoone to Geosix.
+
+A {{pkmn2|wild}} Geodude appeared in ''[[PS007|Raging Rhydon]]''.
+
+In ''[[PS016|Tauros the Tyrant]]'', a {{tc|Team Rocket Grunt}} used a Geodude in an attempt to catch {{adv|Green}}.
+
+In ''[[PS017|The Jynx Jinx]]'', a Geodude was seen as a silhouette when Green talked about {{adv|Mew}}.
+
+In ''[[PS121|Off Course with Corsola]]'', a Geodude was seen in [[Union Cave]], hiding among the rocks.
+
+Multiple Geodude appeared in ''[[PS194|Guile from Mawile]]'' and ''[[PS195|Mashing Makuhita]]''.
+
+A Geodude appeared in ''[[PS342|A Conk on Cranidos's Cranium]]'', under the ownership of a {{tc|Youngster}}.
+
+A Geodude appeared in ''[[PS349|Passing by Probopass and Maneuvering around Magnezone]]''.
+
+Multiple Geodude appeared in ''[[PS379|Lucky Lucario I]]''.
+
+A Geodude appeared in ''[[PS446|Weavile Wobbles But It Won't Fall Down]]'', under the ownership of a {{tc|PI}} at the {{safari|Johto}}.
+
+A Geodude appeared in ''[[PS585|Pinsir Changes]]''.
+
+A Geodude appeared in a flashback in ''[[PS589|Charizard Transforms]]''.
+
+===Pokémon Battle Frontier===
+A Geodude appeared in ''[[CBF1|Enta Arrives at the Battle Frontier!]]''.
+
+===Pokémon Diamond and Pearl Adventure!===
+A Geodude appeared in ''[[DPA01|In Search of the Legendary Pokémon Dialga!!]]''.
+
+A Geodude appeared in ''[[DPA06|Beauty Contest: The Pokémon Super Contest!!]]''.
+
+[[Roark]]'s Geodude debuted in a flashback in ''[[DPA09|Challenge! The Fortress Of Steel!!]]'', where it tried to comfort him when he was young after [[Byron|his father]] pushed him too hard to become a [[Gym Leader]]. It physically debuted in ''[[DPA22|Bonds Connect Across Space-Time...]]''.
+
+[[Hareta]] {{pkmn2|caught}} a Geodude on [[Iron Island]] in ''[[DPA10|Serious Training on Iron Island!!]]''.
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Geodude appeared in ''[[GB04|Let's Aim For The Goal!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Geodude appeared in a background collage in ''[[GDZ09|Catch the Poliwag!]]''.
+
+A Geodude appeared in [[GDZ21]].
+
+[[Shu]] {{pkmn2|caught}} a Geodude, as seen in [[GDZ28]].
+
+===Pokémon Mystery Dungeon: Ginji's Rescue Team===
+A Geodude appeared in ''[[GRT2|I Want to be Human Again!]]''.
+
+===Pokémon Pocket Monsters===
+A Geodude appeared in ''[[PM013|The Legendary Pokémon Appears!!]]''.
+
+==In the TCG==
+{{main|Geodude (TCG)}}
+
+==In the TFG==
+One Geodude figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Geodude|8}}
+
+==Other appearances==
+===[[Super Smash Bros. Melee]]===
+Geodude is the final Poké Float to appear in the [[Poké Floats]] stage. As the {{p|Unown}} float around the top half of the screen, Geodude floats across the bottom with its arms outstretched, providing a solid base for fighting. After it leaves the screen, there will be no Poké Floats on the screen for a few seconds, before {{p|Squirtle}} pops up and restarts the cycle.
+
+===[[Super Smash Bros. Ultimate]]===
+Geodude appears as a {{sbw|Spirits (characters)|Spirit}}.
+
+==Trivia==
+* In the Japanese game {{game|Blue|_(Japanese)}}, Geodude [[List of Pokémon by weight|weighs]] 2.0&nbsp;kg instead of 20.0&nbsp;kg (as it does in all other games). This has no mechanical significance, as no game mechanics use weight in the handheld [[Generation I]] games.
+* Geodude is similar to {{p|Roggenrola}}: both are {{type|Rock}}, have {{a|Sturdy}} as one of their {{Abilities}}, evolve at level 25, and reach their final forms when [[trade]]d.
+* Geodude is the only Rock type Pokémon to be part of a three-stage evolutionary line in Generation I.
+** Although the Rock type {{p|Rhyhorn}} has a three-stage evolutionary line, its final Evolution, {{p|Rhyperior}}, was not introduced until [[Generation IV]].
+* Geodude's evolutionary line is the only three-stage evolutionary line in which all members have a [[regional form]].
+* Alolan Geodude has the lowest base {{stat|Special Attack}} stat of all {{type|Electric}} Pokémon.
+* Alolan Geodude and its evolutionary relatives were designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/804500572967555072 Tweet by ありがひとし/ArigaHitoshi (@ariga_megamix).] Posted on December 2, 2016.</ref>
+* {{p|Burmy}}, {{p|Wormadam}}, {{p|Mothim}}, Geodude, {{p|Graveler}} and {{p|Golem}} are the only Pokémon in all five [[List of Pokémon by Hisui Pokédex number|Hisui Pokédex]] sublistings.
+
+===Origin===
+Geodude, being a living {{wp|Rock (geology)|rock}} or {{wp|boulder}}, may be based on an earth {{wp|elemental}} creature like {{wp|golem}}.
+
+Alolan Geodude seems to have dark structures made of {{wp|Piezoelectricity#Materials|piezoelectric crystals}} or {{wp|magnetite}}, a subset of iron ore known for its black crystalline appearance and magnetic properties. This iron ore takes shape of Geodude's {{wp|eyebrow}}s. Its {{t|Electric}} type may also be a pun on {{wp|thunderegg}}s.
+
+====Name origin====
+Geodude is a combination of ''[[Wiktionary:geo-|geo-]]'' (prefix for earth) and ''[[Wiktionary:dude|dude]]'' (slang word for a male person).<ref>'''{{DL|Television|PokéQuiz|ポケＱポン}}''' (PokéQuiz in Japanese): 正解はＧＥＯＤＵＤＥ！ジオドゥードです！ＧＥＯは地理に関すること　ＤＵＤＥは奴って意味なんですよ</ref> It may also involve ''{{wp|geode}}'' (hollow rock with crystals lined inside) and ''rude''.
+
+Isitsubute is a combination of 石 ''ishi'' (stone) and 礫 ''tsubute'' (throwing stones).<ref>'''{{DL|Television|PokéQuiz}}''': The correct answer’s Ishitsubute! I-shee-tsu-bu-te! “Ishi” means rock, and “tsubute” is like a throwing stone. Don’t try to throw a Geodude, though, because you will probably get hurt!</ref>
+
+==In other languages==
+{{Other languages|type=Rock|type2=Ground
+|ja=イシツブテ ''Isitsubute''|jameaning=From {{tt|石 ''ishi''|stone}} and {{tt|礫 ''tsubute''|throwing stones}}
+|fr=Racaillou|frmeaning=From ''{{tt|racaille|rabble or scum}}'' and ''{{tt|caillou|stone}}''
+|es=Geodude|esmeaning=Same as English name
+|de=Kleinstein|demeaning=From ''{{tt|klein|small}}'', ''{{tt|Stein|stone}}'', and a pun of ''{{wp|Albert Einstein|Einstein}}''
+|it=Geodude|itmeaning=Same as English name
+|ko=꼬마돌 ''Kkomadol''|komeaning=From {{tt|꼬마 ''kkoma''|young child}} and {{tt|돌 ''dol''|rock, stone}}
+|zh_cmn=小拳石 ''Xiǎoquánshí''|zh_cmnmeaning=From {{tt|小 ''xiǎo''|small}}, {{tt|拳 ''quán''|fist}}, and {{tt|石 ''shí''|stone}}
+|zh_yue=小拳石 ''Síukyùhnsehk''|zh_yuemeaning=From {{tt|小 ''síu''|small}}, {{tt|拳 ''kyùhn''|fist}}, and {{tt|石 ''sehk''|stone}}
+|hi=जियोडूड ''Geodude''|himeaning=Transcription of English name
+|ru=Геодуд ''Geodud''|rumeaning=Transcription of English name
+|th=อิชิซึบูเตะ ''Ichisuebute''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Brock's Geodude]]
+* [[Regional form]]
+
+==References==
+<references />
+
+==External links==
+
+{{Alolan forms}}
+
+{{PokémonPrevNext/Head|type=Rock|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0073|prev=Tentacruel|nextnum=0075|next=Graveler}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Gray-colored Pokémon]]<!--Alolan Geodude-->
+[[Category:Pokémon that appear in Pokémon Snap]]
+[[Category:Super Smash Bros. spirits]]
+
+[[de:Kleinstein]]
+[[es:Geodude]]
+[[fr:Racaillou]]
+[[it:Geodude]]
+[[ja:イシツブテ]]
+[[zh:小拳石]]

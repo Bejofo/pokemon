@@ -1,0 +1,448 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Accelgor}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0616|prev=Shelmet|nextnum=0618|next=Stunfisk|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Accelgor
+|jname=アギルダー
+|jtranslit=Agirudā
+|tmname=Agilder
+|category=Shell Out
+|typebox=1
+|type1=Bug
+|abilityn=d
+|ability1=Hydration
+|ability2=Sticky Hold
+|abilityd=Unburden
+|ndex=0617
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=55.8
+|weight-kg=25.3
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|expyield=173
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=75
+|evtotal=2
+|evsp=2
+|body=04
+|pokefordex=accelgor
+|generation=5
+|friendship=70
+}}
+'''Accelgor''' ([[List of Japanese Pokémon names|Japanese]]: '''アギルダー''' ''Agilder'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Shelmet}} when [[Trade Evolution|traded]] for a {{p|Karrablast}}, a Pokémon that evolves into {{p|Escavalier}} simultaneously. Neither evolves if at least one holds an [[Everstone]] during the trade.
+
+==Biology==
+Accelgor is a {{OBP|Pokémon|species}} which has a large pink head reminiscent of a {{wp|helmet}} that is curled in the back. Green stripes run from its eyes to the top of its head, and there is a black star-like marking or hole on the front. Its eyes are hidden in a shadowed crevice in its head. The rest of its body is covered by a blue, cloth-like membrane, which keeps Accelgor from dehydrating, with ribbon-like extensions at the top of its back. Its arms, when crossed, portray an aggressive mood.
+
+It is a very fast Pokémon and attacks in ways similar to ninjas. In [[Generation VIII]], {{m|Water Shuriken}} was its [[signature move]]. It lives in moist habitats like bogs and swamps. Accelgor is often featured as a main character in movies or comics to increase the popularity of these products. Accelgor's pouting expression and crossed arms are due to it being miserable over having lost its shell.<ref>''Nintendo Dream'' Vol. 201, January 2011 ([http://lavacutcontent.com/ken-sugimori-nintendo-dream-3/ Translation by Dr. Lava])</ref>
+
+===Evolution===
+Accelgor evolves from {{p|Shelmet}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|type1=Bug
+|no1=0616
+|name1=Shelmet
+|type1-1=Bug
+|evo1=
+|no2=0617
+|name2=Accelgor
+|type1-2=Bug}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=123|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=158|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.}}
+{{Dex/Entry1|v=White|entry=Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=025|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/5|gen=VIII|reg1=Galar|num1=276|reg2=Galar|num2=065|label2=Isle of Armor|reg3=Galar|num3=098|label3=Crown Tundra|reg4=Sinnoh|reg5=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Shelmet}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Shelmet}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Shelmet}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|v=Sword|t=FFF|area=[[Evolution|Evolve]] {{p|Shelmet}}}}
+{{Availability/Entry1|v=Shield|t=FFF|area=[[Rolling Fields/Dens|Rolling Fields]], [[Dappled Grove/Dens|Dappled Grove]], [[South Lake Miloch/Dens|South Lake Miloch]], [[Bridge Field/Dens|Bridge Field]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Training Lowlands]], [[Forest of Focus]] ([[Wanderer]])<br>[[Fields of Honor/Dens|Fields of Honor]], [[Forest of Focus/Dens|Forest of Focus]], [[Workout Sea/Dens|Workout Sea]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Tech Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs]] <small>(Possible Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 3|Safari Jungle: Stage 3]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Soothing Shore|Black Realm: Soothing Shore]] <small>(Center Boss, Back)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Great Challenge|Accelgor Appears]]''}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Costume [[sync pair scout]]: {{sync|Ingo|Accelgor|Special Costume}}}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--===Held items===-->
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=80
+|Attack=70
+|Defense=40
+|SpAtk=100
+|SpDef=60
+|Speed=145}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+Accelgor is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Accelgor|Bug|Bug|5}}
+{{learnlist/level8|1|Water Shuriken|Water|Special|15|100|20}}
+{{learnlist/level8|1|Acid|Poison|Special|40|100|30}}
+{{learnlist/level8|1|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level8|1|Yawn|Normal|Status|—|—|10}}
+{{learnlist/level8|1|Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/level8|1|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/level8|1|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level8|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level8|1|Double Team|Normal|Status|—|—|15}}
+{{learnlist/level8|1|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/level8|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level8|12|Mega Drain|Grass|Special|40|100|15}}
+{{learnlist/level8|16|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level8|20|Swift|Normal|Special|60|—|20}}
+{{learnlist/level8|24|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level8|28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/level8|32|Power Swap|Psychic|Status|—|—|10}}
+{{learnlist/level8|36|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/level8|40|Recover|Normal|Status|—|—|10}}
+{{learnlist/level8|44|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level8|48|Final Gambit|Fighting|Special|—|100|5}}
+{{learnlist/level8|52|Toxic|Poison|Status|—|90|10}}
+{{learnlist/levelf/8|Accelgor|Bug|Bug|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Accelgor|Bug|Bug|5}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM60|Power Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM61|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM63|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm8|TM74|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR21|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tr|TR23|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR30|Encore|Normal|Status|—|100|5}}
+{{learnlist/tr|TR54|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tr|TR61|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tr|TR64|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR91|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/tmf/8|Accelgor|Bug|Bug|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Accelgor|Bug|Bug|5}}
+{{learnlist/breed8|{{MSP/8c|543|Venipede}}{{MSP/8c|544|Whirlipede}}{{MSP/8c|545|Scolipede}}{{MSP/8c|588|Karrablast}}{{MSP/8c|589|Escavalier}}{{MSP/8c|636|Larvesta}}{{MSP/8c|637|Volcarona}}|Double-Edge|Normal|Physical|120|100|15|grid=7}}
+{{learnlist/breed8|{{MSP/8c|330|Flygon}}|Feint|Normal|Physical|30|100|10|grid=7}}
+{{learnlist/breed8|{{MSP/8c|213|Shuckle}}|Guard Split|Psychic|Status|—|—|10|grid=7}}
+{{learnlist/breed8|{{MSP/8c|290|Nincada}}{{MSP/8c|291|Ninjask}}|Mind Reader|Normal|Status|—|—|5|grid=7}}
+{{learnlist/breedf/8|Accelgor|Bug|Bug|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Accelgor|Bug|Bug|5}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Accelgor|Bug|Bug|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Accelgor|Bug|Bug|5}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Accelgor|Bug|Bug|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Accelgor|Bug|Bug|5}}
+{{learnlist/prevgen8|Accelgor|5|Bide|Normal|Physical|—|—|10|V=yes<!--prevo-->|VI=yes<!--prevo-->|VII=yes<!--prevo-->|x=yes}}
+{{learnlist/prevgen8|Accelgor|5|Bug Bite|Bug|Physical|60|100|20||'''|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Accelgor|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Accelgor|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Accelgor|5|Gastro Acid|Poison|Status|—|100|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Accelgor|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Accelgor|5|Infestation|Bug|Special|20|100|20||'''|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Accelgor|5|Knock Off|Dark|Physical|65|100|20|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Accelgor|5|Laser Focus|Normal|Status|—|—|30|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Accelgor|5|Me First|Normal|Status|—|—|20|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Accelgor|5|Mud-Slap|Ground|Special|20|100|10|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->}}
+{{learnlist/prevgen8|Accelgor|5|Pursuit|Dark|Physical|40|100|20|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Accelgor|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Accelgor|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Accelgor|5|Signal Beam|Bug|Special|75|100|15||'''|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Accelgor|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Accelgor|Bug|Bug|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/PSMD|col=6|type=Bug|ndex=617
+|coset=3
+|conto={{p|Hippopotas}} (♀)
+|recruitment=Item delivery
+|P1=A knight without shining armor enters the hall! Is everything polished to perfection?
+|P2=A knight, shining armor or no, would never perish from such a triviality…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=4
+|def=2
+|speed=5
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=617
+|walk=2.33
+|hp=55
+|attack=79
+|defense=48
+|speed=80
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=617
+|pad=He knows the loneliness of running, but he keeps running. He is fighting against something in his mind, but no one knows what he is fighting against.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=617
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=617|num=669
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Eject++
+|skilldesc=Sometimes removes five non-Support Pokémon icons.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=617
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=190
+|attack=220
+|defense=120
+|fast={{m|Acid}}, {{m|Infestation}}, {{m|Water Shuriken}}{{tt|*|From September 1, 2023 onward}}
+|special={{m|Bug Buzz}}, {{m|Acid Spray}}, {{m|Signal Beam}}, {{m|Focus Blast}}, {{m|Energy Ball}}{{tt|†|Event-exclusive from Karrablast and Shelmet Community Day}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|type1=Bug
+|no1=0616
+|name1=Shelmet
+|type1-1=Bug
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]] [[File:Menu HOME 0588.png|40px|link=Karrablast (Pokémon)]]<br>{{color2|000|Trade}}<br><small>for {{pcolor|Karrablast|000}}
+|no2=0617
+|name2=Accelgor
+|type1-2=Bug
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=617}}
+{{Spritebox/6|ndex=617|crop=137}}
+{{Spritebox/7|ndex=617|crop=106}}
+{{Spritebox/8|ndex=617}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0617}}
+{{Spritebox/Footer|617|Accelgor}}
+
+==In animation==
+[[File:Juniper Accelgor.png|thumb|250px|Accelgor in {{aniseries|BW}}]]
+===Major appearances===
+Accelgor debuted in ''[[BW057|The Mighty Accelguard to the Rescue!]]'', under the ownership of [[Charles]]. Charles used Accelgor during [[Dr. Ferrara|Cryogonal Man]]'s attempt to rob the [[Cold Storage]], during which Accelgor showed off its abilities. It was able to defeat Cryogonal Man's powerful {{p|Vanillish}} in a {{pkmn|battle}}.
+
+In ''[[BW063|Evolution Exchange Excitement!]]'', {{an|Bianca}}'s {{p|Shelmet}} evolved into an Accelgor after being traded with [[Professor Juniper]] for her {{p|Karrablast}}.
+
+===Minor appearances===
+An Accelgor appeared in a fantasy in ''[[BW062|Crisis at Chargestone Cave!]]''.
+
+In ''[[XY109|Master Class Choices!]]'', [[Shulin]]'s Accelgor was seen participating in the [[Fleurrh City]] [[Pokémon Showcase]] alongside {{p|Escavalier}}. They had to round up the most {{p|Rhyhorn}} and were able to do so, thus making it into the Freestyle Performance. In ''[[XY112|Master Class Is in Session!]]'', it was used in the {{ci|Gloire}} Master Class Showcase.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW057|Accelgor|Ash's Pokédex|Accelgor, the Shell Out Pokémon and the evolved form of Shelmet. Accelgor is much more agile once it evolves and loses its shell, allowing it to move like a ninja when battling.}}
+{{Animedexbody|BW063|Accelgor|Bianca's Pokédex|Accelgor, the Shell Out Pokémon and the evolved form of Shelmet. Accelgor has become much more agile since its shell was removed, allowing it to move like a ninja when battling.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:Whitley Accelgor Adventures.png|thumb|150px|Accelgor in [[Pokémon Adventures]]]]
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+An Accelgor appeared in ''[[FAT3|A Very Important Thing]]'', under the ownership of the younger of two brothers.
+
+===Pokémon Adventures===
+An Accelgor appeared in ''[[PS483|Special Delivery]]'' as one of the Pokémon competing in {{ci|Nimbasa}}'s [[Pokémon Musical]].
+
+[[Alder]] has an Accelgor, which was first seen being used to battle [[Marshal]] at the [[Battle Subway]] in ''[[PS486|Unraveling Mysteries]]''.
+
+A {{pkmn|Trainer}}'s Accelgor appeared in ''[[PS513|Into the Quarterfinals!]]''.
+
+{{adv|Whitley}}'s Accelgor debuted in ''[[PS543|Abyssal Ruins]]'', where it evolved from {{adv|Blake}}'s Shelmet after being [[trade]]d for her {{p|Karrablast}}.
+
+===Pokémon RéBURST===
+An Accelgor appears as the [[Burst]] form of [[Karuta]]. His father also has an Accelgor, which he can use as his Burst form.
+
+==In the TCG==
+{{main|Accelgor (TCG)}}
+
+==Trivia==
+
+===Origin===
+Accelgor seems to be based on an {{wp|Stock car racing|auto}} {{wp|drag racing|racer}} or a {{wp|ninja}}, combined with a {{wp|slug}}, {{wp|snail}}, or {{wp|giant tube worm}}. Its cloth-like "clothing" and {{t|Bug}} type suggest it may also be based on the {{wp|bagworm moth|bagworm}} pupa.
+
+====Name origin====
+Accelgor may be a combination of ''accelerate'' and ''escargot'' (French for snail).
+
+Agilder may be a combination of ''agile'' and ''rider''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=アギルダー ''Agilder''|jameaning=From {{tt|アギル ''agiru''|agile}} and {{tt|ライダー ''raidā''|rider}}
+|fr=Limaspeed|frmeaning=From ''{{tt|limace|slug}}'' and ''speed''
+|es=Accelgor|esmeaning=Same as English name
+|de=Hydragil|demeaning=From ''{{a|Hydration}}'' and ''{{tt|agil|agile}}''
+|it=Accelgor|itmeaning=Same as English name
+|ko=어지리더 ''Eojirideo''|komeaning=From ''agility'' and ''rider''
+|zh_cmn=敏捷蟲 / 敏捷虫 ''Mǐnjiéchóng''|zh_cmnmeaning=From {{tt|敏捷 ''mǐnjié''|agile, nimble}} and {{tt|蟲 / 虫 ''chóng''|bug, worm}}
+|zh_yue=敏捷蟲 ''Máhnjihtchùhng''|zh_yuemeaning=From {{tt|敏捷 ''máhnjiht''|agile, nimble}} and {{tt|蟲 ''chùhng''|bug, worm}}
+|hi=फ़ुरडीला ''Foordila''|himeaning=From {{tt|फुर्ती ''phurtī''|liveliness}} or {{tt|फुरतीला ''phurtīlā''|brisk/agile}} and {{tt|ढीला ''ḍhīlā''|loose or relaxed/calm}}
+|ru=Акселгор ''Akselgor''|rumeaning=Transcription of English name
+|th=อกิลดา ''Akilada''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0616|prev=Shelmet|nextnum=0618|next=Stunfisk}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Hydragil]]
+[[es:Accelgor]]
+[[fr:Limaspeed]]
+[[it:Accelgor]]
+[[ja:アギルダー]]
+[[zh:敏捷虫]]

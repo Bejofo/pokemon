@@ -1,0 +1,447 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Shelmet}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0615|prev=Cryogonal|nextnum=0617|next=Accelgor|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Shelmet
+|jname=チョボマキ
+|tmname=Chobomaki
+|category=Snail
+|typebox=1
+|type1=Bug
+|abilityn=d
+|ability1=Hydration
+|ability2=Shell Armor
+|abilityd=Overcoat
+|ndex=0616
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=17.0
+|weight-kg=7.7
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|expyield=61
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=200
+|evtotal=1
+|evde=1
+|body=01
+|pokefordex=shelmet
+|generation=5
+|friendship=70
+}}
+'''Shelmet''' ([[List of Japanese Pokémon names|Japanese]]: '''チョボマキ''' ''Chobomaki'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Accelgor}} when [[Trade Evolution|traded]] for a {{p|Karrablast}}, a Pokémon that evolves into {{p|Escavalier}} simultaneously. Neither evolves if at least one holds an [[Everstone]] during the trade.
+
+==Biology==
+Shelmet is a bivalve or snail-like {{OBP|Pokémon|species}}. Its gray shell resembles a knight's visor, with a coiling spiral of its shell further back. The shell has protrusions on the underside, which it apparently uses as legs. Its inner body is pink with a long, puckered mouth and green markings below its eyes.
+
+It closes the lid on its helmet-like shell as a defensive tactic and can spit a poisonous, sticky fluid. However, this strategy doesn't work against its rival and natural predator {{p|Karrablast}} who can open Shelmet's shell. It can evolve around the same time as its rival through electrical-like energy. It thrives in moist habitats like bogs and swamps.
+
+===Evolution===
+Shelmet evolves into {{p|Accelgor}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|type1=Bug
+|no1=0616
+|name1=Shelmet
+|type1-1=Bug
+|evo1=
+|no2=0617
+|name2=Accelgor
+|type1-2=Bug}}</div>
+
+==Game data==
+===NPC appearances===
+* {{g|Super Mystery Dungeon}}: Shelmet is one of the students at the [[Serene Village]] school and the lackey of {{p|Pancham}} (the school bully). Both Pokémon end up befriending the {{player}} and partner after they rescue them from the [[Ancient Barrow]]. He's shown to have a crush on the school nurse, {{p|Audino}}.
+
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=122|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=157|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.}}
+{{Dex/Entry1|v=White|entry=It evolves when bathed in an electric-like energy along with {{p|Karrablast}}. The reason is still unknown.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When it and {{p|Karrablast}} are together, and both receive electrical stimulation, they both evolve.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=024|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=When it and {{p|Karrablast}} are together, and both receive electrical stimulation, they both evolve.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It evolves when bathed in an electric-like energy along with {{p|Karrablast}}. The reason is still unknown.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When it and {{p|Karrablast}} are together, and both receive electrical stimulation, they both evolve.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It evolves when bathed in an electric-like energy along with {{p|Karrablast}}. The reason is still unknown.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/5|gen=VIII|reg1=Galar|num1=275|reg2=Galar|num2=064|label2=Isle of Armor|reg3=Galar|num3=097|label3=Crown Tundra|reg4=Sinnoh|reg5=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from {{p|Karrablast}}, however, because they can still get into the shell.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It has a strange physiology that responds to electricity. When together with {{p|Karrablast}}, Shelmet evolves for some reason.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|8|Unova}}, [[Icirrus City]], [[Moor of Icirrus]]{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|6|Unova}} and {{rtn|11|Unova}}<br>{{rt|8|Unova}}, [[Icirrus City]], [[Moor of Icirrus]]{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Route]]s {{rtn|14|Kalos}} and {{rtn|19|Kalos}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|v=Sword|t=FFF|area={{rt|7|Galar}}, [[Bridge Field]], [[Hammerlocke Hills]], [[Motostoke Riverbank]]<br>[[Rolling Fields/Dens|Rolling Fields]], [[Dappled Grove/Dens|Dappled Grove]], [[South Lake Miloch/Dens|South Lake Miloch]], [[Bridge Field/Dens|Bridge Field]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Shield|t=FFF|area={{rt|7|Galar}}, [[Bridge Field]], [[Hammerlocke Hills]], [[Motostoke Riverbank]], [[Giant's Cap]]<br>[[Rolling Fields/Dens|Rolling Fields]], [[Dappled Grove/Dens|Dappled Grove]], [[South Lake Miloch/Dens|South Lake Miloch]], [[Bridge Field/Dens|Bridge Field]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Sword Expansion Pass|color={{sword color dark}}|t=fff|link=Pokémon Sword and Shield Expansion Pass|area=[[Soothing Wetlands]], [[Giant's Bed]]<br>[[Forest of Focus]], [[Training Lowlands]] ([[Wanderer]])}}
+{{Availability/Entry1|v=Shield Expansion Pass|color={{shield color dark}}|t=fff|link=Pokémon Sword and Shield Expansion Pass|area=[[Soothing Wetlands]], [[Giant's Bed]]<br>[[Training Lowlands]] ([[Wanderer]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Soothing Shore]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 3|Safari Jungle: Stage 3]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Soothing Shore|Black Realm: Soothing Shore]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 523]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Bug}}
+{{eventAvail|{{gameabbrev5|BW}}|Trade for Evolution! Shelmet|Japanese|Japan|30|October 10 to November 28, 2010|link=List of local Japanese event Pokémon distributions in Generation V#Shelmet}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Shelmet|English|Europe|50|June 11 to August 27, 2011|link=List of local English event Pokémon distributions in Generation V#Summer 2011 Shelmet}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Shelmet|French|Europe|50|June 11 to August 27, 2011|link=List of local French event Pokémon distributions in Generation V#2011 Summer Shelmet}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Shelmet|German|Europe|50|June 11 to August 27, 2011|link=List of local German event Pokémon distributions in Generation V#2011 Summer Shelmet}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Shelmet|Italian|Europe|50|June 11 to August 27, 2011|link=List of local Italian event Pokémon distributions in Generation V#2011 Summer Shelmet}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Shelmet|Spanish|Europe|50|June 11 to August 27, 2011|link=List of local Spanish event Pokémon distributions in Generation V#Summer 2011 Shelmet}}
+|}
+
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Bug|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17|March 19 to 25, 2020|link=Wild Area News#March 19 to March 25, 2020}}
+|}
+
+===Held items===
+{{HeldItems|type=Bug
+|event1=Bug Gem|event1type=Gem}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=50
+|Attack=40
+|Defense=85
+|SpAtk=40
+|SpDef=65
+|Speed=25}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+Shelmet is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Shelmet|Bug|Bug|5}}
+{{learnlist/level8|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level8|1|Protect|Normal|Status|—|—|10}}
+{{learnlist/level8|4|Acid|Poison|Special|40|100|30}}
+{{learnlist/level8|8|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level8|12|Mega Drain|Grass|Special|40|100|15}}
+{{learnlist/level8|16|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level8|20|Yawn|Normal|Status|—|—|10}}
+{{learnlist/level8|24|Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/level8|28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/level8|32|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/level8|36|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level8|40|Recover|Normal|Status|—|—|10}}
+{{learnlist/level8|44|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level8|48|Final Gambit|Fighting|Special|—|100|5}}
+{{learnlist/levelf/8|Shelmet|Bug|Bug|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Shelmet|Bug|Bug|5}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm8|TM61|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM74|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tr|TR23|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR30|Encore|Normal|Status|—|100|5}}
+{{learnlist/tr|TR54|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tr|TR61|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tmf/8|Shelmet|Bug|Bug|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Shelmet|Bug|Bug|5}}
+{{learnlist/breed8|{{MSP/8c|543|Venipede}}{{MSP/8c|544|Whirlipede}}{{MSP/8c|545|Scolipede}}{{MSP/8c|588|Karrablast}}{{MSP/8c|589|Escavalier}}{{MSP/8c|636|Larvesta}}{{MSP/8c|637|Volcarona}}|Double-Edge|Normal|Physical|120|100|15|grid=7}}
+{{learnlist/breed8|{{MSP/8c|330|Flygon}}|Feint|Normal|Physical|30|100|10|grid=7}}
+{{learnlist/breed8|{{MSP/8c|213|Shuckle}}|Guard Split|Psychic|Status|—|—|10|grid=7}}
+{{learnlist/breed8|{{MSP/8c|290|Nincada}}{{MSP/8c|291|Ninjask}}|Mind Reader|Normal|Status|—|—|5|grid=7}}
+{{learnlist/breedf/8|Shelmet|Bug|Bug|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Shelmet|Bug|Bug|5}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Shelmet|Bug|Bug|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Shelmet|Bug|Bug|5}}
+{{learnlist/prevgen8|Shelmet|5|Bide|Normal|Physical|—|—|10|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Shelmet|5|Bug Bite|Bug|Physical|60|100|20||'''|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Shelmet|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Shelmet|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Shelmet|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Shelmet|5|Gastro Acid|Poison|Status|—|100|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Shelmet|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Shelmet|5|Infestation|Bug|Special|20|100|20||'''|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Shelmet|5|Mud-Slap|Ground|Special|20|100|10|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->}}
+{{learnlist/prevgen8|Shelmet|5|Pursuit|Dark|Physical|40|100|20|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Shelmet|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Shelmet|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Shelmet|5|Signal Beam|Bug|Special|75|100|15||'''|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Shelmet|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Shelmet|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Shelmet|Bug|Bug|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/PSMD|col=6|type=Bug|ndex=616
+|coset=3
+|conto={{p|Pancham}}, {{p|Goomy}}
+|recruitment=Visit a dungeon with a student after clearing the [[Ancient Barrow]]
+|P1=Adventure? I can't turn down your invitation! I shall be on guard to meet foes!
+|P2=No way... This is seriously hard...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=1
+|def=3
+|speed=2
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=616
+|walk=1.67
+|hp=48
+|attack=67
+|defense=54
+|speed=50
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=616
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=616|num=668
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=T-Boost
+|skilldesc=Increases damage when making a T-shaped match.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=616
+|hatch=N/A
+|buddy=3
+|candy=Shelmet
+|evocandy=200 or [[File:GO Trade icon.png|20px|link=Trade (GO)|Trade Evolution]]
+|stamina=137
+|attack=72
+|defense=140
+|fast={{m|Acid}}, {{m|Infestation}}
+|special={{m|Bug Buzz}}, {{m|Body Slam}}, {{m|Signal Beam}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|type1=Bug
+|no1=0616
+|name1=Shelmet
+|type1-1=Bug
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]] [[File:Menu HOME 0588.png|40px|link=Karrablast (Pokémon)]]<br>{{color2|000|Trade}}<br><small>for {{pcolor|Karrablast|000}}
+|no2=0617
+|name2=Accelgor
+|type1-2=Bug
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=616}}
+{{Spritebox/6|ndex=616|crop=55}}
+{{Spritebox/7|ndex=616|crop=52}}
+{{Spritebox/8|ndex=616}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0616}}
+{{Spritebox/Footer|616|Shelmet}}
+
+==In animation==
+[[File:Bianca Shelmet.png|thumb|250px|Shelmet in {{aniseries|BW}}]]
+===Major appearances===
+Shelmet debuted in ''[[BW049|Enter Elesa, Electrifying Gym Leader!]]'', under the ownership of {{an|Bianca}}. She used it in her [[Gym]] {{pkmn|battle}} with [[Elesa]]. However, it was quickly defeated by Elesa's {{p|Zebstrika}}. It reappeared in ''[[BW063|Evolution Exchange Excitement!]]'', where it was [[trade]]d with [[Professor Juniper]] for her {{p|Karrablast}}, causing it to [[Evolution|evolve]].
+
+===Minor appearances===
+A Shelmet appeared in a fantasy in ''[[BW062|Crisis at Chargestone Cave!]]''.
+
+A Trainer's Shelmet appeared in [[HZ098]].
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW049|Shelmet|Ash's Pokédex|Shelmet, the Snail Pokémon. Shelmet can spit a sticky poisonous acid when attacking, and it can defend itself by closing its shell.}}
+{{Animedexbody|BW063|Shelmet|Ash's Pokédex|Shelmet, the Snail Pokémon. Shelmet closes its shell to protect itself from attacks. It also produces and spits out a poisonous, sticky liquid.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:Baker Chris Shelmet Adventures.png|thumb|200px|Shelmet in [[Pokémon Adventures]]]]
+===Be the Best! Pokémon B+W===
+A Shelmet appeared in ''[[PBW4|Challenge the Battle Subway!]]''.
+
+===Pokémon Adventures===
+Shelmet debuted in ''[[PS479|The Case of the Missing Pokémon]]'', where it was kidnapped by [[Team Plasma]]. It was later returned to its {{pkmn|Trainer}} after being found in a stronghold.
+
+{{tc|Baker}} Chris owns a Shelmet. It first appeared in ''[[PS486|Unraveling Mysteries]]''.
+
+A Shelmet liberated by Team Plasma appeared in a flashback in ''[[PS529|Pokédex Lecture]]''.
+
+In ''[[PS543|Abyssal Ruins]]'', a Shelmet was {{pkmn2|caught}} by {{adv|Blake}}. In the same chapter, it was [[trade]]d to {{adv|Whitley}} for her {{p|Karrablast}} and subsequently evolved into Accelgor.
+
+A Shelmet appeared in ''[[PS585|Pinsir Changes]]''.
+{{-}}
+
+==In the TCG==
+{{main|Shelmet (TCG)}}
+
+==Trivia==
+* Shelmet and {{p|Karrablast}} are the only Pokémon that have to be traded with a specific Pokémon to evolve, having to be traded with each other.
+* Although {{p|Escavalier}} gains a secondary {{t|Steel}} type from its armor, Shelmet is a pure {{type|Bug}} despite wearing the same armor.
+* Shelmet shares its {{pkmn|category}} with {{rf|Hisuian}} {{p|Sliggoo}}. They are both known as the Snail Pokémon.
+* Shelmet was designed by [[Tomohiro Kitakaze]].<ref>[https://www.deviantart.com/comments/4/17947970/4310269526 Tomohiro Kitakaze's response to a comment on DeviantArt]</ref>
+
+===Origin===
+Shelmet appears to be based on a combination of a {{wp|snail}}, possibly a {{wp|scaly-foot snail}}, whose shell's outer layer is made of iron compounds; and a {{wp|close helmet}}. This, along with its family's rivalry with the Karrablast line, could be a reference to Medieval satirical drawings of snails, which are ironically depicted as giant monsters that knights fought against. It may also be based on a {{wp|nautilus}}, or a {{wp|geoduck}} due to its bivalve-like shell and long siphon.
+
+Shelmet and Karrablast's relationship may be a reference to {{wp|coevolution}}, where the {{wp|evolution}} of one species is influenced by changes in another species; in this case, the relationship between predator and prey.
+
+====Name origin====
+Shelmet may be a combination of ''shell'' and ''helmet''.
+
+Chobomaki may be a combination of おちょぼ口 ''ochoboguchi'' (puckered-up mouth) and 巻貝 ''makigai'' (snail; conch).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=チョボマキ ''Chobomaki''|jameaning=From {{tt|おちょぼ口 ''ochoboguchi''|puckered-up mouth}} and {{tt|巻貝 ''makigai''|snail; conch}}
+|fr=Escargaume|frmeaning=From ''{{tt|escargot|snail}}'' and ''{{tt|heaume|helmet}}''
+|es=Shelmet|esmeaning=Same as English name
+|de=Schnuthelm|demeaning=From ''{{tt|Schnute|pouting mouth}}'' and ''{{tt|Helm|helmet}}''
+|it=Shelmet|itmeaning=Same as English name
+|ko=쪼마리 ''Jjomari''|komeaning=From {{tt|쪽 ''jjok''|onomatopoeia for kissing}}, {{tt|조개 ''jogae''|clam}}, and {{tt|말이 ''mari''|roll}}
+|zh_cmn=小嘴蝸 / 小嘴蜗 ''Xiǎozuǐguā'' / ''Xiǎozuǐwō''|zh_cmnmeaning=From {{tt|小 ''xiǎo''|small}}, {{tt|嘴 ''zuǐ''|mouth}}, and {{tt|蝸 / 蜗 ''guā / wō''|snail}}
+|zh_yue=小嘴蝸 ''Síujéuiwō''|zh_yuemeaning=From {{tt|小 ''síu''|small}}, {{tt|嘴 ''jéui''|mouth}}, and {{tt|蝸 ''wō''|snail}}
+|hi=शेलमेट ''Shelmet''|himeaning=Transcription of English name
+|ru=Шелмет ''Shelmet''|rumeaning=Transcription of English name
+|th=โชโบมากิ ''Chobomaki''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Students (Super Mystery Dungeon)]]
+
+==References==
+<references />
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0615|prev=Cryogonal|nextnum=0617|next=Accelgor}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve through trading]]
+[[Category:Pokémon that evolve through a unique method]]
+
+[[de:Schnuthelm]]
+[[es:Shelmet]]
+[[fr:Escargaume]]
+[[it:Shelmet]]
+[[ja:チョボマキ]]
+[[zh:小嘴蜗]]

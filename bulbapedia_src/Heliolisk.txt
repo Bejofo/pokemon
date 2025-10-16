@@ -1,0 +1,470 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Normal}}
+{{PokémonPrevNext/GO|species=Heliolisk}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0694|prev=Helioptile|nextnum=0696|next=Tyrunt|round=none}}
+{{PokémonPrevNext/Disambig|species=Heliolisk}}
+|}
+{{Pokémon Infobox
+|name=Heliolisk
+|jname=エレザード
+|tmname=Elezard
+|jtranslit=Erezādo
+|category=Generator
+|typebox=1
+|type1=Electric
+|type2=Normal
+|abilityn=d
+|ability1=Dry Skin
+|ability2=Sand Veil
+|abilityd=Solar Power
+|ndex=0695
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=46.3
+|weight-kg=21.0
+|egggroupn=1
+|egggroup1=Monster
+|egggroup2=Dragon
+|eggcycles=20
+|lv100exp=1,000,000
+|gendercode=127
+|expyield=168
+|evtotal=2
+|evsp=1
+|evsa=1
+|color=Yellow
+|catchrate=75
+|body=06
+|pokefordex=heliolisk
+|generation=6
+|friendship=70
+}}
+'''Heliolisk''' ([[List of Japanese Pokémon names|Japanese]]: '''エレザード''' ''Elezard'') is a dual-type {{2t|Electric|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Helioptile}} when exposed to a [[Sun Stone]].
+
+==Biology==
+Heliolisk is a bipedal {{OBP|Pokémon|species}} that resembles a yellow lizard. Its head is mostly black with a yellow lower jaw. It has blue eyes with a pointed spike over each. Covering its neck is a black frill with orange spikes around the rim. This frill can be raised to frame its head if needed. Its hands and feet are black with three digits each and there is an orange band with triangular markings around each leg. It has a long, tapering tail that is orange and then black at the tip.
+
+Heliolisk can generate sufficient electricity to power a skyscraper, simply by flaring open its frill. When its frill is flared while it basks in the sun, it can generate enough electricity to power an entire city. This electricity can be used to stimulate its muscles, which boosts the strength in its legs. This allows it to sprint a hundred yards in five seconds, even being capable of running on water without breaking surface tension, as shown in [[New Pokémon Snap]] and in the [[TCG]]. In [[Galar]], there was an old desert culture that highly treasured the Heliolisk due to treasure having arrived with them.
+
+Prior to [[Generation VIII]], Heliolisk and its pre-evolved form, {{p|Helioptile}}, were the [[signature move|only known Pokémon]] capable of learning the move {{m|Electrify}}.
+
+<gallery heights=200>
+HelioliskTeamUp50.jpg|Heliolisk generating electricity
+File:HelioliskTwilightMasquerade177.jpg|Heliolisk "running" on water
+</gallery>
+
+===Evolution===
+Heliolisk evolves from {{p|Helioptile}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=electric
+|type2=normal
+|pictype=art
+|no1=0694
+|name1=Helioptile
+|type1-1=Electric
+|type2-1=Normal
+|evo1=
+|no2=0695
+|name2=Heliolisk
+|type1-2=Electric
+|type2-2=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric|type2=Normal}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=047|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=319|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=electric|type2=normal}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Helioptile}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Rocky World}})}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Rolling Fields/Dens|Rolling Fields]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Giant's Mirror/Dens|Giant's Mirror]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric|type2=Normal}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 6|Renegade Meadow: Stage 6]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Rumbling Hall|White Ruins: Rumbling Hall]] <small>(All Areas, Entrance Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 08|Area 08: Stage 02]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Greninja Sea]], [[Jirachi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Sweltering Sands]]<sup><span style="color:#F05D31;">Day</span></sup>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 491]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Clemont|Heliolisk}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|type2=Normal
+|HP=62
+|Attack=55
+|Defense=52
+|SpAtk=109
+|SpDef=94
+|Speed=109
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Normal
+|Normal=100
+|Fighting=200
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+|dryskin=maybe
+|newfire=1¼
+}}
+
+===Learnset===
+Heliolisk is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Heliolisk|Electric|Normal|6}}
+{{learnlist/level8|1|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/level8|1|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level8|1|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level8|1|Charge|Electric|Status|—|—|20}}
+{{learnlist/level8|1|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/level8|1|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/level8|1|Parabolic Charge|Electric|Special|65|100|20||'''}}
+{{learnlist/level8|1|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level8|1|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level8|1|Electrify|Electric|Status|—|—|20}}
+{{learnlist/level8|1|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/level8|1|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level8|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level8|1|Pound|Normal|Physical|40|100|35||'''}}
+{{learnlist/level8|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/levelf/8|Heliolisk|Electric|Normal|6}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Heliolisk|Electric|Normal|6}}
+{{learnlist/tm8|TM00|Mega Punch|Normal|Physical|80|85|20||'''}}
+{{learnlist/tm8|TM01|Mega Kick|Normal|Physical|120|75|5||'''}}
+{{learnlist/tm8|TM03|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm8|TM05|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15||'''}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm8|TM46|Weather Ball|Normal|Special|50|100|10||'''}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm8|TM75|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm8|TM80|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm8|TM82|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm8|TM90|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm8|TM93|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm8|TM97|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm8|TM99|Breaking Swipe|Dragon|Physical|60|100|15}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15}}
+{{learnlist/tr|TR07|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tr|TR58|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tr|TR62|Dragon Pulse|Dragon|Special|85|100|10}}
+{{learnlist/tr|TR64|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR80|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tmf/8|Heliolisk|Electric|Normal|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Heliolisk|Electric|Normal|6}}
+{{learnlist/breed8|{{MSP/8c|147|Dratini}}{{MSP/8c|148|Dragonair}}{{MSP/8c|149|Dragonite}}{{MSP/8c|329|Vibrava}}{{MSP/8c|330|Flygon}}{{MSP/8c|443|Gible}}{{MSP/8c|444|Gabite}}{{MSP/8c|445|Garchomp}}{{MSP/8c|633|Deino}}{{MSP/8c|634|Zweilous}}{{MSP/8c|635|Hydreigon}}{{MSP/8c|841|Flapple}}{{MSP/8c|886|Drakloak}}{{MSP/8c|887|Dragapult}}|Dragon Rush|Dragon|Physical|100|75|10|grid=7}}
+{{learnlist/breed8|{{MSP/8c|147|Dratini}}{{MSP/8c|148|Dragonair}}{{MSP/8c|149|Dragonite}}{{MSP/8c|329|Vibrava}}{{MSP/8c|330|Flygon}}{{MSP/8c|350|Milotic}}{{MSP/8c|373|Salamence}}{{MSP/8c|621|Druddigon}}{{MSP/8c|696|Tyrunt}}{{MSP/8c|697|Tyrantrum}}{{MSP/8c|782|Jangmo-o}}{{MSP/8c|783|Hakamo-o}}{{MSP/8c|784|Kommo-o}}{{MSP/8c|884|Duraludon}}|Dragon Tail|Dragon|Physical|60|90|10|grid=7}}
+{{learnlist/breed8|{{MSP/8c|780|Drampa}}{{MSP/8c|843|Silicobra}}{{MSP/8c|844|Sandaconda}}|Glare|Normal|Status|—|100|30|grid=7}}
+{{learnlist/breedf/8|Heliolisk|Electric|Normal|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Heliolisk|Electric|Normal|6}}
+{{learnlist/tutor8|Rising Voltage|Electric|Special|70|100|20||'''|no|yes}}
+{{learnlist/tutor8|Scale Shot|Dragon|Physical|25|90|20|||no|yes}}
+{{learnlist/tutorf/8|Heliolisk|Electric|Normal|6}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Heliolisk|Electric|Normal|6}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Heliolisk|Electric|Normal|6}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Heliolisk|Electric|Normal|6}}
+{{learnlist/prevgen8|Heliolisk|6|Camouflage|Normal|Status|—|—|20|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Heliolisk|6|Charge Beam|Electric|Special|50|90|10||'''|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Heliolisk|6|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Heliolisk|6|Cut|Normal|Physical|50|95|30||'''|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Heliolisk|6|Double Team|Normal|Status|—|—|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Heliolisk|6|Flash|Normal|Status|—|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Heliolisk|6|Frustration|Normal|Physical|—|100|20||'''|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Heliolisk|6|Hidden Power|Normal|Special|60|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Heliolisk|6|Magnet Rise|Electric|Status|—|—|10|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Heliolisk|6|Psych Up|Normal|Status|—|—|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Heliolisk|6|Razor Wind|Normal|Special|80|100|10||'''|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Heliolisk|6|Return|Normal|Physical|—|100|20||'''|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Heliolisk|6|Secret Power|Normal|Physical|70|100|20||'''|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Heliolisk|6|Shock Wave|Electric|Special|60|—|20||'''|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Heliolisk|6|Signal Beam|Bug|Special|75|100|15|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Heliolisk|6|Swagger|Normal|Status|—|85|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Heliolisk|6|Toxic|Poison|Status|—|90|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Heliolisk|Electric|Normal|6}}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Normal}}
+{{Spindata/PSMD|col=6|type=Electric|ndex=695
+|coset=9
+|conto={{p|Aerodactyl}}
+|recruitment=Introduced by {{p|Aerodactyl}}
+|P1=I generate electricity with my frills! I can feel power surging!
+|P2=Gah… It's revoltingly hard…
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=695
+|walk=1.67
+|hp=51
+|attack=79
+|defense=54
+|speed=70
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Electric|ndex=695
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Electric|ndex=695|num=632
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=T-Boost
+|skilldesc=Increases damage when making a T-shaped match.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=695
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=158
+|attack=219
+|defense=168
+|fast= {{m|Volt Switch}}, {{m|Quick Attack}}, {{m|Mud-Slap}} 
+|special={{m|Parabolic Charge}}, {{m|Thunderbolt}}, {{m|Bulldoze}}, {{m|Grass Knot}}, {{m|Breaking Swipe}}{{tt|*|From September 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Electric|ndex=695|pdex=133
+|dex=Heliolisk uses electricity to stimulate its leg muscles, allowing it to move so fast it can run on water! It can generate more electricity at once if it spreads its frill.}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=electric
+|type2=normal
+|pictype=art
+|no1=0694
+|name1=Helioptile
+|type1-1=Electric
+|type2-1=Normal
+|evo1={{Bag/s|Sun Stone|SV}}<br>{{color2|000|Sun Stone}}
+|no2=0695
+|name2=Heliolisk
+|type1-2=Electric
+|type2-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=electric|type2=normal}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=695|crop=95}}
+{{Spritebox/7|ndex=695|crop=79}}
+{{Spritebox/8|ndex=695}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0695}}
+{{Spritebox/Footer|695|Heliolisk}}
+
+==In animation==
+===Main series===
+[[File:Clemont Heliolisk.png|thumb|250px|Heliolisk in {{aniseries|XY}}]]
+====Major appearances====
+=====[[Clemont's Heliolisk]]=====
+{{an|Clemont}} owns a Heliolisk that he mainly uses for Gym battles. Instead of taking it with him on his {{pkmn|journey}}, he left it with [[Clembot]] so it could use it for [[Gym]] {{pkmn|battle}}s while he is away. It debuted in ''[[XY009|Clemont's Got a Secret!]]''.
+
+====Minor appearances====
+A Heliolisk appeared in a fantasy in ''[[XY020|Breaking Titles at the Chateau!]]''.
+
+A Heliolisk appeared in ''[[XY031|The Cave of Trials!]]'', evolving from a {{p|Helioptile}} using a [[Sun Stone]].
+
+A Heliolisk appeared in ''[[XY060|A Showcase Debut!]]'', under the ownership of a [[Pokémon Performer]] competing in the [[Coumarine City]] [[Pokémon Showcase]].
+
+A Heliolisk appeared in ''[[XY073|A Fashionable Battle!]]''.
+
+A Heliolisk appeared in ''[[XY078|Lights! Camera! Pika!]]'', under the ownership of [[Frank]]. Frank used Heliolisk alongside {{p|Swirlix}} and {{p|Magnemite}} to provide the lighting whilst filming his movies.
+
+A Heliolisk appeared in ''[[XY105|Party Dancecapades!]]'', under the ownership of a Pokémon Performer attending [[Monsieur Pierre]]'s dance party.
+
+Two Heliolisk appeared in ''[[XY138|The First Day of the Rest of Your Life!]]'', each under the ownership of a different Trainer.
+
+An image of a Heliolisk appeared on {{Ash}}'s [[Rotom Pokédex]] in ''[[SM007|That's Why the Litten is a Scamp!]]''.
+
+A Trainer's Heliolisk appeared in [[HZ112]].
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY009|Heliolisk|Ash's Pokédex|Heliolisk, the Generator Pokémon and the evolved form of Helioptile. Heliolisk produces enough electricity to power a large building and recharges by spreading its frills.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+===GOTCHA!===
+====[[Clemont's Heliolisk]]====
+A Heliolisk briefly appeared in [[GOTCHA!]], under the ownership of [[Clemont]].
+
+==In the manga==
+[[File:Clemont Heliolisk Adventures.png|thumb|100px|Heliolisk in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+{{main|Clemont's Heliolisk}}
+[[Clemont]]'s Heliolisk was kept hostage by [[Xerosic]] in ''[[PS573|Gathering Klefki]]''.
+
+==In the TCG==
+{{main|Heliolisk (TCG)}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Heliolisk and its pre-evolved form.
+* Heliolisk is the only non-{{type|Grass}} Pokémon to [[Evolution|evolve]] by using a [[Sun Stone]].
+* Heliolisk is the first Pokémon to have more than five hangul characters in its Korean name.
+* Heliolisk and its pre-evolved form are the only Pokémon to have three possible {{Abilities}} ({{a|Dry Skin}}, {{a|Sand Veil}}, and {{a|Solar Power}}) that are affected by three different weather conditions ({{weather|rain}}, {{weather|sandstorm}}, and {{weather|harsh sunlight}}, respectively).
+* Heliolisk and its pre-Evolution are the only {{type|Electric}} Pokémon in the {{egg3|Dragon}}.
+
+===Origin===
+Heliolisk is likely based on a {{wp|Chlamydosaurus|frilled-neck lizard}}, because of its notable ability to expand its frill. With its frill fully expanded, Heliolisk also resembles the {{wp|sun}} itself when viewed from the front; its black coloration may possibly be a reference to {{wp|solar eclipse}}s. It may also be based on the {{wp|spotted salamander}}, a salamander that has the ability to {{wp|photosynthesize}}. Its English name, bipedal stance, and ability to learn Surf (and run on water in [[New Pokémon Snap]] and in the [[TCG]]) are likely inspired by the {{wp|common basilisk}}. Heliolisk's ability to convert solar energy into electricity along with its title as the Generator Pokémon suggests that it may have been inspired by the {{wp|solar power generation system}}. Its French name suggests it may be based on the {{wp|iguana}}. Additionally, it shares few resemblances to the {{wp|leopard gecko}} and the {{wp|Dilophosaurus|Dilophosaurus}}, a genus of theropod with two crests on its head, commonly yet inaccurately depicted with a frill on its neck. Its {{Shiny}} variant's red coloration may be a reference to {{wp|sunburn}}.
+
+====Name origin====
+Heliolisk may be a combination of ἥλιος ''{{wp|helios}}'' (Ancient Greek for sun), ''{{wp|basilisk}}'', and possibly ''{{wp|obelisk}}'' (ancient Egyptian monument that represented a ray of sunlight piercing the clouds and hitting the ground at a ninety-degree angle).
+
+Elezard may be a combination of ''{{wp|elekiter}}'', 襟巻蜥蜴 ''erimaki tokage'' (frill-necked lizard), and ''lézard'' (French for lizard).
+
+==In other languages==
+{{Other languages|type=electric|type2=normal
+|ja=エレザード ''Elezard''|jameaning=From ''{{wp|elekiter}}'', {{tt|襟巻蜥蜴 ''erimaki tokage''|frill-necked lizard}}, and ''{{tt|lézard|French for lizard}}''
+|fr=Iguolta|frmeaning=From ''{{tt|iguane|iguana}}'' and ''{{wp|Alessandro Volta|Volta}}''
+|es=Heliolisk|esmeaning=Same as English name
+|de=Elezard|demeaning=Same as Japanese name
+|it=Heliolisk|itmeaning=Same as English name
+|ko=일레도리자드 ''Eledorizard''|komeaning=From {{tt|일(日) ''il''|day, sun}}, ''electric'', ''elekiter'', {{tt|목도리도마뱀 ''mokdori domabaem''|frilled-neck lizard}}, and {{tt|''lizard''|리자드}}
+|zh_cmn=光電傘蜥 / 光电伞蜥 ''Guāngdiànsǎnxī''{{tt|*|Games, post-Gen VII media}}<br>電傘查特 ''Diànsǎnchátè''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|光電 / 光电 ''guāngdiàn''|photoelectricity}} and {{tt|傘蜥蜴 / 伞蜥裼 ''sǎnxīyì''|frilled-neck lizard}}<br>From {{tt|電 ''diàn''|electricity}}, {{tt|傘蜥蜴 ''sǎnxīyì''|frilled-neck lizard}}, and a partial transcription of Japanese name
+|zh_yue=光電傘蜥 ''Gwōngdihnsaansīk''{{tt|*|Games, post-Gen VII media}}<br>電傘查特 ''Dihnsaanchàhdahk''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|光電 ''gwōngdihn''|photoelectricity}} and {{tt|傘蜥蜴 ''saansīkjihk ''|frilled-neck lizard}}<br>From {{tt|電 ''dihn''|electricity}}, {{tt|傘蜥蜴 ''saansīkjihk ''|frilled-neck lizard}}, and a partial transcription of Japanese name
+|hi=छिपलेक्ट्रिक ''Chhiplectric''|himeaning=From {{tt|छिपकली ''chhipkalī''|lizard}} and ''electric''
+|ru=Хелиолиск ''Kheliolisk''|rumeaning=Transcription of English name
+|th=เอเลซาร์ด ''Elesat''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Clemont's Heliolisk]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Electric|type2=Normal}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0694|prev=Helioptile|nextnum=0696|next=Tyrunt}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Elezard]]
+[[es:Heliolisk]]
+[[fr:Iguolta]]
+[[it:Heliolisk]]
+[[ja:エレザード]]
+[[zh:光电伞蜥]]

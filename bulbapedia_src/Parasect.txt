@@ -1,0 +1,702 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Grass}}
+{{PokémonPrevNext/GO|species=Parasect}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0046|prev=Paras|nextnum=0048|next=Venonat|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Parasect
+|jname=パラセクト
+|jtranslit=Parasekuto
+|tmname=Parasect
+|ndex=0047
+|type1=Bug
+|type2=Grass
+|category=Mushroom
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=65.0
+|weight-kg=29.5
+|abilitylayout=2
+|ability1=Effect Spore
+|ability2=Dry Skin
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Damp
+|egggroupn=2
+|egggroup1=Bug
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=3
+|evat=2
+|evde=1
+|expyield=142
+|oldexp=128
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=75
+|body=14
+|pokefordex=parasect
+|generation=1
+|friendship=70
+}}
+'''Parasect''' ([[List of Japanese Pokémon names|Japanese]]: '''パラセクト''' ''Parasect'') is a dual-type {{2t|Bug|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Paras}} starting at [[level]] 24.
+
+==Biology==
+Parasect is an orange, {{wp|insect|insectoid}} {{OBP|Pokémon|species}} that has been completely overtaken by the parasitic mushroom on its back. It has a small head with pure white eyes and a segmented body that is mostly hidden by the mushroom. It has three pairs of legs with the foremost pair forming large pincers. The fungus growing on its back has a large red cap with yellow spots throughout.
+
+The insect has been drained of nutrients and is now under the control of the fully-grown [[tochukaso]]. Removing the mushroom will cause Parasect to stop moving. It can thrive in dark {{DL|List of Pokémon by habitat|Forest Pokémon|forests}} with a suitable amount of humidity for growing fungi. Swarms of this Pokémon have been known to infest trees. The swarm will drain the tree of nutrients until it dies and will then move on to a new tree. It has been known to fight with {{p|Shiinotic}} over territory. Prior to [[Generation III]], {{m|Spore}} was its [[signature move]].
+
+===Evolution===
+Parasect evolves from {{p|Paras}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|type2=Grass
+|pictype=art
+|no1=0046
+|name1=Paras
+|type1-1=Bug
+|type2-1=Grass
+|evo1=
+|no2=0047
+|name2=Parasect
+|type1-2=Bug
+|type2-2=Grass}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Grass}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=047}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.}}
+{{Dex/Entry1|v=Yellow|entry=The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=The bug host is controlled by the mushrooms that scatter poisonous spores. The spores are sometimes used as medicine in China.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=071}}
+{{Dex/Entry1|v=Gold|entry=It stays mostly in dark, damp places, the preference not of the bug, but of the big mushrooms on its back.}}
+{{Dex/Entry1|v=Silver|entry=The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.}}
+{{Dex/Entry1|v=Crystal|entry=When nothing's left to extract from the bug, the mushrooms on its back leave spores on the bug's egg.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It stays mostly in dark, damp places, the preference not of the bug, but of the big mushrooms on its back. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>The larger the mushroom on its back grows, the stronger the mushroom spores it scatters. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=047}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Parasect</sc> is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=<sc>Parasect</sc> are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.}}
+{{Dex/Entry1|v=FireRed|entry=It scatters toxic spores from the mushroom cap. In China, the spores are used as herbal medicine.}}
+{{Dex/Entry1|v=LeafGreen|entry=A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places. }}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=071}}
+{{Dex/Entry1|v=Diamond|entry=A mushroom grown larger than the host's body controls <sc>Parasect</sc>. It scatters poisonous spores.}}
+{{Dex/Entry1|v=Pearl|entry=It is controlled by a mushroom grown larger than the bug body. It is said to prefer damp places.}}
+{{Dex/Entry1|v=Platinum|entry=A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores.}}
+{{Dex/Entry1|v=HeartGold|entry=It stays mostly in dark, damp places, the preference not of the bug, but of the big mushroom on its back.}}
+{{Dex/Entry1|v=SoulSilver|entry=The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=148|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=181|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=047}}
+{{Dex/Entry1|v=Sun|entry=The large mushroom on its back controls it. It often fights over territory with {{p|Shiinotic}}.}}
+{{Dex/Entry1|v=Moon|entry=It scatters toxic spores from its mushroom cap. Once harvested, these spores can be steeped and boiled down to prepare herbal medicines.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Its poisonous spores are also used in traditional medicine. Apparently, spores produced in Alola are not of very good quality.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui|num3=054}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword and Shield]]}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=Parasect is controlled by a mushroom that has grown larger than its host's body. The Pokémon scatters poisonous spores.}}
+{{Dex/Entry1|v=Shining Pearl|entry=It is controlled by the mushroom, which has grown larger than the bug body. It is said to prefer damp places.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{grass color dark}}; background:#{{bug color light}}| [[File:Pokédex Image Parasect SM.png|x200px]]
+|-
+| Parasect in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=bug|type2=grass}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{safari|Kanto}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{safari|Kanto}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|v=Yellow|area={{safari|Kanto}}, [[Cerulean Cave]]<br>[[In-game trade#Yellow|Trade]] for {{p|Tangela}} on {{rt|18|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Paras}}}}
+{{Availability/Entry1|v=Crystal|area=[[Mt. Silver Cave|Mt. Silver Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{safari|Kanto}}, [[Cerulean Cave]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Paras}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Paras}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Paras}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Cerulean Cave]]<br/>{{safari|Johto}} (tall grass in Swamp with 3 Plains points)}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Paras}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Paras}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Paras}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Paras}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{rt|11|Alola}}{{sup/t|D}}}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Evolution|Evolve]] {{p|Paras}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Paras}}}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' near [[Nature's Pantry]]&nbsp;[[File:Alpha icon.png|link=Alpha Pokémon|14px]] (also [[mass outbreak]]s), massive mass outbreaks<br>'''[[Crimson Mirelands]]:''' [[Golden Lowlands]], near [[Ursa's Ring]], near [[Cloudpool Ridge]], [[Diamond Heath]], near [[Cottonsedge Prairie]], [[Droning Meadow]], massive mass outbreaks<br>'''[[Cobalt Coastlands]]:''' [[Windbreak Stand]]<br>'''[[Coronet Highlands]]:''' [[Heavenward Lookout]], [[Wayward Wood]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Grass}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Paras}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 53, Endless Level 63, Forever Level 3, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Paras}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Krokka Tunnel]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mt. Horn]] (1F-7F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mt. Horn]] (1F-7F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode C & B)</small>}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Soothing Shore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 2|Safari Jungle: Stage 2]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Lookout Tree|Leafy Expanse: Lookout Tree]] <small>(Center Boss, Back)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Snorlax Sea]], [[Bulbasaur Sea]], [[Rayquaza Sea]], [[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Purity Forest]] (80F-99F)<br/>Fainted Pokémon: [[Grand Sea]], [[Waterfall Pond]], [[Far-Off Sea]]<br/>Mystery House: [[Waterfall Pond]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 306]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync/player|egg|Paras}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Bug|type2=Grass}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Gold Leaf|100|rows=2}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games1|Crystal|Pokémon Crystal Version}}
+{{HeldItems/Items2|TinyMushroom|23|Big Mushroom|2}}
+{{HeldItems/Games2|FireRed|LeafGreen|Pokémon FireRed and LeafGreen Versions}}
+{{HeldItems/Items2|TinyMushroom|50|Big Mushroom|5|rows=3}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Springy Mushroom|35|Ball of Mud|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Grass
+|HP=60
+|Attack=95
+|Defense=80
+|SpAtk=60
+|SpDef=80
+|Speed=  30
+|Special=80
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Grass
+|Speed=1
+|SpeedMax=3
+|Power=2
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=bug
+|type2=grass
+|Normal=100
+|Fighting=50
+|Flying=400
+|Poison=200
+|Ground=25
+|Rock=200
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=400
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|gen1bug=yes
+|oldpoison=4
+|dryskin=maybe
+|newfire=5}}
+
+===Learnset===
+Parasect is available in {{pkmn|Brilliant Diamond and Shining Pearl}} and [[Pokémon Legends: Arceus]].
+
+====By [[Level|leveling up]]====
+{{gameabbrev8|BDSP}}
+{{learnlist/levelh/8|Parasect|Bug|Grass|1}}
+{{learnlist/level8|1|Cross Poison|Poison|Physical|70|100|20||}}
+{{learnlist/level8|1|Scratch|Normal|Physical|40|100|35||}}
+{{learnlist/level8|1|Stun Spore|Grass|Status|—|75|30||}}
+{{learnlist/level8|1|Poison Powder|Poison|Status|—|75|35||}}
+{{learnlist/level8|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level8|6|Stun Spore|Grass|Status|—|75|30||}}
+{{learnlist/level8|6|Poison Powder|Poison|Status|—|75|35||}}
+{{learnlist/level8|11|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level8|17|Fury Cutter|Bug|Physical|40|95|20||'''}}
+{{learnlist/level8|22|Spore|Grass|Status|—|100|15||}}
+{{learnlist/level8|29|Slash|Normal|Physical|70|100|20||}}
+{{learnlist/level8|37|Growth|Normal|Status|—|—|20||}}
+{{learnlist/level8|44|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level8|51|Aromatherapy|Grass|Status|—|—|5||}}
+{{learnlist/level8|59|Rage Powder|Bug|Status|—|—|20||}}
+{{learnlist/level8|66|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/levelf/8|Parasect|Bug|Grass|1}}
+
+{{gameabbrev8|LA}}
+{{learnlist/levelh/LA|Parasect|Bug|Grass|1}}
+{{learnlist/levelLA|1|9|Absorb|Grass|Special|30|40|20|100|100|20||'''}}
+{{learnlist/levelLA|5|14|Stun Spore|Grass|Status|—|—|—|80|100|20||}}
+{{learnlist/levelLA|9|18|Poison Powder|Poison|Status|—|—|—|80|100|20||}}
+{{learnlist/levelLA|15|25|Venoshock|Poison|Special|65|80|50|100|100|15||}}
+{{learnlist/levelLA|21|31|Slash|Normal|Physical|70|85|55|100|100|15||}}
+{{learnlist/levelLA|29|40|Spore|Grass|Status|—|—|—|100|100|10||}}
+{{learnlist/levelLA|37|48|X-Scissor|Bug|Physical|80|100|60|100|100|10||'''}}
+{{learnlist/levelLA|47|59|Energy Ball|Grass|Special|80|100|60|100|100|10||'''}}
+{{learnlist/levelf/8|Parasect|Bug|Grass|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/8|Parasect|Bug|Grass|1}}
+{{learnlist/tm8|TM09|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm8|TM15|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm8|TM16|Light Screen|Psychic|Status|—|—|30||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM19|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm8|TM28|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm8|TM31|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|—|—|15||}}
+{{learnlist/tm8|TM36|Sludge Bomb|Poison|Special|90|100|10||}}
+{{learnlist/tm8|TM40|Aerial Ace|Flying|Physical|60|—|20||}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|—|—|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|—|100|15||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm8|TM54|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM68|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm8|TM70|Flash|Normal|Status|—|100|20||}}
+{{learnlist/tm8|TM75|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm8|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM86|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|—|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||}}
+{{learnlist/tm8|TM98|Rock Smash|Fighting|Physical|40|100|15||}}
+{{learnlist/tmf/8|Parasect|Bug|Grass|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Parasect|Bug|Grass|2}}
+{{learnlist/breed8|{{MSP/H|0015|Beedrill}}{{MSP/H|0123|Scyther}}{{MSP/H|0212|Scizor}}{{MSP/H|0165|Ledyba}}{{MSP/H|0166|Ledian}}{{MSP/H|0167|Spinarak}}{{MSP/H|0168|Ariados}}{{MSP/H|0283|Surskit}}{{MSP/H|0284|Masquerain}}{{MSP/H|0291|Ninjask}}|Agility|Psychic|Status|—|—|30|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0010|Caterpie}}{{MSP/H|0012|Butterfree}}{{MSP/H|0013|Weedle}}{{MSP/H|0015|Beedrill}}{{MSP/H|0127|Pinsir}}{{MSP/H|0168|Ariados}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0213|Shuckle}}{{MSP/H|0265|Wurmple}}{{MSP/H|0267|Beautifly}}{{MSP/H|0269|Dustox}}{{MSP/H|0291|Ninjask}}{{MSP/H|0401|Kricketot}}{{MSP/H|0402|Kricketune}}{{MSP/H|0412|Burmy}}{{MSP/H|0414|Mothim}}{{MSP/H|0415|Combee}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}{{MSP/H|0469|Yanmega}}|Bug Bite|Bug|Physical|60|100|20||'''|grid=8}}
+{{learnlist/breed8|{{MSP/H|0214|Heracross}}{{MSP/H|0286|Breloom}}|Counter|Fighting|Physical|—|100|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0047|Parasect}}{{MSP/H|0167|Spinarak}}{{MSP/H|0168|Ariados}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}|Cross Poison|Poison|Physical|70|100|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0015|Beedrill}}{{MSP/H|0168|Ariados}}{{MSP/H|0402|Kricketune}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}|Fell Stinger|Bug|Physical|50|100|25||'''|grid=8}}
+{{learnlist/breed8|{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}|Flail|Normal|Physical|—|100|15|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0114|Tangela}}{{MSP/H|0465|Tangrowth}}{{MSP/H|0407|Roserade}}|Grassy Terrain|Grass|Status|—|—|10|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0315|Roselia}}{{MSP/H|0407|Roserade}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0420|Cherubi}}{{MSP/H|0421|Cherrim}}|Leech Seed|Grass|Status|—|90|10|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0212|Scizor}}{{MSP/H|0290|Nincada}}{{MSP/H|0291|Ninjask}}|Metal Claw|Steel|Physical|50|95|35|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0012|Butterfree}}{{MSP/H|0048|Venonat}}{{MSP/H|0049|Venomoth}}{{MSP/H|0269|Dustox}}{{MSP/H|0414|Mothim}}|Psybeam|Psychic|Special|65|100|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0207|Gligar}}{{MSP/H|0472|Gliscor}}{{MSP/H|0291|Ninjask}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}{{MSP/H|0402|Kricketune}}|Screech|Normal|Status|—|85|40|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0071|Victreebel}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0283|Surskit}}{{MSP/H|0284|Masquerain}}{{MSP/H|0315|Roselia}}{{MSP/H|0407|Roserade}}{{MSP/H|0357|Tropius}}{{MSP/H|0415|Combee}}{{MSP/H|0455|Carnivine}}|Sweet Scent|Normal|Status|—|100|20|||grid=8}}
+{{learnlist/breed8|{{MSP/H|0046|Paras}}{{MSP/H|0047|Parasect}}|Wide Guard|Rock|Status|—|—|10|{{colorlink|Grand Underground|000|^}}||grid=8}}
+{{learnlist/breedf/8|Parasect|Bug|Grass|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{gameabbrev8|BDSP}}
+{{learnlist/tutorh/8|Parasect|Bug|Grass|1}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Parasect|Bug|Grass|1}}
+
+{{gameabbrev8|LA}}
+{{learnlist/tutorh/PLA|Parasect|Bug|Grass|1}}
+{{learnlist/tutorPLA|Aerial Ace|Flying|Physical|60|75|45|—|—|20||}}
+{{learnlist/tutorPLA|Energy Ball|Grass|Special|80|100|60|100|100|10||'''}}
+{{learnlist/tutorPLA|False Swipe|Normal|Physical|40|50|30|100|100|30||}}
+{{learnlist/tutorPLA|Giga Impact|Normal|Physical|120|150|100|90|95|5||}}
+{{learnlist/tutorPLA|Hyper Beam|Normal|Special|120|150|100|90|95|5||}}
+{{learnlist/tutorPLA|Leech Life|Bug|Physical|75|90|60|100|100|10||'''}}
+{{learnlist/tutorPLA|Rest|Psychic|Status|—|—|—|—|—|10||}}
+{{learnlist/tutorPLA|Rock Smash|Fighting|Physical|40|50|30|100|100|20||}}
+{{learnlist/tutorPLA|Sludge Bomb|Poison|Special|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|X-Scissor|Bug|Physical|80|100|60|100|100|10||'''}}
+{{learnlist/tutorf/8|Parasect|Bug|Grass|1}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Parasect|Bug|Grass|1}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Parasect|Bug|Grass|1}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Grass}}
+{{Spindata/Pinball|col=3|type=Bug|ndex=047|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=047|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=047
+|body=1
+|rate=Evolve
+|area=Mushroom Forest
+|P1=The poison I leak from my back can also be used as medicine!
+|P2=Better watch out. My HP is down by half...
+|P3=I need help... I'm even out of toxic spores...
+|PL=OK! I've gone up in level!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=047
+|body=1
+|rate=-4.5
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=047
+|coset=5
+|conto={{p|Abra}}, {{p|Zigzagoon}}, {{p|Cherubi}}
+|recruitment=Talk to in [[Baram Town]]
+|P1=I, the mushroom, have full control now!
+|P2=I'm...dizzy...
+}}
+|-
+{{Spindata/Ranger|col=6|type=Bug
+|group=Bug
+|assist=Grass
+|fieldpower=0
+|field=None
+|loop=8
+|MinEXP=40
+|MaxEXP=60
+|num=051
+|browser=Parasect attacks while shaking off plumes of spores from its body.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=047
+|walk=2.67
+|hp=51
+|attack=75
+|defense=55
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=047
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=047|num=455
+|min=60
+|max=125
+|raisemaxlevel=15
+|skill=Sleep Charm
+|skilldesc=Leaves the foe asleep.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=047
+|hatch=N/A
+|buddy=3
+|candy=Paras
+|evolution=N/A
+|stamina=155
+|attack=165
+|defense=146
+|fast={{m|Struggle Bug}}{{tt|*|From February 16, 2017 onward}}, {{m|Fury Cutter}}, {{m|Bug Bite}}{{tt|†|Prior to February 16, 2017}}
+|special={{m|Cross Poison}}, {{m|X-Scissor}}, {{m|Solar Beam}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|type2=Grass
+|pictype=art
+|no1=0046
+|name1=Paras
+|type1-1=Bug
+|type2-1=Grass
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 24}}
+|no2=0047
+|name2=Parasect
+|type1-2=Bug
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Grass}}
+{{Spritebox/1|ndex=047}}
+{{Spritebox/2|ndex=047}}
+{{Spritebox/3|ndex=047}}
+{{Spritebox/4|ndex=047}}
+{{Spritebox/5|ndex=047}}
+{{Spritebox/6|ndex=047|crop=76}}
+{{Spritebox/7/PE|ndex=047|crop=74|PEcrop=149}}
+{{Spritebox/8/LA|ndex=047|LAcrop=163}}
+{{Spritebox/NA|is=yes|gen=IX}}
+{{Spritebox/HOME|ndex=0047}}
+{{Spritebox/Footer|047|Parasect}}
+
+==In animation==
+[[File:Goh Parasect.png|thumb|250px|Parasect in {{aniseries|JN}}]]
+===Major appearances===
+Parasect debuted in ''[[EP044|The Problem with Paras]]'', where [[Cassandra]]'s Paras [[Evolution|evolved]] into one after battling most of {{cat|Ash's Pokémon}} and {{TRT}}. With Parasect's Evolution, Cassandra could use its giant mushroom to aid her in her medical research.
+
+In ''[[EP241|Hocus Pokémon]]'', {{OBP|Lily|EP241}} needed {{m|Stun Spore}} from a Parasect to complete a spell.
+
+In ''[[AG065|Gulpin it Down]]'', an [[Officer Jenny]] used a Parasect in addition to her {{p|Meganium}} and {{p|Tangela}} during an effort to stop the massive army of {{p|Gulpin}} that was rioting around the town.
+
+In ''[[JN006|Working My Way Back to Mew!]]'', [[Goh]] caught a {{DL|List of Goh's Pokémon|Paras|Parasect}}. It has since made further appearances in {{aniseries|JN}}.
+
+===Minor appearances===
+In ''[[EP047|A Chansey Operation]]'', an injured Parasect was brought to the clinic.
+
+In ''[[EP052|Princess vs. Princess]]'', a Parasect competed in the [[Queen of the Princess Festival]].
+
+In ''[[PK01|Pikachu's Vacation]]'', a Parasect was at the [[Pokémon Theme Park]].
+
+In ''[[EP065|Showdown at the Po-ké Corral]]'', multiple Parasect were living at [[Professor Oak's Laboratory]].
+
+In ''[[EP080|Friends to the End]]'', a {{pkmn|Trainer}}'s Parasect was at the closing ceremonies of the [[Indigo Plateau Conference]].
+
+In ''[[M02|The Power of One]]'', a Parasect sensed the disturbance caused by [[Lawrence III]].
+
+A {{pkmn2|wild}} Parasect appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+A Parasect appeared in a fantasy in ''[[EP116|The Rivalry Revival]]''.
+
+Multiple Parasect appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+In ''[[EP223|Throwing in the Noctowl]]'', a Parasect was living at [[Wings Alexander]]'s barn.
+
+In ''[[EP227|For Ho-Oh the Bells Toll!]]'', multiple Parasect protected the [[Bell Tower|Tin Tower]] after {{TRT}} stole the [[Clear Bell|Crystal Bells]] on the top floor.
+
+In ''[[HS04|Showdown at the Oak Corral]]'', a Parasect was living at {{an|Professor Oak}}'s Laboratory.
+
+Multiple Parasect appeared in ''[[M07|Destiny Deoxys]]''.
+
+A Parasect appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+In ''[[M09|Pokémon Ranger and the Temple of the Sea]]'', [[the Phantom]] used a Parasect alongside a {{p|Pinsir}} to attack [[Jack Walker]].
+
+A Parasect appeared in ''[[DP056|The Keystone Pops!]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', a Parasect was a resident of [[Pokémon Hills]].
+
+A Trainer's Parasect appeared in ''[[SM001|Alola to New Adventure!]]'' and ''[[SM004|First Catch in Alola, Ketchum-Style!]]''.
+
+In ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', a Parasect was playing in {{an|Lillie}}'s garden.
+
+A Trainer's Parasect appeared in ''[[M20|I Choose You!]]''.
+
+In ''[[SM035|Currying Favor and Flavor!]]'', a Parasect used {{m|Stun Spore}} on Ash and {{an|Mallow}} as they searched for a [[Mago Berry]].
+
+Six Parasect appeared in ''[[M21|The Power of Us]]'', with four under the ownership of Trainers and the other two being {{pkmn2|wild}}.
+
+Three Parasect appeared in ''[[SM090|Securing the Future!]]'', with two under the ownership of different Trainers and the third being wild. They joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|true form}}.
+
+A Trainer's Parasect appeared in ''[[SM128|League Offenders and Defenders!]]''.
+
+In ''[[SM129|Battle Royal 151!]]'', a Trainer's Parasect competed in the [[Battle Royal]] preliminary round of the [[Manalo Conference]] but ended up losing.
+
+In ''[[SM131|The Battlefield of Truth and Love!]]'', a Parasect was watching {{an|Bewear}} and {{an|Stufful}} put on a performance in their hot springs.
+
+Two Parasect appeared in ''[[JN033|Trade, Borrow, and Steal!]]'', with one under the ownership of a Trainer and the other being wild.
+
+A Trainer's Parasect appeared in ''[[JN070|Take My Thief! Please!]]''.
+
+A Trainer's Parasect appeared in ''[[JN077|Ultra Exciting from the Shocking Start!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP044|Parasect|Ash's Pokédex|Parasect, the Mushroom Pokémon. It battles using poison spheres that spread from the mushroom canopy on its back.}}
+{{Animedexfooter/Pokémon|Kanto}}
+
+==In the manga==
+[[File:Crystal Parasee.png|thumb|250px|Parasect in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Parasect debuted in ''[[PS021|Long Live the Nidoking!]]'', where it was seen as one of the Pokémon at [[Fuchsia City]]'s {{safari|Kanto}}.
+
+{{adv|Crystal}} has a Parasect [[nickname]]d Parasee, which first appeared in ''[[PS117|Slugging It Out With Slugma]]''. She uses it extensively in her Pokémon catching, using its {{m|Spore}} attack to put targets to sleep. Parasect is capable of increasing the radius of its Spore attack to at least {{tt|3 kilometers|about 1.6 miles}}. In ''[[PS135|Lively Larvitar]]'', the origin of Crystal's Parasect is revealed: it, along with Crystal's {{p|Natu}}, {{p|Hitmonchan}}, and {{p|Cubone}}, were wild Pokémon living in [[Mt. Mortar]] and had fought with a local {{p|Arcanine}} that had gone berserk from a severe eye injury. Parasect was able to create medicinal spores to help Arcanine heal and Crystal recover from her fractured arms. In ''[[PS165|Lugia and Ho-Oh on the Loose, Part 1]]'', Crystal reveals yet another ability of Parasect: it is able to use the powder attacks it possesses to combine into a wider range of spores, including one for corroding metals.
+
+In ''[[PS179|The Last Battle XIII]]'', a Parasect was sent to participate in the fight in [[Ilex Forest]].
+
+A Parasect belonging to an {{tc|Aether Foundation Employee}} first appeared in ''[[PASM24|Play the Melody That Echoes in the Altar]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Parasect appeared in [[GDZ20]], under the ownership of [[Rin and Ran|Ran]]. It reappeared in [[GDZ44]].
+
+===Pokémon Journeys===
+[[Goh]] caught a Parasect in ''[[JNM03|Battle Frontier Challenge: The Flute Cup!]]'', just like he does in the [[Pokémon Journeys: The Series|animated series]].
+
+===Pokémon Pocket Monsters===
+{{PPM|Green}}'s Parasect debuted in ''[[PM002|The Big Battle In The Viridian Forest!!]]''.
+
+===Pokémon Ranger the Comic: Double Mission===
+Tiffany of the [[Go-Rock Quads]] owns a Parasect, which appeared in ''[[PR3|Pokémon Ranger the Comic: Double Mission Episode Three]]''.
+
+==In the TCG==
+{{main|Parasect (TCG)}}
+
+==Trivia==
+* Paras and Parasect with Dry Skin are the only Pokémon that can naturally take more than double damage from a move based on its type without the use of {{M|Forest's Curse}}.
+* Parasect's [[Pokédex]] entry for [[Pokémon Stadium]] connects the [[Pokémon world]] with [[Pokémon world in relation to the real world|the real world]], noting that its spores are sometimes used as medicine in {{wp|China}}.
+* In [[Generation I]], {{type|Poison}} attacks were super effective against Bug-type Pokémon, making Parasect and Paras the only Pokémon to have ever had three 4× weaknesses.
+* No other Pokémon has the same [[Egg Group]] combination as Parasect and its pre-Evolution.
+** Parasect and its pre-Evolution are also the only {{type|Bug}} Pokémon in the {{egg3|Grass}}.
+* Paras and Parasect share their species name with {{p|Shroomish}}, {{p|Breloom}}, {{p|Foongus}} and {{p|Amoonguss}}. They are all known as the Mushroom Pokémon.
+** All six Pokémon also share a common [[move]], {{m|Spore}}; and [[Ability]], {{a|Effect Spore}}.
+** In [[Pokémon GO]], they all give more [[Stardust (GO)|Stardust]] than most other Pokémon upon capture.
+* Parasect can be seen as a counterpart to {{p|Shiinotic}}. Both share the {{t|Grass}} type, the same base stat total of 405, evolve at Level 24, both are mushroom-based Pokémon and thus can learn {{m|Spore}}, and both appeared as trial Pokémon of the [[Lush Jungle]] in [[Pokémon Sun and Moon]] depending on the game version, with Parasect being found in Pokémon Sun and Shiinotic in Pokémon Moon.
+* {{p|Paras}} and Parasect are the first in the trend of odd-numbered generations introducing Pokémon that appear to be based on fungi, followed by the {{p|Shroomish}}, {{p|Foongus}}, {{p|Morelull}}, and {{p|Toedscool}} lines, as well as {{p|Brute Bonnet}}.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Paras and Parasect}}
+Parasect resembles a {{wp|cicada}} {{wp|Nymph (biology)|nymph}}. It may also be based on a {{wp|hermit crab}} with a {{wp|mushroom}} for a shell. In concept, it could be inspired by ants that are infected with mushroom spores that take control of the host ant's brain and sprout from its head or back.
+
+The fungus on Parasect is identified as [[tochukaso]]. ''Tochukaso'' is the Japanese name of the real-world fungus ''{{wp|Ophiocordyceps sinensis}}'', an {{wp|Parasitoid|endoparasitoid}} that replaces the host tissue and can affect its behavior. It may also draw inspiration from ''{{wp|Massospora}}'', a genus of fungi which include species that specifically infect cicadas.
+
+====Name origin====
+Parasect may be a combination of ''{{wp|parasitism|parasite}}'' and ''{{wp|insect}}''.
+
+==In other languages==
+{{Other languages|type=bug|type2=grass
+|ja=パラセクト ''Parasect''|jameaning=From ''{{wp|parasite}}'' and ''insect''
+|fr=Parasect|frmeaning=Same as English/Japanese name
+|es=Parasect|esmeaning=Same as English/Japanese name
+|de=Parasek|demeaning=From ''{{tt|Parasit|parasite}}'' and ''{{tt|Insekt|insect}}''
+|it=Parasect|itmeaning=Same as English/Japanese name
+|ko=파라섹트 ''Parasect''|komeaning=Transcription of Japanese name
+|zh_cmn=派拉斯特 ''Pàilāsītè''|zh_cmnmeaning=Transcription of Japanese name
+|zh_yue=派拉斯特 ''Pāailāaisīdahk''{{tt|*|Games}}<br>巨菇蟲 ''Geuihgūchùhng''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=Mandarin-based transcription of Japanese name<br>From {{tt|巨 ''geui''|giant}}, {{tt|蘑菇 ''mòhgū''|mushroom}}, and {{tt|蟲 ''chùhng''|bug}}
+|hi=पैरासेक्ट ''Parasect''|himeaning=Transcription of English name
+|is=Sníkjupadda{{tt|*|in the sub of Pikachu's Rescue Adventure}}|ismeaning=From ''{{tt|sníkjudýr|parasite}}'' and ''{{tt|padda|bug}}''
+|lt=Parasektas|ltmeaning=From the English name
+|ru=Парасект ''Parasekt''|rumeaning=Transcription of English name
+|th=พาราเซ็คท์ ''Pharasek''|thmeaning=Transcription of Japanese name
+}}
+
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0046|prev=Paras|nextnum=0048|next=Venonat}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Parasek]]
+[[es:Parasect]]
+[[fr:Parasect]]
+[[it:Parasect]]
+[[ja:パラセクト]]
+[[zh:派拉斯特]]

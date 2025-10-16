@@ -1,0 +1,432 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Frogadier}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0656|prev=Froakie|nextnum=0658|next=Greninja|round=none}}
+{{PokémonPrevNext/Disambig|species=Frogadier}}
+|}
+{{Pokémon Infobox
+|name=Frogadier
+|jname=ゲコガシラ
+|tmname=Gekogashira
+|category=Bubble Frog
+|typebox=1
+|type1=Water
+|abilityn=d
+|ability1=Torrent
+|abilityd=Protean
+|ndex=0657
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=24.0
+|weight-kg=10.9
+|egggroupn=1
+|egggroup1=Water 1
+|gendercode=31
+|eggcycles=20
+|expyield=142
+|lv100exp=1,059,860
+|evtotal=2
+|evsp=2
+|color=Blue
+|catchrate=45
+|body=12
+|pokefordex=frogadier
+|generation=6
+|friendship=70
+}}
+'''Frogadier''' ([[List of Japanese Pokémon names|Japanese]]: '''ゲコガシラ''' ''Gekogashira'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Froakie}} starting at [[level]] 16 and evolves into {{p|Greninja}} starting at level 36.
+
+==Biology==
+Frogadier is a light-blue, bipedal, {{wp|frog}}-like {{OBP|Pokémon|species}}. A dark blue marking covers its head and forms a three-pointed mark down its upper back. Its eyes have yellow sclerae, black irises, and white pupils. Its eyes protrude slightly from the top of its head and each has a backward-facing spike above it. It has a white bubble scarf, dark blue hands and circular toes, and white circular fingers.
+
+Frogadier is a nimble and swift Pokémon; it can scale a tower exceeding 2,000 feet (600 meters) in one minute. It can also throw bubble-coated pebbles at targets up to 100 feet (30 meters) away. The reason for this is due to the tips of its fingers and toes allowing it to stick firmly onto vertical surfaces. It can confound opponents by leaping about ceilings or into trees.<ref>[https://web.archive.org/web/20160224014849/http://www.pokemonxy.com/en-us/pokemon/starters/ Pokémon X and Y site | Starters (Archived)]</ref> Frogadier is an expert on creating battle strategies that make use of the terrain. Due to this, it will never miss its mark when throwing bubble-covered pebbles.
+
+===Evolution===
+Frogadier evolves from {{p|Froakie}} and evolves into {{p|Greninja}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=water
+|pictype=art
+|no1=0656
+|name1=Froakie
+|type1-1=Water
+|evo1=
+|no2=0657
+|name2=Frogadier
+|type1-2=Water
+|evo2=
+|no3=0658
+|name3=Greninja
+|type1-3=Water
+|type2-3=Dark}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=008|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It can throw bubble-covered pebbles with precise control, hitting empty cans up to {{tt|a hundred feet|30 meters}} away.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its swiftness is unparalleled. It can scale a tower of more than {{tt|2,000 feet|600 meters}} in a minute's time.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It can throw bubble-covered pebbles with precise control, hitting empty cans up to {{tt|a hundred feet|30 meters}} away.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Its swiftness is unparalleled. It can scale a tower of more than {{tt|2,000 feet|600 meters}} in a minute's time.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=216}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It excels at devising battle strategies that make use of the terrain, and it never misses its mark when throwing bubble-covered pebbles.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The tips of its fingers and toes stick firmly to vertical surfaces. Frogadier can scale skyscrapers with ease.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{water color dark}}; background:#{{water color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{water color light}}; background:#{{water color light}} | [[File:Pokédex Image Frogadier SV Blueberry.png|x200px]]
+|-
+| Frogadier in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=water}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Water-type Safari|Water]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Froakie}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Froakie}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 2|Renegade Meadow: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Castle Moat|Dewdrop Bay: Castle Moat]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Greninja Sea]], [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 185]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|HP=     54
+|Attack= 63
+|Defense=52
+|SpAtk=  83
+|SpDef=  56
+|Speed=  97}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Frogadier|Water|Water|6}}
+{{learnlist/level9|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level9|8|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|10|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/level9|14|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level9|19|Smokescreen|Normal|Status|—|100|20}}
+{{learnlist/level9|23|Round|Normal|Special|60|100|15}}
+{{learnlist/level9|28|Fling|Dark|Physical|—|100|10||''}}
+{{learnlist/level9|33|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/level9|40|Substitute|Normal|Status|—|—|10}}
+{{learnlist/level9|45|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/level9|50|Double Team|Normal|Status|—|—|15}}
+{{learnlist/level9|56|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/9|Frogadier|Water|Water|6}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Frogadier|Water|Water|6}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM069|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM145|Water Pledge|Water|Special|80|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tmf/9|Frogadier|Water|Water|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Frogadier|Water|Water|6}}
+{{learnlist/breed9|{{MSP/H|0833|Chewtle}}{{MSP/H|0834|Drednaw}}{{MSP/H|0914|Quaquaval}}|Counter|Fighting|Physical|—|100|20|grid=4}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Retaliate|Normal|Physical|70|100|5|grid=4}}
+{{learnlist/breed9|{{MSP/H|0658|Greninja}}|Spikes|Ground|Status|—|—|20|grid=4}}
+{{learnlist/breed9|{{MSP/H|0686|Inkay}}{{MSP/H|0687|Malamar}}|Switcheroo|Dark|Status|—|100|10|grid=4}}
+{{learnlist/breed9|{{MSP/H|0194|Wooper|form=-Paldea}}{{MSP/H|0980|Clodsire}}{{MSP/H|0747|Mareanie}}{{MSP/H|0748|Mareanie}}|Toxic Spikes|Poison|Status|—|—|20|grid=4}}
+{{learnlist/breedf/9|Frogadier|Water|Water|6}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Frogadier|Water|Water|6}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Frogadier|Water|Water|6}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/PSMD|col=6|type=Water|ndex=657
+|coset=1
+|conto={{p|Quilladin}}, {{p|Froakie}}
+|recruitment=Talk to in [[Noe Town]]
+|P1=I throw rocks covered with bubbles. Don't call me a coward!
+|P2=Blup… I'll work hard a little longer…
+|protag=1
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=657
+|walk=2.08
+|hp=49
+|attack=74
+|defense=49
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=657
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=657|num=176
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Power of 5
+|skilldesc=Increases damage when you make a match of five.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=657
+|hatch=N/A
+|buddy=3
+|candy=Froakie
+|evocandy=100
+|stamina=144
+|attack=168
+|defense=114
+|fast={{m|Pound}}, {{m|Bubble}}
+|special={{m|Water Pulse}}, {{m|Aerial Ace}}, {{m|Surf}}
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{water color dark}}; background:#{{water color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{water color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{water color dark}}; background:#{{water color light}};"| [[File:GO0657Halloween.png|100px]]
+|-
+| Halloween costume
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=water
+|pictype=art
+|no1=0656
+|name1=Froakie
+|type1-1=Water
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 16}}
+|no2=0657
+|name2=Frogadier
+|type1-2=Water
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 36}}
+|no3=0658
+|name3=Greninja
+|type1-3=Water
+|type2-3=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=water}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=657|crop=74}}
+{{Spritebox/7|ndex=657|crop=75}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9|ndex=0657}}-->
+{{Spritebox/HOME|ndex=0657}}
+{{Spritebox/Footer|657|Frogadier}}
+
+==In animation==
+[[File:Ash Frogadier.png|thumb|250px|Frogadier in {{aniseries|XY}}]]
+===Major appearances===
+====[[Ash's Frogadier]]====
+{{Ash}}'s Froakie [[Evolution|evolved]] into a Frogadier in ''[[XY052|A Stealthy Challenge!]]'' during a battle alongside {{AP|Pikachu}} and [[Sanpei's Greninja]] against [[Saizo]]'s {{p|Barbaracle}}. It later evolved once more into a Greninja in ''[[XY100|A Festival of Decisions!]]''.
+
+====[[Sanpei's Frogadier]]====
+Frogadier debuted in ''[[XY017|A Rush of Ninja Wisdom!]]'', under the ownership of [[Sanpei]]. It spent the entire episode [[Walking Pokémon|outside of its Poké Ball]]. It reappeared in ''[[XY052|A Stealthy Challenge!]]'', where it was revealed to have evolved into Greninja.
+
+====[[Goh's Frogadier]]====
+[[Goh]]'s Froakie evolved into a Frogadier in ''[[JN108|Catching the Aura of Fate!]]''.
+
+===Minor appearances===
+A Frogadier appeared in ''[[XY099|The Legend of the Ninja Hero!]]'' as a resident of the [[Ninja Village]].
+
+A Frogadier appeared in the opening sequence of ''[[M19|Volcanion and the Mechanical Marvel]]'', when it evolved from {{p|Froakie}} and then into {{p|Greninja}}.
+
+Three Frogadier appeared in ''[[HZ085|The Pokémon Paradise of Laqua!]]'', among the Pokémon living in [[Laqua]].
+
+A Student's Frogadier appeared in [[HZ090]].
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY017|Frogadier|Ash's Pokédex|Frogadier, the Bubble Frog Pokémon, and the evolved form of Froakie. Frogadier's speed is unmatched. It can climb a tower over {{tt|2,000 feet|600 meters}} tall in one minute.}}
+{{Animedexbody|XY052|Frogadier|Ash's Pokédex|Frogadier, the Bubble Frog Pokémon, and the evolved form of Froakie. Frogadier's speed is unmatched. It can climb a tower over {{tt|2,000 feet|600 meters}} tall in one minute.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+==In the manga==
+[[File:Y Croaky Frogadier.png|thumb|180px|Frogadier in [[Pokémon Adventures]]]]
+===Movie adaptations===
+{{main|Ash's Frogadier}}
+Ash owned a Frogadier in ''{{ma|Hoopa and the Clash of Ages}}''.
+
+===Pokémon Adventures===
+{{main|Croaky}}
+{{adv|Y}} owns a Frogadier nicknamed Croaky that evolved from her {{p|Froakie}} in ''[[PS572|Shooting Frogadier]]''.
+
+==In the TCG==
+{{main|Frogadier (TCG)}}
+
+==Trivia==
+*Frogadier and its evolutionary line are the only Water-type first partner Pokémon line to be in the Water 1 Egg Group and only the Water 1 Egg Group.
+===Origin===
+Frogadier is based on a {{wp|frog}}.<ref>[https://web.archive.org/web/20141007232727/http://www.officialnintendomagazine.co.uk/55933/features/interview-game-freak-on-the-origins-of-pokmon-x-y/ Official Nintendo Magazine - Interview: Game Freak on the origins of Pokémon X & Y (Archived)]</ref> Considering its crouched pose, dark blue "hooded" face and upper body, as well as its scarf-like foam, Frogadier is more than likely based on a {{wp|ninja}} as well. The spiked protrusions above its eyes may have been inspired by horned frogs from the {{wp|Genus|genera}} ''{{wp|Megophrys}}'' and ''{{wp|Ceratophrys}}''. Its bubbling white foam is a reference to frog foam nests, created by some species such as the {{wp|Tungara frog|túngara frog}} and {{wp|grey foam-nest tree frog}} to protect eggs.
+
+Frogadier was shown in the {{aniseries|XY}} episode ''[[XY017|A Rush of Ninja Wisdom!]]'' to be able to run on the surface of water, which could be a reference to ninjas supposedly being able to walk on water using {{wp|mizugumo}}.
+
+====Name origin====
+Frogadier may be a combination of ''frog'' and ''{{wp|brigadier}}'' or ''{{wp|grenadier}}''.
+
+Gekogashira may be a combination of げこっ ''geko'' (croak) and 若頭 ''wakagashira'' (a young Yakuza subordinate leader) or 小頭 ''kogashira'' (head of an organizational section).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=ゲコガシラ ''Gekogashira''|jameaning=From {{tt|げこっ ''geko''|croak}} and {{tt|若頭 ''wakagashira''|a young Yakuza subordinate leader}} or {{tt|小頭 ''kogashira''|head of an organizational section}}
+|fr=Croâporal|frmeaning=From ''{{tt|croâ|croak}}'', ''{{tt|crapaud|toad}}'' and ''{{tt|caporal|corporal}}''
+|es=Frogadier|esmeaning=Same as English name
+|de=Amphizel|demeaning=From ''{{tt|Amphibien|amphibian}}''
+|it=Frogadier|itmeaning=Same as English name
+|ko=개굴반장 ''Gaegulbanjang''|komeaning=From {{tt|개굴개굴 ''gaegul-gaegul''|onomatopoeia for croaking}} and {{tt|반장 ''banjang''|squad leader}}
+|zh_cmn=呱頭蛙 / 呱头蛙  ''Guātóuwā''|zh_cmnmeaning=From {{tt|呱 ''guā''|onomatopoeia for croaking}}, {{tt|頭 / 头 ''tóu''|head}}, and {{tt|蛙 ''wā''|frog}}
+|zh_yue=呱頭蛙 ''Gwātàuhwā''|zh_yuemeaning=From {{tt|呱 ''gwā''|onomatopoeia for croaking}}, {{tt|頭 ''tàuh''|head}}, and {{tt|蛙 ''wā''|frog}}
+|hi=फ़्रॉगेडियर ''Frogadier''|himeaning=Transcription of English name
+|ru=Фрогадир ''Frogadir''|rumeaning=Transcription of English name
+|th=เกโคกาชิระ ''Kekhokachira''|thmeaning=Transcription of Japanese name
+}}
+
+==See also==
+* [[Ash's Frogadier]]
+* [[Goh's Frogadier]]
+* [[Sanpei's Frogadier]]
+* [[Croaky]]
+* [[Greninja (UNITE)]]
+* [[First partner Pokémon]]
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0656|prev=Froakie|nextnum=0658|next=Greninja}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Amphizel]]
+[[es:Frogadier]]
+[[fr:Croâporal]]
+[[it:Frogadier]]
+[[ja:ゲコガシラ]]
+[[zh:呱头蛙]]

@@ -1,0 +1,1012 @@
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/GO|species=Sandslash}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0027|prev=Sandshrew|nextnum=0029|next=Nidoran♀|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Sandslash
+|jname=サンドパン
+|jtranslit=Sandopan
+|tmname=Sandpan
+|forme=2
+|form1=Sandslash
+|form2=Alolan Sandslash
+|image2=0028Sandslash-Alola.png
+|ndex=0028
+|type1=Ground
+|form2type1=Ice
+|form2type2=Steel
+|category=Mouse
+|height-ftin=3'03"
+|height-m=1.0
+|height-ftin2=3'11"
+|height-m2=1.2
+|weight-lbs=65.0
+|weight-kg=29.5
+|weight-lbs2=121.3
+|weight-kg2=55.0
+|abilitylayout=2+2
+|ability1=Sand Veil
+|abilityd=Sand Rush
+|abilitydcaption=Sandslash
+|ability2-1=Snow Cloak
+|abilityd2=Slush Rush
+|abilityd2caption=Alolan Sandslash
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=2
+|evde=2
+|expyield=158
+|oldexp=163
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|formcolors=yes
+|catchrate=90
+|body=06
+|pokefordex=sandslash
+|generation=1
+|friendship=70
+}}
+'''Sandslash''' ([[List of Japanese Pokémon names|Japanese]]: '''サンドパン''' ''Sandpan'') is a {{type|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s from {{p|Sandshrew}} starting at [[level]] 22.
+
+In [[Alola]], Sandslash has a dual-type {{2t|Ice|Steel}} [[regional form]]. It evolves from Alolan Sandshrew when exposed to an [[Ice Stone]]. These Sandslash can also be found in [[Blueberry Academy]]'s [[Terarium]].
+
+==Biology==
+[[File:Sandslash Pokécology.png|300px|left|thumb|Sandslash curls into a spiky ball and rolls, while Alolan Sandslash burrows through the ground with icy claws]]
+Sandslash is a bipedal, ground-dwelling {{wp|pangolin|pholidote}} {{OBP|Pokémon|species}}. Although Sandslash is usually bipedal, it can run on all fours. Most of its body is yellow with a white underbelly. It has a narrow muzzle, almond-shaped blue eyes, and a thick tail. Its back is mostly covered in sharp, brown quills from its tough, dry hide. It has two large claws on its paws and feet. These claws are its primary weapons and are used for slashing, but can also be used for burrowing. Its claws and spikes can both break off, but they grow back quickly and are shed regularly. Sandslash's broken parts can be used to carve plows for tilling farm fields. The claws can become harder and smoother if they live in drier areas.
+
+Sandslash can curl into a large ball, which allows it to roll to attack or escape, protect itself from heatstroke, and guard its belly. Sandslash is also adept at climbing trees and is prone to ambush its enemies from above. It also climbs trees to rest during the night and to slash [[Berry|Berries]] to feed the {{p|Sandshrew}} waiting below. Sandslash is mostly found in {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|deserts}}.
+
+===Forms===
+Sandslash has a [[regional form]]: {{rf|Alolan}} Sandslash.
+
+In the [[Alola]] [[region]], Sandslash has an icy blue hide and steel quills covered in ice. These quills stand taller than a regular Sandslash's quills and resemble icicles. Unlike its Kantonian variant, Alolan Sandslash is rarely seen curling up into a ball, perhaps made difficult by its thick hide and icy spine. Instead, this Pokémon uses its hide for camouflage in the snow while exposing only its spines. Its body emits cold air, which sharpens its quills. Its forepaws are larger than its counterpart, and its claws are longer, thinner, and hooked at the tips. Formerly used for climbing trees, they now allow it to scale icebergs without slipping.
+
+Despite the weight of its ice-covered body, Alolan Sandslash can {{a|Slush Rush|move swiftly}} by carving a path in the snow with its claws. It can move faster than any other Pokémon while in the snowy mountains. This Pokémon tends to live in the deeper parts of snowy mountains, where climbing is forbidden. However, the sprays of snow it kicks up are popular shots for photographers.<ref>[https://web.archive.org/web/20180911115757/https://www.pokemon-sunmoon.com/en-us/pokemon/alolan-sandslash/ Pokémon Sun and Moon site | Alolan Sandslash]</ref> People also climb up the mountains it lives in, to see Sandslash's icy spikes sparkle during the light of dawn. Stabs from Alolan Sandslash's spikes can cause both deep wounds and severe frostbite. They can also be found in the [[Polar Biome]] of [[Blueberry Academy]]'s [[Terarium]], where Alola's island life is simulated.
+
+<gallery>
+Alolan Sandslash SM concept art.jpg|Alolan Sandslash's ice-covered steel quills and distinctive claws
+Sandslash Ice Ball.png|Alolan Sandslash rolls very fast so it looks like it's curled up in a ball, only shown in ''[[Pokémon the Series]]''
+</gallery>
+
+===Evolution===
+Sandslash evolves from {{p|Sandshrew}}.
+
+{{rf|Alolan}} Sandslash evolves from Alolan Sandshrew.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Sandslash'''
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=0027
+|name1=Sandshrew
+|type1-1=Ground
+|evo1=
+|no2=0028
+|name2=Sandslash
+|type1-2=Ground}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Alolan Sandslash'''
+{{Evobox-2
+|type1=Ice
+|type2=Steel
+|pictype=sprite
+|no1=0027Sandshrew-Alola
+|name1=Sandshrew
+|form1=Alolan Form
+|type1-1=Ice
+|type2-1=Steel
+|evo1=
+|no2=0028Sandslash-Alola
+|name2=Sandslash
+|form2=Alolan Form
+|type1-2=Ice
+|type2-2=Steel}}
+</div>
+</div>
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]: Sandslash is one of the members of Team Razor Wind.
+
+===Pokédex entries===
+{{Dex/Header|type=Ground}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=028}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.}}
+{{Dex/Entry1|v=Yellow|entry=It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Curls into a ball of sharp spikes and rolls into enemies. It is also adept at slashing with its sharp claws.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=049}}
+{{Dex/Entry1|v=Gold|entry=In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.}}
+{{Dex/Entry1|v=Silver|entry=If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.}}
+{{Dex/Entry1|v=Crystal|entry=Adept at climbing trees, it rolls into a spiny ball, then attacks its enemies from above.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=113|reg2=Kanto|num2=028}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Sandslash</sc>'s body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Sandslash</sc> can roll up its body as if it were a ball covered with large spikes. In battle, this {{ScPkmn}} will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.}}
+{{Dex/Entry1|v=FireRed|entry=It is adept at attacking with the spines on its back and its sharp claws while quickly scurrying about.}}
+{{Dex/Entry1|v=LeafGreen|entry=Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=049}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.}}
+{{Dex/Entry1|v=HeartGold|entry=In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.}}
+{{Dex/Entry1|v=SoulSilver|entry=If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=114|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=098|label1=Mountain|reg2=Hoenn|num2=118}}
+{{Dex/Entry1|v=X|t=FFF|entry=If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Sandslash can roll up its body as if it were a ball covered with large spikes. In battle, this Pokémon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=252|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=329|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=028}}
+{{Dex/Entry1|v=Sun|entry=Although they are sharp, its claws and spikes often break off. They grow back the next day, so it is not bothered by the temporary loss.}}
+{{Dex/Entry1|v=Moon|entry=It uses its claws to climb trees and then curls its body into a spiny ball, ready to drop onto any prey that appears.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Its claws and horns often break off. The broken claws and horns can be used to carve plows for tilling farm fields.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Thanks to its thick claws, it's good at climbing trees. There are plenty of Sandslash that park themselves in trees and go right to sleep.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.}}
+{{Dex/Form|Alolan Sandslash}}
+{{Dex/Entry1|v=Sun|entry=Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon's steel spikes are sheathed in ice. Stabs from these spikes cause deep wounds and severe frostbite as well.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It runs across snow-covered plains at high speeds. It developed thick, sharp claws to plow through the snow.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=A long, long time ago, it lived in the desert. With its sharp claws fully extended, it can climb right up an iceberg without slipping.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=This is Sandslash's form after adaptation to a frigid environment. The cold air emitted by its body sharpens its icy spikes.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|label1=Isle of Armor|num1=169|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=The drier the area Sandslash lives in, the harder and smoother the Pokémon's spikes feel when touched.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.}}
+{{Dex/Form|Alolan Sandslash}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Many people climb snowy mountains, hoping to see the icy spikes of these Pokémon glistening in the light of dawn.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=117|reg3=Blueberry|num3=156}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It is adept at attacking with the spines on its back and its sharp claws while quickly scurrying about.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.}}
+{{Dex/Form|Alolan Sandslash}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon’s steel spikes are sheathed in ice. Stabs from these spikes cause deep wounds and severe frostbite as well.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=A long, long time ago, it lived in the desert. With its sharp claws fully extended, it can run right up an iceberg without slipping.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{ground color}}; font-size:80%; {{roundy|!0px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{ground color light}};" | [[File:Pokédex Image Sandslash SM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{steel color dark}}; background:#{{ice color light}};" | [[File:Pokédex Image Sandslash-Alola SM.png|x200px]]
+|-
+| Sandslash in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Alolan Sandslash in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|-
+| style="border:2px solid #{{ground color dark}}; background:#{{ground color light}}; {{roundy|5px}};"| [[File:Pokédex Image Sandslash SV Kitakami.png|x200px]]
+| style="border:2px solid #{{steel color dark}}; background:#{{ice color light}}; {{roundy|5px}};" | [[File:Pokédex Image Sandslash SV Blueberry.png|x200px]]
+|-
+| Sandslash in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+| Alolan Sandslash in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1/None|1|v=Red}}
+{{Availability/Entry1|1|v=Blue|t=FFF|area={{rt|23|Kanto}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=FFF|link=Pokémon Blue Version (Japanese)|area={{rt|23|Kanto}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|1|v=Yellow|area=[[Cerulean Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area=[[Route]]s {{rtn|26|Kanto}} and {{rtn|27|Kanto}}, [[Mt. Moon]]}}
+{{Availability/Entry1|1|v=Silver|area=[[Evolution|Evolve]] {{p|Sandshrew}}}}
+{{Availability/Entry1|1|v=Crystal|area={{rt|26|Kanto}} and {{ka|Victory Road}}{{sup/t|M}}{{sup/t|D}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Sandshrew}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Sandshrew}}}}
+{{Availability/Entry1/None|v=FireRed}}
+{{Availability/Entry1|v=LeafGreen|area={{rt|23|Kanto}} and {{ka|Victory Road}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Sandshrew}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|228|Sinnoh}} {{color2|{{LeafGreen color dark}}|Dual-slot mode|(LeafGreen)}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|228|Sinnoh}} {{color2|{{LeafGreen color dark}}|Dual-slot mode|(LeafGreen)}}}}
+{{Availability/Entry1|v=HeartGold|area=[[Route]]s {{rtn|26|Kanto}} and {{rtn|27|Kanto}}, [[Mt. Moon]]<br/>{{safari|Johto}} (Desert, default)}}
+{{Availability/Entry1|v=SoulSilver|area={{safari|Johto}} (Desert, default)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/med|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Relic Castle]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|15|Unova}}, [[Relic Castle]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|18|Kalos}}, [[Terminus Cave]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Sandshrew}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|1|v=Sun|area=[[Trade]], [[Pokémon Bank]]}}
+{{Availability/Entry1|1|v=Moon|area=[[Evolution|Evolve]] {{p|Sandshrew}} <small>('''Alolan Form''')</small><br>[[Pokémon Bank]] <small>('''Kantonian Form''')</small>}}
+{{Availability/Entry1/None|1|v=Ultra Sun|area=[[Trade]], [[Pokémon Bank]]}}
+{{Availability/Entry1|1|v=Ultra Moon|t=FFF|area=[[Evolution|Evolve]] {{p|Sandshrew}} <small>('''Alolan Form''')</small><br>[[Pokémon Bank]] <small>('''Kantonian Form''')</small>}}
+{{Availability/Entry1|1|v=Let's Go Pikachu|area=[[Evolution|Evolve]] {{p|Sandshrew}} <small>('''Kantonian/Alolan Forms''')</small>}}
+{{Availability/Entry1/None|1|v=Let's Go Eevee}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Forest of Focus]], [[Potbottom Desert]] ([[Wanderer]]) <small>('''Kantonian Form''')</small><br>[[Challenge Beach/Dens|Challenge Beach]], [[Courageous Cavern/Dens|Courageous Cavern]], [[Potbottom Desert/Dens|Potbottom Desert]] ([[Max Raid Battle]]) <small>('''Kantonian Form''')</small><br>[[Max Lair]] ([[Dynamax Adventure]]) <small>('''Kantonian/Alolan Forms''')</small>}}
+{{Availability/Entry1/None|v=Brilliant Diamond|area=[[Trade]] <small>('''Kantonian Form''')</small><br>Unobtainable <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1|v=Shining Pearl|area=[[Grand Underground]] - [[Spacious Cave]], [[Rocky Cave]], [[Sandsear Cave]], [[Big Bluff Cavern]] (After obtaining the [[National Pokédex]]) <small>('''Kantonian Form''')</small><br>Unobtainable <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero (Scarlet)|color={{scarlet color dark}}|t=fff|link=The Hidden Treasure of Area Zero |area=[[Oni Mountain]], [[Paradise Barrens]], [[Kitakami Wilds]] <small>('''Kantonian Form''')</small><br>[[Tera Raid Battle|Tera Raid Battle Search]] ({{DL|List of 6★ Tera Raid Battles (Blueberry Academy)|Sandslash - Alolan Form|6★}}) <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero (Violet)|color={{violet color dark}}|t=fff|link=The Hidden Treasure of Area Zero |area=[[Oni Mountain]], [[Paradise Barrens]], [[Kitakami Wilds]] <small>('''Kantonian Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 6★ Tera Raid Battles (Blueberry Academy)|Sandslash - Alolan Form|6★}}) <small>('''Alolan Form''')</small>}}
+
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Valley]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Sandshrew}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Sandshrew}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 3, Endless Level 20, Forever Level 52, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Sandshrew}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Quicksand Cave]] (B1F-B10F, Quicksand Pit B1F-B10F), [[Shimmer Desert]] (1F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Quicksand Cave]] (B1F-B10F, Quicksand Pit B1F-B10F), [[Shimmer Desert]] (1F-9F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Hippowdon Temple]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area={{OBP|Rocky Cave|Rumble}} <small>(Normal Mode B & S)</small>}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Daybreak Ruins]], [[Forest Temple]], [[Light Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#It's Drill Time!|Variety Battle: It's Drill Time!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 2|Safari Jungle: Stage 2]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Heat-Wave Desert|Fairy Land: Heat-Wave Desert]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Entei Sea]], [[Lugia Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Entei Sea]]<sup>Final</sup> <small>('''Kantonian Form''')</small><br>[[Jirachi Sea]]<sup>Final</sup> <small>('''Alolan Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD red color}}|area=[[Magma Cavern]] (20F-23F), [[Desert Region]] (15F-19F), [[Joyous Tower]] (79F-87F)<br/>Fainted Pokémon: [[Mt. Faraway]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Shiver Snowfields]] <small>('''Alolan Form''')</small>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 668]] <small>('''Kantonian Form''')</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#14th release|''Pokémon Safari'']] <small>(14th release; '''Kantonian Form''')</small><br>Event: ''[[Great Challenge|Sandslash Appears]]'' <small>('''Alolan Form''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync/player|egg|Sandshrew}} <small>('''Kantonian Form''')</small><br>[[Costume event]] (''[[Super Tour Guide Rosa]]''): {{sync|Naomi|Sandslash|Sightseer}} <small>('''Kantonian Form''')</small><br>Seasonal [[sync pair scout]]: {{sync|Steven|Sandslash|Summer 2020}} <small>('''Alolan Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+====Sandslash====
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Ground}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|FireRed|LeafGreen|gcolor1=FFF|tcolor1={{FireRed color}}|Pokémon FireRed and LeafGreen Versions}}
+{{HeldItems/Items1|Soft Sand|5}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Quick Claw|5|rows=6}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black|White|tcolor1=FFF|Pokémon Black and White Versions}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Grip Claw|5|rows=2}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|gcolor1=FFF|tcolor1={{Brilliant Diamond color}}|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+
+===Stats===
+====Base stats====
+=====Sandslash=====
+{{Stats
+|type=Ground
+|HP=75
+|Attack=100
+|Defense=110
+|SpAtk=45
+|SpDef=55
+|Speed=65
+|Special=55
+}}
+
+=====Alolan Sandslash=====
+{{Stats
+|type=Ice
+|type2=Steel
+|HP=75
+|Attack=100
+|Defense=120
+|SpAtk=25
+|SpDef=65
+|Speed=65
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|Speed=2
+|SpeedMax=3
+|Power=3
+|PowerMax=4
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=3
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+====Sandslash====
+{{TypeEffectiveness
+|type1=Ground
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=1
+}}
+
+====Alolan Sandslash====
+{{TypeEffectiveness
+|type1=Ice
+|type2=Steel
+|Normal=50
+|Fighting=400
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=400
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=25
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Sandslash=====
+{{learnlist/levelh/9|Sandslash|Ground|Ground|1}}
+{{learnlist/level9|1|Crush Claw|Normal|Physical|75|95|10||}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35||}}
+{{learnlist/level9|1|Defense Curl|Normal|Status|—|—|40||}}
+{{learnlist/level9|1|Poison Sting|Poison|Physical|15|100|35||}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15||}}
+{{learnlist/level9|9|Rollout|Rock|Physical|30|90|20||}}
+{{learnlist/level9|12|Fury Cutter|Bug|Physical|40|95|20||}}
+{{learnlist/level9|15|Rapid Spin|Normal|Physical|50|100|40||}}
+{{learnlist/level9|18|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|21|Swift|Normal|Special|60|—|20||}}
+{{learnlist/level9|26|Fury Swipes|Normal|Physical|18|80|15||}}
+{{learnlist/level9|31|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level9|36|Slash|Normal|Physical|70|100|20||}}
+{{learnlist/level9|41|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level9|46|Gyro Ball|Steel|Physical|—|100|5||}}
+{{learnlist/level9|51|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/level9|56|Sandstorm|Rock|Status|—|—|10||}}
+{{learnlist/level9|61|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/levelf/9|Sandslash|Ground|Ground|1}}
+
+=====Alolan Sandslash=====
+{{learnlist/levelh/9|Sandslash|Ice|Steel|7}}
+{{learnlist/level9|1|Icicle Crash|Ice|Physical|85|90|10||'''}}
+{{learnlist/level9|1|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level9|1|Slash|Normal|Physical|70|100|20||}}
+{{learnlist/level9|1|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Mist|Ice|Status|—|—|30}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Rapid Spin|Normal|Physical|50|100|40}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Metal Burst|Steel|Physical|—|100|10}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/levelf/9|Sandslash|Ice|Steel|7}}
+
+====By [[TM]]====
+=====Sandslash=====
+{{learnlist/tmh/9|Sandslash|Ground|Ground|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20||}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35||}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15||}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10||}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15||}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20||}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20||}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5||}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||}}
+{{learnlist/tm9|TM106|Drill Run|Ground|Physical|80|95|10||'''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20||}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5||}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5||}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15||}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20||}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10||}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10||'''}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20||}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Sandslash|Ground|Ground|1}}
+
+=====Alolan Sandslash=====
+{{learnlist/tmh/9|Sandslash|Ice|Steel|7}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20||}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15||}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||}}
+{{learnlist/tm9|TM046|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10||}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15||}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/tm9|TM069|Ice Punch|Ice|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20||}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15||}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||}}
+{{learnlist/tm9|TM106|Drill Run|Ground|Physical|80|95|10||}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20||}}
+{{learnlist/tm9|TM124|Ice Spinner|Ice|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5||}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20||}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10||}}
+{{learnlist/tm9|TM187|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20||}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM212|Triple Axel|Ice|Physical|20|90|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Sandslash|Ice|Steel|7}}
+
+====By {{pkmn|breeding}}====
+=====Sandslash=====
+{{learnlist/breedh/9|Sandslash|Ground|Ground|2}}
+{{learnlist/breed9|{{MSP/H|0287|Slakoth}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0745-Midnight|Lycanroc}}{{MSP/H|0745-Dusk|Lycanroc}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0979|Annihilape}}|Counter|Fighting|Physical|—|100|20|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0231|Phanpy}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0775|Komala}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Flail|Normal|Physical|—|100|15|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0052-Galar|Meowth}}{{MSP/H|0863|Perrserker}}{{MSP/H|0215|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0215-Hisui|Sneasel}}{{MSP/H|0903|Sneasler}}{{MSP/H|0335|Zangoose}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0570|Zorua}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571-Hisui|Zoroark}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Hone Claws|Dark|Status|—|—|15|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0027-Alola|Sandshrew}}{{MSP/H|0028-Alola|Sandslash}}{{MSP/H|0050-Alola|Diglett}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0052-Galar|Meowth}}{{MSP/H|0863|Perrserker}}{{MSP/H|0215|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0335|Zangoose}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0448|Lucario}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}|Metal Claw|Steel|Physical|50|95|35|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0050|Diglett}}{{MSP/H|0050-Alola|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0968|Orthworm}}|Mud-Slap|Ground|Special|20|100|10||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0052-Alola|Meowth}}{{MSP/H|0053-Alola|Persian}}{{MSP/H|0335|Zangoose}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0461|Weavile}}{{MSP/H|0571|Zoroark}}{{MSP/H|0908|Meowscarada}}|Night Slash|Dark|Physical|70|100|15|||grid=8}}
+{{learnlist/breedf/9|Sandslash|Ground|Ground|2}}
+
+=====Alolan Sandslash=====
+{{learnlist/breedh/9|Sandslash|Ice|Steel|7}}
+{{learnlist/breed9|{{MSP/H|0287|Slakoth}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0745-Midnight|Lycanroc}}{{MSP/H|0745-Dusk|Lycanroc}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0979|Annihilape}}|Counter|Fighting|Physical|—|100|20|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0028|Sandslash}}{{MSP/H|0335|Zangoose}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0745-Dusk|Lycanroc}}|Crush Claw|Normal|Physical|75|95|10|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571-Hisui|Zoroark}}|Curse|Ghost|Status|—|—|10|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0231|Phanpy}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0775|Komala}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Flail|Normal|Physical|—|100|15|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0052-Galar|Meowth}}{{MSP/H|0863|Perrserker}}{{MSP/H|0215|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0215-Hisui|Sneasel}}{{MSP/H|0903|Sneasler}}{{MSP/H|0335|Zangoose}}{{MSP/H|0529|Drilbur}}{{MSP/H|0530|Excadrill}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0570|Zorua}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571-Hisui|Zoroark}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Hone Claws|Dark|Status|—|—|15|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0037-Alola|Vulpix}}{{MSP/H|0038-Alola|Ninetales}}{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0461|Weavile}}{{MSP/H|0471|Glaceon}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Ice Shard|Ice|Physical|40|100|30||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0471|Glaceon}}|Mirror Coat|Psychic|Special|—|100|20|||grid=8}}
+{{learnlist/breed9|{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0052-Alola|Meowth}}{{MSP/H|0053-Alola|Persian}}{{MSP/H|0335|Zangoose}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0461|Weavile}}{{MSP/H|0571|Zoroark}}{{MSP/H|0908|Meowscarada}}|Night Slash|Dark|Physical|70|100|15|||grid=8}}
+{{learnlist/breedf/9|Sandslash|Ice|Steel|7}}
+
+====By a prior [[Evolution]]====
+=====Sandslash=====
+{{learnlist/prevoh/9|Sandslash|Ground|Ground|1}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/9|Sandslash|Ground|Ground|1}}
+
+=====Alolan Sandslash=====
+{{learnlist/prevoh/9|Sandslash|Ice|Steel|7}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/9|Sandslash|Ice|Steel|7}}
+
+====Special moves====
+=====Sandslash=====
+{{learnlist/eventh/9|Sandslash|Ground|Ground|1}}
+{{learnlist/event9|[[Reveler's Road|Wild Tera Pokémon]]|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/event9|[[Reveler's Road|Wild Tera Pokémon]]|Thief|Dark|Physical|60|100|25}}
+{{learnlist/eventf/9|Sandslash|Ground|Ground|1}}
+
+===Side game data===
+====Sandslash====
+{{Spindata/Head|type=Ground}}
+{{Spindata/Pinball|col=2|type=Ground|ndex=028|acquisition=Evolve|evolved=yes}}
+{{Spindata/PinballRS|col=2|type=Ground|ndex=028|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=2|type=Ground|ndex=028|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Ground|ndex=028
+|body=1
+|rate=Evolve
+|area=Furnace Desert
+|P1=Let me take them on with the spikes on my back and my big claws!
+|P2=Uh-oh, not good. My health is down to half.
+|P3=I'm beat... I don't have the energy to shake my spikes...
+|PL=There! I leveled! My claws are even sharper!}}
+|-
+{{Spindata/MDTDS|col=6|type=Ground|ndex=028
+|body=1
+|rate=0.5
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Ground|ndex=028
+|coset=3
+|conto={{p|Sandshrew}}, {{p|Onix}}
+|recruitment=Deliver a letter from {{p|Sandshrew}} to Sandslash in [[Noe Town]]
+|P1=My name is Sandslash! My moves can cut you in a flash! I belong to [[Team#Explorers of Time, Explorers of Darkness, and Explorers of Sky|Team Razor Wind]]!
+|P2=Oh no! My spikes can't take it for long...
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|field=Tunnel
+|fieldpower=1
+|num=195
+|browser=It hurls lumps of sand to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|field=Cut
+|fieldpower=3
+|num=181
+|pastnum=011
+|browser=It triggers tremors and opens fissures that make Pokémon Paused.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ground
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ground
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ground|ndex=028
+|walk=1.58
+|hp=54
+|attack=77
+|defense=56
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ground|ndex=028
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Ground|ndex=028|num=681
+|min=60
+|max=111
+|raisemaxlevel=7
+|skill=Counterattack
+|skilldesc=Deals even more damage the more disruptions there are.
+|swapper=Sand Sport
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=028
+|hatch=N/A
+|buddy=3
+|candy=Sandshrew
+|evolution=N/A
+|stamina=181
+|attack=182
+|defense=175
+|fast={{m|Metal Claw}}, {{m|Mud Shot}}, {{m|Sand Attack}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Earthquake}}, {{m|Rock Tomb}}, {{m|Bulldoze}}, {{m|Scorching Sands}}{{tt|*|From September 1, 2023 onward}}, {{m|Night Slash}}{{tt|†|Event-exclusive from Sandshrew Community Day}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+====Alolan Sandslash====
+{{Spindata/Head|type=Ice|type2=Steel}}
+{{Spindata/Shuffle|col=6|type=Ice|ndex=028A|stype=Ice|num=681
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Ice Dance
+|skilldesc=Increases damage done by Ice types in the combo.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ice|ndex=028A
+|walk=1.58
+|hp=54
+|attack=77
+|defense=58
+|speed=60
+}}
+|-
+{{Spindata/GO|col=6|type=Ice|ndex=028A
+|hatch=N/A
+|buddy=3
+|candy=Sandshrew
+|evolution=N/A
+|stamina=181
+|attack=177
+|defense=195
+|fast={{m|Metal Claw}}, {{m|Powder Snow}}, {{m|Shadow Claw}}{{tt|†|Event-exclusive from Sandshrew Community Day}}
+|special={{m|Blizzard}}, {{m|Gyro Ball}}, {{m|Bulldoze}}, {{m|Ice Punch}}{{tt|*|From September 27, 2019 onward}}, {{m|Drill Run}}{{tt|*|From June 1, 2023 onward}}, {{m|Aerial Ace}}{{tt|*|From December 1, 2023 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Ice|ndex=028A|pdex=164
+|dex=Thanks to its huge claws, this Pokémon can move through snow as though it were swimming. The ice spikes on its back are even sharper than its claws, and they protect it from just about anything.}}
+|}
+
+===Evolution data===
+====Sandslash====
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=0027
+|name1=Sandshrew
+|type1-1=Ground
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 22}}
+|no2=0028
+|name2=Sandslash
+|type1-2=Ground}}
+
+====Alolan Sandslash====
+{{Evobox-2
+|type1=Ice
+|type2=Steel
+|pictype=sprite
+|no1=0027Sandshrew-Alola
+|name1=Sandshrew
+|form1=Alolan Form
+|type1-1=Ice
+|type2-1=Steel
+|evo1={{Bag/s|Ice Stone|SV}}<br>{{color2|000|Ice Stone}}
+|no2=0028Sandslash-Alola
+|name2=Sandslash
+|form2=Alolan Form
+|type1-2=Ice
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground}}
+{{Spritebox/1|ndex=028}}
+{{Spritebox/2|ndex=028}}
+{{Spritebox/3|ndex=028}}
+{{Spritebox/4|ndex=028}}
+{{Spritebox/5|ndex=028}}
+{{Spritebox/6|ndex=028|crop=69}}
+{{Spritebox/7/2Forms/PE|ndex=028|form1=A|crop=85|PEcrop=176}}
+{{Spritebox/8/2Forms|ndex=028|form1=A|crop=182}}
+<!--{{Spritebox/9|ndex=0028}}-->
+{{Spritebox/HOME/2Forms|ndex=0028|form1=A}}
+{{Spritebox/Footer|028|Sandslash}}
+
+==In animation==
+[[File:Rocket Prize Master Sandslash.png|thumb|250px|Sandslash in {{aniseries|JN}}]]
+[[File:Mount Lanakila Sandslash.png|thumb|250px|Alolan Sandslash in {{aniseries|SM}}]]
+===Main series===
+====Major appearances====
+In ''[[M01|Mewtwo Strikes Back]]'', [[Corey]]'s Sandslash was captured and cloned by {{OBP|Mewtwo|M01}}. When {{TRT}} saw it being cloned, it was mistaken for its pre-evolved form, Sandshrew. The Sandslash clone was seen again in ''[[Mewtwo Returns]]''. Corey's Sandslash reappeared in ''[[M22|Mewtwo Strikes Back—Evolution]]'', a remake of ''Mewtwo Strikes Back'', where it played the same role.
+
+In ''[[EP141|Good 'Quil Hunting]]'', [[Koji]] used a Sandslash in a {{pkmn|battle}} against {{Ash}} to determine who would keep a {{AP|Cyndaquil}}. Despite its exceptional power and agility, Sandslash ultimately lost to Cyndaquil.
+
+In ''[[EP225|Bulbasaur... the Ambassador!]]'', three Sandslash helped dig a new lake for the {{type|Grass}} Pokémon at [[Professor Oak's Laboratory]].
+
+In ''[[Pokémon Mystery Dungeon: Explorers of Time & Darkness]]'', a Sandslash was a member of Team Razor Wind, along with {{p|Scyther}} and {{p|Zangoose}}. The trio of clawed Pokémon were first seen being blasted out of [[Wigglytuff's Guild]]. Team Razor Wind overheard that [[Team Poképals]] were assigned with the task of traveling to the Labyrinth Cave to get a {{p|Gabite}} Scale for an ailing {{p|Shinx}}, and decided to attempt beating [[Team Poképals]]. Unfortunately for Team Razor Wind, Gabite beat them up. It reappeared alongside its team in ''[[Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness]]''.
+
+In ''[[SM080|Not Caving Under Pressure!]]'', an Alolan Sandslash evolved from an Alolan Sandshrew after touching an [[Ice Stone]]. It gave {{an|Lillie}} an [[Icium Z]] as thanks for helping it battle a {{p|Tyranitar}} that was threatening a home it shared with several other Alolan Sandshrew at [[Mount Lanakila]].
+
+In ''[[JN052|How Are You Gonna Keep 'Em Off of the Farm?]]'', [[James]] pulled a {{DL|Rocket Prize Master|Sandslash}} from the [[Rocket Prize Master]] to battle Ash and [[Goh]], only for it to be defeated by Goh's newly caught {{p|Dugtrio}}.
+
+In [[HZ090]], [[Ann]]'s Sandshrew was revealed to have evolved into a Sandslash.
+
+====Minor appearances====
+Sandslash debuted in ''[[EP033|The Flame Pokémon-athon!]]'', where many of them were at the Laramie Ranch. One was later seen among the Pokémon participating in the [[Big P Pokémon Race]].
+
+In ''[[EP047|A Chansey Operation]]'', an injured Sandslash was brought to the clinic.
+
+In ''[[PK01|Pikachu's Vacation]]'', a Sandslash was at the [[Pokémon Theme Park]].
+
+In ''[[EP071|To Master the Onixpected]]'', a Sandslash was stuck between the rocky body segments of [[Bruno's Onix|a giant Onix]] and causing so much pain that the Rock Snake Pokémon rampaged until [[Bruno]] freed it.
+
+In ''[[EP075|Round One - Begin!]]'', a {{pkmn|Trainer}}'s Sandslash competed in the [[Indigo Plateau Conference]].
+
+In ''[[M02|The Power of One]]'', a Sandslash sensed the disturbance caused by [[Lawrence III]].
+
+A {{pkmn2|wild}} Sandslash appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP108|Pokémon Double Trouble]]'', a Sandslash was working out at the [[Kumquat Gym]].
+
+In ''[[EP146|Tricks of the Trade]]'', a Sandslash was at the [[Pokémon Swap Meet]] in [[Palmpona]].
+
+In ''[[EP204|Right On, Rhydon!]]'', [[Pietra]] uses a Sandslash for her digging project.
+
+A Sandslash appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+A Sandslash appeared in ''[[EP219|Hi Ho Silver...Away!]]'', under the ownership of [[Jenaro]].
+
+A Sandslash appeared in ''[[The Legend of Thunder!]]''.
+
+In ''[[EP245|Will the Real Oak Please Stand Up?]]'', a Sandslash appeared in [[Nurse Joy]]'s poem.
+
+A Sandslash appeared in ''[[AG023|Gone Corphishin']]''.
+
+A Sandslash made a brief cameo in ''[[M07|Destiny Deoxys]]''.
+
+In ''[[AG135|Numero Uno Articuno]]'', [[Noland]]'s Sandslash was among the Pokémon residing at the {{gdis|Battle Factory|III}}.
+
+A Sandslash appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+In ''[[DP008|Gymbaliar!]]'', a male Trainer used a Sandslash to battle a {{pkmn2|wild}} {{TP|Brock|Croagunk}} while it was under Jessie's command.
+
+A Sandslash made a brief cameo in ''[[M11|Giratina and the Sky Warrior]]''.
+
+Multiple Sandslash made a cameo in ''[[M12|Arceus and the Jewel of Life]]''.
+
+In ''[[DP140|Historical Mystery Tour!]]'', {{an|Barry}} encountered multiple Sandslash in [[Xatu's Forest]].
+
+A Trainer's Sandslash appeared in ''[[BW103|Curtain Up, Unova League!]]''.
+
+In ''[[M17|Diancie and the Cocoon of Destruction]]'', a Sandslash was a resident of [[Allearth Forest]].
+
+A Trainer's Sandslash appeared in a flashback in ''[[SM001|Alola to New Adventure!]]''.
+
+A Sandslash appeared in ''[[M20|I Choose You!]]''.
+
+In ''[[M21|The Power of Us]]'', a Sandslash participated in the effort to put out a fire.
+
+In ''[[SM125|A Timeless Encounter!]]'', an {{tc|Ace Trainer}}'s Sandslash battled [[Hala]] and his {{p|Makuhita}} in a flashback, but was defeated.
+
+In ''[[SM129|Battle Royal 151!]]'', a Trainer's Alolan Sandslash competed in the [[Battle Royal]] preliminary round of the [[Manalo Conference]] but was defeated by {{TP|Kiawe|Turtonator}}.
+
+A Sandslash appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Trainer's Sandslash appeared in ''[[JN141|A Squad's Worth of Passion!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP071|Sandslash|Ash's Pokédex|Sandslash, the Mouse Pokémon. The evolved form of {{p|Sandshrew}}. It attacks opponents with the quills on its back.}}
+{{Animedexfooter/Pokémon|Kanto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP008|Sandslash|Dawn's Pokédex|Sandslash, the Mouse Pokémon. When it runs at full speed, it sends up a thick cloud of sand in order to hide itself.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+
+===Pokémon Origins===
+[[File:Sandshrew Sandslash PO.png|thumb|250px|Sandslash in [[Pokémon Origins]]]]
+In ''[[PO01|File 1: Red]]'', a Sandslash was one of the Pokémon seen in [[Professor Oak]]'s introduction.
+
+A Sandslash appeared in a flashback in ''[[PO02|File 2: Cubone]]''.
+
+===Pokémon Evolutions===
+A Sandslash appeared in ''[[PE08|The Discovery]]'', under the ownership of a {{tc|Youngster}}. It was used to challenge {{ga|Green}} to a battle and lost almost immediately.
+{{-}}
+
+==In the manga==
+[[File:Giovanni Sandslash PM.png|thumb|left|150px|Sandslash in [[Pokémon Pocket Monsters]]]]
+===Pokémon Adventures===
+====Minor appearances====
+Sandslash debuted in ''[[PS043|Sea Sea Seadra]]'', where it and a {{pkmn2|wild}} {{p|Weezing}} appeared behind {{adv|Bill}}, still showing the ecology in [[Viridian Forest]] hasn't changed back to normal in two years.
+
+In ''[[PS119|A Flaaffy Kerfuffle]]'', a Sandslash appeared as one of the Pokémon in {{adv|Professor Oak}}'s fantasy when he explains that {{pkmn|Trainer}}s should only have six Pokémon with them.
+
+Sandslash's most predominant appearance was in ''[[PS145|Sandslash Surprise]]''. While trying to find out their location, {{adv|Gold}} and {{adv|Silver}} are attacked by a swarm of spiky balls, which are revealed to be Sandslash fleeing from the wrath of {{p|Lugia}}.
+
+A Sandslash was seen as one of the Pokémon used by [[Team Magma]], which first appeared in ''[[PS219|What Would You Do for a Whismur?]]''.
+
+A Sandslash appeared in ''[[PS585|Pinsir Changes]]''.
+
+A Sandslash appeared in a flashback in ''[[PS589|Charizard Transforms]]''.
+
+Two {{rf|Alolan}} Sandslash debuted in the {{MangaArc|Sun, Moon, Ultra Sun & Ultra Moon}}<!--[[PASM32]]-->, where it was seen on [[Mount Lanakila]].
+
+===Pokémon Pocket Monsters===
+{{OBP|Giovanni|Pocket Monsters}} was revealed to own a Sandslash in ''[[PM077|Pokémon Hair Salon Opens!!]]'', where he used it in his hair salon.
+
+===Ash & Pikachu===
+Similar to her [[Pokémon the Series|TV]] counterpart, [[Pietra]] owns a Sandslash. It appeared in ''[[SP10|The Grand Rhydon Plan]]''.
+
+==In the TCG==
+{{main|Sandslash (TCG)}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Alolan Sandslash and its Alolan pre-evolved form.
+* In the [[Pokémon Red and Green beta|Pokémon Red and Blue beta]], Sandslash's original name was "Sandstorm".
+* Sandslash and its pre-evolved form both share their {{pkmn|category}} with {{p|Rattata}}, {{p|Raticate}}, {{p|Pikachu}}, {{p|Raichu}}, {{p|Pawmi}}, and {{p|Pawmo}}. They are all known as the Mouse Pokémon, though Rattata and Raticate were originally called the Rat Pokémon prior to [[Generation III]].
+
+===Origin===
+{{bulbanews|On the Origin of Species: Sandshrew and Sandslash}}
+Sandslash shares various physical traits with the {{wp|pangolin}}. It may also draw from {{wp|hedgehog}}s, {{wp|porcupine}}s, and {{wp|echidna}}s due to its coloration and having spikes instead of scales. Both Sandshrew and Sandslash are mentioned to have poisonous claws, similar to how some species of the {{wp|shrew}} are venomous.
+
+Alolan Sandslash's quills resemble {{wp|icicle}}s and its hooked claws combined with its ability to ice climb seem to be inspired by {{wp|ice axe}}s.
+
+====Name origin====
+Sandslash may be a combination of ''sand'' and ''slash''.
+
+Sandpan may be a combination of ''sand'' and ''{{wp|pangolin}}''.
+
+==In other languages==
+{{Other languages|type=Ground|type2=Ground
+|ja=サンドパン ''Sandpan''|jameaning=From ''sand'' and ''pangolin''
+|fr=Sablaireau|frmeaning=From ''{{tt|sable|sand}}'' and ''{{tt|blaireau|badger}}''
+|es=Sandslash|esmeaning=Same as English name
+|de=Sandamer|demeaning=From ''sand'', ''armadillo'', and the proverb ''{{tt|Wie Sand am Meer|like sand on the beach}}''
+|it=Sandslash|itmeaning=Same as English name
+|ko=고지 ''Koji''|komeaning=From {{tt|고슴도치 ''goseumdochi''|hedgehog}} and {{tt|두더지 ''dudeoji''|mole}}
+|zh_cmn=穿山王 ''Chuānshānwáng''|zh_cmnmeaning=From {{wp|Pangolin|{{tt|穿山甲 ''chuānshānshǔjiǎ''|pangolin}}}} and {{tt|王 ''wáng''|king}}
+|zh_yue=穿山王 ''Chyūnsāanwòhng''|zh_yuemeaning=From {{wp|Pangolin|{{tt|穿山甲 ''chyūnsāangaap''|pangolin}}}} and {{tt|王 ''wòhng''|king}}
+|he=סנדסלאש ''Sendslash''|hemeaning=Transcription of English name
+|hi=सैंडस्लैश ''Sandslash''|himeaning=Transcription of English name
+|lt=Žvyrius|ltmeaning=From ''{{tt|žvyras|gravel}}''
+|ru=Сэндслэш ''Sendslesh''|rumeaning=Transcription of English name
+|th=แซนด์แพน ''Saenphaen''|thmeaning=Transcription of Japanese name
+}}
+
+<br clear="left">
+
+==Related articles==
+* [[Regional form]]
+
+==References==
+<references />
+
+==External links==
+{{Alolan forms}}
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0027|prev=Sandshrew|nextnum=0029|next=Nidoran♀}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Blue-colored Pokémon]]<!--Alolan Sandslash-->
+[[Category:Pokémon that appear in Pokémon Snap]]
+
+[[de:Sandamer]]
+[[es:Sandslash]]
+[[fr:Sablaireau]]
+[[it:Sandslash]]
+[[ja:サンドパン]]
+[[zh:穿山王]]

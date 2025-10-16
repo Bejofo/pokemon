@@ -1,0 +1,401 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Fighting}}
+{{PokémonPrevNext/GO|species=Pawmot}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0922|prev=Pawmo|nextnum=0924|next=Tandemaus|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Pawmot
+|jname=パーモット
+|jtranslit=Pāmotto
+|tmname=Parmot
+|ndex=0923
+|type1=Electric
+|type2=Fighting
+|category=Hands-On
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=90.4
+|weight-kg=41.0
+|abilityn=2
+|ability1=Volt Absorb
+|ability2=Natural Cure
+|abilityd=Iron Fist
+|egggroupn=1
+|egggroup1=Field
+|egggroup2=
+|eggcycles=15
+|evtotal=3
+|evhp=0
+|evat=3
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=245
+|lv100exp=1000000
+|gendercode=127
+|color=Yellow
+|catchrate=45
+|body=06
+|pokefordex=pawmot
+|generation=9
+|friendship=50
+}}
+'''Pawmot''' ([[List of Japanese Pokémon names|Japanese]]: '''パーモット''' ''Parmot'') is a dual-type {{2t|Electric|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Pawmo}} when leveled up while outside of its [[Poké Ball]] after the player walks 1000 [[step counting|steps]] using the [[Let's Go!]] feature.<ref>https://twitter.com/Sibuna_Switch/status/1678027317891694593</ref><ref>https://twitter.com/Sibuna_Switch/status/1680044846403272704</ref> It is the final form of {{p|Pawmi}}.
+
+==Biology==
+[[File:Masters EX Nemona Debut Artwork.png|thumb|left|150px|Pawmot's forepaws discharging electricity]]
+Pawmot is a stout, bipedal, rodent-like Pokémon that has a body that is almost entirely orange, with tan colorations on its forepaws, snout, and long, fluffy tail, and green on the insides of its ears. Its face has beady brown eyes, a tiny nose, and yellow electric sacs on its cheeks. It has shaggy tufts of fur on its forehead and near its ears, as well as on its neck which forms a collar. Pawmot has five fingers on its considerably large forelimbs, which stretch down to its tiny feet. The colorations on its forelimbs create a zigzag pattern. It has yellow pads on its forepaws which turn teal-blue when it uses electric attacks.
+
+Although Pawmot's reaction speed is normally low, it is able to strike opponents with fast movements when battling. The fluffy fur on its body acts like a battery, allowing Pawmot to store as much electricity as in an electric car. As mentioned in [[Pokémon Sleep]], Pawmot has a peaceful personality. On occasion, Pawmot will heal injured Pokémon by discharging electricity from its forepaws. If Pawmot raises its paws while it sleeps, it is possibly dreaming of tending to other Pokémon.
+
+Pawmot is the [[signature move|only known Pokémon]] capable of learning the move {{m|Double Shock}}.
+{{left clear}}
+
+===Evolution===
+Pawmot evolves from {{p|Pawmo}} and is the final form of {{p|Pawmi}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|type1=Electric
+|type2=Fighting
+|no1=0921
+|name1=Pawmi
+|type1-1=Electric
+|evo1=
+|no2=0922
+|name2=Pawmo
+|type1-2=Electric
+|type2-2=Fighting
+|evo2=
+|no3=0923
+|name3=Pawmot
+|type1-3=Electric
+|type2-3=Fighting}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric|type2=Fighting}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=24|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Pawmot's fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fighting color dark}}; background:#{{electric color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{electric color light}}; background:#{{electric color light}} | [[File:Pokédex Image Pawmot SV.png|x200px]]
+|-
+| Pawmot in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Electric|type2=Fighting}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Paldea)|Pawmot|5★}}, {{DL|List of 6★ Tera Raid Battles (Paldea)|Pawmot|6★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric|type2=Fighting}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Master 9)<small>(Holiday 2024 only)</small><br>[[Snowdrop Tundra]] (from Master 4)<br>[[Old Gold Power Plant]] (from Master 2)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Ultra 2)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Poké Fair [[sync pair scout]]: {{sync|Nemona|Pawmot}}}}
+{{Availability/Entry1|1|v=UNITE|t=FFF|color={{violet color}}|area=Purchase for 13,000 Aeos Coins/790 Aeos Gems}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Electric|type2=Fighting}}
+{{eventAvail|{{gameabbrev9|SV}}|YOASOBI's Pawmot|All|Online|20|March 13, 2024 to February 28, 2025|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#YOASOBI's Pawmot}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|type2=Fighting
+|HP=70
+|Attack=115
+|Defense=70
+|SpAtk=70
+|SpDef=60
+|Speed=105
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Fighting
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|voltabsorb=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Pawmot|Electric|Fighting|9}}
+{{learnlist/level9|1|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Revival Blessing|Normal|Status|—|—|1}}
+{{learnlist/level9|3|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|6|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|8|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|12|Nuzzle|Electric|Physical|20|100|20||'''}}
+{{learnlist/level9|15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level9|19|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|23|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|25|Arm Thrust|Fighting|Physical|15|100|20||'''}}
+{{learnlist/level9|29|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|33|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level9|39|Entrainment|Normal|Status|—|100|15}}
+{{learnlist/level9|44|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/level9|49|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|54|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|60|Double Shock|Electric|Physical|120|100|5||'''}}
+{{learnlist/levelf/9|Pawmot|Electric|Fighting|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Pawmot|Electric|Fighting|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM009|Thunder Fang|Electric|Physical|65|95|15||'''}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM064|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM069|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM167|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM210|Supercell Slam|Electric|Physical|100|95|15||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM213|Coaching|Fighting|Status|—|—|10}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM229|Upper Hand|Fighting|Physical|65|100|15||'''}}
+{{learnlist/tmf/9|Pawmot|Electric|Fighting|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Pawmot|Electric|Fighting|9}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth}}{{MSP/H|0052|Meowth|form=-Alola}}{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0053|Persian}}{{MSP/H|0053|Persian|form=-Alola}}{{MSP/H|0863|Perrserker}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0677|Espurr}}{{MSP/H|0678|Meowstic}}|Fake Out|Normal|Physical|40|100|10|grid=6}}
+{{learnlist/breed9|{{MSP/H|0391|Monferno}}{{MSP/H|0392|Infernape}}|Mach Punch|Fighting|Physical|40|100|30||'''|grid=6}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026|Raichu|form=-Alola}}{{MSP/H|0417|Pachirisu}}|Sweet Kiss|Fairy|Status|—|75|10|grid=6}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10|grid=6}}
+{{learnlist/breedf/9|Pawmot|Electric|Fighting|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Pawmot|Electric|Fighting|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Pawmot|Electric|Fighting|9}}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Fighting}}
+{{Spindata/GO|col=6|type=Electric|ndex=0923
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=172
+|attack=232
+|defense=141
+|fast={{m|Spark}}, {{m|Charge Beam}}, {{m|Low Kick}}, {{m|Thunder Shock}}{{tt|*|From June 1, 2025 onward}}
+|special={{m|Thunderbolt}}, {{m|Discharge}}, {{m|Wild Charge}}, {{m|Close Combat}}, {{m|Thunder Punch}}{{tt|*|From June 3, 2024 onward}}, {{m|Brick Break}}{{tt|†|Event-exclusive from Pawmi Community Day}}
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0923
+|pokemon=Pawmi
+|sleeptype=Snoozing
+|type=Electric
+|dexentry=Pawmot has a peaceful personality and sometimes heals injured Pokémon by discharging electricity from its forepaws. If you see it raising its paws while it sleeps, it may be tending to other Pokémon in its dreams.
+|sleepstyle1=Curled-Up Sleep
+|sleepstyle2=Dreamy Healing Sleep
+|sleepstyle3=Electrifying Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=22
+|specialty=Skills
+|berry=Grepa
+|ingredient1=Soothing Cacao
+|ingredient2=Moomoo Milk
+|ingredient3=Fancy Egg
+|carrylimit=18
+|skillname=Energy for Everyone S
+|skilldesc=Restores 5 Energy to each helper Pokémon on your team
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Electric
+|type2=Fighting
+|no1=0921
+|name1=Pawmi
+|type1-1=Electric
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 18}}
+|no2=0922
+|name2=Pawmo
+|type1-2=Electric
+|type2-2=Fighting
+|evo2={{bag/s|Rare Candy|SV}} + [[File:Footwear icon.png|40px]]<br>{{color2|000|Level|Level up}}<br>whilst outside of its {{color2|000|Poké Ball}} after walking<br>1,000 {{color2|000|step counting|steps}} using the {{color2|000|Let's Go!}} feature
+|no3=0923
+|name3=Pawmot
+|type1-3=Electric
+|type2-3=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=electric|type2=fighting}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0923}}-->
+{{Spritebox/HOME|ndex=0923}}
+{{Spritebox/Footer|923|Pawmot}}
+
+==In animation==
+[[File:Nemona Pawmot.png|thumb|250px|Pawmot in {{aniseries|HZ}}]]
+[[File:Nemona Pawmot Terastal.png|thumb|left|250px|Tera Pawmot in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Pawmot debuted in ''[[HZ046|Welcome to Naranja Academy!]]'', where it was revealed that {{an|Nemona}}'s {{p|Pawmo}} had [[Evolution|evolved]]. In [[HZ101]], Nemona {{Tera}}stallized Pawmot into a {{t|Fighting}} [[type]] during her [[Double Battle]] against [[Roy]].
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ048|Pawmot|Roy's Rotom Phone|Pawmot, the Hands-On Pokémon. An {{t|Electric}} and {{t|Fighting}} type. It's normally easygoing and serene, but in battle, it becomes powerfully quick and intense as it beats its opponents down.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Biri-Biri===
+A Pawmot appeared in the music video for [[Biri-Biri]], under the ownership of [[Nemona]].
+
+===POKÉTOON===
+A Pawmot appeared in [[PT09]], alongside its pre-evolved forms.
+
+==In the manga==
+==In the TCG==
+{{main|Pawmot (TCG)}}
+
+==Other appearances==
+[[File:UNITE Pawmot.png|150px|thumb|Pawmot in [[Pokémon UNITE]]]]
+===[[Pokémon UNITE]]===
+{{main|Pawmot (UNITE)}}
+Pawmot is playable through obtaining a Unite License. It is a melee all-rounder that starts as Pawmi and evolves into Pawmo at level 5, which evolves into Pawmot at level 7.{{-}}
+
+==Trivia==
+* Pawmot has the highest base stat total out of all the [[electric rodents]].
+
+===Concept and development===
+Pawmot and its pre-Evolutions were designed by [[Atsuko Nishida]],<ref>[https://www.instagram.com/coloatsu/p/DDCg3wKPJDR/ Instagram post by Atsuko Nishida (@coloatsu) on the Paldean Pokémon designed by her.] Posted on December 1, 2024.</ref> who was responsible for designing {{p|Pikachu}} and {{p|Raichu}}.
+
+===Origin===
+Pawmot seems to be based on a {{wp|marmot}}, such as the {{wp|alpine marmot}}, which was reintroduced in 1948 to the {{wp|Pyrenees}} mountain range at the border of Spain and France, after its disappearance in the region following the end of the {{wp|Pleistocene}} epoch. Pawmot's ability to discharge electricity from its paws may be inspired by {{wp|Defibrillation|defibrillator}}s. Both aspects may attribute to its ability to learn {{m|Revival Blessing}}.
+
+====Name origin====
+Pawmot may be a combination of ''{{p|Pawmi}}'' or ''{{p|Pawmo}}'' and ''marmot''.
+
+Parmot may be a combination of パモ ''Pamo'' (Pawmi) or パモット ''Pamot'' (Pawmo) and ''marmot''.
+
+==In other languages==
+{{Other languages|type=Electric|type2=Fighting
+|ja=パーモット ''Parmot''|jameaning=From {{p|Pawmi|パモ ''Pamo''}}, {{p|Pawmo|パモット ''Pamot''}}, and ''marmot''
+|fr=Pohmarmotte|frmeaning=From ''{{tt|Pohm|Pawmi}}'' and ''{{tt|marmotte|marmot}}''
+|es=Pawmot|esmeaning=Same as English name
+|de=Pamomamo|demeaning=From ''{{tt|Pamo|Pawmi}}'' and ''{{tt|Pamamo|Pawmo}}''
+|it=Pawmot|itmeaning=Same as English name
+|ko=빠르모트 ''Ppareumoteu''|komeaning=Transcription of Japanese name
+|zh_cmn=巴布土撥 / 巴布土拨 ''Bābùtǔbō''|zh_cmnmeaning=From {{tt|巴掌 ''bāzhang''|palm}}, {{tt|布 ''bù''|cloth}} and {{tt|土撥鼠 / 土拨鼠 ''tǔbōshǔ''|marmot}}
+|zh_yue=巴布土撥 ''Bāboutóubuht''|zh_yuemeaning=From {{tt|巴掌 '' bājéung''|palm}}, {{tt|布 ''bou''|cloth}} and {{tt|土撥鼠 ''tóubuhtsyú''|marmot}}
+|hi=पाम्फ़िया ''Paamfiya''|himeaning=From ''palm'' and {{p|Pawmo|पंफ़िया ''Pumfiya''}}
+|th=เพอร์ม็อต ''Phoemot''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Electric rodents]]
+* [[Pawmot (UNITE)]]
+
+==References==
+<references/>
+
+==External links==
+{{Electric rodents}}
+{{PokémonPrevNext/Head|type=Electric|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0922|prev=Pawmo|nextnum=0924|next=Tandemaus}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pamomamo]]
+[[es:Pawmot]]
+[[fr:Pohmarmotte]]
+[[it:Pawmot]]
+[[ja:パーモット]]
+[[zh:巴布土拨]]

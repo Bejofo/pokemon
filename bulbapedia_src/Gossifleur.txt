@@ -1,0 +1,306 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Gossifleur}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0828|prev=Thievul|nextnum=0830|next=Eldegoss|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Gossifleur
+|jname=ヒメンカ
+|tmname=Himenka
+|ndex=0829
+|type1=Grass
+|category=Flowering
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=4.9
+|weight-kg=2.2
+|abilityn=d
+|ability1=Cotton Down
+|ability2=Regenerator
+|abilityd=Effect Spore
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=1
+|evsd=1
+|expyield=50
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|catchrate=190
+|body=05
+|pokefordex=gossifleur
+|generation=8
+|friendship=50
+}}
+'''Gossifleur''' ([[List of Japanese Pokémon names|Japanese]]: '''ヒメンカ''' ''Himenka'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Eldegoss}} starting at [[level]] 20.
+
+==Biology==
+Gossifleur is a small, plantlike {{OBP|Pokémon|species}} with a large, yellow flower on its head. This flower covers most of its cream-colored head, which has a green stripe down its forehead and two yellow eyes with black sclerae. It has red, hair-like growths surrounding the back of its head and a green stem-like body.
+
+Gossifleur prefers living in lands with clean water and air. The pollen it produces has a healing effect, and it used to be made into a tea as a common folk remedy given to sick children in the [[Galar]] [[region]]. Gossifleur can travel long distances by riding the wind, controlling which direction it goes by twisting its body and petals.<ref>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/gossifleur/ Gossifleur | Official Website | Pokémon Sword and Pokémon Shield]</ref> While it travels, it starts to sing a joyous song that is said to charm many people into raising it. Gossifleur can anchor itself to the ground to bask in the sunlight. When it absorbs enough sunlight, it blooms brilliantly. {{p|Cutiefly}} are drawn in by Gossifleur's pollen.
+
+Gossifleur and its Evolution, {{p|Eldegoss}}, are the [[Signature Ability|only known Pokémon]] that can have {{a|Cotton Down}} as an [[Ability]].
+
+===Evolution===
+Gossifleur evolves into {{p|Eldegoss}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Grass
+|pictype=art
+|no1=0829
+|name1=Gossifleur
+|type1-1=Grass
+|evo1=
+|no2=0830
+|name2=Eldegoss
+|type1-2=Grass}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=126|reg2=Galar|label2=Crown Tundra|num2=166|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Route]]s {{rtn|2|Galar}} and {{rtn|3|Galar}}, [[Motostoke Riverbank]]<br>[[Bridge Field/Dens|Bridge Field]],  [[Dappled Grove/Dens|Dappled Grove]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Ballimere Lake]]<br>[[Slippery Slope/Dens|Slippery Slope]], [[Crown Shrine/Dens|Crown Shrine]], [[Giant's Foot/Dens|Giant's Foot]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Grass|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17|September 1 to 30, 2020|link=Wild Area News#September 1 to 30, 2020}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|HP=40
+|Attack=40
+|Defense=60
+|SpAtk=40
+|SpDef=60
+|Speed=10
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Gossifleur|Grass|Grass|8}}
+{{learnlist/level8|1|Leafage|Grass|Physical|40|100|40||'''}}
+{{learnlist/level8|1|Sing|Normal|Status|—|55|15}}
+{{learnlist/level8|4|Rapid Spin|Normal|Physical|50|100|40}}
+{{learnlist/level8|8|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level8|12|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level8|16|Round|Normal|Special|60|100|15}}
+{{learnlist/level8|21|Leaf Tornado|Grass|Special|65|90|10||'''}}
+{{learnlist/level8|24|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/level8|28|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/level8|32|Aromatherapy|Grass|Status|—|—|5}}
+{{learnlist/level8|36|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/8|Gossifleur|Grass|Grass|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Gossifleur|Grass|Grass|8}}
+{{learnlist/tm8|TM10|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM50|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM88|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tr|TR71|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tr|TR96|Pollen Puff|Bug|Special|90|100|15}}
+{{learnlist/tmf/8|Gossifleur|Grass|Grass|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Gossifleur|Grass|Grass|8}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|043|Oddish}}{{MSP/8c|044|Gloom}}{{MSP/8c|045|Vileplume}}{{MSP/8c|182|Bellossom}}{{MSP/8c|114|Tangela}}{{MSP/8c|465|Tangrowth}}{{MSP/8c|273|Seedot}}{{MSP/8c|274|Nuzleaf}}{{MSP/8c|275|Shiftry}}{{MSP/8c|315|Roselia}}{{MSP/8c|407|Roserade}}{{MSP/8c|420|Cherubi}}{{MSP/8c|421|Cherrim}}{{MSP/8c|546|Cottonee}}{{MSP/8c|547|Whimsicott}}{{MSP/8c|556|Maractus}}{{MSP/8c|590|Foongus}}{{MSP/8c|591|Amoonguss}}{{MSP/8c|708|Phantump}}{{MSP/8c|709|Trevenant}}{{MSP/8c|753|Fomantis}}{{MSP/8c|754|Lurantis}}{{MSP/8c|764|Comfey}}{{MSP/8c|841|Flapple}}{{MSP/8c|842|Appletun}}|Growth|Normal|Status|—|—|20}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|102|Exeggcute}}{{MSP/8c|103|Exeggutor}}{{MSP/8c|103A|Exeggutor}}{{MSP/8c|315|Roselia}}{{MSP/8c|407|Roserade}}{{MSP/8c|420|Cherubi}}{{MSP/8c|421|Cherrim}}{{MSP/8c|546|Cottonee}}{{MSP/8c|547|Whimsicott}}{{MSP/8c|556|Maractus}}{{MSP/8c|708|Phantump}}{{MSP/8c|709|Trevenant}}{{MSP/8c|764|Comfey}}{{MSP/8c|841|Flapple}}{{MSP/8c|842|Appletun}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|043|Oddish}}{{MSP/8c|044|Gloom}}{{MSP/8c|045|Vileplume}}{{MSP/8c|182|Bellossom}}{{MSP/8c|114|Tangela}}{{MSP/8c|465|Tangrowth}}{{MSP/8c|546|Cottonee}}{{MSP/8c|547|Whimsicott}}|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|043|Oddish}}{{MSP/8c|044|Gloom}}{{MSP/8c|045|Vileplume}}{{MSP/8c|182|Bellossom}}{{MSP/8c|114|Tangela}}{{MSP/8c|465|Tangrowth}}{{MSP/8c|755|Morelull}}{{MSP/8c|756|Shiinotic}}|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/breed8|{{MSP/8c|043|Oddish}}{{MSP/8c|044|Gloom}}{{MSP/8c|045|Vileplume}}{{MSP/8c|182|Bellossom}}{{MSP/8c|114|Tangela}}{{MSP/8c|465|Tangrowth}}{{MSP/8c|315|Roselia}}{{MSP/8c|407|Roserade}}{{MSP/8c|546|Cottonee}}{{MSP/8c|547|Whimsicott}}{{MSP/8c|590|Foongus}}{{MSP/8c|591|Amoonguss}}|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|102|Exeggcute}}{{MSP/8c|103|Exeggutor}}{{MSP/8c|103A|Exeggutor}}{{MSP/8c|315|Roselia}}{{MSP/8c|407|Roserade}}{{MSP/8c|420|Cherubi}}{{MSP/8c|421|Cherrim}}|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/breedf/8|Gossifleur|Grass|Grass|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Gossifleur|Grass|Grass|8}}
+{{learnlist/tutor8|Grassy Glide|Grass|Physical|70|100|20||'''|no|yes}}
+{{learnlist/tutorf/8|Gossifleur|Grass|Grass|8}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/GO|col=6|type=Grass|ndex=0829
+|hatch=N/A
+|buddy=3
+|candy=Gossifleur
+|evolution=50
+|stamina=120
+|attack=70
+|defense=104
+|fast={{m|Razor Leaf}}, {{m|Bullet Seed}}
+|special={{m|Energy Ball}}, {{m|Grass Knot}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Grass
+|pictype=art
+|no1=0829
+|name1=Gossifleur
+|type1-1=Grass
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0830
+|name2=Eldegoss
+|type1-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=829}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0829}}
+{{Spritebox/Footer|829|Gossifleur}}
+
+==In animation==
+===Main series===
+[[File:Gossifleur anime.png|thumb|250px|Gossifleur in {{aniseries|JN}}]]
+====Major appearances====
+A group of six Gossifleur made their animated series debut in ''[[JN100|Meeting Up with the Monarch!]]'', where {{DL|List of Goh's Pokémon|Gossifleur|one of them}} was {{pkmn2|caught}} by [[Goh]].
+
+====Minor appearances====
+Gossifleur debuted in ''[[M23|Secrets of the Jungle]]''.
+
+Multiple Gossifleur appeared in ''[[JN122|It's... Champion Time!]]''. {{Ash}}, Goh, {{an|Cynthia}}, [[Vic]], and [[Toria]] witnessed one of them evolving into an {{p|Eldegoss}}.
+
+A {{pkmn|Trainer}}'s Gossifleur appeared in ''[[HZ048|Sparkle! The Glow of Flame and Art]]''.
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN100|Gossifleur|Goh's Rotom Phone|Gossifleur, the Flowering Pokémon. A {{t|Grass}} type. When Gossifleur sticks its leg into the ground, it sings a happy song, which adds color to its flower petals.}}
+{{Animedexbody|JN122|Gossifleur|Ash's Rotom Phone|Gossifleur, the Flowering Pokémon. A {{t|Grass}} type. Gossifleur floats, twirling on the breeze. There are many people who raise them, enchanted by their lovely singing.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Milo Gossifleur Adventures.png|thumb|150px|Gossifleur in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A Gossifleur first appeared in ''[[PASS06|Watch Out!! Strong Rivals]]'', under the ownership of [[Milo]].
+{{-}}
+
+==In the TCG==
+{{main|Gossifleur (TCG)}}
+==Trivia==
+* Gossifleur shares its {{pkmn|category}} with {{p|Lilligant}}. They are both known as the Flowering Pokémon.
+* Gossifleur is tied with {{p|Ferroseed}} for the lowest base {{stat|Speed}} stat of all {{type|Grass}} Pokémon.
+
+===Origin===
+Gossifleur is inspired by the {{wp|Gossypium|cotton plant}}, specifically its flower. It is also based on a purported legend that {{g|Sword and Shield}} director [[Shigeru Ohmori]] had heard, of how catching cotton balls floating in the air may bring good luck.<ref name=GameInformer>Shea, Brian (October 4, 2019). "[https://web.archive.org/web/20240416175406/https://www.gameinformer.com/gallery/2019/10/04/exclusive-pokemon-sword-and-shield-concept-art-gallery Exclusive Pokémon Sword And Shield Concept Art Gallery]." ''Game Informer'' (Archived on April 16, 2024.)</ref>
+
+Gossifleur may also be a reference to the {{wp|Anemonoides nemorosa|windflower}} (which is common in the {{wp|British Isles}}), or to a variety of {{wp|Folk music|folk songs}} and {{wp|Folk poetry|poems}} dedicated to this plant.
+
+====Name origin====
+Gossifleur may be a combination of ''{{wp|Gossypium}}'' (the cotton plant genus) and ''fleur'' (French for flower). It may also involve ''gossamer'' (light, delicate, silky).
+
+Himenka may be a combination of 姫 ''hime'' (princess; petite), 綿花 ''menka'' (raw cotton), and 花 ''ka'' (flower).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=ヒメンカ ''Himenka''|jameaning=From {{tt|姫 ''hime''|princess; petite}}, {{tt|綿花 ''menka''|raw cotton}}, and {{tt|花 ''ka''|flower}}
+|fr=Tournicoton|frmeaning=From ''{{tt|tournicoter|flit around}}'' and ''{{tt|coton|cotton}}''
+|es=Gossifleur|esmeaning=Same as English name
+|de=Cottini|demeaning=From ''cotton'' and ''tiny'' or ''mini''
+|it=Gossifleur|itmeaning=Same as English name
+|ko=꼬모카 ''Kkomoka''|komeaning=From {{tt|꼬마 ''kkoma''|small child}}, {{tt|꽃 ''kkot''|flower}}, and {{tt|목화 (木花) ''mokhwa''|cotton}}
+|zh_cmn=幼棉棉 ''Yòumiánmián''|zh_cmnmeaning=From {{tt|幼 ''yòu''|young}}, {{tt|棉 ''mián''|cotton}}, and {{tt|幼麵麵 ''iùmīmī''|Hokkien for ''delicate and tender''}}
+|zh_yue=幼棉棉 ''Yaumìhnmìhn''|zh_yuemeaning=From {{tt|幼 ''yau''|young}}, {{tt|棉 ''mìhn''|cotton}}, and {{tt|幼麵麵 ''iùmīmī''|Hokkien for ''delicate and tender''}}
+|hi=फ़्लारुई ''Flaruee''|himeaning=From ''flower'' and {{tt|रूई ''rūī''|cotton}}
+|ru=Госсифлёр ''Gossfliyor''|rumeaning=Transcription of English name
+|th=ฮิเมงกะ ''Himengka''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Eldegoss (UNITE)]]
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0828|prev=Thievul|nextnum=0830|next=Eldegoss}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Galar Pokédex]]
+
+[[de:Cottini]]
+[[es:Gossifleur]]
+[[fr:Tournicoton]]
+[[it:Gossifleur]]
+[[ja:ヒメンカ]]
+[[zh:幼棉棉]]

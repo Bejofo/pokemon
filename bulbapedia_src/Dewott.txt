@@ -1,0 +1,504 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Dewott}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0501|prev=Oshawott|nextnum=0503|next=Samurott|round=none}}
+{{PokémonPrevNext/Disambig|species=Dewott}}
+|}
+{{Pokémon Infobox
+|name=Dewott
+|jname=フタチマル
+|tmname=Futachimaru
+|category=Discipline
+|typebox=1
+|type1=Water
+|abilityn=d
+|ability1=Torrent
+|abilityd=Shell Armor
+|ndex=0502
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=54.0
+|weight-kg=24.5
+|egggroupn=1
+|egggroup1=Field
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=145
+|lv100exp=1,059,860
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=06
+|pokefordex=dewott
+|generation=5
+|friendship=70
+}}
+'''Dewott''' ([[List of Japanese Pokémon names|Japanese]]: '''フタチマル''' ''Futachimaru'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolve]]s from {{p|Oshawott}} starting at [[level]] 17 and evolves into {{p|Samurott}} starting at level 36.
+
+In [[Hisui]], Dewott evolves from Oshawott starting at level 17 and evolves into {{rf|Hisuian}} Samurott starting at level 36.
+
+==Biology==
+[[File:Caesar Razor Shell.png|thumb|250px|left|Dewott using {{m|Razor Shell}} with its [[scalchop]]s]]
+Dewott is a bipedal, otter-like {{OBP|Pokémon|species}} that is primarily light blue. It has small black ears, a pointed crest at the back of its head, a red nose, and long white whiskers forming tilted V-shapes. Two pointed teeth are visible in the upper jaw when its mouth is open. Its forelimbs have three fingers on each black paw. Its feet and flat tail are black. Around its waist is a large, dark blue, fringed arrangement of fur, with two [[Scalchop and seamitar|scalchop]]s on the thighs.
+
+Dewott is known to have a studious and stern nature. Dewott's scalchops are detachable, and Dewott regularly trains to use combat techniques with them; these techniques differ between individual Dewott. It refines its skills through dedicated and repeated training and carefully maintains the quality of each scalchop. Its flowing double-scalchop techniques can defeat even those who master the art of swordsmanship. Humans have modeled their swordplay by observing Dewott's deft movements while wielding its two scalchops. When exposed to the harsh environment of [[Hisui]], Dewott gains an additional {{type|Dark}} when it evolves into {{rf|Hisuian}} {{p|Samurott}}.
+
+===Evolution===
+Dewott evolves from {{p|Oshawott}} and evolves into {{p|Samurott}}
+
+In [[Hisui]], it evolves from Oshawott and evolves into {{rf|Hisuian}} Samurott.
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/2branch2
+|type1=Water
+|no1=0501
+|name1=Oshawott
+|type1-1=Water
+|evo1=
+|no2=0502
+|name2=Dewott
+|type1-2=Water
+|evo2a=
+|no3a=0503
+|name3a=Samurott
+|type1-3a=Water
+|evo2b=
+|no3b=0503
+|name3b=Samurott
+|art3b=0503Samurott-Hisui
+|type1-3b=Water
+|type2-3b=Dark
+|form3b=Hisuian Form}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=008}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Strict training is how it learns its flowing double-scalchop technique.}}
+{{Dex/Entry1|v=White|entry=Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=As a result of strict training, each Dewott learns different forms for using the scalchops.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Strict training is how it learns its flowing double-scalchop technique.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=As a result of strict training, each Dewott learns different forms for using the scalchops.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Strict training is how it learns its flowing double-scalchop technique.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=As a result of strict training, each Dewott learns different forms for using the scalchops.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui|num3=008}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], [[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, and Shining Pearl]]}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=207}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It’s said that people modeled swordplay after the way Dewott’s movements flow like water while it’s wielding its two scalchops.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Dewott has a studious and stern personality. It masters the use of its scalchops through dedicated, repeated training.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{water color dark}}; background:#{{water color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{water color light}}; background:#{{water color light}} | [[File:Pokédex Image Dewott SV Blueberry.png|x200px]]
+|-
+| Dewott in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Evolution|Evolve]] {{p|Oshawott}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Oshawott}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Oshawott}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Oshawott}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Alabaster Icelands]]:''' [[Space-time distortion]]s (after completing [[Task (Legends: Arceus)|Mission]] 18), massive [[mass outbreak]]s (after completing Request 102)}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Oshawott}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Seabreeze Trail]], [[Rugged Flats]], [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Fontaine]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Silent Tundra]] (Uncharted Road), [[Dreamy Island]] (Uncharted Road)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#The Enemies Within|Secret Warehouse: The Enemies Within]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 1|Colossal Forest: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Seabreeze Trail|White Ruins: Seabreeze Trail]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 543]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Hilbert|Oshawott}}<br>[[Trainer Lodge]] Friendship Level 100: {{sync|Rosa|Dewott}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Water}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Sitrus Berry|25|Spoiled Apricorn|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{Base stats
+|HP=75
+|Attack=75
+|Defense=60
+|SpAtk=83
+|SpDef=60
+|Speed=60
+|type=Water
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Dewott|Water|Water|5}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level9|1|Soak|Water|Status|—|100|20}}
+{{learnlist/level9|13|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level9|18|Razor Shell|Water|Physical|75|95|10||'''}}
+{{learnlist/level9|21|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level9|26|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level9|29|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/level9|34|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/level9|37|Encore|Normal|Status|—|100|5}}
+{{learnlist/level9|42|Aqua Tail|Water|Physical|90|90|10||'''}}
+{{learnlist/level9|45|Retaliate|Normal|Physical|70|100|5}}
+{{learnlist/level9|50|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/level9|53|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/9|Dewott|Water|Water|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Dewott|Water|Water|5}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||''}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||''}}
+{{learnlist/tm9|TM046|Avalanche|Ice|Physical|60|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM052|Snowscape|Ice|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM077|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM145|Water Pledge|Water|Special|80|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20||''}}
+{{learnlist/tm9|TM184|Vacuum Wave|Fighting|Special|40|100|30}}
+{{learnlist/tm9|TM196|Flip Turn|Water|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM208|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tmf/9|Dewott|Water|Water|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Dewott|Water|Water|5}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Air Slash|Flying|Special|75|95|15|grid=8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Aqua Cutter|Water|Physical|70|100|20||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0448|Lucario}}|Copycat|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0448|Lucario}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}|Detect|Fighting|Status|—|—|5|grid=8}}
+{{learnlist/breed9|{{MSP/H|0232|Donphan}}{{MSP/H|0570|Zorua}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571-Hisui|Zoroark}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0944|Shroodle}}{{MSP/H|0945|Grafaiai}}|Knock Off|Dark|Physical|65|100|20||''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0051|Dugtrio}}{{MSP/H|0051-Alola|Dugtrio}}{{MSP/H|0052-Alola|Meowth}}{{MSP/H|0053-Alola|Persian}}{{MSP/H|0335|Zangoose}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0461|Weavile}}{{MSP/H|0571|Zoroark}}{{MSP/H|0908|Meowscarada}}|Night Slash|Dark|Physical|70|100|15||''|grid=8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Sacred Sword|Fighting|Physical|90|100|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0052|Meowth}}{{MSP/H|0052-Alola|Meowth}}{{MSP/H|0052-Galar|Meowth}}{{MSP/H|0053|Persian}}{{MSP/H|0053-Alola|Persian}}{{MSP/H|0863|Perrserker}}{{MSP/H|0054|Psyduck}}{{MSP/H|0055|Golduck}}{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0197|Umbreon}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215-Hisui|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0336|Seviper}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0448|Lucario}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}|Screech|Normal|Status|—|85|40|grid=8}}
+{{learnlist/breedf/9|Dewott|Water|Water|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Dewott|Water|Water|5}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Dewott|Water|Water|5}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/PSMD|col=6|type=Water|ndex=502
+|coset=1
+|conto={{p|Emboar}}, {{p|Oshawott}}
+|recruitment=Talk to in [[Serene Village]] or [[Lively Town]]
+|P1=Double-[[Scalchop and seamitar|scalchop]] technique! That's my style!
+|P2=It's tough to know what to do in such a situation…
+|protag=1
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Water|ndex=502
+|walk=1.67
+|hp=54
+|attack=75
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=502
+|strong=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|weak=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=He trains himself to master {{type|Water}} moves. He was captivated by {{P|Oshawott}}'s talent and made him an apprentice.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Water|ndex=502
+|HP=3
+|atk=3
+|def=2
+|spd=2
+|range=3
+|move=Water Pulse
+|ability1=Torrent
+|ability2=Wave Rider
+|ability3=Parry
+|evo=Evolves from {{p|Oshawott}} when its Attack is 54 or higher<br>Evolves into {{p|Samurott}} when its Attack is 104 or higher |
+|link=[[Chikayasu]], [[Morichika]], and '''[[Motochika]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=502
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=502|num=265
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Shock Attack
+|skilldesc=Leaves the foe paralyzed for a longer period of time.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=502
+|hatch=N/A
+|buddy=3
+|candy=Oshawott
+|evocandy=100
+|stamina=181
+|attack=159
+|defense=116
+|fast={{m|Fury Cutter}}, {{m|Water Gun}}
+|special={{m|Aqua Tail}}, {{m|Water Pulse}}, {{m|X-Scissor}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox/2branch2
+|type1=Water
+|no1=0501
+|name1=Oshawott
+|type1-1=Water
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 17}}
+|no2=0502
+|name2=Dewott
+|type1-2=Water
+|evo2a={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 36}}<br>outside of {{color2|000|Hisui}}
+|no3a=0503
+|name3a=Samurott
+|type1-3a=Water
+|evo2b={{bag/s|Rare Candy|SV}} + [[File:Hisui Ribbon IX.png|40px|link=Hisui]]<br>{{color2|000|Level|Level 36}}<br>in {{color2|000|Hisui}}
+|no3b=0503
+|name3b=Samurott
+|art3b=0503Samurott-Hisui
+|type1-3b=Water
+|type2-3b=Dark
+|form3b=Hisuian Form
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=502}}
+{{Spritebox/6|ndex=502|crop=75}}
+{{Spritebox/7|ndex=502|crop=74}}
+{{Spritebox/8/LA|ndex=502|LAcrop=145}}
+<!--{{Spritebox/9|ndex=0502}}-->
+{{Spritebox/HOME|ndex=0502}}
+{{Spritebox/Footer|502|Dewott}}
+
+==In animation==
+[[File:Ann Dewott.png|thumb|250px|Dewott in {{aniseries|HZ}}]]
+===Major appearances===
+In ''[[BW019|A Connoisseur's Revenge!]]'', [[Burgundy]] first used a Dewott during her {{pkmn|battle}} against {{an|Cilan}}, where it was defeated by {{TP|Cilan|Dwebble}}. In ''[[BW071|Search for the Clubultimate!]]'', it was used in a battle against {{an|Iris}}, but it was defeated by {{TP|Iris|Excadrill}}.
+
+In ''[[BW115|The Pokémon Harbor Patrol!]]'', [[Halsey]] used a Dewott to help put out fires. It has a prideful personality, which caused conflicts between it and Halsey's {{p|Watchog}}.
+
+In ''[[BW126|Crowning the Scalchop King!]]'', multiple {{pkmn|Trainer}}s' Dewott, including a Dewott owned by [[Cadbury]] [[nickname]]d Caesar, were taking part in the [[Scalchop King Competition]] at [[Scalchop Island]] in the [[Decolore Islands]].
+
+A Dewott appeared in ''[[JN081|Mad About Blue!]]'', under the ownership of [[Gorman]].
+
+In ''[[HZ046|Welcome to Naranja Academy!]]'', [[Ann]]'s {{p|Oshawott}} was revealed to have [[Evolution|evolved]] into Dewott. It was revealed to have evolved into a {{p|Samurott}} prior to [[HZ090]].
+
+===Minor appearances===
+Dewott debuted in ''[[BW004|The Battle Club and Tepig's Choice!]]'', under the ownership of a Trainer. It was first seen battling a {{p|Servine}}, which it defeated. Dewott's Trainer later challenged {{Ash}} and his {{AP|Pikachu}} to a battle, where it demonstrated surprising agility.
+
+In ''[[BW019|A Connoisseur's Revenge!]]'', multiple Trainers' Dewott were at a [[Poké Mart]] near [[Castelia City]].
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW004|Dewott|Ash's Pokédex|Dewott, the Discipline Pokémon, and the evolved form of {{p|Oshawott}}. Through rigid training, Dewott uses the double-[[Scalchop and seamitar|scalchop]] technique to accomplish its fluid swordsmanship.}}
+{{Animedexfooter/Pokémon|Unova}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN081|Dewott|Goh's Rotom Phone|Dewott, the Discipline Pokémon. A {{t|Water}} type. With its swordsmanship that flows like water, Dewott's skill at using two scalchops results from long and difficult training.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Blake Dewott.png|thumb|250px|Dewott in [[Pokémon Adventures]]]]
+===Pocket Monsters B2 W2 ~ A New Legend ~===
+A Dewott appeared in [[ANL4]], under the ownership of [[Arata]]. It [[Evolution|evolved]] from his Oshawott.
+
+===Pocket Monsters BW: Meetings with the Legends===
+Dewott is {{OBP|Touya|MWL}}'s first Pokémon, as well as his main Pokémon, in [[Pocket Monsters BW: Meetings with the Legends]].
+
+===Pokémon Adventures===
+{{main|Blake's Dewott}}
+{{TP|Blake|Dewott}} is {{adv|Blake}}'s main Pokémon and first appeared in ''[[PS525|The Transfer Student]]''. He used it to defeat [[Hugh]]'s {{p|Trapinch}}, earning his Trainer a [[Pokédex]].
+
+===Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~===
+A Dewott appeared in [[PNA2]], under the ownership of [[Motochika]].
+
+==In the TCG==
+{{main|Dewott (TCG)}}
+
+==Trivia==
+* Dewott was first seen on [[a:File:BW anime height chart.png|concept art]] from {{aniseries|BW}} along with {{p|Servine}}, {{p|Woobat}}, and {{p|Axew}}.
+** Dewott's English name, as well as {{p|Servine}}'s, was officially confirmed through the {{pkmn|animated series}} in ''[[BW004|The Battle Club and Tepig's Choice!]]''.
+* Dewott's evolutionary line is the only Water-type first partner Pokémon evolutionary line that is not part of the {{egg3|Water 1}}.
+* Dewott and its evolutionary relatives were designed by [[Yusuke Ohmura]].<ref>[http://raim2005.blog18.fc2.com/blog-entry-911.html Pokémon Peer interview] [http://pokebeach.com/2010/09/pokemon-peer-interview-translations (Translation by Pokebeach)]</ref>
+* Dewott and its evolutionary relatives are the only pre-[[Generation VIII]] Pokémon in Legends: Arceus to have not been available in previous Generation VIII games.
+
+===Origin===
+{{bulbanews|Pokémon Pia information begins to surface}}
+Dewott is based on a {{wp|sea otter}} and {{wp|samurai}}.<ref name=NintendoInt>[http://web.archive.org/web/20101228065540/http://www.nintendo.co.jp/ds/interview/irbj/sp/index5.html Page 5 of interview with Game Freak, hosted on Nintendo's official website] (Japanese, archived)</ref> Its trait of fighting with its two shells may be based on {{wp|Tessenjutsu}}, a type of martial arts involving the {{wp|Japanese war fan}}. Dewott's evolutionary line as a whole is based on the lifespan of a samurai: from a child ({{p|Oshawott}}), to a young samurai (Dewott), to a military commander ({{p|Samurott}}).<ref name=NintendoInt/>
+
+{{p|Servine}}, {{p|Pignite}}, and Dewott's evolutionary lines are collectively based on Western, Chinese, and Japanese culture respectively, to represent the diversity of the [[Unova]] region.<ref>''Nintendo Dream'' Vol. 201, January 2011 ([http://lavacutcontent.com/ken-sugimori-nintendo-dream-3/ Translation by Dr. Lava])</ref>
+
+====Name origin====
+Dewott may be a combination of ''dew'', ''water'', and ''otter''. It may also involve ''duel'', ''dual'' (referring to the two scalchops it fights with), or ''duo'' (Italian for two, referring to its place in its evolutionary line). Notably, {{wp|Helen DeWitt}} is the name of the author of ''{{wp|The Last Samurai (novel)|The Last Samurai}}''.
+
+Futachimaru may be a combination of 二つ ''futatsu'' (two), 太刀 ''tachi'' (long sword), and 丸 ''maru'' (round; common suffix in male Japanese names).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=フタチマル ''Futachimaru''|jameaning=From {{tt|二つ ''futatsu''|two}}, {{tt|太刀 ''tachi''|long sword}}, and {{tt|丸 ''maru''|round; common suffix in male Japanese names}}
+|fr=Mateloutre|frmeaning=From ''{{tt|matelot|seaman}}'' and ''{{tt|loutre|otter}}''
+|es=Dewott|esmeaning=Same as English name
+|de=Zwottronin|demeaning=From {{tt|''zwei''|two}}, ''Otter'', and {{tt|浪人 ''rōnin''|masterless samurai}}
+|it=Dewott|itmeaning=Same as English name
+|ko=쌍검자비 ''Ssangeomzabi''|komeaning=From {{tt|쌍검 (雙劍) ''ssang'geom''|two swords}} and suffix {{tt|～잡이 ''-jab-i''|handler, user}}
+|zh_cmn=雙刃丸 / 双刃丸''Shuāngrènwán''|zh_cmnmeaning=From {{tt|雙刃 / 双刃 ''shuāngrèn''|double-edged blade}} and the Japanese 丸 ''maru''
+|zh_yue=雙刃丸 ''Sēungyahnyún''|zh_yuemeaning=From {{tt|雙刃 ''sēungyahn''|double-edged blade}} and the Japanese 丸 ''maru''
+|hi=सॉर्डोवार ''Swordovaar''|himeaning=From ''sword'', {{tt|दो ''do''|two}}, and {{tt|तलवार ''talvaar''|sword}}
+|ru=Девотт ''Devott''|rumeaning=Transcription of English name
+|th=ฟุตาจิมารุ ''Futachimaru''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==See also==
+* [[Blake's Dewott]]
+* [[First partner Pokémon]]
+* [[Weaponry in the Pokémon world]]
+* [[Scalchop Island]]
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0501|prev=Oshawott|nextnum=0503|next=Samurott}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational Evolutions]]<!--Hisuian Samurott-->
+[[Category:Pokémon with Hisui-exclusive Evolutions]]<!--Hisuian Samurott-->
+
+[[de:Zwottronin]]
+[[es:Dewott]]
+[[fr:Mateloutre]]
+[[it:Dewott]]
+[[ja:フタチマル]]
+[[zh:双刃丸]]

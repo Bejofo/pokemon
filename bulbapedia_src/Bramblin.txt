@@ -1,0 +1,324 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Bramblin}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0945|prev=Grafaiai|nextnum=0947|next=Brambleghast|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Bramblin
+|jname=アノクサ
+|tmname=Anokusa
+|ndex=0946
+|type1=Grass
+|type2=Ghost
+|category=Tumbleweed
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=1.3
+|weight-kg=0.6
+|abilityn=1
+|ability1=Wind Rider
+|ability2=
+|abilityd=Infiltrator
+|egggroupn=1
+|egggroup1=Grass
+|egggroup2=
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=1
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=55
+|lv100exp=1000000
+|gendercode=127
+|color=Brown
+|catchrate=190
+|body=01
+|pokefordex=bramblin
+|generation=9
+|friendship=50
+}}
+'''Bramblin''' ([[List of Japanese Pokémon names|Japanese]]: '''アノクサ''' ''Anokusa'') is a dual-type {{2t|Grass|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Brambleghast}} when [[level|leveled up]] while outside of its [[Poké Ball]] after the player walks 1000 [[step counting|steps]] using the [[Let's Go!]] feature.<ref>https://twitter.com/Sibuna_Switch/status/1678027317891694593</ref><ref>https://twitter.com/Sibuna_Switch/status/1680044846403272704</ref>
+
+==Biology==
+[[File:Bramblin Wind Riding.png|thumb|left|Wind locomotion.]]
+Bramblin is a {{OBP|Pokémon|species}} that resembles a tumbleweed. It has small, rhombic, black, leaf-like eyes with thin red pupils that float inside its body, which itself comprises brownish yellow, jagged, thorny plant stalks that point up and curl slightly inward to form a spherical shape. The eyes don't blink and instead flip and rotate to express Bramblin's emotions. The stalks are held together by what appears to be the remnants of roots on the underside of its body.
+
+Bramblin are created when wandering souls unable to move on get tangled and fused to dried grass. Bramblin's main form of locomotion is the wind, which blows it uncontrollably to destinations unknown. Bramblin despises getting wet. It makes its habitat in dry, rocky regions such as deserts.
+
+===Evolution===
+Bramblin evolves into {{p|Brambleghast}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Grass
+|type2=Ghost
+|pictype=art
+|no1=0946
+|name1=Bramblin
+|type1-1=Grass
+|type2-1=Ghost
+|evo1=
+|no2=0947
+|name2=Brambleghast
+|type1-2=Grass
+|type2-2=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Ghost}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=242|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Bramblin SV.png|x200px]]
+|-
+| Bramblin in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Ghost}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[East Province (Area Three)|Area Three]]<br>West Province: [[Asado Desert]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Bramblin|2★}})}}
+|}
+|}
+|}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Ghost
+|HP=40
+|Attack=65
+|Defense=30
+|SpAtk=45
+|SpDef=35
+|Speed=60
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=100
+|Bug=100
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Bramblin|Grass|Ghost|9}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level9|1|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|5|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|9|Rapid Spin|Normal|Physical|50|100|40}}
+{{learnlist/level9|13|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|17|Infestation|Bug|Special|20|100|20}}
+{{learnlist/level9|21|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level9|25|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|29|Disable|Normal|Status|—|100|20}}
+{{learnlist/level9|35|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/level9|40|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|45|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level9|50|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/level9|55|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/levelf/9|Bramblin|Grass|Ghost|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Bramblin|Grass|Ghost|9}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM151|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Bramblin|Grass|Ghost|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Bramblin|Grass|Ghost|9}}
+{{learnlist/breed9|{{MSP/H|0275|Shiftry}}|Beat Up|Dark|Physical|—|100|10}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Block|Normal|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/breedf/9|Bramblin|Grass|Ghost|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Ghost}}
+{{Spindata/GO|col=6|type=Grass|ndex=0946
+|hatch=N/A
+|buddy=5
+|candy=Bramblin
+|evocandy=50
+|stamina=120
+|attack=121
+|defense=64
+|fast={{m|Astonish}}, {{m|Bullet Seed}}
+|special={{m|Shadow Sneak}}, {{m|Night Shade}}, {{m|Power Whip}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Grass
+|type2=Ghost
+|pictype=art
+|no1=0946
+|name1=Bramblin
+|type1-1=Grass
+|type2-1=Ghost
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Footwear icon.png|40px]]<br>{{color2|000|Level|Level up}}<br>whilst outside of its {{color2|000|Poké Ball}} after walking<br>1,000 {{color2|000|step counting|steps}} using the {{color2|000|Let's Go!}} feature
+|no2=0947
+|name2=Brambleghast
+|type1-2=Grass
+|type2-2=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=ghost}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0946}}-->
+{{Spritebox/HOME|ndex=0946}}
+{{Spritebox/Footer|946|Bramblin}}
+
+==In animation==
+[[File:Shine Bramblin.png|250px|thumb|Bramblin in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Bramblin made its debut in ''[[HZ035|The Wild Pair, Friede and Cap!]]'', under the ownership of [[Shine]]. It was captured by a group of {{OBP|Pokémon hunters|HZ035}} and later evolved into {{p|Brambleghast}}.
+
+====Minor appearances====
+Multiple Bramblin appeared in ''[[HZ051|The Flower Tower]]''.
+
+A {{tc|Student}}'s Bramblin appeared in ''[[HZ066|Infiltrating the System! Naranja Academy in Danger!]]''.
+
+Two Bramblin appeared in [[HZ108]].
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ035|Bramblin|Roy's Rotom Phone|Bramblin, the Tumbleweed Pokémon. A {{t|Grass}} and {{t|Ghost}} type. This Pokémon is the result of a wandering spirit getting tangled up in dried grass. It tumbles with the wind to destinations unknown.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Paldean Winds===
+[[File:Asado Desert PPW.png|thumb|250px|Bramblin in [[Pokémon: Paldean Winds]]]]
+A {{pkmn2|wild}} Bramblin appeared in ''[[PPW04|Breathe Together]]''.
+{{-}}
+
+==In the manga==
+[[File:Team Star Grunt Bramblin Adventures.png|thumb|210px|Bramblin in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Bramblin debuted in [[PASV14]], under the ownership of a male {{tc|Team Star Grunt}}. It was used to battle {{adv|Violet}}'s {{p|Nymble}}, but lost immediately.
+
+A Bramblin appeared in [[PASV17]].
+{{-}}
+
+==In the TCG==
+{{main|Bramblin (TCG)}}
+
+==Trivia==
+* Bramblin is tied with {{p|Sunkern}} and {{p|Lotad}} for having the lowest base {{stat|Defense}} of all {{type|Grass}} Pokémon.
+
+===Origin===
+Bramblin appears to be based on {{wp|tumbleweed}}s — certain types of plants which, when mature, have most of their cells dry out and die so that the wind can pick them up and allow them to disperse their seeds, hence Bramblin's {{t|Ghost}} type and Ability. Bramblin's secondary Ghost type may also be derived from the association of tumbleweeds with {{wp|ghost town}}s and empty deserts. Its eyes resemble tumbleweed seeds and the two thorns on its sides give the impression of {{wp|devil}} horns.
+
+All of this also suggest that Bramblin may be strongly based on the [https://murciaplaza.com/murciaplaza/animales-fantasticosmurcianos Alicornio], a demon from the {{wp|Region of Murcia|Murcian}} folklore of southern {{wp|Spain|Spain}} that hides itself in a tumbleweed and appears on windy days to snatch the souls of passersby.
+
+Bramblin's cry is reminiscent of the whistling sound at the beginning of {{wp|The Good, the Bad and the Ugly (theme)|the theme from}} ''{{wp|The Good, the Bad and the Ugly}}'', perhaps alluding to the tumbleweed being a common sight in {{wp|Spaghetti Western}} movie scenes. Bramblin not knowing where it is going may reference the drifter character archetype that is a staple of the Western genre. Its Paldean origin may be a nod to the many Westerns filmed in Spain, including ''The Good, the Bad and the Ugly''.
+
+====Name origin====
+Bramblin may be a combination of ''bramble'' and ''rambling'', ''goblin'', or ''gremlin''.
+
+Anokusa may be derived from the phrase あの草 ''ano kusa'' (that grass) and 野草 ''nogusa'' (field grass).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Ghost
+|ja=アノクサ ''Anokusa''|jameaning=From {{tt|あの草 ''ano kusa''|that grass}}
+|fr=Virovent|frmeaning=From ''{{tt|virevoltant|tumbleweed}}'' and ''{{tt|virer au vent|to drift with the wind}}''
+|es=Bramblin|esmeaning=Same as English name
+|de=Weherba|demeaning=From ''{{tt|Wehe|drift}}'', ''{{tt|woher|where from}}'', and Latin ''{{tt|herba|grass}}''
+|it=Bramblin|itmeaning=Same as English name
+|ko=그푸리 ''Geupuri''|komeaning=From {{tt|그 풀 ''geu pul''|that grass}}
+|zh_cmn=納噬草 / 纳噬草 ''Nàshìcǎo''|zh_cmnmeaning=From {{tt|納 / 纳 ''nà''|to receive}}, {{tt|噬 ''shì''|to bite}}, {{tt|草 ''cǎo''|grass}}, and a pun of {{tt|那是草 ''Nà shì cǎo''|That is grass}}
+|zh_yue=納噬草 ''Naahpsaihchóu''|zh_yuemeaning=From {{tt|納 ''naahp''|to receive}}, {{tt|噬 ''saih''|to bite}}, and {{tt|草 ''chóu''|grass}}
+|hi=येग्रास ''Yegrass''|himeaning=From {{tt|ये ''yeḥ''|this}} and ''grass''
+|th=อาโนะคุสะ ''Anokhusa''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0945|prev=Grafaiai|nextnum=0947|next=Brambleghast}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve using the Let's Go! feature]]
+
+[[de:Weherba]]
+[[es:Bramblin]]
+[[fr:Virovent]]
+[[it:Bramblin]]
+[[ja:アノクサ]]
+[[zh:纳噬草]]

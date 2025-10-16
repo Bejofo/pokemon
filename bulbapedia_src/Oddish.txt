@@ -1,0 +1,987 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/GO|species=Oddish}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0042|prev=Golbat|nextnum=0044|next=Gloom|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Oddish
+|jname=ナゾノクサ
+|tmname=Nazonokusa
+|ndex=0043
+|typebox=1
+|type1=Grass
+|type2=Poison
+|category=Weed
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=11.9
+|weight-kg=5.4
+|abilityn=d
+|ability1=Chlorophyll
+|abilityd=Run Away
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=64
+|oldexp=78
+|lv100exp=1,059,860
+|gendercode=127
+|color=Blue
+|catchrate=255
+|body=07
+|pokefordex=oddish
+|generation=1
+|friendship=70
+}}
+'''Oddish''' ([[List of Japanese Pokémon names|Japanese]]: '''ナゾノクサ''' ''Nazonokusa'') is a dual-type {{2t|Grass|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] into {{p|Gloom}} starting at [[level]] 21, which evolves into either {{p|Vileplume}} when exposed to a [[Leaf Stone]] or {{p|Bellossom}} when exposed to a [[Sun Stone]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+[[File:Oddish planted.png|thumb|left|250px|An Oddish with its body buried in the ground]]
+Oddish is a {{OBP|Pokémon|species}} that resembles a blue {{wp|bulb|plant bulb}} or a {{wp|root vegetable}}. It has a round body, beady red eyes, a small mouth, and ovoid feet. Five large, green leaves sprout from its head. As demonstrated in the ''[[Pokémon the Series]]'' episode ''[[EP137|Foul Weather Friends]]'', these leaves are prehensile and can be used to scale vertical surfaces and catch light objects. When defeated in the [[Pokémon Stadium series]], Oddish's leaves fall off its head. Known by the scientific name ''Oddium Wanderus'', Oddish lives in {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands}}.
+
+A nocturnal Pokémon, Oddish buries its sensitive body in the ground during the day to avoid the sun and fool predators. If its leaves are pulled in this state, it will respond by shrieking horribly. It starts to move when its leaves begin absorbing moonlight, which it uses to grow. Oddish will wander up to 1,000 feet (300 meters) during the night to scatter its seeds and find a nutrient-rich patch of soil in which to plant itself. The more fertile the earth, the glossier its leaves will be. It is thought that its feet become like tree roots while planted.
+
+Prior to [[Generation II]], Oddish and its evolved forms were the [[Signature move|only known Pokémon]] capable of learning the move {{m|Petal Dance}}.
+
+===Evolution===
+Oddish evolves into {{p|Gloom}}, which evolves into either {{p|Vileplume}} or {{p|Bellossom}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/2branch2
+|type1=Grass
+|type2=Poison
+|no1=0043
+|name1=Oddish
+|type1-1=Grass
+|type2-1=Poison
+|evo1=
+|no2=0044
+|name2=Gloom
+|type1-2=Grass
+|type2-2=Poison
+|evo2a=
+|no3a=0045
+|name3a=Vileplume
+|type1-3a=Grass
+|type2-3a=Poison
+|evo2b=
+|no3b=182
+|name3b=Bellossom
+|type1-3b=Grass
+}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=grass|type2=poison}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=043}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.}}
+{{Dex/Entry1|v=Yellow|entry=It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Burrows underground in the day, exposing only its leaves. It is said to scream loudly if anyone tries to yank it out.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=083}}
+{{Dex/Entry1|v=Gold|entry=Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.}}
+{{Dex/Entry1|v=Silver|entry=If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.}}
+{{Dex/Entry1|v=Crystal|entry=During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=088|reg2=Kanto|num2=043}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=During the daytime, <sc>Oddish</sc> buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Oddish</sc> searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this {{ScPkmn}}'s feet are thought to change shape and become similar to the roots of trees.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=This {{ScPkmn}} grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.}}
+{{Dex/Entry1|v=FireRed|entry=Its scientific name is “Oddium Wanderus.” At night, it is said to walk nearly {{tt|1,000 feet|300&nbsp;m}} on its two roots.}}
+{{Dex/Entry1|v=LeafGreen|entry=During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=083}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It often plants its root feet in the ground during the day and sows seeds as it walks about at night.}}
+{{Dex/Entry1|v=HeartGold|entry=Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.}}
+{{Dex/Entry1|v=SoulSilver|entry=If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It often plants its root feet in the ground during the day and sows seeds as it walks about at night.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It often plants its root feet in the ground during the day and sows seeds as it walks about at night.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=105|label1=Central|reg2=Hoenn|num2=091}}
+{{Dex/Entry1|v=X|t=FFF|entry=During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its scientific name is "Oddium Wanderus." At night, it is said to walk nearly {{tt|1,000 feet|300&nbsp;m}} on its two roots. }}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=043}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=055|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It often plants its root feet in the ground during the day and sows seeds as it walks about at night.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=62}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Its scientific name is Oddium wanderus. It is said to cover distances as far as 1,000 feet when night falls, walking on its two roots.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=When it is woken by moonlight, it wanders about. But during the day, it stays still underground.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{poison color dark}}; background:#{{grass color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{poison color dark}}; background:#{{grass color light}}; {{roundy|5px}};" | [[File:Pokédex Image Oddish SV Blueberry.png|x200px]]
+|-
+| Oddish in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=grass|type2=poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Red|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}}}
+{{Availability/Entry1/None|1|v=Blue}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}}}
+{{Availability/Entry1|1|v=Yellow|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Ilex Forest]]{{sup/t|N}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|24|Kanto}} and {{rtn|25|Kanto}}, [[Ilex Forest]]{{sup/t|N}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Route]]s {{rtn|110|Hoenn}}, {{rtn|117|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|121|Hoenn}}, and {{rtn|123|Hoenn}}, {{safari|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[Route]]s {{rtn|110|Hoenn}}, {{rtn|117|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|121|Hoenn}}, and {{rtn|123|Hoenn}}, {{safari|Hoenn}}}}
+{{Availability/Entry1|v=FireRed|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Berry Forest]], [[Bond Bridge]], [[Cape Brink]], [[Water Path]]}}
+{{Availability/Entry1/None|v=LeafGreen|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|229|Sinnoh}} and {{rtn|230|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|224|Sinnoh}} and {{rtn|230|Sinnoh}}{{sup/t|N}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Ilex Forest]]{{sup/t|N}}<br/>{{safari|Johto}}{{sup/t|N}} (tall grass in Marshland, default)}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=FF3333|area={{pw|Noisy Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[White Forest]]{{tt|*|Appears only with the presence of Lady Lynette}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|6|Kalos}}, [[Friend Safari]] ([[Friend Safari#Grass-type Safari|Grass]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|110|Hoenn}} and {{rtn|117|Hoenn}}<br/>[[Route]]s {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, and {{safari|Hoenn}} ([[Horde Encounter]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry1|v=Let's Go Pikachu|area=[[Route]]s {{rtn|1|Kanto}}, {{rtn|2|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|21|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1/None|v=Let's Go Eevee}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Dappled Grove]], [[Rolling Fields]], [[East Lake Axewell]], [[Watchtower Ruins]]<br>[[Dappled Grove/Dens|Dappled Grove]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[North Lake Miloch/Dens|North Lake Miloch]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Route]]s {{rtn|229|Sinnoh}} and {{rtn|230|Sinnoh}}<br>[[Grand Underground]] - [[Grassland Cave]], [[Swampy Cave]], [[Spacious Cave]], [[Riverbank Cave]], [[Still-Water Cavern]], [[Sunlit Cavern]], [[Bogsunk Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Coastal Biome]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Blueberry Academy)|Oddish|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Red Field]]: [[Cerulean City]], [[Vermilion City|Vermilion City Seaside]] <br> [[Blue Field]]: [[Celadon City]], [[Saffron City]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field|Back Yard]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Hatch from {{pkmn|Egg}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|1|Phobos Train}}, Endless Level 34, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Sinister Woods]] (1F-4F), [[Wyvern Hill]] (13F-20F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Olive Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Apple Woods]] (1F-6F), [[Oran Forest]] (1F-4F), [[Happy Outlook]] (B1F-B15F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Apple Woods]] (1F-6F), [[Oran Forest]] (1F-4F), [[Happy Outlook]] (B1F-B15F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Union Road]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode A)</small>}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Meadow Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Hinder Cape]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Echo Valley]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Chill Battle#Garden Keepers|Chill Battle: Garden Keepers]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 3|Infinite Ruins: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Royal Garden|Leafy Expanse: Royal Garden]] <small>(All Areas)</small>, [[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 01|Area 01: Stage 02]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Snorlax Sea]], [[Celebi Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Celebi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Sinister Woods]] (1F-4F), [[Wyvern Hill]] (13F-20F), [[Purity Forest]] (18F-25F), [[Oddity Cave]] (3F-4F), [[Remains Island]] (3F-4F), [[Marvelous Sea]] (3F-4F), [[Fantasy Strait]] (3F-4F)<br/>Fainted Pokémon: [[Southern Cavern]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#Sixth release|''Pokémon Safari'']] <small>(Sixth release)</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Egg event]] (''{{DL|Egg event|Three-Type Egg Event (2023)}}''): {{sync/player|egg|Oddish}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=grass|type2=poison}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Leech Seed Oddish|English|United States|5|January 3 to 9, 2003|link=List of PCNY event Pokémon distributions in Generation II#Leech Seed Oddish}}
+{{eventAvail|{{gameabbrev3|FRLG}}|Egg Pokémon Present Oddish|Japanese|Japan|5|March 21 to April 4, 2004|link=List of Japanese event Pokémon distributions in Generation III#Oddish}}
+{{eventAvail|{{gameabbrev3|FRLG}}|Pokémon Trade and Battle Day Oddish|English|United States|26|September 25, 2004|link=List of Trade and Battle Day event Pokémon distributions#Oddish}}
+|}
+
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Grass|type2=Poison|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17|November 2 to 30, 2020|link=Wild Area News/2020#November 2 to 30, 2020}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17|March 26 to 28, 2021|link=Wild Area News/2021#March 26 to 28, 2021}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Grass|type2=Poison}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=FFF|tcolor2=FFF|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Items1|Absorb Bulb|5|rows=2}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Poison
+|HP=45
+|Attack=50
+|Defense=55
+|SpAtk=75
+|SpDef=65
+|Speed=30
+|Special=75
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=grass
+|type2=poison
+|Speed=3
+|SpeedMax=5
+|Power=1
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=4
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Poison
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=200
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|gen1poison=yes
+|oldbug=4}}
+
+===Learnset===
+Oddish is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Oddish|Grass|Poison|1}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|1|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|4|Acid|Poison|Special|40|100|30||'''}}
+{{learnlist/level9|8|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|12|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|14|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/level9|16|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|18|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/level9|20|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|24|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level9|28|Moonblast|Fairy|Special|95|100|15}}
+{{learnlist/level9|32|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/level9|36|Moonlight|Fairy|Status|—|—|5}}
+{{learnlist/level9|40|Petal Dance|Grass|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Oddish|Grass|Poison|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Oddish|Grass|Poison|1}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tmf/9|Oddish|Grass|Poison|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Oddish|Grass|Poison|2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|After You|Normal|Status|—|—|15}}
+{{learnlist/breed9|{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed9|{{MSP/H|0192|Sunflora}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0071|Victreebel}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}{{MSP/H|0951|Capsakid}}{{MSP/H|0952|Scovillain}}|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0191|Sunkern}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}{{MSP/H|0764|Comfey}}|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}|Teeter Dance|Normal|Status|—|100|20}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Tickle|Normal|Status|—|100|20}}
+{{learnlist/breedf/9|Oddish|Grass|Poison|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Tackle}}
+| style="background:#fff; {{roundybr|5px}}" | [[Oddish δ (EX Holon Phantoms 73)]]<br>[[Oddish (Expedition 122)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Poison}}
+{{Spindata/Pinball|col=2|type=Grass|ndex=043|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Grass|ndex=043|acquisition=Catch}}
+{{Spindata/Trozei|col=2|type=Grass|ndex=043|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=043
+|body=1
+|rate=12
+|area=Jungle
+|P1=I'm a Grass type: poisonous and decidedly odd!
+|P2=We're in deep trouble. My health is gone by half.
+|P3=I'm close to flopping...
+|PL=Oh! Leveled up! Makes me smile!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=043
+|body=1
+|rate=8.2
+|IQ=B
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=043
+|coset=3
+|conto={{p|Scyther}}, {{p|Kabutops}}, {{p|Mienfoo}}
+|recruitment=Talk to in [[Lively Town]]
+|P1=It's such a nice day today!
+|P2=This is so hard...
+}}
+|-
+{{Spindata/Ranger|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|fieldpower=1
+|field=Cut
+|loop=5
+|MinEXP=20
+|MaxEXP=30
+|num=126
+|browser=The leaves on Oddish's head are sharp enough to cut down trees.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=1
+|num=114
+|browser=It attacks by shooting its leaves and letting loose poisonous pollen.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=1
+|num=127
+|pastnum=012
+|browser=It creates vines around itself that make Pokémon Slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=043
+|walk=1.97
+|hp=46
+|attack=70
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Grass|ndex=043
+|Pad=Oddish often sunbathes in the [[Meadow Zone]]. Her favorite Attraction is {{DL|Attraction (PokéPark)|Bulbasaur's Daring Dash}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=043
+|pad=He is looking at everyone in the [[Arbor Area]] while he's buried in the ground. He doesn't mean to, but he surprises everyone.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=043
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=043|num=479
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=043
+|hatch=N/A{{tt|*|5&nbsp;km Eggs obtained prior to February 8, 2017 can hatch into Oddish}}
+|buddy=3
+|candy=Oddish
+|evocandy=25
+|stamina=128
+|attack=131
+|defense=112
+|fast={{m|Razor Leaf}}, {{m|Acid}}
+|special={{m|Seed Bomb}}, {{m|Sludge Bomb}}, {{m|Moonblast}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+In {{g|GO}}, Oddish could be obtained by completing the [[Special Research]], ''Distracted by Something Shiny''.
+
+===Evolution data===
+Oddish [[Evolution|evolves]] into {{p|Gloom}} starting at [[level]] 21, which evolves into {{p|Vileplume}} when exposed to a [[Leaf Stone]] or {{p|Bellossom}} when exposed to a [[Sun Stone]]. Gloom cannot evolve into Bellossom in {{game|FireRed and LeafGreen|s}} before the player obtains the [[National Pokédex]], as its Evolution will be interrupted. Gloom also cannot evolve into Bellossom in {{LGPE}}, as Bellossom is not present in those games.
+{{Evobox/2branch2
+|type1=Grass
+|type2=Poison
+|no1=0043
+|name1=Oddish
+|type1-1=Grass
+|type2-1=Poison
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 21}}
+|no2=0044
+|name2=Gloom
+|type1-2=Grass
+|type2-2=Poison
+|evo2a={{Bag/s|Leaf Stone|SV}}<br>{{color2|000|Leaf Stone}}
+|no3a=0045
+|name3a=Vileplume
+|type1-3a=Grass
+|type2-3a=Poison
+|evo2b={{Bag/s|Sun Stone|SV}}<br>{{color2|000|Sun Stone}}
+|no3b=182
+|name3b=Bellossom
+|type1-3b=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Poison}}
+{{Spritebox/1|ndex=043}}
+{{Spritebox/2|ndex=043}}
+{{Spritebox/3|ndex=043}}
+{{Spritebox/4|ndex=043}}
+{{Spritebox/5|ndex=043}}
+{{Spritebox/6|ndex=043|crop=49}}
+{{Spritebox/7/PE|ndex=043|crop=53|PEcrop=105}}
+{{Spritebox/8|ndex=043}}
+<!--{{Spritebox/9|ndex=0043}}-->
+{{Spritebox/HOME|ndex=0043}}
+{{Spritebox/Footer|043|Oddish}}
+
+==In animation==
+===Main series===
+[[File:Oddish anime.png|thumb|250px|Oddish in {{aniseries|JN}}]]
+====Major appearances====
+Oddish debuted in ''[[EP010|Bulbasaur and the Hidden Village]]'' as one of the Pokémon under [[Melanie]]'s care in the [[Hidden Village]]. {{an|Misty}} attempted to {{pkmn2|caught|catch}} it with {{TP|Misty|Starmie}} because she thought it was cute, but {{AP|Bulbasaur}} attacked her, and Misty later apologized. It reappeared in a flashback in ''[[EP225|Bulbasaur... the Ambassador!]]''.
+
+In ''[[EP137|Foul Weather Friends]]'', {{OBP|Mariah|EP137}}'s Oddish wanted to fly with its {{p|Hoppip}} friends, even trying to color itself pink like a Hoppip. Though it never flies, it still proved itself to be powerful enough to defeat {{TRT}} on its own.
+
+In ''[[EP239|Whichever Way the Wind Blows]]'', {{OBP|Steven|EP239}} uses three Oddish to study the [[Evolution]] of {{t|Grass}} Pokémon in the area. Multiple other Oddish also appeared in the same episode.
+
+In ''[[JN020|Dreams Are Made of These!]]'', [[Goh]] caught an {{DL|List of Goh's Pokémon|Oddish}} during a [[Pokémon Orienteering]] competition. It has since made further appearances in {{aniseries|JN}}.
+
+====Minor appearances====
+A {{pkmn|Trainer}}'s Oddish appeared in ''[[EP014|Electric Shock Showdown]]''.
+
+An Oddish appeared in ''[[EP015|Battle Aboard the St. Anne]]''.
+
+In ''[[EP026|Pokémon Scent-sation!]]'', an Oddish was in [[Celadon Gym]].
+
+In ''[[EP027|Hypno's Naptime]]'', an Oddish was in [[HopHopHop Town]]'s [[Pokémon Center]].
+
+In ''[[EP028|Pokémon Fashion Flash]]'', two Oddish were on [[Scissor Street]].
+
+In ''[[EP030|Sparks Fly for Magnemite]]'', an Oddish was in [[Gringey City]]'s [[Pokémon Center]].
+
+An Oddish appeared in a fantasy in ''[[EP031|Dig Those Diglett!]]''.
+
+An Oddish appeared in ''[[EP034|The Kangaskhan Kid]]''.
+
+An Oddish appeared in ''[[EP043|The March of the Exeggutor Squad]]''.
+
+An Oddish appeared in ''[[EP047|A Chansey Operation]]''.
+
+An Oddish appeared in a flashback in ''[[EP048|Holy Matrimony!]]'', under the ownership of [[Jessebelle]]. It is now a Vileplume.
+
+A Trainer's Oddish appeared in ''[[EP056|The Ultimate Test]]''.
+
+An Oddish appeared in ''[[EP057|The Breeding Center Secret]]''.
+
+A Trainer's Oddish appeared in ''[[M01|Mewtwo Strikes Back]]'' and ''[[M22|Mewtwo Strikes Back—Evolution]]''.
+
+In ''[[PK01|Pikachu's Vacation]]'', an Oddish was at the [[Pokémon Theme Park]].
+
+In ''[[EP065|Showdown at the Po-ké Corral]]'', multiple Oddish were living at [[Professor Oak's Laboratory]]. They reappeared in ''[[HS04|Showdown at the Oak Corral]]''.
+
+In ''[[EP080|Friends to the End]]'', two Trainers' Oddish were at the closing ceremonies of the [[Indigo League]].
+
+In ''[[EP081|Pallet Party Panic]]'', an Oddish was at a party in [[Pallet Town]].
+
+Multiple {{DL|List of alternately colored Pokémon in animation|Pink Pokémon|pink}} Oddish appeared in {{TRT}}'s fantasy in ''[[EP088|In the Pink]]''.
+
+Two Oddish appeared in a flashback in ''[[EP100|Wherefore Art Thou, Pokémon?]]'', one each under the ownership of {{OBP|Ralph|EP100}} and {{OBP|Emily|EP100}}.
+
+In ''[[M02|The Power of One]]'', multiple Oddish sensed the disturbance caused by [[Lawrence III]].
+
+A {{pkmn2|wild}} Oddish appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP122|Flower Power]]'', an Oddish was a part of [[Florando]]'s annual [[Pokémon Exhibition]].
+
+An Oddish appeared in a flashback in ''[[EP129|Ignorance is Blissey]]'', under the ownership of the [[Pokémon Nurse School]].
+
+In ''[[EP146|Tricks of the Trade]]'', an Oddish was at the [[Pokémon Swap Meet]] in [[Palmpona]].
+
+In ''[[PK07|Pikachu & Pichu]]'', an Oddish living at [[Big Town]].
+
+In ''[[EP157|The Fortune Hunters]]'', an Oddish was stolen by [[Butch]] and [[Cassidy]].
+
+In ''[[EP169|Beauty and the Breeder]]'', an Oddish was owned by a Trainer, and the other two were owned by different {{tc|Pokémon Breeder}}s participating in the [[Pokémon Beauty Contest]].
+
+Three Oddish appeared in ''[[EP178|The Grass Route]]'', with two being {{pkmn2|wild}} and one being under the ownership of a Trainer competing in the [[Grass Tournament]].
+
+In ''[[EP195|The Poké Spokesman]]'', a {{pkmn2|talking}} Oddish appeared in [[Simon]]'s purported flashback.
+
+Multiple Oddish appeared in ''[[M04|Celebi: The Voice of the Forest]]'' and ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+An Oddish appeared in ''[[PK10|Pikachu's PikaBoo]]''.
+
+In ''[[EP225|Bulbasaur... the Ambassador!]]'', multiple Oddish were at Professor Oak's Laboratory.
+
+An Oddish appeared in ''[[The Legend of Thunder!]]''.
+
+In ''[[EP235|Talkin' 'Bout an Evolution]]'', an Oddish fell sick due to [[Team Rocket]]'s experiments.
+
+In ''[[EP252|Fangs for Nothin']]'', multiple Oddish were inhabitants of the [[Dragon Holy Land]].
+
+In ''[[EP272|Johto Photo Finish]]'', an Oddish was fed by {{Tracey}} at Professor Oak's Laboratory.
+
+In ''[[EP274|Hoenn Alone!]]'', three Oddish were having trouble with the {{p|Haunter}} from the area they lived in. {{AP|Pikachu}} and {{MTR}} managed to drive the Haunter away.
+
+In ''[[AG015|Gonna Rule The School!]]'', the [[Pokémon Trainers' School]] lent an Oddish to the school's underage students for use in lessons.
+
+Multiple Oddish appeared in ''[[AG037|Jump for Joy!]]''.
+
+Four Oddish appeared in ''[[AG047|I Feel Skitty!]]'', one of which was owned by [[Eliza]].
+
+An Oddish appeared in ''[[AG063|Take the Lombre Home]]''.
+
+In ''[[AG073|Grass Hysteria!]]'', multiple Oddish were living at the [[Forbidden Forest]].
+
+In ''[[AG074|Hokey Poké Balls!]]'', an Oddish was at Professor Oak's Laboratory.
+
+An Oddish appeared in [[PK13]].
+
+Two Oddish appeared in ''[[AG118|Less is Morrison]]''.
+
+In ''[[AG119|The Ribbon Cup Caper]]'', an Oddish was at the [[S.S. St. Flower]]'s [[Pokémon Center]].
+
+A {{pkmn|Coordinator}}'s Oddish appeared in ''[[AG121|Hi Ho Silver Wind!]]''.
+
+In ''[[M08|Lucario and the Mystery of Mew]]'', multiple Oddish were living in the [[Tree of Beginning]].
+
+An Oddish appeared in ''[[AG143|The Saffron Con]]'', under the ownership of a Coordinator. It reappeared in [[AG144|the next episode]], where it participated in the [[Saffron City]] [[Pokémon Contest]].
+
+In ''[[AG147|Sweet Baby James]]'', two Oddish were being looked after by [[Nanny and Pop-Pop]]. [[Jessie]] attempted to steal one of them, but [[James]] managed to stop her.
+
+An Oddish appeared in ''[[AG155|The Green Guardian]]''.
+
+In ''[[AG159|Off the Unbeaten Path]]'', an Oddish was owned by a [[Nurse Joy]] and another was owned by a Trainer participating in the [[Pokémon Orienteering]] competition.
+
+A Coordinator's Oddish appeared in ''[[AG167|What I Did for Love!]]''.
+
+In ''[[AG191|Once More With Reeling!]]'', a Coordinator's Oddish was participating in the {{to|Terracotta}} {{pkmn|Contest}}.
+
+An Oddish appeared in ''[[DP005|Gettin' Twiggy With It!]]''.
+
+In ''[[DP010|Not on MY Watch Ya Don't!]]'', an Oddish was hypnotized and kidnapped by Team Rocket.
+
+An Oddish appeared in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! (Part 1)]]''. Fourteen additional Oddish appeared in [[DP072|the follow-up episode]].
+
+An Oddish appeared in ''[[DP088|Camping It Up!]]''.
+
+In ''[[DP135|Beating the Bustle and Hustle!]]'', a Trainer's Oddish participated in the fake ''[[Sinnoh Pokémon Hustle]]'' that Team Rocket had set up.
+
+Multiple Oddish appeared in ''[[M12|Arceus and the Jewel of Life]]''. One of them appeared in the opening sequence, where it was seen in an {{tc|Aroma Lady}}'s field of flowers.
+
+In ''[[DP176|Coming Full-Festival Circle!]]'', an Oddish was listening to [[Nando]] as he played his music.
+
+An Oddish appeared in ''[[DP183|League Unleashed!]]'', under the ownership of a boy.
+
+Multiple Oddish appeared in ''[[M13|Zoroark: Master of Illusions]]'' as some of the local Pokémon living in [[Crown City]]. Three Oddish worked together with several other Pokémon to confront {{OBP|Zorua|M13}} in the park with the intention of attacking him in retribution for what {{OBP|Zoroark|M13}} did to the city. Before a fight broke out, the Oddish, along with the other Pokémon, were calmed down by {{OBP|Celebi|M13}}.
+
+An Oddish appeared in ''[[Mewtwo — Prologue to Awakening]]''.
+
+An Oddish appeared in {{OBP|Mewtwo|M16}}'s flashback in ''[[M16|Genesect and the Legend Awakened]]''.
+
+An Oddish appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+An Oddish appeared in ''[[XY005|A Blustery Santalune Gym Battle!]]''.
+
+An Oddish appeared in ''[[XY008|Grooming Furfrou!]]''.
+
+An Oddish appeared in ''[[XY009|Clemont's Got a Secret!]]''.
+
+Two Oddish appeared in ''[[XY016|A Jolting Switcheroo!]]''.
+
+An Oddish appeared in ''[[XY026|A Battle by Any Other Name!]]''.
+
+An Oddish appeared in ''[[XY028|The Bonds of Evolution!]]''.
+
+An Oddish appeared in ''[[XY029|Heroes - Friends and Faux Alike!]]''.
+
+In ''[[M17|Diancie and the Cocoon of Destruction]]'', multiple Oddish were living at [[Allearth Forest]].
+
+An Oddish appeared in a flashback in ''[[Diancie — Princess of the Diamond Domain]]''.
+
+An Oddish appeared in a flashback or a fantasy in ''[[XY035|The Forest Champion!]]''.
+
+Multiple Oddish appeared in ''[[XY057|Thawing an Icy Panic!]]'', with one under the ownership of a Trainer and the others being residents of [[Ramos]]'s ranch. In ''[[XY059|Under the Pledging Tree!]]'', the Trainer's Oddish attended the [[Coumarine City Festival]].
+
+An Oddish appeared in ''[[XY073|A Fashionable Battle!]]''.
+
+In ''[[PK27|Pikachu and the Pokémon Music Squad]]'', an Oddish was living in a forest.
+
+An Oddish appeared in ''[[XY089|A Frolicking Find in the Flowers!]]''.
+
+Two Oddish appeared in a flashback in ''[[XY108|A Watershed Moment!]]''.
+
+A Trainer's Oddish appeared in ''[[XY111|Unlocking Some Respect!]]''.
+
+Multiple Oddish appeared in ''[[XY121|Seeing the Forest for the Trees!]]'', with one being seen in a flashback. One of them, along with a {{p|Scatterbug}}, {{p|Budew}}, {{p|Sentret}}, and {{p|Zigzagoon}}, were brought into a cave to join Ash in the [[Kalos Route 20|Winding Woods]].
+
+A Trainer's Oddish appeared in ''[[XY125|A League of His Own!]]''.
+
+Two Oddish appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+A Trainer's Oddish appeared in ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+Three Oddish appeared in ''[[XY140|Till We Compete Again!]]'', with two of them under the ownership of a Trainer and the other one being wild.
+
+A Trainer's Oddish appeared in ''[[SM001|Alola to New Adventure!]]'', during a flashback.
+
+In ''[[M20|I Choose You!]]'', an Oddish was at Professor Oak's Laboratory, being watered alongside a {{p|Bellsprout}} by {{an|Professor Oak}}, who was using a [[Squirt Bottle]]. Another was seen under the ownership of a Trainer.
+
+In ''[[SM042|Alola, Kanto!]]'', multiple Oddish were at Professor Oak's Laboratory.
+
+Two Oddish appeared in ''[[M21|The Power of Us]]'', with one being seen as a shadowy figure.
+
+In ''[[SM090|Securing the Future!]]'', a Trainer's Oddish joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|normal form}}.
+
+Multiple Oddish appeared in a flashback in ''[[JN001|Enter Pikachu!]]''.
+
+Three Oddish appeared in ''[[JN002|Legend? Go! Friends? Go!]]''.
+
+A Trainer's Oddish appeared in ''[[JN021|Caring for a Mystery!]]''.
+
+A Trainer's Oddish appeared in ''[[JN024|A Little Rocket R & R!]]''.
+
+An Oddish appeared in ''[[JN028|Sobbing Sobble!]]''.
+
+Three Trainers' Oddish appeared in ''[[JN033|Trade, Borrow, and Steal!]]''.
+
+An Oddish appeared in ''[[M23|Secrets of the Jungle]]''.
+
+Two Oddish appeared in ''[[JN052|How Are You Gonna Keep 'Em Off of the Farm?]]''.
+
+A Trainer's three Oddish appeared in ''[[JN057|Memories of a Warming Kindness!]]''.
+
+A Trainer's Oddish appeared in ''[[JN060|Beyond Chivalry… Aiming to be a Leek Master!]]''.
+
+A Trainer's Oddish appeared in ''[[JN070|Take My Thief! Please!]]''.
+
+In ''[[JN135|Heroes Unite!]]'', multiple Oddish appeared during a flashback.
+
+An Oddish appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+An Oddish appeared in ''[[JN140|Bearing Down Easy!]]''. It reappeared in a flashback in ''[[JN146|Ash and Latios]]''.
+
+An Oddish appeared in ''[[JN142|The Same Moon, Now and Forever!]]''.
+
+An Oddish appeared in ''[[JN147|The Rainbow and the Pokémon Master!]]''.
+
+Two Oddish appeared in ''[[HZ004|The Treasure After the Storm!]]''. They reappeared with another during a flashback in ''[[HZ062|A New Song for Fuecoco]]''.
+
+A Trainer's Oddish appeared in ''[[HZ058|Food Fit for a Kingambit!]]''.
+
+A Student's Oddish appeared in ''[[HZ066|Infiltrating the System! Naranja Academy in Danger!]]''.
+
+A Student's Oddish appeared in ''[[HZ067|Shine on, Terastallization! Liko vs. Roy!]]''.
+
+A Oddish appeared in ''[[HZ085|The Pokémon Paradise of Laqua!]]'', among the Pokémon living in [[Laqua]].
+
+Two Oddish appeared in [[HZ094]], under the ownership of two trainers.
+
+A Trainer's Oddish appeared in [[HZ103]].
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP010|Oddish|Ash's Pokédex|Oddish. This Pokémon is typically found roaming the forest, scattering pollen as it walks around.}}
+{{Animedexfooter/Pokémon|Kanto}}
+
+===Pokémon Origins===
+[[File:Oddish PO.png|thumb|250px|Oddish in [[Pokémon Origins]]]]
+In ''[[PO02|File 2: Cubone]]'', an Oddish was at the Pokémon House in [[Lavender Town]].
+
+Two Oddish appeared in ''[[PO03|File 3: Giovanni]]''.
+
+===Discover Pokémon Together===
+A {{pkmn2|wild}} Oddish is the featured Pokémon of ''{{DL|Discover Pokémon Together|An Oddish Tale}}''.
+
+===POKÉTOON===
+An Oddish appeared in [[PT12]].
+
+Five Oddish living at the [[Safari Zone]] appeared in [[PT14]].
+
+==In the manga==
+[[File:Gold Oddish Adventures.png|thumb|200px|Oddish in [[Pokémon Adventures]]]]
+[[File:Ash Oddish EToP.png|thumb|Oddish in [[The Electric Tale of Pikachu]]]]
+===Ash & Pikachu===
+Similar to her animated counterpart, {{OBP|Mariah|EP137}} owns an Oddish. It appeared in ''[[SP01|Hoppip, the Wind Calls!]]''.
+
+An Oddish appeared in ''[[SP11|Do Your Best Bulbasaur!!]]'', where it was seen at [[Professor Oak's Laboratory]].
+
+===The Electric Tale of Pikachu===
+{{OBP|Ash Ketchum|EToP|Ash}} owns an Oddish in [[The Electric Tale of Pikachu]]. It is one of the few Pokémon that Ash owns in the {{pkmn|manga}} but not in the [[Pokémon the Series|animated series]]. It first appeared in ''[[ET08|You Gotta Have Friends]]''. Its capture was not shown, and it instead appeared with several of Ash's other Pokémon with a note explaining that "Ash has been very busy since the last comic".
+
+===Movie adaptations===
+An Oddish appeared in the {{ma|Diancie and the Cocoon of Destruction|manga adaptation}} of ''[[M17|Diancie and the Cocoon of Destruction]]'' as a resident of [[Allearth Forest]].
+
+===Pocket Monsters HGSS===
+An Oddish appeared in [[PMHGSS11]].
+
+An Oddish appeared in [[PMHGSS18]].
+
+===Pokémon Adventures===
+Oddish debuted as a silhouette when {{adv|Green}} talks about {{adv|Mew}} in ''[[PS017|The Jynx Jinx]]''.
+
+In ''[[PS063|Extricated from Exeggutor]]'', multiple Oddish were seen during the mass migration of Pokémon at the [[Seafoam Islands]]. They appeared again in a flashback in ''[[PS142|Really Remoraid]]'', where a {{p|Remoraid}} migration was being described as remarkably similar to their own.
+
+{{adv|Gold}} owns an Oddish, which he kept at his house in ''[[PS091|Murkrow Row]]''.
+
+In ''[[PS118|Three Cheers for Chikorita]]'', {{adv|Crystal}} {{pkmn2|caught}} an Oddish on her way to [[Professor Elm]]'s Laboratory.
+
+A {{pkmn|Trainer}}'s Oddish appeared in ''[[PS204|Plugging Past Electrike I]]''.
+
+An Oddish appeared in ''[[PS418|Deprogramming Porygon-Z]]'', under the ownership of an {{tc|Aroma Lady}}.
+
+In ''[[PS442|Out-Odding Oddish]]'', [[Jet]], a competitor in the [[Pokéathlon]]'s Speed Course, used an Oddish to compete with {{adv|Gold}}. Another Trainer also used one the same chapter.
+
+===Pokémon Battle Frontier===
+An Oddish appeared in ''[[CBF4|Introducing the Frontier Brains!]]''.
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Trainer's Oddish appeared in ''[[GB23|Let's Fight For The Future!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+An Oddish appeared in ''[[GDZ02|A Powerful Opponent, Venusaur!]]''.
+
+An Oddish appeared in ''[[GDZ04|The Raining Crystal Ball]]''.
+
+An Oddish appeared in ''[[GDZ06|The Challenge at Celadon University!]]''.
+
+An Oddish appeared in a background collage in ''[[GDZ09|Catch the Poliwag!]]''.
+
+An Oddish appeared in [[GDZ21]].
+
+An Oddish appeared in [[GDZ23]].
+
+An Oddish appeared in [[GDZ25]], under the ownership of a male Trainer. However, the Trainer [[trade]]d it to [[Shu]] after being defeated in battle by him.
+
+An Oddish appeared in [[GDZ36]].
+
+===Pokémon Pocket Monsters===
+{{PPM|Green}}'s Oddish debuted in ''[[PM002|The Big Battle In The Viridian Forest!!]]''.
+
+An Oddish appeared in ''[[PM010|Big Struggle with the Powerful Opponent Venusaur!!]]''.
+
+An Oddish appeared in ''[[PM017|Regain the Deserted Power Plant!]]''.
+
+An Oddish appeared in ''[[PM019|Aim to be the No. 1 Pokémon!]]'', under the ownership of [[Erika]]. It evolved into a Gloom and then into a Vileplume as part of an act.
+
+An Oddish appeared in ''[[PM020|Good Luck at the Big Pokémon Athletic Meet!]]''.
+
+An Oddish appeared in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]'', where it was one of the Pokémon that took part in a baseball match.
+
+An Oddish appeared in ''[[PM027|Curry Showdown! Which is the Most Delicious?]]'' as one of the participants of a curry cooking competition.
+
+An Oddish appeared in ''[[PM029|The Thrill of a Perfect Score, Big Rampage at the Amusement Park!]]''.
+
+An Oddish appeared in ''[[PM032|The Legendary Moltres Appears!!]]''.
+
+An Oddish appeared in ''[[PM051|Pikachu's Birthday Party]]''.
+
+An Oddish appeared in ''[[PM064|Where is Chikorita?!]]''.
+
+An Oddish appeared in ''[[PM065|Clefairy, the Battle Instructor]]''.
+
+An Oddish appeared in ''[[PM069|Demanding Tests at the Pokémon School!]]''.
+
+An Oddish appeared in ''[[PM108|The Exam Showdown!!]]''.
+
+===Pokémon Ruby-Sapphire===
+An Oddish appeared in ''[[PMRS02|I Won't Let You Lead!!]]''.
+
+An Oddish appeared in ''[[PMRS05|Let's Try To Be Idols!!]]''.
+
+An Oddish appeared in ''[[PMRS39|Pokémon New Year]]''.
+
+An Oddish appeared in ''[[PMRS53|Clefairy's Golf Debut!]]''.
+
+==In the TCG==
+{{main|Oddish (TCG)}}
+
+==Trivia==
+* In [[Generation II]], [[Bill's grandfather]] asks the {{player}} to bring him a "round, green" {{OBP|Pokémon|species}} with leaves growing on its head, referring to Oddish. However, in those games and subsequent generations, Oddish's body (unless it is {{Shiny}}) is blue. The mistake might have been a translation error caused by the ambiguity of the Japanese word 青い ''aoi'', which can mean both blue and green. This is fixed in {{game|HeartGold and SoulSilver|s}}.
+* Oddish has a scientific name: ''Oddium wanderus'', given in its {{game|FireRed and LeafGreen|s|FireRed}} and {{pkmn|X and Y|Y}} [[Pokédex entry|Pokédex entries]]. The only other Pokémon with a known scientific name is {{p|Kabutops}}, with ''Kabutops maximus''.
+** In the Japanese versions of FireRed and Y, as well as {{2v2|Red|Green}}, Oddish's Pokédex entries instead state that it has the alias name アルキメンデス ''Arukimendesu''. This can either be seen as a corruption of ''{{wp|Archimedes}}'', the Greek mathematician; or as a direct reference to the popular Japanese instant noodles brand ''{{jwp|アルキメンデス|Archimendes}}'', which literally means 歩き麺です ''aruki men desu'' (instant noodles on the go). The latter may reference Oddish's appearance when walking.
+* Oddish can be seen as a parallel to {{p|Bellsprout}}. Both are {{2t|Grass|Poison}}-type {{cat|Generation I Pokémon}}, {{cat|Pokémon that are part of a three-stage evolutionary line|part of a three-stage evolutionary line}}, can evolve starting at level 21, and whose second evolutionary event utilizes a [[Leaf Stone]]. Oddish is [[Version-exclusive Pokémon|exclusive]] to {{game3|Red and Blue|Pokémon Red|s}}, {{game3|FireRed and LeafGreen|FireRed|s}}, and [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu!]] while Bellsprout is exclusive to Blue, LeafGreen, and Let's Go, Eevee!, with both Pokémon found in the same locations in their respective versions. Additionally, both can be found at [[White Forest]] in {{game3|Black and White|White|s}}, and both Pokémon have had their {{pkmn|Egg}} designs revealed.
+* In {{game|Gold and Silver|s}}, Oddish is programmed to be able to learn {{m|Charm}} through {{pkmn|breeding}}, but no other Pokémon in the {{egg2|Grass}} can legitimately learn it to pass down as an [[Egg Move]] in those games. In [[Generation III]] and {{Gen|IV}}, Oddish can inherit the move from {{p|Shroomish}} by chain breeding. In Generation V onwards, Oddish can inherit the move directly from {{p|Cottonee}}.
+* There is a recurring gag in ''[[Pokémon the Series]]'' where when {{Ash}} hears rustling in a bush, he looks in it and finds an Oddish.
+* Oddish was featured in the third episode of [[Beyond the Pokédex]].
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Oddish}}
+Oddish seems to be based on {{wp|mandrake}}, plants from the ''{{wp|Mandragora}}'' genus whose roots sometimes resemble human figures. Its habit of screaming when yanked out of the ground may be a reference to the myth that mandrakes will emit a deadly cry when uprooted. Its round body is also similar to various {{wp|bulb|bulbous}} plant such as {{wp|onion}}s as well as {{wp|root vegetable}}s such as {{wp|radish}}es and {{wp|turnip}}s. Its leaves are similar in shape to those of the {{wp|Dracaena trifasciata|snake plant}}. 
+
+====Name origin====
+Oddish may be derived from ''oddish'' (somewhat odd) or a combination of ''odd'' (strange) and ''{{wp|radish}}''.
+
+Nazonokusa may be a play on 謎の草 ''nazo no kusa'' (enigmatic herb).
+
+==In other languages==
+{{Other languages|type=grass|type2=poison
+|ja=ナゾノクサ ''Nazonokusa''|jameaning=From {{tt|謎の草 ''nazo no kusa''|enigmatic herb}}
+|fr=Mystherbe|frmeaning=From ''{{tt|mystère|mystery}}'' and ''{{tt|herbe|grass}}''
+|es=Oddish|esmeaning=Same as English name
+|de=Myrapla|demeaning=From ''{{wp|Myrtus|myrtle}}'' or ''{{tt|mysteriös|mysterious}}''  and ''plant''
+|it=Oddish|itmeaning=Same as English name
+|ko=뚜벅쵸 ''Ttubeogcho''|komeaning=From {{tt|뚜벅뚜벅 ''ttubeok-ttubeok''|struttingly}} and {{tt|초 (草) ''cho''|grass}}
+|zh_cmn=走路草 ''Zǒulùcǎo''|zh_cmnmeaning=From {{tt|走路 ''zǒulù''|to walk}} and {{tt|草 ''cǎo''|grass}}
+|zh_yue=走路草 ''Jáulouhchóu''{{tt|*|Games}}<br>行路草 ''Haàhnglouhchóu''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|行路 ''jáulouh''|to run}} and {{tt|草 ''chóu''|grass}}<br>From {{tt|行路 ''haàhnglouh''|to walk}} and {{tt|草 ''chóu''|grass}}
+|he=אודיש ''Odish''|hemeaning=Transcription of English name
+|hi=ऑडिश ''Oddish''|himeaning=Transcription of English name
+|lt=Odišas|ltmeaning=From the English name
+|ru=Оддиш ''Oddish''|rumeaning=Transcription of English name
+|th=นาโซโนะคุสะ ''Nasonokhusa''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0042|prev=Golbat|nextnum=0044|next=Gloom}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Myrapla]]
+[[es:Oddish]]
+[[fr:Mystherbe]]
+[[it:Oddish]]
+[[ja:ナゾノクサ]]
+[[zh:走路草]]

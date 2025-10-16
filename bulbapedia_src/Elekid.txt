@@ -1,0 +1,713 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Elekid}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0238|prev=Smoochum|nextnum=0240|next=Magby|round=none}}
+{{PokémonPrevNext/Disambig|species=Elekid}}
+|}
+{{Pokémon Infobox
+|name=Elekid
+|jname=エレキッド
+|jtranslit=Erekiddo
+|tmname=Elekid
+|ndex=0239
+|type1=Electric
+|category=Electric
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=51.8
+|weight-kg=23.5
+|abilityn=d
+|ability1=Static
+|abilityd=Vital Spirit
+|egggroupn=1
+|egggroup1=No Eggs Discovered
+|eggcycles=25
+|evtotal=1
+|evsp=1
+|expyield=72
+|oldexp=106
+|lv100exp=1,000,000
+|gendercode=63
+|color=Yellow
+|catchrate=45
+|body=12
+|pokefordex=elekid
+|generation=2
+|friendship=70
+}}
+'''Elekid''' ([[List of Japanese Pokémon names|Japanese]]: '''エレキッド''' ''Elekid'') is an {{type|Electric}} [[baby Pokémon]] introduced in [[Generation II]].
+
+It [[Evolution|evolves]] into {{p|Electabuzz}} starting at [[level]] 30, which evolves into {{p|Electivire}} when [[Trade Evolution|traded]] while holding an [[Electirizer]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+Elekid is a yellow, round-bodied {{OBP|Pokémon|species}} with black stripes. Elekid's arms are bulky in proportion to its body, and it has three claws instead of fingers. It has two stripes on its arms, which wrap all the way around. There are two horns on top of its head which resemble the prongs of a power plug, complete with holes in their sides. These horns glow bluish-white when Elekid is fully charged. Elekid has a black lightning bolt marking on its chest. Two rows of stripes are near the marking, with the pattern continuing around its lower back. Its legs are black, and its feet are rounded and toeless.
+
+Elekid tends to become restless and full-on rowdy when it hears the sound of thunderstorm coming, and likes to play out in the middle of thunderstorms. It can generate electricity by rotating its arms, but it tires easily and can only charge a small amount. Elekid cannot store the electricity it generates, so it prefers to break into the houses of humans in order to consume electricity from their electrical outlets. It lives in the {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands.}}
+
+===Evolution===
+Elekid evolves into {{p|Electabuzz}}, which evolves into {{p|Electivire}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-3
+|type1=Electric
+|pictype=art
+|no1=0239
+|name1=Elekid
+|type1-1=Electric
+|breed=
+|evo1=
+|no2=0125
+|name2=Electabuzz
+|type1-2=Electric
+|evo2=
+|no3=0466
+|name3=Electivire
+|type1-3=Electric
+}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=154}}
+{{Dex/Entry1|v=Gold|entry=It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.}}
+{{Dex/Entry1|v=Silver|entry=Even in the most vicious storm, this {{ScPkmn}} plays happily if thunder rumbles in the sky.}}
+{{Dex/Entry1|v=Crystal|entry=It loves violent thunder. The space between its horns flickers bluish-white when it is charging energy.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Even in the most vicious storm, this {{ScPkmn}} plays happily if thunder rumbles in the sky. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Elekid</sc> stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this {{ScPkmn}} begins swinging its arms in circles to recharge itself.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=If it touches metal and discharges the electricity it has stored in its body, an <sc>Elekid</sc> begins swinging its arms in circles to recharge itself.}}
+{{Dex/Entry1|v=FireRed|entry=Even in the most vicious storm, this {{ScPkmn}} plays happily if thunder rumbles in the sky.}}
+{{Dex/Entry1|v=LeafGreen|entry=It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=197|label1={{gameIcon|Pt}}:|reg2=Johto|num2=156}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=It generates electricity by whirling its arms. However, it can't store the energy it makes.}}
+{{Dex/Entry1|v=Platinum|entry=A weak electric current flows between its horns. Sticking a hand there shocks the unwary.}}
+{{Dex/Entry1|v=HeartGold|entry=It rotates its arms to generate electricity, but it tires easily, so it only charges up a little bit.}}
+{{Dex/Entry1|v=SoulSilver|entry=Even in the most vicious storm, this Pokémon plays happily if thunder rumbles in the sky.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=056|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=A weak electric current flows between its horns. Sticking a hand there shocks the unwary.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Spinning its arms around to generate electricity makes the area between its horns shine light blue.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It generates electricity by whirling its arms. However, it can't store the energy it makes.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Spinning its arms around to generate electricity makes the area between its horns shine light blue.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=FFF|entry=Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=226|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=295|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=When it's in a house, electrical outlets serve as its baby bottles. It sucks down electricity.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon is constantly fighting with Togedemaru that try to steal its electricity. It's a pretty even match.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=When it hears the crash of thunder, Elekid's mood improves. It can be useful to record that sound and play it when Elekid's feeling down.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=When its horns shine a bluish white, that's the sign it's fully charged. You'll get a shocking jolt if you touch it!}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|label1=Crown Tundra|num1=015|reg2=Sinnoh|reg3=Hisui|num3=182}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When a storm approaches, this Pokémon gets restless. Once Elekid hears the sound of thunder, it gets full-on rowdy.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It's not good at storing electricity yet. This Pokémon sneaks into people's homes, looking for electrical outlets to eat electricity from.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It generates electricity by whirling its arms. However, it can't store the energy it makes.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=They generate electricity by spinning their arms. During a thunderstorm, if one hears the lively voices of children out in the wilderness, what one is actually hearing are the voices of Elekid.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=10}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It loves violent thunder. The space between its horns flickers bluish white when it is charging energy.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It rotates its arms to generate electricity, but it tires easily, so it only charges up a little bit.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{electric color dark}}; background:#{{electric color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}};" | [[File:Pokédex Image Elekid SM.png|x200px]]
+| style="border:2px solid #{{electric color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Elekid SV Blueberry.png|x200px]]
+|-
+|Elekid in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|Elekid in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{pkmn|breeding|Breed}} {{p|Electabuzz}}}}
+{{Availability/Entry1|v=Crystal|area={{pkmn|breeding|Breed}} {{p|Electabuzz}}<br>{{rt|34|Johto}} ([[Odd Egg]]{{tt|*|The Pokémon in the Egg is random}})}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry1|v=FireRed|area={{pkmn|breeding|Breed}} {{p|Electabuzz}}}}
+{{Availability/Entry1/None|v=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=In-game [[trade]] for purified {{p|Togepi}} or {{p|Togetic}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|205|Sinnoh}}, [[Valley Windworks]] {{color2|{{FireRed color dark}}|Dual-slot mode|(FireRed)}}}}
+{{Availability/Entry1|v=Platinum|area={{pkmn|breeding|Breed}} {{p|Electabuzz}} or {{p|Electivire}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{pkmn|breeding|Breed}} {{p|Electabuzz}} or {{p|Electivire}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Suburban Area}}, {{pw|Amity Meadow}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|1|v=Black}}
+{{Availability/Entry1|1|v=White|area=[[White Forest]]}}
+{{Availability/Entry1/None|1|v=Black 2}}
+{{Availability/Entry1|1|v=White 2|area=[[Virbank Complex]]}}
+{{Availability/Entry1|1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Electabuzz}} or {{p|Electivire}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Mirage Mountains|Mirage Mountain]] (South of {{rt|129|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|12|Alola}}, [[Blush Mountain]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Blush Mountain]], [[Mount Hokulani]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.3.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Bed]], [[Old Cemetery]], [[Giant's Foot]], [[Frigid Sea]], [[Three-Point Pass]], [[Ballimere Lake]]<br>[[Frostpoint Field/Dens|Frostpoint Field]], [[Giant's Bed/Dens|Giant's Bed]], [[Three-Point Pass/Dens|Three-Point Pass]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Brilliant Diamond|area=[[Grand Underground]] - [[Dazzling Cave]], [[Whiteout Cave]], [[Stargleam Cavern]], [[Glacial Cavern]]}}
+{{Availability/Entry1/None|v=Shining Pearl}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Coronet Highlands]]:''' [[Cloudcap Pass]], massive [[mass outbreak]]s<br>'''[[Alabaster Icelands]]:''' [[Icebound Falls]], [[Arena's Approach]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]], [[Canyon Biome]], [[Polar Biome]], [[Chargestone Cavern]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Blueberry Academy)|Elekid|2★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Puzzle Challenge|color={{gold color}}|area=Hatch the Lightning Egg}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 6]], [[Secret Storage 18]], Endless Level 2, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Thunderwave Cave]] (4F-5F), [[Lightning Field]] (15F-22F), [[Buried Relic]] (41F-59F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Amp Plains]] (1F-8F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Amp Plains]] (1F-8F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Pueltown]]}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Hero Pokémon]]}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Haunted Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Wireless Tower]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#Rumbling Magnetic Motors|Conductor Room: Rumbling Magnetic Motors]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 2|Distortion Island: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Rumbling Hall|White Ruins: Rumbling Hall]] <small>(All Areas)</small>, [[Distortion Land#Electromagnetic Plant|Distortion Land: Electromagnetic Plant]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zapdos Sea]], [[Garchomp Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Arceus Sea]], [[Garchomp Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Thunderwave Cave]] (1F-5F), [[Lightning Field]] (15F-22F), [[Buried Relic]] (5F-9F), [[Purity Forest]] (7F-9F), [[Marvelous Sea]] (16F-17F), [[Fantasy Strait]] (16F-19F)<br/>Fainted Pokémon: [[Lightning Field]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 387]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area={{sync/player|egg|Elekid}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Electric}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Pursuit Elekid|English|United States|5|March 22 to April 11, 2002|link=List of PCNY event Pokémon distributions in Generation II#Pursuit Elekid}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Dizzy Punch Elekid|English|United States|5|October 4 to 10, 2002|link=List of PCNY event Pokémon distributions in Generation II#Dizzy Punch Elekid}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Electric}}
+{{HeldItems/Games1|Diamond|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Electirizer|50}}
+{{HeldItems/Games1|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Electirizer|5}}
+{{HeldItems/Games1|Pokéwalker|gcolor=FF3333|Pokéwalker}}
+{{HeldItems/Items1|Tamato Berry|100|availNote=[[Amity Meadow]],&#32;}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Items1|Electirizer|5|rows=3}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Electirizer|5|availNote=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|tcolor2={{shining pearl color}}|gcolor2=fff|Pokémon Brilliant Diamond and Shining Pearl}}
+{{HeldItems/Items1|Electirizer|5}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Cheri Berry|35|Spoiled Apricorn|15|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|HP=45
+|Attack=63
+|Defense=37
+|SpAtk=65
+|SpDef=55
+|Speed=95
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|Speed=4
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=3
+|Stamina=1
+|StaminaMax=2
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+Elekid is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Elekid|Electric|Electric|2}}
+{{learnlist/level9|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|4|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|8|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|12|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|16|Shock Wave|Electric|Special|60|—|20||'''}}
+{{learnlist/level9|20|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|24|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|28|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/level9|32|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|36|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/level9|40|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level9|44|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|48|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/levelf/9|Elekid|Electric|Electric|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Elekid|Electric|Electric|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM069|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM210|Supercell Slam|Electric|Physical|100|95|15||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tmf/9|Elekid|Electric|Electric|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Elekid|Electric|Electric|2}}
+{{learnlist/breed9|{{MSP/H|0448|Lucario}}|Cross Chop|Fighting|Physical|100|80|5|*||grid=6}}
+{{learnlist/breed9|{{MSP/H|0532|Timburr}}{{MSP/H|0533|Gurdurr}}{{MSP/H|0534|Conkeldurr}}|Dynamic Punch|Fighting|Physical|100|50|5|grid=6}}
+{{learnlist/breed9|{{MSP/H|0106|Hitmonlee}}{{MSP/H|0107|Hitmonchan}}{{MSP/H|0237|Hitmontop}}{{MSP/H|0307|Meditite}}{{MSP/H|0308|Medicham}}{{MSP/H|0391|Monferno}}{{MSP/H|0392|Infernape}}{{MSP/H|0448|Lucario}}{{MSP/H|0475|Gallade}}{{MSP/H|0815|Cinderace}}|Feint|Normal|Physical|30|100|10|grid=6}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}{{MSP/H|0296|Makuhita}}{{MSP/H|0297|Hariyama}}{{MSP/H|0532|Timburr}}{{MSP/H|0533|Gurdurr}}{{MSP/H|0534|Conkeldurr}}|Focus Punch|Fighting|Physical|150|100|20|grid=6}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Follow Me|Normal|Status|—|—|20|grid=6}}
+{{learnlist/breed9|{{MSP/H|0532|Timburr}}{{MSP/H|0533|Gurdurr}}{{MSP/H|0534|Conkeldurr}}{{MSP/H|0861|Grimmsnarl}}|Hammer Arm|Fighting|Physical|100|90|10|grid=6}}
+{{learnlist/breedf/9|Elekid|Electric|Electric|2}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/Trozei|col=6|type=Electric|ndex=239|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Electric|ndex=239
+|body=1
+|rate=10.3
+|area=Power Plant
+|P1=I wave my arms in circles to loose electric attacks!
+|P2=Aww, no... My health is down halfway already...
+|P3=It's no good... I can't charge up, even by windmilling my arms...
+|PL=Yes! I leveled up! Watch my arms windmill!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Electric|ndex=239
+|body=1
+|rate=8.2
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Electric|ndex=239
+|coset=8
+|conto={{p|Tyrogue}}, {{p|Larvitar}}
+|recruitment=Rescue
+|P1=I swing my arms to charge electricity! Here they go! *swing swing*
+|P2=I'm too tired to swing my arms…
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=2
+|num=070
+|browser=It attacks by launching electrified orbs.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=1
+|past=NA
+|num=115
+|browser=It creates waves of electricity around it that make Pokémon Stopped.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Electric
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=239
+|walk=2.08
+|hp=46
+|attack=71
+|defense=47
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Electric|ndex=239
+|Pad=Elekid came to the [[Haunted Zone]] to explore the Haunted House! He's shockingly good at {{DL|Attraction (PokéPark)|Rotom's Spooky Shoot-'em-Up}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Electric|ndex=239
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Electric|ndex=239|num=517
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Eject
+|skilldesc=Removes one non-Support Pokémon icon without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=239
+|hatch=N/A
+|buddy=5
+|candy=Electabuzz
+|evocandy=25
+|stamina=128|attack=135|defense=101
+|fast={{m|Thunder Shock}}, {{m|Low Kick}}
+|special={{m|Thunder Punch}}, {{m|Brick Break}}{{tt|*|From February 16, 2017 onward}}, {{m|Discharge}}, {{m|Thunderbolt}}{{tt|†|Prior to February 16, 2017}}
+}}
+|}
+
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{electric color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}};"| [[File:GO0239Instinct.png|100px]]
+|-
+| [[Spark (GO)|Spark]]-themed accessory
+|}
+
+===Evolution data===
+Elekid [[Evolution|evolves]] into {{p|Electabuzz}} starting at [[level]] 30, which evolves into {{p|Electivire}} when [[Trade Evolution|traded]] while holding an [[Electirizer]]. Electabuzz cannot evolve into Electivire in {{LGPE}}, as Electivire is not present in those games. In {{g|Legends: Arceus}}, Electabuzz evolves into Electivire when exposed to an Electirizer.
+{{evobox-3
+|type1=Electric
+|pictype=art
+|no1=0239
+|name1=Elekid
+|type1-1=Electric
+|breed=[[File:Menu HOME Egg.png|link=Pokémon Egg|40px]]<br>{{color2|000|Pokémon breeding|Breed}}
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0125
+|name2=Electabuzz
+|type1-2=Electric
+|evo2=[[File:Link Trade icon SV.png|40px|link=Trade]] + {{Bag/s|Electirizer|SV}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Electirizer}}
+|no3=0466
+|name3=Electivire
+|type1-3=Electric
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=239}}
+{{Spritebox/3|ndex=239}}
+{{Spritebox/4|ndex=239}}
+{{Spritebox/5|ndex=239}}
+{{Spritebox/6|ndex=239|crop=70}}
+{{Spritebox/7|ndex=239|crop=63}}
+{{Spritebox/8/SwShLA|ndex=239|LAcrop=141}}
+<!--{{Spritebox/9|ndex=0239}}-->
+{{Spritebox/HOME|ndex=0239}}
+{{Spritebox/Footer|0239|Elekid}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color}}"
+|-
+| style="{{roundy|80px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Spr 2g Elekid credits.png]]
+|-
+| Gold and Silver credits' sprite
+|}
+
+==In animation==
+===Main series===
+[[File:Orla Elekid.png|thumb|250px|Elekid in {{aniseries|HZ}}]]
+[[File:Elekid Egg.png|thumb|220px|An Elekid {{pkmn|Egg}} in {{aniseries|GS}}]]
+====Major appearances====
+=====[[Paul's Elekid]]=====
+In ''[[DP003|When Pokémon Worlds Collide!]]'', [[Paul]] used an Elekid to battle [[Ash's Pikachu]]. It then battled [[Roark]] in ''[[DP015|Shapes of Things to Come]]''. Elekid evolved into an Electabuzz in ''[[DP052|Smells Like Team Spirit]]'' during the [[Hearthome City Tag Battle Competition]], and then into an Electivire off-screen sometime prior to ''[[DP184|Casting a Paul on Barry!]]''.
+
+=====Other=====
+Elekid debuted in ''[[PK04|Pikachu's Rescue Adventure]]'', where it quickly became friends with Pikachu. The little Electric Pokémon decided to help Pikachu and his friends find {{TP|Misty|Togepi}}. Elekid even stood by Pikachu's side when he was trying to prevent lightning from striking the Giant Tree.
+
+Elekid made its animated series debut in ''[[EP261|Here's Lookin' at You, Elekid]]'', where {{an|Casey}} {{pkmn2|caught}} one. It reappeared in ''[[HS11|A Date With Delcatty]]'' and ''[[HS17|Those Darn Electabuzz!]]''.
+
+In ''[[AG154|Reversing the Charges]]'', an Elekid absorbed an unhealthily high amount of lightning and was subsequently electrifying every other Pokémon in sight. It calmed down and returned to its normal self after battling Ash's Pikachu.
+
+In ''[[DP137|Three Sides to Every Story!]]'', {{TP|Dawn|Piplup}} and an Elekid working with {{OBP|Lulu|DP137}} fell in love with Lulu's {{p|Marill}}.
+
+An Elekid first appeared in ''[[HZ003|For Sure! 'Cause Sprigatito's with Me!]]'', under the ownership of [[Orla]]. It has since made further appearances through {{aniseries|HZ}}.
+
+====Minor appearances====
+[[File:Tracey drawing Elekid.png|thumb|220px|Elekid's prongs in a drawing]]
+An Elekid appeared in a fantasy in ''[[EP118|The Double Trouble Header]]''.
+
+In ''[[AG013|All Things Bright and Beautifly!]]'', a {{pkmn|Coordinator}}'s Elekid competed in the [[Rustboro City]] {{pkmn|Contest}}.
+
+In ''[[AG015|Gonna Rule The School!]]'', the [[Pokémon Trainers' School]] lent an Elekid to the school's underage students for use in lessons.
+
+In ''[[AG126|Saved by the Beldum]]'', a Trainer's Elekid was seen at the [[Ever Grande Conference]].
+
+An Elekid appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+An Elekid appeared in ''[[DP060|Journey to the Unown!]]''.
+
+In ''[[DP091|One Team, Two Team, Red Team, Blue Team!]]'', {{OBP|Mitchell|DP088}}'s Elekid watched the [[Pokémon Summer Academy]] closing ceremony.
+
+In ''[[DP182|An Old Family Blend!]]'', a {{pkmn|Trainer}}'s Elekid was at the [[Lily of the Valley Conference]].
+
+In ''[[M13|Zoroark: Master of Illusions]]'', an Elekid on the Jubilife Reds with {{p|Electabuzz}} and {{p|Electivire}} competed in the [[Pokémon Baccer World Cup]].
+
+An Elekid appeared in a fantasy in ''[[XY009|Clemont's Got a Secret!]]''.
+
+Two Trainers' Elekid appeared in ''[[SM001|Alola to New Adventure!]]'' and ''[[SM007|That's Why the Litten is a Scamp!‬]]''.
+
+A student's Elekid appeared in ''[[SM002|The Guardian's Challenge]]''. It reappeared in the [[Banned episodes|banned episode]] [[SM064]].
+
+A Trainer's Elekid appeared in ''[[SM004|First Catch in Alola, Ketchum-Style!]]''.
+
+Three Trainers' Elekid appeared in ''[[SM006|A Shocking Grocery Run!]]'' and ''[[SM017|Crystal-Clear Sleuthing!]]''.
+
+In ''[[SM013|Racing to a Big Event!]]'', a Trainer's Elekid competed in the [[Pokémon Pancake Race]].
+
+Two Trainers' Elekid appeared in ''[[SM021|One Journey Ends, Another Begins...]]''.
+
+A Trainer's Elekid appeared in ''[[SM023|Getting the Band Back Together!]]''.
+
+A Trainer's Elekid appeared in ''[[SM027|A Glaring Rivalry!]]''.
+
+A Trainer's Elekid appeared in ''[[SM050|Faba's Revenge!]]''.
+
+A Trainer's Elekid appeared in ''[[SM072|Sours for the Sweet!]]''.
+
+A Trainer's Elekid appeared in ''[[SM081|A Young Royal Flame Ignites!]]''.
+
+In ''[[SM090|Securing the Future!]]'', a Trainer's Elekid joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|true form}}.
+
+Six Trainers' Elekid appeared in ''[[M21|The Power of Us]]''.
+
+In ''[[SM096|Don't Ignore the Small Stufful!]]'', an Elekid was staying at [[Aether Paradise]].
+
+A Trainer's Elekid appeared in ''[[SM119|Aiming for the Top Floor!]]''.
+
+Two Trainers' Elekid appeared in ''[[SM141|Exhibition Unmasked!]]''.
+
+An Elekid appeared in ''[[JN098|Out of Their Elements!]]'', under the ownership of {{OBP|Billy|JN098}}.
+
+A Trainer's Elekid appeared in ''[[HZ009|Welcome to Paldea!]]''.
+
+A Elekid appeared in ''[[HZ077|Ludlow's Homecoming!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP261|Elekid|Ash's Pokédex|Elekid, the Electric Pokémon. Elekid is the {{tt|evolved form|Incorrect; should have said pre-evolved form}} of {{p|Electabuzz}}. It generates electricity by spinning its arms.}}
+{{Animedexfooter/Pokémon|Johto}}
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG154|Elekid|May's Pokédex|Elekid, the Electric Pokémon. It spins its arms to create a powerful electric charge.}}
+{{Animedexfooter/Pokémon|Emerald}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP003|Elekid|Dawn's Pokédex|Elekid, the Electric Pokémon. Elekid waves its arms to produce a strong electrical charge and gains strength when lightning is present.}}
+{{Animedexbody|DP137|Elekid|Ash's Pokédex|Elekid, the Electric Pokémon. Elekid's weak spot is between its horns, but the electric current that runs there can shock the unwary.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+
+===Pokémon: Twilight Wings===
+A Trainer's Elekid appeared in ''[[TW08|The Gathering of Stars]]''.
+
+==In the manga==
+[[File:Volkner Elekid Adventures.png|thumb|250px|Elekid in [[Pokémon Adventures]]]]
+===Pocket Monsters HGSS===
+An Elekid appeared in [[PMHGSS11]].
+
+===Pokémon Adventures===
+Ken of the [[Team Rocket Elite Trio]] owns a female Elekid, which first appeared in ''[[PS094|Elekid Incorporated]]''.
+
+In ''[[PS119|A Flaaffy Kerfuffle]]'', {{adv|Crystal}} {{pkmn2|caught}} a {{pkmn2|wild}} Elekid near an amusement park and later sent it to {{adv|Professor Oak}}.
+
+In ''[[PS404|Encountering Elekid]]'', [[Volkner]] has an Elekid, which he used in his {{pkmn|battle}} against {{adv|Platinum}}.
+
+In ''[[PS442|Out-Odding Oddish]]'', an Elekid appeared under the ownership of a [[Pokéathlon]] participant.
+
+In ''[[PS446|Weavile Wobbles But It Won't Fall Down]]'', a {{tc|Camper}}'s Elekid was at the {{safari|Johto}}.
+
+===Pokémon Gold & Silver: The Golden Boys===
+{{GnB|Gold}} obtained an Elekid in ''[[GB04|Let's Aim For The Goal!]]'' as his prize for winning a basketball tournament at the [[Ruins of Alph]].
+
+===Pokémon: Yeah! I Got Pokémon!===
+An Elekid appeared in [[GDZ36]].
+
+An Elekid appeared in [[GDZ57]], under the ownership of a male Trainer.
+
+===Pokémon Mystery Dungeon: Ginji's Rescue Team===
+Two Elekid appeared in ''[[GRT2|I Want to be Human Again!]]''.
+
+===Pokémon Pocket Monsters===
+An Elekid appeared in ''[[PM060|I Want to Become Popular!!]]''.
+
+===Pokémon Ruby-Sapphire===
+An Elekid appeared in ''[[PMRS02|I Won't Let You Lead!!]]''.
+
+==In the TCG==
+{{main|Elekid (TCG)}}
+
+==In the TFG==
+One Elekid figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Elekid|6}}
+
+==Trivia==
+* In English, the {{pkmn|category}} "Electric Pokémon" is shared by Elekid, {{p|Electabuzz}}, and Kantonian {{p|Zapdos}}.
+** In Japanese, Elekid has the category でんきポケモン ''Denki Pokémon'' (Electric Pokémon), while the other two Pokémon share the category でんげきポケモン ''Dengeki Pokémon'' (Electric Shock Pokémon).
+* Elekid and {{p|Magby}} can be considered counterparts. Both are [[Baby Pokémon]] introduced in [[Generation II]] who evolve starting at [[Level]] 30 and whose evolved forms evolve via trading with an item containing the suffix "-izer" . Both have the same gender ratio (75% male, 25% female), and both are typically exclusive to one version of a pair of games. They both have similar status-inducing Abilities in {{a|Flame Body}} and {{a|Static}}, as well as the same Hidden Ability, {{a|Vital Spirit}}. They also learn [[move]]s at the same level that have equal chances of causing a [[status condition]].
+
+===Origin===
+Elekid, being the baby form of {{p|Electabuzz}}, may be based on an {{wp|oni}}, a Japanese {{wp|ogre}}. Its antennas seem to be based on American and Japanese {{wp|AC power plugs and sockets|AC power plugs}}. There's a {{wp|lightning}} symbol on its belly indicating its {{t|Electric}} abilities. Elekid's way of charging, which is spinning its arms, works like {{wp|electric generator}}, which converts mechanical energy into electric power.
+
+====Name origin====
+Elekid may be a combination of ''electric'' or エレキ ''eleki'' (electric) and ''kid''.
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=エレキッド ''Elekid''|jameaning=From {{tt|エレキ ''eleki''|electric}} and ''kid''
+|fr=Élekid|frmeaning=Same as English/Japanese name
+|es=Elekid|esmeaning=Same as English/Japanese name
+|de=Elekid|demeaning=Same as English/Japanese name
+|it=Elekid|itmeaning=Same as English/Japanese name
+|ko=에레키드 ''Elekid''{{tt||*|Games}}<br>엘레키드 ''Elekid''{{tt||*|Animated series}}|komeaning=Transcription of Japanese name
+|zh_cmn=電擊怪 / 电击怪<br>''Diànjíguài / Diànjīguài''|zh_cmnmeaning=From {{tt|電擊 / 电击 ''diànjí / diànjī''|electric shock}} and {{tt|怪 ''guài''|monster}}
+|zh_yue=電擊怪 ''Dihngīkgwaai''|zh_yuemeaning=From {{tt|電擊 ''dihngīk''|electric shock}} and {{tt|怪 ''gwaai''|monster}}
+|hi=इलेकचा ''Eleckcha''|himeaning=From ''electric'' or ''electricity'' and {{tt|बच्चा ''Bachcha''|Child/Kid}}
+|ru=Элекид ''Elekid''|rumeaning=Transcription of English name
+|th=เอเลคิด ''Elekhit''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==See also==
+* [[Paul's Electivire|Paul's Elekid]]
+* [[Partner Pokémon (Mystery Dungeon)]]
+* [[Baby Pokémon]]
+
+==External links==
+{{Baby Pokémon}}
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0238|prev=Smoochum|nextnum=0240|next=Magby}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Baby Pokémon]]
+[[Category:Pokémon that appeared in the animated series before their game debut]]
+
+[[de:Elekid]]
+[[es:Elekid]]
+[[fr:Élekid]]
+[[it:Elekid]]
+[[ja:エレキッド]]
+[[zh:电击怪]]

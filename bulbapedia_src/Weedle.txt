@@ -1,0 +1,688 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/GO|species=Weedle}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0012|nextnum=0014|prev=Butterfree|next=Kakuna|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Weedle
+|jname=ビードル
+|jtranslit=Bīdoru
+|tmname=Beedle
+|ndex=0013
+|typebox=1
+|type1=Bug
+|type2=Poison
+|category=Hairy Bug
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=7.1
+|weight-kg=3.2
+|abilityn=d
+|ability1=Shield Dust
+|abilityd=Run Away
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=1
+|evsp=1
+|expyield=39
+|oldexp=52
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=14
+|pokefordex=weedle
+|generation=1
+|friendship=70
+}}
+'''Weedle''' ([[List of Japanese Pokémon names|Japanese]]: '''ビードル''' ''Beedle'') is a dual-type {{2t|Bug|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] into {{p|Kakuna}} starting at [[level]] 7, which evolves into {{p|Beedrill}} starting at level 10.
+
+==Biology==
+Weedle is a larval {{wp|insect}} {{OBP|Pokémon|species}} with a segmented body ranging in color from yellow to reddish-brown. Each segment of its body is a sphere. It has a bulbous red nose, two small, black eyes on its face, and two spherical feet on each body segment. The combination of red and yellow in its color scheme creates a bright warning to predators that it is poisonous. Weedle has a conical, two-inch (five-centimeter) venomous stinger on its head and a barbed one on its tail. Weedle can retaliate against attackers and those who step on it with its strong toxin. It can distinguish its favorite kinds of leaves using its acute sense of smell. As a young {{type|Bug}} Pokémon, its daily appetite for leaves matches its weight. Weedle can be found in {{DL|List of Pokémon by habitat|Forest Pokémon|temperate forests}} and usually hide in grass, bushes, and under the leaves they eat.
+
+===Evolution===
+Weedles evolves into {{p|Kakuna}}, which evolves into {{p|Beedrill}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0013
+|name1=Weedle
+|type1-1=Bug
+|type2-1=Poison
+|evo1=
+|no2=0014
+|name2=Kakuna
+|type1-2=Bug
+|type2-2=Poison
+|evo2=
+|no3=0015
+|name3=Beedrill
+|type1-3=Bug
+|type2-3=Poison}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Poison}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=013}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Often found in forests, eating leaves. It has a sharp venomous stinger on its head.}}
+{{Dex/Entry1|v=Yellow|entry=Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=A common sight in forests and grassy areas. Has a poison stinger on its head that may be used if you step on it.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=027}}
+{{Dex/Entry1|v=Gold|entry=Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.}}
+{{Dex/Entry1|v=Silver|entry=It attacks using a {{tt|two-inch|5cm}} poison barb on its head. It can usually be found under the leaves it eats.}}
+{{Dex/Entry1|v=Crystal|entry=The barb on top of its head secretes a strong poison. It uses this toxic barb to protect itself.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=013}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Weedle</sc> has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A <sc>Weedle</sc> has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).}}
+{{Dex/Entry1|v=FireRed|entry=Often found in forests and grasslands. It has a sharp, toxic barb of around {{tt|two inches|5cm}} on top of its head.}}
+{{Dex/Entry1|v=LeafGreen|entry=Often found in forests, eating leaves. It has a sharp stinger on its head that injects poison.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=027}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It eats its weight in leaves every day. It fends off attackers with the needle on its head.}}
+{{Dex/Entry1|v=HeartGold|entry=Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.}}
+{{Dex/Entry1|v=SoulSilver|entry=It attacks using a {{tt|two-inch|5cm}} poison barb on its head. It can usually be found under the leaves it eats.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It {{tt|eats its weight|7.2 lb/3.2kg}} in leaves every day. It fends off attackers with the needle on its head.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It eats its weight in leaves every day. It fends off attackers with the needle on its head.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=026|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=013}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It eats its weight in leaves every day. It fends off attackers with the needle on its head.}}
+|}
+|}
+{{Dex/Gen/4|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|reg4=Legends Z-A|num4=018}}
+{{Dex/NE|[[Pokémon Scarlet and Violet|Scarlet and Violet]]}}
+{{Dex/Entry1|v=Legends Z-A|t=FFF|entry=Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Red|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|1|v=Blue|t=fff|area={{rt|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{rt|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1/None|1|v=Yellow}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Silver|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|30|Johto}}, and {{rtn|31|Johto}}, [[Ilex Forest]], [[National Park]]{{sup/t|M}}{{sup/t|D}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}, [[Azalea Town]], [[Ilex Forest]], [[Lake of Rage]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|1|v=Crystal|area=[[Route]]s {{rtn|30|Johto}} and {{rtn|31|Johto}}, [[Ilex Forest]], [[National Park]]{{sup/t|M}}{{sup/t|D}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>[[Ilex Forest]] ([[Headbutt tree]]s)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Viridian Forest]], [[Pattern Bush]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|204|Sinnoh}} {{color2|{{LeafGreen color dark}}|Dual-slot mode|(LeafGreen)}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|204|Sinnoh}}, [[Eterna Forest]] {{color2|{{LeafGreen color dark}}|Dual-slot mode|(LeafGreen)}}}}
+{{Availability/Entry1|v=HeartGold|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=SoulSilver|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|30|Johto}}, and {{rtn|31|Johto}}, [[Ilex Forest]], [[National Park]], [[Viridian Forest]]{{sup/t|M}}{{sup/t|D}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>[[Ilex Forest]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Black|t=fff|area={{pkmn|breeding|Breed}} {{p|Kakuna}} or {{p|Beedrill}}}}
+{{Availability/Entry1/None|1|v=White}}
+{{Availability/Entry1|1|v=Black 2|t=fff|area={{pkmn|breeding|Breed}} {{p|Beedrill}}}}
+{{Availability/Entry1/None|1|v=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|v=X|t=fff|area={{rt|2|Kalos}}, [[Santalune Forest]]}}
+{{Availability/Entry1|v=Y|t=FFF|area=[[Santalune Forest]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Kakuna}} or {{p|Beedrill}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Pokémon breeding|Breed]] {{p|Beedrill}}}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area={{rt|2|Kanto}}, [[Viridian Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry1/None|v=Brilliant Diamond}}
+{{Availability/Entry1|v=Shining Pearl|area=[[Grand Underground]] - [[Spacious Cave]], [[Grassland Cave]], [[Swampy Cave]], [[Riverbank Cave]] [[Still-Water Cavern]], [[Sunlit Cavern]], [[Bogsunk Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Red Field|Red]] and [[Blue Field]]: [[Viridian Forest]], [[Cerulean City]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 9]], [[Secret Storage 17]], Endless Level 15, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Silent Chasm]] (B1F-B6F), [[Mt. Thunder]] (1F-4F), [[Joyous Tower]] (28F-34F), [[Oddity Cave]] (B1F-B4F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Apple Woods]] (4F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Apple Woods]] (4F-9F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Vien Forest]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode B)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Meadow Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Misty Edgewater]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#All Aboard!|Model Train Room: All Aboard!]], [[Chill Battle#The Forest of Memories|Chill Battle: The Forest of Memories]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 2|Blade-and-Shield Path: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Castle Farm|Dewdrop Bay: Dewdrop Bay: Castle Farm]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=Tutorial, [[Charizard Sea]]<sup>2019</sup>, [[Mewtwo Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Silent Chasm]] (1F-6F), [[Joyous Tower]] (28F-34F), [[Purity Forest]] (9F-12F), [[Oddity Cave]] (1F-2F), [[Remains Island]] (1F-2F), [[Marvelous Sea]] (1F-2F), [[Fantasy Strait]] (1F-2F)<br/>Fainted Pokémon: [[Silver Trench]], [[Mt. Faraway]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 337]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area={{sync/player|egg|Weedle}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Bug|type2=Poison}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Poison
+|HP=40
+|Attack=35
+|Defense=30
+|SpAtk=20
+|SpDef=20
+|Speed=50
+|Special=20
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Poison
+|Speed=1
+|SpeedMax=3
+|Power=2
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=1
+|StaminaMax=3
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Poison
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=50
+|Ground=100
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=25
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|gen1bug=yes
+|gen1poison=yes
+|oldbug=2
+|oldpoison=1
+}}
+
+===Learnset===
+Weedle is available in {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Weedle|Bug|Poison|1}}
+{{learnlist/level8|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level8|1|String Shot|Bug|Status|&mdash;|95|40||}}
+{{learnlist/level8|9|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/levelf/8|Weedle|Bug|Poison|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/8|Weedle|Bug|Poison|1}}
+{{learnlist/tm8null}}
+{{learnlist/tmf/8|Weedle|Bug|Poison|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Weedle|Bug|Poison|1}}
+{{learnlist/breed8null}}
+{{learnlist/breedf/8|Weedle|Bug|Poison|1}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Weedle|Bug|Poison|1}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Weedle|Bug|Poison|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|- style="background:#fff"
+| {{m|Fury Attack}}
+| [[Weedle (Skyridge 114)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Peck}}
+| style="background:#fff; {{roundybr|5px}}" | [[Weedle (Vending S1)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Poison}}
+{{Spindata/Pinball|col=3|type=Bug|ndex=013|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=013|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=013
+|body=1
+|rate=11.4
+|area=Mist-Rise Forest
+|P1=My horn's poisonous.
+|P2=My HP is down by half...
+|P3=I'm ready to collapse...
+|PL=I leveled! Yay!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=013
+|body=1
+|rate=8.2
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=013
+|coset=3
+|conto={{p|Spinarak}}
+|recruitment=Feed an [[Food (Mystery Dungeon)|Apple]] to in a dungeon
+|P1=My red nose can find yummy leaves!
+|P2=This is so rough...
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Bug
+|group=Bug
+|assist=Bug
+|field=Tackle
+|fieldpower=1
+|num=057
+|browser=It attacks by spitting sticky silk.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=013
+|walk=2.92
+|hp=45
+|attack=60
+|defense=39
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Bug|ndex=013
+|Pad=Weedle fell out of the White Tree near a waterfall in the [[Meadow Zone]]! His favorite Attraction is {{DL|Attraction (PokéPark)|Bulbasaur's Daring Dash}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=013
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=013|stype=Poison|num=423
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=013
+|hatch=N/A{{tt|*|Previously available in 2 km}}
+|buddy=1
+|candy=Weedle
+|evocandy=12
+|stamina=120
+|attack=63
+|defense=50
+|fast={{m|Bug Bite}}, {{m|Poison Sting}}
+|special={{m|Struggle}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+In {{g|GO}}, Weedle can be obtained by completing 1/4 of the [[Special Research]], ''A Mega Discovery''.
+
+===Evolution data===
+{{Evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0013
+|name1=Weedle
+|type1-1=Bug
+|type2-1=Poison
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 7}}
+|no2=0014
+|name2=Kakuna
+|type1-2=Bug
+|type2-2=Poison
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 10}}
+|no3=0015
+|name3=Beedrill
+|type1-3=Bug
+|type2-3=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Poison}}
+{{Spritebox/1|ndex=013}}
+{{Spritebox/2|ndex=013}}
+{{Spritebox/3|ndex=013}}
+{{Spritebox/4|ndex=013}}
+{{Spritebox/5|ndex=013}}
+{{Spritebox/6|ndex=013|crop=53}}
+{{Spritebox/7/PE|ndex=013|crop=52|PEcrop=108}}
+<!--{{Spritebox/8/BDSP|ndex=013}}-->
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0013}}
+{{Spritebox/Footer|013|Weedle}}
+
+==In animation==
+===Main series===
+[[File:Vermilion Forest Weedle.png|thumb|250px|Weedle in {{aniseries|JN}}]]
+====Major appearances====
+Multiple Weedle debuted in ''[[EP004|Challenge of the Samurai]]'', where {{Ash}} was very close to {{pkmn2|caught|catching}} one. He used his newly caught {{AP|Pidgeotto}} to battle it, which resulted in Weedle being knocked unconscious. However, when Ash was about to throw his {{i|Poké Ball}}, [[Samurai]] came up and asked Ash if he was a {{pkmn|Trainer}} from [[Pallet Town]]. This distracted Ash from catching Weedle, allowing it to escape. This same Weedle later warned its kind, and together, they tried to avenge its attempted capture by attacking {{ashfr}}.
+
+In ''[[EP161|The Bug Stops Here]]'', {{an|Casey}} caught a Weedle during the [[Bug-Catching Contest]], and later {{pkmn2|released}} it in accordance with the Contest rules.
+
+====Minor appearances====
+A Weedle appeared in ''[[EP034|The Kangaskhan Kid]]''.
+
+In ''[[EP056|The Ultimate Test]]'', a Trainer allowed {{Todd}} to photograph his Weedle. Due to a coloring error, this Weedle was colored green like a {{p|Caterpie}}. [[Generation II]] revealed that {{Shiny}} Weedle are green as well.
+
+A Trainer's Weedle appeared in ''[[M01|Mewtwo Strikes Back]]'' and ''[[M22|Mewtwo Strikes Back—Evolution]]''.
+
+In ''[[EP088|In the Pink]]'', multiple {{DL|List of alternately colored Pokémon in animation|Pink Pokémon|pink}} Weedle were residents of [[Pinkan Island]].
+
+In ''[[EP097|Tracey Gets Bugged]]'', a Weedle was one of the {{type|Bug}} Pokémon on [[Murcott Island]].
+
+A {{pkmn2|wild}} Weedle appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP121|Illusion Confusion!]]'', a Weedle was one of the illusions created by a group of {{p|Haunter}} and {{p|Gengar}}.
+
+In ''[[EP132|For Crying Out Loud]]'', multiple Weedle were accidentally soaked by [[Wilhomena]]'s {{p|Marill}}.
+
+In ''[[EP144|Gettin' The Bugs Out]]'', multiple Weedle were residents of [[Azalea Gym]]. They assisted in tying {{TRT}} up with silk.
+
+Multiple Weedle appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+In ''[[EP207|Got Miltank?]]'', a Weedle was an inhabitant of a Pokémon-exclusive oasis.
+
+In ''[[EP227|For Ho-Oh the Bells Toll!]]'', multiple Weedle protected the [[Bell Tower|Tin Tower]] after Team Rocket stole the [[Clear Bell|Crystal Bells]] on the top floor.
+
+In ''[[EP235|Talkin' 'Bout an Evolution]]'', a Weedle fell sick due to Team Rocket's experiments.
+
+In the [[Banned episodes|banned episode]] [[EP250]], a Weedle was in a forest outside the [[Ice Path|Ice Cave]].
+
+A Weedle appeared in ''[[AG014|All in a Day's Wurmple]]''.
+
+In ''[[AG015|Gonna Rule The School!]]'', the [[Pokémon Trainers' School]] lent a Weedle to the school's underage students for use in lessons.
+
+A Weedle appeared in ''[[M07|Destiny Deoxys]]''.
+
+In ''[[AG143|The Saffron Con]]'', a {{pkmn|Coordinator}}'s Weedle was stolen by Team Rocket. After being returned, it competed in the [[Saffron City]] [[Pokémon Contest]] in [[AG144|the next episode]].
+
+A Weedle appeared in ''[[AG155|The Green Guardian]]''.
+
+Two Weedle appeared in ''[[AG168|Three Jynx and a Baby!]]''.
+
+Two Weedle appeared in ''[[AG169|Talking a Good Game!]]''.
+
+In ''[[AG191|Once More With Reeling!]]'', a Coordinator's Weedle participated in the {{to|Terracotta}} {{pkmn|Contest}}.
+
+A Weedle appeared in ''[[DP001|Following A Maiden's Voyage!]]''.
+
+In ''[[DP038|One Big Happiny Family!]]'', a Weedle was healed by [[Nurse Joy]] after being injured.
+
+A Weedle appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Weedle living in {{an|Professor Sycamore}}'s lab appeared in ''[[XY002|Lumiose City Pursuit!]]'', ''[[XY010|Mega-Mega Meowth Madness!]]'', ''[[XY040|Day Three Blockbusters!]]'', and ''[[XY137|Battling With a Clean Slate!]]''; as well as in a flashback in ''[[XY068|Garchomp's Mega Bond!]]''.
+
+A Weedle appeared in ''[[XY015|An Appetite for Battle!]]''.
+
+A Weedle appeared in a flashback in ''[[XY108|A Watershed Moment!]]''.
+
+A Weedle appeared in a flashback in ''[[XY121|Seeing the Forest for the Trees!]]''.
+
+Two Weedle appeared in ''[[M20|I Choose You!]]''.
+
+A Weedle appeared in a flashback in ''[[JN001|Enter Pikachu!]]''.
+
+In ''[[JN006|Working My Way Back to Mew!]]'', [[Goh]] caught a {{DL|List of Goh's Pokémon|Weedle}}. It has since made further appearances in {{aniseries|JN}}.
+
+A Trainer's Weedle appeared in ''[[JN021|Caring for a Mystery!]]''.
+
+Two Weedle appeared in ''[[JN033|Trade, Borrow, and Steal!]]'', with one under the ownership of a Trainer and the other being wild.
+
+A Trainer's Weedle appeared in ''[[JN047|Crowning the Chow Crusher!]]''.
+
+A Weedle appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Weedle appeared in ''[[JN147|The Rainbow and the Pokémon Master!]]''.
+
+Two Weedle appeared in ''[[HZ004|The Treasure After the Storm!]]''. They reappeared in ''[[HZ005|Found You, Fuecoco!]]'', where they helped repair the damage to the [[Brave Olivine]]. One of them reappeared during a flashback in ''[[HZ062|A New Song for Fuecoco]]''.
+
+A Weedle appeared in ''[[HZ057|The Terapagos I Don't Know]]'', under the ownership of a student.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP004|Weedle|Ash's Pokédex|Weedle. The stinger on this Pokémon's head guarantees that any attacker will get the point right where it hurts.}}
+{{Animedexfooter/Pokémon|Kanto}}
+
+===Pokémon Origins===
+[[File:Weedle Magnemite Zubat PO.png|thumb|250px|Weedle in [[Pokémon Origins]]]]
+In ''[[PO01|File 1: Red]]'', a Weedle was one of the Pokémon seen in [[Professor Oak]]'s introduction.
+
+In ''[[PO03|File 3: Giovanni]]'', a Weedle was at [[Silph Co.]]
+
+===POKÉTOON===
+A Weedle appeared in ''[[PT04|Wait for Me, Magikarp!]]''.
+
+A Weedle appeared in [[PT12]].
+{{-}}
+
+==In the manga==
+[[File:Green Weedle.png|thumb|220px|Weedle in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+====Minor appearances====
+Weedle debuted in ''[[PS002|Bulbasaur, Come Home!]]'' as one of the Pokémon that escaped from [[Professor Oak's Laboratory]].
+
+In ''[[PS011|Buzz Off, Electabuzz!]]'', a Weedle reunited with its {{pkmn|Trainer}}.
+
+In ''[[PS039|Just a Spearow Carrier]]'', {{adv|Green}} {{pkmn2|caught}} a Weedle to try to trick people into trading better Pokémon for it at the [[Pokémon League]] tournament.
+
+A Weedle appeared in ''[[PS091|Murkrow Row]]'' as one of the residents of {{adv|Gold}}'s house.
+
+A Weedle appeared in ''[[PS133|Absolutely Azumarill]]'', where {{adv|Crystal}} failed to catch it.
+
+A Weedle appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+===Pokémon Pocket Monsters===
+A Weedle appeared in ''[[PM002|Big Battle in the Viridian Forest!!]]''.
+
+A Weedle appeared in ''[[PM051|Pikachu's Birthday Party]]''.
+
+A Weedle appeared in ''[[PM079|The Hardest Bug Pokémon Wins?!]]''.
+
+A Weedle appeared in ''[[PM108|The Exam Showdown!!]]''.
+
+===Pocket Monsters DP===
+A Weedle appeared in [[PMDP16]].
+
+===Magical Pokémon Journey===
+A Weedle appeared in ''[[PPP01|How Do You Do, Pikachu?]]''.
+
+[[File:Shu Weedle.png|thumb|220px|Weedle in [[Pokémon: Yeah! I Got Pokémon!]]]]
+===Pokémon: Yeah! I Got Pokémon!===
+A Weedle appeared in [[GDZ15]].
+
+[[Shu]] befriended and caught a Weedle in [[GDZ19]].
+
+A Weedle appeared in [[GDZ21]].
+
+A Weedle appeared in [[GDZ23]].
+
+A Weedle appeared in [[GDZ48]].
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Trainer's Weedle appeared in ''[[GB23|Let's Fight For The Future!!]]''.
+
+===Pokémon Journeys===
+[[Goh]] caught a Weedle in ''[[JNM03|Battle Frontier Challenge: The Flute Cup!]]'', just like he does in the [[Pokémon Journeys: The Series|animated series]].
+
+==In the TCG==
+{{main|Weedle (TCG)}}
+
+==In the TFG==
+One Weedle figure has been released.
+
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Weedle|38}}
+
+==Trivia==
+* Weedle has the lowest base stat total of all {{type|Poison}} Pokémon.
+** Weedle is tied with {{p|Gastly}} for the lowest base {{stat|Defense}} of all Poison-type Pokémon.
+** Weedle is also tied with {{p|Caterpie}}, {{p|Magikarp}}, {{p|Igglybuff}}, {{p|Carvanha}}, {{DL|List of Pokémon with form differences|Attack Forme}} {{p|Deoxys}}, and {{p|Stonjourner}} for the lowest base {{stat|Special Defense}} stat of all Pokémon.
+* Until {{game|Platinum}}, Weedle was completely incapable of dealing damage to {{type|Steel}} Pokémon—outside of {{m|Struggle}}—because it could only learn {{m|Poison Sting}}, to which Steel types are immune. From Platinum onward, Weedle can learn {{m|Bug Bite}}.
+* Prior to Generation VI, Weedle's shape was [[File:Body02.png|32px]].
+* Weedle is the only Pokémon that cannot legitimately know any {{type|Normal}} moves.
+
+===Cultural impact===
+* Weedle was [[List of references to Pokémon in science|the inspiration for the naming]] of ''Stentorceps weedlei'', a species of wasps. Both Weedle and ''Stentorceps weedlei'' exhibit the distinctive feature of having a spine in the middle of the organism's head.<ref name="Real-life taxonomic influence">[http://www.waspweb.org/Cynipoidea/Figitidae/Eucoilinae/Stentorceps/Stentorceps_weedlei.htm ''Stentorceps weedlei'' Nielsen & Buffington]</ref>
+
+===Concept and development===
+[[File:Kokana.png|thumb|100px|Weedle's early design, Kokana]]
+Weedle and its Evolutions were designed by [[Atsuko Nishida]].<ref>[https://web.archive.org/web/19980121112202fw_/http://www.gamefreak.co.jp/POKEMON/INTER/ATSUKO/INTER_AT.HTM Interview with Atsuko Nishida on Game Freak's website]</ref>
+
+An {{DL|List of unused Pokémon and character designs|Kokana|early design}} of Weedle's sprite was shown on Game Freak's official Japanese website.
+
+===Origin===
+Weedle appears to be based on a {{wp|wasp}} or {{wp|bee}} {{wp|larva}} and needles or stings. As suggested by its Japanese Pokémon {{pkmn|category}}, it may also be based on {{wp|Caterpillar#Human health|stinging caterpillars}}.
+
+====Name origin====
+Weedle may be a combination of ''{{wp|worm}}'' and ''needle''.
+
+Beedle may be a combination of ''bee'' and ''needle''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Poison
+|ja=ビードル ''Beedle''|jameaning=From ''bee'' and ''needle''
+|fr=Aspicot|frmeaning=From ''{{tt|asticot|maggot}}'' and ''{{tt|picot|pin}}''
+|es=Weedle|esmeaning=Same as English name
+|de=Hornliu|demeaning=From ''Horn''
+|it=Weedle|itmeaning=Same as English name
+|ko=뿔충이 ''Ppulchungi''|komeaning=From {{tt|뿔 ''ppul''|horn}}, {{tt|충 ''chung''|insect}}, and {{tt|～이 ''-i''|diminutive suffix}}
+|zh_cmn=獨角蟲 / 独角虫 ''Dújiǎochóng''|zh_cmnmeaning=From {{tt|獨 / 独 ''dú''|single}}, {{tt|角 ''jiǎo''|horn}}, and {{tt|蟲 / 虫 ''chóng''|bug}}
+|zh_yue=獨角蟲 ''Duhkgokchùhng''|zh_yuemeaning=From {{tt|獨 ''duhk''|single}}, {{tt|角 ''gok''|horn}}, and {{tt|蟲 ''chùhng''|bug}}
+|he=ווידל ''Weedel''|hemeaning=Transcription of English name
+|hi=वीडल ''Weedle''|himeaning=Transcription of English name
+|lt=Vydla|ltmeaning=From English name
+|ru=Видл ''Vidl''|rumeaning=Transcription of English name
+|th=บีเดิล ''Bidoen''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Giovanni's Weedle]]
+
+==References==
+<references />
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0012|prev=Butterfree|nextnum=0014|next=Kakuna|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Body style 02 Pokémon]]<!--Prior to Gen VI-->
+
+[[de:Hornliu]]
+[[es:Weedle]]
+[[fr:Aspicot]]
+[[it:Weedle]]
+[[ja:ビードル]]
+[[zh:独角虫]]

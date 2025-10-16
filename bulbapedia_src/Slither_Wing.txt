@@ -1,0 +1,320 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Fighting}}
+{{PokémonPrevNext/GO|species=Slither Wing}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0987|prev=Flutter Mane|nextnum=0989|next=Sandy Shocks|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Slither Wing
+|jname=チヲハウハネ
+|jtranslit=Chiohauhane
+|tmname=Chiwohauhane
+|ndex=0988
+|type1=Bug
+|type2=Fighting
+|category=Paradox
+|height-ftin=10'06"
+|height-m=3.2
+|weight-lbs=202.8
+|weight-kg=92.0
+|abilitylayout=1
+|ability1=Protosynthesis
+|ability2=
+|abilityd=
+|egggroupn=1
+|egggroup1=No Eggs Discovered
+|egggroup2=
+|eggcycles=50
+|evtotal=3
+|evhp=0
+|evat=3
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=285
+|lv100exp=1250000
+|gendercode=255
+|color=White
+|catchrate=30
+|body=08
+|pokefordex=slither-wing
+|generation=9
+|friendship=0
+}}
+'''Slither Wing''' ([[List of Japanese Pokémon names|Japanese]]: '''チヲハウハネ''' ''Chiwohauhane'') is a dual-type {{2t|Bug|Fighting}} [[Paradox Pokémon]] introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It is said to be either an ancient relative of {{p|Volcarona}} or a counterpart of it from a parallel timeline. It also has a futuristic variant, {{p|Iron Moth}}.
+
+==Biology==
+[[File:988Slither Wing Dream 2.png|thumb|left|200px|Slither Wing standing on two legs]]
+Slither Wing is a large, moth-like Pokémon with four legs. It appears to have compound eyes that are two shades of red, and there is a red spiny horn-like structure on each side of its face. The fuzz on its body and legs is smoky white and messy. Its thorax is navy blue in the center, and its tail-like abdomen is teal with black dots. It has six leaf-like wings that are orange in color with yellow-orange tips and small green diamond-shaped marks, but they do not seem to be strong enough to allow it to fly. Even though it is mostly quadrupedal, it can stand on two legs, mostly during battles.
+
+In an article from an August issue of {{DL|Magazines in the Pokémon world|Occulture}} magazine, it is stated that there have been few sightings reported of Slither Wing, whose name is taken from that of a similar creature described in the [[Scarlet Book]]. It shares traits with {{p|Volcarona}}, and some theorize that it may have been revived from fossils of a prehistoric era. However, no Volcarona fossils of that era are known to have been found.
+
+According to [[Professor Sada|AI Sada]], Slither Wing is an ancient Pokémon related to Volcarona. However, according to a version of Professor Sada that appeared at the [[Crystal Pool]], Slither Wing is a counterpart of Volcarona from another timeline. Its true origin is unknown. Slither Wing was brought to the depths of [[Area Zero]] by a [[time machine]] built by Professor Sada ten years ago. 200 years ago, [[Heath]] also encountered Slither Wing, as seen in the Scarlet Book, though it is unclear how it arrived there at the time.
+{{left clear}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Fighting}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=380|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon somewhat resembles an ancient form of {{p|Volcarona}} that was introduced in a dubious magazine.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fighting color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Slither Wing SV.png|x200px]]
+|-
+| Slither Wing in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Fighting}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|1|v=Scarlet|t=FFF|area=[[Area Zero]]}}
+{{Availability/Entry1/None|1|v=Violet|area=[[Union Circle]], [[Poké Portal News]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====[[Poké Portal News]]=====
+{{eventAvail/h|Tera Type|type=Bug|type2=Fighting|lochide=yes}}
+{{eventAvail|{{gameabbrev9|S}}|Slither Wing and Iron Moth Spotlight|Random<br>Fire|hide|75|September 22 to 24, 2023|link=Poké Portal News/2023#September 22 to 24, 2023}}
+{{eventAvail|{{gameabbrev9|S}}|Roaring Moon and Iron Valiant the Unrivaled|Random|hide|75|October 3 to 12, 2025|link=Poké Portal News#October 3 to 12, 2025}}
+|}
+
+====In side games====
+
+===Held items===
+{{HeldItems/header|type=Bug|type2=Fighting}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=FFF|gcolor2=FFF|tcolor2={{Violet color}}|Pokémon Scarlet and Violet}}
+{{HeldItems/Items1|Booster Energy|size=24px|5}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Fighting
+|HP=85
+|Attack=135
+|Defense=79
+|SpAtk=85
+|SpDef=105
+|Speed=81
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Fighting
+|Normal=100
+|Fighting=50
+|Flying=400
+|Poison=100
+|Ground=50
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Slither Wing|Bug|Fighting|9}}
+{{learnlist/level9|1|Gust|Flying|Special|40|100|35}}
+{{learnlist/level9|1|Ember|Fire|Special|40|100|25}}
+{{learnlist/level9|1|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|7|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/level9|7|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|14|Flame Charge|Fire|Physical|50|100|20}}
+{{learnlist/level9|21|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level9|28|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/level9|35|Morning Sun|Normal|Status|—|—|5}}
+{{learnlist/level9|42|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/level9|49|Superpower|Fighting|Physical|120|100|5||'''}}
+{{learnlist/level9|56|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/level9|63|Dual Wingbeat|Flying|Physical|40|90|10}}
+{{learnlist/level9|70|First Impression|Bug|Physical|90|100|10||'''}}
+{{learnlist/level9|77|Whirlwind|Normal|Status|—|—|20}}
+{{learnlist/level9|84|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/level9|91|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/levelf/9|Slither Wing|Bug|Fighting|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Slither Wing|Bug|Fighting|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20||'''}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM038|Flame Charge|Fire|Physical|50|100|20}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM064|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15||'''}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM165|Flare Blitz|Fire|Physical|120|100|15}}
+{{learnlist/tm9|TM167|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tm9|TM189|Heat Crash|Fire|Physical|—|100|10}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM207|Temper Flare|Fire|Physical|75|100|10}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Slither Wing|Bug|Fighting|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Slither Wing|Bug|Fighting|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Slither Wing|Bug|Fighting|9}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Fighting}}
+{{Spindata/GO|col=6|type=Bug|ndex=0988
+|hatch=N/A
+|buddy=20
+|evolution=N/A
+|stamina=198
+|attack=261
+|defense=193
+|fast=
+|special=
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Bug
+|type2=Fighting
+|pictype=art
+|no1=0988
+|name1=Slither Wing
+|type1-1=Bug
+|type2-1=Fighting}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=bug|type2=fighting}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0988}}-->
+{{Spritebox/HOME|ndex=0988}}
+{{Spritebox/Footer|988|Slither Wing}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+==In the TCG==
+{{main|Slither Wing (TCG)}}
+
+==Trivia==
+* Slither Wing is both the [[List of Pokémon by height|tallest]] {{type|Bug}} {{OBP|Pokémon|species}} and the tallest {{type|Fighting}} Pokémon.
+* Slither Wing and {{p|Iron Moth}} can be considered counterparts of one another.
+** Both share one [[type]] with {{p|Volcarona}}, but neither share the same type with each other.
+** Both are the first Paradox Pokémon used by the AI Professors in their battles with the player.
+** Both are the only Paradox Pokémon that can be naturally found in the same area as their relative.
+* Slither Wing:
+** Is the only Pokémon whose Japanese name contains the kana {{j|ヲ}} ''wo''.
+***This is because it's only used as a grammatical particle in modern Japanese, so Paradox Pokémon having sentences of normal words as names gives the unique opportunity to use it.
+** Is tied with {{p|Basculegion}} and {{p|Poltchageist}} for the greatest number of unique characters in its English name, with 11 (including spaces).
+** Is the only Bug-type {{DL|List of Pokémon by shape|Pokémon with a quadruped body}}, excluding the forms of {{p|Arceus}} and {{p|Silvally}}.
+
+===Origin===
+Slither Wing is based on {{p|Volcarona}}. As such, it is also likely based on the same moths Volcarona is likely based on, such as the {{wp|Attacus atlas|Atlas moth}} or {{wp|Hyalophora cecropia|cecropia moth}}. Due to its elongated abdomen, flightlessness, and wings colored differently on its tip, Slither Wing seems to be based on female specimens of the {{wp|bagworm moth}} {{wp|Cebysa leucotelus}}. It also bears some resemblance to a {{wp|Stegosaurus}}. Slither Wing folds its wings above its body, suggesting that it is {{wp|Palaeoptera|paleopteran}}, that is, belonging to the ancient group of winged insects lacking the ability to fold their wings down over their abdomens. From at least as early as the {{wp|Pennsylvanian (geology)|Pennsylvanian period}}, some paleopteran insects evolved the capacity to fold their wings over their abdomens, forming the modern {{wp|Neoptera|neopteran}} group. The neopterans would then go on to outcompete most traditional paleopterans by occupying their ecological niches more effectively. This drove most paleopterans to extinction, with the exception of {{wp|Mayfly|mayflies}} and {{wp|Odonata|''Odonata''}}, the dragonflies and damselflies. 
+
+Slither Wing's body shape, quadrupedalism, and apparent flightlessness are reminiscent of Volcarona's pre-[[Evolution]] {{p|Larvesta}}.
+
+====Name origin====
+Slither Wing is literally ''slither wing''.
+
+Chiwohauhane can be taken literally as {{j|地を這う羽}} ''chi o hau hane'' (wings slithering on the ground).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Fighting
+|ja=チヲハウハネ ''Chiwohauhane''|jameaning=From {{tt|地を這う羽 ''chi o hau hane''|wings slithering on the ground}}
+|fr=Rampe-Ailes|frmeaning=From ''{{tt|ramper|to slither}}'' and ''{{tt|ailes|wings}}''
+|es=Reptalada|esmeaning=From ''{{tt|reptar|slither}}'' and ''{{tt|alada|winged}}''
+|de=Kriechflügel|demeaning=From ''{{tt|kriechen|crawling}}'' and ''{{tt|Flügel|wing}}''
+|it=Alirasenti|itmeaning=From ''{{tt|ali|wings}}'' and ''{{tt|rasenti|grazing}}''
+|ko=땅을기는날개 ''Ttang-eulgineunnalgae'' |komeaning=From {{tt|땅을기는날개 ''ttang-eulgineun nalgae''|crawling wings}}
+|zh_cmn=爬地翅 ''Pádìchì''|zh_cmnmeaning=From {{tt|爬 ''pá''|to crawl}},  {{tt|地 ''dì''|ground}}, and {{tt|翅 ''chì''|wings}}
+|zh_yue=爬地翅 ''Pàhdeihchi''|zh_yuemeaning=From {{tt|爬 ''pàh''|to crawl}}, {{tt|地 ''deih''|ground}}, and {{tt|翅 ''chi''|wings}}
+|hi=रेंगापंख ''Rengapankh''|himeaning=From {{tt|रेंगना ''reṅgnā''|crawl/slither/creep}} and {{tt|पंख ''paṅkh''|wing/feather}}
+|pt_br=Asa Rasteira|pt_brmeaning=From ''{{tt|asa|wing}}'' and ''{{tt|rasteira|slithering}}''
+|th=ปีกไล้พสุธา ''Piklaiphasutha''|thmeaning=From ''{{tt|ปีก pik|wing}}'', ''{{tt|ไล้ lai|stroke}}'', and ''{{tt|พสุธา phasutha|ground}}''
+|ru=Ползущее Крыло ''Polzushcheye Krilo''|rumeaning=From {{tt|ползущее ''polzushcheye''|crawling (neuter)}} and {{tt|крыло ''krylo''|wing}}
+}}
+
+==Related articles==
+* [[Paradox Pokémon]]
+* [[Scarlet Book]]
+
+==References==
+<references/>
+
+==External links==
+
+{{Paradox Pokémon}}
+
+{{PokémonPrevNext/Head|type=Bug|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0987|prev=Flutter Mane|nextnum=0989|next=Sandy Shocks}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Paradox Pokémon]]
+[[Category:Ancient Pokémon]]
+
+[[de:Kriechflügel]]
+[[es:Reptalada]]
+[[fr:Rampe-Ailes]]
+[[it:Alirasenti]]
+[[ja:チヲハウハネ]]
+[[zh:爬地翅]]

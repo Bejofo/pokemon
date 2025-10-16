@@ -1,0 +1,303 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Dark}}
+{{PokémonPrevNext/GO|species=Brute Bonnet}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0985|prev=Scream Tail|nextnum=0987|next=Flutter Mane|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Brute Bonnet
+|jname=アラブルタケ
+|tmname=Araburutake
+|ndex=0986
+|type1=Grass
+|type2=Dark
+|category=Paradox
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=46.3
+|weight-kg=21.0
+|abilitylayout=1
+|ability1=Protosynthesis
+|ability2=
+|abilityd=
+|egggroupn=1
+|egggroup1=No Eggs Discovered
+|egggroup2=
+|eggcycles=50
+|evtotal=3
+|evhp=0
+|evat=3
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=285
+|lv100exp=1250000
+|gendercode=255
+|color=White
+|catchrate=50
+|body=08
+|pokefordex=brute-bonnet
+|generation=9
+|friendship=0
+}}
+'''Brute Bonnet''' ([[List of Japanese Pokémon names|Japanese]]: '''アラブルタケ''' ''Araburutake'') is a dual-type {{2t|Grass|Dark}} [[Paradox Pokémon]] introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It is said to be an ancient relative of {{p|Amoonguss}} or a counterpart of it from a parallel timeline.
+
+==Biology==
+Brute Bonnet is a mushroom-like Pokémon with large caps on its head and arms that resemble modern Poké Balls (despite being from the ancient past), pink lips with a jagged appearance, four stumpy brownish legs, and a tail; the cap on its head is spiked and has what seems to be green moss growing underneath it. 
+
+In an article from a June issue of {{DL|Magazines in the Pokémon world|Occulture}} magazine, it is described as a bizarre creature combining traits of dinosaurs with those of {{p|Amoonguss}}. It's named after a fierce mushroom creature of matching description that appears in the [[Scarlet Book]]. Its gigantic stature and seemingly low intelligence combine to make it a powerful and savage fighter.
+
+According to [[Professor Sada|AI Sada]], Brute Bonnet is an ancient Pokémon related to Amoonguss. However, according to a version of Professor Sada that appeared at the [[Crystal Pool]], Brute Bonnet is a counterpart of Amoonguss from another timeline. Its true origin is unknown. Brute Bonnet was brought to the depths of [[Area Zero]] by a [[time machine]] built by Professor Sada ten years ago. 200 years ago, [[Heath]] also encountered Brute Bonnet, as seen in the Scarlet Book, though it is unclear how it arrived there at the time.
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Dark}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=378|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{dark color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Brute Bonnet SV.png|x200px]]
+|-
+| Brute Bonnet in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Dark}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|1|v=Scarlet|t=FFF|area=[[Area Zero]]}}
+{{Availability/Entry1/None|1|v=Violet|area=[[Union Circle]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+====In events====
+{{eventAvail/h|Language/Region|type=Grass|type2=Dark}}
+{{eventAvail|{{gameabbrev9|SV}}|CoroCoro Brute Bonnet|All|Online|75|January 15 to March 14, 2024|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#CoroCoro Paradox Pokémon}}
+|}
+=====[[Poké Portal News]]=====
+{{eventAvail/h|Tera Type|type=Grass|type2=Dark|lochide=yes}}
+{{eventAvail|{{gameabbrev9|S}}|Brute Bonnet and Iron Hands Spotlight|Random<br>Poison|hide|75|March 22 to 24, 2024|link=Poké Portal News/2024#March 22 to 24, 2024}}
+{{eventAvail|{{gameabbrev9|S}}|Roaring Moon and Iron Valiant the Unrivaled|Random|hide|75|October 3 to 12, 2025|link=Poké Portal News#October 3 to 12, 2025}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Grass|type2=Dark}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=FFF|gcolor2=FFF|tcolor2={{Violet color}}|Pokémon Scarlet and Violet}}
+{{HeldItems/Items1|Booster Energy|size=24px|5}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Dark
+|HP=111
+|Attack=127
+|Defense=99
+|SpAtk=79
+|SpDef=99
+|Speed=55
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Dark
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=400
+|Ghost=50
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=0
+|Ice=200
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Brute Bonnet|Grass|Dark|9}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|1|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|7|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|14|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|21|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/level9|28|Clear Smog|Poison|Special|50|—|15}}
+{{learnlist/level9|35|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/level9|42|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level9|49|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|56|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level9|63|Spore|Grass|Status|—|100|15}}
+{{learnlist/level9|70|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/level9|77|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/level9|91|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Brute Bonnet|Grass|Dark|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Brute Bonnet|Grass|Dark|9}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM167|Close Combat|Fighting|Physical|120|100|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tmf/9|Brute Bonnet|Grass|Dark|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Brute Bonnet|Grass|Dark|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Brute Bonnet|Grass|Dark|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Dark}}
+{{Spindata/GO|col=6|type=Grass|ndex=0986
+|hatch=N/A
+|buddy=20
+|evolution=N/A
+|stamina=244
+|attack=232
+|defense=190
+|fast=
+|special=
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Grass
+|type2=Dark
+|pictype=art
+|no1=0986
+|name1=Brute Bonnet
+|type1-1=Grass
+|type2-1=Dark}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=dark}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0986}}-->
+{{Spritebox/HOME|ndex=0986}}
+{{Spritebox/Footer|986|Brute Bonnet}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+==In the TCG==
+{{main|Brute Bonnet (TCG)}}
+
+==Trivia==
+* Brute Bonnet's stat distribution ensures it will not get its Speed stat boosted by {{a|Protosynthesis}}, due to what seems to be an intentional design choice that prevents creating fast Pokémon with access to {{m|Spore}}. At level 50, Brute Bonnet's maximum possible Speed is 117 while its minimum possible Attack is 118, resulting in Protosynthesis boosting the Attack stat. Interestingly, Brute Bonnet's Speed can only exceed its Attack at levels 9 and under.
+* Brute Bonnet and the {{p|Toedscool}} line continue the trend of odd-numbered generations introducing Pokémon that appear to be based on fungi, with the {{p|Paras}}, {{p|Shroomish}}, {{p|Foongus}}, and {{p|Morelull}} lines before them.
+
+===Origin===
+Brute Bonnet is based on {{p|Amoonguss}} and a {{wp|dinosaur}}. It may also be inspired by {{wp|Syzygites|Syzygites megalocarpus}}, a parasitic mold that infects mushrooms. It being described as a cross between dinosaur and mushroom may be based on the [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7365386/#:~:text=The%20FIMS%20hypothesis%20posits%20that%20the%20remarkable%20resistance%20of%20mammals,of%20the%20Cretaceous%20%5B2%5D. FIMS (Fungal Infection Mammalian Selection) hypothesis], which considers that fungi contributed to the extinction of dinosaurs. According to the FIMS hypothesis, most of the flora dying out in the events of the {{wp|Cretaceous–Paleogene extinction event|K-Pg extinction}} led to a massive fungal bloom, provoking infections that dinosaurs and other reptiles would be less resistant to than mammals.
+
+====Name origin====
+Brute Bonnet is literally ''brute bonnet''. The word ''bonnet'' may refer to both {{wp|Bonnet (headgear)|a type of hat}} and the {{wp|Mycena galericulata|common bonnet}}, a species of mushroom.
+
+Araburutake can be taken literally as 荒ぶる茸 ''araburu take'' (savage mushroom).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Dark
+|ja=アラブルタケ ''Araburutake''|jameaning=From {{tt|荒ぶる茸 ''araburu take''|savage mushroom}}
+|fr=Fongus-Furie|frmeaning=From ''{{tt|fongus|fungus}}'' and ''{{tt|furie|fury}}''
+|es=Furioseta|esmeaning= From ''{{tt|furiosa|furious}}'' and ''{{tt|seta|mushroom}}''
+|de=Wutpilz|demeaning=From ''{{tt|Wut|rage}}'' and ''{{tt|Pilz|mushroom}}''
+|it=Fungofurioso|itmeaning=From ''{{tt|fungo|fungus}}'' and ''{{tt|furioso|furious}}''
+|ko=사나운버섯 ''Sanaunbeoseot''|komeaning=From {{tt|사나운버섯 ''sanaun beoseot''|savage mushroom}}
+|zh_cmn=猛惡菇 / 猛恶菇 ''Měng'ègū''|zh_cmnmeaning=From {{tt|猛惡 / 猛恶 ''měng'è''|savage}} and {{tt|菇 ''gū''|mushroom}}
+|zh_yue=猛惡菇 ''Máahng'okgū''|zh_yuemeaning=From {{tt|猛惡 ''máahng'ok''|savage}} and {{tt|菇 ''gū''|mushroom}}
+|hi=क्रोधीश्रूम ''Krodhishroom''|himeaning=From {{tt|क्रोध ''krodh''|anger/fury}} and ''mushroom''
+|pt_br=Capuz Bruto|pt_brmeaning=From ''{{tt|capuz|hood}}'' and ''{{tt|bruto|brute}}''
+|th=เห็ดคลุ้มคลั่ง ''Hetkhlumkhlang''|thmeaning=From ''{{tt|เห็ด het|mushroom}}'' and ''{{tt|คลุ้มคลั่ง khlumkhlang|frenzy}}''
+|ru=Свирепый Гриб ''Svirepyy Grib''|rumeaning=From {{tt|свирепый ''svirepyy''|fierce (masculine)}} and {{tt|гриб ''grib''|mushroom}}
+}}
+
+==Related articles==
+* [[Paradox Pokémon]]
+* [[Scarlet Book]]
+
+==References==
+<references/>
+
+==External links==
+
+{{Paradox Pokémon}}
+
+{{PokémonPrevNext/Head|type=Grass|type2=Dark}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0985|prev=Scream Tail|nextnum=0987|next=Flutter Mane}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Paradox Pokémon]]
+[[Category:Ancient Pokémon]]
+
+[[de:Wutpilz]]
+[[es:Furioseta]]
+[[fr:Fongus-Furie]]
+[[it:Fungofurioso]]
+[[ja:アラブルタケ]]
+[[zh:猛恶菇]]

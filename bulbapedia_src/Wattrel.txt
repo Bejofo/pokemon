@@ -1,0 +1,328 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Flying}}
+{{PokémonPrevNext/GO|species=Wattrel}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0939|prev=Bellibolt|nextnum=0941|next=Kilowattrel|round=none}}
+{{PokémonPrevNext/Disambig|species=Wattrel}}
+|}
+{{Pokémon Infobox
+|name=Wattrel
+|jname=カイデン
+|tmname=Kaiden
+|ndex=0940
+|type1=Electric
+|type2=Flying
+|category=Storm Petrel
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=7.9
+|weight-kg=3.6
+|abilityn=2
+|ability1=Wind Power
+|ability2=Volt Absorb
+|abilityd=Competitive
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Flying
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=1
+|expyield=56
+|lv100exp=1059860
+|gendercode=127
+|color=Black
+|catchrate=180
+|body=09
+|pokefordex=wattrel
+|generation=9
+|friendship=50
+}}
+'''Wattrel''' ([[List of Japanese Pokémon names|Japanese]]: '''カイデン''' ''Kaiden'') is a dual-type {{2t|Electric|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Kilowattrel}} starting at [[level]] 25.
+
+==Biology==
+Wattrel is a tiny {{wp|Aves|avian}} Pokémon. Its feathers are mostly black, except for the grayish light-blue feathers covering its chest area, and the yellow {{wp|covert feather}}s on its wings, as well as a yellow crescent-like marking on its face. Its head is nub-like and contains its fairly long orange beak, located just above the bottom of the crescent marking. Its eyes cover the tips of the crescent, which have white sclerae, black irises, and teal pupils. It has small webbed feet that are orange in color, and its tail splits into two.
+
+Wattrel flies in a specific way so that its wings are able to catch the wind. Its bones, in reaction to the wind, create electricity for Wattrel, and it uses this ability to dive into bodies of water to electrocute its prey, such as {{p|Arrokuda}}. Their nests are located near the edge of coastal cliffs. The nests themselves have a crackling texture to them, and are known to be a popular delicacy throughout the [[Paldea]] [[region]].
+
+Wattrel and its evolved form, {{p|Kilowattrel}}, are the [[Signature Ability|only known Pokémon]] that can have {{a|Wind Power}} as an Ability.
+
+<gallery>
+Roy Wattrel flock.png|A flock of Wattrel
+WattrelScarletViolet78.jpg|Wattrel harnessing {{a|Wind Power|wind power}}
+WattrelTwilightMasquerade178.jpg|Wattrel hunting in water
+</gallery>
+
+===Evolution===
+Wattrel evolves into {{p|Kilowattrel}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Electric
+|type2=Flying
+|pictype=art
+|no1=0940
+|name1=Wattrel
+|type1-1=Electric
+|type2-1=Flying
+|evo1=
+|no2=0941
+|name2=Kilowattrel
+|type1-2=Electric
+|type2-2=Flying}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric|type2=Flying}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=177|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they're a popular delicacy.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{electric color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{electric color light}}; background:#{{electric color light}} | [[File:Pokédex Image Wattrel SV.png|x200px]]
+|-
+| Wattrel in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Electric|type2=Flying}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Paldean Sea]]<br>East Province: [[East Province (Area Two)|Area Two]], [[East Paldean Sea]]<br>West Province: [[West Province (Area One)|Area One]], [[West Paldean Sea]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Wattrel|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric|type2=Flying}}
+{{Availability/NA|gen=IX}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Trainer Lodge]] Friendship Level 100: {{sync|Iono|Wattrel}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|type2=Flying
+|HP=40
+|Attack=40
+|Defense=35
+|SpAtk=55
+|SpDef=40
+|Speed=70
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Flying
+|Normal=100
+|Fighting=50
+|Flying=50
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=2
+|voltabsorb=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Wattrel|Electric|Flying|9}}
+{{learnlist/level9|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|4|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|7|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|11|Pluck|Flying|Physical|60|100|20||'''}}
+{{learnlist/level9|15|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|19|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level9|23|Roost|Flying|Status|—|—|5}}
+{{learnlist/level9|27|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/level9|32|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|37|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/level9|43|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/levelf/9|Wattrel|Electric|Flying|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Wattrel|Electric|Flying|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM097|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/tm9|TM164|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM216|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/tmf/9|Wattrel|Electric|Flying|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Wattrel|Electric|Flying|9}}
+{{learnlist/breed9|{{MSP/H|0084|Doduo}}{{MSP/H|0085|Dodrio}}{{MSP/H|0258|Mudkip}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0341|Corphish}}{{MSP/H|0342|Crawdaunt}}{{MSP/H|0396|Starly}}{{MSP/H|0397|Staravia}}{{MSP/H|0398|Staraptor}}{{MSP/H|0701|Hawlucha}}|Endeavor|Normal|Physical|—|100|5|grid=7}}
+{{learnlist/breed9|{{MSP/H|0580|Ducklett}}{{MSP/H|0581|Swanna}}{{MSP/H|0701|Hawlucha}}{{MSP/H|0722|Rowlet}}{{MSP/H|0723|Dartrix}}{{MSP/H|0724|Decidueye}}{{MSP/H|0724|Decidueye|form=-Hisui}}{{MSP/H|0731|Pikipek}}{{MSP/H|0732|Trumbeak}}{{MSP/H|0733|Toucannon}}{{MSP/H|0741|Oricorio}}{{MSP/H|0913|Quaxwell}}{{MSP/H|0914|Quaquaval}}{{MSP/H|0956|Espathra}}|Feather Dance|Flying|Status|—|100|15|grid=7}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0845|Cramorant}}|Spit Up|Normal|Special|—|100|10|grid=7}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0845|Cramorant}}|Stockpile|Normal|Status|—|—|20|grid=7}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0845|Cramorant}}|Swallow|Normal|Status|—|—|10|grid=7}}
+{{learnlist/breed9|{{MSP/H|0875|Eiscue}}{{MSP/H|0938|Tadbulb}}{{MSP/H|0939|Bellibolt}}|Weather Ball|Normal|Special|50|100|10|grid=7}}
+{{learnlist/breedf/9|Wattrel|Electric|Flying|9}}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Flying}}
+{{Spindata/GO|col=6|type=Electric|ndex=0940
+|hatch=N/A
+|buddy=1
+|candy=Wattrel
+|evocandy=50
+|stamina=120
+|attack=105
+|defense=75
+|fast={{m|Thunder Shock}}, {{m|Peck}}
+|special={{m|Acrobatics}}, {{m|Aerial Ace}}, {{m|Thunderbolt}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Electric
+|type2=Flying
+|pictype=art
+|no1=0940
+|name1=Wattrel
+|type1-1=Electric
+|type2-1=Flying
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 25}}
+|no2=0941
+|name2=Kilowattrel
+|type1-2=Electric
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=electric|type2=flying}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0940}}-->
+{{Spritebox/HOME|ndex=0940}}
+{{Spritebox/Footer|940|Wattrel}}
+
+==In animation==
+===Main series===
+[[File:Roy Wattrel.png|thumb|250px|Wattrel in {{aniseries|HZ}}]]
+====Major appearances====
+=====[[Roy's Wattrel]]=====
+A Wattrel debuted in ''[[HZ013|An Unexpected Picnic!]]''. It stole [[Roy]]'s sandwich and flew off before being cornered and trying to use {{m|Uproar}} to ward off Roy and {{TP|Roy|Fuecoco}}. It was unable to fly away with the rest of its flock. In the [[HZ014|following episode]], Roy {{pkmn2|caught}} the Wattrel. It evolved into Kilowattrel in ''[[HZ052|Wattrel's High Wind Warning!]]''.
+
+====Minor appearances====
+A flock of Wattrel appeared in ''[[HZ013|An Unexpected Picnic!]]'', flying away and leaving [[Roy's Wattrel|one of them]] behind. They reappeared during a flashback in ''[[HZ085|The Pokémon Paradise of Laqua!]]''.
+
+Two Wattrel appeared in a photo in ''[[HZ042|Transform! Hero of the Seas, Palafin]]''.
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ013|Wattrel|Roy's Rotom Phone|Wattrel, the Storm Petrel Pokémon. An {{t|Electric}} and {{t|Flying}} type. When its wings catch the wind, the bones within produce electricity. It dives into the ocean, stunning foes by electrocuting them.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+==In the manga==
+[[File:Iono Wattrel Adventures.png|220px|thumb|Wattrel in Pokémon Adventures]]
+===Pokémon Adventures===
+Wattrel debuted in [[PASV12]], under the ownership of [[Iono]]. 
+{{-}}
+
+==In the TCG==
+{{main|Wattrel (TCG)}}
+
+==Trivia==
+* Wattrel's {{g|Violet}} [[Pokédex]] describes its nest as a popular {{wp|delicacy}}, this could be a reference to {{wp|Edible bird's nest|swallow nests}}, a real life delicacy in Chinese cuisine that uses bird's nests as a main ingredient.
+
+===Origin===
+Wattrel may be based on a {{wp|storm petrel}}. Its design may also be based on either the myth of storm petrels indicating bad weather at sea, or a play on the words "storm petrel" as a whole, as lightning is usually present in storms. The shape of its head and eyes resemble an {{wp|aviator hat}}. Its Violet Pokédex entry refers to an {{wp|edible bird's nest}}, which is a delicacy enjoyed in the eastern parts of Asia. As an electric bird it may take its inspiration from mythical creatures like {{wp|Thunderbird (mythology)|Thunderbird}}.
+
+====Name origin====
+Wattrel may be a combination of ''{{wp|watt}}'' and ''{{wp|petrel}}''.
+
+Kaiden may be a combination of 海 ''kai'' (sea), 海燕 ''kaien'' ({{wp|northern storm petrel}}), and 雷電 ''raiden'' (thunder and lightning).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Flying
+|ja=カイデン ''Kaiden''|jameaning=From {{tt|海 ''kai''|sea}}, {{tt|海燕 ''kaien''|northern storm petrel}}, and {{tt|雷電 ''raiden''|thunder and lightning}}
+|fr=Zapétrel|frmeaning=From ''zap'' and ''{{tt|pétrel|petrel}}''
+|es=Wattrel|esmeaning=Same as English name
+|de=Voltrel|demeaning=From ''Volt'' and ''petrel''
+|it=Wattrel|itmeaning=Same as English name
+|ko=찌리비 ''Jjiribi''|komeaning=From {{tt|찌릿찌릿 ''jjirit-jjirit''|onomatopoeia for crackling}} and {{tt|바다제비 ''badajaebi''|northern storm petrel}}
+|zh_cmn=電海燕 / 电海燕 ''Diànhǎiyàn''|zh_cmnmeaning=From {{tt|電 / 电 ''diàn''|electric}}, {{tt|海 ''hǎi''|sea}}, and {{tt|海燕 ''hǎiyàn''|northern storm petrel}}
+|zh_yue=電海燕 ''Dihnhóiyin''|zh_yuemeaning=From {{tt|電 ''dihn''|electric}}, {{tt|海 ''hói''|sea}}, and {{tt|海燕 ''hóiyin''|northern storm petrel}}
+|hi=इलैक्ट्रेल ''Electrel''|himeaning=From ''electric'' and ''Wattrel'' (or ''petrel'')
+|th=ไคเด็น ''Khaiden''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+*[[Roy's Wattrel]]
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Electric|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0939|prev=Bellibolt|nextnum=0941|next=Kilowattrel}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Voltrel]]
+[[es:Wattrel]]
+[[fr:Zapétrel]]
+[[it:Wattrel]]
+[[ja:カイデン]]
+[[zh:电海燕]]

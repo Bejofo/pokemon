@@ -1,0 +1,298 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Fire}}
+{{PokémonPrevNext/GO|species=Chi-Yu}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=1003|prev=Ting-Lu|nextnum=1005|next=Roaring Moon|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Chi-Yu
+|jname=イーユイ
+|jtranslit=Īyui
+|tmname=Yiyui
+|ndex=1004
+|type1=Dark
+|type2=Fire
+|category=Ruinous
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=10.8
+|weight-kg=4.9
+|abilitylayout=1
+|ability1=Beads of Ruin
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|egggroup2=
+|eggcycles=50
+|evtotal=3
+|evhp=0
+|evat=0
+|evde=0
+|evsa=3
+|evsd=0
+|evsp=0
+|expyield=285
+|lv100exp=1250000
+|gendercode=255
+|color=Red
+|catchrate=6
+|body=03
+|pokefordex=chi-yu
+|generation=9
+|friendship=0
+}}
+'''Chi-Yu''' ([[List of Japanese Pokémon names|Japanese]]: '''イーユイ''' ''Yiyui'') is a dual-type {{2t|Dark|Fire}} [[Legendary Pokémon]] introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+Along with {{p|Wo-Chien}}, {{p|Chien-Pao}}, and {{p|Ting-Lu}}, Chi-Yu is a member of the [[treasures of ruin]].
+
+==Biology==
+[[File:Chi-YuexPaldeaEvolved40.jpg|thumb|left|140px|Chi-Yu's eyes and beads glowing]]
+Chi-Yu is a fish-like Pokémon. It is composed of two pairs of curved jade beads, once believed to be sacred and commonly worn for religious rituals. Each of these pairs of beads circle a black orb coated by white around the sides; together, they make up the eyes of Chi-Yu, while the rest of its fish-shaped body is formed by a dark red and yellow flame. Its eyes and beads sometimes glow red and yellow when it attacks.
+
+Like the other treasures of ruin, Chi-Yu's true form is the beads forming its eyes, having been given life by the envy of those who desired them enough to start wars over them — while its body is a form it has constructed using its control over fire. Chi-Yu's flames burn at over 5,400 degrees Fahrenheit (3,000 degrees Celsius), allowing it to melt rock and sand into lava that it can swim through. It is known as the "Beads of Ruin".
+
+Chi-Yu and the other treasures of ruin are the [[signature move|only known Pokémon]] capable of learning the move {{m|Ruination}}. Chi-Yu is also the [[Signature Ability|only known Pokémon]] that can have {{a|Beads of Ruin}} as an [[Ability]].{{-}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark|type2=Fire}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=396|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It controls flames burning at {{tt|over 5,400 degrees Fahrenheit|3,000 degrees Celsius}}. It casually swims through the sea of lava it creates by melting rock and sand.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{fire color dark}}; background:#{{dark color}}; font-size:80%; border-radius: 10px"
+|-
+| style="border:2px solid #{{dark color light}}; background:#{{dark color light}} " |[[File:Pokédex Image Chi-Yu SV.png|x200px]]
+|-
+|Chi-Yu in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Dark|type2=Fire}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=North Province: [[Firescourge Shrine]] ([[List of in-game event Pokémon in Pokémon Scarlet and Violet#Chi-Yu|Only one]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+====In events====
+{{eventAvail/h|Language/Region|type=Dark|type2=Fire}}
+{{eventAvail|{{gameabbrev9|SV}}|Shiny Chi-Yu|All|Online|75{{shinystar|HOME}}|September 19 to 30, 2025|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Shiny Chi-Yu}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+=====Version 1.0.0=====
+{{Stats|type=Dark|type2=Fire|HP=55|Attack=80|Defense=80|SpAtk=145|SpDef=120|Speed=100|nocat=yes}}
+
+=====Version 1.0.1+=====
+{{Stats|type=Dark|type2=Fire|HP=55|Attack=80|Defense=80|SpAtk=135|SpDef=120|Speed=100}}
+
+===Type effectiveness===
+{{TypeEffectiveness|type1=Dark|type2=Fire
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=200
+|Rock=200
+|Bug=100
+|Ghost=50
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=0
+|Ice=50
+|Dragon=100
+|Dark=50
+|Fairy=100
+|notes=yes
+|dark=yes
+|newpsychic=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Chi-Yu|Dark|Fire|9}}
+{{learnlist/level9|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level9|1|Spite|Ghost|Status|—|100|10||}}
+{{learnlist/level9|1|Mean Look|Normal|Status|—|—|5||}}
+{{learnlist/level9|5|Flame Wheel|Fire|Physical|60|100|25||'''}}
+{{learnlist/level9|10|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/level9|15|Will-O-Wisp|Fire|Status|—|85|15||}}
+{{learnlist/level9|20|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/level9|25|Incinerate|Fire|Special|60|100|15||'''}}
+{{learnlist/level9|30|Confuse Ray|Ghost|Status|—|100|10||}}
+{{learnlist/level9|35|Nasty Plot|Dark|Status|—|—|20||}}
+{{learnlist/level9|40|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/level9|45|Lava Plume|Fire|Special|80|100|15||'''}}
+{{learnlist/level9|50|Ruination|Dark|Special|—|90|10||}}
+{{learnlist/level9|55|Bounce|Flying|Physical|85|85|5||}}
+{{learnlist/level9|60|Swagger|Normal|Status|—|85|15||}}
+{{learnlist/level9|65|Inferno|Fire|Special|100|50|5||'''}}
+{{learnlist/level9|70|Memento|Dark|Status|—|100|10||}}
+{{learnlist/level9|75|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/levelf/9|Chi-Yu|Dark|Fire|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Chi-Yu|Dark|Fire|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10||}}
+{{learnlist/tm9|TM024|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm9|TM038|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20||}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15||}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20||}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM157|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM165|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM195|Burning Jealousy|Fire|Special|70|100|5||'''}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||'''}}
+{{learnlist/tm9|TM207|Temper Flare|Fire|Physical|75|100|10||'''}}
+{{learnlist/tmf/9|Chi-Yu|Dark|Fire|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Chi-Yu|Dark|Fire|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Chi-Yu|Dark|Fire|9}}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Fire}}
+{{Spindata/GO
+| col = 6
+| type = Dark
+| ndex = 1004
+| hatch = N/A
+| buddy = 20
+| evolution = N/A
+| stamina = 146
+| attack = 269
+| defense = 221
+| fast = {{m|Snarl}}, {{m|Incinerate}}
+| special = {{m|Dark Pulse}}, {{m|Flame Charge}}, {{m|Flame Wheel}}
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Dark
+|type2=Fire
+|pictype=art
+|no1=1004
+|name1=Chi-Yu
+|type1-1=Dark
+|type2-1=Fire}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=dark|type2=fire}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=1004}}-->
+{{Spritebox/HOME|ndex=1004}}
+{{Spritebox/Footer|1004|Chi-Yu}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+===Pokémon Adventures===
+Chi-Yu, along with the other [[treasures of ruin]], appeared in a fantasy in [[PASV13]].
+
+==In the TCG==
+{{main|Chi-Yu (TCG)}}
+
+==Trivia==
+* Chi-Yu and the other [[treasures of ruin]] are the first Pokémon whose [[base stats]] were adjusted via a {{DL|Pokémon Scarlet and Violet|Version history|patch}} to the game.
+* Chi-Yu is significantly lighter than the other three treasures of ruin, likely due to its body being mostly made out of fire, which has no weight.
+* Chi-Yu is the only {{type|Fire}} {{DL|List of Pokémon by shape|Pokémon with fins}}.
+* When washing Chi-Yu in {{g|Scarlet and Violet}}, the {{player}} washes it from the side instead of washing it facing its front.
+
+===Origin===
+Chi-Yu may be modeled after members of the ''{{wp|Cyprinidae}}'' family, specifically the {{wp|goldfish}}. The beads around its eyes make it particularly similar to the {{wp|Telescope (goldfish)|telescope eye}} and {{wp|celestial eye}} breeds. The curved beads by its eyes are based on the ''{{wp|magatama}}'', comma-shaped beads made of jade that served as ceremonial and religious objects. The coloration and location of the beads, together with Chi-Yu being born from envy, may invoke the idea of the "[[wiktionary:green-eyed monster|green-eyed monster]]", a phrase coined in {{wp|William Shakespeare}}'s ''{{wp|Othello}}'' to refer to jealousy.
+
+Chi-Yu and the other treasures of ruin may be based on the {{wp|Four Perils}} of Chinese mythology. Specifically, Chi-Yu may be based on 混沌 ''{{wp|Hundun|Hùndùn}}'', an embodiment of chaos depicted as an oval creature with only limbs and no face — akin to Chi-Yu's body without its beads — and said to be "scarlet like cinnabar fire" in the {{wp|Classic of Mountains and Seas}}. It is also described as living in a permanent state of confusion, similar to the stereotypical image of a goldfish. Another inspiration may be {{wp|Gun (Chinese mythology)|Gun}}, whose name literally means "big fish" and who was compared to one of the Four Perils in the {{wp|Book of Documents}}. 
+
+====Name origin====
+Chi-Yu may be a combination of 鯽魚 / 鲫鱼 ''jìyú'' (Chinese for {{wp|Carassius|crucian carp}}, from which goldfish are domesticated) and 玉 ''yù'' (Chinese for jade). The name is formatted in {{wp|Wade–Giles}}, a romanization system used in the Anglosphere for most of the 20th century. 
+
+Yiyui may be a combination of 魚 / 鱼 ''yú'' (Chinese for fish) and 玉 ''yù'' (Chinese for jade). Both /i/ and /ui/ are common approximates of the {{wp|close front rounded vowel}} (represented as -ü- or yu- in {{wp|pinyin}}, pronounced like French u or German ü) in languages where the vowel is not present.
+
+==In other languages==
+{{Other languages
+| type = Dark
+| type2 = Fire
+| ja = イーユイ ''Yiyui''
+| jameaning = From {{tt|玉 ''yù''|Chinese for jade}} and {{tt|魚 ''yú''|Chinese for fish}}
+| fr = Yuyu
+| frmeaning = Transcription of Japanese name
+| es = Chi-Yu
+| esmeaning = Same as English name
+| de = Yuyu
+| demeaning = Transcription of Japanese name
+| it = Chi-Yu
+| itmeaning = Same as English name
+| ko = 위유이 ''Wiyui''
+| komeaning = Transcription of Japanese name
+| zh_cmn = 古玉魚 / 古玉鱼 ''Gǔyùyú''
+| zh_cmnmeaning = From {{tt|古 ''gǔ''|ancient}}, {{tt|玉 ''yù''|jade}}, and {{tt|魚 / 鱼 ''yú''|fish}}
+| zh_yue = 古玉魚 ''Gúyuhkyùh''
+| zh_yuemeaning = From {{tt|古 ''gú''|ancient}}, {{tt|玉 ''yuhk''|jade}}, and {{tt|魚 ''yùh''|fish}}
+| hi = चीयू ''Chiyu''
+| himeaning = Transcription of English name
+| th = อวี้อวี๋ ''Awi-awi''
+| thmeaning = Transcription of Japanese name
+}}
+
+==Related articles==
+*[[Myths and legends involving Legendary and Mythical Pokémon]]
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{Legendary Pokémon}}<br>{{PokémonPrevNext/Head|type=Dark|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=1003|prev=Ting-Lu|nextnum=1005|next=Roaring Moon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Legendary Pokémon]]
+
+[[de:Yuyu]]
+[[es:Chi-Yu]]
+[[fr:Yuyu]]
+[[it:Chi-Yu]]
+[[ja:イーユイ]]
+[[zh:古玉鱼]]

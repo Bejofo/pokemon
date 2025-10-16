@@ -1,0 +1,658 @@
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/GO|species=Quilava}}
+{{PokémonPrevNext/Pokémon|type=Fire|species=Quilava|prevnum=0155|prev=Cyndaquil|nextnum=0157|next=Typhlosion|round=none}}
+{{PokémonPrevNext/Disambig|species=Quilava}}
+|}
+{{Pokémon Infobox
+|name=Quilava
+|jname=マグマラシ
+|jtranslit=Magumarashi
+|tmname=Magmarashi
+|category=Volcano
+|typebox=1
+|type1=Fire
+|abilityn=d
+|ability1=Blaze
+|abilityd=Flash Fire
+|ndex=0156
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=41.9
+|weight-kg=19.0
+|egggroupn=1
+|egggroup1=Field
+|gendercode=31
+|eggcycles=20
+|evtotal=2
+|evsp=1
+|evsa=1
+|expyield=142
+|oldexp=142
+|lv100exp=1,059,860
+|color=Yellow
+|catchrate=45
+|body=08
+|pokefordex=quilava
+|generation=2
+|friendship=70
+}}
+'''Quilava''' ([[List of Japanese Pokémon names|Japanese]]: '''マグマラシ''' ''Magmarashi'') is a {{type|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Cyndaquil}} starting at level 14 and evolves into {{p|Typhlosion}} starting at level 36.
+
+In [[Hisui]], it evolves from Cyndaquil starting at level 17 and evolves into {{rf|Hisuian}} Typhlosion starting at level 36.
+
+==Biology==
+[[File:Ash Quilava no flame.png|thumb|left|250px|Quilava without its flames lit]]
+Quilava is a quadrupedal {{OBP|Pokémon|species}} with a long and slender body. The top half of its body is a dark blue-green, while its underside is cream-colored. It has triangular ears with dark red interiors, a rounded snout, and triangular red eyes. Each of its paws has three toes. It has five red spots on its body that can project flames: two arranged vertically on its forehead and three lined up horizontally on its rear.
+
+Before a battle, Quilava turns its back so its flames face its opponent. It battles using these intense flames in combination with gusts of superheated air. Its own fur is non-flammable, which protects it from other fire attacks. Quilava tends to be rare in the wild, but can sometimes be found living on {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands}}. When exposed to the mysterious energy of [[Mount Coronet]] in [[Hisui]], Quilava's Evolution is altered, gaining it the {{t|Ghost}} type as it becomes Hisuian {{p|Typhlosion}}. As mentioned in {{g|Sleep}}, Quilava's flames on its back blaze brightly while it sleeps.<ref>[[Sleep style|Sleep Style Dex]]</ref>
+
+===Evolution===
+Quilava evolves from {{p|Cyndaquil}} and evolves into {{p|Typhlosion}}
+
+In [[Hisui]], it evolves from Cyndaquil and evolves into {{rf|Hisuian}} Typhlosion.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/2branch2
+|type1=Fire
+|no1=0155
+|name1=Cyndaquil
+|type1-1=Fire
+|evo1=
+|no2=0156
+|name2=Quilava
+|type1-2=Fire
+|evo2a=
+|no3a=0157
+|name3a=Typhlosion
+|type1-3a=Fire
+|evo2b=
+|no3b=0157
+|name3b=Typhlosion
+|art3b=0157Typhlosion-Hisui
+|type1-3b=Fire
+|type2-3b=Ghost
+|form3b=Hisuian Form
+}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=fire}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=005}}
+{{Dex/Entry1|v=Gold|entry=Be careful if it turns its back during battle. It means that it will attack with the fire on its back.}}
+{{Dex/Entry1|v=Silver|entry=This {{ScPkmn}} is fully covered by nonflammable fur. It can withstand any kind of fire attack.}}
+{{Dex/Entry1|v=Crystal|entry=Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Be careful if it turns its back during battle. It means that it will attack with the fire on its back. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>This {{ScPkmn}} is fully covered by nonflammable fur. It can withstand any kind of fire attack. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Quilava</sc> keeps its foes at bay with the intensity of its flames and gusts of superheated air. This {{ScPkmn}} applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It intimidates foes with intense gusts of flames and superheated air. Its quick nimbleness lets it dodge attacks even while scorching an enemy.}}
+{{Dex/Entry1|v=FireRed|entry=This {{ScPkmn}} is fully covered by nonflammable fur. It can withstand any kind of fire attack.}}
+{{Dex/Entry1|v=LeafGreen|entry=Be careful if it turns its back during battle. It means that it will attack with the fire on its back.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=005}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.}}
+{{Dex/Entry1|v=HeartGold|entry=Be careful if it turns its back during battle. It means that it will attack with the fire on its back.}}
+{{Dex/Entry1|v=SoulSilver|entry=This Pokémon is fully covered by nonflammable fur. It can withstand any kind of fire attack.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Be careful if it turns its back during battle. It means that it will attack with the fire on its back.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui|num3=005}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword and Shield]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It intimidates foes with the heat of its flames. The fire burns stronger as it prepares to fight.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=This creature's fur is most mysterious—it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=177}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{fire color dark}}; background:#{{fire color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{fire color dark}}; background:#{{fire color light}}; {{roundy|5px}};" | [[File:Pokédex Image Quilava SV Blueberry.png|x200px]]
+|-
+| Quilava in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+In [[Pokémon Colosseum]], only one Quilava can be obtained per game without [[trade|trading]], regardless of location.
+{{Availability/Header|type=fire}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Cyndaquil}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Cyndaquil}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Cyndaquil}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Phenac City]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}<br>[[Realgam Tower]] (if not [[snagging|snagged]] in Phenac City)<br>[[Snagem Hideout]] (if [[Verde]] was battled in Phenac City)<br>[[Shadow PKMN Lab]] (if [[Bluno]] was battled in Phenac City)}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Cyndaquil}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Cyndaquil}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Cyndaquil}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Cyndaquil}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolve]] [[Cyndaquil]]}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Crimson Mirelands]]:''' [[Space-time distortion]]s (after completing [[Task (Legends: Arceus)|Mission]] 18), massive [[mass outbreak]]s (after completing Request 102)}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Cyndaquil}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 60, Endless Level 72, Forever Level 10, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Fiery Field]] (15F-24F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Lyra Forest]], [[Sekra Range]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Dark Crater]] (B11F-B15F, Deep Dark Crater B1F-B5F), [[Giant Volcano]] (1F-19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Dark Crater]] (B11F-B15F, Deep Dark Crater B1F-B5F), [[Giant Volcano]] (1F-19F)}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Evolution|Evolve]] {{p|Cyndaquil}}}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Lava Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Daybreak Ruins]], [[Fire Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lava: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Floors Are Hot!|Aquatic Hill: The Floors Are Hot!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 5|Pitch-Black Cavern: Stage 5]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Revival Mountain|Gold Plateau: Revival Mountain]] <small>(All Areas, Entrance Boss)</small>}}
+{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=[[Baram Town]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Entei Sea]], [[Lugia Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Entei Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Fiery Field]] (7F-13F)}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Great 4)<br>[[Taupe Hollow]], [[Greengrass Isle]]<sup>Expert</sup> (from Basic 5)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 448]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Ethan|Cyndaquil}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Fire}}
+{{HeldItems/Games1|Colosseum|Pokémon Colosseum}}
+{{HeldItems/Items1|Charcoal|100}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Sitrus Berry|25|Spoiled Apricorn|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=fire
+|HP=     58
+|Attack= 64
+|Defense=58
+|SpAtk=  80
+|SpDef=  65
+|Speed=  80}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Fire
+|Speed=4
+|SpeedMax=5
+|Power=3
+||PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=fire
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  200
+|Rock=    200
+|Bug=      50
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=   200
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   50
+|notes=yes
+|flashfire=maybe
+|newfire=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Quilava|Fire|Fire|2}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Smokescreen|Normal|Status|—|100|20}}
+{{learnlist/level9|10|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level9|13|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|20|Flame Wheel|Fire|Physical|60|100|25||'''}}
+{{learnlist/level9|24|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level9|31|Swift|Normal|Special|60|—|20}}
+{{learnlist/level9|35|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/level9|42|Lava Plume|Fire|Special|80|100|15||'''}}
+{{learnlist/level9|46|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/level9|53|Inferno|Fire|Special|100|50|5||'''}}
+{{learnlist/level9|57|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|64|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|68|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/level9|75|Eruption|Fire|Special|150|100|5||'''}}
+{{learnlist/levelf/9|Quilava|Fire|Fire|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Quilava|Fire|Fire|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM008|Fire Fang|Fire|Physical|65|95|15||'''}}
+{{learnlist/tm9|TM024|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM038|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm9|TM144|Fire Pledge|Fire|Special|80|100|10||'''}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm9|TM157|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm9|TM165|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM195|Burning Jealousy|Fire|Special|70|100|5||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM207|Temper Flare|Fire|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Quilava|Fire|Fire|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Quilava|Fire|Fire|2}}
+{{learnlist/breed9|{{MSP/H|0056|Mankey}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0677|Espurr}}{{MSP/H|0678|Meowstic}}{{MSP/H|0820|Greedent}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Covet|Normal|Physical|60|100|25}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571-Hisui|Zoroark}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128|Tauros|form=-Paldea Aqua}}{{MSP/H|0135|Jolteon}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0335|Zangoose}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed9|{{MSP/H|0037|Vulpix}}{{MSP/H|0037-Alola|Vulpix}}{{MSP/H|0038|Ninetales}}{{MSP/H|0038-Alola|Ninetales}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}|Extrasensory|Psychic|Special|80|100|20}}
+{{learnlist/breed9|{{MSP/H|0058|Growlithe}}{{MSP/H|0058-Hisui|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059-Hisui|Arcanine}}{{MSP/H|0228|Houndour}}{{MSP/H|0229|Houndoom}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0653|Fennekin}}{{MSP/H|0654|Braixen}}{{MSP/H|0655|Delphox}}{{MSP/H|0744|Rockruff}}{{MSP/H|0745|Lycanroc}}{{MSP/H|0745-Midnight|Lycanroc}}{{MSP/H|0745-Dusk|Lycanroc}}|Howl|Normal|Status|—|—|40}}
+{{learnlist/breed9|{{MSP/H|0058|Growlithe}}{{MSP/H|0058-Hisui|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059-Hisui|Arcanine}}{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0448|Lucario}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0745-Midnight|Lycanroc}}{{MSP/H|0745-Dusk|Lycanroc}}{{MSP/H|0766|Passimian}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/breedf/9|Quilava|Fire|Fire|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Quilava|Fire|Fire|2}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Quilava|Fire|Fire|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fire color}}; border: 3px solid #{{tcg fire color dark}}"
+|-
+! style="background: #{{tcg fire color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg fire color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Slash}}
+| style="background:#fff; {{roundybr|5px}}" | [[Quilava (EX Sandstorm 51)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Fire}}
+{{Spindata/Trozei|col=6|type=Fire|ndex=156|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Fire|ndex=156
+|body=1
+|rate=-19
+|area=Scorched Plains
+|P1=I'm on fire, but I don't get burned!
+|P2=Better be careful. I'm down to half my HP.
+|P3=This is it for me... I'm out of power...
+|PL=Leveled up! My fire's blazing now!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Fire|ndex=156
+|body=1
+|rate=-10
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Fire|ndex=156
+|coset=1
+|conto={{p|Cyndaquil}}, {{p|Typhlosion}}
+|recruitment=Talk to in [[Baram Town]]
+|P1=I'll scare them away with magma!
+|P2=This is tough...
+|protag=1
+}}
+|-
+{{Spindata/Ranger|col=6|type=Fire
+|group=Fire
+|assist=Fire
+|fieldpower=2
+|field=Burn
+|loop=6
+|MinEXP=36
+|MaxEXP=66
+|num=020
+|browser=Quilava blows flames all around itself. It can easily burn up large Fallen Logs.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Fire
+|group=Fire
+|assist=Fire
+|field=Burn
+|fieldpower=2
+|num=158
+|pastnum=078
+|browser=It sends out pillars of fire to attack.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Fire
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Fire|ndex=156
+|walk=1.32
+|hp=50
+|attack=74
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Fire|ndex=156
+|Pad=Quilava came to the [[Lava Zone]] to play. He's a maniac for {{DL|Attraction (PokéPark)|Rhyperior's Bumper Burn}}.}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fire|ndex=156
+|power=2
+}}
+{{Spindata/Shuffle|col=6|type=Fire|ndex=156|num=583
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=L-Boost
+|skilldesc=Increases damage when making an L-shaped match.
+}}
+|-
+{{Spindata/GO|col=6|type=Fire|ndex=156
+|hatch=N/A
+|buddy=3
+|candy=Cyndaquil
+|evocandy=100
+|stamina=151
+|attack=158
+|defense=126
+|fast={{m|Ember}}, {{m|Tackle}}
+|special={{m|Flame Charge}}, {{m|Dig}}, {{m|Flamethrower}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0156
+|sleeptype=Snoozing
+|type=Fire
+|dexentry=On very rare occasions, you'll see the flames on its back blaze brightly while it sleeps. It seems that no matter how high the flames burn, the fur covering Quilava's body absolutely never catches fire.
+|sleepstyle1=Arm-Pillow Sleep
+|sleepstyle2=Flattened Sleep
+|sleepstyle3=Flame-Spouting Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=12
+|specialty=Berries
+|evolution=Lv. 27
+|pokemon=Cyndaquil
+|candyNum=80
+|berry=Leppa
+|ingredient1=Warming Ginger
+|ingredient2=Fiery Herb
+|ingredient3=Pure Oil
+|carrylimit=18
+|skillname=Charge Strength S
+|skilldesc=Increases Snorlax's Strength by anywhere from 200 to 800.
+}}
+|}
+
+===Evolution data===
+{{Evobox/2branch2
+|type1=Fire
+|no1=0155
+|name1=Cyndaquil
+|type1-1=Fire
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 14}}<br><small>(17 in {{gameIcon|LA}})</small>
+|no2=0156
+|name2=Quilava
+|type1-2=Fire
+|evo2a={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 36}}<br>outside of {{color2|000|Hisui}}
+|no3a=0157
+|name3a=Typhlosion
+|type1-3a=Fire
+|evo2b={{Bag/s|Rare Candy|SV}} + [[File:Hisui Ribbon IX.png|40px|link=Hisui]]<br>{{color2|000|Level|Level 36}}<br>in {{color2|000|Hisui}}
+|no3b=0157
+|name3b=Typhlosion
+|art3b=0157Typhlosion-Hisui
+|type1-3b=Fire
+|type2-3b=Ghost
+|form3b=Hisuian Form
+}}
+
+===Sprites===
+{{Spritebox/Header|type=fire}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=156}}
+{{Spritebox/3|ndex=156}}
+{{Spritebox/4|ndex=156}}
+{{Spritebox/5|ndex=156}}
+{{Spritebox/6|ndex=156|crop=59}}
+{{Spritebox/7|ndex=156|crop=70}}
+{{Spritebox/8/LA|ndex=156|LAcrop=122}}
+<!--{{Spritebox/9|ndex=0156}}-->
+{{Spritebox/HOME|ndex=0156}}
+{{Spritebox/Footer|156|Quilava}}
+
+==In animation==
+[[File:Dawn Quilava.png|thumb|250px|Quilava in {{aniseries|DP}}]]
+===Major appearances===
+====[[Ash's Quilava]]====
+In ''[[DP182|An Old Family Blend!]]'', {{Ash}}'s Cyndaquil evolved into a Quilava after it fought one of {{TRT}}'s [[Team Rocket's mechas|mechas]]. He later used it during his {{pkmn|battle}} with [[Nando]] at the [[Lily of the Valley Conference]], where it went up against Nando's {{p|Armaldo}}; the battle resulted in a tie.
+
+====[[Jimmy's Quilava]]====
+{{jo|Jimmy}}'s Cyndaquil evolved into Quilava and further into Typhlosion sometime before the events of ''[[The Legend of Thunder!]]''.
+
+====[[Dawn's Quilava]]====
+In [[DPS01]], {{an|Dawn}}'s Cyndaquil evolved into a Quilava in order to fight off a swarm of {{p|Ariados}}. It later reunited with Ash in ''[[BW086|Piplup, Pansage, and a Meeting of the Times!]]''.
+
+====Other====
+Quilava debuted in ''[[EP262|You're A Star, Larvitar!]]'', where Ash witnessed a {{pkmn|Trainer}} {{pkmn|training}} with one for the [[Silver Conference]]. He also briefly considered getting his Cyndaquil to evolve as a way of training it for the Silver Conference, following Cyndaquil's defeat against {{OBP|Satchel|EP262}}'s {{p|Magby}}.
+
+In ''[[EP267|Love, Pokémon Style!]]'', [[Macy]] used a Quilava against Ash during the Silver Conference, but it was defeated by {{AP|Squirtle}}'s {{m|Hydro Pump}}. Later, in ''[[EP268|Tie One On!]]'', it battled [[Vincent|Jackson]]'s {{p|Poliwhirl}} and won.
+
+In ''[[AG128|Shocks and Bonds]]'', [[Clark]] used a Quilava and {{p|Charizard}} against [[Ash's Grovyle]] and {{AP|Glalie}} during their [[Double Battle]] at the [[Ever Grande Conference]]. Despite the type disadvantage, Ash's Grovyle defeated Clark's Quilava.
+
+In ''[[DP029|The Champ Twins!]]'', [[Ryan and Bryan|Ryan]] used a Quilava in a battle against Ash and {{an|Dawn}} alongside his twin brother Byan and his {{p|Croconaw}}. The twins were initially able to defeat [[Ash's Turtwig]] and [[Dawn's Piplup]] due to the latter two having a lack of teamwork, but they were defeated in the rematch.
+
+[[Alternate World Dawn]]'s Quilava appeared in a flashback in ''[[JN089|The Gates of Warp!]]'', [[devolution|devolving]] into Cyndaquil due to {{p|Dialga}}'s influence.
+
+===Minor appearances===
+In ''[[AG122|Deceit and Assist]]'', a {{pkmn|Coordinator}}'s Quilava competed in the [[Hoenn Grand Festival]].
+
+A Quilava appeared in ''[[AG151|Weekend Warrior]]''.
+
+In ''[[DP010|Not on MY Watch Ya Don't!]]'', a Quilava was hypnotized and kidnapped by Team Rocket.
+
+In ''[[SM034|A Crowning Moment of Truth!]]'', two {{pkmn|Trainer}}s' Quilava attended the [[Wela Fire Festival]].
+
+In ''[[M21|The Power of Us]]'', a Trainer's Quilava went to the [[Pokémon Catch Race]].
+
+A Student's Quilava appeared in [[HZ090]].
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP262|Quilava|Ash's Pokédex|Quilava, the Volcano Pokémon. Quilava is the evolved form of {{p|Cyndaquil}} and capable of incredible attacks using the flame on its back.}}
+{{Animedexfooter/Pokémon|Johto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP029|Quilava|Ash's Pokédex|Quilava, the Volcano Pokémon, and the evolved form of Cyndaquil. Its body is covered with fire-proof fur and can withstand any {{type|Fire}} attack.}}
+{{Animedexbody|DP182|Quilava|Ash's Pokédex|Quilava, the Volcano Pokémon, and the evolved form of Cyndaquil. Quilava intimidates foes with its flame's heat, and when ready to battle, the fire burns with more strength.}}
+{{Animedexbody|DPS01|Quilava|Dawn's Pokédex|{{tt|Quilava, the Volcano Pokémon. It threatens opponents with the heat of its flames. When it assumes its battle pose, the force of its flames intensifies.|Translated from the Japanese version, which is practically the same as the DP182 entry}}}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+
+==In the manga==
+[[File:Exbo Quilava.png|thumb|200px|Quilava in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+{{main|Exbo}}
+In ''[[PS108|Quilava Quandary]]'', {{adv|Gold}}'s Cyndaquil evolved into Quilava during a {{pkmn|training}} session at the [[Pokémon Day Care|Day Care Center]] outside of [[Goldenrod City]]. He became more powerful than he was in his pre-evolved form, and defeated many of the Johto {{tc|Team Rocket Grunt}}s' Pokémon for Gold.
+
+===Pokémon Gold & Silver: The Golden Boys===
+In ''[[GB09|Let's Use Fighting Type Pokémon!!]]'', {{GnB|Black}} borrowed a Quilava for a tournament.
+
+===Pokémon Ranger the Comic: Double Mission===
+In ''[[PR2|Pokémon Ranger the Comic: Double Mission Episode Two]]'', [[Lunick]] captured a Quilava with his [[Capture Styler]]. It reappeared in ''[[PR3|Pokémon Ranger the Comic: Double Mission Episode Three]]'' and was released in ''[[PR5|Pokémon Ranger the Comic: Double Mission Episode Five]]''.
+{{-}}
+
+==In the TCG==
+{{main|Quilava (TCG)}}
+
+==Trivia==
+* Quilava shares its {{pkmn|category}} with its evolved form and {{p|Entei}}. They are all known as the Volcano Pokémon.
+** Coincidentally, they all are capable of learning {{m|Eruption}}.
+* Quilava, {{p|Charmeleon}}, and their respective evolutionary lines have exactly the same base stats in the same distribution.
+* Jeff Kalles, who assisted in the naming of many [[Generation II]] Pokémon, suggested the English name for Quilava. According to Kalles, he suggested the name because [[Nintendo]] and [[The Pokémon Company]] wanted a Pokémon for every letter of the alphabet.<ref>[https://twitter.com/Sellak/status/1431127202876194816 Tweet by Jeff Kalles (@Sellak).] Posted on August 27, 2021.</ref><ref>[https://twitter.com/Sellak/status/1501389663814098956 Tweet by Jeff Kalles (@Sellak).] Posted on March 9, 2022.</ref>
+
+===Origin===
+Quilava's body is similar to that of animals in the {{wp|Cuniculidae}} family, particularly due to the fur on its upper body being significantly darker than that on its underbelly. However, the pattern distribution and shape of Quilava's flames closely resembles the quills and crest of the {{wp|crested porcupine}}, especially in its earlier sprites, as well as those of a [[wp:Lowland streaked tenrec|lowland streaked tenrec]]. It may also be based on volcanoes due to its triangular profile when standing up and the ability to learn [[Smokescreen]] and {{m|Eruption}}.
+
+====Name origin====
+Quilava may be a combination of ''quill'' (a needle-like hair) and ''lava'' (extrusive molten rock).
+
+Magmarashi may be a combination of ''magma,'' 穴熊 ''anaguma'' ({{wp|badger}}) and 山荒 ''yama-arashi'' ({{wp|porcupine}}).
+
+==In other languages==
+{{Other languages|type=fire|type2=fire
+|ja=マグマラシ ''Magmarashi''|jameaning=From ''magma'' and {{wp|porcupine|{{tt|山荒 ''yama-arashi''|porcupine}}}}
+|fr=Feurisson|frmeaning=From ''{{tt|feu|fire}}'' and ''{{tt|hérisson|hedgehog}}''
+|es=Quilava|esmeaning=Same as English name
+|de=Igelavar|demeaning=From ''{{tt|Igel|hedgehog}}'' and ''Lava''
+|it=Quilava|itmeaning=Same as English name
+|ko=마그케인 ''Mageukein''|komeaning=From ''magma'' and ''hurricane''
+|zh_cmn=火岩鼠 ''Huŏyánshŭ''|zh_cmnmeaning=From {{tt|火 ''huŏ''|fire}}, {{tt|熔岩 ''róngyán''|lava}}, and {{tt|鼠 ''shŭ''|rodent}}
+|zh_yue=火岩鼠 ''Fóngàahmsyú''|zh_yuemeaning=From {{tt|火 ''fó''|fire}}, {{tt|熔岩 ''yùhngngàahm''|lava}}, and {{tt|鼠 ''syú''|rodent}}
+|hi=सुइलावा ''Suilava''|himeaning=From {{tt|सुई ''sui''|needle}} and ''lava''
+|ru=Квилава ''Kvilava''|rumeaning=Transcription of English name
+|th=แม็กมาราชิ ''Maekmarachi''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==See also==
+* [[Ash's Quilava]]
+* [[Dawn's Quilava]]
+* [[Exbo]]
+* [[Jimmy's Quilava]]
+* [[First partner Pokémon]]
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|species=Quilava|prevnum=0155|prev=Cyndaquil|nextnum=0157|next=Typhlosion|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+[[Category:Pokémon with cross-generational Evolutions]]<!--Hisuian Typhlosion-->
+[[Category:Pokémon with Hisui-exclusive Evolutions]]<!--Hisuian Typhlosion-->
+
+[[de:Igelavar]]
+[[es:Quilava]]
+[[fr:Feurisson]]
+[[it:Quilava]]
+[[ja:マグマラシ]]
+[[zh:火岩鼠]]

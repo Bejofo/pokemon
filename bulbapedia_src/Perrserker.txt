@@ -1,0 +1,357 @@
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/GO|species=Perrserker}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0862|prev=Obstagoon|nextnum=0864|next=Cursola|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Perrserker
+|jname=ニャイキング
+|jtranslit=Nyaikingu
+|tmname=Nyaiking
+|ndex=0863
+|type1=Steel
+|category=Viking
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=61.7
+|weight-kg=28.0
+|abilityn=d
+|ability1=Battle Armor
+|ability2=Tough Claws
+|abilityd=Steely Spirit
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=154
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=90
+|body=06
+|pokefordex=perrserker
+|generation=8
+|friendship=50
+}}
+'''Perrserker''' ([[List of Japanese Pokémon names|Japanese]]: '''ニャイキング''' ''Nyaiking'') is a {{type|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{rf|Galarian}} {{p|Meowth}} starting at [[level]] 28.
+
+==Biology==
+Perrserker is a bipedal {{wp|Felidae|feline}} {{OBP|Pokémon|species}}. Unlike {{p|Persian}}, Perrserker remains bipedal and has a body shape similar to what it had as a {{p|Meowth}}. The hair on its head and parts of its limbs have hardened into natural armor. The former takes the shape of a stereotypical horned {{wp|Viking}} helmet that covers its ears and part of its eyes while also incorporating its coin. Perrserker's claws have grown longer and harder as well and can come together to form daggers that it can use to fight its foes more effectively. 
+
+Perrserker has a violent and barbaric demeanor, and it lives for the thrill of battle. It and Persian have a relationship characterized by mutual disdain on account of the irreconcilable differences in their respective temperaments.
+
+Perrserker and its evolutionary relatives are the [[Signature move|only known Pokémon]] capable of learning the move {{m|Pay Day}} by leveling up. Perrserker is also the [[Signature Ability|only known Pokémon]] that can have {{a|Steely Spirit}} as its [[Ability]].
+
+===Evolution===
+Perrserker evolves from {{rf|Galarian}} {{p|Meowth}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Steel
+|pictype=sprite
+|no1=0052Meowth-Galar
+|form1=Galarian Form
+|name1=Meowth
+|type1-1=Steel
+|evo1=
+|no2=0863Perrserker
+|name2=Perrserker
+|type1-2=Steel}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Steel}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=183|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=After many battles, it evolved dangerous claws that come together to form daggers when extended.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Steel}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Galar Route 7|Route 7]], [[Galar Route 9|Route 9]], [[Giant's Mirror]], [[Lake of Outrage]]<br>[[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Seat/Dens|Giant's Seat]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Path to the Peak/Dens|Path to the Peak]], [[Frigid Sea/Dens|Frigid Sea]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Meowth}} <small>('''Galarian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Steel}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync/player|egg|Meowth}} <small>('''Galarian Form''')</small><br>{{mas|Battle Point|BP Sync Pair Voucher}}: {{sync|Rose|Perrserker}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Steel
+|HP=70
+|Attack=110
+|Defense=100
+|SpAtk=50
+|SpDef=60
+|Speed=50
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Perrserker|Steel|Steel|8}}
+{{learnlist/level9|1|Metal Burst|Steel|Physical|—|100|10}}
+{{learnlist/level9|1|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level9|1|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level9|12|Pay Day|Normal|Physical|40|100|20}}
+{{learnlist/level9|16|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level9|20|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level9|24|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level9|31|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level9|36|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|42|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level9|48|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level9|54|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/levelf/9|Perrserker|Steel|Steel|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Perrserker|Steel|Steel|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20|patch=Version 2.0.1 onwards}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM057|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''|patch=Version 2.0.1 onwards}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm9|TM167|Close Combat|Fighting|Physical|120|100|5}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Perrserker|Steel|Steel|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Perrserker|Steel|Steel|8}}
+{{learnlist/breed9|{{MSP/H|0056|Mankey}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0677|Espurr}}{{MSP/H|0678|Meowstic}}{{MSP/H|0820|Greedent}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Covet|Normal|Physical|60|100|25}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark|form=-Hisui}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0128|Tauros}}{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0155|Cyndaquil}}{{MSP/H|0156|Quilava}}{{MSP/H|0157|Typhlosion}}{{MSP/H|0157|Typhlosion|form=-Hisui}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0231|Phanpy}}{{MSP/H|0234|Stantler}}{{MSP/H|0899|Wyrdeer}}{{MSP/H|0322|Numel}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0672|Skiddo}}{{MSP/H|0673|Gogoat}}{{MSP/H|0766|Passimian}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}{{MSP/H|0967|Cyclizar}}{{MSP/H|0971|Greavard}}{{MSP/H|0972|Houndstone}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0231|Phanpy}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0775|Komala}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed9|{{MSP/H|0051|Dugtrio}}{{MSP/H|0051|Dugtrio|form=-Alola}}{{MSP/H|0052|Meowth|form=-Alola}}{{MSP/H|0053|Persian|form=-Alola}}{{MSP/H|0335|Zangoose}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0461|Weavile}}{{MSP/H|0571|Zoroark}}{{MSP/H|0908|Meowscarada}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed9|{{MSP/H|0037|Vulpix}}{{MSP/H|0037|Vulpix|form=-Alola}}{{MSP/H|0038|Ninetales}}{{MSP/H|0038|Ninetales|form=-Alola}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark|form=-Hisui}}{{tt|*|Hisuian Zorua learned Spite via level-up prior to Version 2.0.1; it can still learn Spite via TM177}}|Spite|Ghost|Status|—|100|10}}
+{{learnlist/breedf/9|Perrserker|Steel|Steel|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Perrserker|Steel|Steel|8}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Perrserker|Steel|Steel|8}}
+
+===Side game data===
+{{Spindata/Head|type=Steel}}
+{{Spindata/GO|col=6|type=Steel|ndex=863
+|egg=N/A
+|buddy=3
+|candy=Meowth
+|evolution=N/A
+|stamina=172
+|attack=195
+|defense=162
+|fast={{m|Metal Claw}}, {{m|Shadow Claw}}, {{m|Metal Sound}}{{tt|*|From June 1, 2025 onward}}
+|special={{m|Iron Head}}, {{m|Close Combat}}, {{m|Play Rough}}, {{m|Foul Play}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Steel
+|pictype=sprite
+|no1=0052Meowth-Galar
+|form1=Galarian Form
+|name1=Meowth
+|type1-1=Steel
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 28}}
+|no2=0863Perrserker
+|name2=Perrserker
+|type1-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Steel}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=863}}
+<!--{{Spritebox/9|ndex=0863}}-->
+{{Spritebox/HOME|ndex=0863}}
+{{Spritebox/Footer|863|Perrserker}}
+
+==In animation==
+[[File:Perrserker anime.png|thumb|250px|Perrserker in {{aniseries|JN}}]]
+===Main series===
+====Major appearances====
+Perrserker made its animated series debut in ''[[JN127|Just a Scone's Throw From Here!]]'', where it was the leader of a group of Galarian {{p|Meowth}}.
+
+====Minor appearances====
+A Perrserker debuted in ''[[M23|Secrets of the Jungle]]''.
+
+A Perrserker appeared in ''[[HZ040|Farewell, Sprigatito?]]'' at [[Marnya's house]].
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN127|Perrserker|Team Rocket's Rotom Phone|The big one is {{p|Meowth|their}} evolved form, Perrserker.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon: Twilight Wings===
+A Perrserker appeared in ''[[TW08|The Gathering of Stars]]''.
+
+==In the manga==
+===Pokémon Adventures===
+A Perrserker first appeared in ''[[PASS18|Chomp!! It's Dracovish]]''.
+
+A [[Dynamax]]ed Perrserker appeared in ''[[PASS26|Cracked!! The Rusted Sword and Shield]]''.
+
+==In the TCG==
+{{main|Perrserker (TCG)}}
+==Trivia==
+* In [[Generation IX]], prior to the Version 2.0.1 update of {{g|Scarlet and Violet}}, Perrserker was unable to learn {{m|Aerial Ace}} and {{m|Flash Cannon}} via [[TM]], while its pre-Evolution could.
+
+===Origin===
+Perrserker appears to be based on a cat and the stereotypical image of {{wp|Viking}}s. Its behavior may be based on that of the {{wp|berserker}}. It may also be based on {{wp|Freyja|Freyja's cats}} gifted by {{wp|Thor}}, commonly named ''Bygul'' (honey) and ''Trjegul'' (amber), which pulled her chariot. Both its regular and {{Shiny}} coloration could be a reference to these names. Its Steel typing may refer to the Vikings' use of iron in their weapons and helmets. Another possible basis, considering its horn-like ears and connection to Vikings, may be the {{wp|Norwegian forest cat}}, a breed of cat from Scandinavia noted for its long, tufted ears and fluff. The creature's grin also brings to mind the {{wp|Cheshire Cat}}.
+
+====Name origin====
+Perrserker may be a combination of ''purr'', ''{{p|Persian}}'', and ''{{wp|berserker}}''. 
+
+Nyaiking may be a combination of ニャー ''nyā'' (the sound a cat makes), ''{{wp|Vikings|Viking}}'', and ''king''.
+
+==In other languages==
+{{Other languages|type=Steel|type2=Steel
+|ja=ニャイキング ''Nyaiking''|jameaning=From {{tt|ニャー ''nyā''|meow}}, ''Viking'', and ''king''
+|fr=Berserkatt|frmeaning=From ''berserker'' and ''{{tt|katt|Norwegian and Swedish for cat}}
+|es=Perrserker|esmeaning=Same as English name
+|de=Mauzinger|demeaning=From ''{{tt|mauzen|a description of the sound a cat makes}}'' and ''{{tt|Wikinger|Viking}}
+|it=Perrserker|itmeaning=Same as English name
+|ko=나이킹 ''Naiking''|komeaning=From {{tt|나옹 ''Naong''|Meowth}} and ''Viking''
+|zh_cmn=喵頭目 / 喵头目 ''Miāotóumù''|zh_cmnmeaning=From {{tt|喵 ''miāo''|meow}} and {{tt|頭目 / 头目 ''tóumù''|chieftain}}
+|zh_yue=喵頭目 ''Mīutàuhmuhk''|zh_yuemeaning=From {{tt|喵 ''mīu''|meow}} and {{tt|頭目 ''tàuhmuhk''|chieftain}}
+|hi=पर्ज़र्कर ''Perrzerker''|himeaning=Similar to English name
+|th=เนียคิง ''Niakhing''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+* {{p|Persian}}
+
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{Galarian forms}}
+
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0862|prev=Obstagoon|nextnum=0864|next=Cursola}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Mauzinger]]
+[[es:Perrserker]]
+[[fr:Berserkatt]]
+[[it:Perrserker]]
+[[ja:ニャイキング]]
+[[zh:喵头目]]

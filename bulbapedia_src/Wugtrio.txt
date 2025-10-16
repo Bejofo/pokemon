@@ -1,0 +1,304 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Wugtrio}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0960|prev=Wiglett|nextnum=0962|next=Bombirdier|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Wugtrio
+|jname=ウミトリオ
+|jtranslit=Umitorio
+|tmname=Umitrio
+|ndex=0961
+|type1=Water
+|category=Garden Eel
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=11.9
+|weight-kg=5.4
+|abilityn=2
+|ability1=Gooey
+|ability2=Rattled
+|abilityd=Sand Veil
+|egggroupn=1
+|egggroup1=Water 3
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=2
+|expyield=149
+|lv100exp=1000000
+|gendercode=127
+|color=Red
+|catchrate=50
+|body=05
+|pokefordex=wugtrio
+|generation=9
+|friendship=50
+}}
+'''Wugtrio''' ([[List of Japanese Pokémon names|Japanese]]: '''ウミトリオ''' ''Umitrio'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Wiglett}} starting at [[level]] 26.
+
+It is [[Ecologically similar Pokémon|ecologically similar]] to {{p|Dugtrio}}; however, the two are separate species.
+
+==Biology==
+Wugtrio is a long, red, three-bodied fish Pokémon that lives in a black spiky rock. Each body has a head with beady dark blue eyes and a large, round, white nose. Only Wugtrio's heads and parts of its bodies are seen; it is unknown what the rest of its body looks like inside of the rock.
+
+Wugtrio makes its habitat on coastlines and hides within its rock when spotted by humans. It is considered a particularly aggressive Pokémon species, wrapping its three bodies around prey and dragging them down to its lair. It was originally thought to be a [[regional form]] of {{p|Dugtrio}}, but this has since been disproven.
+
+Wugtrio is the [[signature move|only known Pokémon]] capable of learning the move {{m|Triple Dive}}.
+
+===Evolution===
+Wugtrio evolves from {{p|Wiglett}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Water
+|pictype=art
+|no1=0960
+|name1=Wiglett
+|type1-1=Water
+|evo1=
+|no2=0961
+|name2=Wugtrio
+|type1-2=Water}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=289|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=A variety of fish Pokémon, Wugtrio was once considered to be a [[regional form]] of {{p|Dugtrio}}.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{water color dark}}; background:#{{water color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{water color light}}; background:#{{water color light}} | [[File:Pokédex Image Wugtrio SV.png|x200px]]
+|-
+| Wugtrio in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[West Province (Area Two)|Area Two]]<br>North Province: [[North Province (Area One)|Area One]], [[North Province (Area Three)|Area Three]]<br>North Province: [[North Province (Area One)|Area One]] ({{t|Ground}} {{Tera}} [[Type]])<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Wugtrio|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Water
+|HP=35
+|Attack=100
+|Defense=50
+|SpAtk=50
+|SpDef=70
+|Speed=120
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Wugtrio|Water|Water|9}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|1|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level9|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level9|12|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/level9|16|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level9|20|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level9|24|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|30|Triple Dive|Water|Physical|30|95|10||'''}}
+{{learnlist/level9|36|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level9|42|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level9|48|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/level9|54|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/levelf/9|Wugtrio|Water|Water|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Wugtrio|Water|Water|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM208|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm9|TM209|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tmf/9|Wugtrio|Water|Water|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Wugtrio|Water|Water|9}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Final Gambit|Fighting|Special|—|100|5|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Memento|Dark|Status|—|100|10|grid=2}}
+{{learnlist/breedf/9|Wugtrio|Water|Water|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Wugtrio|Water|Water|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Wugtrio|Water|Water|9}}
+
+====Special moves====
+{{learnlist/eventh/9|Wugtrio|Water|Water|9}}
+{{learnlist/event9|[[North Province (Area One)|Wild Tera Pokémon]]|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/event9|[[North Province (Area One)|Wild Tera Pokémon]]|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/eventf/9|Wugtrio|Water|Water|9}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/GO|col=6|type=Water|ndex=0961
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=111
+|attack=205
+|defense=136
+|fast={{m|Water Gun}}, {{m|Mud-Slap}}
+|special={{m|Liquidation}}, {{m|Dig}}, {{m|Surf}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Water
+|pictype=art
+|no1=0960
+|name1=Wiglett
+|type1-1=Water
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 26}}
+|no2=0961
+|name2=Wugtrio
+|type1-2=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=water}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0961}}-->
+{{Spritebox/HOME|ndex=0961}}
+{{Spritebox/Footer|961|Wugtrio}}
+
+==In animation==
+[[File:Wugtrio anime.png|thumb|250px|Wugtrio in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+A Wugtrio appeared in [[HZ103]]. [[Zirc]]'s ticket got stuck on one of its heads, leading him, [[Liko]], [[Roy]], and [[Onia]] to battle it on order to get it back.
+
+====Minor appearances====
+Wugtrio made its debut in ''[[HZ055|Showdown! The Paldea Elite Four]]'', under the ownership of [[Kofu]]. It was used in a [[Multi Battle|Tag Battle]] against [[Larry]] alongside [[Coral]]'s {{p|Glalie}}, but was knocked out when its partner used {{m|Self-Destruct}}.
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Wugtrio (TCG)}}
+
+==Trivia==
+* Wugtrio and [[Kanto|Kantonian]] {{p|Dugtrio}} have exactly the same base stats in the same distribution. They also [[Evolution|evolve]] from their pre-evolved forms at the same level.
+* Wugtrio, {{rf|Alolan}} {{p|Dugtrio}}, and their pre-Evolutions share the [[Ability]] {{a|Sand Veil}} in addition to either {{a|Gooey}} or {{a|Tangling Hair}}, the latter two being variations of each other.
+* When {{p|Wiglett}} and Wugtrio are sent out, they merely fade onto the screen instead of dropping down like most other Pokémon. This trait is shared with {{p|Diglett}}, {{p|Dugtrio}}, {{p|Sandygast}}, and {{p|Palossand}}.
+* Wugtrio’s weight is exactly three times the weight of {{p|Wiglett}}.
+* Despite consisting of three separate bodies like the ecologically similar {{p|Dugtrio}}, Wugtrio does not belong to [[List of Pokémon by shape|the group of Pokémon]] consisting of multiple bodies.
+
+===Origin===
+Wugtrio appears to be based on {{wp|Heterocongrinae|garden eels}}. The fact that it physically resembles {{p|Dugtrio}} may be a reference to {{wp|convergent evolution}} or {{wp|parallel evolution}}, which can lead to separate organisms independently developing similar or identical characteristics and body plans. Its aggressive nature and habit of dragging its prey into its den is similar to how {{wp|moray eels}} hunt. Its simplistic anatomy, lack of fins, strong sense of smell, and {{a|Gooey}} [[Ability]] may draw inspiration from {{wp|hagfish}}. Its appearance and silhouette may also derive slight cues from {{wp|Riftia pachyptila|giant tube worms}} and {{wp|Tubifex|tubifex worms}}.
+
+====Name origin====
+Wugtrio may be a combination of ''{{p|Wiglett}}'', ''water'', or ''wug'' (a word used to describe any creature with worm-like features) and ''{{p|Dugtrio}}''.
+
+Umitrio may be a combination of 海 ''umi'' (sea) and ''Dugtrio''.
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=ウミトリオ ''Umitrio''|jameaning=From {{tt|海 ''umi''|sea}} and ''{{p|Dugtrio}}''
+|fr=Triopikeau|frmeaning=From ''{{tt|Triopikeur|Dugtrio}}'' and ''{{tt|eau|water}}''
+|es=Wugtrio|esmeaning=Same as English name
+|de=Schligdri|demeaning=From ''{{tt|Schlick|silt}}'' and ''{{tt|Digdri|Dugtrio}}''
+|it=Wugtrio|itmeaning=Same as English name
+|ko=바닥트리오 ''Badakteurio''|komeaning=From {{tt|바다 ''bada''|sea}} and {{tt|닥트리오 ''Daktrio''|Dugtrio}}
+|zh_cmn=三海地鼠 ''Sānhǎidìshǔ ''|zh_cmnmeaning=From {{tt|海 ''hǎi''|sea}} and {{tt|三地鼠 ''Sāndìshǔ ''|Dugtrio}}
+|zh_yue=三海地鼠 ''Sāamhóideihsyú''|zh_yuemeaning=From {{tt|海 ''hói''|sea}} and {{tt|三地鼠 ''Sāamdeihsyú''|Dugtrio}}
+|hi=वॉट्रियो ''Watrio''|himeaning=From ''water'' and {{p|Dugtrio|डगट्रियो ''Dugtrio''}}
+|th=อุมิทริโอ ''Umitrio''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Ecologically similar Pokémon]]
+* [[Pokémon fusion]]
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{Ecologically similar Pokémon}}
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0960|prev=Wiglett|nextnum=0962|next=Bombirdier}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Schligdri]]
+[[es:Wugtrio]]
+[[fr:Triopikeau]]
+[[it:Wugtrio]]
+[[ja:ウミトリオ]]
+[[zh:三海地鼠]]

@@ -1,0 +1,794 @@
+{{PokémonPrevNext/Head|type=Fairy|type2=Flying}}
+{{PokémonPrevNext/GO|species=Togetic}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0175|prev=Togepi|nextnum=0177|next=Natu|round=none}}
+{{PokémonPrevNext/Disambig|species=Togetic}}
+|}
+{{Pokémon Infobox
+|name=Togetic
+|jname=トゲチック
+|jtranslit=Togechikku
+|tmname=Togechick
+|ndex=0176
+|typebox=1
+|type1=Fairy
+|type2=Flying
+|category=Happiness
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=7.1
+|weight-kg=3.2
+|abilityn=d
+|ability1=Hustle
+|ability2=Serene Grace
+|abilityd=Super Luck
+|egggroupn=2
+|egggroup1=Flying
+|egggroup2=Fairy
+|eggcycles=10
+|evtotal=2
+|evsd=2
+|expyield=142
+|oldexp=114
+|lv100exp=800,000
+|gendercode=31
+|color=White
+|catchrate=75
+|body=12
+|pokefordex=togetic
+|generation=2
+|friendship=70
+}}
+'''Togetic''' ([[List of Japanese Pokémon names|Japanese]]: '''トゲチック''' ''Togechick'') is a dual-type {{2t|Fairy|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation II]]. Prior to [[Generation VI]], it was a dual-type {{2t|Normal|Flying}} Pokémon.
+
+It [[Evolution|evolves]] from {{p|Togepi}} when [[friendship Evolution|leveled up with high friendship]] and evolves into {{p|Togekiss}} when exposed to a [[Shiny Stone]].
+
+==Biology==
+Togetic is a dainty, bipedal {{OBP|Pokémon|species}} that is small in stature. It is white with a red and blue triangular ring pattern on its body. It also has a relatively long neck and long legs and a pair of wings on its back, giving it a vaguely angelic appearance. Togetic is capable of levitating itself without needing to flap its wings.
+
+Togetic can sense the kindness in other people and Pokémon's hearts. Whenever it spots a pure-hearted person, it tends to go to that person and shower them with happiness and glowing down called "joy dust". To share its happiness, it is said to fly around the world seeking these people. If it is not with kind people, however, it becomes dispirited and loses energy. Togetic is rare in the wild, but can sometimes be found living within the {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}. As mentioned in {{g|Sleep}}, Togetic is known to occasionally sleep while floating and steadily flapping its wings.<ref>[[Sleep style|Sleep Style Dex]]</ref> It is believed that a mysterious power is keeping Togetic in the air.
+
+===Evolution===
+Togetic evolves from {{p|Togepi}} and evolves into {{p|Togekiss}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=fairy
+|pictype=art
+|no1=0175
+|name1=Togepi
+|type1-1=Fairy
+|evo1=
+|breed=
+|no2=0176
+|name2=Togetic
+|type1-2=Fairy
+|type2-2=Flying
+|evo2=
+|no3=0468
+|name3=Togekiss
+|type1-3=Fairy
+|type2-3=Flying
+}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fairy|type2=Flying}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=047}}
+{{Dex/Entry1|v=Gold|entry=They say that it will appear before kindhearted, caring people and shower them with happiness.}}
+{{Dex/Entry1|v=Silver|entry=It grows dispirited if it is not with kind people. It can float in midair without moving its wings.}}
+{{Dex/Entry1|v=Crystal|entry=Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=They say that it will appear before kindhearted, caring people and shower them with happiness. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It grows dispirited if it is not with kind people. It can float in midair without moving its wings. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Togetic</sc> is said to be a {{ScPkmn}} that brings good fortune. When the {{ScPkmn}} spots someone who is pure of heart, it is said to appear and share its happiness with that person.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It is said to be a {{ScPkmn}} that brings good fortune. When it spots someone who is pure of heart, a <sc>Togetic</sc> appears and shares its happiness with that person.}}
+{{Dex/Entry1|v=FireRed|entry=It grows dispirited if it is not with kind people. It can float in midair without moving its wings.}}
+{{Dex/Entry1|v=LeafGreen|entry=They say that it will appear before kindhearted, caring people and shower them with happiness.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=174|label1={{gameIcon|Pt}}:|reg2=Johto|num2=047}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=It is said to appear in front of kindly people to scatter a glowing down called "joy dust."}}
+{{Dex/Entry1|v=Platinum|entry=To share its happiness, it flies around the world seeking kind-hearted people.}}
+{{Dex/Entry1|v=HeartGold|entry=They say that it will appear before kindhearted, caring people and shower them with happiness.}}
+{{Dex/Entry1|v=SoulSilver|entry=It grows dispirited if it is not with kind people. It can float in midair without moving its wings.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=To share its happiness, it flies around the world seeking kind-hearted people.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=To share its happiness, it flies around the world seeking kind-hearted people.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It grows dispirited if it is not with kind people. It can float in midair without moving its wings.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=They say that it will appear before kindhearted, caring people and shower them with happiness.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=258|reg2=Sinnoh|reg3=Hisui|num3=128}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=They say that it will appear before kindhearted, caring people and shower them with happiness.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It grows dispirited if it is not with kind people. It can float in midair without moving its wings.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It is said to appear in front of kindly people to scatter a glowing down called joy dust.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pokémon then bestows great joy.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=fairy|type2=flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+{{Availability/Entry1|v=Colosseum|area=[[Outskirt Stand]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Stony Wilderness]]<br>[[Bridge Field/Dens|Bridge Field]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Crimson Mirelands]]:''' near [[Bolderoll Slope]]<sup>Flying</sup>, near [[Cottonsedge Prairie]]<sup>Flying</sup><br>'''[[Cobalt Coastlands]]:''' [[Tranquility Cove]]{{Sup/t|D}}, massive [[mass outbreak]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fairy|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 3, Forever Level 52, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Happy Outlook]] (B1F-B15F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Happy Outlook]] (B1F-B15F)}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Evolution|Evolve]] {{p|Togepi}}}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Old Mansion]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#King of the Sky|Conductor Room: King of the Sky]], [[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 1|Distortion Island: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Colossal Tree|Pearl Marsh: Colossal Tree]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Dragonite Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Arceus Sea]], [[Entei Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Northern Range]] (14F-20F)<br/>Fainted Pokémon: [[Wyvern Hill]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Great 4)<br>[[Snowdrop Tundra]] (from Basic 4)<br>[[Lapis Lakeside]] (from Basic 3)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Galerie Rouge|Galerie Rouge: Stage 68]]<br>[[Nacht Carnival|Nacht Carnival: Stage 512]]<br>Event: ''[[Daily Pokémon#Special Daily Pokémon (third release)|Special Daily Pokémon]]'' <small>(Third release; Winking)</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Seasonal [[sync pair scout]]: {{sync|Elesa|Togetic|Palentine's 2023}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Fairy|type2=Flying}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Leppa Berry|30|Vivichoke|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=fairy
+|type2=flying
+|HP=     55
+|Attack= 40
+|Defense=85
+|SpAtk=  80
+|SpDef= 105
+|Speed=  40}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|type2=Flying
+|Speed=3
+|SpeedMax=4
+|Power=2
+|PowerMax=5
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=fairy
+|type2=flying
+|Normal=  100
+|Fighting= 25
+|Flying=  100
+|Poison=  200
+|Ground=    0
+|Rock=    200
+|Bug=      25
+|Ghost=   100
+|Steel=   200
+|Fire=    100
+|Water=   100
+|Grass=    50
+|Electric=200
+|Psychic= 100
+|Ice=     200
+|Dragon=    0
+|Dark=     50
+|Fairy=   100
+|notes=yes
+|fairy=yes
+|newdragon=1
+|flying=yes
+|newground=1
+|newfairy=yes
+|newfairyeffect= {{typecolor2|Ghost}} moves was 0×, {{typecolor2|Bug}} moves was ½×, and {{typecolor2|Dragon}}, {{typecolor2|Dark}}, {{typecolor2|Steel}}, {{typecolor2|Fighting}} and {{typecolor2|Poison}} moves was 1×}}
+
+===Learnset===
+Togetic is available in {{pkmn|Sword and Shield}}, {{pkmn|Brilliant Diamond and Shining Pearl}}, and [[Pokémon Legends: Arceus]].
+
+====By [[Level|leveling up]]====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/levelh/8|Togetic|Fairy|Flying|2}}
+{{learnlist/level8|1|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Sweet Kiss|Fairy|Status|—|75|10}}
+{{learnlist/level8|1|Life Dew|Water|Status|—|—|10}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level8|12|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level8|16|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level8|20|Yawn|Normal|Status|—|—|10}}
+{{learnlist/level8|24|Metronome|Normal|Status|—|—|10}}
+{{learnlist/level8|28|After You|Normal|Status|—|—|15}}
+{{learnlist/level8|32|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level8|36|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/level8|40|Follow Me|Normal|Status|—|—|20}}
+{{learnlist/level8|44|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level8|48|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/level8|52|Wish|Normal|Status|—|—|10}}
+{{learnlist/levelf/8|Togetic|Fairy|Flying|2}}
+
+{{gameabbrev8|LA}}
+{{learnlist/levelh/LA|Togetic|Fairy|Flying|2}}
+{{learnlist/levelLA|1|10|Tackle|Normal|Physical|40|50|30|100|100|30||}}
+{{learnlist/levelLA|{{tt|Evo.|Learned upon Evolution}}|20|Air Cutter|Flying|Special|60|75|45|95|100|15||'''}}
+{{learnlist/levelLA|6|15|Fairy Wind|Fairy|Special|40|50|30|100|100|25||'''}}
+{{learnlist/levelLA|11|20|Draining Kiss|Fairy|Special|50|60|40|100|100|15||'''}}
+{{learnlist/levelLA|18|28|Calm Mind|Psychic|Status|—|—|—|—|—|10||}}
+{{learnlist/levelLA|25|35|Baby-Doll Eyes|Fairy|Status|—|—|—|100|100|20||}}
+{{learnlist/levelLA|25|35|Air Slash|Flying|Special|75|90|60|95|100|10||'''}}
+{{learnlist/levelLA|34|45|Extrasensory|Psychic|Special|70|85|55|100|100|15||}}
+{{learnlist/levelLA|43|54|Moonblast|Fairy|Special|85|105|65|100|100|10||'''}}
+{{learnlist/levelf/8|Togetic|Fairy|Flying|2}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Togetic|Fairy|Flying|2}}
+{{learnlist/tm8|TM00|Mega Punch|Normal|Physical|80|85|20}}
+{{learnlist/tm8|TM01|Mega Kick|Normal|Physical|120|75|5}}
+{{learnlist/tm8|TM06|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM10|Magical Leaf|Grass|Special|60|—|20}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM18|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm8|TM19|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM30|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM43|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm8|TM44|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM59|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm8|TM63|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM79|Retaliate|Normal|Physical|70|100|5}}
+{{learnlist/tm8|TM87|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/tm8|TM92|Mystical Fire|Fire|Special|75|100|10}}
+{{learnlist/tm8|TM96|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR02|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tr|TR14|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tr|TR15|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tr|TR19|Tri Attack|Normal|Special|80|100|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR25|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR30|Encore|Normal|Status|—|100|5}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR34|Future Sight|Psychic|Special|120|100|10}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR36|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR82|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/tr|TR85|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tr|TR90|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/tr|TR92|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tmf/8|Togetic|Fairy|Flying|2}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Togetic|Fairy|Flying|2}}
+{{learnlist/tm8|TM01|Focus Punch|Fighting|Physical|150|100|20||}}
+{{learnlist/tm8|TM03|Water Pulse|Water|Special|60|100|20||}}
+{{learnlist/tm8|TM10|Work Up|Normal|Status|—|—|30||}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm8|TM15|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm8|TM16|Light Screen|Psychic|Status|—|—|30||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM18|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm8|TM20|Safeguard|Normal|Status|—|—|25||}}
+{{learnlist/tm8|TM21|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||}}
+{{learnlist/tm8|TM29|Psychic|Psychic|Special|90|100|10||}}
+{{learnlist/tm8|TM30|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm8|TM31|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|—|—|15||}}
+{{learnlist/tm8|TM33|Reflect|Psychic|Status|—|—|20||}}
+{{learnlist/tm8|TM34|Shock Wave|Electric|Special|60|—|20||}}
+{{learnlist/tm8|TM35|Flamethrower|Fire|Special|90|100|15||}}
+{{learnlist/tm8|TM38|Fire Blast|Fire|Special|110|85|5||}}
+{{learnlist/tm8|TM40|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|—|—|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|—|100|15||}}
+{{learnlist/tm8|TM47|Steel Wing|Steel|Physical|70|90|25||}}
+{{learnlist/tm8|TM51|Roost|Flying|Status|—|—|10||}}
+{{learnlist/tm8|TM56|Fling|Dark|Physical|—|100|10||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM60|Drain Punch|Fighting|Physical|75|100|10||}}
+{{learnlist/tm8|TM63|Nasty Plot|Dark|Status|—|—|20||}}
+{{learnlist/tm8|TM68|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm8|TM70|Flash|Normal|Status|—|100|20||}}
+{{learnlist/tm8|TM73|Thunder Wave|Electric|Status|—|90|20||}}
+{{learnlist/tm8|TM77|Psych Up|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM85|Dream Eater|Psychic|Special|100|100|15||}}
+{{learnlist/tm8|TM86|Grass Knot|Grass|Special|—|100|20||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|—|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM94|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm8|TM97|Defog|Flying|Status|—|—|15||}}
+{{learnlist/tm8|TM98|Rock Smash|Fighting|Physical|40|100|15||}}
+{{learnlist/tmf/8|Togetic|Fairy|Flying|2}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Togetic|Fairy|Flying|2}}
+{{learnlist/breed8|{{MSP/8c|083|Farfetch'd}}{{MSP/8c|627|Rufflet}}{{MSP/8c|628|Braviary}}{{MSP/8c|661|Fletchling}}{{MSP/8c|662|Fletchinder}}{{MSP/8c|663|Talonflame}}{{MSP/8c|701|Hawlucha}}|Aerial Ace|Flying|Physical|60|—|20||'''|grid=8}}
+{{learnlist/breed8|{{MSP/8c|163|Hoothoot}}{{MSP/8c|164|Noctowl}}|Extrasensory|Psychic|Special|80|100|20|grid=8}}
+{{learnlist/breed8|{{MSP/8c|420|Cherubi}}{{MSP/8c|421|Cherrim}}|Morning Sun|Normal|Status|—|—|5|grid=8}}
+{{learnlist/breed8|{{MSP/8c|083|Farfetch'd}}{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}{{MSP/8c|163|Hoothoot}}{{MSP/8c|164|Noctowl}}{{MSP/8c|177|Natu}}{{MSP/8c|178|Xatu}}{{MSP/8c|227|Skarmory}}{{MSP/8c|333|Swablu}}{{MSP/8c|334|Altaria}}{{MSP/8c|627|Rufflet}}{{MSP/8c|628|Braviary}}{{MSP/8c|661|Fletchling}}{{MSP/8c|662|Fletchinder}}{{MSP/8c|663|Talonflame}}{{MSP/8c|722|Rowlet}}{{MSP/8c|723|Dartrix}}{{MSP/8c|724|Decidueye}}{{MSP/8c|821|Rookidee}}{{MSP/8c|822|Corvisquire}}{{MSP/8c|823|Corviknight}}{{MSP/8c|845|Cramorant}}|Peck|Flying|Physical|35|100|35||'''|grid=8}}
+{{learnlist/breed8|{{MSP/8c|025|Pikachu}}{{MSP/8c|026|Raichu}}{{MSP/8c|183|Marill}}{{MSP/8c|184|Azumarill}}{{MSP/8c|777|Togedemaru}}|Present|Normal|Physical|—|90|15|*|grid=8}}
+{{learnlist/breed8|{{MSP/8c|163|Hoothoot}}{{MSP/8c|164|Noctowl}}{{MSP/8c|177|Natu}}{{MSP/8c|178|Xatu}}|Psycho Shift|Psychic|Status|—|100|10|grid=8}}
+{{learnlist/breedf/8|Togetic|Fairy|Flying|2}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Togetic|Fairy|Flying|2}}
+{{learnlist/breed8|{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}|Extrasensory|Psychic|Special|80|100|20||}}
+{{learnlist/breed8|{{MSP/H|0177|Natu}}{{MSP/H|0178|Xatu}}|Future Sight|Psychic|Special|120|100|10||}}
+{{learnlist/breed8|{{MSP/H|0420|Cherubi}}{{MSP/H|0421|Cherrim}}|Morning Sun|Normal|Status|—|—|5||}}
+{{learnlist/breed8|{{MSP/H|0021|Spearow}}{{MSP/H|0022|Fearow}}{{MSP/H|0083|Farfetch'd}}{{MSP/H|0084|Doduo}}{{MSP/H|0085|Dodrio}}{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}{{MSP/H|0177|Natu}}{{MSP/H|0178|Xatu}}{{MSP/H|0198|Murkrow}}{{MSP/H|0430|Honchkrow}}{{MSP/H|0227|Skarmory}}{{MSP/H|0276|Taillow}}{{MSP/H|0277|Swellow}}{{MSP/H|0333|Swablu}}{{MSP/H|0334|Altaria}}{{MSP/H|0441|Chatot}}|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/breed8|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0183|Marill}}{{MSP/H|0184|Azumarill}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}|Present|Normal|Physical|—|90|15|*|}}
+{{learnlist/breed8|{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}{{MSP/H|0177|Natu}}{{MSP/H|0178|Xatu}}|Psycho Shift|Psychic|Status|—|100|10||}}
+{{learnlist/breed8|{{MSP/H|0035|Clefairy}}{{MSP/H|0036|Clefable}}{{MSP/H|0177|Natu}}{{MSP/H|0178|Xatu}}|Stored Power|Psychic|Special|20|100|10||}}
+{{learnlist/breedf/8|Togetic|Fairy|Flying|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/tutorh/8|Togetic|Fairy|Flying|2|7}}
+{{learnlist/tutor8|Dual Wingbeat|Flying|Physical|40|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Togetic|Fairy|Flying|2|7}}
+
+{{gameabbrev8|LA}}
+{{learnlist/tutorh/PLA|Togetic|Fairy|Flying|2}}
+{{learnlist/tutorPLA|Aerial Ace|Flying|Physical|60|75|45|—|—|20||'''}}
+{{learnlist/tutorPLA|Baby-Doll Eyes|Fairy|Status|—|—|—|100|100|20||}}
+{{learnlist/tutorPLA|Calm Mind|Psychic|Status|—|—|—|—|—|10||}}
+{{learnlist/tutorPLA|Dazzling Gleam|Fairy|Special|75|90|60|100|100|10||'''}}
+{{learnlist/tutorPLA|Drain Punch|Fighting|Physical|75|90|60|100|100|10||}}
+{{learnlist/tutorPLA|Flamethrower|Fire|Special|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|Giga Impact|Normal|Physical|120|150|100|90|95|5||}}
+{{learnlist/tutorPLA|Hyper Beam|Normal|Special|120|150|100|90|95|5||}}
+{{learnlist/tutorPLA|Magical Leaf|Grass|Special|60|75|45|—|—|20||}}
+{{learnlist/tutorPLA|Mystical Fire|Fire|Special|70|85|55|100|100|10||}}
+{{learnlist/tutorPLA|Ominous Wind|Ghost|Special|60|75|45|100|100|15||}}
+{{learnlist/tutorPLA|Play Rough|Fairy|Physical|85|105|65|90|100|10||'''}}
+{{learnlist/tutorPLA|Psychic|Psychic|Special|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|Rest|Psychic|Status|—|—|—|—|—|10||}}
+{{learnlist/tutorPLA|Rock Smash|Fighting|Physical|40|50|30|100|100|20||}}
+{{learnlist/tutorPLA|Shadow Ball|Ghost|Special|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|Swift|Normal|Special|60|75|45|—|—|20||}}
+{{learnlist/tutorPLA|Tri Attack|Normal|Special|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|Water Pulse|Water|Special|60|75|45|—|—|20||}}
+{{learnlist/tutorPLA|Zen Headbutt|Psychic|Physical|80|100|60|90|100|10||}}
+{{learnlist/tutorf/8|Togetic|Fairy|Flying|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Togetic|Fairy|Flying|2|7}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Togetic|Fairy|Flying|2|7}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Togetic|Fairy|Flying|2}}
+{{learnlist/prevgen8|Togetic|2|Air Cutter|Flying|Special|60|95|25||'''|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Bestow|Normal|Status|—|—|15|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Counter|Fighting|Physical|—|100|20|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Covet|Normal|Physical|60|100|25|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Curse|Ghost|Status|—|—|10|II=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Defense Curl|Normal|Status|—|—|40|II=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Defog|Flying|Status|—|—|15|IV=yes<!--TM-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Detect|Fighting|Status|—|—|5|II=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Double Team|Normal|Status|—|—|15|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Dream Eater|Psychic|Special|100|100|15|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Echoed Voice|Normal|Special|40|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Endeavor|Normal|Physical|—|100|5|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Flash|Normal|Status|—|100|20|II=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Focus Punch|Fighting|Physical|150|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Foresight|Normal|Status|—|—|40|II=yes<!--breed-->|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Frustration|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Headbutt|Normal|Physical|70|100|15|II=yes<!--TM-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Heal Bell|Normal|Status|—|—|5|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Hidden Power|Normal|Special|60|100|15|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Incinerate|Fire|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Lucky Chant|Normal|Status|—|—|30|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Magic Coat|Psychic|Status|—|—|15|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Mimic|Normal|Status|—|—|10|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Mirror Move|Flying|Status|—|—|20|II=yes<!--breed-->|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Mud-Slap|Ground|Special|20|100|10|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Ominous Wind|Ghost|Special|60|100|5|IV=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Psych Up|Normal|Status|—|—|10|II=yes<!--TM-->|III=yes<!--breed,tutor-->|IV=yes<!--TM,breed-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Return|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Rock Smash|Fighting|Physical|40|100|15|II=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Togetic|2|Rollout|Rock|Physical|30|90|20|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Roost|Flying|Status|—|—|10|IV=yes<!--TM-->|V=yes<!--tutor-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--breed-->|VI=yes<!--TM,breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Seismic Toss|Fighting|Physical|—|100|20|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Shock Wave|Electric|Special|60|—|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Signal Beam|Bug|Special|75|100|15|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Silver Wind|Bug|Special|60|100|5|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Sky Attack|Flying|Physical|140|90|5||'''|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Soft-Boiled|Normal|Status|—|—|10|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Swagger|Normal|Status|—|85|15|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Tailwind|Flying|Status|—|—|15|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Telekinesis|Psychic|Status|—|—|15|V=yes<!--TM-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Togetic|2|Toxic|Poison|Status|—|90|10|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Togetic|2|Twister|Dragon|Special|40|100|20|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Water Pulse|Water|Special|60|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Togetic|2|Zap Cannon|Electric|Special|120|50|5|II=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Togetic|Fairy|Flying|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fairy color}}; border: 3px solid #{{tcg fairy color dark}}"
+|-
+! style="background: #{{tcg fairy color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg fairy color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Agility}}
+| style="background:#fff; {{roundybr|5px}}" | [[Falkner's Togetic (VS 5)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Fairy|type2=Flying}}
+{{Spindata/Trozei|col=6|type=Normal|ndex=176|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=176
+|body=1
+|rate=Evolve
+|area=Flyaway Forest
+|P1=Your compassion becomes your power!
+|P2=About half my health is gone.
+|P3=It's no good... Even the power of happiness won't reach me...
+|PL=Oh, yes! I've leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=176
+|body=1
+|rate=-12
+|IQ=H
+}}
+|-
+{{Spindata/PSMD|col=6|type=Fairy|ndex=176
+|coset=3
+|conto={{p|Kabuto}}, {{p|Froslass}}, {{p|Spritzee}}
+|recruitment=Escort to find Togetic's precious belonging
+|P1=They say Pokémon become happy around me. ♪
+|P2=...Help!
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|field=Cut
+|fieldpower=2
+|assistp=Flying
+|num=154
+|pastnum=118
+|browser=It creates hearts around itself that make Pokémon Tired.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=2
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Fairy|ndex=176
+|walk=2.08
+|hp=49
+|attack=74
+|defense=58
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Fairy|ndex=176
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Fairy|ndex=176|num=019
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Pixie Power
+|skilldesc=Increases damage done by any Fairy types in the combo.
+|swapper=Shock Attack
+}}
+{{Spindata/Shuffle|col=3|type=Fairy|ndex=176Winking|num=019
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost+
+|skilldesc=Fills the Mega Gauge of the same type of Pokémon more.
+}}
+|-
+{{Spindata/GO|col=6|type=Fairy|ndex=176
+|hatch=N/A
+|buddy=3
+|candy=Togepi
+|evocandy=100 + {{bag/GO|Sinnoh Stone}}1
+|stamina=146
+|attack=139
+|defense=181
+|fast={{m|Extrasensory}}{{tt|*|From February 16, 2017 onward}}, {{m|Hidden Power}}{{tt|*|From February 16, 2017 onward}}, {{m|Fairy Wind}}{{tt|*|From June 1, 2023 onward}}, {{m|Steel Wing}}{{tt|†|Prior to February 16, 2017}}, {{m|Zen Headbutt}}{{tt|†|Prior to February 16, 2017}}
+|special={{m|Ancient Power}}, {{m|Dazzling Gleam}}, {{m|Aerial Ace}}, {{m|Draining Kiss}}{{tt|*|From September 3, 2024 onward}}, {{m|Psyshock}}{{tt|*|From March 4, 2025 onward}}
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0176
+|sleeptype=Snoozing
+|type=Fairy
+|dexentry=It sometimes sleeps while floating and apparently only moves its wings intermittently while doing so. Perhaps some sort of mysterious power is keeping it in the air.
+|sleepstyle1=Sitting-Flutter Sleep
+|sleepstyle2=Upright-Flutter Sleep
+|sleepstyle3=Floating-Flutter Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=12
+|specialty=Skills
+|evolution=[[File:Sleep Shiny Stone.png|30px]]{{color2|000|Shiny Stone}} ×1
+|pokemon=Togepi
+|candyNum=80
+|berry=Pecha
+|ingredient1=Fancy Egg
+|ingredient2=Warming Ginger
+|ingredient3=Soothing Cacao
+|carrylimit=10
+|skillname=Metronome
+|skilldesc=Uses one randomly chosen main skill.
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{fairy color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{flying color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{flying color dark}}; background:#{{fairy color light}};"| [[File:GO176April2022.png|100px]]
+|-
+| Flower crown
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=fairy
+|type2=flying
+|pictype=art
+|no1=0175
+|name1=Togepi
+|type1-1=Fairy
+|evo1={{Bag/s|Rare Candy|SV}} + {{Bag/s|Soothe Bell|SV}}<br>{{color2|000|Level|Level up}} with<br>high {{color2|000|friendship}}
+|breed=[[File:Menu HOME Egg.png|link=Pokémon Egg|40px]]<br>{{color2|000|Pokémon breeding|Breed}}
+|no2=0176
+|name2=Togetic
+|type1-2=Fairy
+|type2-2=Flying
+|evo2={{Bag/s|Shiny Stone|SV}}<br>{{color2|000|Shiny Stone}}
+|no3=0468
+|name3=Togekiss
+|type1-3=Fairy
+|type2-3=Flying
+}}
+
+===Sprites===
+{{Spritebox/Header|type=fairy|type2=flying}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=176}}
+{{Spritebox/3|ndex=176}}
+{{Spritebox/4|ndex=176}}
+{{Spritebox/5|ndex=176}}
+{{Spritebox/6|ndex=176|crop=69}}
+{{Spritebox/7|ndex=176|crop=67}}
+{{Spritebox/8/SwShLA|ndex=176}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0176}}
+{{Spritebox/Footer|176|Togetic}}
+
+==In animation==
+[[File:Misty Togetic.png|thumb|250px|Togetic in {{aniseries|AG}}]]
+===Major appearances===
+====[[Misty's Togetic]]====
+Togetic debuted in ''[[AG045|A Togepi Mirage]]'', where {{an|Misty}}'s Togepi evolved into one. Misty then {{pkmn2|released|left}} it in the [[Mirage Kingdom]].
+
+===Minor appearances===
+In ''[[DP162|Playing the Performance Encore!]]'', a {{pkmn|Coordinator}}'s Togetic and Ivysaur competed in the [[Contest Battle|Battle Stage]] of the {{to|Daybreak}} {{pkmn|Contest}}.
+{{-}}
+
+==In the manga==
+===Pokémon Adventures===
+[[File:Togebo Togetic.png|thumb|180px|Togetic in [[Pokémon Adventures]]]]
+{{main|Togebo}}
+Prior to the events in ''[[PS107|Gligar Glide]]'', [[Jasmine]] left two Togetic in the [[Pokémon Day Care]] Center near [[Goldenrod City]]. They first appeared silhouetted in ''[[PS107|Gligar Glide]]''. The {{pkmn|Egg}} that was born from them was passed on to [[Professor Elm]] for research, who then passed it on to {{adv|Gold}}. The Egg eventually hatched into [[Togebo]], a {{p|Togepi}}. They physically appeared in ''[[PS155|Capital Kabutops]]''.
+
+In ''[[PS179|The Last Battle XIII]]'', a Togetic was sent to participate in the fight in [[Ilex Forest]].
+
+In ''[[PS306|Pinsir Me, I Must Be Dreaming]]'', {{adv|Emerald}} rented a Togetic during his {{gdis|Battle Factory|III}} challenge.
+
+The Battle Factory rented a Togetic, which was stolen by [[Guile Hideout]] in ''[[PS315|Skirting Around Surskit I]]''.
+
+In ''[[PS459|All About Arceus VIII]]'', Togebo evolved into a Togetic and right after into a {{p|Togekiss}}, due to the [[Shiny Stone]] that [[Lance]] gave him.
+{{-}}
+
+==In the TCG==
+{{main|Togetic (TCG)}}
+
+==Trivia==
+* Togetic and its Evolution are the only Pokémon that are in the {{egg|Flying}} and {{egg|Fairy}} [[Egg Group]]s.
+** Also, they are the only Fairy-type Pokémon in the Flying Egg Group.
+* Togetic shares its {{pkmn|category}} name with {{p|Blissey}}. They are both known as the Happiness Pokémon.
+* Togetic is tied with {{p|Vespiquen}} for the lowest base {{stat|Speed}} stat of all {{type|Flying}} Pokémon.
+** Among all Pokémon to be the slowest of their respective types, Togetic (and Vespiquen) are the fastest.
+* Togetic and {{p|Typhlosion}} are the only Pokémon officially introduced in [[Generation II]] not to appear in the {{pkmn|animated series}} until the next [[generation]].
+* Togetic, alongside its evolved form {{p|Togekiss}}, is one of only two Pokémon in {{g|Legends: Arceus}} whose "Number defeated" {{OBP|research task|Legends: Arceus}} maxes out at 1.
+
+===Origin===
+Togetic's design appears to draw inspiration from a {{wp|fairy}}, a baby {{wp|bird}}, and an egg. It may also be based on an {{wp|angel}}.
+
+====Name origin====
+Togetic and Togechick may be a combination of 刺 ''toge'' (spike) and ''{{wp|chick}}'' (a baby bird).
+
+==In other languages==
+{{Other languages|type=fairy|type2=flying
+|ja=トゲチック ''Togechick''|jameaning=From {{tt|刺 ''toge''|spike}} and ''chick''
+|fr=Togetic|frmeaning=Same as English name
+|es=Togetic|esmeaning=Same as English name
+|de=Togetic|demeaning=Same as English name
+|it=Togetic|itmeaning=Same as English name
+|ko=토게틱 ''Togetic''|komeaning=Same as English name
+|zh_cmn=波克基古 ''Bōkèjīgŭ''<br>波剋基古 ''Bōkèjīgǔ''{{tt|*|early animated series}}|zh_cmnmeaning=Rough transcription of its Japanese name
+|zh_yue=波克基古 ''Bōhākgēigú''<br>波剋基古 ''Bōhākgēigú''{{tt|*|early animated series}}|zh_yuemeaning=Mandarin-based transcription of its Japanese name
+|hi=टोगेटिक ''Togetic''|himeaning=Transcription of English name
+|ru=Тогэтик ''Togetik''|rumeaning=Transcription of English name
+|th=โทเกชิก ''Thokechik''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references/>
+
+==Related articles==
+* [[Misty's Togetic]]
+* [[Togebo]]
+
+==External links==
+{{PokémonPrevNext/Head|type=Fairy|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0175|prev=Togepi|nextnum=0177|next=Natu|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Normal-type Pokémon|0175]]<!--Prior to Gen VI-->
+[[Category:Pokémon that evolve by Evolution stone]]
+[[Category:Pokémon that evolve using Shiny Stone]]
+[[Category:Pokémon that run from battle]]
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+[[Category:Pokémon that have had their type changed]]
+
+[[de:Togetic]]
+[[es:Togetic]]
+[[fr:Togetic]]
+[[it:Togetic]]
+[[ja:トゲチック]]
+[[zh:波克基古]]

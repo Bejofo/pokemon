@@ -1,0 +1,339 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Tandemaus}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0923|prev=Pawmot|nextnum=0925|next=Maushold|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Tandemaus
+|jname=ワッカネズミ
+|tmname=Wakkanezumi
+|ndex=0924
+|type1=Normal
+|category=Couple
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=4.0
+|weight-kg=1.8
+|abilityn=2
+|ability1=Run Away
+|ability2=Pickup
+|abilityd=Own Tempo
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Fairy
+|eggcycles=10
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=1
+|expyield=61
+|lv100exp=800000
+|gendercode=255
+|color=White
+|catchrate=150
+|body=11
+|pokefordex=tandemaus
+|generation=9
+|friendship=50
+}}
+'''Tandemaus''' ([[List of Japanese Pokémon names|Japanese]]: '''ワッカネズミ''' ''Wakkanezumi'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Maushold}} when [[level]]ed up in a {{pkmn|battle}} starting at level 25. If leveled up in a battle it was not sent out in, it will still evolve, but the [[Evolution#Animations|Evolution animation]] will be skipped.
+
+Tandemaus will evolve into one of two {{fd|Maushold|forms}} of Maushold, '''Family of Four''' or '''Family of Three''', with a 1/100 chance of evolving into Family of Three Maushold.
+
+(Refer to [[#Evolution data|Game data&rarr;Evolution data]] for more details.)
+
+==Biology==
+[[File:TandemausParadoxRift153.jpg|thumb|200px|left|Tandemaus's mouths open]]
+Tandemaus is a {{OBP|Pokémon|species}} comprising two separate mouse-like {{wp|rodent}} Pokémon which work together as one, much like {{p|Exeggcute}} or {{p|Falinks}}. Each individual is small, white, and bipedal, and has a spherical head with large ears and stubby limbs with large paws. Each one also has two black beady eyes, a tiny black nose with short whiskers, and a long tail which curls up and ends with a bulbous tip. One of the pair has a light-gray patch of fur surrounding its chest which resembles a shirt, while the other has a light-gray patch of fur surrounding its legs, which resembles a pair of pants. When they open their mouths, which take up over half of their faces when fully open, a single upper incisor can be seen on the insides of each one.
+
+The pair that forms Tandemaus sticks together no matter what. They exhibit great teamwork: they share any food they find equally within the pair, and they build their nest together using materials they've gathered with their incisors. Tandemaus's [[Evolution]] into {{p|Maushold}} is considered somewhat of a mystery, as the little individuals that form the group seem to appear out of nowhere.
+
+Tandemaus and its evolved form, {{p|Maushold}}, are the [[signature move|only known Pokémon]] capable of learning the move {{m|Population Bomb}}.
+{{left clear}}
+
+===Evolution===
+Tandemaus evolves into {{p|Maushold}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Normal
+|no1=0924
+|name1=Tandemaus
+|type1-1=Normal
+|evo1a=
+|no2a=0925
+|name2a=Maushold
+|form2a=Family of Four
+|type1-2a=Normal
+|evo1b=
+|no2b=0925
+|art2b=0925Maushold-Three
+|name2b=Maushold
+|form2b=Family of Three
+|type1-2b=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=71|reg2=Kitakami|num2=97|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Tandemaus SV.png|x200px]]
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Tandemaus SV Kitakami.png|x200px]]
+|-
+| Tandemaus in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Tandemaus in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: {{pal|Pokémon League}}<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]]<br>West Province: [[West Province (Area Two)|Area Two]], [[West Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Tandemaus|2★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Kitakami Road]], [[Apple Hills]], [[Reveler's Road]], [[Oni Mountain]], [[Oni's Maw]], [[Wistful Fields]], [[Paradise Barrens]], [[Kitakami Wilds]]}}
+|}
+|}
+{{Availability/Footer}}
+
+<!---====In side games====!--->
+====In events====
+{{eventAvail/h|Region/Language|type=Normal}}
+{{eventAvail|{{gameabbrev9|SV}}|Pokémon Center Birthday Tandemaus|All|Online|5|November 1, 2024 to January 31, 2026|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Pokémon Center Birthday Tandemaus}}
+|}
+=====In-game events=====
+{{eventAvail/h|type=Normal|lochide=yes}}
+{{eventAvail|{{gameabbrevss|HOME}}|Pokémon Center Birthday Tandemaus|Worldwide|hide|5|November 1, 2024 onwards|link=List of game-based Pokémon distributions in Generation IX#Pokémon Center Birthday Tandemaus}}
+|}
+=====[[Poké Portal News]]=====
+{{eventAvail/h|Tera Type|type=Normal|lochide=yes}}
+{{eventAvail|{{gameabbrev9|SV}}|Tandemaus Spotlight|Various|hide|12, 20, 35, 45, 75|February 13 to 14, 2023|link=Poké Portal News/2023#February 13 to 14, 2023}}
+|}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|HP=50
+|Attack=50
+|Defense=45
+|SpAtk=40
+|SpDef=45
+|Speed=75
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Tandemaus|Normal|Normal|9}}
+{{learnlist/level9|1|Pound|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|1|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level9|5|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/level9|8|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|11|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/level9|14|Double Hit|Normal|Physical|35|90|10||'''}}
+{{learnlist/level9|18|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/level9|22|Encore|Normal|Status|—|100|5}}
+{{learnlist/level9|26|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/level9|30|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/level9|33|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|37|Beat Up|Dark|Physical|—|100|10}}
+{{learnlist/level9|41|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level9|46|Population Bomb|Normal|Physical|20|90|10||'''}}
+{{learnlist/levelf/9|Tandemaus|Normal|Normal|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Tandemaus|Normal|Normal|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tmf/9|Tandemaus|Normal|Normal|9}}
+
+====By {{pkmn|breeding}}====<!--Do not add compatible parents, Tandemaus is gender unknown-->
+{{learnlist/breedh/9|Tandemaus|Normal|Normal|9}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|After You|Normal|Status|—|—|15|grid=2}}
+{{learnlist/breed9|{{MSP/H|0924|Tandemaus}}{{MSP/H|0925|Maushold}}|Baton Pass|Normal|Status|—|—|40|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Bite|Dark|Physical|60|100|25|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Feint|Normal|Physical|30|100|10||'''|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Switcheroo|Dark|Status|—|100|10|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Tickle|Normal|Status|—|100|20|grid=2}}
+{{learnlist/breedf/9|Tandemaus|Normal|Normal|9}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/GO|col=6|type=Normal|ndex=0924
+|hatch=N/A
+|buddy=1
+|candy=Tandemaus
+|evocandy=50
+|stamina=137
+|attack=98
+|defense=90
+|fast={{m|Take Down}}, {{m|Mud Shot}}, {{m|Bullet Seed}}
+|special={{m|Swift}}, {{m|Play Rough}}, {{m|Crunch}}
+}}
+|}
+
+===Evolution data===
+The form of {{p|Maushold}} that Tandemaus [[Evolution|evolves]] into is determined based on its [[personality value#Maushold's form|encryption constant]], with a 99% chance of it evolving into the Family of Four form and a 1% chance of it evolving into the Family of Three form. This is not the case for {{pkmn2|wild}} Maushold encountered in [[Tera Raid Battle]]s, as these will have a predetermined form (Family of Three in 4★ raids or Family of Four in 6★ raids) regardless of their encryption constant value.
+{{Evobox/1branch2
+|type1=Normal
+|no1=0924
+|name1=Tandemaus
+|type1-1=Normal
+|evo1a={{bag/s|Rare Candy|SV}} + [[File:Bag Battle Items SwSh pocket icon.png|40px|link=Pokémon battle]] + [[File:Bag Loaded Dice SV Sprite.png|40px|link=Personality value]]<br>{{color2|000|Level}} 25<br><small>(only in {{color2|000|Pokémon_battle|battle}}, with a certain<br>{{color2|000|personality value|encryption constant}})
+|no2a=0925
+|name2a=Maushold
+|form2a=Family of Four
+|type1-2a=Normal
+|evo1b={{bag/s|Rare Candy|SV}} + [[File:Bag Battle Items SwSh pocket icon.png|40px|link=Pokémon battle]] + [[File:Bag Loaded Dice SV Sprite.png|40px|link=Personality value]]<br>{{color2|000|Level}} 25<br><small>(only in {{color2|000|Pokémon_battle|battle}}, with a certain<br>{{color2|000|personality value|encryption constant}})
+|no2b=0925
+|art2b=0925Maushold-Three
+|name2b=Maushold
+|form2b=Family of Three
+|type1-2b=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=normal}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0924}}-->
+{{Spritebox/HOME|ndex=0924}}
+{{Spritebox/Footer|924|Tandemaus}}
+
+==In animation==
+===Main series===
+====Major appearances====
+
+====Minor appearances====
+In ''[[HZ038|The SOS is from Tandemaus?]]'', the image of a Tandemaus was seen on [[Liko]]'s [[Rotom Phone]]. In the episode, a {{p|Maushold}} was initially mistaken for a Tandemaus until the two little ones were discovered.
+
+A {{tc|Student}}'s Tandemaus appeared in [[HZ101]].
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ038|Tandemaus|Liko's Rotom Phone|Tandemaus, the Couple Pokémon. A {{t|Normal}} type. They use their sharp front teeth to bite off and carry various materials to build their nests. They will always be found in pairs, never alone.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+==In the manga==
+==In the TCG==
+{{main|Tandemaus (TCG)}}
+
+==Trivia==
+* Tandemaus and its evolved form were designed by [[Megumi Mizutani]].<ref>[https://twitter.com/megtany/status/1607179613431824384 Megumi Mizutani on Twitter]</ref>
+* Tandemaus and its evolved form are the only [[gender unknown]] {{OBP|Pokémon|species}} in the {{egg|Field}} [[Egg Group]], and the only {{type|Normal}} Pokémon [[List of Pokémon by shape#Pokémon consisting of multiple bodies|to consist of multiple bodies]].
+* Tandemaus is the only Pokémon that can skip the [[Evolution#Animations|Evolution animation]] sequence when evolving.
+* Tandemaus was briefly shown in a pre-release trailer on [https://www.youtube.com/watch?v=4YEEDqke-D0 6 October 2022] alongside {{p|Nacli}} and {{p|Squawkabilly}}, though it remained officially unrevealed until the release of [[Pokémon Scarlet and Violet]].
+* Because it must specifically level up in battle, Tandemaus is the only Pokémon that can be locked out of Evolution upon reaching level 100 since the [[Rare Candy]] was updated to allow Evolution at the highest level in [[Generation VIII]].
+
+===Origin===
+Tandemaus seems to be based on a pair of {{wp|mouse|mice}}. Its appearance resembles {{wp|dollhouse}} figurines such as the Japanese doll line {{wp|Sylvanian Families}}.
+
+====Name origin====
+Tandemaus may be a combination of ''tandem'' and ''Maus'' (German for mouse).
+
+Wakkanezumi may be a combination of 輪っか ''wakka'' (loop) and 鼠 ''nezumi'' (mouse).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ワッカネズミ ''Wakkanezumi''|jameaning=From {{tt|輪っか ''wakka''|loop}} and {{tt|鼠 ''nezumi''|mouse}}
+|fr=Compagnol|frmeaning=From ''{{tt|compagnon|companion}}'' and ''{{tt|campagnol|vole}}''
+|es=Tandemaus|esmeaning=Same as English name
+|de=Zwieps|demeaning= From ''{{tt|zwei|two}}'' and ''{{tt|piepsen|to squeak}}''
+|it=Tandemaus|itmeaning=Same as English name
+|ko=두리쥐 ''Durijwi''|komeaning=From {{tt|둘 ''dul''|two}} and {{tt|쥐 ''jwi''|mouse}}
+|zh_cmn=一對鼠 / 一对鼠 '' Yīduìshǔ''|zh_cmnmeaning=From {{tt|一對 / 一对 ''yīduì''|pair}} and {{tt|鼠 '' shǔ''|mouse}}
+|zh_yue=一對鼠 ''Yātdeuisyú''|zh_yuemeaning=From {{tt|一對 ''yātdeui''|pair}} and {{tt|鼠 ''syú''|mouse}}
+|hi=मूशीमूशी ''Moosheemooshee|himeaning=From {{tt|मूषक ''mūṣhak''|rat/mouse}}
+|th=วักคาเนซูมิ ''Wakkhanesumi''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0923|prev=Pawmot|nextnum=0925|next=Maushold}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Zwieps]]
+[[es:Tandemaus]]
+[[fr:Compagnol]]
+[[it:Tandemaus]]
+[[ja:ワッカネズミ]]
+[[zh:一对鼠]]

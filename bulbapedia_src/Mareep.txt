@@ -1,0 +1,676 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Mareep}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0178|prev=Xatu|nextnum=0180|next=Flaaffy|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Mareep
+|jname=メリープ
+|jtranslit=Merīpu
+|tmname=Merriep
+|ndex=0179
+|typebox=1
+|type1=Electric
+|category=Wool
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=17.2
+|weight-kg=7.8
+|abilityn=d
+|ability1=Static
+|abilityd=Plus
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Field
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=56
+|oldexp=59
+|lv100exp=1,059,860
+|gendercode=127
+|color=White
+|catchrate=235
+|body=08
+|pokefordex=mareep
+|generation=2
+|friendship=70
+}}
+'''Mareep''' ([[List of Japanese Pokémon names|Japanese]]: '''メリープ''' ''Merriep'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] into {{p|Flaaffy}} starting at [[level]] 15, which evolves into {{p|Ampharos}} starting at [[level]] 30.
+
+==Biology==
+[[File:Sugimori Mareep AG.jpg|thumb|left|250px|''[[Pokémon the Series]]'' reference sheet]]
+Mareep is an {{wp|sheep|ovine}} {{OBP|Pokémon|species}} with fluffy cream-colored wool covering its entire body, as well as a curly tuft of wool in the middle of its head. Its head is blue, and it has small brown eyes. Its four feet are blue and have two digits on each foot, and it appears to be on tiptoe at all times. Its conical ears and tail have a yellow-and-black striped pattern. Mareep has an orange sphere at the end of its tail, which acts like a small light bulb. This sphere glows brighter the more electricity and heat it has.
+
+Mareep's wool grows continuously and stores electricity, rubbing together and building a static charge. Its volume increases when it builds up with electricity. Touching the wool when it is charged will result in a static shock. During the summer, the fleece is shed, but it grows back in a week. Air is also stored in its fur, which allows it to stay cool during summer and warm during winter. It tends to avoid {{pkmn|battle}}s in the wild and has a mild disposition. Mareep is most often found in {{DL|List of Pokémon by habitat|Grassland Pokémon|grassy fields}}, though it can also be found in farms where its wool is used to make high-quality clothing. Clothing made from Mareep's wool builds up static electricity easily, and as such, a special process has to be used on it. As mentioned in {{g|Sleep}}, Mareep is known to roll over in its sleep.<ref>[[Sleep style|Sleep Style Dex]]</ref>
+
+===Evolution===
+Mareep evolves into {{p|Flaaffy}}, which evolves into {{p|Ampharos}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Electric
+|pictype=art
+|no1=0179
+|name1=Mareep
+|type1-1=Electric
+|evo1=
+|no2=0180
+|name2=Flaaffy
+|type1-2=Electric
+|evo2=
+|no3=0181
+|name3=Ampharos
+|type1-3=Electric}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=053}}
+{{Dex/Entry1|v=Gold|entry=If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.}}
+{{Dex/Entry1|v=Silver|entry=Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.}}
+{{Dex/Entry1|v=Crystal|entry=It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Mareep</sc>'s fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its fluffy wool rubs together and builds a static charge. The more energy is charged, the more brightly the lightbulb at the tip of its tail glows.}}
+{{Dex/Entry1|v=FireRed|entry=Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.}}
+{{Dex/Entry1|v=LeafGreen|entry=If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=053}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.}}
+{{Dex/Entry1|v=HeartGold|entry=If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=025|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When cold weather increases static electricity, its wool doubles in size and the tip of its tail glows slightly.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=127|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=162|label1={{gameIcon|US}}{{gameIcon|UM}}:|reg2=Kanto}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Clothing made from Mareep's fleece is easily charged with static electricity, so a special process is used on it.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Rubbing its fleece generates electricity. You'll want to pet it because it's cute, but if you use your bare hand, you'll get a painful shock.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Its fluffy coat doubles in size when static electricity builds up. Touching it can be shocking.}}
+|}
+|}
+{{Dex/Gen/4|gen=IX|reg1=Paldea|num1=101|reg2=Kitakami|reg3=Blueberry|reg4=Legends Z-A|num4=024}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.}}
+{{Dex/Entry1|v=Legends Z-A|t=FFF|entry=Its fluffy coat doubles in size when static electricity builds up. Touching it can be shocking.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{electric color dark}}; background:#{{electric color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}};" | [[File:Pokédex Image Mareep USUM.png|x200px]]
+| style="border:2px solid #{{electric color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Mareep SV.png|x200px]]
+|-
+| Mareep in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Mareep in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|32|Johto}}, {{rtn|42|Johto}}, and {{rtn|43|Johto}}}}
+{{Availability/Entry1/None|v=Crystal}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}} extension}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1|v=Colosseum|area=[[Card e Room]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}{{tt|*|Japan only}}, [[Trade]]}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Lab]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Valley Windworks]] ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area=[[Valley Windworks]] ([[Poké Radar]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|32|Johto}}, {{rtn|42|Johto}}, and {{rtn|43|Johto}}<br/>{{safari|Johto}} (tall grass in Rocky Beach with 5 Forest points)<br/>Hatch {{pkmn|Egg}} [[List of in-game event Pokémon in Pokémon HeartGold and SoulSilver#Mareep|received]] from [[Primo]] in [[Violet City]]}}
+{{Availability/Entry1|v=Pal Park|color=A2E0A3|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Icy Mountain Rd.}}, {{pw|Big Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[White Forest]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Floccesy Ranch]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|12|Kalos}} ([[Horde Encounter]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]], [[#In events|Event]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Paniola Ranch]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Valley Windworks]] ([[Poké Radar]])<br>[[Grand Underground]] - [[Grassland Cave]], [[Whiteout Cave]], [[Sunlit Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Two)|Area Two]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Mareep|2★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=Upgrade binder}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 5]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Lightning Field]] (1F-5F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Amp Plains]] (1F-7F), [[Shimmer Hill]] (1F-17F), [[Final Maze]] (B1F-B48F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Amp Plains]] (1F-7F), [[Shimmer Hill]] (1F-17F), [[Final Maze]] (B1F-B48F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Union Road]]}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Hero Pokémon]]}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Flower Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Dolce Island]], [[Hinder Cape]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Challenger's Ground]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arcane Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{Silver color}}|area=[[Violight]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#Dangerous Rockets|Jungle Area: Dangerous Rockets]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 1|Safari Jungle: Stage 1]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Castle Farm|Dewdrop Bay: Castle Farm]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Jirachi Sea]], [[Lugia Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Greninja Sea]], [[Jirachi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Lightning Field]] (1F-5F)<br/>Fainted Pokémon: [[Pitfall Valley]], [[Far-Off Sea]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]], [[Snowdrop Tundra]], [[Old Gold Power Plant]], [[Greengrass Isle]]<sup>Expert</sup> (from Basic 1)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Sandy Bazaar|Sandy Bazaar: Stage 12]]<br>[[Nacht Carnival|Nacht Carnival: Stage 538]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=electric}}
+{{eventAvail|{{gameabbrev3|RS}}|Pokémon Center New York Campaign 1 Mareep|English|United States|5|May 15 to 22, 2004|link=List of PCNY event Pokémon distributions in Generation III#Mareep}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Sixth Campaign Mareep|Japanese|Japan|10|April 22 to May 8, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Mareep}}
+{{eventAvail|{{gameabbrev6|ORAS}}|National Pokédex Mareep|Korean region|Online|10|September 15, 2015 to August 31, 2016|link=List of Korean region serial code event Pokémon distributions in Generation VI#National Pokédex Mareep}}
+|}
+
+===Held items===
+{{HeldItems|type=electric
+|event1=Ampharosite|event1type=Mega Stone|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=electric
+|HP=55
+|Attack=40
+|Defense=40
+|SpAtk=65
+|SpDef=45
+|Speed=35}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|Speed=2
+|SpeedMax=3
+|Power=3
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=4
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=electric
+|Normal=  100
+|Fighting=100
+|Flying=   50
+|Poison=  100
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric= 50
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Mareep|Electric|Electric|2}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|4|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|8|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|11|Cotton Spore|Grass|Status|—|100|40}}
+{{learnlist/level9|15|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|18|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|22|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/level9|25|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/level9|29|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/level9|32|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|36|Cotton Guard|Grass|Status|—|—|10}}
+{{learnlist/level9|39|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/level9|43|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|46|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/levelf/9|Mareep|Electric|Electric|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Mareep|Electric|Electric|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM101|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tmf/9|Mareep|Electric|Electric|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Mareep|Electric|Electric|2}}
+{{learnlist/breed9|{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0765|Oranguru}}|After You|Normal|Status|—|—|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026-Alola|Raichu}}{{MSP/H|0058|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059-Hisui|Arcanine}}{{MSP/H|0135|Jolteon}}{{MSP/H|0160|Feraligatr}}{{MSP/H|0162|Furret}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0203|Girafarig}}{{MSP/H|0981|Farigiraf}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215-Hisui|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}{{MSP/H|0522|Blitzle}}{{MSP/H|0523|Zebstrika}}{{MSP/H|0570|Zorua}}{{MSP/H|0570-Hisui|Zorua}}{{MSP/H|0571|Zoroark}}{{MSP/H|0571-Hisui|Zoroark}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0877|Morpeko}}{{MSP/H|0921|Pawmi}}{{MSP/H|0922|Pawmo}}{{MSP/H|0923|Pawmot}}|Agility|Psychic|Status|—|—|30|grid=8}}
+{{learnlist/breed9|{{bag/s|TM Electric|SV|TM096}}{{tt|*|No Pokémon in the Field and Monsters Egg Groups can learn Eerie Impulse via level-up. However, the move is available via TM096 and can be passed down from the Pikachu line, Jolteon, the Mareep line, Quagsire, the Shinx line, Pachirisu, the Blitzle line, Dedenne, Morpeko, and the Pawmi line, or copied via Mirror Herb.}}|Eerie Impulse|Electric|Status|—|100|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0405|Luxray}}|Electric Terrain|Electric|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{bag/s|TM Electric|SV|TM211}}{{tt|*|No Pokémon in the Field and Monsters Egg Groups can learn Electroweb via level-up. However, the move is available via TM211 and can be passed down from the Pikachu line, Jolteon, the Mareep line, the Shinx line, Pachirisu, the Blitzle line, Dedenne, Passimian, Morpeko, and the Pawmi line, or copied via Mirror Herb.}}|Electroweb|Electric|Special|55|95|15||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0877|Morpeko}}{{MSP/H|0944|Shroodle}}{{MSP/H|0945|Grafaiai}}|Flatter|Dark|Status|—|100|15|grid=8}}
+{{learnlist/breedf/9|Mareep|Electric|Electric|2}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/Trozei|col=6|type=Electric|ndex=179|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Electric|ndex=179
+|body=1
+|rate=11.9
+|area=Thunder Meadow
+|P1=I'm fluffy and warm!
+|P2=Oh? Half my HP is gone so soon?
+|P3=I can't take any more... I'm about to shed...
+|PL=I gained a level! My fleece turned fluffier!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Electric|ndex=179
+|body=1
+|rate=8.2
+|IQ=F
+}}
+|-
+{{Spindata/PSMD|col=6|type=Electric|ndex=179
+|coset=23
+|conto={{p|Lucario}}
+|recruitment=Introduced by {{p|Lucario}}
+|P1=I'm fluffy and warm. But I can be tingly, too…
+|P2=You can count on me when it's time to got to sleep…
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=1
+|num=105
+|browser=It attacks by shooting bolts of electricity.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Recharge
+|field=Recharge
+|fieldpower=1
+|assistp=Electric
+|fieldp=Electrify
+|num=007
+|pastnum=120
+|browser=It restores the Styler Energy a little.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Electric
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=179
+|walk=1.25
+|hp=49
+|attack=67
+|defense=46
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Electric|ndex=179
+|Pad=Mareep has a powerful personality. You'll find her in the [[Flower Zone]]. She gets a charge out of playing {{DL|Attraction (PokéPark)|Absol's Hurdle Bounce}} and {{DL|Attraction (PokéPark)|Rayquaza's Balloon Panic}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Electric|ndex=179
+|pad=Mareep enjoy their slow life watching floating clouds. It's nice that they are now able to sleep.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Electric|ndex=179
+|HP=2
+|atk=2
+|def=1
+|spd=1
+|range=3
+|move=ThunderShock
+|ability1=Static
+|ability2=Interference
+|ability3=Calming
+|evo=Evolves into {{p|Flaaffy}} when its Attack is 53 or higher
+|link=[[Norishige]] and [[Shōun]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=179
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=179|num=036
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Opportunist
+|skilldesc=Rarely increases damage.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=179
+|buddy=5
+|candy=Mareep
+|hatch=N/A
+|evocandy=25
+|stamina=146
+|attack=114
+|defense=79
+|fast={{m|Tackle}}, {{m|Thunder Shock}}
+|special={{m|Body Slam}}, {{m|Thunderbolt}}, {{m|Discharge}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0179
+|sleeptype=Snoozing
+|type=Electric
+|dexentry=When Mareep rolls over in its sleep, its fluffy coat of wool rubs together and builds a static charge. This apparently turns into an electric current that flows into Mareep's tail, sometimes causing it to heat rapidly and start glowing at the tip.
+|sleepstyle1=Fluffy Sleep
+|sleepstyle2=Pawing Sleep
+|sleepstyle3=Blinking-Tail Seep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=5
+|specialty=Skills
+|evolution=Lv. 11
+|pokemon=Mareep
+|candyNum=40
+|berry=Grepa
+|ingredient1=Fiery Herb
+|ingredient2=Fancy Egg
+|carrylimit=9
+|skillname=Charge Strength M
+|skilldesc=Increases Snorlax's Strength by 880.
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Electric
+|pictype=art
+|no1=0179
+|name1=Mareep
+|type1-1=Electric
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 15}}
+|no2=0180
+|name2=Flaaffy
+|type1-2=Electric
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no3=0181
+|name3=Ampharos
+|type1-3=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=electric}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=179}}
+{{Spritebox/3|ndex=179}}
+{{Spritebox/4|ndex=179}}
+{{Spritebox/5|ndex=179}}
+{{Spritebox/6|ndex=179|crop=69}}
+{{Spritebox/7|ndex=179|crop=63}}
+<!--{{Spritebox/8/BDSP|ndex=179}}
+{{Spritebox/9|ndex=0179}}-->
+{{Spritebox/HOME|ndex=0179}}
+{{Spritebox/Footer|179|Mareep}}
+
+==In animation==
+[[File:Cero Island Mareep.png|thumb|250px|Mareep in {{aniseries|JN}}]]
+===Major appearances===
+Multiple Mareep debuted in ''[[EP139|Mild 'n Wooly]]'', where they were being shepherded by {{OBP|Mary|EP139}} and her mother. Mary had her own special Mareep, which was [[nickname]]d "Fluffy".
+
+In ''[[AG148|A Chip Off the Old Brock]]'', {{OBP|Katie|AG148}} used a Mareep to make potions at her pharmacy.
+
+In ''[[BW113|The Light of Floccesy Ranch!]]'', [[Ellie]] was shown to own ten Mareep that reside at the [[Floccesy Ranch]] and help her with work.
+
+===Minor appearances===
+In ''[[EP146|Tricks of the Trade]]'', a Mareep was at the [[Pokémon Swap Meet]] in [[Palmpona]].
+
+In ''[[EP165|Hassle in the Castle]]'', [[Dr. Anna]] uses her Mareep's electricity to run a low-voltage muscle stimulant machine.
+
+A {{pkmn|Trainer}}'s Mareep appeared in ''[[EP174|Imitation Confrontation]]''.
+
+In ''[[EP180|Houndoom's Special Delivery]]'', a [[Mareep farmer]] tends multiple Mareep on his personal ranch.
+
+In ''[[The Legend of Thunder!]]'', multiple Mareep were lured by [[Attila]] and [[Hun]]'s "Miracle Crystal".
+
+In ''[[EP273|Gotta Catch Ya Later!]]'', {{an|Misty}}'s flashback featured multiple Mareep.
+
+A Mareep appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A {{pkmn|Coordinator}}'s Mareep appeared in ''[[AG167|What I Did for Love!]]''.
+
+In ''[[DP010|Not on MY Watch Ya Don't!]]'', {{TRT}} hypnotized and kidnapped a Mareep.
+
+In ''[[DP078|Pruning a Passel of Pals!]]'', a Coordinator's Mareep competed in the [[Wallace Cup]].
+
+A Mareep appeared in ''[[DP149|Sticking With Who You Know!]]''.
+
+In ''[[BW102|Team Eevee and the Pokémon Rescue Squad!]]'', multiple Mareep were living on a ranch at [[Virgil]]'s house.
+
+In ''[[BW119|Meowth, Colress and Team Rivalry!]]'', {{MTR}}'s flashback featured a Mareep.
+
+A Mareep appeared in [[BWS01]].
+
+Multiple Mareep appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Mareep appeared in ''[[XY016|A Jolting Switcheroo!]]''.
+
+Two Mareep appeared in ''[[XY048|A Campus Reunion!]]''.
+
+Multiple Mareep appeared in ''[[XY053|A Race for Home!]]''.
+
+In ''[[XY062|The Future Is Now, Thanks to Determination!]]'', four Mareep were controlled by Team Rocket.
+
+In ''[[XY098|Dream a Little Dream from Me!]]'', Meowth's dream featured multiple Mareep.
+
+A Mareep appeared in ''[[M21|The Power of Us]]''.
+
+In a flashback in ''[[SM123|A Fiery Training Camp Trick!]]'', a Mareep was scared off by a {{p|Crawdaunt}}. In the present day, it watched as [[Sophocles's Vikavolt]] battled the same Crawdaunt.
+
+In ''[[JN046|Getting More Than You Battled For!]]'', two Mareep were living on [[Cero Island]].
+
+A Mareep appeared in [[HZ094]].
+
+A Trainer's Mareep appeared in [[HZ095]].
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP139|Mareep|Ash's Pokédex|Mareep, the Wool Pokémon. Mareep store static electricity in their wooly coats. They avoid {{pkmn|battle}}s and have mild dispositions.}}
+{{Animedexfooter/Pokémon|Johto}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW113|Mareep|Ash's Pokédex|Mareep, the Wool Pokémon. When Mareep's wool builds up with static electricity, its size doubles.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:Akira Mareep Golden Boys.png|thumb|200px|Mareep in [[Pokémon Gold & Silver: The Golden Boys]]]]
+===Pokémon Adventures===
+Mareep debuted in ''[[PS117|Slugging It Out With Slugma]]'' as one of the Pokémon at Earl's Pokémon Academy in [[Violet City]].
+
+A Mareep appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+A Mareep appeared in ''[[PS331|The Final Battle IV]]'', where it was one of the Pokémon that helped {{adv|Emerald}} with his disabilities.
+
+A Mareep appeared in a fantasy in ''[[PS561|Heracross Transforms]]''.
+
+Multiple Mareep were among the {{type|Electric}} Pokémon that charged the [[Lumiose Gym|Prism Tower]] during a blackout in ''[[PS562|Pangoro Poses a Problem]]''.
+
+A Mareep appeared in ''[[PASV04|Raid! The Dark Crew Base!!]]''. Multiple Mareep appeared in ''[[PASV06|Skillful! The Mysterious Treasure Hunter!!]]''.
+
+===Pokémon Gold & Silver: The Golden Boys===
+In ''[[GB02|Falkner The Bird Keeper's Challenge!!]]'', [[Falkner]] told {{GnB|Gold}} that {{GnB|Black}} used a Mareep to defeat his {{p|Pidgey}} and {{p|Pidgeotto}}.
+
+{{tc|Ace Trainer}} Akira used a Mareep in a tournament in ''[[GB14|Let's Fight! The Mini Pokémon Tournament]]'', where it fought {{GnB|Gold}}'s {{p|Elekid}} and lost.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Mareep appeared in [[GDZ66]], under the ownership of [[Rin and Ran|Rin]].
+
+===Pokémon Journeys===
+Two Mareep appeared in ''[[JNM15|Getting More than You Battled For!]]''.
+
+===Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~===
+A Mareep appeared in [[PNA3]], under the ownership of [[Hanbei]].
+
+==In the TCG==
+{{main|Mareep (TCG)}}
+
+==In the TFG==
+One Mareep figure has been released.
+
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Mareep|30}}
+
+==Trivia==
+===Origin===
+Mareep is based on a {{wp|sheep}}.<ref name=InsideGamer>O., Jack (2019). "[https://inside.gamer.nl/in-gesprek-met-ohmori-en-masuda-over-pokemon-sword-en-shield/ In gesprek met Ohmori en Masuda over Pokémon Sword en Shield]." ''Inside.Gamer.nl'' (Dutch)</ref> Its yellowish wool might be inspired by the {{wp|Golden Fleece}} in {{wp|Greek mythology|Greek}} and {{wp|Roman mythology}}. It is also likely that its {{t|Electric}} type is a reference to how wool is able to build up static charges. Mareep and its evolved forms may also have been based on the title of the sci-fi novel ''{{wp|Do Androids Dream of Electric Sheep?}}''.
+
+====Name origin====
+Mareep may be a combination of ''Mary'' (from the nursery rhyme "{{wp|Mary Had a Little Lamb}}") and ''{{wp|sheep}}''. ''Mareep'' is also an anagram of ''{{wp|ampere}}'', a unit of electric current.
+
+Merriep may be a combination of ''merry'', メー ''mē'' (the sound made by sheep), or ''Mary'' and ''sheep''.
+
+==In other languages==
+{{Other languages|type=electric|type2=electric
+|ja=メリープ ''Merriep''|jameaning=From ''merry'', {{tt|メー ''mē''|onomatopoetic sound of a sheep's baa}}, ''{{wp|Mary Had a Little Lamb|Mary}}'', and ''sheep''
+|fr=Wattouat|frmeaning=From ''watt'' and ''{{tt|ouate|cotton wool}}'', both being homophones
+|es=Mareep|esmeaning=Same as English name
+|de=Voltilamm|demeaning=From ''Volt'' and ''{{tt|Lamm|lamb}}''
+|it=Mareep|itmeaning=Same as English name
+|ko=메리프 ''Meleep''|komeaning=Transcription of Japanese name
+|zh_cmn=咩利羊 ''Miēlìyáng''|zh_cmnmeaning=From {{tt|咩 ''miē''|baa}}, {{tt|瑪莉 ''Mǎlì''|Mary}}, and {{tt|羊 ''yáng''|sheep}}
+|zh_yue=咩利羊 ''Mēleihyèuhng''|zh_yuemeaning=From {{tt|咩 ''mē''|baa}}, {{tt|瑪莉 ''Máhleih''|Mary}}, and {{tt|羊 ''yèuhng''|sheep}}
+|hi=मेषीप ''Mesheep''|himeaning=From {{tt|मेष ''Mesh''|Aries (Zodiac Sign)}} and ''sheep''
+|ru=Марип ''Marip''|rumeaning=Transcription of English name
+|th=เมรีป ''Merip''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==See also==
+* [[Partner Pokémon (Mystery Dungeon)]]
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0178|prev=Xatu|nextnum=0180|next=Flaaffy}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+
+[[de:Voltilamm]]
+[[es:Mareep]]
+[[fr:Wattouat]]
+[[it:Mareep]]
+[[ja:メリープ]]
+[[zh:咩利羊]]

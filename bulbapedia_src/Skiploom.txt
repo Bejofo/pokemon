@@ -1,0 +1,653 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Flying}}
+{{PokémonPrevNext/GO|species=Skiploom}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0187|prev=Hoppip|nextnum=0189|next=Jumpluff|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Skiploom
+|jname=ポポッコ
+|jtranslit=Popokko
+|tmname=Popocco
+|ndex=0188
+|typebox=1
+|type1=Grass
+|type2=Flying
+|category=Cottonweed
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=2.2
+|weight-kg=1.0
+|abilityn=d
+|ability1=Chlorophyll
+|ability2=Leaf Guard
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Infiltrator
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=2
+|evsp=2
+|expyield=119
+|oldexp=136
+|lv100exp=1,059,860
+|gendercode=127
+|color=Green
+|catchrate=120
+|body=06
+|pokefordex=skiploom
+|generation=2
+|friendship=70
+}}
+'''Skiploom''' ([[List of Japanese Pokémon names|Japanese]]: '''ポポッコ''' ''Popocco'') is a dual-type {{2t|Grass|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Hoppip}} starting at [[level]] 18 and evolves into {{p|Jumpluff}} starting at level 27.
+
+==Biology==
+Skiploom is a {{wp|plant}} {{OBP|Pokémon|species}} that has a round, green body with stubby arms, feet, and tail. It has large, flat ears on the sides of its head and oval, orange eyes with no pupils. On top of its head is a yellow bloom with a white center. Skiploom spreads its petals to absorb as much sunlight as possible. The bloom on top of its head opens and closes as the temperature fluctuates and its flower blossoms when the temperature rises above 64&nbsp;°F (18&nbsp;°C). Because of this, it is sometimes used as a thermometer. It floats in the air to try to get closer to the sun, but closes its flower and immediately hides under the shade of a tree when it rains. If the weather gets too cold, Skiploom will fly away and migrate to warmer regions so that it can photosynthesize. Some people claim to be able to determine a Skiploom's birth location by the scent coming off of its flower. Skiploom lives in {{DL|List of Pokémon by habitat|temperate grasslands}}. As seen in the {{pkmn|games}}, the bloom on its head can turn clockwise.
+
+===Evolution===
+Skiploom evolves from {{p|Hoppip}} and evolves into {{p|Jumpluff}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Grass
+|type2=Flying
+|pictype=art
+|no1=0187
+|name1=Hoppip
+|type1-1=Grass
+|type2-1=Flying
+|evo1=
+|no2=0188
+|name2=Skiploom
+|type1-2=Grass
+|type2-2=Flying
+|evo2=
+|no3=0189
+|name3=Jumpluff
+|type1-3=Grass
+|type2-3=Flying}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Flying}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=068}}
+{{Dex/Entry1|v=Gold|entry=The bloom on top of its head opens and closes as the temperature fluctuates up and down.}}
+{{Dex/Entry1|v=Silver|entry=It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.}}
+{{Dex/Entry1|v=Crystal|entry=As soon as it rains, it closes its flower and hides in the shade of a tree to avoid getting wet.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=The bloom on top of its head opens and closes as the temperature fluctuates up and down. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Skiploom</sc>'s flower blossoms when the temperature rises above {{tt|64 degrees F|18 degrees C}}. How much the flower opens depends on the temperature. For that reason, this {{ScPkmn}} is sometimes used as a thermometer.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It blossoms when the temperature rises above {{tt|64 degrees F|18 degrees C}}. Because its flower's blooming changes with the temperature, it is sometimes used as a thermometer.}}
+{{Dex/Entry1|v=FireRed|entry=It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.}}
+{{Dex/Entry1|v=LeafGreen|entry=The bloom on top of its head opens and closes as the temperature fluctuates up and down.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=068}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.}}
+{{Dex/Entry1|v=HeartGold|entry=The bloom on top of its head opens and closes as the temperature fluctuates up and down.}}
+{{Dex/Entry1|v=SoulSilver|entry=It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=136|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=The bloom on top of its head opens and closes as the temperature fluctuates up and down.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Skiploom's flower blossoms when the temperature rises above {{tt|64 degrees Fahrenheit|18 degrees Celsius}}. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=17|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Skiploom enthusiasts can apparently tell where a Skiploom was born by the scent drifting from the flower on the Pokémon’s head.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=When the weather grows cold, Skiploom's flower closes and the Pokémon cannot photosynthesize, so it flies away to warmer regions.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{grass color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{flying color dark}}; background:#{{grass color light}}; {{roundy|5px}};" | [[File:Pokédex Image Skiploom SV.png|x200px]]
+|-
+| Skiploom in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|14|Kanto}}{{sup/t|M}}{{Sup/t|D}}}}
+{{Availability/Entry1|v=Crystal|area={{rt|14|Kanto}}{{sup/t|M}}{{Sup/t|D}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Hoppip}}}}
+{{Availability/Entry1|v=Colosseum|area=[[Pyrite Town]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Hoppip}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Diamond|area={{rt|205|Sinnoh}} (North) ([[Poké Radar]])}}
+{{Availability/Entry1|v=Pearl|area=[[Fuego Ironworks]] ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Hoppip}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|14|Kanto}}{{sup/t|M}}{{sup/t|D}}<br/>{{safari|Johto}} (tall grass in Meadow, default{{sup/t|M}}{{sup/t|D}} and with 8 Forest points; {{m|Surfing}} in Meadow with 3 Waterside points)}}
+{{Availability/Entry1|v=Pal Park|color=A2E0A3|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Hoppip}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Hoppip}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Hoppip}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry1|v=Brilliant Diamond|area={{rt|205|Sinnoh}} (North) ([[Poké Radar]])<br>[[Grand Underground]] - [[Grassland Cave]], [[Sunlit Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1|v=Shining Pearl|area=[[Fuego Ironworks]] ([[Poké Radar]])<br>[[Grand Underground]] - [[Grassland Cave]], [[Sunlit Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Three)|Area Three]], [[South Province (Area Five)|Area Five]]<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]]<br>West Province: [[West Province (Area Two)|Area Two]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Skiploom|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 10]], [[Secret Storage 20]], Endless Level 2, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Great Canyon]] (1F-3F), [[Pitfall Valley]] (15F-20F), [[Joyous Tower]] (42F-46F), [[Remains Island]] (B15-B20)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Foggy Forest]] (1F-11F), [[Tiny Meadow]] (1F-4F), [[Lush Prairie]] (1F-5F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Foggy Forest]] (1F-11F), [[Tiny Meadow]] (1F-4F), [[Lush Prairie]] (1F-5F)}}
+{{Availability/Entry2/None|v=MD Blazing|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|t={{fire color dark}}|color2={{electric color}}|t2={{electric color dark}}|area=[[Evolution|Evolve]] [[Wonder Mail]] unlocked {{p|Hoppip}}}}
+{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=[[Evolution|Evolve]] {{p|Hoppip}}}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Flower Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Latolato Trail]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Seabreeze Trail]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{Grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#The Garden at the End of Time|Flower Garden: The Garden at the End of Time]], [[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 2|Safari Jungle: Stage 2]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Fluffy Meadow|Pearl Marsh: Fluffy Meadow]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Celebi Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Celebi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Great Canyon]] (1F-3F), [[Pitfall Valley]] (15F-22F), [[Joyous Tower]] (42F-46F), [[Purity Forest]] (42F-46F), [[Remains Island]] (10F-12F), [[Marvelous Sea]] (10F-13F), [[Fantasy Strait]] (10F-13F)<br/>Fainted Pokémon: [[Northwind Field]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 534]]<br>Event: [[Pokémon Safari/2015-Feb. 2018#25th release|''Pokémon Safari'']] <small>(25th release; Winking)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|type2=Flying
+|HP=     55
+|Attack= 45
+|Defense=50
+|SpAtk=  45
+|SpDef=  65
+|Speed=  80}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|type2=Flying
+|Speed=4
+|SpeedMax=5
+|Power=2
+|PowerMax=3
+|Technique=1
+|TechniqueMax=1
+|Stamina=2
+|StaminaMax=2
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Flying
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=  200
+|Ground=    0
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    25
+|Electric=100
+|Psychic= 100
+|Ice=     400
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|flying=ironballiv
+|newground=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Skiploom|Grass|Flying|2}}
+{{learnlist/level9|1|Splash|Normal|Status|—|—|40}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|1|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/level9|8|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|10|Fairy Wind|Fairy|Special|40|100|30}}
+{{learnlist/level9|12|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/level9|12|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|12|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/level9|15|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|20|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|24|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|28|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/level9|31|Cotton Spore|Grass|Status|—|100|40}}
+{{learnlist/level9|34|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/level9|37|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|41|Bounce|Flying|Physical|85|85|5||'''}}
+{{learnlist/level9|44|Memento|Dark|Status|—|100|10}}
+{{learnlist/levelf/9|Skiploom|Grass|Flying|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Skiploom|Grass|Flying|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5|patch=Version 2.0.1 onwards}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tmf/9|Skiploom|Grass|Flying|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Skiploom|Grass|Flying|2}}
+{{learnlist/breed9|{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}|Cotton Guard|Grass|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0035|Clefairy}}{{MSP/H|0036|Clefable}}{{MSP/H|0311|Plusle}}{{MSP/H|0312|Minun}}{{MSP/H|0876|Indeedee}}|Encore|Normal|Status|—|100|5}}
+{{learnlist/breed9|{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0812|Rillaboom}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}{{MSP/H|0948|Toedscool}}{{MSP/H|0949|Toedscruel}}{{MSP/H|0951|Capsakid}}{{MSP/H|0952|Scovillain}}|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0311|Plusle}}{{MSP/H|0312|Minun}}{{MSP/H|0742|Cutiefly}}{{MSP/H|0743|Ribombee}}|Switcheroo|Dark|Status|—|100|10|}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0286|Breloom}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0952|Scovillain}}|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/breedf/9|Skiploom|Grass|Flying|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Skiploom|Grass|Flying|2}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Skiploom|Grass|Flying|2}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Flying}}
+{{Spindata/Trozei|col=6|type=Grass|ndex=188|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=188
+|body=1
+|rate=-19
+|area=Beau Plains
+|P1=It feels fabulous to float in the sky!
+|P2=My HP is down to half.
+|P3=Please, help... I can barely stay afloat...
+|PL=My level went up! I'll try to float higher up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=188
+|body=1
+|rate=0.5
+|IQ=H
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=188
+|coset=3
+|conto={{p|Ninetales}}
+|recruitment=Introduced by {{p|Ninetales}}
+|P1=My flower just bloomed! ♪
+|P2=My flower is about to shrivel up.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=1
+|past=NA
+|num=027
+|browser=It creates vines around itself that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=188
+|walk=1.97
+|hp=49
+|attack=69
+|defense=50
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Grass|ndex=188
+|Pad=Skiploom lives in the [[Flower Zone]]. {{P|Hoppip}} and {{P|Jumpluff}} of the [[Granite Zone]] are her friends.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=188
+|pad=He is energetic, innocent, and spoiled. He heard {{p|Tympole}} talking excitedly about {{p|Seismitoad}}'s charm, but he doesn't understand the fascination.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=188
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Grass|ndex=188|num=656
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Sleep Combo
+|skilldesc=Increases damage done by combos if the foe is asleep.
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=188Winking|num=656
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Paralyze+
+|skilldesc=Rarely leaves the foe paralyzed for an even longer period of time.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=188
+|hatch=N/A
+|buddy=3
+|candy=Hoppip
+|evocandy=100
+|stamina=146|attack=91|defense=120
+|fast={{m|Tackle}}, {{m|Bullet Seed}}
+|special={{m|Grass Knot}}, {{m|Dazzling Gleam}}, {{m|Energy Ball}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Grass
+|type2=Flying
+|pictype=art
+|no1=0187
+|name1=Hoppip
+|type1-1=Grass
+|type2-1=Flying
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 18}}
+|no2=0188
+|name2=Skiploom
+|type1-2=Grass
+|type2-2=Flying
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 27}}
+|no3=0189
+|name3=Jumpluff
+|type1-3=Grass
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Flying}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=188}}
+{{Spritebox/3|ndex=188}}
+{{Spritebox/4|ndex=188}}
+{{Spritebox/5|ndex=188}}
+{{Spritebox/6|ndex=188|crop=64}}
+{{Spritebox/7|ndex=188|crop=65}}
+<!--{{Spritebox/8/BDSP|ndex=188}}
+{{Spritebox/9|ndex=0188}}-->
+{{Spritebox/HOME|ndex=0188}}
+{{Spritebox/Footer|188|Skiploom}}
+
+==In animation==
+===Main series===
+[[File:Skiploom anime.png|thumb|250px|Skiploom in {{aniseries|HZ}}]]
+====Major appearances====
+Skiploom debuted in ''[[EP178|The Grass Route]]'', under the ownership of [[Ephraim]] and the [[nickname]] of "Skippy". It battled [[Ash's Bulbasaur]] during the [[Grass Tournament]] finals.
+
+In ''[[DP118|Pursuing a Lofty Goal!]]'', [[Steveland]]'s Skiploom entered the [[Squallville PokéRinger]]. It first went up against [[James]] and {{TP|Jessie|Yanmega}}, and ultimately won when an updraft of air disoriented Yanmega. Skiploom then went up against [[Paul]] and his {{TP|Paul|Honchkrow}} but was defeated.
+
+====Minor appearances====
+In ''[[EP200|Turning Over a New Bayleef]]'', [[Haruno]] has a Skiploom living in a garden.
+
+In ''[[EP225|Bulbasaur... the Ambassador!]]'', multiple Skiploom were among the feuding Pokémon at [[Professor Oak's Laboratory]].
+
+In ''[[EP233|A Tyrogue Full of Trouble]]'', a Skiploom received an apple from a {{p|Tyrogue}}.
+
+In ''[[EP252|Fangs for Nothin']]'', multiple Skiploom were living on the [[Dragon Holy Land]].
+
+A Skiploom appeared in ''[[PK11|Camp Pikachu]]''.
+
+In ''[[AG015|Gonna Rule The School!]]'', the [[Pokémon Trainers' School]] lent a Skiploom to the school's underage students for use in lessons.
+
+In ''[[AG073|Grass Hysteria!]]'', multiple Skiploom were living in the [[Forbidden Forest]].
+
+In ''[[HS04|Showdown at the Oak Corral]]'' and ''[[HS14|Journey to the Starting Line!]]'', multiple Skiploom were living at [[Professor Oak's Laboratory]].
+
+In ''[[AG080|That's Just Swellow]]'', a Skiploom participated in the [[Crossgate PokéRinger]] competition.
+
+In ''[[AG084|Who's Flying Now?]]'', a Skiploom was featured in the [[Fortree City]] Feather Festival.
+
+Multiple Skiploom appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+In ''[[AG121|Hi Ho Silver Wind!]]'', multiple Skiploom belonging to a {{pkmn|Coordinator}} competed in the [[Hoenn]] [[Grand Festival]].
+
+Multiple Skiploom appeared in ''[[AG124|Island Time]]''.
+
+In ''[[AG160|Harley Rides Again]]'', multiple Skiploom belonging to a Coordinator competed in the [[Wisteria Town]] [[Pokémon Contest]].
+
+A Skiploom appeared in ''[[DP029|The Champ Twins!]]''.
+
+Four Skiploom appeared in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! (Part 1)]]''. A fifth Skiploom appeared with them in [[DP072|the follow-up episode]].
+
+In ''[[DP176|Coming Full-Festival Circle!]]'', multiple Skiploom listened as [[Nando]] was playing his music.
+
+A girl's Skiploom appeared in ''[[DP183|League Unleashed!]]''.
+
+Multiple Skiploom appeared in ''[[M13|Zoroark: Master of Illusions]]''. {{p|Zorua}} turned into one in order to float safely to the ground after escaping [[Grings Kodai]]'s plane.
+
+Multiple Skiploom appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Skiploom appeared in ''[[XY009|Clemont's Got a Secret!]]''.
+
+A Skiploom appeared in ''[[XY018|Awakening the Sleeping Giant]]''.
+
+A Skiploom appeared in ''[[XY026|A Battle by Any Other Name!]]''.
+
+A {{pkmn|Trainer}}'s Skiploom appeared in ''[[XY057|Thawing an Icy Panic!]]''. It attended the [[Coumarine City Festival]] in ''[[XY059|Under the Pledging Tree!]]''.
+
+Two Skiploom appeared in ''[[XY089|A Frolicking Find in the Flowers!]]''.
+
+A Trainer's Skiploom appeared in ''[[XY112|Master Class is in Session!]]''.
+
+In ''[[XY119|A Full-Strength Battle Surprise!]]'', a Skiploom fled from [[Team Flare]] as they were conducting an experiment.
+
+Two Skiploom appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+Multiple Skiploom appeared in ''[[M21|The Power of Us]]'', with some under the ownership of different Trainers and others being wild.
+
+Three Skiploom appeared in ''[[HZ009|Welcome to Paldea!]]''.
+
+Three Skiploom appeared in ''[[HZ010|Nemona and Brassius and…]]''. Out of them, two were wild Pokémon, and the other was under the ownership of a Trainer. The latter was seen being defeated by [[Nemona]]'s {{p|Pawmo}}.
+
+Multiple Skiploom appeared in ''[[HZ051|The Flower Tower]]''.
+
+A Skiploom appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+A Skiploom appeared as an image in [[HZ094]].
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP178|Skiploom|Ash's Pokédex|Skiploom, the [[Evolution|evolved]] form of {{p|Hoppip}}. This happy-go-lucky {{t|Grass}} type has a flower on its head, which opens and closes depending on the temperature.}}
+{{Animedexfooter/Pokémon|Johto}}
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', a Skiploom was used to provide special effects for the [[Kimono Girl]]s' performance.
+
+===POKÉTOON===
+Multiple Skiploom living at the [[Safari Zone]] appeared in [[PT14]].
+
+==In the manga==
+[[File:Erika Skiploom Adventures.png|thumb|200px|Skiploom in [[Pokémon Adventures]]]]
+===Ash & Pikachu===
+A Skiploom was seen at [[Professor Oak's Laboratory]] in ''[[SP11|Do Your Best Bulbasaur!!]]''.
+
+===Movie adaptations===
+Skiploom appeared in ''{{ma|Celebi: a Timeless Encounter}}''.
+
+===Pokémon Adventures===
+Two Skiploom appeared in ''[[PS159|Popular Pupitar]]''.
+
+In ''[[PS163|Bringing up Bellossom]]'', [[Erika]] used a Skiploom to fight [[Pryce]] and his {{p|Swinub}} in the opening ceremony of the [[Indigo League]], but it falls easily due to the type disadvantage and the old man's incredible skill.
+
+An {{tc|Aroma Lady}}'s Skiploom appeared in ''[[PS418|Deprogramming Porygon-Z]]'',.
+
+A Skiploom entered the [[Pokéathlon]] in ''[[PS442|Out-Odding Oddish]]''.
+
+===Pokémon Chamo-Chamo ☆ Pretty ♪===
+Skiploom appeared in [[CCP39]].
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Trainer's Skiploom appeared in ''[[GB23|Let's Fight For The Future!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+[[Rin and Ran|Rin]] owns a Skiploom in [[GDZ64]].
+
+==In the TCG==
+{{main|Skiploom (TCG)}}
+
+==Trivia==
+* Skiploom's normal color and {{Shiny}} color is reverse to its pre-Evolution, {{p|Hoppip}}.
+* The English names of Skiploom and its evolutionary relatives were partially coined by [[Nob Ogasawara]].<ref name=Nob>[https://twitter.com/DougDinsdale/status/1385988744528896000 Tweet by Nob Ogasawara (@DougDinsdale).] Posted on April 24, 2021.</ref><ref>[https://www.youtube.com/watch?v=GGE3D7kcswY Interview] with Nob Ogasawara by [[TheSpeedGamers]].</ref>
+
+===Origin===
+Skiploom appears to be based on a {{wp|bulb}} and a {{wp|flower}}, specifically a {{wp|dandelion}}. Its body also slightly resembles a {{wp|dog}} and a {{wp|cat}}.
+
+====Name origin====
+Skiploom may be a combination of ''{{wp|Gait (human)|skip}}'' and ''{{wp|flower|bloom}}'' or ''plume''. The names of all stages of its evolutionary line is based on the phrase: "Just a hop, skip, and a jump away."<ref name=Nob/>
+
+Popocco may be a combination of 蒲公英 ''tanpopo'' ({{wp|dandelion}}) and 根っ子 ''nekko'' ({{wp|root}}). Its name may also be a pun on 猫 ''neko'' (cat), given its cat-like face.
+
+==In other languages==
+{{Other languages|type=grass|type2=flying
+|ja=ポポッコ ''Popocco''|jameaning=From {{tt|蒲公英 ''tanpopo''|dandelion}} and {{tt|根っ子 ''nekko''|root}}
+|fr=Floravol|frmeaning=From ''{{tt|fleur|flower}}'' or ''{{wp|flora}}'' and ''{{tt|vol|flight}}''
+|es=Skiploom|esmeaning=Same as English name
+|de=Hubelupf|demeaning=From ''{{tt|hubbelig|bumpy}}'' and ''{{tt|hüpfen|to skip}}''
+|it=Skiploom|itmeaning=Same as English name
+|ko=두코 ''Duko''|komeaning=From {{tt|두 (頭) ''du''|head}}  and {{tt|꼬마 ''kkoma''|little thing}}
+|zh_cmn=毽子花 ''Jiànzihuā''|zh_cmnmeaning=From {{wp|Jianzi|{{tt|毽子 ''jiànzi''|shuttlecock}}}} and {{tt|花 ''huā''|flower}}
+|zh_yue=毽子花 ''Yínjífā''|zh_yuemeaning=From {{wp|Jianzi|{{tt|毽子 ''yínjí''|shuttlecock}}}} and {{tt|花 ''fā''|flower}}
+|hi=पंखुली ''Pankhulee''|himeaning=From {{tt|पंख ''pankh''|wing/feather}} and {{tt|पंखुड़ी ''pankhudee''|petals}}
+|ru=Скиплум ''Skiplum''|rumeaning=Transcription of English name
+|th=โพพ็อกโกะ ''Phophokko''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0187|prev=Hoppip|nextnum=0189|next=Jumpluff}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+
+[[de:Hubelupf]]
+[[es:Skiploom]]
+[[fr:Floravol]]
+[[it:Skiploom]]
+[[ja:ポポッコ]]
+[[zh:毽子花]]

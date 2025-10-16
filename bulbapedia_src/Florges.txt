@@ -1,0 +1,631 @@
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/GO|species=Florges}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0670|prev=Floette|nextnum=0672|next=Skiddo|round=none}}
+{{PokémonPrevNext/Disambig|species=Florges}}
+|}
+{{Pokémon Infobox
+|name=Florges
+|image=0671Florges.png
+|jname=フラージェス
+|jtranslit=Furājesu
+|tmname=Florges
+|forme=5
+|form1=Red Flower
+|form2=Yellow Flower
+|form3=Orange Flower
+|form4=Blue Flower
+|form5=White Flower
+|image2=HOME0671Y.png
+|image3=HOME0671O.png
+|image4=HOME0671B.png
+|image5=HOME0671W.png
+|category=Garden
+|typebox=1
+|type1=Fairy
+|abilityn=d
+|ability1=Flower Veil
+|abilityd=Symbiosis
+|ndex=0671
+|height-ftin= 3'07"
+|height-m=1.1
+|weight-lbs= 22.0
+|weight-kg=10.0
+|egggroupn=1
+|egggroup1=Fairy
+|gendercode=254
+|eggcycles=20
+|evtotal=3
+|evsd=3
+|expyield=248
+|lv100exp=1,000,000
+|color=White
+|catchrate=45
+|body=04
+|pokefordex=florges
+|generation=6
+|friendship=70
+}}
+'''Florges''' ([[List of Japanese Pokémon names|Japanese]]: '''フラージェス''' ''Florges'') is a {{type|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Floette}} when exposed to a [[Shiny Stone]]. It is the final form of {{p|Flabébé}}. Florges also has five separate [[#Form data|forms]], each named for the color of its flower: '''Red Flower''', '''Yellow Flower''', '''Orange Flower''', '''Blue Flower''', and '''White Flower'''.
+
+==Biology==
+Florges is a slender {{OBP|Pokémon|species}} with a white upper body and a green lower body. Its head is rounded with a pointed, upturned nose; long, teardrop-shaped ears; and dark eyes with lengthy, green, plantlike lashes. Surrounding its head is an ornate bouquet of flowers that can be red, yellow, orange, blue, or white. It has slender arms with three tiny fingers and two black diamond shapes on its chest. Its lower body resembles a mermaid's tail with two large leaves sprouting above the tailfin. It is a female-only species with no male counterpart.
+
+Florges can live for several hundred years, one was known to have lived over 300 years. It devotes its life to protecting gardens. It claims beautiful flower gardens as its territory and can control the flowers it grows. <ref>[https://web.archive.org/web/20160403204716/http://www.pokemonxy.com/en-us/pokemon/other_pokemon/#Florges Florges] (archived)</ref> It also gains power by basking in the energy emitted by flowering plants. A Florges's flower garden is said to contain healing properties for both body and spirit. In the past, it was asked to create flower gardens for castles. Because of this, Florges was popular with castle governors. While Florges can be compassionate, it will hunt down anyone who vandalizes the flower garden it takes care of, punishing them without mercy, even if said person begs for it. It can fire beams similar to {{wp|Artillery battery|batteries of artillery}}.
+
+Prior to [[Generation VII]], Florges and its pre-evolved forms were the [[Signature Ability|only known Pokémon]] that could have {{a|Flower Veil}} and {{a|Symbiosis}} as {{Abilities}}.
+
+===Forms===
+Florges has five forms: Red Flower, Yellow Flower, Orange Flower, Blue Flower and White Flower.
+
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{fairy color}}; {{roundy|10px}} border: 3px solid #{{fairy color dark}}"
+|-
+| Red Flower
+|-
+| style="{{roundy|120px}} border: 2px solid #{{fairy color dark}}; background: #{{fairy color light}}; width:96px; height:96px"| [[File:HOME0671.png|100px]]
+|}
+|
+{| style="background: #{{fairy color}}; {{roundy|10px}} border: 3px solid #{{fairy color dark}}"
+|-
+| Yellow Flower
+|-
+| style="{{roundy|120px}} border: 2px solid #{{fairy color dark}}; background: #{{fairy color light}}; width:96px; height:96px"| [[File:HOME0671Y.png|100px]]
+|}
+|
+{| style="background: #{{fairy color}}; {{roundy|10px}} border: 3px solid #{{fairy color dark}}"
+|-
+| Orange Flower
+|-
+| style="{{roundy|120px}} border: 2px solid #{{fairy color dark}}; background: #{{fairy color light}}; width:96px; height:96px"| [[File:HOME0671O.png|100px]]
+|}
+|
+{| style="background: #{{fairy color}}; {{roundy|10px}} border: 3px solid #{{fairy color dark}}"
+|-
+| Blue Flower
+|-
+| style="{{roundy|120px}} border: 2px solid #{{fairy color dark}}; background: #{{fairy color light}}; width:96px; height:96px"| [[File:HOME0671B.png|100px]]
+|}
+|
+{| style="background: #{{fairy color}}; {{roundy|10px}} border: 3px solid #{{fairy color dark}}"
+|-
+| White Flower
+|-
+| style="{{roundy|120px}} border: 2px solid #{{fairy color dark}}; background: #{{fairy color light}}; width:96px; height:96px"| [[File:HOME0671W.png|100px]]
+|}
+|}
+
+===Evolution===
+Florges evolves from {{p|Floette}} and is the final form of {{p|Flabébé}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Fairy
+|pictype=art
+|no1=0669
+|name1=Flabébé
+|type1-1=Fairy
+|evo1=
+|no2=0670
+|name2=Floette
+|type1-2=Fairy
+|evo2=
+|no3=0671
+|name3=Florges
+|type1-3=Fairy}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fairy}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=070|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=102|label1={{gameIcon|US}}{{gameIcon|UM}}:|reg2=Kanto}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It controls the flowers it grows. The petal blizzards that Florges triggers are overwhelming in their beauty and power.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Its life can span several hundred years. It's said to devote its entire life to protecting gardens.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=147|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Form|Red Flower}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=This Pokémon creates an impressive flower garden in its territory. It draws forth the power of the red flowers around its neck.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=They say that flower gardens created by Florges are constantly showered with a power that can heal both body and spirit.}}
+{{Dex/Form|Yellow Flower}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=It is said that there was once a Florges that protected the garden of a castle for over 300 years.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon battles by drawing forth the power of yellow flowers. It ruthlessly punishes anyone who tramples on flowering plants.}}
+{{Dex/Form|Orange Flower}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=Its orange flowers fire off powerful beams, attacking as if they were a battery of artillery.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=In times long past, castle governors would lovingly raise Florges to care for their castles' exquisite gardens.}}
+{{Dex/Form|Blue Flower}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=Though usually compassionate, Florges will hunt down anyone who vandalizes its flower garden, showing no mercy even if they beg for their lives.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Blue pigments were tremendously expensive in the past, so paintings of blue Florges are highly valuable.}}
+{{Dex/Form|White Flower}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=A flower garden made by a white-flowered Florges will be beautifully decorated with flowering plants of many different colors.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=A Florges adorned with white flowers can sync with the wavelengths of various colors to draw forth their power.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fairy color dark}}; background:#{{fairy color}}; font-size:80%; border-radius: 10px"
+|-
+| style="{{roundy|20px}} border:2px solid #{{fairy color dark}}; background:#{{fairy color light}}| [[File:Pokédex Image Florges USUM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{fairy color dark}}; background:#{{fairy color light}}| [[File:Pokédex Image Florges-Yellow USUM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{fairy color dark}}; background:#{{fairy color light}}| [[File:Pokédex Image Florges-Orange USUM.png|x200px]]
+|-
+| Red Flower Florges in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Yellow Flower Florges in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Orange Flower Florges in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|-
+| style="{{roundy|20px}} border:2px solid #{{fairy color dark}}; background:#{{fairy color light}}| [[File:Pokédex Image Florges-Blue USUM.png|x200px]]
+| style="{{roundy|20px}} border:2px solid #{{fairy color dark}}; background:#{{fairy color light}}| [[File:Pokédex Image Florges-White USUM.png|x200px]]
+|style="border:2px solid #{{fairy color light}}; background:#{{fairy color light}} | [[File:Pokédex Image Florges SV.png|x200px]]
+|-
+| Blue Flower Florges in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| White Flower Florges in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Florges in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|t2=FFF|area=[[Evolution|Evolve]] {{p|Floette}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Floette}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=North Province: [[North Province (Area Three)|Area Three]] <small>('''All Flowers''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Paldea)|Florges|5★}}) <small>('''Red Flower''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 4|Sky-High Ruins: Stage 4]] <small>('''Red Flower''')</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Royal Garden|Leafy Expanse: Royal Garden]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zygarde Sea]], [[Greninja Sea]], [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Florio Nature Park]]<sup><span style="color:#F05D31;">Day</span></sup>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 280]] <small>('''Red Flower''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Trevor|Florges}} <small>('''Orange Flower''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Fairy
+|HP=     78
+|Attack= 65
+|Defense=68
+|SpAtk=  112
+|SpDef=  154
+|Speed=  75}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fairy
+|Normal=  100
+|Flying=  100
+|Fighting= 50
+|Ground=  100
+|Rock=    100
+|Bug=      50
+|Poison=  200
+|Ghost=   100
+|Steel=   200
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=    0
+|Dark=     50
+|Fairy=   100
+|notes=yes
+|fairy=yes
+|newdragon=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Florges|Fairy|Fairy|6}}
+{{learnlist/level9|1|Disarming Voice|Fairy|Special|40|—|15||'''}}
+{{learnlist/level9|1|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/level9|1|Wish|Normal|Status|—|—|10}}
+{{learnlist/level9|1|Magical Leaf|Grass|Special|60|—|20}}
+{{learnlist/level9|1|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/level9|1|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/level9|1|Petal Blizzard|Grass|Physical|90|100|15}}
+{{learnlist/level9|1|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/level9|1|Petal Dance|Grass|Special|120|100|10}}
+{{learnlist/level9|1|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/level9|1|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/level9|5|Moonblast|Fairy|Special|95|100|15||'''}}
+{{learnlist/levelf/9|Florges|Fairy|Fairy|6}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Florges|Fairy|Fairy|6}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM019|Disarming Voice|Fairy|Special|40|—|15||'''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20}}
+{{learnlist/tm9|TM037|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM139|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM201|Misty Explosion|Fairy|Special|100|100|5||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM206|Petal Blizzard|Grass|Physical|90|100|15}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10}}
+{{learnlist/tmf/9|Florges|Fairy|Fairy|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Florges|Fairy|Fairy|6}}
+{{learnlist/breed9|{{MSP/H|0035|Clefairy}}{{MSP/H|0036|Clefable}}{{MSP/H|0039|Jigglypuff}}{{MSP/H|0040|Wigglytuff}}{{MSP/H|0311|Plusle}}{{MSP/H|0312|Minun}}|Copycat|Normal|Status|—|—|20|grid=6}}
+{{learnlist/breed9|{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}|Endeavor|Normal|Physical|—|100|5|grid=6}}
+{{learnlist/breed9|{{MSP/H|0702|Dedenne}}|Tearful Look|Normal|Status|—|—|20|*|grid=6}}
+{{learnlist/breedf/9|Florges|Fairy|Fairy|6}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Florges|Fairy|Fairy|6}}
+{{learnlist/prevo9|0669|Flabébé||0670|Floette||Tackle|Normal|Physical|40|100|35}}
+{{learnlist/prevo9|0669|Flabébé||0670|Floette||Vine Whip|Grass|Physical|45|100|25}}
+{{learnlist/prevo9|0669|Flabébé||0670|Floette||Fairy Wind|Fairy|Special|40|100|30|'''}}
+{{learnlist/prevo9|0669|Flabébé||0670|Floette||Razor Leaf|Grass|Physical|55|95|25}}
+{{learnlist/prevo9|0669|Flabébé|e||||Celebrate|Normal|Status|—|—|40}}
+{{learnlist/prevof/9|Florges|Fairy|Fairy|6}}
+
+===Side game data===
+{{Spindata/Head|type=Fairy}}
+{{Spindata/PSMD|col=6|type=Fairy|ndex=671
+|coset=3
+|conto={{p|Swellow}}
+|recruitment=Introduced by {{p|Talonflame}}
+|P1=I happen to own a superb garden myself. Will you come visit me next time? Ohoho!
+|P2=Such a shame that it seems I won't be able to show you my superb garden…
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Fairy|ndex=671
+|walk=1.67
+|hp=55
+|attack=81
+|defense=61
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fairy|ndex=671
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Fairy|ndex=671|num=385
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Swap+
+|skilldesc=Sometimes replaces three disruptions with this Pokémon.
+|swapper=Rock Shot
+}}
+|-
+{{Spindata/GO|col=6|type=Fairy|ndex=671
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=186
+|attack=212
+|defense=244
+|fast={{m|Vine Whip}}, {{m|Tackle}}, {{m|Razor Leaf}}, {{m|Fairy Wind}}{{tt|*|From September 1, 2022 onward}}
+|special={{m|Moonblast}}, {{m|Petal Blizzard}}, {{m|Psychic}}, {{m|Disarming Voice}}, {{m|Trailblaze}}{{tt|*|From March 4, 2025 onward}}, {{m|Chilling Water}}{{tt|†|Event-exclusive from Flabébé Community Day}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Fairy|ndex=671{{#switch: {{#expr: {{#time: U}} mod 5}}|0=|1=Y|2=O|3=B|4=W}}|pdex=023
+|dex=Florges can live for hundreds of years, and it devotes its entire life to protecting a single garden. It's thanks to Florges that the flower gardens in the [[Florio Nature Park|nature park]] are so beautiful.}}
+|}
+
+===Form data===
+Florges have five separate forms, each with one of five different flower colors: red, yellow, orange, blue, and white. The flower color is maintained through [[Evolution]] from {{p|Floette}} and cannot be changed.
+
+In {{g|X and Y}}, Flabébé appear in the {{pkmn2|wild}} in {{DL|Tall grass|flowers}}, with the colors of Flabébé's flower available depending on the flower patch (although each flower patch has multiple Flabébé flower colors). 
+
+In {{g|Ultra Sun and Ultra Moon}}, wild Yellow Flower Flabébé appear in [[Melemele Meadow]], with Orange and White Flower Flabébé appearing when called as allies in an [[SOS Battle]]; wild Red Flower Floette appear in [[Ula'ula Meadow]], Orange and White Flower Floette appear when called as allies in an SOS Battle; and wild Blue Flower Floette appear in [[Poni Meadow]] and do not call for help.
+
+In [[Generation VI]], as only Red, Yellow, and Blue Flower Floette can be caught in the [[Friend Safari]], it is impossible to obtain a White or Orange Flower Flabébé, Floette, or Florges with the [[Hidden Ability]] {{a|Symbiosis}}. In [[Generation VII]], all forms of the Flabébé evolutionary line can have their Hidden Ability, though the Blue Flower forms cannot be caught with it and must be [[transfer]]red with it from a prior game in order to have it.
+
+In {{g|Super Mystery Dungeon}}, only Red Flower Florges is available.
+
+{| class="roundy" style="margin:auto; text-align:center; background:#FFF" width="225px"
+|-
+| class="roundy" width="20%" style="background:#{{red color light}}" | Red Flower<br>[[File:HOME671.png|100px]]<br>{{color|000|Florges}}
+| class="roundy" width="20%" style="background:#{{yellow color light}}" | Yellow Flower<br>[[File:HOME671Y.png|100px]]<br>{{color|000|Florges}}
+| class="roundy" width="20%" style="background:#{{orange color light}}" | Orange Flower<br>[[File:HOME671O.png|100px]]<br>{{color|000|Florges}}
+| class="roundy" width="20%" style="background:#{{blue color light}}" | Blue Flower<br>[[File:HOME671B.png|100px]]<br>{{color|000|Florges}}
+| class="roundy" width="20%" style="background:#{{white color light}}" | White Flower<br>[[File:HOME671W.png|100px]]<br>{{color|000|Florges}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Fairy
+|pictype=art
+|no1=0669
+|name1=Flabébé
+|type1-1=Fairy
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 19}}
+|no2=0670
+|name2=Floette
+|type1-2=Fairy
+|evo2={{Bag/s|Shiny Stone|SV}}<br>{{color2|000|Shiny Stone}}
+|no3=0671
+|name3=Florges
+|type1-3=Fairy
+}}
+
+===Sprites===
+{{Spritebox/Header|type=fairy}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6/5Forms|ndex=671|form1=Y|form2=O|form3=B|form4=W|crop=104}}
+{{Spritebox/7/5Forms|ndex=671|form1=Y|form2=O|form3=B|form4=W|crop=105}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9/5Forms|ndex=0671|form1=Y|form2=O|form3=B|form4=W}}-->
+{{Spritebox/HOME/5Forms|ndex=0671|form1=Y|form2=O|form3=B|form4=W}}
+{{Spritebox/Footer|671|Florges}}
+
+==In animation==
+[[File:Blue Flower Florges anime.png|thumb|250px|Blue Flower Florges in {{aniseries|XY}}]]
+===Main series===
+====Major appearances====
+=====[[Florges (anime)]]=====
+Blue Flower Florges debuted in ''[[XY069|Defending the Homeland!]]'', where she led of the group of Pokémon attacking {{AP|Goodra}}'s wetland as part of an effort to protect a Floette. She joined forces with {{TRT}}, but in ''[[XY070|Beyond the Rainbow!]]'', she learned of Team Rocket's deception and teamed up with Goodra to defeat them. She has since made further appearances in {{aniseries|XY}}.
+
+=====Other=====
+Red Flower Florges debuted in ''[[PK27|Pikachu and the Pokémon Music Squad]]'', residing near a giant [[Pecha Berry]] tree.
+
+White Flower Florges debuted in ''[[XY125|A League of His Own!]]'', under the ownership of {{an|Trevor}}. She was used in his battle against [[Alain]] in the [[Lumiose Conference]], only to be defeated by {{TP|Alain|Charizard}}.
+
+Orange Flower Florges debuted in ''[[JN066|Under Color of Darkness!]]'', under the ownership of a researcher who told {{Ash}} and [[Goh]] where to find a new flower for {{DL|Goh|Floette|Goh's Flabébé}}.
+
+====Minor appearances====
+
+<gallery widths=200>
+Red Flower Florges anime.png|A Red Flower Florges in {{aniseries|XY}}
+Trevor Florges.png|A White Flower Florges in {{aniseries|XY}}
+Orange Flower Florges anime.png|An Orange Flower Florges in {{aniseries|JN}}
+</gallery>
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY069|Florges|Ash's Pokédex|Florges, the Garden Pokémon and the final evolved form of {{p|Flabébé}}. Long ago, nobles would often ask Florges to create beautiful gardens for their castles.}}
+{{Animedexfooter/Pokémon|Kalos}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN066|Florges|Goh's Rotom Phone|Florges, the Garden Pokémon. A {{t|Fairy}} type. Long ago, the governors of castles invited Florges to help with their gardens, which they built by working together.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===POKÉTOON===
+[[File:Bellossom White Flower Flabébé Florges PT.png|thumb|250px|White Flower Florges in [[POKÉTOON]]]]
+A White Flower Florges appeared in [[PT12]].
+{{-}}
+
+==In the manga==
+[[File:Trevor Florges Adventures.png|thumb|100px|A Blue Flower Florges in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+{{adv|Trevor}}'s Blue Flower Floette was shown to have evolved into a Florges in ''[[PS595|Magearna Moves]]''.
+{{-}}
+
+==In the TCG==
+{{main|Florges (TCG)}}
+
+==Trivia==
+* Florges has the highest base {{stat|Special Defense}} stat of all {{type|Fairy}} {{OBP|Pokémon|species}}.
+* Florges is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 552.
+* Excluding [[Mega Evolution]]s, Florges and its pre-Evolutions are the only {{type|Fairy}} Pokémon introduced prior to [[Generation VIII]] that cannot be obtained in any Generation VIII game.
+
+===Origin===
+Florges appears to be based on {{wp|fairy|fairies}} and {{wp|nymph}}s, in particular {{wp|Anthousai}} due to its floral "hair". Its ornate, flowery "hair" may also be a reference to the 18th century {{wp|pouf}} hairstyle, which was notable in that the style would commonly use decorative items within the hair itself to convey mood and uniqueness. Its body structure resembles that of the {{wp|hyacinth}} flower, which has large sturdy leaves projecting from the base of the stalk. The fluffy flowers on its head also look similar to {{wp|Syringa|lilacs}}. Its design may also draw inspiration from {{wp|mermaids}}.
+
+====Name origin====
+Florges may be a combination of ''flower'' or ''flora'' and ''gorgeous''.
+
+==In other languages==
+{{Other languages|type=fairy|type2=fairy
+|ja=フラージェス ''Florges''|jameaning=From ''flower'' or ''flora'' and ''gorgeous''
+|fr=Florges|frmeaning=Same as English/Japanese name
+|es=Florges|esmeaning=Same as English/Japanese name
+|de=Florges|demeaning=Same as English/Japanese name
+|it=Florges|itmeaning=Same as English/Japanese name
+|ko=플라제스 ''Flajes''|komeaning=Transcription of Japanese name
+|zh_cmn=花潔夫人 / 花洁夫人 ''Huājiéfūrén''|zh_cmnmeaning=From {{tt|花 ''huā''|flower}}, {{tt|潔 / 洁 ''jié''|clean}}, and {{tt|夫人 ''fūrén''|madam}}
+|zh_yue=花潔夫人 ''Fāgitfùhyàhn''|zh_yuemeaning=From {{tt|花 ''fā''|flower}}, {{tt|潔 ''git''|clean}}, and {{tt|夫人 ''fùhyàhn''|madam}}
+|hi=फ़्लोर्जेस ''Florges''|himeaning=Transcription of English/Japanese name
+|ru=Флоржес ''Florzhes''|rumeaning=Transcription of English name
+|th=ฟลาเจส ''Flachet''|thmeaning=Transcription of Japanese name
+}}
+
+<div style="display:inline-block">
+''Red Flower''
+{{langtable
+|color={{fairy color}}|bordercolor={{red color}}
+|ja=あかいはな ''Red Flower''
+|zh_yue=紅花 ''{{tt|Hùhng Fā|Red Flower}}''
+|zh_cmn=紅花 / 红花 ''{{tt|Hóng Huā|Red Flower}}''
+|fi=Punakukka
+|fr=Fleur Rouge
+|de=Rotblütler
+|hi=रेड फ़्लावर ''Red Flower''
+|id=Bunga Merah
+|it=Fiore Rosso
+|ko=빨간 꽃 ''Red Flower''
+|pl=Czerwony Kwiat
+|pt_br=Flor Vermelha
+|es=Flor Roja
+|tr=Kırmızı Çiçek
+|vi = Bông hoa màu đỏ
+}}
+</div>
+<div style="display:inline-block">
+''Yellow Flower''
+{{langtable
+|color={{fairy color}}|bordercolor={{yellow color}}
+|ja=きいろのはな ''Yellow Flower''
+|zh_yue=黃花 ''{{tt|Wòhng Fā|Yellow Flower}}''
+|zh_cmn=黃花 / 黄花 ''{{tt|Huáng Huā|Yellow Flower}}''
+|fr=Fleur Jaune
+|de=Gelbblütler
+|hi=येलो फ़्लावर ''Yellow Flower''
+|id=Bunga Kuning
+|it=Fiore Giallo
+|ko=노란 꽃 ''Yellow Flower''
+|pl=Żółty Kwiat
+|pt_br=Flor Amarela
+|es=Flor Amarilla
+|tr=Sarı Çiçek
+|vi = Bông hoa màu vàng
+}}
+</div>
+<div style="display:inline-block">
+''Orange Flower''
+{{langtable
+|color={{fairy color}}|bordercolor={{orange color}}
+|ja=オレンジいろのはな ''Orange Flower''
+|zh_yue=橙花 ''{{tt|Cháang Fā|Orange Flower}}''
+|zh_cmn=橙花 ''{{tt|Chéng Huā|Orange Flower}}''
+|fi=Oranssi kukka
+|fr=Fleur Orange
+|de=Orangeblütler
+|hi=ऑरेंज फ़्लावर ''Orange Flower''
+|id=Bunga Oranye
+|it=Fiore Arancione
+|ko=오렌지색 꽃 ''Orange Flower''
+|pl=Pomarańczowy Kwiat
+|pt_br=Flor Laranja
+|es=Flor Naranja
+|tr=Turuncu Çiçek
+|vi = Bông hoa màu cam
+}}
+</div>
+<div style="display:inline-block">
+''Blue Flower''
+{{langtable
+|color={{fairy color}}|bordercolor={{blue color}}
+|ja=あおいはな ''Blue Flower''
+|zh_yue=藍花 ''{{tt|Làahm Fā|Blue Flower}}''
+|zh_cmn=藍花 / 蓝花 ''{{tt|Lán Huā|Blue Flower}}''
+|fr=Fleur Bleue
+|de=Blaublütler
+||hi=ब्लू फ़्लावर ''Blue Flower''
+|id=Bunga Biru
+|it=Fiore Blu
+|ko=파란 꽃 ''Blue Flower''
+|pl=Niebieski Kwiat
+|pt_br=Flor Azul
+|es=Flor Azul
+|tr=Mavi Çiçek
+|vi = Bông hoa màu xanh
+}}
+</div>
+<div style="display:inline-block">
+''White Flower''
+{{langtable
+|color={{fairy color}}|bordercolor={{white color}}
+|ja=しろいはな ''White Flower''
+|zh_yue=白花 ''{{tt|Baahk Fā|White Flower}}''
+|zh_cmn=白花 ''{{tt|Bái Huā|White Flower}}''
+|fi=Valkokukka
+|fr=Fleur Blanche
+|de=Weißblütler
+|hi=व्हाइट फ़्लावर ''White Flower''
+|id=Bunga Putih
+|it=Fiore Bianco
+|ko=하얀 꽃 ''White Flower''
+|pl=Biały Kwiat
+|pt_br=Flor Branca
+|es=Flor Blanca
+|tr=Beyaz Çiçek
+|vi = Bông hoa màu trắng
+}}
+</div>
+
+==References==
+{{reflist}}
+
+==Related articles==
+* [[Florges (anime)]]
+* [[List of Pokémon with form differences]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0670|prev=Floette|nextnum=0672|next=Skiddo}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+
+[[de:Florges]]
+[[es:Florges]]
+[[fr:Florges]]
+[[it:Florges]]
+[[ja:フラージェス]]
+[[zh:花洁夫人]]

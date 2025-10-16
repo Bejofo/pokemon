@@ -1,0 +1,355 @@
+{{PokémonPrevNext/Head|type=Dragon|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Drakloak}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=0885|prev=Dreepy|nextnum=0887|next=Dragapult|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Drakloak
+|jname=ドロンチ
+|jtranslit=Doronchi
+|tmname=Doronch
+|ndex=0886
+|type1=Dragon
+|type2=Ghost
+|category=Caretaker
+|height-ftin=4'07"
+|height-m=1.4
+|weight-lbs=24.3
+|weight-kg=11.0
+|abilityn=d
+|ability1=Clear Body
+|ability2=Infiltrator
+|abilityd=Cursed Body
+|egggroupn=2
+|egggroup1=Amorphous
+|egggroup2=Dragon
+|eggcycles=40
+|evtotal=2
+|evsp=2
+|expyield=144
+|lv100exp=1,250,000
+|gendercode=127
+|color=Green
+|catchrate=45
+|body=04
+|pokefordex=drakloak
+|generation=8
+|friendship=50
+}}
+'''Drakloak''' ([[List of Japanese Pokémon names|Japanese]]: '''ドロンチ''' ''Doronch'') is a dual-type {{2t|Dragon|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{p|Dreepy}} starting at [[level]] 50 and evolves into {{p|Dragapult}} starting at level 60.
+
+==Biology==
+Drakloak is a {{OBP|Pokémon|species}} which resembles a lizard, with a wide, black-colored head with two vertical horns and two pinkish-red triangle-shaped stripes on either side. It has yellow eyes with pink eyelids, while the underside of its mouth is light blue. The rest of its body is also light blue, while its belly is yellow with a red, upside-down V-shaped mark. It has short, stubby arms and legs, and a long tail.
+
+Drakloak is capable of flying at speeds greater than 120 mph (200 km/h).<!--in the other language dex entries like French, Japanese, etc--> It carries a {{p|Dreepy}} on its head, which it takes care of and fights alongside with until the Dreepy manages to evolve. If it lacks a Dreepy to care for, it will become uneasy and desperately try to find any Pokémon to serve as a substitute to take care of. Drakloak attacks by firing energy blasts from its lungs. If it is defeated in battle, its Dreepy will wander off.
+
+===Evolution===
+Drakloak evolves from {{p|Dreepy}} and evolves into {{p|Dragapult}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|type1=Dragon
+|type2=Ghost
+|no1=0885
+|name1=Dreepy
+|type1-1=Dragon
+|type2-1=Ghost
+|evo1=
+|no2=0886
+|name2=Drakloak
+|type1-2=Dragon
+|type2-2=Ghost
+|evo2=
+|no3=0887
+|name3=Dragapult
+|type1-3=Dragon
+|type2-3=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dragon|type2=Ghost}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=396|reg2=Galar|label2=Crown Tundra|num2=111|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It's capable of flying faster than {{tt|120 mph|200 km/h}}. It battles alongside Dreepy and dotes on them until they successfully evolve.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Without a Dreepy to place on its head and care for, it gets so uneasy it'll try to substitute any Pokémon it finds for the missing Dreepy.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=306|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon flies around at over {{tt|120 miles per hour|200 km/h}}. If a Drakloak is defeated in a battle, its Dreepy will wander off without a second thought.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon stores up energy in its lungs, then shoots it out. It takes care of Dreepy and battles alongside them until they're all grown up.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{dragon color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{dragon color light}}; background:#{{dragon color light}} | [[File:Pokédex Image Drakloak SV.png|x200px]]
+|-
+| Drakloak in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Dragon|type2=Ghost}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Lake of Outrage]]<br>[[Axew's Eye/Dens|Axew's Eye]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Old Cemetery]]<br>[[Slippery Slope/Dens|Slippery Slope]], [[Old Cemetery/Dens|Old Cemetery]], [[Giant's Foot/Dens|Giant's Foot]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1/None|1|v=Scarlet|area=[[Union Circle]]<br>[[Tera Raid Battle|Tera Raid Battle Search]] ({{DL|List of 4★ Tera Raid Battles (Paldea)|Drakloak|4★}})}}
+{{Availability/Entry1|1|v=Violet|t=FFF|area=North Province: [[North Province (Area One)|Area One]], [[North Province (Area Two)|Area Two]], [[North Province (Area Three)|Area Three]], [[Casseroya Lake]], [[Glaseado Mountain]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Drakloak|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Dragon|type2=Ghost|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|30|April 28 to May 11, 2020|link=Wild Area News#April 28 to May 11, 2020}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Dragon
+|type2=Ghost
+|HP=68
+|Attack=80
+|Defense=50
+|SpAtk=60
+|SpDef=50
+|Speed=102
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dragon
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=200
+|Steel=100
+|Fire=50
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=200
+|Dark=200
+|Fairy=200
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Drakloak|Dragon|Ghost|8}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|1|Infestation|Bug|Special|20|100|20}}
+{{learnlist/level9|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level9|6|Lock-On|Normal|Status|—|—|5}}
+{{learnlist/level9|12|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level9|18|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level9|24|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|30|Double Hit|Normal|Physical|35|90|10}}
+{{learnlist/level9|36|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/level9|42|Dragon Dance|Dragon|Status|—|—|20}}
+{{learnlist/level9|48|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/level9|54|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|61|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/level9|66|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level9|72|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/levelf/9|Drakloak|Dragon|Ghost|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Drakloak|Dragon|Ghost|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10|patch=Version 2.0.1 onwards}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM044|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM063|Psychic Fangs|Psychic|Physical|85|100|10}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM100|Dragon Dance|Dragon|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tm9|TM151|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM222|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM226|Dragon Cheer|Dragon|Status|—|—|15}}
+{{learnlist/tmf/9|Drakloak|Dragon|Ghost|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Drakloak|Dragon|Ghost|8}}
+{{learnlist/breed9|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0200|Misdreavus}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Dusknoir}}{{MSP/H|0442|Spiritomb}}{{MSP/H|0607|Litwick}}{{MSP/H|0608|Lampent}}{{MSP/H|0609|Chandelure}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}|Confuse Ray|Ghost|Status|—|100|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0353|Shuppet}}{{MSP/H|0354|Banette}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Dusknoir}}{{MSP/H|0442|Spiritomb}}{{MSP/H|0607|Litwick}}{{MSP/H|0608|Lampent}}{{MSP/H|0609|Chandelure}}{{MSP/H|0704|Goomy}}{{MSP/H|0705|Sliggoo}}{{MSP/H|0705-Hisui|Sliggoo}}{{MSP/H|0706|Goodra}}{{MSP/H|0706-Hisui|Goodra}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0842|Appletun}}{{MSP/H|0871|Pincurchin}}|Curse|Ghost|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0088|Grimer}}{{MSP/H|0088-Alola|Grimer}}{{MSP/H|0089|Muk}}{{MSP/H|0089-Alola|Muk}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Dusknoir}}|Disable|Normal|Status|—|100|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0252|Treecko}}{{MSP/H|0253|Grovyle}}{{MSP/H|0254|Sceptile}}{{MSP/H|0280|Ralts}}{{MSP/H|0281|Kirlia}}{{MSP/H|0282|Gardevoir}}{{MSP/H|0475|Gallade}}{{MSP/H|0690|Skrelp}}{{MSP/H|0691|Dragalge}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}{{MSP/H|0778|Mimikyu}}|Double Team|Normal|Status|—|—|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0147|Dratini}}{{MSP/H|0148|Dragonair}}{{MSP/H|0149|Dragonite}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}{{MSP/H|0350|Milotic}}{{MSP/H|0373|Salamence}}{{MSP/H|0782|Jangmo-o}}{{MSP/H|0783|Hakamo-o}}{{MSP/H|0784|Kommo-o}}{{MSP/H|0996|Frigibax}}{{MSP/H|0997|Arctibax}}{{MSP/H|0998|Baxcalibur}}{{MSP/H|1011|Dipplin}}{{MSP/H|1019|Hydrapple}}|Dragon Tail|Dragon|Physical|60|90|10||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0353|Shuppet}}{{MSP/H|0354|Banette}}{{MSP/H|0442|Spiritomb}}|Sucker Punch|Dark|Physical|70|100|5|grid=8}}
+{{learnlist/breedf/9|Drakloak|Dragon|Ghost|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Drakloak|Dragon|Ghost|8}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Drakloak|Dragon|Ghost|8}}
+
+===Side game data===
+{{Spindata/Head|type=Dragon|type2=Ghost}}
+{{Spindata/GO|col=6|type=Dragon|ndex=0886
+|hatch=N/A
+|buddy=5
+|candy=Dreepy
+|evocandy=100
+|stamina=169
+|attack=163
+|defense=105
+|fast={{m|Astonish}}, {{m|Dragon Tail}}
+|special={{m|Dragon Pulse}}, {{m|Shadow Ball}}, {{m|Outrage}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Dragon
+|type2=Ghost
+|no1=0885
+|name1=Dreepy
+|type1-1=Dragon
+|type2-1=Ghost
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 50}}
+|no2=0886
+|name2=Drakloak
+|type1-2=Dragon
+|type2-2=Ghost
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 60}}
+|no3=0887
+|name3=Dragapult
+|type1-3=Dragon
+|type2-3=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Dragon|type2=Ghost}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=886}}
+<!--{{Spritebox/9|ndex=0886}}-->
+{{Spritebox/HOME|ndex=0886}}
+{{Spritebox/Footer|886|Drakloak}}
+
+==In animation==
+===Main series===
+[[File:Drakloak anime.png|thumb|250px|Drakloak in {{aniseries|JN}}]]
+====Major appearances====
+Drakloak debuted in ''[[JN092|The Winding Path to Greatness!]]''. When the {{p|Dreepy}} on its head fell off, it used [[Goh's Grookey]] as a substitute. When Grookey started hitting with its stick, Drakloak became angry until Dreepy was returned to it.
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN092|Drakloak|Goh's Rotom Phone|Drakloak, the Caretaker Pokémon. A {{t|Dragon}} and {{t|Ghost}} type. Drakloak can fly faster than {{tt|120 miles|200 km}} per hour. It cares for and battles alongside a {{p|Dreepy}}. Drakloak cannot relax without Dreepy on its head, but other Pokémon can substitute it at times.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Allister Drakloak Adventures.png|thumb|200px|Drakloak in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Drakloak debuted in ''[[PASS15|Shocking!! Reunion in the Forest]]'', living alongside a {{p|Dreepy}} in [[Glimwood Tangle]]. The two were attacked by [[Casey Shield|Casey]]'s {{p|Toxtricity}} and defeated, after which they were caught by [[Allister]].
+{{-}}
+
+==In the TCG==
+{{main|Drakloak (TCG)}}
+
+==Trivia==
+* Drakloak and its evolutionary line are the only Pokémon that are in the {{egg|Dragon}} and {{egg|Amorphous}} [[Egg Group]]s, and the only {{type|Dragon}} Pokémon in the Amorphous Egg Group.
+* Drakloak is the only Dragon-type {{DL|List of Pokémon by shape|Pokémon consisting of a head and arms}}.
+* Requiring 50 levels to evolve from Dreepy and just 10 more to evolve into Dragapult, Drakloak has the lowest relative second-stage Evolution requirement, at 20%.
+* In [[Generation IX]], prior to the Version 2.0.1 update of {{g|Scarlet and Violet}}, Drakloak and its Evolution were unable to learn {{m|Confuse Ray}} via [[TM]], while its pre-Evolution could.
+
+===Origin===
+Drakloak may be based on the ''{{wp|Diplocaulus}}'' or ''{{wp|Gerrothorax}}'' with elements taken from {{wp|fighter aircraft}} and {{wp|crossbows}}. It may also reference {{wp|paternal care}} behavior present in many {{wp|amphibian}} species.
+
+====Name origin====
+Drakloak may be a combination of ''dragon'' or ''{{wp|drake}}'' and ''cloak''. It may have also been derived from the Sanskrit word ''{{wp|Loka|lok}}'', which represents other planes of existence or realms of the afterlife in Indian religions.
+
+Doronch may be a combination of ''dragon'' and ''launch''.
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Ghost
+|ja=ドロンチ ''Doronch''|jameaning=From ''dragon'' and ''launch''
+|fr=Dispareptil|frmeaning=From ''{{tt|disparaître|to disappear}}'' and ''reptile''
+|es=Drakloak|esmeaning=Same as English name
+|de=Phandra|demeaning=From ''Phantom'' and ''{{tt|Drache|dragon}}''
+|it=Drakloak|itmeaning=Same as English name
+|ko=드래런치 ''Dralaunch''|komeaning=From ''dragon'' and ''launch''
+|zh_cmn=多龍奇 / 多龙奇 ''Duōlóngqí''|zh_cmnmeaning=Transcription of its Japanese name. Contains {{tt|龍 / 龙 ''lóng''|dragon}} and {{tt|奇 ''qí''|strange}}
+|zh_yue=多龍奇 ''Dōlùhngkèih''|zh_yuemeaning=Transcription of its Japanese name. Contains {{tt|龍 ''lùhng''|dragon}} and {{tt|奇 ''kèih''|strange}}
+|hi=ड्रैगुल ''Dragul''|himeaning=From ''dragon'' and {{tt|ग़ुलेल ''ġulel''|slingshot/catapult}}
+|th=โดรอนจิ ''Doronchi ''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Dragapult (UNITE)]]
+* [[Pokémon fusion]]
+* [[Weaponry in the Pokémon world]]
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Dragon|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=0885|prev=Dreepy|nextnum=0887|next=Dragapult}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Phandra]]
+[[es:Drakloak]]
+[[fr:Dispareptil]]
+[[it:Drakloak]]
+[[ja:ドロンチ]]
+[[zh:多龙奇]]

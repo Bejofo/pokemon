@@ -1,0 +1,356 @@
+{{PokémonPrevNext/Head|type=Ground|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Runerigus}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0866|prev=Mr. Rime|nextnum=0868|next=Milcery|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Runerigus
+|jname=デスバーン
+|jtranslit=Desubān
+|tmname=Deathbarn
+|ndex=0867
+|type1=Ground
+|type2=Ghost
+|category=Grudge
+|height-ftin=5'03"
+|height-m=1.6
+|weight-lbs=146.8
+|weight-kg=66.6
+|abilitylayout=1
+|ability1=Wandering Spirit
+|egggroupn=2
+|egggroup1=Mineral
+|egggroup2=Amorphous
+|eggcycles=25
+|evtotal=2
+|evde=2
+|expyield=169
+|lv100exp=1,000,000
+|gendercode=127
+|color=Gray
+|catchrate=90
+|body=05
+|pokefordex=runerigus
+|generation=8
+|friendship=50
+}}
+'''Runerigus''' ([[List of Japanese Pokémon names|Japanese]]: '''デスバーン''' ''Deathbarn'') is a dual-type {{2t|Ground|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{rf|Galarian}} {{p|Yamask}} when the player travels under the large rock arch in [[Dusty Bowl]] after Yamask takes at least 49 [[HP]] in [[damage]] from attacks without [[fainting]]. 
+
+(Refer to [[#Evolution data|Game data&rarr;Evolution data]] for more details.)
+
+==Biology==
+[[File:Runerigus serpent pattern.png|thumb|left|160px|Serpent pattern on Runerigus]]
+Runerigus is a {{OBP|Pokémon|species}} composed of an oblong, irregularly-shaped clay slab, with an outline of a stylized serpent with sharp teeth painted onto it in red. Two sections of the slab at the upper left and upper right side, along with a piece bearing the serpent's head and a small piece bearing the tip of the image's tail, have broken off and are held in place by shadowy black tendrils that form its arms, neck, and tail respectively; the "tail" fragment also resembles the piece carried by {{rf|Galarian}} {{p|Yamask}}. It has five black fingers on each hand, which extend from the ends of the fragments forming its arms. It has a single purple eye located in the same spot as the painting's eye. Runerigus seems to be distantly related to {{p|Cofagrigus}}.
+
+Runerigus was formed from a painting imbued with an ancient curse, which was activated by absorbing the spirit of a Yamask and brought the painting to life. Anyone that touches its shadowy body will have the memories behind its painting's creation forced onto them.
+
+Runerigus and its pre-Evolution, Galarian {{p|Yamask}}, are the [[Signature Ability|only known Pokémon]] that can have {{a|Wandering Spirit}} as an [[Ability]].
+
+===Evolution===
+Runerigus evolves from {{rf|Galarian}} {{p|Yamask}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-2
+|type1=Ground
+|type2=Ghost
+|pictype=sprite
+|no1=0562Yamask-Galar
+|name1=Yamask
+|form1=Galarian Form
+|type1-1=Ground
+|type2-1=Ghost
+|evo1=
+|no2=0867Runerigus
+|name2=Runerigus
+|type1-2=Ground
+|type2-2=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground|type2=Ghost}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=328|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Never touch its shadowlike body, or you'll be shown the horrific memories behind the picture carved into it.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ground|type2=Ghost}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Bridge Field/Dens|Bridge Field]], [[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Rolling Fields/Dens|Rolling Fields]], [[South Lake Miloch/Dens|South Lake Miloch]], [[Stony Wilderness/Dens|Stony Wilderness]], [[Watchtower Ruins/Dens|Watchtower Ruins]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground|type2=Ghost}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Seasonal [[sync pair scout]]: {{sync|Roxanne|Runerigus|Fall 2023}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ground
+|type2=Ghost
+|HP=58
+|Attack=95
+|Defense=145
+|SpAtk=50
+|SpDef=105
+|Speed=30
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=25
+|Ground=100
+|Rock=50
+|Bug=50
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|ground=yes
+|newelectric=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Runerigus|Ground|Ghost|8}}
+{{learnlist/level8|1|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/level8|1|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level8|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level8|1|Protect|Normal|Status|—|—|10}}
+{{learnlist/level8|1|Haze|Ice|Status|—|—|30}}
+{{learnlist/level8|1|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/level8|12|Disable|Normal|Status|—|100|20}}
+{{learnlist/level8|16|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/level8|20|Crafty Shield|Fairy|Status|—|—|10}}
+{{learnlist/level8|24|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level8|28|Mean Look|Normal|Status|—|—|5}}
+{{learnlist/level8|32|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level8|38|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level8|44|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level8|50|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level8|56|Power Split|Psychic|Status|—|—|10}}
+{{learnlist/level8|56|Guard Split|Psychic|Status|—|—|10}}
+{{learnlist/level8|62|Destiny Bond|Ghost|Status|—|—|5}}
+{{learnlist/levelf/8|Runerigus|Ground|Ghost|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Runerigus|Ground|Ghost|8}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM19|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM26|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM38|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM42|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/tm8|TM44|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM49|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm8|TM54|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM60|Power Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM61|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm8|TM70|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm8|TM71|Wonder Room|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM77|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm8|TM86|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm8|TM97|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tr|TR10|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tr|TR17|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR40|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR49|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR54|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tr|TR58|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tr|TR62|Dragon Pulse|Dragon|Special|85|100|10}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR67|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tr|TR75|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tr|TR76|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR99|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tmf/8|Runerigus|Ground|Ghost|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Runerigus|Ground|Ghost|8}}
+{{learnlist/breed8|{{MSP/8c|109|Koffing}}{{MSP/8c|110|Weezing}}{{MSP/8c|110G|Weezing}}{{MSP/8c|422|Shellos}}{{MSP/8c|423|Gastrodon}}{{MSP/8c|442|Spiritomb}}{{MSP/8c|607|Litwick}}{{MSP/8c|608|Lampent}}{{MSP/8c|609|Chandelure}}|Memento|Dark|Status|—|100|10}}
+{{learnlist/breedf/8|Runerigus|Ground|Ghost|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Runerigus|Ground|Ghost|8}}
+{{learnlist/tutor8|Poltergeist|Ghost|Physical|110|90|5||'''|no|yes}}
+{{learnlist/tutorf/8|Runerigus|Ground|Ghost|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Runerigus|Ground|Ghost|8}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Runerigus|Ground|Ghost|8}}
+
+===Side game data===
+{{Spindata/Head|type=Ground|type2=Ghost}}
+{{Spindata/GO|col=6|type=Ground|ndex=867
+|hatch=N/A
+|buddy=3
+|candy=Yamask
+|evolution=N/A
+|stamina=151
+|attack=163
+|defense=237
+|fast={{m|Astonish}}, {{m|Shadow Claw}}{{tt|*|From September 1, 2022 onward}}
+|special={{m|Rock Tomb}}, {{m|Sand Tomb}}, {{m|Shadow Ball}}, {{m|Brutal Swing}}{{tt|*|From September 3, 2024 onward}}
+}}
+|}
+
+===Evolution data===
+{{rf|Galarian}} {{p|Yamask}} evolves into Runerigus when the player travels under the large rock arch in [[Dusty Bowl]] after Yamask takes at least 49 [[HP]] in [[damage]] without [[fainting]]. Healing does not reset the counter, and damage can be taken across multiple battles. Taking damage from certain sources, such as self-inflicted {{m|Curse}} damage or [[weather]] effects, does not contribute to the 49 HP damage requirement.
+{{evobox-2
+|type1=Ground
+|type2=Ghost
+|pictype=sprite
+|no1=0562Yamask-Galar
+|name1=Yamask
+|form1=Galarian Form
+|type1-1=Ground
+|type2-1=Ghost
+|evo1={{bag/s|Focus Sash|SV}} + [[File:Town Map Icon BDSP.png|40px]]<br>Pass under the rock arch<br>in {{color2|000|Dusty Bowl}} after taking at least 49 {{color2|000|HP}}<br>in damage from attacks without {{color2|000|fainting}}
+|no2=0867Runerigus
+|name2=Runerigus
+|type1-2=Ground
+|type2-2=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground|type2=Ghost}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=867}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0867}}
+{{Spritebox/Footer|867|Runerigus}}
+
+==In animation==
+===Main series===
+[[File:Lyla Sandaconda Sterling Runerigus.png|thumb|250px|Runerigus in {{aniseries|JN}}]]
+====Major appearances====
+Runerigus debuted in ''[[JN113|Chasing to the Finish!]]'', under the ownership of [[Sterling]]. It was used to battle [[Goh]] and {{Gary}}, alongside [[Lyla]]'s {{p|Sandaconda}}, before being defeated by {{TP|Gary|Blastoise}} and {{TP|Goh|Cinderace}}.
+
+====Minor appearances====
+A Runerigus appeared as one of the residents of the [[ancient castle]] in ''[[HZ024|Reunion at the Ancient Castle!]]''. In [[HZ025|the following episode]], it helped [[Diana]] evacuate the other Pokémon from the castle in the wake of the [[Explorers]]' attack.
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Runerigus (TCG)}}
+==Trivia==
+* Runerigus's {{stat|Attack}} and {{stat|Special Attack}} stats are the reverse of {{p|Cofagrigus}}'s, while their other stats are identical.
+* {{rf|Galarian}} {{p|Yamask}}'s [[Evolution]] into Runerigus is the only Evolution involving a specific location in {{g|Sword and Shield|s}}, as all other Pokémon with [[location-based Evolution]]s are either unobtainable or use an [[Evolution stone]] to evolve instead.
+
+===Origin===
+Runerigus may be based on {{wp|runestone}}s, large stones engraved by Vikings used to commemorate the lives of notable people and events, such as the {{wp|England runestones}} erected in remembrance of Vikings who travelled to England and died there. Many of the discovered runestones had motifs in the shape of serpents or dragons; Runerigus's motif may specifically be based on {{wp|Jörmungandr}}, the World Serpent of Norse mythology who was sometimes depicted on runestones, or {{wp|Apep}}, the serpentine primordial embodiment of chaos in Egyptian mythology. Runestones were also believed to have mystical properties that conveyed powers of protection, wealth, and victory, and some runestones had curses inscribed on them, warning that anyone who damages or moves them would be doomed to death or being an outcast.
+
+The method to [[Evolution|evolve]] a Galarian Yamask may be inspired by funeral rites in different culture. The fact that Galarian Yamask evolves into Runerigus after taking at least 49 HP in damage could be a very subtle reference to the {{wp|Bardo|antarābhava}}, a Buddhist concept of Purgatory after death and before reincarnation; this process of Buddhist Purgatory is said to last 49 days. The location of Evolution, namely the stone arch in [[Dusty Bowl]], resembles a {{wp|dolmen}}, while the arrangement of surrounding monoliths resemble that of a {{wp|stone ship}}.
+
+====Name origin====
+Runerigus may be a combination of ''rune'' and ''egregious'' or ''{{p|Cofagrigus}}''.
+
+Deathbarn may be a combination of ''death'', 板 ''ban'' (slab), and ''{{p|Cofagrigus|Desukarn}}''.
+
+==In other languages==
+{{Other languages|type=Ground|type2=Ghost
+|ja=デスバーン ''Deathbarn''|jameaning=From ''death'' and {{tt|板 ''ban''|slab}}
+|fr=Tutétékri|frmeaning=From ''{{wp|Tutankhamun}}'' and a pun of ''{{tt|tout est écrit|everything is written}}''
+|es=Runerigus|esmeaning=Same as English name
+|de=Oghnatoll|demeaning=From ''{{wp|Ogham}}'', ''{{tt|Echnatoll|Cofagrigus}}'', and a pun of ''{{tt|Och, na toll!|Oh, great! (ironic)}}''
+|it=Runerigus|itmeaning=Same as English name
+|ko=데스판 ''Despan''|komeaning=From ''death'' and {{tt|판 (板) ''pan''|slab}}
+|zh_cmn=死神板 ''Sǐshénbǎn''{{tt|*|Traditional Chinese, Simplified Chinese (Prior to October 20, 2020)}}<br>迭失板 ''Diéshībǎn''{{tt|*|Simplified Chinese (October 20, 2020 - present)}}|zh_cmnmeaning=From {{tt|死神 ''sǐshén''|death god, Grim Reaper}} and {{tt|板 ''bǎn''|slab}}<br>From the transcription of Japanese name, {{tt|失 ''shī''|lost}} and {{tt|板 ''bǎn''|slab}}
+|zh_yue=死神板 ''Séisàhnbáan''|zh_yuemeaning=From {{tt|死神 ''séisàhn''|death god, Grim Reaper}} and {{tt|板 ''báan''|slab}}
+|hi=डैमौशिल ''Demaushil''|himeaning=From ''death'', {{tt|मौत ''maut''|death}}, and {{tt|शिल ''śil''|stone}}
+|th=เดธบาน ''Detban''|thmeaning=Transcription of trademarked Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+
+{{Galarian forms}}
+
+{{PokémonPrevNext/Head|type=Ground|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0866|prev=Mr. Rime|nextnum=0868|next=Milcery}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Oghnatoll]]
+[[es:Runerigus]]
+[[fr:Tutétékri]]
+[[it:Runerigus]]
+[[ja:デスバーン]]
+[[zh:死神板]]

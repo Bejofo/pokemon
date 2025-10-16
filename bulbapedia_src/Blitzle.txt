@@ -1,0 +1,503 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Blitzle}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0521|prev=Unfezant|nextnum=0523|next=Zebstrika|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Blitzle
+|jname=シママ
+|tmname=Shimama
+|category=Electrified
+|typebox=1
+|type1=Electric
+|abilityn=d
+|ability1=Lightning Rod
+|ability2=Motor Drive
+|abilityd=Sap Sipper
+|ndex=0522
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=65.7
+|weight-kg=29.8
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=59
+|lv100exp=1,000,000
+|gendercode=127
+|color=Black
+|catchrate=190
+|body=08
+|evtotal=1
+|evsp=1
+|pokefordex=blitzle
+|generation=5
+|friendship=70
+}}
+'''Blitzle''' ([[List of Japanese Pokémon names|Japanese]]: '''シママ''' ''Shimama'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Zebstrika}} starting at [[level]] 27.
+
+==Biology==
+Blitzle is a black, zebra-like {{OBP|Pokémon|species}} with thick, double-pointed white stripes on its neck, chest, back, and hind legs. It has a rounded muzzle with a large, dark nose and oval, blue eyes with yellow sclerae. On top of its head are short, triangular ears with blue insides. Below the knees, its legs are white with black hooves. Its tail is stubby, white, and has two points. Running up its neck is a spiky, white mane, which culminates at the front in a long extension that resembles a lightning bolt. 
+
+This mane captures and stores electricity, which flashes whenever this Pokémon discharges electricity from it. It communicates with other members of its species by controlling the rhythm and frequency of these flashes. Blitzle generates electricity with its heartbeat. Whenever Blitzle is startled, its heart rate goes up, and the voltage of its electricity rises with it. During lightning storms, Blitzle ventures out to recharge its mane with lightning bolts. For this reason, Blitzle tends to live in places with lots of lightning strikes. Blitzle lives in herds run by {{p|Zebstrika}}.
+
+===Evolution===
+Blitzle evolves into {{p|Zebstrika}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|pictype=art
+|type1=Electric
+|no1=0522
+|name1=Blitzle
+|type1-1=Electric
+|evo1=
+|no2=0523
+|name2=Zebstrika
+|type1-2=Electric}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=028|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=147|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.}}
+{{Dex/Entry1|v=White|entry=When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=23}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Its heartbeat generates electricity. When Blitzle is surprised and its heart rate goes up, the voltage of its electricity also rises.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon prefers places with lots of lightning strikes. It catches lightning with its mane and stores the electricity within its body.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{electric color dark}}; background:#{{electric color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{electric color light}}; background:#{{electric color light}} | [[File:Pokédex Image Blitzle SV Blueberry.png|x200px]]
+|-
+| Blitzle in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|3|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Pokémon breeding|Breed]] {{p|Zebstrika}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Pokémon breeding|Breed]] {{p|Zebstrika}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Pokémon breeding|Breed]] {{p|Zebstrika}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Blueberry Academy)|Blitzle|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Challenger's Ground]], [[World Axle - B1F]]; Field: [[Challenger's Ground]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Violight]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Desolate Canyon]] (1F-7F), [[Mountain Pass]] (1F-7F), [[Inflora Forest]] (1F-8F), [[Breezy Meadow]] (1F-8F), [[Silent Tundra]] (Uncharted Road, Gilded Hall), [[Dreamy Island]] (Uncharted Road, Gilded Hall), [[Moonlit Forest]] (Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Floors Are Hot!|Aquatic Hill: The Floors Are Hot!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 2|Island of Haste: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Royal Armory|Dark Land: Royal Armory]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 03|Area 03: Stage 01]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 191]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Electric}}
+{{HeldItems/Games2|Black|White|tcolor1=fff|Pokémon Black and White Versions}}
+{{HeldItems/Items1|Cheri Berry|50}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Electric
+|type2=Electric
+|HP=45
+|Attack=60
+|Defense=32
+|SpAtk=50
+|SpDef=32
+|Speed=76}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|lightningrod=maybe
+|motordrive=maybe
+|sapsipper=maybe
+}}
+
+===Learnset===
+Blitzle is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Blitzle|Electric|Electric|5}}
+{{learnlist/level9|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|4|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|8|Charge|Electric|Status|—|—|20}}
+{{learnlist/level9|11|Shock Wave|Electric|Special|60|—|20||'''}}
+{{learnlist/level9|15|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|18|Flame Charge|Fire|Physical|50|100|20}}
+{{learnlist/level9|22|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|25|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level9|29|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|33|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|35|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/level9|40|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/levelf/9|Blitzle|Electric|Electric|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Blitzle|Electric|Electric|5}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM038|Flame Charge|Fire|Physical|50|100|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM053|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM210|Supercell Slam|Electric|Physical|100|95|15||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tmf/9|Blitzle|Electric|Electric|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Blitzle|Electric|Electric|5}}
+{{learnlist/breed9|{{MSP/H|0128|Tauros|form=-Paldea Combat}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128|Tauros|form=-Paldea Aqua}}{{MSP/H|0135|Jolteon}}{{MSP/H|0335|Zangoose}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0749|Mudbray}}{{MSP/H|0750|Mudsdale}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026|Raichu|form=-Alola}}{{MSP/H|0052|Meowth}}{{MSP/H|0052|Meowth|form=-Alola}}{{MSP/H|0053|Persian}}{{MSP/H|0053|Persian|form=-Alola}}{{MSP/H|0335|Zangoose}}{{MSP/H|0336|Seviper}}{{MSP/H|0391|Monferno}}{{MSP/H|0392|Infernape}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0448|Lucario}}{{MSP/H|0652|Chesnaught}}{{MSP/H|0815|Cinderace}}|Feint|Normal|Physical|30|100|10}}
+{{learnlist/breed9|{{MSP/H|0027|Sandshrew}}{{MSP/H|0028|Sandslash}}{{MSP/H|0050|Diglett}}{{MSP/H|0050|Diglett|form=-Alola}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051|Dugtrio|form=-Alola}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0234|Stantler}}{{MSP/H|0899|Wyrdeer}}{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0585|Deerling}}{{MSP/H|0586|Sawsbuck}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0744|Rockruff}}{{MSP/H|0745|Lycanroc}}{{MSP/H|0745|Lycanroc|form=-Midnight}}{{MSP/H|0745|Lycanroc|form=-Dusk}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0052|Meowth}}{{MSP/H|0052-Alola|Meowth}}{{MSP/H|0052-Galar|Meowth}}{{MSP/H|0053|Persian}}{{MSP/H|0053-Alola|Persian}}{{MSP/H|0863|Perrserker}}{{MSP/H|0054|Psyduck}}{{MSP/H|0055|Golduck}}{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0197|Umbreon}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215-Hisui|Sneasel}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0336|Seviper}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0448|Lucario}}{{MSP/H|0810|Grookey}}{{MSP/H|0811|Thwackey}}{{MSP/H|0812|Rillaboom}}|Screech|Normal|Status|—|85|40}}
+{{learnlist/breedf/9|Blitzle|Electric|Electric|5}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/PSMD|col=6|type=Electric|ndex=522
+|coset=3
+|conto={{p|Phanpy}}, {{p|Poochyena}}, {{p|Shinx}}
+|recruitment=Talk to in [[Lively Town]]
+|P1=Look at how my mane shines! Cool, huh?
+|P2=I think they'll get me soon…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Electric
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=522
+|walk=1.25
+|hp=46
+|attack=68
+|defense=42
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Electric|ndex=522
+|pad=He's indifferent to his surroundings, but when he finds promising Pokémon, he can't wait to teach them the tricks of Dash.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Electric|ndex=522
+|HP=2
+|atk=2
+|def=1
+|spd=3
+|range=4
+|move=Spark
+|ability1=Lightningrod
+|ability2=Motor Drive
+|ability3=Run Up
+|evo=Evolves into {{p|Zebstrika}} when its Speed is 81 or higher
+|link={{OBP|Kiyo|Conquest}} and [[Tadasumi]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=522
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=522|num=246
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Rock Break
+|skilldesc=Destroys one breakable-rock disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=522
+|hatch=5 km
+|buddy=3
+|candy=Blitzle
+|evocandy=50
+|stamina=128
+|attack=118
+|defense=64
+|fast={{m|Quick Attack}}, {{m|Spark}}
+|special={{m|Flame Charge}}, {{m|Discharge}}, {{m|Thunderbolt}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+
+}}
+|}
+In {{g|GO}}, Blitzle can be obtained by completing 3/5 of the [[Special Research]], ''Throwback Challenge Champion 2020''. It can also be obtained by completing 3/5 of the {{OBP|Ticketed event|GO|Ticketed Special Research}}, ''Throwback Challenge Celebration 2020''.
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{electric color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}};"| [[File:GO522Fashion2021.png|100px]]
+|-
+| Fashionable costume
+|}
+
+===Evolution data===
+{{evobox-2
+|pictype=art
+|type1=Electric
+|no1=0522
+|name1=Blitzle
+|type1-1=Electric
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 27}}
+|no2=0523
+|name2=Zebstrika
+|type1-2=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=522}}
+{{Spritebox/6|ndex=522|crop=83}}
+{{Spritebox/7|ndex=522|crop=83}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9|ndex=0522}}-->
+{{Spritebox/HOME|ndex=0522}}
+{{Spritebox/Footer|522|Blitzle}}
+
+==In animation==
+[[File:Blitzle anime.png|thumb|250px|Blitzle in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Blitzle debuted in ''[[BW028|Oshawott's Lost Scalchop!]]'', under the ownership of [[Stephan]]. It was used in a {{pkmn|battle}} against {{Ash}}, where it went up against {{AP|Oshawott}} and caused him to lose his [[Scalchop and seamitar|scalchop]]. They later had a [[rematch]], where it was defeated. Blitzle was revealed to have evolved into Zebstrika before ''[[BW039|Reunion Battles In Nimbasa!]]''.
+
+A Blitzle appeared in [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']], under the ownership of [[Luisa]]. In the former movie, it was rescued in the middle of the desert by [[Damon]] when it injured its leg, and it was returned to Luisa with the help of Damon's {{p|Reuniclus}}'s {{m|Psychic}}. In the latter movie, it made a brief cameo appearance while fulfilling a similar role.
+
+====Minor appearances====
+Three Blitzle appeared in ''[[BW034|Gotta Catch A Roggenrola!]]''.
+
+Multiple Blitzle appeared in ''[[BW051|Lost at the Stamp Rally!]]''.
+
+Multiple Blitzle appeared in ''[[BW053|A Maractus Musical!]]'', including one in a flashback.
+
+In ''[[BW056|The Lonely Deino!]]'', multiple Blitzle were under [[Bobby]]'s care.
+
+A Blitzle appeared in ''[[BW057|The Mighty Accelguard to the Rescue!]]'', under the ownership of a shopper at the {{DL|Driftveil City|Market|Driftveil Market}}.
+
+Multiple Blitzle appeared in ''[[BW059|Stopping the Rage of Legends! Part 1]]''.
+
+In ''[[BW065|Battling the Bully!]]'', [[Sean]]'s father lent a Blitzle to his son and [[Glenn]] to use in a practice battle.
+
+A {{pkmn|Trainer}}'s Blitzle appeared in ''[[BW067|Cilan Takes Flight]]''.
+
+Two Blitzle appeared in ''[[BW069|Climbing the Tower of Success!]]'', both under the ownership of a Trainer.
+
+A Blitzle appeared in ''[[BW071|Search for the Clubultimate!]]''.
+
+In ''[[BW080|Clash of the Connoisseurs!]]'', [[Burgundy]], disguised as Fauxgundy, reviewed a Blitzle as a possible Pokémon for [[Marigold]].
+
+A Blitzle appeared in ''[[BW081|Crisis at the Ferroseed Research!]]''.
+
+A Blitzle appeared in ''[[BW083|Rocking at the Virbank Gym! Part 1]]''.
+
+Multiple Blitzle appeared in ''[[BW085|All for the Love of Meloetta!]]''.
+
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', the {{OBP|Swords of Justice|M15}} legend featured multiple Blitzle.
+
+A Trainer's Blitzle appeared in ''[[BW090|Jostling for the Junior Cup!]]''.
+
+In ''[[BW102|Team Eevee and the Pokémon Rescue Squad!]]'', multiple Blitzle were living at a ranch at [[Virgil]]'s house.
+
+Two Blitzle appeared in ''[[BW103|Curtain Up, Unova League!]]'', both under the ownership of a Trainer.
+
+A Trainer's Blitzle appeared in ''[[BW104|Mission: Defeat Your Rival!]]''.
+
+Two Blitzle appeared in a flashback in ''[[BW112|Team Plasma's Pokémon Power Plot!]]''.
+
+Two Blitzle appeared in ''[[HZ049|Dot and Nidothing]]'', under the ownership of two Trainers.
+
+A {{tc|Student}}'s Blitzle appeared in ''[[HZ066|Infiltrating the System! Naranja Academy in Danger!]]''.
+
+Multiple Blitzle appeared in ''[[HZ085|The Pokémon Paradise of Laqua!]]'', among the Pokémon living in [[Laqua]].
+
+A Blitzle appeared in ''[[HZ089|Where the Adventure Leads]]''.
+
+A Trainer's Blitzle appeared in [[HZ097]].
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW028|Blitzle|Ash's Pokédex|Blitzle, the Electrified Pokémon. Blitzle catches electricity and stores it in its mane, which glows when the electricity is discharged.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===POKÉTOON===
+A Blitzle appeared in [[PT10]], under the ownership of a {{tc|Musician}}.
+
+==In the manga==
+[[File:Andy Blitzle Adventures.png|100px|thumb|Blitzle in [[Pokémon Adventures]]]]
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Blitzle appeared in ''[[FAT2|The King's Identity...!!]]''.
+
+===Pocket Monsters HGSS===
+A Blitzle appeared in [[PMHGSS23]].
+
+===Pokémon Adventures===
+A {{tc|Hiker}} named Andy uses a Blitzle during his [[Triple Battle]] with {{adv|Black}} in ''[[PS464|Black's First Trainer Battle]]''. However, he was defeated after Andy became dehydrated.
+
+A Trainer's Blitzle appeared in ''[[PS466|An Odd Speech]]'' and ''[[PS486|Unraveling Mysteries]]''.
+
+A Blitzle appeared in ''[[PS471|Battle at the Dreamyard]]''.
+
+[[Elesa]] has a {{p|Zebstrika}} that she has owned since she was young and it was a Blitzle. It appeared in a flashback in ''[[PS484|Battle on a Roller Coaster]]''.
+
+A Blitzle liberated by [[Team Plasma]] appeared in ''[[PS547|The Final Battle]]''.
+
+==In the TCG==
+{{main|Blitzle (TCG)}}
+
+==Trivia==
+* All of Blitzle's [[Ability|Abilities]] make it immune to a specific type. Excluding Pokémon with only one possible Ability, it shares this distinction with its [[Evolution]], {{p|Zebstrika}}.
+
+===Origin===
+Blitzle resembles a {{wp|zebra}} foal and may be based on two of {{wp|Helios}}'s {{wp|Helios#Horses of Helios|steeds that pulled his chariot}}, Bronte and Sterope, which are Greek for thunder and lightning, respectively.
+
+====Name origin====
+Blitzle may be a combination of ''Blitz'' (German for ''lightning'') and ''little''.
+
+Shimama may be derived from 縞馬 ''shimauma'' (zebra).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=シママ ''Shimama''|jameaning=From {{tt|縞馬 ''shimauma''|zebra}}
+|fr=Zébibron|frmeaning=From ''{{tt|zébron|young zebra}}'' and ''{{tt|biberon|baby bottle}}''
+|es=Blitzle|esmeaning=Same as English name
+|de=Elezeba|demeaning=From ''{{tt|Elektrizität|electricity}}'' and ''Zebra''
+|it=Blitzle|itmeaning=Same as English name
+|ko=줄뮤마 ''Julmyuma''|komeaning=From {{tt|줄무늬 ''julmunui''|stripe}} and {{tt|마 (馬) ''ma''|horse}}
+|zh_cmn=斑斑馬 / 斑斑马 ''Bānbānmǎ''|zh_cmnmeaning=From {{tt|斑馬 / 斑马 ''bānmǎ''|zebra}}
+|zh_yue=斑斑馬 ''Bāanbāanmáh''|zh_yuemeaning=From {{tt|斑馬 ''bāanmáh''|zebra}}
+|hi=हॉस्ट्राइप ''Hostripe''|himeaning=From ''horse'' and ''stripe''
+|ru=Блитцл ''Blittsl''|rumeaning=Transcription of English name
+|th=ชิมามา ''Chimama''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0521|prev=Unfezant|nextnum=0523|next=Zebstrika}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Elezeba]]
+[[es:Blitzle]]
+[[fr:Zébibron]]
+[[it:Blitzle]]
+[[ja:シママ]]
+[[zh:斑斑马]]

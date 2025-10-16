@@ -1,0 +1,432 @@
+{{PokémonPrevNext/Head|type=Fire|type2=Bug}}
+{{PokémonPrevNext/GO|species=Centiskorch}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=0850|prev=Sizzlipede|nextnum=0852|next=Clobbopus|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Centiskorch
+|jname=マルヤクデ
+|tmname=Maruyakude
+|forme=2
+|form1=Centiskorch
+|form2=Gigantamax Centiskorch
+|image2=0851Centiskorch-Gigantamax.png
+|ndex=0851
+|type1=Fire
+|type2=Bug
+|category=Radiator
+|height-ftin=9'10"
+|height-m=3.0
+|height-ftin2=246'01"+
+|height-m2=75.0+
+|weight-lbs=264.6
+|weight-kg=120.0
+|weight-lbs2=???
+|weight-kg2=???
+|abilityn=d
+|ability1=Flash Fire
+|ability2=White Smoke
+|abilityd=Flame Body
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=184
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=75
+|body=10
+|pokefordex=centiskorch
+|generation=8
+|friendship=50
+}}
+'''Centiskorch''' ([[List of Japanese Pokémon names|Japanese]]: '''マルヤクデ''' ''Maruyakude'') is a dual-type {{2t|Fire|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{p|Sizzlipede}} starting at [[level]] 28.
+
+Centiskorch can [[Gigantamax]] into '''Gigantamax Centiskorch''' if it has the {{DL|Gigantamax|Gigantamax Factor}}.
+
+==Biology==
+[[File:Kabu Centiskorch no fire Adventures.png|thumb|left|200px|Centiskorch's head without any flames]]
+Centiskorch is a flat, {{wp|centipede}}-like {{OBP|Pokémon|species}}. It is red, with circular orange-yellow heat-generating organs on the underside of each section, while its dorsal side, along with its legs and mandible, are a darker shade of red. The head has an orange mark in the shape of an exclamation point ("!") on the top, and two bright yellow eyes with triangular red pupils. It has orange-yellow flames coming out of its head and rear, simulating antennae and {{wp|telson}}. Centiskorch creates flammable gases by fermenting the food in its body, and then burns these gases through the heat-generating organs along its underside. This results in the overflowing flames on either end of its body, which can reach temperatures of almost 1,500&nbsp;°F (800&nbsp;°C).<ref name=Centiskorch /> As shown in [[Pokémon Adventures|the manga]], the flames on its head can turn off.
+
+Due to its violent and belligerent nature, Centiskorch will attack anything that comes near it. When in battle, Centiskorch will rear up and use its long, hot body to attack, either by slamming its searing belly into opponents like a whip or constricting them with its body.<ref name=Centiskorch>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/centiskorch/ Centiskorch | Official Website | Pokémon Sword and Pokémon Shield]</ref> {{p|Scolipede}} is the natural predator or prey of Centiskorch, depending on who wins the territorial fight.
+
+===Forms===
+Centiskorch has a [[Gigantamax]] form.
+
+When Gigantamaxed, the number of segments and legs on Centiskorch's body increases, with a total of one hundred legs, allowing Centiskorch to move incredibly fast despite its immense size.<ref name=GmaxCentiskorch /> The underside of its body turns yellow, with light-yellow concentric circles inside each section of its body. The flames from its head and telson are larger and longer and have a lighter part at the center, similar to a "X". There are small diamond shapes that dot the topside of its body periodically. It retains the exclamation point on the top of its head, but its eyes are now red and white, with yellow irises. Three red clouds float above its telson.
+
+Centiskorch's firepower when Gigantamaxed increases, resulting in its internal temperature exceeding 1,800&nbsp;°F (1,000&nbsp;°C). The heat waves coming off of Gigantamax Centiskorch are hot enough to burn opponents and disturb the air currents to the point of causing storms to form.<ref name=GmaxCentiskorch>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/gigantamax-centiskorch/ Gigantamax Centiskorch | Official Website | Pokémon Sword and Pokémon Shield]</ref>
+
+Gigantamax Centiskorch is the [[Signature move|only known Pokémon]] capable of using the [[G-Max Move]] {{m|G-Max Centiferno}}.
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{fire color}}; {{roundy|10px}} border: 3px solid #{{bug color dark}}"
+|-
+| {{color2|000|Gigantamax}} Centiskorch
+|-
+| style="{{roundy|96px}} border: 2px solid #{{bug color dark}}; background: #{{fire color light}}; width:96px; height:96px"| [[File:0851Centiskorch-Gigantamax.png|100px]]
+|}
+|}
+
+===Evolution===
+Centiskorch evolves from {{p|Sizzlipede}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Fire
+|type2=Bug
+|pictype=art
+|no1=0850
+|name1=Sizzlipede
+|type1-1=Fire
+|type2-1=Bug
+|evo1=
+|no2=0851
+|name2=Centiskorch
+|type1-2=Fire
+|type2-2=Bug}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fire|type2=Bug}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=160|reg2=Galar|num2=100|label2=Crown Tundra|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When it heats up, its body temperature reaches about {{tt|1,500 degrees Fahrenheit|800 degrees Celsius}}. It lashes its body like a whip and launches itself at enemies.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.}}
+{{Dex/Form|Gigantamax Centiskorch}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Gigantamax energy has evoked a rise in its body temperature, now reaching over {{tt|1,800 degrees Fahrenheit|1,000 degrees Celsius}}. Its heat waves incinerate its enemies.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The heat that comes off a Gigantamax Centiskorch may destabilize air currents. Sometimes it can even cause storms.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire|type2=Bug}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])<br>[[Stony Wilderness/Dens|Stony Wilderness]], use [[Dynamax Crystal]] ★Sgr6859 at [[Watchtower Lair]] ([[Max Raid Battle]]) <small>('''{{DL|Gigantamax|Gigantamax Factor}}''')</small>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Foot]]<br>[[Snowslide Slope/Dens|Snowslide Slope]], [[Giant's Bed/Dens|Giant's Bed]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])<br>[[Snowslide Slope/Dens|Snowslide Slope]], [[Giant's Bed/Dens|Giant's Bed]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]]) <small>('''{{DL|Gigantamax|Gigantamax Factor}}''')</small><br>[[Max Lair]] ([[Dynamax Adventure]]) <small>('''{{DL|Gigantamax|Gigantamax Factor}}''')</small>}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire|type2=Bug}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Poké Fair [[sync pair scout]]: {{sync|Kabu|Centiskorch}} <small>('''[[Gigantamax]]''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Fire|type2=Bug|lochide=yes}}
+{{eventAvail|{{gameabbrev8|Sh}}|Wild Area News|No|hide|30, 40, 50, 60|November 15, 2019 to January 9, 2020|link=Wild Area News#November 15 to December 4, 2019}}
+{{eventAvail|{{gameabbrev8|Sh}}|Wild Area News|Yes|hide|40, 50, 70|November 15, 2019 to January 9, 2020|link=Wild Area News#November 15 to December 4, 2019}}
+{{eventAvail|{{gameabbrev8|Sh}}|Wild Area News|No|hide|30, 40, 50, 60|December 20 to 25, 2019|link=Wild Area News#December 20 to 25, 2019}}
+{{eventAvail|{{gameabbrev8|Sh}}|Wild Area News|Yes|hide|40, 50, 70|December 20 to 25, 2019|link=Wild Area News#December 20 to 25, 2019}}
+{{eventAvail|{{gameabbrev8|Sh}}|Wild Area News|No|hide|30|December 31, 2019 to January 3, 2020|link=Wild Area News#December 31, 2019 to January 3, 2020}}
+{{eventAvail|{{gameabbrev8|Sh}}|Wild Area News|Yes|hide|40, 50, 70|December 31, 2019 to January 3, 2020|link=Wild Area News#December 31, 2019 to January 3, 2020}}
+{{eventAvail|{{gameabbrev8|Sw}}|Wild Area News|Yes|hide|30, 40|June 2 to 29, 2020|link=Wild Area News#June 2 to 29, 2020}}
+{{eventAvail|{{gameabbrev8|Sw}}|Wild Area News|Yes|hide|40|June 17 to 28, 2020|link=Wild Area News#June 17 to 28, 2020}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|Yes|hide|30, 40, 50, 60|December 1 to 31, 2020|link=Wild Area News#December 1 to 31, 2020}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fire
+|type2=Bug
+|HP=100
+|Attack=115
+|Defense=65
+|SpAtk=90
+|SpDef=90
+|Speed=65
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fire
+|type2=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=400
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=200
+|Grass=25
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|flashfire=maybe
+}}
+
+===Learnset===
+Centiskorch is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Centiskorch|Fire|Bug|8}}
+{{learnlist/level8|1|Inferno|Fire|Special|100|50|5||'''}}
+{{learnlist/level8|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level8|1|Smokescreen|Normal|Status|—|100|20}}
+{{learnlist/level8|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level8|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level8|15|Flame Wheel|Fire|Physical|60|100|25||'''}}
+{{learnlist/level8|20|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level8|25|Coil|Poison|Status|—|—|20}}
+{{learnlist/level8|32|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level8|39|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/level8|46|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level8|53|Fire Lash|Fire|Physical|80|100|15||'''}}
+{{learnlist/level8|60|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/level8|67|Burn Up|Fire|Special|130|100|5||'''}}
+{{learnlist/levelf/8|Centiskorch|Fire|Bug|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Centiskorch|Fire|Bug|8}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM13|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM38|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM66|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/tm8|TM68|Fire Fang|Fire|Physical|65|95|15||'''}}
+{{learnlist/tm8|TM74|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM92|Mystical Fire|Fire|Special|75|100|10||'''}}
+{{learnlist/tm8|TM97|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tr|TR02|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tr|TR15|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR32|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tr|TR36|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/tr|TR43|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tr|TR55|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/tr|TR60|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tr|TR61|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tr|TR72|Power Whip|Grass|Physical|120|85|10}}
+{{learnlist/tr|TR84|Scald|Water|Special|80|100|15}}
+{{learnlist/tr|TR88|Heat Crash|Fire|Physical|—|100|10||'''}}
+{{learnlist/tmf/8|Centiskorch|Fire|Bug|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Centiskorch|Fire|Bug|8}}
+{{learnlist/breed8|{{MSP/8c|543|Venipede}}{{MSP/8c|544|Whirlipede}}{{MSP/8c|545|Scolipede}}{{MSP/8c|767|Wimpod}}{{MSP/8c|768|Golisopod}}|Defense Curl|Normal|Status|—|—|40|grid=7}}
+{{learnlist/breed8|{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}|Knock Off|Dark|Physical|65|100|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|213|Shuckle}}{{MSP/8c|543|Venipede}}{{MSP/8c|544|Whirlipede}}{{MSP/8c|545|Scolipede}}|Rollout|Rock|Physical|30|90|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|213|Shuckle}}{{MSP/8c|415|Combee}}{{MSP/8c|616|Shelmet}}{{MSP/8c|617|Accelgor}}{{MSP/8c|742|Cutiefly}}{{MSP/8c|743|Ribombee}}{{MSP/8c|767|Wimpod}}{{MSP/8c|768|Golisopod}}{{MSP/8c|824|Blipbug}}{{MSP/8c|825|Dottler}}{{MSP/8c|826|Orbeetle}}{{MSP/8c|872|Snom}}{{MSP/8c|873|Frosmoth}}|Struggle Bug|Bug|Special|50|100|20||'''|grid=7}}
+{{learnlist/breedf/8|Centiskorch|Fire|Bug|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Centiskorch|Fire|Bug|8}}
+{{learnlist/tutor8|Scorching Sands|Ground|Special|70|100|10|||no|yes}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Centiskorch|Fire|Bug|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Centiskorch|Fire|Bug|8}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Centiskorch|Fire|Bug|8}}
+
+====Special moves====
+{{learnlist/eventh/8|Centiskorch|Fire|Bug|8}}
+{{learnlist/event8|{{DL|Watchtower Lair|★Sgr6859}} [[Gigantamax]] Centiskorch|Fire Lash|Fire|Physical|80|100|15|<sup>Lv.35</sup>|'''}}
+{{learnlist/event8|{{DL|Watchtower Lair|★Sgr6859}} [[Gigantamax]] Centiskorch|Lunge|Bug|Physical|80|100|15|<sup>Lv.35</sup>|'''}}
+{{learnlist/eventf/8|Centiskorch|Fire|Bug|8}}
+
+===Side game data===
+====Centiskorch====
+{{Spindata/Head|type=Fire|type2=Bug}}
+{{Spindata/GO|col=6|type=Fire|ndex=0851
+|egg=N/A
+|buddy=5
+|candy=Sizzlipede
+|evolution=N/A
+|stamina=225
+|attack=220
+|defense=158
+|fast={{m|Bug Bite}}, {{m|Ember}}
+|special={{m|Crunch}}, {{m|Heat Wave}}, {{m|Bug Buzz}}, {{m|Lunge}}
+}}
+|}
+
+====Gigantamax Centiskorch====
+{{Spindata/Head|type=Fire|type2=Bug}}
+{{Spindata/GO|col=6|type=Fire|ndex=0851GMax
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=225
+|attack=220
+|defense=158
+|fast= N/A
+|special= {{m|G-Max Centiferno}}
+}}
+|}
+
+===Form data===
+====Gigantamax====
+{{Evobox/Formes
+|sprite1=0851Centiskorch
+|name1=Centiskorch
+|type1-1=Fire
+|type2-1=Bug
+|forme1=Centiskorch
+|sprite2=0851Centiskorch-Gigantamax
+|forme2=Gigantamax Centiskorch
+|loc1=[[File:Dynamax icon.png|link=Gigantamax|32px]]<br>{{color2|000|Gigantamax|Gigantamax Factor}}
+|loc2=Lasts for three turns
+|item1=Dynamax Band
+|itemfile1=Sword Shield Dynamax Band.png
+|itemsize1=40px
+}}
+
+===Evolution data===
+{{Evobox-2
+|type1=Fire
+|type2=Bug
+|pictype=art
+|no1=0850
+|name1=Sizzlipede
+|type1-1=Fire
+|type2-1=Bug
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 28}}
+|no2=0851
+|name2=Centiskorch
+|type1-2=Fire
+|type2-2=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=Fire|type2=Bug}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8/2Forms|ndex=851|form1=Gi}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/2Forms|ndex=0851|form1=Gi}}
+{{Spritebox/Footer|851|Centiskorch}}
+
+==In animation==
+[[File:Kabu Centiskorch.png|thumb|left|250px|Centiskorch in {{aniseries|HZ}}]]
+[[File:Doug Gigantamax Centy.png|thumb|250px|Gigantamax Centiskorch in {{aniseries|JN}}]]
+===Main series===
+====Major appearances====
+Centiskorch debuted in ''[[JN042|Sword and Shield, Slumbering Weald!]]'', where one, [[nickname]]d "Centy", appeared under the ownership of [[Doug and Eva|Doug]]. It ended up [[Gigantamax]]ing after being hit by a stray beam of [[Dynamax]] energy, and it started attacking the town unexpectedly. {{Ash}} attempted to battle it with {{AP|Pikachu}}, {{AP|Dragonite}}, and {{AP|Riolu}}, only for {{an|Leon}} to arrive and defeat it with his {{TP|Leon|Charizard}}.
+
+A Centiskorch appeared in ''[[HZ020|Kabu's Battle Training!]]'', under the ownership of [[Kabu]]. It teamed up with {{OBP|Wakaba|HZ020}}'s {{p|Rolycoly}} in a [[Multi Battle|Tag Battle]] against [[Liko]] and [[Roy]].
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN042|Centiskorch|Ash's Rotom Phone|Centiskorch, [[Gigantamax]] form. The Radiator Pokémon. A {{t|Fire}} and {{t|Bug}} type. With a body temperature of nearly {{tt|2,000 degrees|1,100 degrees Celsius}}, it can scorch its opponent with a wave of heat.}}
+{{Animedexfooter/Pokémon|Galar}}
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ020|Centiskorch|{{OBP|Wakaba|HZ020}}|A {{t|Fire}} and {{t|Bug}} type. The Radiator Pokémon, Centiskorch. Its personality is extremely aggressive, and it launches attacks while running a {{tt|1,500 degree|800 degrees Celsius}} body temperature.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Twilight Wings===
+A Centiskorch appeared in ''[[TW08|The Gathering of Stars]]'', under the ownership of [[Kabu]].
+
+==In the manga==
+[[File:Kabu Centiskorch Adventures.png|thumb|100px|Centiskorch in [[Pokémon Adventures]]]]
+[[File:Kabu Gigantamax Centiskorch Adventures.png|left|thumb|200px|Gigantamax Centiskorch in Pokémon Adventures]]
+===Pokémon Adventures===
+Centiskorch debuted in ''[[PASS10|Blazing!! Bede's Feelings]]'', under the ownership of [[Kabu]]. It was first seen being defeated by [[Marnie]]'s {{p|Morpeko}} in a Gym battle. It later [[Gigantamax]]ed in Kabu's battle against {{Casey}}, where it lost to her [[Dynamax]] {{p|Arrokuda}}.
+
+===Pokémon Journeys===
+A Centiskorch appeared in ''[[JNM13|Sword and Shield... The Legends Awaken! (Part 1)]]'', under the ownership of [[Doug and Eva|Doug]]. It plays the same role as it did in the animated series.
+{{-}}
+
+==In the TCG==
+{{main|Centiskorch (TCG)}}
+
+==Trivia==
+* Centiskorch has the [[List of Pokémon by height|tallest]] [[Gigantamax]] form.
+* Centiskorch, its pre-Evolution, and its Gigantamax form were designed by [[James Turner]].<ref>[https://twitter.com/JamesTurner_42/status/1270467534022574080 Tweet by James Turner (@JamesTurner_42).] Posted on June 9, 2020.</ref><ref>[https://twitter.com/JamesTurner_42/status/1291859316736065536 Tweet by James Turner (@JamesTurner_42).] Posted on August 7, 2020.</ref><ref>[https://twitter.com/JamesTurner_42/status/1726989880151220600 Tweet by James Turner (@JamesTurner_42).] Posted on November 21, 2023.</ref> Turner also designed Gigantamax Centiskorch's attack pose.<ref>[https://twitter.com/JamesTurner_42/status/1291862542151630849 Tweet by James Turner (@JamesTurner_42).] Posted on August 7, 2020.</ref>
+* Despite the {{p|Scolipede}} and Centiskorch evolutionary lines living in different parts of the [[Galar]] [[region]], both {{p|Venipede}} and Scolipede's [[Pokédex entry|Pokédex entries]] speak of their hostile relationship with the latter family.
+* Centiskorch and its pre-evolved form, {{p|Sizzlipede}}, are the only {{type|Fire}} Pokémon [[List of Pokémon by shape#Pokémon with tentacles or a multiped body|with a multiped body]].
+
+===Origin===
+Centiskorch appears to be based on a {{wp|centipede}}, possibly a ''{{wp|Orphnaeus brevilabiatus}}'', also known as fire centipede due to its bioluminescence. It may also be inspired by bioluminescent millipedes, such as the {{wp|Motyxia|Sierra luminous millipedes}}. 
+Centiskorch's body segments, with circular heat-generating organs, resemble {{wp|cooktop}}s or {{wp|radiator}}s. The fire cross on its face could be inspired by a ''{{wp|kabuto}}'' helmet and a moustached ''{{wp|men-yoroi}}''.
+
+Additionally, Centiskorch may also be based on the {{wp|Ōmukade}}, a colossal centipede from Japanese mythology whose bright orange legs were said to resemble thousands of torches. It having a [[Gigantamax]] form reinforces this inspiration, as the Ōmukade could coil several times around mountains. 
+
+====Name origin====
+Centiskorch may be a combination of ''centipede'' and ''scorch''. It may also incorporate ''centigrade'', an alternative name for the {{wp|Celsius|Celsius temperature scale}}.
+
+Maruyakude may be a combination of 丸焼け ''maruyake'' (completely burned) and 馬陸 ''yasude'' (millipede), 百足 ''mukade'' (centipede), or ヤクデ ''Yakude'' ({{p|Sizzlipede}}).
+
+==In other languages==
+{{Other languages|type=Fire|type2=Bug
+|ja=マルヤクデ ''Maruyakude''|jameaning=From {{tt|丸焼け ''maruyake''|completely burned}}, {{tt|馬陸 ''yasude''|millipede}} or {{tt|百足 ''mukade''|centipede}}, and {{tt|ヤクデ ''Yakude''|Sizzlipede}}
+|fr=Scolocendre|frmeaning=From ''{{tt|scolopendre|centipede}}'' and ''{{tt|cendre|ash}}''
+|es=Centiskorch|esmeaning=Same as English name
+|de=Infernopod|demeaning=From ''Inferno'' and ''{{wp|Centipede|Chilopoda}}''
+|it=Centiskorch|itmeaning=Same as English name
+|ko=다태우지네 ''Datae-ujine|komeaning=From {{tt|다 ''da''|all}}, {{tt|태우다 ''tae-uda''|to burn}}, and {{tt|지네 ''jine''|centipede}}
+|zh_cmn=焚焰蚣 ''Fényàngōng''|zh_cmnmeaning=From {{tt|焚 ''fén''|to burn}}, {{tt|焰 ''yàn''|flame}}, and {{tt|蜈蚣 ''wúgōng''|centipede}}
+|zh_yue=焚焰蚣 ''Fàhnyihmgūng''|zh_yuemeaning=From {{tt|焚 ''fàhn''|to burn}}, {{tt|焰 ''yihm''|flame}}, and {{tt|蜈蚣 ''ǹgh-gūng''|centipede}}
+|hi=जूरारोस्ट ''Jooraroast''|himeaning=From {{tt|कनखजूरा ''kankhajūrā''|centipede}} and ''roast''
+|ru=Сентискорч ''Sentiskorch''|rumeaning=From English name
+|th=มารุยาคุเดะ ''Maruyakhude''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Gigantamax]]
+
+==References==
+<references/>
+
+==External links==
+{{Gigantamax}}{{PokémonPrevNext/Head|type=Fire|type2=Bug}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=0850|prev=Sizzlipede|nextnum=0852|next=Clobbopus}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Infernopod]]
+[[es:Centiskorch]]
+[[fr:Scolocendre]]
+[[it:Centiskorch]]
+[[ja:マルヤクデ]]
+[[zh:焚焰蚣]]

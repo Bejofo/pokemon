@@ -1,0 +1,629 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/GO|species=Kakuna}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0013|nextnum=0015|prev=Weedle|next=Beedrill|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Kakuna
+|jname=コクーン
+|jtranslit=Kokūn
+|tmname=Cocoon
+|ndex=0014
+|typebox=1
+|type1=Bug
+|type2=Poison
+|category=Cocoon
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=22.0
+|weight-kg=10.0
+|abilitylayout=1
+|ability1=Shed Skin
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=2
+|evde=2
+|expyield=72
+|oldexp=71
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|catchrate=120
+|body=02
+|pokefordex=kakuna
+|generation=1
+|friendship=70
+}}
+'''Kakuna''' ([[List of Japanese Pokémon names|Japanese]]: '''コクーン''' ''Cocoon'') is a dual-type {{2t|Bug|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Weedle}} starting at [[level]] 7 and evolves into {{p|Beedrill}} starting at level 10.
+
+==Biology==
+Kakuna is a yellow, {{wp|insect}} cocoon-like {{OBP|Pokémon|species}}. Kakuna has a dome-shaped head and black, triangular eyes with glowing white pupils. It has two scythe-like arms in the middle of its body. When it comes close to evolving, its body gives off heat that makes it warm to the touch. Kakuna remains virtually immobile and waits for Evolution, often hanging from tree branches by long strands of silk. When attacked, however, it can extend its poison barbs. Kakuna nests in {{DL|List of Pokémon by habitat|Forest Pokémon|temperate forests}} and misty wooded areas. Occasionally, it will also nest at the mouth of tunnels and caves, as seen in [[Pokémon Snap]].
+
+===Evolution===
+Kakuna evolves from {{p|Weedle}} and evolves into {{p|Beedrill}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0013
+|name1=Weedle
+|type1-1=Bug
+|type2-1=Poison
+|evo1=
+|no2=0014
+|name2=Kakuna
+|type1-2=Bug
+|type2-2=Poison
+|evo2=
+|no3=0015
+|name3=Beedrill
+|type1-3=Bug
+|type2-3=Poison}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Poison}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=014}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Almost incapable of moving, this {{ScPkmn}} can only harden its shell to protect itself from predators.}}
+{{Dex/Entry1|v=Yellow|entry=Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Because it is virtually motionless, it may appear dead. Inside, however, a new body is being made.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=028}}
+{{Dex/Entry1|v=Gold|entry=Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.}}
+{{Dex/Entry1|v=Silver|entry=From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.}}
+{{Dex/Entry1|v=Crystal|entry=Nearly incapable of movement, it leans against stout trees while waiting for its [[evolution]].}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>From this form, it will grow into an adult. As its body becomes softer, the external shell hardens. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=014}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Kakuna</sc> remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.}}
+{{Dex/Entry1|v=FireRed|entry=This {{ScPkmn}} is in a temporary stage while making its body. It is almost completely unable to move on its own.}}
+{{Dex/Entry1|v=LeafGreen|entry=Almost incapable of moving, this {{ScPkmn}} can only harden its shell to protect itself when it is in danger.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=028}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=While awaiting evolution, it hides from predators under leaves and in nooks of branches.}}
+{{Dex/Entry1|v=HeartGold|entry=Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.}}
+{{Dex/Entry1|v=SoulSilver|entry=From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=While awaiting evolution, it hides from predators under leaves and in nooks of branches.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=While awaiting evolution, it hides from predators under leaves and in nooks of branches.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=027|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=While awaiting evolution, it hides from predators under leaves and in nooks of branches.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=014}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=While awaiting evolution, it hides from predators under leaves and in nooks of branches.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Red|area=[[Route]]s {{rtn|24|Kanto}} and {{rtn|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|1|v=Blue|t=fff|area={{rt|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{rt|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1/None|1|v=Yellow}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Silver|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|30|Johto}}, and {{rtn|31|Johto}}, [[National Park]] and [[Ilex Forest]]{{sup/t|M}}{{sup/t|D}}<br/>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}, [[Azalea Town]], [[Ilex Forest]], [[Lake of Rage]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|1|v=Crystal|area=[[Ilex Forest]]{{sup/t|M}}{{sup/t|D}}<br/>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>[[Ilex Forest]] ([[Headbutt tree]]s)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Routes]] {{rtn|24|Kanto}} and {{rtn|25|Kanto}}, [[Viridian Forest]], [[Pattern Bush]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Eterna Forest]] {{color2|{{leafgreen color dark}}|Dual-slot mode|(LeafGreen)}}}}
+{{Availability/Entry1|v=Platinum|area=[[Eterna Forest]] {{color2|{{leafgreen color dark}}|Dual-slot mode|(LeafGreen)}}}}
+{{Availability/Entry1|v=HeartGold|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=SoulSilver|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|30|Johto}}, and {{rtn|31|Johto}}, [[Ilex Forest]], [[National Park]], [[Viridian Forest]]{{sup/t|M}}{{sup/t|D}}<br/>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br/>{{rt|47|Johto}}, [[Ilex Forest]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Black|t=fff|area={{rt|12|Unova}}}}
+{{Availability/Entry1/None|1|v=White}}
+{{Availability/Entry1|1|v=Black 2|t=fff|area=[[Evolution|Evolve]] {{p|Weedle}}}}
+{{Availability/Entry1/None|1|v=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|v=X|t=fff|area=[[Santalune Forest]], [[Friend Safari]] ([[Friend Safari#Poison-type Safari|Poison]])}}
+{{Availability/Entry1|v=Y|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Poison-type Safari|Poison]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{safari|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Weedle}}}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Viridian Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry1/None|v=Brilliant Diamond}}
+{{Availability/Entry1|v=Shining Pearl|area=[[Evolution|Evolve]] {{p|Weedle}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Tunnel]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Weedle}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 5]], [[Secret Storage 15]] Endless Level 14, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Joyous Tower]] (9F-13F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Apple Woods]] (8F-12F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Apple Woods]] (8F-12F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode B & A)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Haunted Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Misty Edgewater]]}}
+{{Availability/Entry1|1|v=PokéPark 2|color={{grass color}}|link=PokéPark 2: Wonders Beyond|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#All Aboard!|Model Train Room: All Aboard!]], [[Chill Battle#The Forest of Memories|Chill Battle: The Forest of Memories]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 2|Blade-and-Shield Path: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Castle Farm|Dewdrop Bay: Castle Farm]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Mewtwo Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Joyous Tower]] (9F-13F)<br/>Fainted Pokémon: [[Far-Off Sea]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 341]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync/player|egg|Weedle}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Bug|type2=Poison}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Poison
+|HP=45
+|Attack=25
+|Defense=50
+|SpAtk=25
+|SpDef=25
+|Speed=35
+|Special=25
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Poison
+|Speed=1
+|SpeedMax=3
+|Power=1
+|PowerMax=3
+|Technique=1
+|TechniqueMax=1
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Poison
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=50
+|Ground=100
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=25
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|gen1bug=yes
+|gen1poison=yes
+|oldbug=2
+|oldpoison=1
+}}
+
+===Learnset===
+Kakuna is available in {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Kakuna|Bug|Poison|1}}
+{{learnlist/level8|1|Harden|Normal|Status|&mdash;|&mdash;|30||}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Harden|Normal|Status|—|—|30}}
+{{learnlist/levelf/8|Kakuna|Bug|Poison|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/8|Weedle|Bug|Poison|1}}
+{{learnlist/tm8null}}
+{{learnlist/tmf/8|Weedle|Bug|Poison|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Kakuna|Bug|Poison|1}}
+{{learnlist/breed8null}}
+{{learnlist/breedf/8|Kakuna|Bug|Poison|1}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Kakuna|Bug|Poison|1}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Kakuna|Bug|Poison|1}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Kakuna|Bug|Poison|1}}
+{{learnlist/prevo8|013|Weedle|||||Poison Sting|Poison|Physical|15|100|35|'''|game=BDSP}}
+{{learnlist/prevo8|013|Weedle|||||String Shot|Bug|Status|&mdash;|95|40|||game=BDSP}}
+{{learnlist/prevo8|013|Weedle|||||Bug Bite|Bug|Physical|60|100|20|'''|game=BDSP}}
+{{learnlist/prevof/8|Kakuna|Bug|Poison|1}}
+
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|- style="background:#FFF;"
+| {{m|PoisonPowder}}
+| [[Kakuna (Base Set 33)]]<br>[[Kakuna (Skyridge 70)]]
+|- style="background:#FFF;"
+| {{m|Rollout}}
+| [[Kakuna (Vending S1)]]<br>[[Kakuna (EX Delta Species 46)]]
+|-
+| style="background:#FFF; {{roundybl|5px}}" | {{m|Headbutt}}
+| style="background:#FFF; {{roundybr|5px}}" | [[Kakuna (EX FireRed & LeafGreen 36)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Poison}}
+{{Spindata/Pinball|col=3|type=Bug|ndex=014|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=014|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=014
+|body=1
+|rate=-19
+|area=Mist-Rise Forest
+|P1=I'll use {{m|Harden}} and ride it out.
+|P2=I have only half my HP left.
+|P3=I have almost no HP left...
+|PL=Oh! I guess I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=014
+|body=1
+|rate=5
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=014
+|coset=3
+|conto={{p|Cascoon}}, {{p|Slakoth}}, {{p|Volcarona}}
+|recruitment=Rescue
+|P1=I won't budge! Not even a tiny bit!
+|P2=I may faint, but I won't flee…
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=014
+|walk=1.67
+|hp=46
+|attack=60
+|defense=44
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Bug|ndex=014
+|Pad=Kakuna fell off the White Tree at the entrance to the Haunted House in the [[Haunted Zone]].
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=014
+|pad=Kakuna don't do anything particular when they are together, but they feel safe being together.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=014
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=014|stype=Poison|num=424
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Last-Ditch Effort
+|skilldesc=Increases damage when things are looking desperate.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=014
+|hatch=N/A
+|buddy=1
+|candy=Weedle
+|evocandy=50
+|stamina=128
+|attack=46
+|defense=75
+|fast={{m|Bug Bite}}, {{m|Poison Sting}}
+|special={{m|Struggle}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=0013
+|name1=Weedle
+|type1-1=Bug
+|type2-1=Poison
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 7}}
+|no2=0014
+|name2=Kakuna
+|type1-2=Bug
+|type2-2=Poison
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 10}}
+|no3=0015
+|name3=Beedrill
+|type1-3=Bug
+|type2-3=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Poison}}
+{{Spritebox/1|ndex=014}}
+{{Spritebox/2|ndex=014}}
+{{Spritebox/3|ndex=014}}
+{{Spritebox/4|ndex=014}}
+{{Spritebox/5|ndex=014}}
+{{Spritebox/6|ndex=014|crop=59}}
+{{Spritebox/7/PE|ndex=014|crop=59|PEcrop=126}}
+<!--{{Spritebox/8/BDSP|ndex=014}}-->
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0014}}
+{{Spritebox/Footer|014|Kakuna}}
+
+==In animation==
+===Main series===
+[[File:Kakuna anime.png|thumb|250px|Kakuna in {{aniseries|JN}}]]
+[[File:Kakuna evolution anime.png|thumb|200px|Kakuna's original evolutionary method in {{aniseries|OS}}]]
+====Major appearances====
+Kakuna debuted in ''[[EP004|Challenge of the Samurai]]'', where multiple were seen in a hive. The Kakuna then evolved into {{p|Beedrill}} in defense of their hive.
+
+====Minor appearances====
+A Kakuna appeared in ''[[EP047|A Chansey Operation]]''.
+
+Multiple Kakuna appeared in ''[[EP065|Showdown at the Po-ké Corral]]''.
+
+In ''[[PK01|Pikachu's Vacation]]'', a Kakuna was at the [[Pokémon Theme Park]].
+
+In ''[[EP121|Illusion Confusion!]]'', a Kakuna was one of the illusions created by a group of {{p|Haunter}} and {{p|Gengar}}.
+
+In ''[[Mewtwo Returns]]'', multiple Kakuna were hanging near {{DL|Mount Quena|Purity River}}.
+
+In ''[[EP144|Gettin' The Bugs Out]]'', multiple Kakuna were living at the [[Azalea Gym]]. They assisted in apprehending {{TRT}} so they couldn't escape.
+
+Multiple Kakuna appeared in ''[[AG006|A Poached Ego!]]''.
+
+A Kakuna appeared in ''[[AG014|All in a Day's Wurmple]]''.
+
+A Kakuna appeared in ''[[AG155|The Green Guardian]]''.
+
+Multiple Kakuna appeared in ''[[AG163|Cutting the Ties that Bind!]]''.
+
+In ''[[DP031|The Grass-Type Is Always Greener!]]'', multiple Kakuna evolved into a swarm of Beedrill.
+
+In ''[[DP033|All Dressed Up With Somewhere To Go!]]'', a Kakuna dressed up as a {{p|Crawdaunt}} as part of the [[Pokémon Dress-Up Contest]].
+
+In ''[[BW124|Danger, Sweet as Honey!]]'', multiple Kakuna evolved into a swarm of Beedrill at [[Honey Island]].
+
+Four Kakuna appeared in ''[[M20|I Choose You!]]''.
+
+Two Kakuna appeared in a flashback in ''[[JN001|Enter Pikachu!]]''.
+
+Two Kakuna appeared in a video hologram in ''[[JN002|Legend? Go! Friends? Go!]]''.
+
+Multiple Kakuna appeared in ''[[JN006|Working My Way Back to Mew!]]'', where [[Goh]] caught {{DL|List of Goh's Pokémon|Weedle|one}}. Goh's Kakuna has since made further appearances in {{aniseries|JN}}.
+
+A Trainer's Kakuna appeared in ''[[JN070|Take My Thief! Please!]]''.
+
+A Kakuna appeared in ''[[JN137|The Road Most Traveled!]]'', where it evolved into Beedrill.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP004|Kakuna|Ash's Pokédex|Kakuna, a transitional stage between {{p|Weedle}} and {{p|Beedrill}}. {{tt|Kakunas|Correct form would have been ''Kakuna''}} remain inactive until they [[Evolution|evolve]] into deadly {{tt|Beedrills|Correct form would have been ''Beedrill''}} and hatch.}}
+{{Animedexfooter/Pokémon|Kanto}}
+
+===Pokémon Origins===
+In ''[[PO01|File 1: Red]]'', a Kakuna was one of the Pokémon seen in [[Professor Oak]]'s introduction.
+
+===POKÉTOON===
+Two Kakuna appeared in ''[[PT03|Blossom's Dream]]''.
+
+==In the manga==
+[[File:Schoolkid Kakuna Adventures.png|thumb|150px|Kakuna in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+====Minor appearances====
+Kakuna debuted in a cameo in ''[[PS002|Bulbasaur, Come Home!]]'' as one of the Pokémon that escapes from [[Professor Oak's Laboratory]].
+
+In ''[[PS091|Murkrow Row]]'', a Kakuna appeared as one of the Pokémon in {{adv|Gold}}'s house, also known as the House of Pokémon.
+
+[[Bugsy]] uses two Kakuna on his team, one of which first appeared in ''[[PS102|Ursaring Major]]''. It, a Metapod, and Bugsy visited the [[Azalea Town]]'s well where Team Rocket had been.
+
+{{adv|Crystal}} {{pkmn2|caught}} a Kakuna on her way to [[Professor Elm]]'s Lab in ''[[PS118|Three Cheers for Chikorita]]''.
+
+A Kakuna appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+In ''[[PS426|Softening Up Kakuna]]'', a Kakuna was used by a {{pkmn|Trainer}} that was challenging the {{gdis|Battle Factory|IV}}.
+
+[[File:Bugsy Kakuna PM.png|thumb|150px|Kakuna in [[Pokémon Pocket Monsters]]]]
+===Pokémon Pocket Monsters===
+A Kakuna appeared in ''[[PM008|Catch That Pokémon Thief!!]]''.
+
+A Kakuna appeared in ''[[PM079|The Hardest Bug Pokémon Wins?!]]'', under the ownership of [[Bugsy]].
+
+===Pokémon Ruby-Sapphire===
+A Kakuna appeared in ''[[PMRS02|I Won't Let You Lead!!]]''.
+
+===Magical Pokémon Journey===
+A Kakuna appeared in ''[[PPP01|How Do You Do, Pikachu?]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Kakuna appeared in a background collage in ''[[GDZ09|Catch the Poliwag!]]''.
+
+===Pokémon Gold & Silver: The Golden Boys===
+[[Bugsy]] has a Kakuna that was first seen in ''[[GB04|Let's Aim For The Goal]]''.
+
+===Pokémon Journeys===
+Two Kakuna appeared in ''[[JNM01|Legend? Check! Friends? Check!]]''.
+
+[[Goh]] caught a Kakuna in ''[[JNM03|Battle Frontier Challenge: The Flute Cup!]]'', just like he does in the [[Pokémon Journeys: The Series|animated series]].
+
+==In the TCG==
+{{main|Kakuna (TCG)}}
+
+==Trivia==
+* Kakuna shares its {{pkmn|category}} with {{p|Metapod}}, {{p|Silcoon}}, and {{p|Cascoon}}. They are all known as the Cocoon Pokémon.
+** They also share the same [[Base stats|base stat]] total, move learnset, [[Ability]], and EV yield.
+*** This ties them as the evolved Pokémon with the lowest base stat total.
+* Kakuna has the lowest base {{stat|Attack}} stat of all {{type|Poison}} Pokémon.
+* In the [[Pokémon Red and Green beta|Pokémon Red and Blue beta]], "Kokoon" was the prototype English name for Kakuna. This is similar to its romanized Japanese name.
+* Kakuna's English name resembles a Japanese name, translating perfectly into "カクナ", than its actual Japanese name, Cocoon.
+* In ''[[Pokémon the Series]]'', Kakuna is explicitly shown evolving more than any other Pokémon.{{specify|How many times?}}
+* Kakuna and its evolved form, {{p|Beedrill}}, are the only {{DL|List of Pokémon by color|yellow}} Poison-type Pokémon.
+
+===Design variations===
+[[File:Bandai Kakuna card.jpg|thumb|150px|Kakuna's arms extended in [[Ken Sugimori]] artwork]]
+The "arms" on Kakuna seen in its {{2v2|Red|Blue}} sprite are commonly mistaken to be a sprite error, as they are rarely shown in any other media. They have so far only been shown on its Red and Blue sprite and a [[Bandai Pokémon Carddass Cards|Pocket Monsters Bandai card]].
+
+===Concept and development===
+Kakuna and its evolutionary relatives were designed by [[Atsuko Nishida]].<ref>[https://web.archive.org/web/19980121112202fw_/http://www.gamefreak.co.jp/POKEMON/INTER/ATSUKO/INTER_AT.HTM Interview with Atsuko Nishida on Game Freak's website]</ref>
+
+===Origin===
+Kakuna appears to be based on the {{wp|pupa|pupal stage}} of a {{wp|bee}} or {{wp|wasp}}. Its tendency to dangle from a thread (as seen in the {{pkmn|animated series}} and some {{spin-off games}}) may also be based on certain {{wp|parasitoid wasp}}s whose larvae construct hanging {{wp|Pupa#Cocoon|cocoons}}.
+
+====Name origin====
+Kakuna may be a corruption of ''{{wp|Pupa#Cocoon|cocoon}}''. 
+
+Cocoon is literally ''cocoon''.
+{{-}}
+
+==In other languages==
+{{Other languages|type=Bug|type2=Poison
+|ja=コクーン ''Cocoon''|jameaning=From ''cocoon''
+|fr=Coconfort|frmeaning=From ''{{tt|cocon|cocoon}}'', ''{{tt|confort|comfort}}'', and ''{{tt|fort|strong}}''
+|es=Kakuna|esmeaning=Same as English name
+|de=Kokuna|demeaning=From ''{{tt|Kokon|cocoon}}''
+|it=Kakuna|itmeaning=Same as English name
+|ko=딱충이 ''Ttakchungi''|komeaning=From {{tt|딱딱하다 ''ttakttakhada''|(to be) hard, stiff}}, {{tt|충 ''chung''|insect}} and {{tt|이 ''i''|diminutive suffix}}
+|zh_cmn=鐵殼蛹 / 铁壳蛹 ''Tiěkéyǒng''{{tt|*|Games}}<br>鐵殼昆 / 铁壳昆 ''Tiěkékūn''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|鐵 / 铁 ''tiě''|iron}}, {{tt|殼 / 壳 ''ké''|shell}}, and {{tt|蛹 ''yǒng''|pupa}}<br>From {{tt|鐵 / 铁 ''tiě''|iron}}, {{tt|殼 / 壳 ''ké / qiào''|shell}}, and {{tt|昆蟲 ''kūnchóng''|insect}}
+|zh_yue=鐵殼蛹 ''Tithokyúng''|zh_yuemeaning=From {{tt|鐵 ''tit''|iron}}, {{tt|殼 ''hok''|shell}}, and {{tt|蛹 ''yúng''|pupa}}
+|da=Puppe {{tt|*|EP004}}|dameaning=Literally ''Cocoon''
+|he=קאקונה ''Kakuna''|hemeaning=Transcription of English name
+|hi=ककूना ''Kakuna''|himeaning=Transcription of English name
+|lt=Kakuna|ltmeaning=Same as English
+|ru=Какуна ''Kakuna''|rumeaning=Transcription of English name
+|th=โคคูน ''Khokhun''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Giovanni's Kakuna]]
+
+==References==
+<references />
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0013|prev=Weedle|nextnum=0015|next=Beedrill|round=yes}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appear in Pokémon Snap]]
+
+[[de:Kokuna]]
+[[es:Kakuna]]
+[[fr:Coconfort]]
+[[it:Kakuna]]
+[[ja:コクーン]]
+[[zh:铁壳蛹]]

@@ -1,0 +1,391 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Grubbin}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0735|prev=Gumshoos|nextnum=0737|next=Charjabug|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Grubbin
+|jname=アゴジムシ
+|tmname=Agojimushi
+|ndex=0736
+|type1=Bug
+|category=Larva
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=9.7
+|weight-kg=4.4
+|abilitylayout=1
+|ability1=Swarm
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=1
+|evat=1
+|expyield=60
+|lv100exp=1,000,000
+|gendercode=127
+|color=Gray
+|catchrate=255
+|body=14
+|pokefordex=grubbin
+|generation=7
+|friendship=70
+}}
+'''Grubbin''' ([[List of Japanese Pokémon names|Japanese]]: '''アゴジムシ''' ''Agojimushi'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] into {{p|Charjabug}} starting at [[level]] 20, which evolves into {{p|Vikavolt}} when [[level]]ed up in a [[special magnetic field]] or when exposed to a [[Thunder Stone]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+Grubbin is a small, insectoid {{OBP|Pokémon|species}}. It has a white body with three nubs on either side resembling simple legs. There are two yellow spots on its side. Its head is dominated by two large, yellow mandibles with reddish-orange tips. The rest of its head is brown and has a reddish-orange structure with a yellow rim on top. It has large, black eyes with white pupils.
+
+Grubbin typically lives underground. It uses its jaw as a weapon, a tool for burrowing, and for extracting sap from trees. Additionally, it can create sticky threads, which it shoots from its mouth and uses to swing around as though on suspension wires. It also uses these threads to stop opponents from moving, so it can then grab them in its mandibles, which are strong enough to snap thick tree branches. Even its natural enemies, such as {{p|Rookidee}} and {{p|Hoothoot}}, would rather run away than risk getting caught in its mandibles. It loves electricity and can be found near power plants. They can also be found near {{type|Electric}} Pokémon, as a means of avoiding attacks from bird-like Pokémon.<ref>[http://www.pokemon-sunmoon.com/en-us/pokemon/grubbin/ Pokémon Sun and Moon site | Grubbin]</ref> As mentioned in [[Pokémon Sleep]], Grubbin uses its mandibles to makes nests underground. It has been observed sleeping in the dirt. It is believed that the dirt it sleeps in is possibly fluffy and comfortable.
+
+===Evolution===
+Grubbin evolves into {{p|Charjabug}}, which evolves into {{p|Vikavolt}}.
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|type1=Bug
+|no1=0736
+|name1=Grubbin
+|type1-1=Bug
+|evo1=
+|no2=0737
+|name2=Charjabug
+|type1-2=Bug
+|type2-2=Electric
+|evo2=
+|no3=0738
+|name3=Vikavolt
+|type1-3=Bug
+|type2-3=Electric}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=027|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=034|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.}}
+{{Dex/Entry1|v=Moon|entry=They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=If you find its nest, you shouldn't stick your hand inside. You'll get bitten by an irritated Grubbin.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=016|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its natural enemies, like {{P|Rookidee}}, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=112|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Grubbin normally live underground, but if they get unearthed by Hoothoot, they may be found gathered around electric Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It spits sticky thread and winds them around branches, then swings nimbly from tree to tree in a pendulum-like motion.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{bug color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{bug color dark}}; background:#{{bug color light}}| [[File:Pokédex Image Grubbin SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{bug color dark}}; background:#{{bug color light}}| [[File:Pokédex Image Grubbin USUM.png|x200px]]
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}}| [[File:Pokédex Image Grubbin SV Kitakami.png|x200px]]
+|-
+| Grubbin in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Grubbin in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Grubbin in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|4|Alola}}, {{rtn|5|Alola}}, and {{rtn|6|Alola}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|4|Alola}}, {{rtn|5|Alola}}, and {{rtn|6|Alola}}<br/>[[Blush Mountain]]{{sup/t|D}} ([[SOS Battle]])}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|1|Galar}}, [[Dappled Grove]], [[East Lake Axewell]], [[North Lake Miloch]], [[Slumbering Weald]], [[Watchtower Ruins]]<br>[[Bridge Field/Dens|Bridge Field]], [[Dappled Grove/Dens|Dappled Grove]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Kitakami Road]], [[Apple Hills]], [[Fellhorn Gorge]], [[Oni Mountain]], [[Wistful Fields]], [[Paradise Barrens]], [[Kitakami Wilds]], [[Timeless Woods]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Kitakami)|Grubbin|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Basic 5)<small>(Events only)</small><br>[[Old Gold Power Plant]] (from Basic 1)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#18th release|''Pokémon Safari'']] <small>(18th release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|HP=47
+|Attack=62
+|Defense=45
+|SpAtk=55
+|SpDef=45
+|Speed=46
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Grubbin|Bug|Bug|7}}
+{{learnlist/level9|1|Vise Grip|Normal|Physical|55|100|30||}}
+{{learnlist/level9|1|Mud-Slap|Ground|Special|20|100|10||}}
+{{learnlist/level9|5|String Shot|Bug|Status|—|95|40||}}
+{{learnlist/level9|10|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level9|15|Bite|Dark|Physical|60|100|25||}}
+{{learnlist/level9|21|Spark|Electric|Physical|65|100|20||''}}
+{{learnlist/level9|25|Sticky Web|Bug|Status|—|—|20||}}
+{{learnlist/level9|30|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/level9|35|Crunch|Dark|Physical|80|100|15||}}
+{{learnlist/level9|40|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/levelf/8|Grubbin|Bug|Bug|7}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Grubbin|Bug|Bug|7}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||''}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20||}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15||}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||''}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40||}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10||}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20||}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||''}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tmf/9|Grubbin|Bug|Bug|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Grubbin|Bug|Bug|7}}
+{{learnlist/breed9|{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0737|Charjabug}}{{MSP/H|0738|Vikavolt}}|Discharge|Electric|Special|80|100|15||''|grid=4}}
+{{learnlist/breed9|{{MSP/H|0207|Gligar}}{{MSP/H|0472|Gliscor}}{{MSP/H|0665|Spewpa}}|Harden|Normal|Status|—|—|30|||grid=4}}
+{{learnlist/breedf/9|Grubbin|Bug|Bug|7}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/Shuffle|col=6|type=Bug|ndex=736|num=739
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Rock Break
+|skilldesc=Destroys one breakable-rock disruption without fail.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=736
+|walk=3.33
+|hp=47
+|attack=68
+|defense=46
+|speed=60
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=736
+|hatch=N/A
+|buddy=1
+|candy=Grubbin
+|evocandy=25
+|stamina=132
+|attack=115
+|defense=85
+|fast={{m|Spark}}, {{m|Bug Bite}}
+|special={{m|X-Scissor}}, {{m|Crunch}}, {{m|Vise Grip}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0736
+|pokemon=Grubbin
+|sleeptype=Dozing
+|type=Bug
+|dexentry=It uses its large mandibles to dig into the ground and build a nest. Perhaps the dirt it works up is fluffy and comfortable—it has been found sleeping while nestled in this dirt.
+|sleepstyle1=Wobbling Sleep
+|sleepstyle2=Stretched Sleep
+|sleepstyle3=Tunneling Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=5
+|specialty=Ingredients
+|candyNum=40
+|evolution=Lv. 15
+|berry=Lum
+|ingredient1=Rousing Coffee
+|ingredient2=Tasty Mushroom
+|ingredient3=Honey
+|carrylimit=11
+|skillname=Charge Strength S
+|skilldesc=Increases Snorlax's Strength by 400.
+}}
+|}
+
+===Evolution data===
+Grubbing [[Evolution|evolves]] into {{p|Charjabug}} starting at [[level]] 20, which evolves into {{p|Vikavolt}} when [[level]]ed up in a [[special magnetic field]]. There is no special magnetic field in {{g|Sword and Shield}}, so from [[Generation VIII]] onwards, Charjabug is also able to evolve into Vikavolt when exposed to a [[Thunder Stone]].
+{{Evobox/Grubbin|type1=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=736|crop=57}}
+{{Spritebox/8|ndex=736}}
+<!--{{Spritebox/9|ndex=0736}}-->
+{{Spritebox/HOME|ndex=0736}}
+{{Spritebox/Footer|736|Grubbin}}
+
+==In animation==
+[[File:Bamboo Hill Grubbin.png|thumb|250px|Grubbin in {{aniseries|SM}}]]
+===Major appearances===
+A {{pkmn2|wild}} Grubbin debuted in ''[[SM001|Alola to New Adventure!]]''. {{Ash}} chased after it as it went underground, but lost track of it. Grubbin reappeared in ''[[SM003|Loading the Dex!]]'' during a flashback.
+
+Ash attempted to {{pkmn2|caught|catch}} another wild Grubbin in ''[[SM004|First Catch in Alola, Ketchum-Style!]]'' by having {{AP|Pikachu}} battle it. However, he was unable to catch it when it escaped the {{i|Poké Ball}} and went underground. Grubbin managed to scare {{an|Lillie}} when it popped back up before [[Escape|escaping]].
+
+===Minor appearances===
+A Grubbin appeared as an image in ''[[SM003|Loading the Dex!]]'' when {{an|Giovanni}} was telling {{TRT}} about the rare Pokémon that appear in the [[Alola]] [[region]].
+
+A wild Grubbin appeared in ''[[SM020|Partner Promises!]]''.
+
+A {{pkmn|Trainer}}'s Grubbin appeared in ''[[SM042|Alola, Kanto!]]'' aboard a plane bound for [[Kanto]].
+
+Multiple Grubbin appeared in ''[[SM069|Rise and Shine, Starship!]]'', where they were summoned by {{an|Sophocles}}'s {{TP|Sophocles|Charjabug}} to assist in digging up a {{p|Celesteela}} at [[Bamboo Hill]].
+
+A Grubbin appeared in ''[[SM071|Dewpider Ascending!]]'', where it briefly chased a {{p|Dewpider}}, grabbing it in its pincers.
+
+A Trainer's Grubbin appeared in ''[[SM086|I Choose Paradise!]]'', where it was among the Pokémon seen at the [[Pokémon Paradise Resort]].
+
+A Trainer's Grubbin appeared in ''[[SM090|Securing the Future!]]'', where it joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|true form}}.
+
+Two Grubbin appeared in ''[[SM100|Battling the Beast Within!]]'' as residents of the post-apocalyptic [[Ultra Ruin]]. One of them reappeared in [[SM101|the next episode]].
+
+A Grubbin appeared in the past in ''[[SM125|A Timeless Encounter!]]''.
+
+A Trainer's Grubbin appeared in ''[[SM129|Battle Royal 151!]]'', where it competed in the [[Battle Royal]] preliminary round of the [[Manalo Conference]] but ended up losing.
+
+A Trainer's Grubbin appeared in ''[[SM130|Battling Besties!]]''.
+
+Three Grubbin appeared in ''[[JN005|Mind-Boggling Dynamax!]]'', with one under the ownership of a Trainer and the other two being among the Pokémon seen in the [[Wild Area]].
+
+In ''[[JN037|That New Old Gang of Mine!]]'', [[Goh]] chased after a Grubbin in an attempt to catch it, only for it to go underground.
+
+In ''[[JN050|A Pinch of This, a Pinch of That!]]'', three Grubbin were in the Wild Area.
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM004|Grubbin|Rotom Pokédex|Grubbin, the Larva Pokémon. A {{t|Bug}} type. Grubbin scrapes trees with its large jaws and drinks their sap. It makes its home underground.}}
+{{Animedexfooter/Pokémon|Alola}}
+
+==In the manga==
+[[File:Moon Grubbin Adventures.png|thumb|170px|Grubbin in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Grubbin debuts in ''[[PASM06|The Party Crasher and Guzma the Destroyer]]'', where one appears under the ownership of {{adv|Moon}}. He evolved into {{p|Charjabug}} sometime before ''[[PASM19|Truth and the Mastermind Behind Team Skull]]''.
+{{-}}
+
+==In the TCG==
+{{main|Grubbin (TCG)}}
+==Trivia==
+* Grubbin, along with its evolved forms, were designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/804500572967555072 Tweet by ありがひとし/ArigaHitoshi (@ariga_megamix).] Posted on December 2, 2016.</ref>
+* Grubbin shares its {{pkmn|category}} with {{p|Blipbug}}. They are both known as the Larva Pokémon.
+** Both Grubbin and Blipbug are also the only pure {{type|Bug}} Pokémon of their respective [[generation]].
+
+===Origin===
+Grubbin appears to be based on a {{wp|larva}}l {{wp|beetle}}, also known as a grub. It also bears resemblance to a common two-pronged electrical plug, which is further backed by the fact that it gains the {{t|Electric}} type upon evolving into Charjabug.
+
+====Name origin====
+Grubbin may be a combination of ''grub'' and ''grubbing'' (to scavenge or dig). Given its resemblance to an electrical plug, it may also be a play on the phrase "plug in".
+
+Agojimushi may be a combination of 顎 ''ago'' (jaw) and 地虫 ''jimushi'' (grub).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=アゴジムシ ''Agojimushi''|jameaning=From {{tt|顎 ''ago''|jaw}} and {{tt|地虫 ''jimushi''|grub}}
+|fr=Larvibule|frmeaning=From {{tt|''larve''|larva}} and {{tt|mandibule''|mandible}}
+|es=Grubbin|esmeaning=Same as English name
+|de=Mabula|demeaning=From {{tt|''Made''|maggot}} and {{tt|''Mandibula''|mandible}}
+|it=Grubbin|itmeaning=Same as English name
+|ko=턱지충이 ''Teokjichung-i''|komeaning=From {{tt|턱 ''teok''|jaw}}, {{tt|지충 (地蟲) ''jichung''|grub}}, and {{tt|이 ''i''|dimunitive suffix}}
+|zh_cmn=強顎雞母蟲 / 强颚鸡母虫 ''Qiáng'èjīmǔchóng''|zh_cmnmeaning=From {{tt|強顎 / 强颚 ''qiáng'è''|strong jaw}} and {{tt|雞母蟲 / 鸡母虫 ''jīmǔchóng''|grub}}
+|zh_yue=強顎雞母蟲 ''Kèuhngngohkgāimóuhchùhng''|zh_yuemeaning=From {{tt|強顎 ''kèuhngngohk''|strong jaw}} and {{tt|雞母蟲 ''gāimóuhchùhng ''|grub}}
+|hi=टस्कुला ''Tuskula''|himeaning=From ''tusk''
+|ru=Граббин ''Grabbin''|rumeaning=Transcription of English name
+|th=อโกจิมูชิ ''Akochimuchi''|thmeaning=Transcription of Japanese name
+}}
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0735|prev=Gumshoos|nextnum=0737|next=Charjabug}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Mabula]]
+[[es:Grubbin]]
+[[fr:Larvibule]]
+[[it:Grubbin]]
+[[ja:アゴジムシ]]
+[[zh:强颚鸡母虫]]

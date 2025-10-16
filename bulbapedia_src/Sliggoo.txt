@@ -1,0 +1,623 @@
+{{PokémonPrevNext/Head|type=Dragon}}
+{{PokémonPrevNext/GO|species=Sliggoo}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=0704|prev=Goomy|nextnum=0706|next=Goodra|round=none}}
+{{PokémonPrevNext/Disambig|species=Sliggoo}}
+|}
+{{Pokémon Infobox
+|name=Sliggoo
+|jname=ヌメイル
+|tmname=Numeil
+|jtranslit=Numeiru
+|category={{tt|Soft Tissue|Sliggoo}} Pokémon<br/>{{tt|Snail|Hisuian Sliggoo}}
+|ndex=0705
+|forme=2
+|form1=Sliggoo
+|form2=Hisuian Sliggoo
+|image2=0705Sliggoo-Hisui.png
+|type1=Dragon
+|form2type1=Steel
+|form2type2=Dragon
+|abilityn=2d
+|abilitylayout=2+1
+|abilitycold=2
+|ability1=Sap Sipper
+|ability2=Hydration
+|ability2-1=Sap Sipper
+|ability2-2=Shell Armor
+|abilityd=Gooey
+|height-ftin=2'07"
+|height-m=0.8
+|height-ftin2=2'04"
+|height-m2=0.7
+|weight-lbs=38.6
+|weight-kg=17.5
+|weight-lbs2=151.0
+|weight-kg2=68.5
+|egggroupn=1
+|egggroup1=Dragon
+|gendercode=127
+|eggcycles=40
+|evtotal=2
+|evsd=2
+|expyield=158
+|lv100exp=1,250,000
+|color=Purple
+|catchrate=45
+|body=02
+|pokefordex=sliggoo
+|generation=6
+|friendship=35
+}}
+'''Sliggoo''' ([[List of Japanese Pokémon names|Japanese]]: '''ヌメイル''' ''Numeil'') is a {{type|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Goomy}} starting at [[level]] 40 and evolves into {{p|Goodra}} starting at level 50 when leveled up during [[rain]] in the overworld.
+
+In [[Hisui]], Sliggoo has a dual-type {{2t|Steel|Dragon}} [[regional form]]. It evolves from Goomy starting at level 40 and evolves into {{rf|Hisuian}} Goodra starting at level 50 during rain in the overworld.
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+Sliggoo is a {{OBP|Pokémon|species}} that resembles a {{wp|snail}}. The lower half of its body is light purple, while the upper half is a paler purple. It has featureless, green eyes, a single, tiny eyelash over each eye, and two pale green spots on each cheek. It has nubby, underdeveloped arms. On top of its head are two pairs of antenna-like horns; the front horns are small nubs, while the hind horns are considerably longer. Its gelatinous body forms a spiral shell-like structure on its back. Contained within the shell are its brain, heart, and other organs.
+
+Sliggoo excretes and coats its body with sticky mucus that can dissolve anything. Because it lacks teeth, it sprays this liquid onto prey and slurps them up once they are dissolved. Since its slime can melt through anything, predators stay far away from it. Its eyes have devolved, causing it to go blind. This makes it difficult for it to tell allies from prey and it will sometimes attempt to melt its companions. Its four horns act as a radar system and are used to detect sounds and smells. Sliggoo only cares about food and will flee from its enemies whenever possible.
+
+Prior to [[Generation IX]], Sliggoo and its evolutionary relatives were the [[Signature Ability|only known Pokémon]] that could have {{a|Gooey}} as an [[Ability]].
+
+===Forms===
+Sliggoo has an ancient [[regional form]]: Hisuian Sliggoo.
+
+Hisuian Sliggoo has droopy, teal eyes that imply its melancholic personality, and carries a metallic spiral shell that lies parallel to the ground. Unlike its Kalosian form, it has one teal spot on each cheek rather than two. It tucks almost its entire body inside this shell, and will only let out its head, neck, and arms to peek outside.
+
+When Hisuian Sliggoo wants to move quickly, it will tuck its entire body into its shell, position the shell vertically to the ground, and roll itself away. It can also use its shell to float on water. It's theorized that the shell was created as a result of Hisuian Sliggoo's slime reacting with the iron-rich waters of Hisui. Both forms of Sliggoo can typically be found within marshlands or near bodies of water. It has been seen in [[Kitakami]] during the rare [[Poké Portal News|Mass outbreak]] events.
+
+Hisuian Sliggoo and its evolutionary relatives are the [[signature move|only known Pokémon]] capable of learning the move {{m|Shelter}}.
+
+===Evolution===
+Sliggoo evolves from {{p|Goomy}} and evolves into {{p|Goodra}}.
+
+In [[Hisui]], Sliggoo has a [[regional form]] that evolves from Goomy and evolves into {{rf|Hisuian}} Goodra.
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/2branch1
+|type1=Dragon
+|no1=0704
+|name1=Goomy
+|type1-1=Dragon
+|evo1a=
+|no2a=0705
+|name2a=Sliggoo
+|type1-2a=Dragon
+|evo1b=
+|art2b=0705Sliggoo-Hisui
+|name2b=Sliggoo
+|type1-2b=Steel
+|type2-2b=Dragon
+|form2b=Hisuian Form
+|evo2a=
+|evo2b=
+|no3a=0706
+|name3a=Goodra
+|type1-3a=Dragon
+|art3b=0706Goodra-Hisui
+|name3b=Goodra
+|type1-3b=Steel
+|type2-3b=Dragon
+|form3b=Hisuian Form
+}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dragon}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=020|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=179|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=218|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon's mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they're nicely dissolved, it slurps them up.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Its entire body is covered with gooey mucus that can dissolve anything. Be sure to put gloves on if you're going to touch it.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=390|reg2=Galar|label2=Isle of Armor|num2=061|reg3=Sinnoh|reg4=Hisui|num4=116}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond and Shining Pearl]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Although this Pokémon isn't very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.}}
+{{Dex/Form|Hisuian Sliggoo}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui's water.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=173|reg2=Kitakami|num2=179|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=The swirly protrusion on its back is filled with all its vital organs, such as its brain and heart.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=When Sliggoo senses danger, the mucus coating its entire body becomes more concentrated— it'll dissolve anything.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{dragon color dark}}; background:#{{dragon color}}; font-size:80%; border-radius: 10px"
+|-
+| style="{{roundy|20px}} border:2px solid #{{dragon color dark}}; background:#{{dragon color light}}| [[File:Pokédex Image Sliggoo SM.png|x200px]]
+|style="border:2px solid #{{dragon color light}}; background:#{{dragon color light}} | [[File:Pokédex Image Sliggoo SV.png|x200px]]
+|style="border:2px solid #{{dragon color light}}; background:#{{dragon color light}} | [[File:Pokédex Image Sliggoo SV Kitakami.png|x200px]]
+|-
+| Sliggoo in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Sliggoo in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Sliggoo in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|19|Kalos}}, [[Friend Safari]] ([[Friend Safari#Dragon-type Safari|Dragon]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Exeggutor Island]] ([[SOS Battle]] in {{weather|rain}})}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Exeggutor Island]] ([[SOS Battle]] in {{weather|rain}})}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1/None|v=Sword}}
+{{Availability/Entry1|v=Shield|t=FFF|area=[[Lake of Outrage]]<br>[[Axew's Eye/Dens|Axew's Eye]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|color={{shield color dark}}|v=Shield Expansion Pass|t=fff|link=Pokémon Sword and Shield Expansion Pass|area=[[Loop Lagoon/Dens|Loop Lagoon]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Crimson Mirelands]]:''' [[Holm of Trials]]&nbsp;[[File:Alpha icon.png|link=Alpha Pokémon|14px]], [[Ursa's Ring]] ([[mass outbreak]]s), massive mass outbreaks <small>('''Hisuian Form''')</small><br>'''[[Coronet Highlands]]:''' near [[Ancient Quarry]] <small>('''Hisuian Form''')</small><br>Unobtainable <small>('''Kalosian Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[West Province (Area Three)|Area Three]] <small>('''Kalosian Form''')</small><br>North Province: [[Casseroya Lake]] <small>('''Kalosian Form''')</small><br>South Province: [[South Province (Area Four)|Area Four]] ({{t|Poison}} {{Tera}} [[Type]]) <small>('''Kalosian Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Sliggoo|4★}}) <small>('''Kalosian Form''')</small><br>[[Evolution|Evolve]] {{p|Goomy}} in {{g|Legends: Arceus}} via {{g|HOME}} <small> ('''Hisuian Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Timeless Woods]] <small>('''Kalosian Form''')</small><br>[[Poké Portal News]], [[Evolution|Evolve]] {{p|Goomy}} in {{g|Legends: Arceus}} via {{g|HOME}} <small>('''Hisuian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 4|Mountain of Order: Stage 4]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Forgotten Forest|Dark Land: Forgotten Forest]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zygarde Sea]], [[Greninja Sea]], [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 229]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+====Sliggoo====
+{{HeldItems/header|type=Dragon}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Items1|Shed Shell|5|rows=3}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Sword|Shield|tcolor2=FFF|Pokémon Sword and Shield|tcolor1={{sword color}}|gcolor1=fff}}
+|}
+
+====Hisuian Sliggoo====
+{{HeldItems/header|type=Steel|type2=Dragon}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Springy Mushroom|35|Ball of Mud|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+=====Sliggoo=====
+{{Stats
+|type=Dragon
+|HP=68
+|Attack=75
+|Defense=53
+|SpAtk=83
+|SpDef=113
+|Speed=60
+}}
+
+=====Hisuian Sliggoo=====
+{{BaseStats
+|type=Steel
+|type2=Dragon
+|HP=     58
+|Attack= 75
+|Defense= 83
+|SpAtk= 83
+|SpDef= 113
+|Speed= 40}}
+
+===Type effectiveness===
+====Sliggoo====
+{{TypeEffectiveness
+|type1=Dragon
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=50
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=200
+|Dark=100
+|Fairy=200
+|notes=yes
+|sapsipper=maybe
+}}
+
+====Hisuian Sliggoo====
+{{TypeEffectiveness
+|type1=Steel
+|type2=Dragon
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|steel=yes
+|newpoison=1
+|sapsipper=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Sliggoo=====
+{{learnlist/levelh/9|Sliggoo|Dragon|Dragon|6}}
+{{learnlist/level9|1|Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25}}
+{{learnlist/level9|1|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/level9|15|Protect|Normal|Status|—|—|10}}
+{{learnlist/level9|20|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level9|25|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/level9|30|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level9|35|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level9|43|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level9|49|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level9|56|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/levelf/9|Sliggoo|Dragon|Dragon|6}}
+
+=====Hisuian Sliggoo=====
+{{learnlist/levelh/9|Sliggoo|Steel|Dragon|8}}
+{{learnlist/level9|1|Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25}}
+{{learnlist/level9|1|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Shelter|Steel|Status|—|—|10}}
+{{learnlist/level9|15|Protect|Normal|Status|—|—|10}}
+{{learnlist/level9|20|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level9|25|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/level9|30|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level9|35|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level9|43|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level9|49|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level9|56|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/levelf/9|Sliggoo|Steel|Dragon|8}}
+
+====By [[TM]]====
+=====Sliggoo=====
+{{learnlist/tmh/9|Sliggoo|Dragon|Dragon|6}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM209|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Sliggoo|Dragon|Dragon|6}}
+
+=====Hisuian Sliggoo=====
+{{learnlist/tmh/9|Sliggoo|Steel|Dragon|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM124|Ice Spinner|Ice|Physical|80|100|15}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tm9|TM209|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Sliggoo|Steel|Dragon|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Sliggoo|Dragon|Dragon|6}}
+{{learnlist/breed9|{{MSP/H|0004|Charmander}}{{MSP/H|0559|Scraggy}}{{MSP/H|0610|Axew}}|Counter|Fighting|Physical|—|100|20|*|grid=2}}
+{{learnlist/breed9|{{MSP/H|0350|Milotic}}|Life Dew|Water|Status|—|—|10|grid=2}}
+{{learnlist/breedf/9|Sliggoo|Dragon|Dragon|6}}
+
+====By a prior [[Evolution]]====
+=====Sliggoo=====
+{{learnlist/prevoh/9|Sliggoo|Dragon|Dragon|6}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Sliggoo|Dragon|Dragon|6}}
+
+=====Hisuian Sliggoo=====
+{{learnlist/prevoh/9|Sliggoo|Steel|Dragon|8}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Sliggoo|Steel|Dragon|8}}
+
+====Special moves====
+=====Sliggoo=====
+{{learnlist/eventh/9|Sliggoo|Dragon|Dragon|6}}
+{{learnlist/event9|[[South Province (Area Four)|Wild Tera Pokémon]]|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/eventf/9|Sliggoo|Dragon|Dragon|6}}
+
+===Side game data===
+====Sliggoo====
+{{Spindata/Head|type=Dragon}}
+{{Spindata/PSMD|col=6|type=Dragon|ndex=705
+|coset=13
+|conto={{p|Poliwhirl}}
+|recruitment=Escort to open the locked door at [[Flagstone Cave]]
+|P1=How's your body? Is it nice and slimy like mine today?
+|P2=Oh no! My slime's drying up!
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Dragon|ndex=705
+|walk=2.22
+|hp=53
+|attack=76
+|defense=56
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Dragon|ndex=705
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Dragon|ndex=705|num=289
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Dragon|ndex=705
+|hatch=N/A
+|buddy=5
+|candy=Goomy
+|evolution={{candy|Goomy}}100 + {{bag/GO|Rainy Lure Module}} or [[File:Rain icon GO.png|20px|link=Weather|Rain]]
+|stamina=169
+|attack=159
+|defense=176
+|fast={{m|Water Gun}}, {{m|Tackle}}
+|special={{m|Dragon Pulse}}, {{m|Sludge Wave}}, {{m|Muddy Water}}, {{m|Water Pulse}}
+}}
+|}
+
+====Hisuian Sliggoo====
+{{Spindata/Head|type=Steel|type2=Dragon}}
+{{Spindata/GO|col=6|type=Steel|ndex=0705H
+|hatch=N/A
+|buddy=5
+|candy=Goomy
+|evocandy=
+|stamina=151
+|attack=153
+|defense=190
+|fast=
+|special=
+}}
+|}
+
+===Evolution data===
+Sliggoo [[Evolution|evolves]] from {{p|Goomy}} starting at [[level]] 40 and evolves into {{p|Goodra}} starting at level 50 when leveled up during [[rain]] in the overworld. In [[Generation VII]] only, Sliggoo will also evolve when leveled up during [[fog]] in the overworld. Rain instigated by {{m|Rain Dance}}, {{a|Drizzle}}, or {{a|Primordial Sea}} will not trigger Sliggoo's Evolution.
+
+In [[Hisui]], Sliggoo has a dual-type {{2t|Steel|Dragon}} [[regional form]]. It evolves from Goomy starting at level 40 and evolves into Hisuian Goodra starting at level 50 during rain in the overworld. All Goomy in Hisui will evolve into Hisuian Sliggoo regardless of their [[game of origin]].
+{{Evobox/2branch1
+|type1=Dragon
+|no1=0704
+|name1=Goomy
+|type1-1=Dragon
+|evo1a={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}<br>outside of {{color2|000|Hisui}}
+|no2a=0705
+|name2a=Sliggoo
+|type1-2a=Dragon
+|evo1b={{Bag/s|Rare Candy|SV}} + [[File:Hisui Ribbon IX.png|40px|link=Hisui]]<br>{{color2|000|Level|Level 40}}<br>in {{color2|000|Hisui}}
+|art2b=0705Sliggoo-Hisui
+|name2b=Sliggoo
+|type1-2b=Steel
+|type2-2b=Dragon
+|form2b=Hisuian Form
+|evo2a={{Bag/s|Rare Candy|SV}} + [[File:Rain icon SwSh.png|40px]]<br>{{color2|000|Level|Level 50}}<br><small>(during {{color2|000|rain}})</small>
+|evo2b={{Bag/s|Rare Candy|SV}} + [[File:Rain icon SwSh.png|40px]]<br>{{color2|000|Level|Level 50}}<br><small>(during {{color2|000|rain}})</small>
+|no3a=0706
+|name3a=Goodra
+|type1-3a=Dragon
+|art3b=0706Goodra-Hisui
+|name3b=Goodra
+|type1-3b=Steel
+|type2-3b=Dragon
+|form3b=Hisuian Form
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Dragon}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=705|crop=81}}
+{{Spritebox/7|ndex=705|crop=82}}
+{{Spritebox/8/LAForm|ndex=705|form1=H|LAcrop=132}}
+<!--{{Spritebox/9/2Forms|ndex=0705|form1=H}}-->
+{{Spritebox/HOME/2Forms|ndex=0705|form1=H}}
+{{Spritebox/Footer|705|Sliggoo}}
+
+==In animation==
+[[File:Ash Sliggoo.png|thumb|250px|Sliggoo in {{aniseries|XY}}]]
+===Major appearances===
+====[[Ash's Sliggoo]]====
+{{Ash}}'s Goomy [[Evolution|evolved]] into a Sliggoo in ''[[XY061|An Oasis of Hope!]]''. Sliggoo later evolved into a Goodra during ''[[XY065|Good Friends, Great Training!]]'', when it helped put out a big fire with {{m|Rain Dance}}.
+
+===Minor appearances===
+A {{pkmn|Trainer}}'s Sliggoo appeared in ''[[JN004|Settling the Scorbunny!]]''.
+
+A Trainer's Sliggoo appeared in ''[[HZ008|The Door That Never Opens]]''.
+
+A Trainer's Sliggoo appeared in [[HZ112]].
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY061|Sliggoo|Ash's Pokédex|Sliggoo, the Soft Tissue Pokémon. Its four horns function as a highly sensitive radar system, picking up many different scents and noises.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+==In the manga==
+[[File:Team Flare Sliggoo Adventures.png|thumb|left|200px|Sliggoo in [[Pokémon Adventures]]]]
+[[File:Sliggoo {{#switch: {{#expr: {{#time: U}} mod 2}}|0=1|1=2}} ANN.png|thumb|200px|Sliggoo in [[After the Rain, Goomy.]]]]
+===Pokémon Adventures===
+In ''[[PS553|Sylveon Enchants]]'', a {{tc|Team Flare Grunt}} used a Sliggoo to trap {{adv|Y}} while she was playing the [[Berry Picker]] game with her newly-{{pkmn2|caught}} {{p|Eevee}}. Eevee paid off Y's efforts to befriend it, by evolving into a {{p|Sylveon}} and defeating the Sliggoo with {{m|Draining Kiss}}.
+
+A Sliggoo appeared in a flashback in ''[[PS589|Charizard Transforms]]''.
+
+A Sliggoo belonging to an {{tc|Aether Foundation Employee}} first appeared in ''[[PASM23|Battle in Vast Poni Canyon]]''.
+
+A [[Dynamax]]ed Sliggoo appeared in the ''[[PASS26|Cracked!! The Rusted Sword and Shield]]''.
+
+===After the Rain, Goomy.===
+A Sliggoo is the main character of the manga. It evolved from {{p|Goomy}}, and later evolved into {{p|Goodra}}.
+{{-}}
+
+==In the TCG==
+{{main|Sliggoo (TCG)}}
+
+==Trivia==
+* Sliggoo's Pokédex entry in {{pkmn|Sun and Moon|Moon}} contains an error. Its slime is referred to as ''mucous'' instead of ''mucus''. ''Mucus'' is a noun and a synonym for slime. ''Mucous'' is an adjective, and describes something related to mucus. This error was fixed in {{pkmn|Ultra Sun and Ultra Moon|Ultra Moon}}.
+* Sliggoo is currently the only known Pokémon to [[Evolution|evolve]] during a [[Weather|weather condition]].
+* Hisuian Sliggoo shares its {{pkmn|category}} with {{p|Shelmet}}. They are both known as the Snail Pokémon.
+* In [[Pokémon Legends: Arceus]]'s internal code, Hisuian Sliggoo's secondary Ability is {{a|Overcoat}} instead of Shell Armor.
+* Hisuian Sliggoo and its Evolution are the only regional forms currently unavailable in {{g|GO}}.
+===Origin===
+Sliggoo seems to be based on soft bodied gastropods such as {{wp|slugs}}, {{wp|nudibranch}}, and {{wp|semi-slug}}s. Its snail origins as well as its Dragon typing and elongated body shape may mean it could also be based on {{wp|Lou Carcolh}}, a mythical serpent/mollusk creature from French folklore. It may also be based upon the concept of "living slime" in popular culture.
+
+Hisuian Sliggoo is likely based on a {{wp|snail}}. Its metallic shell in particular may be based on the {{wp|scaly-foot gastropod}}, a species of deep-sea snail unique for its shell, which consists of iron sulfide compounds. The brown color of its [[Shiny]] variant's shell may reference how metal {{wp|rust}}s when exposed to water for too long. The melancholy mentioned in its pokedex entry may be a reference to [[wp:Mercury_(element)|mercury]]. Mercury has historically been used to treat various disorders including melancholy in ancient Greece and Medieval Europe<ref>https://www.psychologytoday.com/us/blog/psychiatry-a-history/202304/heavy-metal-blues-the-history-of-medicinal-mercury</ref>. However, it is actually a deadly neurotoxin which with repeated exposure will cause various physical and mental disorders overtime.  
+
+====Name origin====
+Sliggoo may be a combination of ''slick'', ''slither'', ''slippery'', ''slimy'', or ''slug'', and ''goo''.
+The name may also be derived from the Irish word 'sliogán'—meaning ''shell''—in reference to the shell on its back. 
+
+Numeil may be a combination of 滑る ''numeru'' (to be slippery) and ''snail''.
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Dragon
+|ja=ヌメイル ''Numeil''|jameaning=From {{tt|滑る ''numeru''|to be slippery}} and ''snail''
+|fr=Colimucus|frmeaning=From ''{{tt|colimaçon|snail}}'' and ''{{wp|mucus}}''
+|es=Sliggoo|esmeaning=Same as English name
+|de=Viscargot|demeaning=From ''{{tt|viskos|viscous}}'' and ''{{tt|escargot|French for snail}}''
+|it=Sliggoo|itmeaning=Same as English name
+|ko=미끄네일 ''Mikkeunaeil''|komeaning=From {{tt|미끄럽다 ''mikkeureopda''|to be slippery}} and ''snail''
+|zh_cmn=黏美兒 / 黏美儿 ''Niánměi'er''{{tt|*|Games}}<br>黏美伊兒 ''Niánměiyī'er''{{tt|*|Pre-Gen VII Media}}|zh_cmnmeaning=From {{tt|黏 ''nián''|sticky}} and the transcription of the Japanese name with the incorporation of {{tt|美 ''měi''|beautiful}} and {{tt|兒 / 儿 ''er''|child}}
+|zh_yue=黏美兒 ''Nìhmméihyìh''|zh_yuemeaning=From {{tt|黏 ''nìhm''|sticky}}, {{tt|美 ''méi''|beautiful}}, and {{tt|兒 ''yìh''|child}}
+|hi=स्नेलिसा ''Snailisa''|himeaning=From ''snail''
+|ru=Слиггу ''Sliggu''|rumeaning=Transcription of English name
+|th=นูเมล ''Numen''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Ash's Sliggoo]]
+* [[Goodra (UNITE)]]
+* [[Regional form]]
+
+==External links==
+{{Hisuian forms}}
+
+{{PokémonPrevNext/Head|type=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=0704|prev=Goomy|nextnum=0706|next=Goodra}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve through a unique method]]
+
+[[de:Viscargot]]
+[[es:Sliggoo]]
+[[fr:Colimucus]]
+[[it:Sliggoo]]
+[[ja:ヌメイル]]
+[[zh:黏美儿]]

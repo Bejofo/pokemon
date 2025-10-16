@@ -1,0 +1,307 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Wiglett}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0959|prev=Tinkaton|nextnum=0961|next=Wugtrio|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Wiglett
+|jname=ウミディグダ
+|jtranslit=Umidiguda
+|tmname=Umidigda
+|ndex=0960
+|type1=Water
+|category=Garden Eel
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=4.0
+|weight-kg=1.8
+|abilityn=d
+|ability1=Gooey
+|ability2=Rattled
+|abilityd=Sand Veil
+|egggroupn=1
+|egggroup1=Water 3
+|egggroup2=
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=1
+|expyield=49
+|lv100exp=1000000
+|gendercode=127
+|color=White
+|catchrate=255
+|body=05
+|pokefordex=wiglett
+|generation=9
+|friendship=50
+}}
+'''Wiglett''' ([[List of Japanese Pokémon names|Japanese]]: '''ウミディグダ''' ''Umidigda'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation IX]]. 
+
+It [[Evolution|evolves]] into {{p|Wugtrio}} starting at [[level]] 26.
+
+It is [[Ecologically similar Pokémon|ecologically similar]] to {{p|Diglett}}; however, the two are separate species.
+
+==Biology==
+Wiglett is a long, white {{OBP|Pokémon|species}} that seems to be perpetually buried within the earth, leaving only its head and part of its body visible. It has beady dark blue eyes and a large, round, pink nose. Although Wiglett has a stated Pokédex height, it is unknown how long it really is underneath the sand, or what the rest of its body looks like.<ref name=SVsite/>
+
+Wiglett lives in beaches and seas, where it burrows into beach sand.<ref name=WPES /> It pokes part of its body out of the ground to feed. Wiglett has an exceptional sense of smell, which has a range of over 60 feet (20 meters). Wiglett is a timid and cautious Pokémon; it hides in the sand when it picks up the scents of other Pokémon, such as {{p|Veluza}}, nearby.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/wiglett/ Wiglett — Pokémon Scarlet and Pokémon Violet Official Website]</ref>
+
+Some researchers initially mistook Wiglett for a [[Paldean form]] of {{p|Diglett}} due to their physical resemblance, but they are separate species and differ in habitat and diet. It is theorized that the two species ended up having similar body plans as an adaptation to suit their environments and burrowing behavior.<ref name=SVsite/><ref name=WPES />
+
+===Evolution===
+Wiglett evolves into {{p|Wugtrio}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Water
+|pictype=art
+|no1=0960
+|name1=Wiglett
+|type1-1=Water
+|evo1=
+|no2=0961
+|name2=Wugtrio
+|type1-2=Water}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=288|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon can pick up the scent of a {{p|Veluza}} just over {{tt|65 feet|20 meters}} away and will hide itself in the sand.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Though it looks like {{p|Diglett}}, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{water color dark}}; background:#{{water color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{water color light}}; background:#{{water color light}} | [[File:Pokédex Image Wiglett SV.png|x200px]]
+|-
+| Wiglett in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Five)|Area Five]]<br>East Province: [[East Province (Area Two)|Area Two]]<br>West Province: [[West Province (Area One)|Area One]], [[West Province (Area Two)|Area Two]]<br>North Province: [[North Province (Area One)|Area One]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Wiglett|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Water
+|HP=10
+|Attack=55
+|Defense=25
+|SpAtk=35
+|SpDef=25
+|Speed=95
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Wiglett|Water|Water|9}}
+{{learnlist/level9|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|4|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level9|8|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level9|12|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/level9|20|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level9|20|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level9|24|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|28|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level9|32|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level9|36|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/level9|40|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/levelf/9|Wiglett|Water|Water|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Wiglett|Water|Water|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM110|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM142|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM208|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm9|TM209|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tmf/9|Wiglett|Water|Water|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Wiglett|Water|Water|9}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Final Gambit|Fighting|Special|—|100|5|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Memento|Dark|Status|—|100|10|grid=2}}
+{{learnlist/breedf/9|Wiglett|Water|Water|9}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/GO|col=6|type=Water|ndex=0960
+|hatch=N/A
+|buddy=3
+|candy=Wiglett
+|evocandy=50
+|stamina=67
+|attack=109
+|defense=52
+|fast={{m|Water Gun}}, {{m|Mud-Slap}}
+|special={{m|Liquidation}}, {{m|Dig}}, {{m|Surf}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Water
+|pictype=art
+|no1=0960
+|name1=Wiglett
+|type1-1=Water
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 26}}
+|no2=0961
+|name2=Wugtrio
+|type1-2=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=water}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0960}}-->
+{{Spritebox/HOME|ndex=0960}}
+{{Spritebox/Footer|960|Wiglett}}
+
+==In animation==
+===Main series===
+[[File:Wiglett anime.png|thumb|250px|Wiglett in {{aniseries|HZ}}]]
+====Major appearances====
+====Minor appearances====
+Two Wiglett debuted in ''[[HZ016|Quaxly, We Can Do It]]'', under the ownership of two different {{pkmn|Trainer}}s each.
+
+A Wiglett appeared in ''[[HZ042|Transform! Hero of the Seas, Palafin]]''.
+
+A Wiglett appeared in ''[[HZ043|A Challenge from the Explorers]]'', under the ownership of an {{OBP|old man|HZ043}}.
+
+A Trainer's Wiglett appeared in [[HZ105]].
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ042|Wiglett|Roy's Rotom Phone|Wiglett, the Garden Eel Pokémon. A {{t|Water}} type. It has some resemblance to {{p|Diglett}}, but is otherwise very different.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Paldean Winds===
+[[File:Secluded Beach PW.png|thumb|250px|Wiglett in [[Pokémon: Paldean Winds]]]]
+Three wild Wiglett appeared in ''[[PPW04|Breathe Together]]''.
+{{-}}
+
+==In the manga==
+===Pokémon Adventures===
+Two Wiglett debuted in [[PASV10]].
+
+==In the TCG==
+{{main|Wiglett (TCG)}}
+
+==Trivia==
+* Wiglett was revealed on September 28, 2022 in a mock webinar titled "World Pokémon Ecological Society".<ref name=WPES>[https://wpes.pokemon.co.jp/en/ World Pokémon Ecological Society] ([https://www.youtube.com/watch?v=pQoVAMGli0E Video archive])</ref> 
+** Wiglett's reveal also introduced the concept of [[ecologically similar Pokémon]].
+* Wiglett has the lowest base {{stat|HP}} stat of all {{type|Water}} Pokémon.
+* Wiglett and {{p|Diglett}} both [[Evolution|evolve]] at the same level.
+* When Wiglett and its Evolution are sent out, they merely fade onto the screen instead of dropping down like most other Pokémon. This trait is shared by {{p|Diglett}}, {{p|Dugtrio}}, {{p|Sandygast}}, and {{p|Palossand}}.
+* Wiglett is the only [[ecologically similar Pokémon]] whose base stat total is different from that of its {{p|Diglett|lookalike}}.
+
+===Origin===
+Wiglett appears to be based on {{wp|Heterocongrinae|garden eels}}, and may also draw inspiration from {{wp|Pacific razor clam|razor clams}}, {{wp|tube worms}}, and {{wp|Tubifex|tubifex worms}}. The fact that it physically resembles {{p|Diglett}} may be a reference to {{wp|convergent evolution}} or {{wp|parallel evolution}}, which can lead to separate organisms independently developing similar or identical characteristics and body plans. Its simplistic anatomy, lack of fins, strong sense of smell, and {{a|Gooey}} [[Ability]] may draw inspiration from {{wp|hagfish}}.
+
+====Name origin====
+Wiglett may be a combination of ''wiggle'', ''water'' or ''white'', and ''Diglett''.
+
+Umidigda may be a combination of 海 ''umi'' (sea) and ディグダ ''Digda'' (Diglett).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=ウミディグダ ''Umidigda''|jameaning=From {{tt|海 ''umi''|sea}} and {{p|Diglett|ディグダ ''Digda''}}
+|fr=Taupikeau|frmeaning=From ''{{tt|Taupiqueur|Diglett}}'' and ''{{tt|eau|water}}''
+|es=Wiglett|esmeaning=Same as English name
+|de=Schligda|demeaning=From ''{{tt|Schlick|silt}}'' and ''{{tt|Digda|Diglett}}''
+|it=Wiglett|itmeaning=Same as English name
+|ko=바다그다 ''Badageuda''|komeaning=From {{tt|바다 ''bada''|sea}} and {{tt|디그다 ''Digda''|Diglett}}
+|zh_cmn=海地鼠 ''Hǎidìshǔ''|zh_cmnmeaning=From {{tt|海 ''hǎi''|sea}} and {{tt|地鼠 ''Dìshǔ''|Diglett}}
+|zh_yue=海地鼠 ''Hóideihsyú''|zh_yuemeaning=From {{tt|海 ''hói''|sea}} and {{tt|地鼠 ''Deihsyú''|Diglett}}
+|hi=विग्लेट ''Wiglett''|himeaning=Transcription of English name
+|th=อุมิดิกดา ''Umidikda''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Ecologically similar Pokémon]]
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+{{Ecologically similar Pokémon}}
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=0959|prev=Tinkaton|nextnum=0961|next=Wugtrio}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Schligda]]
+[[es:Wiglett]]
+[[fr:Taupikeau]]
+[[it:Wiglett]]
+[[ja:ウミディグダ]]
+[[zh:海地鼠]]

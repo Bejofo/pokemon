@@ -1,0 +1,415 @@
+{{PokémonPrevNext/Head|type=Ice|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Mr. Rime}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=0865|prev=Sirfetch'd|nextnum=0867|next=Runerigus|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Mr. Rime
+|jname=バリコオル
+|jtranslit=Barikōru
+|tmname=Barrikohru
+|ndex=0866
+|type1=Ice
+|type2=Psychic
+|category=Comedian
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=128.3
+|weight-kg=58.2
+|abilityn=d
+|ability1=Tangled Feet
+|ability2=Screen Cleaner
+|abilityd=Ice Body
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=25
+|evtotal=3
+|evsa=3
+|expyield=182
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|catchrate=45
+|body=12
+|pokefordex=mr-rime
+|generation=8
+|friendship=50
+}}
+'''Mr. Rime''' ([[List of Japanese Pokémon names|Japanese]]: '''バリコオル''' ''Barrikohru'') is a dual-type {{2t|Ice|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{rf|Galarian}} {{p|Mr. Mime}} starting at [[level]] 42. It is the final form of {{p|Mime Jr.}} in the [[Galar]] region.
+
+==Biology==
+Mr. Rime is a bipedal, humanoid {{OBP|Pokémon|species}}. Like its pre-evolved form {{p|Mr. Mime}}, it has growths resembling clown hair, but they are now black rather than blue and they cover the top of its head, resembling a {{wp|bowler hat}}. It has yellow eyes and a moustache that covers its mouth. Its black-and-white torso resembles a coat or tuxedo and a face, with yellow {{wp|shirt stud}}s for its "eyes", a red lump as its "nose", and a white {{wp|cummerbund}} for its "mouth". While its actual face remains almost expressionless, the features on its torso will change to convey emotions. Its lower body is blue and it has black and blue feet that resemble large shoes, presumably capped with ice. It has black spherical shoulders and blue arms with white, mitten-like hands. It always carries a blue formal cane made of ice.
+
+Mr. Rime is highly skilled in tap dancing and waves its ice cane while it moves gracefully. It is popular due to its amusing movements and has been known to influence the {{p|Mime Jr.}} of the [[Galar]] region to learn its dancing steps, leading them to evolve into {{rf|Galarian}} Mr. Mime. It can release psychic powers through the pattern on its belly.
+
+Mr. Rime and its pre-Evolution, Galarian Mr. Mime, are the [[Signature Ability|only known Pokémon]] that can have {{a|Screen Cleaner}} as an [[Ability]].
+
+===Evolution===
+Mr. Rime evolves from {{rf|Galarian}} {{p|Mr. Mime}} and is the final form of {{p|Mime Jr.}}
+
+{{Evobox/MrMime|psychictype=false}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ice|type2=Psychic}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=366|reg2=Galar|label2=Crown Tundra|num2=012|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ice|type2=Psychic}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Giant's Seat/Dens|Giant's Seat]]{{sup/8|Sh}}, [[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Stony Wilderness/Dens|Stony Wilderness]], [[Watchtower Ruins/Dens|Watchtower Ruins]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Path to the Peak/Dens|Path to the Peak]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ice
+|type2=Psychic
+|HP=80
+|Attack=85
+|Defense=75
+|SpAtk=110
+|SpDef=100
+|Speed=70
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|type2=Psychic
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=200
+|Bug=200
+|Ghost=200
+|Steel=200
+|Fire=200
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=100
+|Dark=200
+|Fairy=100
+}}
+
+===Learnset===
+Mr. Rime is available in {{pkmn|Sword and Shield}}.
+
+Mr. Rime is unavailable in [[Generation IX]].
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Mr. Rime|Ice|Psychic|8}}
+{{learnlist/level8|1|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/level8|1|Slack Off|Normal|Status|—|—|10}}
+{{learnlist/level8|1|After You|Normal|Status|—|—|15}}
+{{learnlist/level8|1|Block|Normal|Status|—|—|5}}
+{{learnlist/level8|1|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level8|1|Encore|Normal|Status|—|100|5}}
+{{learnlist/level8|1|Role Play|Psychic|Status|—|—|10}}
+{{learnlist/level8|1|Protect|Normal|Status|—|—|10}}
+{{learnlist/level8|1|Recycle|Normal|Status|—|—|10}}
+{{learnlist/level8|1|Mimic|Normal|Status|—|—|10}}
+{{learnlist/level8|1|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level8|1|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/level8|1|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/level8|1|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/level8|1|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/level8|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Rapid Spin|Normal|Physical|50|100|40}}
+{{learnlist/level8|1|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level8|1|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/level8|12|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level8|16|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/level8|20|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level8|24|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level8|28|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level8|32|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level8|36|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/level8|40|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level8|44|Freeze-Dry|Ice|Special|70|100|20||'''}}
+{{learnlist/level8|48|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level8|52|Teeter Dance|Normal|Status|—|100|20}}
+{{learnlist/levelf/8|Mr. Rime|Ice|Psychic|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Mr. Rime|Ice|Psychic|8}}
+{{learnlist/tm8|TM00|Mega Punch|Normal|Physical|80|85|20}}
+{{learnlist/tm8|TM01|Mega Kick|Normal|Physical|120|75|5}}
+{{learnlist/tm8|TM04|Ice Punch|Ice|Physical|75|100|15||'''}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM18|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm8|TM19|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM43|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM51|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM59|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm8|TM60|Power Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM61|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM63|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm8|TM64|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/tm8|TM70|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm8|TM71|Wonder Room|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM72|Magic Room|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM89|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/tm8|TM91|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM98|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tr|TR14|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR25|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR30|Encore|Normal|Status|—|100|5}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR34|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR40|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR49|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR64|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR81|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tr|TR82|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR92|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tmf/8|Mr. Rime|Ice|Psychic|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Mr. Rime|Ice|Psychic|8}}
+{{learnlist/breed8|{{MSP/8c|126|Magmar}}{{MSP/8c|467|Magmortar}}{{MSP/8c|302|Sableye}}|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/breed8|{{MSP/8c|106|Hitmonlee}}{{MSP/8c|107|Hitmonchan}}{{MSP/8c|237|Hitmontop}}{{MSP/8c|302|Sableye}}{{MSP/8c|619|Mienfoo}}{{MSP/8c|620|Mienshao}}{{MSP/8c|859|Impidimp}}{{MSP/8c|860|Morgrem}}{{MSP/8c|861|Grimmsnarl}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed8|{{MSP/8c|122G|Mr. Mime}}{{MSP/8c|866|Mr. Rime}}{{MSP/8c|280|Ralts}}{{MSP/8c|281|Kirlia}}{{MSP/8c|282|Gardevoir}}{{MSP/8c|475|Gallade}}{{MSP/8c|574|Gothita}}{{MSP/8c|575|Gothorita}}{{MSP/8c|576|Gothitelle}}|Hypnosis|Psychic|Status|—|60|20|†}}
+{{learnlist/breed8|{{MSP/8c|605|Elgyem}}{{MSP/8c|606|Beheeyem}}|Power Split|Psychic|Status|—|—|10}}
+{{learnlist/breed8|{{MSP/8c|574|Gothita}}{{MSP/8c|575|Gothorita}}{{MSP/8c|576|Gothitelle}}|Tickle|Normal|Status|—|100|20}}
+{{learnlist/breedf/8|Mr. Rime|Ice|Psychic|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Mr. Rime|Ice|Psychic|8}}
+{{learnlist/tutor8|Expanding Force|Psychic|Special|80|100|10||'''|no|yes}}
+{{learnlist/tutor8|Triple Axel|Ice|Physical|20|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Mr. Rime|Ice|Psychic|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Mr. Rime|Ice|Psychic|8}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Mr. Rime|Ice|Psychic|8}}
+
+====By [[transfer]] from another generation====
+=====By [[transfer]], only via prior [[Evolution]]=====
+
+{{learnlist/prevgenh/8prevo|Mime Jr.|Ice|Psychic|4}}
+{{learnlist/prevgen8|Mime Jr.|4|Barrier|Psychic|Status|—|—|20|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Charge Beam|Electric|Special|50|90|10|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Covet|Normal|Physical|60|100|25|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Double Slap|Normal|Physical|15|85|10|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Double Team|Normal|Status|—|—|15|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Dream Eater|Psychic|Special|100|100|15||'''|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Flash|Normal|Status|—|100|20|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Focus Punch|Fighting|Physical|150|100|20|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Frustration|Normal|Physical|—|100|20|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Headbutt|Normal|Physical|70|100|15|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Healing Wish|Psychic|Status|—|—|10|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Hidden Power|Normal|Special|60|100|15|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Infestation|Bug|Special|20|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Magic Coat|Psychic|Status|—|—|15|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Meditate|Psychic|Status|—|—|40|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Mud-Slap|Ground|Special|20|100|10|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Psych Up|Normal|Status|—|—|10|IV=yes<!--TM,breed-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Return|Normal|Physical|—|100|20|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Secret Power|Normal|Physical|70|100|20|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Shock Wave|Electric|Special|60|—|20|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Signal Beam|Bug|Special|75|100|15|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Snatch|Dark|Status|—|—|10|IV=yes<!--TM-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Swagger|Normal|Status|—|85|15|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Telekinesis|Psychic|Status|—|—|15|V=yes<!--TM-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Mime Jr.|4|Torment|Dark|Status|—|100|15|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Toxic|Poison|Status|—|90|10|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Mime Jr.|4|Wake-Up Slap|Fighting|Physical|70|100|10|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgenf/8|Mr. Rime|Ice|Psychic|4}}
+
+===Side game data===
+{{Spindata/Head|type=Ice|type2=Psychic}}
+{{Spindata/GO
+| col = 6
+| type = Ice
+| ndex = 866
+| hatch = N/A
+| buddy = 5
+| candy = Mr. Mime
+| evolution = N/A
+| stamina = 190
+| attack = 212
+| defense = 179
+| fast = {{m|Confusion}}, {{m|Zen Headbutt}}, {{m|Ice Shard}}
+| special = {{m|Psybeam}}, {{m|Psychic}}, {{m|Ice Punch}}, {{m|Icy Wind}}, {{m|Triple Axel}}{{tt|*|From September 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Ice
+|type2=Psychic
+|pictype=sprite
+|no1=0439Mime Jr
+|name1=Mime Jr.
+|type1-1=Psychic
+|type2-1=Fairy
+|breed={{bag/s|Odd Incense|SV}}<br>{{color2|000|Pokémon Breeding|Breed}}<br>holding {{color2|000|Odd Incense}}
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Bag TM Normal SV Sprite.png|40px|link=Mimic (move)]] + [[File:Galar Champion Ribbon VIII.png|40px|link=Galar]]<br>{{color2|000|Level|Level up}}<br>knowing {{color2|000|Mimic (move)|Mimic}}<br>in {{color2|000|Galar}}
+|no2=0122Mr. Mime-Galar
+|name2=Mr. Mime
+|form2=Galarian Form
+|type1-2=Ice
+|type2-2=Psychic
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 42}}
+|no3=0866Mr. Rime
+|name3=Mr. Rime
+|type1-3=Ice
+|type2-3=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Ice|type2=Psychic}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=866}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0866}}
+{{Spritebox/Footer|866|Mr. Rime}}
+
+==In animation==
+[[File:Leon Mr Rime.png|thumb|250px|Mr. Rime in {{aniseries|JN}}]]
+===Main series=== 
+====Major appearances====
+Mr. Rime debuted in ''[[JN129|A Flood of Torrential Gains!]]'', under the ownership of {{an|Leon}}. It was the third Pokémon he used in his [[Masters Eight Tournament]] match against {{Ash}}.
+
+====Minor appearances====
+[[File:Mr. Rime TW.png|left|thumb|250px|Mr. Rime in [[Pokémon: Twilight Wings]]]]
+===Pokémon: Twilight Wings===
+In ''[[TW05|Assistant]]'', a street performer's Mr. Rime put on a performance alongside its {{pkmn|Trainer}}.
+
+===GOTCHA!===
+A Mr. Rime briefly appeared in [[GOTCHA!]], under the ownership of [[Leon]].
+{{-}}
+
+==In the manga==
+[[File:Henry Kayne.png|thumb|150px|Mr. Rime in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A Mr. Rime belonging to [[Melony]] appeared in ''[[PASS19|Crunch!! Snowy Battle]]''. It was later given to [[Henry Sword|Henry]]. Another Mr. Rime appeared in a fantasy in the same chapter.
+{{-}}
+
+==In the TCG==
+{{main|Mr. Rime (TCG)}}
+==Trivia==
+* Despite its English name containing a male-exclusive {{wp|honorific}}, Mr. Rime's [[gender ratio]] is evenly split between male and female.
+* Mr. Rime is the only Pokémon introduced in [[Generation VIII]] that can know an [[Pokémon Sword and Shield#Unusable moves|unusable move in Pokémon Sword and Shield]]. Specifically, it can know {{m|Double Slap}}, {{m|Meditate}}, {{m|Hidden Power}}, {{m|Barrier}}, {{m|Captivate}}, {{m|Flash}}, {{m|Frustration}}, {{m|Return}}, {{m|Natural Gift}}, {{m|Secret Power}}, {{m|Signal Beam}}, {{m|Snatch}}, {{m|Telekinesis}}, and {{m|Wake-Up Slap}} by evolving from a Mime Jr. that learned these moves in a previous game.
+** It is therefore also the only Pokémon introduced in [[Generation VIII]] that can have a [[battle-ready symbol]].
+*Mr. Rime is the only Pokémon introduced in {{g|Sword and Shield}} that can have the [[Origin mark|Sinnohan and Hisuian origin marks]], due to Mime Jr. being able to have them.
+
+===Origin===
+Mr. Rime seems to be based on a {{wp|mime}}, a {{wp|tap dance}}r, and silent film actor {{wp|Charlie Chaplin}}'s iconic {{wp|The Tramp|Tramp}} character. Like the Tramp, Mr. Rime appears to wear a {{wp|bowler hat}}, a black suit jacket, baggy trousers, and large dress shoes, along with carrying a cane and sporting a mustache. Mr. Rime is native to the [[Galar]] region, which is inspired by Charlie Chaplin's home country, the {{wp|United Kingdom}}. It could also be derived from the "city gent," a fashion style commonly associated with London businessmen during the 1970s, which prominently featured the bowler hat. 
+
+Mr. Rime may also be based on a {{wp|clown}}, since its feet resemble oversized clown shoes and the pattern on its round body resembles a clown face. It may also be inspired by the はらだし ''haradashi'', a humanoid {{wp|yōkai}} with a large face on its belly, and is known for visiting people who feel sad or lonely in order to cheer them up, sometimes by dancing.
+
+Mr. Rime's desaturated {{Shiny}} coloration may reference the black-and-white color of {{wp|silent film}}s — Charlie Chaplin is considered to be one of the most famous silent film actors.
+
+====Name origin====
+Mr. Rime may be derived from the abbreviation of ''Mister'' and ''{{wp|Rime ice|rime}}'' (a type of frost) or ''{{wp|rhyme}}'' (since its name rhymes with {{p|Mr. Mime}}).
+
+Barrikohru may be a combination of ''barrier'' (referring to the invisible walls it can create) and 凍る ''kōru'' (to freeze).
+
+==In other languages==
+{{Other languages|type=Ice|type2=Psychic
+|ja=バリコオル ''Barrikohru''|jameaning=From ''barrier'' and {{tt|凍る ''kōru''|to freeze}}
+|fr=M. Glaquette|frmeaning=From ''Monsieur'', ''{{tt|glaçon|icicle}}'', and ''{{tt|claquette|tap dancing}}''
+|es=Mr. Rime|esmeaning=Same as English name
+|de=Pantifrost|demeaning=From ''{{p|Mr. Mime|Pantimos}}'' and ''Frost''
+|it=Mr. Rime|itmeaning=Same as English name
+|ko=마임꽁꽁 ''Mimekkongkkong''|komeaning=From ''mime'' and {{tt|꽁꽁 ''kkongkkong''|frozen hard}}
+|zh_cmn=踏冰人偶 ''Tàbīngrén'ǒu''|zh_cmnmeaning=From {{tt|踢踏舞 ''tītàwǔ''|tap dance}}, {{tt|冰 ''bīng''|ice}}, and {{tt|人偶 ''rén'ǒu''|puppet}}
+|zh_yue=踏冰人偶 ''Daahpbīngyàhnngáuh''|zh_yuemeaning=From {{tt|踢踏舞 ''tekdaahpmóuh''|tap dance}}, {{tt|冰 ''bīng''|ice}}, and {{tt|人偶 ''yàhnngáuh''|puppet}}
+|hi=मिस्टर राइम ''Mister Rime''|himeaning=Transcription of English name
+|th=บาริโคโอรุ ''Barikhooru''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+
+{{Galarian forms}}
+
+{{PokémonPrevNext/Head|type=Ice|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=0865|prev=Sirfetch'd|nextnum=0867|next=Runerigus}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pantifrost]]
+[[es:Mr. Rime]]
+[[fr:M. Glaquette]]
+[[it:Mr. Rime]]
+[[ja:バリコオル]]
+[[zh:踏冰人偶]]
+[[Category:Pokémon with cross-generational Evolutions]]

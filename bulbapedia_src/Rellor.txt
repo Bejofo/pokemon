@@ -1,0 +1,297 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Rellor}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0952|prev=Scovillain|nextnum=0954|next=Rabsca|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Rellor
+|jname=シガロコ
+|tmname=Shigaroko
+|ndex=0953
+|type1=Bug
+|category=Rolling
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=2.2
+|weight-kg=1.0
+|abilityn=1
+|ability1=Compound Eyes
+|ability2=
+|abilityd=Shed Skin
+|egggroupn=1
+|egggroup1=Bug
+|egggroup2=
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=0
+|evde=1
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=54
+|lv100exp=800000
+|gendercode=127
+|color=Brown
+|catchrate=190
+|body=14
+|pokefordex=rellor
+|generation=9
+|friendship=50
+}}
+'''Rellor''' ([[List of Japanese Pokémon names|Japanese]]: '''シガロコ''' ''Shigaroko'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Rabsca}} when [[level|leveled up]] while outside of its [[Poké Ball]] after the player walks 1000 [[step counting|steps]] using the [[Let's Go!]] feature.<ref>https://twitter.com/Sibuna_Switch/status/1678027317891694593</ref><ref>https://twitter.com/Sibuna_Switch/status/1680044846403272704</ref>
+
+==Biology==
+[[File:Rellor back.png|thumb|left|200px|Rellor's back]]
+Rellor is a small, brown, beetle-like Pokémon. It has four horn-like protrusions on its head, and its face is pink with lazy eyes, a bulbous nose, and black curved stripes over and under it that resemble a unibrow and a chinstrap beard. Its abdomen has a rounded yellow pattern, and it has four long limbs, each tipped with two claws. On its back is a random pattern of beige stripes resembling a maze.
+
+Rellor almost always orients itself upside down as it rolls around a mud ball, which is brown in color with random white and orange stripes. Rellor creates its mud ball by mixing dirt and sand with psychic energy. It values its mud ball more than its own life, and rolls it around as the energy needed for it to evolve matures. Its hind legs are strong enough to lift the mud ball over its body.
+{{left clear}}
+
+===Evolution===
+Rellor evolves into {{p|Rabsca}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|no1=0953
+|name1=Rellor
+|type1-1=Bug
+|evo1=
+|no2=0954
+|name2=Rabsca
+|type1-2=Bug
+|type2-2=Psychic}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=254|reg2=Kitakami|reg3=Blueberry|num3=30}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{bug color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Rellor SV.png|x200px]]
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Rellor SV Blueberry.png|x200px]]
+|-
+| Rellor in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Rellor in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[Asado Desert]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Rellor|1★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=IX}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Special event]] (''{{DL|Special event|Rolling in Gold}}''): {{sync|Teddy|Rellor|Hiker}} {{shinystar}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|HP=41
+|Attack=50
+|Defense=60
+|SpAtk=31
+|SpDef=58
+|Speed=30
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Rellor|Bug|Bug|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level9|4|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|7|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level9|11|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|15|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/level9|20|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level9|24|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|29|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level9|35|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/levelf/9|Rellor|Bug|Bug|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Rellor|Bug|Bug|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tmf/9|Rellor|Bug|Bug|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Rellor|Bug|Bug|9}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Cosmic Power|Psychic|Status|—|—|20|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Memento|Dark|Status|—|100|10|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Recover|Normal|Status|—|—|5|grid=2}}
+{{learnlist/breed9|{{bag/s|TM Normal|SV|TM193}}{{tt|*|No Pokémon in the Bug Egg Group can learn Weather Ball via level-up. However, the move is available via TM193 and can be passed down from Masquerain, Vivillon, Frosmoth, and the Rellor line, or copied via Mirror Herb.}}|Weather Ball|Normal|Special|50|100|10|grid=2}}
+{{learnlist/breedf/9|Rellor|Bug|Bug|9}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/GO|col=6|type=Bug|ndex=0953
+|hatch=N/A
+|buddy=5
+|candy=Rellor
+|evocandy=50
+|stamina=121
+|attack=86
+|defense=108
+|fast={{m|Bug Bite}}, {{m|Struggle Bug}}
+|special={{m|Dig}}, {{m|Bug Buzz}}, {{m|Lunge}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|no1=0953
+|name1=Rellor
+|type1-1=Bug
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Footwear icon.png|40px]]<br>{{color2|000|Level|Level up}}<br>whilst outside of its {{color2|000|Poké Ball}} after walking<br>1,000 {{color2|000|step counting|steps}} using the {{color2|000|Let's Go!}} feature
+|no2=0954
+|name2=Rabsca
+|type1-2=Bug
+|type2-2=Psychic
+}}
+
+===Sprites===
+{{Spritebox/Header|type=bug}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0953}}-->
+{{Spritebox/HOME|ndex=0953}}
+{{Spritebox/Footer|953|Rellor}}
+
+==In animation==
+===Main series===
+[[File:Rellor anime.png|thumb|250px|Rellor in {{aniseries|HZ}}]]
+====Major appearances====
+====Minor appearances====
+A Rellor appeared in [[HZ108]], marking the species' debut.
+{{-}}
+
+===Pokémon: Paldean Winds===
+[[File:Asado Desert PPW.png|thumb|250px|Rellor in [[Pokémon: Paldean Winds]]]]
+A {{pkmn2|wild}} Rellor appeared in ''[[PPW04|Breathe Together]]''.
+{{-}}
+
+==In the manga==
+[[File:Team Star Grunt Rellor Adventures.png|thumb|200px|Rellor in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Rellor debuted in [[PASV14]], under the ownership of a male {{tc|Team Star Grunt}}. It was used to battle {{adv|Violet}}'s {{p|Crocalor}}, but lost immediately.
+{{-}}
+
+==In the TCG==
+{{main|Rellor (TCG)}}
+
+==Trivia==
+
+===Origin===
+Rellor appears to be based on a {{wp|dung beetle}}, a subcategory of the {{wp|Scarabaeidae|scarab beetles}}. The pattern on Rellor's abdomen resembles a cartoony depiction of a feces pile when viewed upside down, alluding to its origin.
+
+Rellor rolls a ball of mud in lieu of a ball of animal dung; this may be a reference to {{wp|dorodango}}, a Japanese art form where mud is carefully shaped and polished into a smooth, shiny sphere. Its {{Shiny}} form rolls a golden ball that resembles a [[Nugget]], which may be a reference to ''{{wp|kin no unko}}'', a Japanese pun that links "golden poo" with "good luck".
+
+Its {{Shiny}} form could also be a reference to ancient Egyptian mythology, since the sun god, Ra, was commonly depicted as a dung beetle rolling the golden sun across the sky.
+
+====Name origin====
+Rellor may be derived from ''roller'' spelled backwards.
+
+Shigaroko may be derived from a partial backward spelling of 糞転がし ''funkorogashi'' (colloquial term for dung beetle).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=シガロコ ''Shigaroko''|jameaning=From a backward spelling of {{tt|糞転がし ''funkorogashi''|colloquial term for dung beetle}}
+|fr=Léboulérou|frmeaning=From {{wp|Verlan|{{tt|Verlan|youth language consisting of reversed words}}}} for ''{{tt|roulé-boulé|roll}}'' and possibly ''{{tt|boue|mud}}''
+|es=Rellor|esmeaning=Same as English name
+|de=Relluk|demeaning=From ''{{tt|Kuller|marble}}'' spelled backwards
+|it=Rellor|itmeaning=Same as English name
+|ko=구르데 ''Gureude|komeaning=From {{tt|쇠똥구리 ''soettungguri''|dung beetle}} and a corruption of {{tt|굴리다 ''gullida''|to tumble}}
+|zh_cmn=蟲滾泥 / 虫滚泥 ''Chónggǔnní''|zh_cmnmeaning=From {{tt|滾屎蟲 / 滚屎虫 ''gǔnshǐchóng''|dialectal name for dung beetle}} and {{tt|泥 ''ní''|mud}}
+|zh_yue=蟲滾泥 ''Chùhnggwánnàih''|zh_yuemeaning=From {{tt|滾屎蟲 ''gwánsíchùhng''|dialectal name for dung beetle}} and {{tt|泥 ''nàih''|mud}}
+|hi=लिरोलिरो ''Liroliro''|himeaning=From an inversion of syllables of ''rolly''
+|th=ชิกาโรโค ''Chikarokho''|thmeaning=Transcription of Japanese name
+}}
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0952|prev=Scovillain|nextnum=0954|next=Rabsca}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve using the Let's Go! feature]]
+
+[[de:Relluk]]
+[[es:Rellor]]
+[[fr:Léboulérou]]
+[[it:Rellor]]
+[[ja:シガロコ]]
+[[zh:虫滚泥]]

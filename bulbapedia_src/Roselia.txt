@@ -1,0 +1,750 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/GO|species=Roselia}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0314|prev=Illumise|nextnum=0316|next=Gulpin|round=none}}
+{{PokémonPrevNext/Disambig|species=Roselia}}
+|}
+{{Pokémon Infobox
+|name=Roselia
+|jname=ロゼリア
+|jtranslit=Rozeria
+|tmname=Roselia
+|ndex=0315
+|typebox=1
+|type1=Grass
+|type2=Poison
+|category=Thorn
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=4.4
+|weight-kg=2.0
+|abilityn=d
+|ability1=Natural Cure
+|ability2=Poison Point
+|abilityd=Leaf Guard
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=2{{tt|*|1 in Generation III}}
+|evsa=2{{tt|*|1 in Generation III}}
+|expyield=140
+|oldexp=152
+|lv100exp=1,059,860
+|gendercode=127
+|catchrate=150
+|color=Green
+|body=12
+|pokefordex=roselia
+|generation=3
+|friendship=70
+}}
+'''Roselia''' ([[List of Japanese Pokémon names|Japanese]]: '''ロゼリア''' ''Roselia'') is a dual-type {{2t|Grass|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Budew}} when [[friendship Evolution|leveled up with high friendship]] during the [[Time#Day|day]] and evolves into {{p|Roserade}} when exposed to a [[Shiny Stone]].
+
+==Biology==
+Roselia is a small, light green bipedal {{OBP|Pokémon|species}}. It has three thorns on top of its head, and it has black eyes with long eyelashes. Visible from the back is a small stretch of yellow coloration around its neck much like a collar. There are leaves extending from its shoulders like epaulettes. It has a leaf skirt with a yellow stripe running down the front. A male will have a shorter leaf than a female. It holds a rose in each of its hands, a red one in its right, and a blue one in its left. However, it is said that it will occasionally have unusually colored flowers.
+
+Roselia's aroma brings serenity, but the thorns on its head contain a vicious poison. The more healthy it is, the more pleasant its flowers' aroma. It shoots sharp thorns at anything that tries to steal its flowers and uses different poisons in each hand when it attacks. It lives in {{DL|List of Pokémon by habitat|Grassland Pokémon|grassy areas}} where it drinks nutrient-rich spring water. Roselia's thorns are used as part of an old tradition, challenging an opponent to a duel by sending these thorns.
+
+In [[Generation III]], {{m|Grass Whistle}} was its [[signature move]], but other Pokémon could still inherit it via {{pkmn|breeding}}.
+
+===Evolution===
+Roselia evolves from {{p|Budew}} and evolves into {{p|Roserade}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-3
+|type1=Grass
+|type2=Poison
+|pictype=art
+|no1=0406
+|name1=Budew
+|type1-1=Grass
+|type2-1=Poison
+|evo1=
+|no2=0315
+|name2=Roselia
+|type1-2=Grass
+|type2-2=Poison
+|evo2=
+|no3=0407
+|name3=Roserade
+|type1-3=Grass
+|type2-3=Poison
+}}</div>
+
+==Game data==
+===NPC appearances===
+* {{g|Super Mystery Dungeon}}: Roselia is a minor character who is a resident of [[Serene Village]] alongside her child {{p|Budew}} and had a brief period of being unwell but soon recovered.
+
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Poison}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=094|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Roselia</sc> shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this {{ScPkmn}} brings serenity to living things.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=On extremely rare occasions, a <sc>Roselia</sc> is said to appear with its flowers in unusual colors. The thorns on this {{ScPkmn}}'s head contain a vicious poison.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A <sc>Roselia</sc> that drinks nutritionally rich springwater blooms with lovely flowers. The fragrance of its flowers has the effect of making its foes careless.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the <sc>Roselia</sc> is.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=026|reg2=Johto}}
+{{Dex/Entry1|v=Diamond|entry=<sc>Roselia</sc> raised on clean drinking water are known to grow vividly colored flowers.}}
+{{Dex/Entry1|v=Pearl|entry=The beautiful flowers on its arms have toxic thorns. Don't even think about picking those flowers.}}
+{{Dex/Entry1|v=Platinum|entry=The more healthy the <sc>Roselia</sc>, the more pleasant its flowers' aroma. Its scent deeply relaxes people.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=<sc>Roselia</sc> that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=134|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The more healthy the Roselia, the more pleasant its flowers' aroma. Its scent deeply relaxes people.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=072|label1=Central|reg2=Hoenn|num2=098}}
+{{Dex/Entry1|v=X|t=FFF|entry=It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Roselia shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this Pokémon brings serenity to living things.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=On extremely rare occasions, a Roselia is said to appear with its flowers in unusual colors. The thorns on this Pokémon's head contain a vicious poison.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=060|reg2=Sinnoh|num2=026|reg3=Hisui|num3=090}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=Roselia raised on clean drinking water are known to grow vividly colored flowers.}}
+{{Dex/Entry1|v=Shining Pearl|entry=The beautiful flowers on its arms have toxic thorns. Don't even think about picking those flowers.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Though beautiful, it has highly poisonous thorns. There is an old tradition in [[Professor Laventon|my]] [[Galar|homeland]] wherein one would send these thorns to an opponent to challenge them to a duel.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Poison}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{rt|117|Hoenn}}}}
+{{Availability/Entry1/None|v=Emerald|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Prestige Precept Center]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Diamond|area=[[Route]]s {{rtn|212|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|224|Sinnoh}}, {{rtn|225|Sinnoh}}, {{rtn|229|Sinnoh}}, [[Trophy Garden]], [[Great Marsh]]}}
+{{Availability/Entry1|v=Pearl|area=[[Route]]s {{rtn|212|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|224|Sinnoh}}, and {{rtn|225|Sinnoh}}, [[Trophy Garden]], [[Great Marsh]]}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|224|Sinnoh}}, {{rtn|229|Sinnoh}}, {{rtn|230|Sinnoh}}, [[Trophy Garden]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}} (tall grass in Marshland with 49 Forest points)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Budew}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|12|Unova}}, [[Lostlorn Forest]], {{OBP|Victory Road|Black 2 and White 2}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|7|Kalos}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{rt|117|Hoenn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ula'ula Meadow]] ({{DL|QR Scanner|Island Scan}}){{dotw|We}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Axew's Eye]], [[South Lake Miloch]], [[Giant's Mirror]], [[Dusty Bowl]], [[Rolling Fields]]<br>[[Bridge Field/Dens|Bridge Field]], [[Dappled Grove/Dens|Dappled Grove]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Giant's Cap/Dens|Giant's Cap]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[North Lake Miloch/Dens|North Lake Miloch]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry1|v=Brilliant Diamond|area=[[Route]]s {{rtn|212|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|224|Sinnoh}}, {{rtn|225|Sinnoh}}, and {{rtn|229|Sinnoh}}, [[Trophy Garden]], [[Great Marsh]]<br>[[Grand Underground]] - [[Grassland Cave]], [[Swampy Cave]], [[Sunlit Cavern]], [[Bogsunk Cavern]]}}
+{{Availability/Entry1|v=Shining Pearl|area=[[Route]]s {{rtn|212|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|224|Sinnoh}}, and {{rtn|225|Sinnoh}}, [[Trophy Garden]], [[Great Marsh]]<br>[[Grand Underground]] - [[Grassland Cave]], [[Swampy Cave]], [[Sunlit Cavern]], [[Bogsunk Cavern]]}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Crimson Mirelands]]:''' [[Gapejaw Bog]], [[Cloudpool Ridge]] and nearby, near [[Cottonsedge Prairie]], massive [[mass outbreak]]s<br>'''[[Coronet Highlands]]:''' [[Fabled Spring]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Poison}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Plains ([[Ruby Field|Both]] [[Sapphire Field|Fields]]), Forest}}
+{{Availability/Entry1|1|v=Trozei!|color={{yellow color}}|area={{PM|1|Phobos Train}}, Endless Level 6, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry1|1|v=MD Red|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Uproar Forest]] (4F-7F)}}
+{{Availability/Entry1/None|1|v=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Wonder Mail]] code}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (1F-13F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F), [[Midnight Forest]] (B1F-B24F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (1F-13F), [[Sky Peak Mountain Path|Sky Peak]] (1st Station Pass 1F-6th Station Pass 3F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F), [[Midnight Forest]] (B1F-B24F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Vien Forest]]}}
+{{Availability/Entry2/None|v=MD Blazing|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|t={{fire color dark}}|color2={{electric color}}|t2={{electric color dark}}|area=[[Evolution|Evolve]] [[Wonder Mail]] unlocked {{p|Budew}}}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Sophian Road]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#The Garden at the End of Time|Flower Garden: The Garden at the End of Time]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 1|Infinite Ruins: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Thorny Heath|Diamond Crater: Thorny Heath]] <small>(All Areas)</small>, [[Distortion Land#Gracious Woodlands|Distortion Land: Gracious Woodlands]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Celebi Sea]], [[Garchomp Sea]], [[Butterfree Sea]], [[Rayquaza Sea]], [[Arceus Sea]], [[Celebi Sea]]<sup>Final</sup>, [[Garchomp Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Uproar Forest]] (3F)<br/>Fainted Pokémon: [[Southern Cavern]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 248]]<br>[[Marron Trail|Marron Trail: Stage 696]]}}
+|}
+|}
+{{Availability/Footer}}
+
+Roselia will not appear in Pokémon Mystery Dungeon: Blue Rescue Team until a rescue mission involving it has been completed, using a Wonder Mail code such as the following:
+:F ? 4 N + W T ? ? + 6 N
+:F R ? J F ? 6 6 8 5 ? W
+:Objective: Rescue Roselia on floor 2 of [[Tiny Woods]].
+
+====In events====
+{{eventAvail/h|type=Grass|type2=Poison}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Fifth Campaign Roselia|Japanese|Japan|10|March 21 to April 9, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Roselia}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Grass|type2=Poison}}
+{{HeldItems/Games2|Ruby|Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Ruby and Sapphire Versions}}
+{{HeldItems/Items1|Poison Barb|5|rows=4}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Items2|Poison Barb|5|Absorb Bulb|1|availNote2=[[Dark grass]] only,&#32;}}
+{{HeldItems/Games2|X|Y|tcolor1=fff|Pokémon X and Y}}
+{{HeldItems/Items1|Poison Barb|5|rows=5}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Hearty Grains|35|Vivichoke|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|type2=Poison
+|HP=     50
+|Attack= 60
+|Defense=45
+|SpAtk= 100
+|SpDef=  80
+|Speed=  65}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|type2=Poison
+|Speed=3
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Poison
+|Normal= 100
+|Fighting=50
+|Flying= 200
+|Poison= 100
+|Ground= 100
+|Rock=   100
+|Bug=    100
+|Ghost=  100
+|Steel=  100
+|Fire=   200
+|Water=   50
+|Grass=   25
+|Electric=50
+|Psychic=200
+|Ice=    200
+|Dragon= 100
+|Dark=   100
+|Fairy=   50}}
+
+===Learnset===
+Roselia is available in {{pkmn|Sword and Shield}}, {{pkmn|Brilliant Diamond and Shining Pearl}}, and [[Pokémon Legends: Arceus]].
+
+====By [[Level|leveling up]]====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/levelh/8|Roselia|Grass|Poison|3}}
+{{learnlist/level8|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level8|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level8|1|Growth|Normal|Status|—|—|20}}
+{{learnlist/level8|1|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level8|1|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level8|5|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level8|10|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level8|15|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/level8|20|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/level8|25|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level8|30|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level8|35|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/level8|40|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level8|45|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/level8|50|Aromatherapy|Grass|Status|—|—|5}}
+{{learnlist/level8|55|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/level8|60|Petal Dance|Grass|Special|120|100|10||'''}}
+{{learnlist/levelf/8|Roselia|Grass|Poison|3}}
+
+{{gameabbrev8|LA}}
+{{learnlist/levelh/LA|Roselia|Grass|Poison|3}}
+{{learnlist/levelLA|1|10|Poison Sting|Poison|Physical|30|40|20|100|100|20||'''}}
+{{learnlist/levelLA|6|15|Absorb|Grass|Special|30|40|20|100|100|20||'''}}
+{{learnlist/levelLA|11|20|Poison Powder|Poison|Status|—|—|—|80|100|20||}}
+{{learnlist/levelLA|18|28|Stun Spore|Grass|Status|—|—|—|80|100|20||}}
+{{learnlist/levelLA|25|35|Venoshock|Poison|Special|65|80|50|100|100|15||'''}}
+{{learnlist/levelLA|34|45|Poison Jab|Poison|Physical|80|100|60|100|100|10||'''}}
+{{learnlist/levelLA|43|54|Energy Ball|Grass|Special|80|100|60|100|100|10||'''}}
+{{learnlist/levelLA|52|64|Petal Dance|Grass|Special|90|120|60|85|95|10||'''}}
+{{learnlist/levelf/8|Roselia|Grass|Poison|3}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Roselia|Grass|Poison|3}}
+{{learnlist/tm8|TM07|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/tm8|TM10|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM46|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm8|TM50|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM74|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tr|TR23|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR54|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tr|TR57|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tr|TR59|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tr|TR71|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tr|TR72|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tr|TR92|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tmf/8|Roselia|Grass|Poison|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Roselia|Grass|Poison|3}}
+{{learnlist/tm8|TM06|Toxic|Poison|Status|—|90|10||}}
+{{learnlist/tm8|TM09|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM18|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm8|TM19|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm8|TM21|Dazzling Gleam|Fairy|Special|80|100|10||}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm8|TM30|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|—|—|15||}}
+{{learnlist/tm8|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|—|—|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|—|100|15||}}
+{{learnlist/tm8|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM70|Flash|Normal|Status|—|100|20||}}
+{{learnlist/tm8|TM75|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm8|TM77|Psych Up|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm8|TM86|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|—|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||}}
+{{learnlist/tmf/8|Roselia|Grass|Poison|3}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Roselia|Grass|Poison|3}}
+{{learnlist/breed8|{{MSP/8c|546|Cottonee}}{{MSP/8c|547|Whimsicott}}{{MSP/8c|556|Maractus}}{{MSP/8c|684|Swirlix}}{{MSP/8c|685|Slurpuff}}{{MSP/8c|830|Eldegoss}}|Cotton Spore|Grass|Status|—|100|40|grid=8}}
+{{learnlist/breed8|{{MSP/8c|102|Exeggcute}}{{MSP/8c|103|Exeggutor}}{{MSP/8c|103A|Exeggutor}}{{MSP/8c|274|Nuzleaf}}{{MSP/8c|275|Shiftry}}|Extrasensory|Psychic|Special|80|100|20|grid=8}}
+{{learnlist/breed8|{{MSP/8c|035|Clefairy}}{{MSP/8c|036|Clefable}}{{MSP/8c|176|Togetic}}{{MSP/8c|468|Togekiss}}{{MSP/8c|531|Audino}}|Life Dew|Water|Status|—|—|10|grid=8}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|274|Nuzleaf}}{{MSP/8c|275|Shiftry}}{{MSP/8c|459|Snover}}{{MSP/8c|460|Abomasnow}}{{MSP/8c|546|Cottonee}}{{MSP/8c|547|Whimsicott}}{{MSP/8c|753|Fomantis}}{{MSP/8c|754|Lurantis}}{{MSP/8c|810|Grookey}}{{MSP/8c|811|Thwackey}}{{MSP/8c|812|Rillaboom}}{{MSP/8c|829|Gossifleur}}{{MSP/8c|830|Eldegoss}}|Razor Leaf|Grass|Physical|55|95|25||'''|grid=8}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|043|Oddish}}{{MSP/8c|044|Gloom}}{{MSP/8c|045|Vileplume}}{{MSP/8c|182|Bellossom}}{{MSP/8c|114|Tangela}}{{MSP/8c|465|Tangrowth}}{{MSP/8c|755|Morelull}}{{MSP/8c|756|Shiinotic}}|Sleep Powder|Grass|Status|—|75|15|grid=8}}
+{{learnlist/breed8|{{MSP/8c|001|Bulbasaur}}{{MSP/8c|002|Ivysaur}}{{MSP/8c|003|Venusaur}}{{MSP/8c|102|Exeggcute}}{{MSP/8c|103|Exeggutor}}{{MSP/8c|103A|Exeggutor}}{{MSP/8c|273|Seedot}}{{MSP/8c|274|Nuzleaf}}{{MSP/8c|275|Shiftry}}{{MSP/8c|315|Roselia}}{{MSP/8c|407|Roserade}}{{MSP/8c|556|Maractus}}{{MSP/8c|590|Foongus}}{{MSP/8c|591|Amoonguss}}{{MSP/8c|753|Fomantis}}{{MSP/8c|754|Lurantis}}{{MSP/8c|764|Comfey}}{{MSP/8c|829|Gossifleur}}{{MSP/8c|830|Eldegoss}}|Synthesis|Grass|Status|—|—|5|†|grid=8}}
+{{learnlist/breedf/8|Roselia|Grass|Poison|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Roselia|Grass|Poison|3}}
+{{learnlist/breed8|{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}|Cotton Spore|Grass|Status|—|100|40||}}
+{{learnlist/breed8|{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}|Extrasensory|Psychic|Special|80|100|20||}}
+{{learnlist/breed8|{{MSP/H|0071|Victreebel}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0192|Sunflora}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/breed8|{{MSP/H|0035|Clefairy}}{{MSP/H|0036|Clefable}}{{MSP/H|0176|Togetic}}{{MSP/H|0468|Togekiss}}|Life Dew|Water|Status|—|—|10||}}
+{{learnlist/breed8|{{MSP/H|0286|Breloom}}|Mind Reader|Normal|Status|—|—|5||}}
+{{learnlist/breed8|{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}|Pin Missile|Bug|Physical|25|95|20||}}
+{{learnlist/breed8|{{MSP/H|0114|Tangela}}{{MSP/H|0465|Tangrowth}}{{MSP/H|0455|Carnivine}}|Power Whip|Grass|Physical|120|85|10|*|'''}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0071|Victreebel}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0455|Carnivine}}|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0071|Victreebel}}{{MSP/H|0114|Tangela}}{{MSP/H|0465|Tangrowth}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}|Sleep Powder|Grass|Status|—|75|15||}}
+{{learnlist/breed8|{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}|Spikes|Ground|Status|—|—|20||}}
+{{learnlist/breed8|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0315|Roselia}}{{MSP/H|0407|Roserade}}{{MSP/H|0357|Tropius}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}|Synthesis|Grass|Status|—|—|5||}}
+{{learnlist/breedf/8|Roselia|Grass|Poison|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{gameabbrev8|SwSh}}{{gameabbrev8|BDSP}}
+{{learnlist/tutorh/8|Roselia|Grass|Poison|3}}
+{{learnlist/tutor8|Grassy Glide|Grass|Physical|70|100|20||'''|no|yes}}
+{{learnlist/tutorf/8|Roselia|Grass|Poison|3}}
+
+{{gameabbrev8|LA}}
+{{learnlist/tutorh/PLA|Roselia|Grass|Poison|3}}
+{{learnlist/tutorPLA|Dazzling Gleam|Fairy|Special|75|90|60|100|100|10||}}
+{{learnlist/tutorPLA|Energy Ball|Grass|Special|80|100|60|100|100|10||'''}}
+{{learnlist/tutorPLA|Magical Leaf|Grass|Special|60|75|45|—|—|20||'''}}
+{{learnlist/tutorPLA|Poison Jab|Poison|Physical|80|100|60|100|100|10||'''}}
+{{learnlist/tutorPLA|Rest|Psychic|Status|—|—|—|—|—|10||}}
+{{learnlist/tutorPLA|Shadow Ball|Ghost|Special|80|100|60|100|100|10||}}
+{{learnlist/tutorPLA|Sludge Bomb|Poison|Special|80|100|60|100|100|10||'''}}
+{{learnlist/tutorPLA|Spikes|Ground|Physical|40|50|30|100|100|20||}}
+{{learnlist/tutorPLA|Swift|Normal|Special|60|75|45|—|—|20||}}
+{{learnlist/tutorf/8|Roselia|Grass|Poison|3}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Roselia|Grass|Poison|4}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Roselia|Grass|Poison|4}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Roselia|Grass|Poison|3}}
+{{learnlist/prevgen8|Roselia|3|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Roselia|3|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Roselia|3|Covet|Normal|Physical|60|100|25|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Roselia|3|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Roselia|3|Double Team|Normal|Status|—|—|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Roselia|3|Double-Edge|Normal|Physical|120|100|15|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Roselia|3|Flash|Normal|Status|—|100|20|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Roselia|3|Frustration|Normal|Physical|—|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Roselia|3|Fury Cutter|Bug|Physical|40|95|20|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Roselia|3|Grass Whistle|Grass|Status|—|55|15|III=yes<!--level-->|IV=yes<!--level-->|V=yes<!--level,breed-->|VI=yes<!--level,breed-->|VII=yes<!--level,breed-->|x=yes}}
+{{learnlist/prevgen8|Roselia|3|Hidden Power|Normal|Special|60|100|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Roselia|3|Mimic|Normal|Status|—|—|10|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Roselia|3|Mind Reader|Normal|Status|—|—|5|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->}}
+{{learnlist/prevgen8|Roselia|3|Mud-Slap|Ground|Special|20|100|10|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Roselia|3|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Roselia|3|Nature Power|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Roselia|3|Nightmare|Ghost|Status|—|100|15|III=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Roselia|3|Psych Up|Normal|Status|—|—|10|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Roselia|3|Return|Normal|Physical|—|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Roselia|3|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Roselia|3|Swagger|Normal|Status|—|85|15|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Roselia|3|Sweet Kiss|Fairy|Status|—|75|10|III=event<!--XD-->}}
+{{learnlist/prevgen8|Roselia|3|Water Sport|Water|Status|—|—|15|IV=yes<!--prevo-->|V=yes<!--prevo-->|VI=yes<!--prevo-->|VII=yes<!--prevo-->|x=yes}}
+{{learnlist/prevgenf/8|Roselia|Grass|Poison|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg psychic color}}; border: 3px solid #{{tcg psychic color dark}}"
+|-
+! style="background: #{{tcg psychic color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg psychic color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Headbutt}}
+| style="background:#fff; {{roundybr|5px}}" | [[Roselia (Stormfront 72)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Poison}}
+{{Spindata/PinballRS|col=3|type=Grass|ndex=315|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=315|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=315
+|body=1
+|rate=7
+|area=Beau Plains
+|P1=Let the aroma of my flowers relax you.
+|P2=I'm not pleased to see my HP is down by half.
+|P3=I can't take this... I'm out of fragrance and strength...
+|PL=I've leveled up! But relax! Relax!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=315
+|body=1
+|rate=6.4
+|IQ=H
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=315
+|coset=8
+|conto={{p|Budew}}, {{p|Carracosta}}
+|recruitment=Talk to in [[Serene Village]]
+|P1=I should get out of the village. Don't we all need exercise?
+|P2=Am I gonna faint?
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=2
+|num=009
+|browser=It attacks by scattering pollen.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=2
+|past=NA
+|num=146
+|browser=It launches leaf blades around itself.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=315 f
+|walk=2.18
+|hp=48
+|attack=75
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=315
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=315|num=341
+|min=60
+|max=125
+|raisemaxlevel=15
+|skill=Rock Break
+|skilldesc=Destroys one breakable-rock disruption without fail.
+|swapper=Hyper Drain
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=315
+|buddy=3
+|hatch=N/A
+|candy=Roselia
+|evocandy=100 + {{bag/GO|Sinnoh Stone}}1
+|stamina=137|attack=186|defense=131
+|fast={{m|Poison Jab}}, {{m|Razor Leaf}}, {{m|Magical Leaf}}{{tt|*|From September 1, 2023 onward}}
+|special={{m|Petal Blizzard}}, {{m|Sludge Bomb}}, {{m|Dazzling Gleam}}
+}}
+|}
+
+In {{g|GO}}, Roselia can be obtained by completing 1/4 of the {{OBP|Ticketed event|GO|Ticketed Special Research}}, ''Stop and Smell the Roselia''.
+
+===Evolution data===
+{{evobox-3
+|type1=Grass
+|type2=Poison
+|pictype=art
+|no1=0406
+|name1=Budew
+|type1-1=Grass
+|type2-1=Poison
+|evo1={{Bag/s|Rare Candy|SV}} + {{Bag/s|Soothe Bell|SV}} + [[File:Day Icon SV.png|40px|link=Time]]<br>{{color2|000|Level|Level up}} with high {{color2|000|friendship}}<br><small>during the {{color2|000|Time|day}}</small>
+|breed={{Bag/s|Rose Incense|SV}}<br>{{color2|000|Pokémon breeding|Breed}}<br>holding {{color2|000|Rose Incense}}
+|no2=0315
+|name2=Roselia
+|type1-2=Grass
+|type2-2=Poison
+|evo2={{Bag/s|Shiny Stone|SV}}<br>{{color2|000|Shiny Stone}}
+|no3=0407
+|name3=Roserade
+|type1-3=Grass
+|type2-3=Poison
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Poison}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=315}}
+{{Spritebox/4/Gender|ndex=315}}
+{{Spritebox/5/Gender|ndex=315}}
+{{Spritebox/6/Gender|ndex=315|crop=70}}
+{{Spritebox/7/Gender|ndex=315|crop=70}}
+{{Spritebox/8/GenderLA|ndex=315|LAcrop=123}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/Gender|ndex=0315}}
+{{Spritebox/Footer|315|Roselia}}
+
+==In animation==
+[[File:Nando Roselia.png|thumb|250px|Roselia in {{aniseries|DP}}]]
+===Major appearances===
+====[[Drew's Roselia]]====
+Roselia debuted in [[AG033|''Now'' That's ''Flower Power!'']], under the ownership of [[Drew]]. It is his signature Pokémon, and it has been used in many [[Pokémon Contest]]s. It evolved into a Roserade at some point between ''[[AG187|The Unbeatable Lightness of Seeing!]]'' and ''[[DP076|A Full Course Tag Battle!]]'', while Drew was in [[Johto]].
+
+====[[Nando's Roselia]]====
+[[Nando]] owned a Roselia, which evolved from his Budew during a {{pkmn|battle}} against {{Ash}} and his {{AP|Pikachu}} in ''[[DP004|Dawn of a New Era!]]''. It later evolved into Roserade at some point prior to ''[[DP176|Coming Full-Festival Circle!]]''.
+
+====Other====
+In ''[[AG046|Candid Camerupt]]'', [[Winstrate family|Victoria Winstrate]] used a Roselia in a battle against {{an|May}}.
+
+In ''[[AG052|Cheer Pressure]]'', a Roselia was part of [[Sheridan]]'s cheering squad along with a {{p|Makuhita}}, {{p|Vileplume}}, and {{p|Shroomish}}. Sheridan later assigned it to heal [[James's Cacnea]] and [[Jessie's Seviper]] with {{m|Aromatherapy}}.
+
+In ''[[BW125|Cilan and the Case of the Purrloin Witness!]]'', [[Mr. Shaw]] used a Roselia to put [[Mrs. Ripple]]'s {{p|Watchog}} asleep while its Trainer tried to take a look at the prize "Eye of Liepard" jewel.
+
+In ''[[PK27|Pikachu and the Pokémon Music Squad]]'', a Roselia was living in a forest.
+
+===Minor appearances===
+A Roselia appeared in ''[[AG077|A Fan with a Plan]]''.
+
+A {{pkmn|Coordinator}}'s Roselia appeared in ''[[AG115|Mean With Envy]]''.
+
+A Roselia appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+In ''[[DP086|Arriving in Style!]]'', a [[Pokémon Stylist]]'s Roselia competed in the [[Hearthome Collection]].
+
+In the opening sequence of ''[[M12|Arceus and the Jewel of Life]]'', a Roselia was in an {{tc|Aroma Lady}}'s field of flowers.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', a Roselia was living at [[Pokémon Hills]].
+
+A Roselia appeared in ''[[XY002|Lumiose City Pursuit!]]''.
+
+In ''[[XY026|A Battle by Any Other Name!]]'', a {{pkmn|Trainer}}'s Roselia competed in the [[Poké Puff Contest]].
+
+In ''[[XY059|Under the Pledging Tree!]]'', a Trainer's Roselia attended the [[Coumarine City Festival]].
+
+A Trainer's Roselia appeared in ''[[XY080|Performing with Fiery Charm!]]''.
+
+A Trainer's Roselia appeared in ''[[XY136|Forming a More Perfect Union!]]''.
+
+A Roselia appeared in a fantasy in ''[[JN057|Memories of a Warming Kindness!]]''.
+
+A Trainer's Roselia appeared in ''[[JN074|Nightfall? Nightmares!]]''.
+
+In ''[[JN110|Narrowing the Chaser Chase!]]'', multiple Roselia were used as part of a [[Project Mew]] [[Field Research|Trial Mission]] at [[Sea Mauville]].
+
+A Roselia appeared in ''[[HZ001|The Pendant That Starts It All (Part One)]]'', under the ownership of a student of [[Indigo Academy]].
+
+A Trainer's Roselia appeared in ''[[HZ008|The Door That Never Opens]]''.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG033|Roselia|Ash's Pokédex|Roselia, the Thorn Pokémon. Roselia's aroma can bring serenity, but the thorns on its head contain a vicious poison.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+
+==In the manga==
+[[File:Wally Roselia.png|thumb|100px|Roselia in [[Pokémon Adventures]]]]
+===Ash & Pikachu===
+{{main|Drew's Roselia}}
+[[Drew]] owns a Roselia similar to the animated series.
+
+A Roselia appears in ''[[SP22|A Pokémon Battle Against An Entire Family?!]]'', under the ownership of Victoria of the [[Winstrate family]].
+
+===Pocket Monsters Diamond & Pearl===
+A Roselia appeared in [[PDP09]].
+
+===Pocket Monsters DP===
+A Roselia appeared in [[PMDP07]].
+
+A Roselia appeared in [[PMDP58]], under the ownership of a {{tc|Rich Boy}}.
+
+===Pokémon Adventures===
+{{adv|Wally}} caught a Roselia on {{rt|117|Hoenn}} who first appeared in ''[[PS240|Talk About Timing, Treecko]]'', which still remains on his team to this day. Being fairly small, it typically rests on Wally's shoulder and heals Pokémon with its {{m|Aromatherapy}}.
+
+Multiple Roselia appeared in ''[[PS367|Suffering Psyduck]]''.
+
+A wild Roselia appeared in the [[Wild Area]] in ''[[PASS04|Zap!! A Rising Beam of Light]]''.
+
+===Pokémon Diamond and Pearl Adventure!===
+A {{pkmn|Trainer}}'s Roselia appeared in ''[[DPA06|Beauty Contest: The Pokémon Super Contest!!]]'', where it was seen participating in a [[Pokémon Super Contest]].
+
+==In the TCG==
+{{main|Roselia (TCG)}}
+
+==Trivia==
+* Roselia is the only Pokémon to receive both a pre-evolved form and an evolved form in the same [[generation]] outside of its debut generation.
+* Roselia and its evolved form are the only {{type|Poison}} Pokémon in the {{egg3|Fairy}}.
+* In 2007, employees of Nintendo of America put {{DL|List of GTS event Pokémon|Heracross}} up on the [[Global Terminal|Global Trade Station]] for a Japanese Roselia.
+* Roselia is one of fourteen Pokémon that one can collect [[foreign Pokédex entries]] for in {{game|Diamond and Pearl|s}}.
+
+===Origin===
+Roselia may be based on {{wp|rose}} bushes. Its humanoid design, connection to flowers, and one of its [[Egg Group]]s suggest that it may also be based on {{wp|fairy|fairies}}. While red and blue are known rose colors, these two specifically together could be referencing {{wp|hydrangea}}s, which produce red or blue flowers depending on the {{wp|soil pH|pH level of the soil}}.
+
+====Name origin====
+Roselia may be a combination of ''{{wp|rose}}'', ''{{wp|azalea}}'', and ''{{wp|camellia}}''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Poison
+|ja=ロゼリア ''Roselia''|jameaning=From ''{{wp|rose}}'' and ''{{wp|azalea}}'' or ''{{wp|camellia}}''
+|fr=Rosélia|frmeaning=Same as English/Japanese name
+|es=Roselia|esmeaning=Same as English/Japanese name
+|de=Roselia|demeaning=Same as English/Japanese name
+|it=Roselia|itmeaning=Same as English/Japanese name
+|ko=로젤리아 ''Rozelia''|komeaning=Transcription of Japanese name
+|zh_cmn=毒薔薇 / 毒蔷薇 ''Dúqiángwéi / Dúqiángwēi''|zh_cmnmeaning=From {{tt|毒 ''dú''|poison}} and {{tt|薔薇 / 蔷薇 ''qiángwéi / qiángwēi''|rose}}
+|zh_yue=毒薔薇 ''Duhkchèuhngmèih''|zh_yuemeaning=From {{tt|毒 ''duhk''|poison}} and {{tt|薔薇 ''chèuhngmèih''|rose}}
+|hi=रोज़ेलिया ''Roselia''|himeaning=Transcription of English name
+|ru=Розелия ''Rozeliya''|rumeaning=Transcription of English name
+|th=โรเซเลีย ''Roselia''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Drew's Roselia]]
+* [[Nando's Roselia]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0314|prev=Illumise|nextnum=0316|next=Gulpin}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Pokémon that evolve by Evolution stone]]
+[[Category:Pokémon that evolve using Shiny Stone]]
+[[Category:Pokémon whose EV yield changed]]
+
+[[de:Roselia]]
+[[es:Roselia]]
+[[fr:Rosélia]]
+[[it:Roselia]]
+[[ja:ロゼリア]]
+[[zh:毒蔷薇]]

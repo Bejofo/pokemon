@@ -1,0 +1,428 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Poltchageist}}
+{{PokémonPrevNext/Pokémon|type=Grass|type2=Ghost|prevnum=1011|prev=Dipplin|nextnum=1013|next=Sinistcha|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Poltchageist
+|jname=チャデス
+|tmname=Chadeath
+|jtranslit=Chadesu
+|forme=3
+|form2=Counterfeit Form
+|form3=Artisan Form
+|image2=HOME1012 b.png
+|image3=HOME1012A b.png
+|ndex=1012
+|type1=Grass
+|type2=Ghost
+|category=Matcha
+|height-ftin=0'04"
+|height-m=0.1
+|weight-lbs=2.4
+|weight-kg=1.1
+|abilitylayout=2
+|ability1=Hospitality
+|abilityd=Heatproof
+|egggroupn=2
+|egggroup1=Mineral
+|egggroup2=Amorphous
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=62
+|lv100exp=1,000,000
+|gendercode=255
+|color=Green
+|catchrate=120
+|body=01
+|pokefordex=poltchageist
+|generation=9
+|friendship=50
+}}
+'''Poltchageist''' ([[List of Japanese Pokémon names|Japanese]]: '''チャデス''' ''Chadeath'') is a dual-type {{2t|Grass|Ghost}} {{OBP|Pokémon|species}} introduced during [[Generation IX]], in [[The Teal Mask]].
+
+It [[Evolution|evolves]] into {{p|Sinistcha}} when exposed to an [[Unremarkable Teacup]] or a [[Masterpiece Teacup]], depending on Poltchageist's [[#Form data|form]].
+* '''Counterfeit Form''' (if it lacks a stamp of authenticity) requires an [[Unremarkable Teacup]] to evolve into '''Unremarkable Form''' Sinistcha.
+* '''Artisan Form''' (if it has a stamp of authenticity) requires a [[Masterpiece Teacup]] to evolve into '''Masterpiece Form''' Sinistcha.
+
+It is {{pkmn2|ecologically similar}} to {{p|Sinistea}}; however, the two are separate species.
+
+==Biology==
+[[File:1012Poltchageist Dream 2.png|250px|thumb|left|Poltchageist's swirl pattern]]
+Poltchageist is a Pokémon made of {{wp|matcha}} tea powder that inhabits a {{wp|tea caddy}}; specifically a 茶入 {{wp|chaki#Chaire|''chaire''}}, a kind used in the traditional {{wp|Japanese tea ceremony}}. The tea caddy is primarily black and white, with a white lid, a sealed crack near the top, and a painted pattern resembling a face (and functioning as one, being able to change to express emotions). Poltchageist is always seen carrying a 茶杓 {{wp|Japanese tea utensils#Tea scoops|''chashaku''}}, the tea scoop used to transfer tea powder into the tea bowl in the aforementioned tea ceremony.
+
+Poltchageist heavily resembles {{p|Sinistea}}, although they are not biologically related. On top of its matcha body, just below its lid, is a yellow swirl pattern similar to the one found on Sinistea. On Sinistea, this swirl pattern serves as its weak spot and will cause it to become dizzy if stirred; however, this is not the case for Poltchageist.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/poltchageist/ Poltchageist | Pokémon Scarlet and Pokémon Violet Official Website]</ref>
+
+According to an old tale, Poltchageist was born from the regrets of an old tea master, who was so obsessed with perfecting the art of the tea ceremony that he drove away everyone around him.<ref name=YoutubeCha>(August 22, 2023). "[https://www.youtube.com/watch?v=sMWrwe9fJJk The Haunting Tale of Poltchageist]." [https://www.youtube.com/c/pokemon The Official Pokémon YouTube Channel]. ''YouTube''.</ref> Poltchageist is more active at night than during the day, prowling around towns and their outskirts. By day, Poltchageist dwells in cool, dark places — usually in old houses, which is its favorite.<ref name=SVsite/>
+
+Poltchageist tends to scatter its matcha powder on people and food. If someone touches or ingests the powder, they will notice their skin apparently glowing for a brief moment, before they fall unconscious as their life force is sapped away by the powder for Poltchageist to use as energy.<ref name=SVsite/> It is capable of draining energy in this way from many people at once.<ref name=YoutubeCha/> Another behavior exhibited by Poltchageist is its strong tendency to repair broken objects and seal cracks by filling them in with its matcha powder.<ref name=SVsite/><ref name=YoutubeCha/>
+
+Poltchageist and its evolved form, {{p|Sinistcha}}, are the [[Signature Ability|only known Pokémon]] that can have {{a|Hospitality}} as an [[Ability]].
+
+===Forms===
+Poltchageist has two separate forms: Counterfeit Form and Artisan Form. Telling either of these forms apart requires careful inspection; an Artisan Form Poltchageist bears a stamp of authenticity on the base of its caddy, while a Counterfeit Form Poltchageist lacks it.
+
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{grass color}}; {{roundy|10px}} border: 3px solid #{{ghost color dark}}"
+|-
+| Counterfeit Form
+|-
+| style="{{roundy|96px}} border: 2px solid #{{ghost color dark}}; background: #{{grass color light}}; width:96px; height:96px"| [[File:1012Poltchageist-Counterfeit Dream.png|100px]]
+|}
+|
+{| style="background: #{{grass color}}; {{roundy|10px}} border: 3px solid #{{ghost color dark}}"
+|-
+| Artisan Form
+|-
+| style="{{roundy|96px}} border: 2px solid #{{ghost color dark}}; background: #{{grass color light}}; width:96px; height:96px"| [[File:1012Poltchageist-Artisan Dream.png|100px]]
+|}
+|}
+
+===Evolution===
+Poltchageist evolves into {{p|Sinistcha}}.
+
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-2
+|pictype=art
+|type1=Grass
+|type2=Ghost
+|no1=1012
+|name1=Poltchageist
+|type1-1=Grass
+|type2-1=Ghost
+|evo1=
+|no2=1013
+|name2=Sinistcha
+|type1-2=Grass
+|type2-2=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Ghost}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=76|reg3=Blueberry}}
+{{Dex/Form|Counterfeit Form}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Poltchageist looks like a [[regional form]] of {{p|Sinistea}}, but it was recently discovered that the two Pokémon are entirely unrelated.}}
+{{Dex/Form|Artisan Form}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It sprinkles some of its powdery body onto food and drains the life-force from those who so much as lick it.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It has taken up residence in a very expensive tea caddy. It takes an expert to distinguish the expensive tea caddies from the cheap ones.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Poltchageist SV Kitakami.png|x200px]]
+|-
+| Poltchageist in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Ghost}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|1|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Reveler's Road]], [[Mossfell Confluence]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Kitakami)|Poltchageist - Counterfeit Form|3★}}) <small>('''Counterfeit Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Ghost
+|HP=40
+|Attack=45
+|Defense=45
+|SpAtk=74
+|SpDef=54
+|Speed=50
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=100
+|Bug=100
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|heatproof=maybe
+|newfire=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+
+{{learnlist/levelh/9|Poltchageist|Grass|Ghost|9}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|1|Withdraw|Water|Status|—|—|40}}
+{{learnlist/level9|1|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level9|6|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|12|Life Dew|Water|Status|—|—|10}}
+{{learnlist/level9|18|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/level9|24|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|30|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level9|36|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/level9|42|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|48|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level9|54|Memento|Dark|Status|—|100|10}}
+{{learnlist/level9|60|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/9|Poltchageist|Grass|Ghost|9}}
+
+====By [[TM]]====
+
+{{learnlist/tmh/9|Poltchageist|Grass|Ghost|9}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM151|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM188|Scald|Water|Special|80|100|15}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Poltchageist|Grass|Ghost|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Poltchageist|Grass|Ghost|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Poltchageist|Grass|Ghost|9}}
+
+====Special moves====
+{{learnlist/eventh/9|Poltchageist|Grass|Ghost|9}}
+{{learnlist/event9|[[Mossfell Confluence|Wild Tera Pokémon]]|Scald|Water|Special|80|100|15}}
+{{learnlist/event9|[[Mossfell Confluence|Wild Tera Pokémon]]|Spite|Ghost|Status|—|100|10}}
+{{learnlist/eventf/9|Poltchageist|Grass|Ghost|9}}
+
+===Side game data===
+====Counterfeit Form====
+{{Spindata/Head|type=Grass|type2=Ghost}}
+{{Spindata/GO|col=6|type=Grass|ndex=1012
+|egg=N/A
+|buddy=3
+|candy=Poltchageist
+|evocandy=50
+|stamina=120
+|attack=134
+|defense=96
+|fast={{m|Magical Leaf}}, {{m|Astonish}}
+|special={{m|Energy Ball}}, {{m|Poltergeist}}, {{m|Shadow Ball}}
+}}
+|}
+
+====Artisan Form====
+{{Spindata/Head|type=Grass|type2=Ghost}}
+{{Spindata/GO|col=6|type=Grass|ndex=1012A
+|egg=N/A
+|buddy=3
+|candy=Poltchageist
+|evocandy=400
+|stamina=120
+|attack=134
+|defense=96
+|fast={{m|Magical Leaf}}, {{m|Astonish}}
+|special={{m|Energy Ball}}, {{m|Poltergeist}}, {{m|Shadow Ball}}
+}}
+|}
+
+===Form data===
+Poltchageist has two separate forms: Counterfeit Form and Artisan Form. Its form determines the {{fd|Sinistcha|form}} of {{p|Sinistcha}} it [[Evolution|evolves]] into and cannot be changed.
+
+The Artisan Form is rarer and has a stamp of authenticity hidden on the underside of its base. The only functional difference between the two forms is the [[Evolution item]] used by Poltchageist to evolve into Sinistcha: Counterfeit Form Poltchageist requires an [[Unremarkable Teacup]] to evolve into Unremarkable Form Sinistcha, while Artisan Form Poltchageist requires a [[Masterpiece Teacup]] to evolve into Masterpiece Form Sinistcha. 
+
+Artisan Form Poltchageist does not obey typical {{DL|Pokémon breeding|Inheriting forms|form inheritance}} rules when breeding, and therefore cannot produce {{pkmn|Egg}}s that contain Artisan Form Poltchageist. All Poltchageist that hatch from Eggs will always be Counterfeit Form, regardless of the parent's form.
+
+{| class="roundy" style="margin:auto; text-align:center; background:#FFF"
+|-
+| class="roundy" width="50%" style="background:#{{grass color light}}" | Counterfeit Form<br>[[File:HOME1012 b.png|150px]]<br>{{color2|000|Poltchageist (Pokémon)|Poltchageist}}
+| class="roundy" width="50%" style="background:#{{grass color}}" | Artisan Form<br>[[File:HOME1012A b.png|150px]]<br>{{color2|000|Poltchageist (Pokémon)|Poltchageist}}
+|}
+
+===Evolution data===
+====Counterfeit Form====
+{{evobox-2
+|pictype=sprite
+|type1=Grass
+|type2=Ghost
+|no1=HOME1012_b
+|name1=Poltchageist
+|type1-1=Grass
+|type2-1=Ghost
+|form1=Counterfeit Form
+|evo1={{Bag/s|Unremarkable Teacup|SV}}<br>{{color2|000|Unremarkable Teacup}}
+|no2=HOME1013_b
+|name2=Sinistcha
+|type1-2=Grass
+|type2-2=Ghost
+|form2=Unremarkable Form}}
+
+====Artisan Form====
+{{evobox-2
+|pictype=sprite
+|type1=Grass
+|type2=Ghost
+|no1=HOME1012A_b
+|name1=Poltchageist
+|type1-1=Grass
+|type2-1=Ghost
+|form1=Artisan Form
+|evo1={{Bag/s|Masterpiece Teacup|SV}}<br>{{color2|000|Masterpiece Teacup}}
+|no2=HOME1013M_b
+|name2=Sinistcha
+|type1-2=Grass
+|type2-2=Ghost
+|form2=Masterpiece Form}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Ghost}}
+{{Spritebox/NA|gen=IX}}
+<!-- {{Spritebox/9/2Forms|ndex=1012|form1=A b}} -->
+{{Spritebox/HOME/3Forms|ndex=1012|form1=_b|form2=A b}}
+{{Spritebox/Footer|1012|Poltchageist}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+
+==In the TCG==
+{{main|Poltchageist (TCG)}}
+
+==Trivia==
+[[File:The Haunting Tale of Poltchageist Poster.png|200px|thumb|The Haunting Tale of Poltchageist poster]]
+* Poltchageist was first teased during the [[2023 Pokémon World Championships]], where attendees were given a tea ceremony set with the date of the reveal trailer's release included. Additional teasers included the official Pokémon website featuring a background decorated with matcha powder, and a [[Kitakami]] poster advertising the in-universe theatrical performance shown in the trailer.
+* Despite being a counterpart of {{p|Sinistea}},<ref name=SVsite/> Poltchageist's name resembles that of Sinistea's evolved form, {{p|Polteageist}}. The reverse is also true for {{p|Sinistcha}}. They are the only [[ecologically similar Pokémon]] with this distinction.
+* The Poltchageist and Sinistea lines are the only ecologically similar Pokémon that share a [[type]] and [[Egg Group]]s with each other, as well as the only ones with multiple forms.
+* Out of all Pokémon, Poltchageist is tied with {{p|Basculegion}} and {{p|Slither Wing}} for the greatest number of unique characters in its English name, with 11 (including spaces).
+* Poltchageist is the shortest {{type|Grass}} Pokémon, and is tied with Sinistea and {{form|Gimmighoul|Roaming Form}} {{p|Gimmighoul}} as the shortest {{type|Ghost}} Pokémon.
+
+===Origin===
+Poltchageist appears to be based on {{wp|matcha}}, which is green tea that has been specially grown, processed, and finely ground into powder. It may also be based on a {{wp|tsukumogami}}, being an inanimate household object come to life — in this case, equipment used in a {{wp|Japanese tea ceremony}}. The three dots above Poltchageist's left eye resemble the {{wp|List of Japanese map symbols|Japanese map symbol}} for tea plantations.
+
+Poltchageist's overall design resembles {{p|Sinistea}}, having similar eyes and spiral-like markings within its tea.<ref name=SVsite/> This may be a reference to {{wp|convergent evolution}} or {{wp|parallel evolution}}, which can lead to separate organisms independently developing similar or identical characteristics and body plans.
+
+Additionally, due to the way it repairs broken objects, Poltchageist is also based on the process of 金継ぎ ''{{wp|kintsugi}}'',<ref>[https://www.pokemon.co.jp/ex/sv_dlc/ja/pokemon/230822_01/ チャデス｜『ポケットモンスター スカーレット・バイオレット ゼロの秘宝』公式サイト]</ref> in which cracked and broken pottery is mended using lacquer mixed with a metallic powder, usually gold.
+
+Poltchageist's forms may be based on {{wp|stoneware}} forgeries. One historical way to combat stoneware forgeries was to create a {{wp|Seal (emblem)|stamp of authenticity}} on products, hence the stamp under Artisan Form Poltchageist. It may also be a reference to the difference between unremarkable household objects and rare variants of them which are seen as antiques or masterpieces.
+
+Poltchageist may also be based on the {{wp|Sandman}}, a mythical being which uses sand to make humans fall asleep, although in this case, it uses matcha powder instead.
+
+====Name origin====
+Poltchageist may be a combination of ''{{wp|poltergeist}}'' and 抹茶 ''matcha'', following the same naming pattern as {{p|Polteageist}}.
+
+Chadeath may be a combination of 抹茶 ''matcha'', ''death'', and ポットデス ''Potdeath'' (Polteageist), as well as a pun on 茶です ''cha desu'' ("It's tea").
+
+==In other languages==
+{{Other languages|type=Grass|type2=Ghost
+|ja=チャデス ''Chadeath''|jameaning=From 抹茶 ''{{wp|matcha}}'', ''death'', and {{tt|茶です ''cha desu''|It's tea}}
+|fr=Poltchageist|frmeaning=Same as English name
+|es=Poltchageist|esmeaning=Same as English name
+|de=Mortcha|demeaning=From ''{{tt|mors|Latin for death}}'' or ''{{tt|mort|French for death}}'' and 抹茶 ''matcha''
+|it=Poltchageist|itmeaning=Same as English name
+|ko=차데스 ''Chadeseu''|komeaning=Transcription of Japanese name
+|zh_cmn=斯魔茶 ''Sīmóchá''|zh_cmnmeaning=From {{tt|斯 ''sī''|this}}, {{tt|魔 ''mó''|demon}}, {{tt|茶 ''chá''|tea}}, and {{tt|是抹茶 ''shì mǒchá''|It's matcha}}
+|zh_yue=斯魔茶 ''Sīmōchàh''|zh_yuemeaning=From {{tt|斯 ''sī''|this}}, {{tt|魔 ''mō''|demon}}, {{tt|茶 ''chàh''|tea}}, and {{tt|是抹茶 ''sih mutchàh''|It's matcha}}
+|th=ฉะเดธ ''Chadet''|thmeaning=Transcription of Japanese name}}
+{{-}}
+<div style="display:inline-block">
+''Counterfeit Form''
+{{langtable|color={{grass color}}|bordercolor={{ghost color}}
+|ja=マガイモノのすがた ''Imitation Form''
+|zh_yue=冒牌貨的樣子 ''{{tt|Mouhpàaihfo dīk Yeuhngjí|Counterfeit Form}}
+|zh_cmn=冒牌貨的樣子 / 冒牌货的样子 ''{{tt|Màopáihuò de Yàngzi|Counterfeit Form}}
+|fr=Forme Imitation
+|de=Imitationsform
+|it=Forma Taroccata
+|ko=가짜배기의 모습 ''Gajjabaegiui moseub''
+|es=Forma Fraudulenta
+|th=ร่างของเก๊
+}}</div>
+<div style="display:inline-block">
+''Artisan Form''
+{{langtable|color={{grass color}}|bordercolor={{ghost color}}
+|ja=タカイモノのすがた ''Priceless Form''
+|zh_yue=高檔貨的樣子 ''{{tt|Gōudong Fo dīk Yeuhngjí|Superior Goods Form}}
+|zh_cmn=高檔貨的樣子 / 高档货的样子 ''{{tt|Gāodàng Huò de Yàngzi|Superior Goods Form}}
+|fr=Forme Onéreuse
+|de=Kostbarkeitsform
+|it=Forma Pregiata
+|ko=알짜배기의 모습 ''Aljjabaegiui moseub''
+|es=Forma Opulenta
+|th=ร่างของแพง
+}}</div>
+
+==Related articles==
+* [[Ecologically similar Pokémon]]
+* [[List of Pokémon with form differences]]
+
+==References==
+<references/>
+
+==External links==
+
+{{Ecologically similar Pokémon}}
+
+{{PokémonPrevNext/Head|type=Grass|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Grass|type2=Ghost|prevnum=1011|prev=Dipplin|nextnum=1013|next=Sinistcha}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve using Unremarkable Teacup]]
+[[Category:Pokémon that evolve using Masterpiece Teacup]]
+[[Category:Pokémon introduced in The Teal Mask]]
+
+[[de:Mortcha]]
+[[es:Poltchageist]]
+[[fr:Poltchageist]]
+[[it:Poltchageist]]
+[[ja:チャデス]]
+[[zh:斯魔茶]]

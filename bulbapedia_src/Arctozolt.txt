@@ -1,0 +1,302 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Ice}}
+{{PokémonPrevNext/GO|species=Arctozolt}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0880|prev=Dracozolt|nextnum=0882|next=Dracovish}}
+|}
+{{Pokémon Infobox
+|name=Arctozolt
+|jname=パッチルドン
+|jtranslit=Patchirudon
+|tmname=Patchilldon
+|ndex=0881
+|type1=Electric
+|type2=Ice
+|category=Fossil
+|height-ftin=7'07"
+|height-m=2.3
+|weight-lbs=330.7
+|weight-kg=150.0
+|abilityn=d
+|ability1=Volt Absorb
+|ability2=Static
+|abilityd=Slush Rush
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|eggcycles=35
+|evtotal=2
+|evat=2
+|expyield=177
+|lv100exp=1,250,000
+|gendercode=255
+|color=Blue
+|catchrate=45
+|body=06
+|pokefordex=arctozolt
+|generation=8
+|friendship=50
+}}
+'''Arctozolt''' ([[List of Japanese Pokémon names|Japanese]]: '''パッチルドン''' ''Patchilldon'') is a dual-type {{2t|Electric|Ice}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It is revived from combining a [[Fossilized Bird]] and a [[Fossilized Dino]]. It is not known to [[Evolution|evolve]] into or from any other Pokémon, but appears to be related to {{p|Dracozolt}} and {{p|Arctovish}}.
+
+==Biology==
+Arctozolt is a hybrid fossil {{OBP|Pokémon|species}}. It has a light-blue body with a snow-like patch on the top. Its body has blue fins with white patches on the ends and some spots. It has a plesiosaur-like tail with a fin on top. It has two yellow hands. Arctozolt has a {{wp|Paraves|paravian}}-like head with closed eyes and a blue spot on each cheek. It produces mucus from its nose.
+
+By shaking its freezing upper half, Arctozolt can generate electricity. It was known to live on ancient shores and preserved its food with the ice on its body. It allegedly went extinct because it moved very slowly, but this is likely not the case due to Arctozolt being combined from two separate Pokémon that each had their niches before going extinct.
+
+Arctozolt and its counterpart {{p|Dracozolt}} are [[Signature move|the only known Pokémon]] capable of learning the [[move]] {{m|Bolt Beak}}.
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric|type2=Ice}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=375|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Electric|type2=Ice}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=Revive from [[Fossilized Bird]] and [[Fossilized Dino]] by [[Cara Liss]] on {{rt|6|Galar}}}}
+{{Availability/Entry1|v=Expansion Pass|color={{galar color}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Snowslide Slope/Dens|Snowslide Slope]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|type2=Ice
+|HP=90
+|Attack=100
+|Defense=90
+|SpAtk=90
+|SpDef=80
+|Speed=55
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Ice
+|Normal=100
+|Fighting=200
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|voltabsorb=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Arctozolt|Electric|Ice|8}}
+{{learnlist/level8|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level8|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level8|7|Charge|Electric|Status|—|—|20}}
+{{learnlist/level8|14|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/level8|21|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level8|28|Pluck|Flying|Physical|60|100|20}}
+{{learnlist/level8|35|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/level8|42|Freeze-Dry|Ice|Special|70|100|20||'''}}
+{{learnlist/level8|49|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level8|56|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level8|63|Bolt Beak|Electric|Physical|85|100|10||'''}}
+{{learnlist/level8|70|Icicle Crash|Ice|Physical|85|90|10||'''}}
+{{learnlist/level8|77|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/levelf/8|Arctozolt|Electric|Ice|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Arctozolt|Electric|Ice|8}}
+{{learnlist/tm8|TM00|Mega Punch|Normal|Physical|80|85|20}}
+{{learnlist/tm8|TM01|Mega Kick|Normal|Physical|120|75|5}}
+{{learnlist/tm8|TM05|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM51|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM54|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM64|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/tm8|TM66|Thunder Fang|Electric|Physical|65|95|15||'''}}
+{{learnlist/tm8|TM67|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm8|TM98|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tr|TR07|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tr|TR75|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tr|TR80|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tmf/8|Arctozolt|Electric|Ice|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Arctozolt|Electric|Ice|8}}
+{{learnlist/breed8null}}
+{{learnlist/breedf/8|Arctozolt|Electric|Ice|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Arctozolt|Electric|Ice|8}}
+{{learnlist/tutor8|Meteor Beam|Rock|Special|120|90|10|||no|yes}}
+{{learnlist/tutor8|Rising Voltage|Electric|Special|70|100|20||'''|no|yes}}
+{{learnlist/tutorf/8|Arctozolt|Electric|Ice|8}}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Ice}}
+{{Spindata/GO|col=6|type=Electric|ndex=0881
+|egg=N/A
+|buddy=5
+|candy=Arctozolt
+|evolution=N/A
+|stamina=207
+|attack=190
+|defense=166
+|fast={{m|Thunder Shock}}, {{m|Powder Snow}}
+|special={{m|Discharge}}, {{m|Avalanche}}, {{m|Ancient Power}}
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Electric
+|type2=Ice
+|pictype=art
+|no1=0881
+|name1=Arctozolt
+|type1-1=Electric
+|type2-1=Ice}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=Electric|type2=Ice}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=881}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0881}}
+{{Spritebox/Footer|881|Arctozolt}}
+
+==In animation==
+===Main series===
+[[File:Goh Arctozolt Full Body.png|thumb|250px|Arctozolt in {{aniseries|JN}}]]
+====Major appearances====
+{{DL|List of Goh's Pokémon|Arctozolt}} debuted in ''[[JN050|A Pinch of This, a Pinch of That!]]'', where it was restored from a pair of Fossils in the [[Wild Area]] and later {{pkmn2|caught}} by [[Goh]]. It has since made further appearances in {{aniseries|JN}}.
+
+====Minor appearances====
+
+===Pokémon: Twilight Wings===
+A {{pkmn|Trainer}}'s Arctozolt appeared in ''[[TW08|The Gathering of Stars]]''.
+{{-}}
+
+==In the manga==
+[[File:Cara Liss Arctozolt Adventures.png|left|thumb|150px|Arctozolt in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Arctozolt first appeared in ''[[PASS39|Clip-Clop!! The King's Horse]]'', under the ownership of [[Cara Liss]].
+{{-}}
+
+==In the TCG==
+{{main|Arctozolt (TCG)}}
+==Trivia==
+* Arctozolt shares its {{pkmn|category}} with {{p|Aerodactyl}}, {{p|Dracozolt}}, {{p|Dracovish}}, and {{p|Arctovish}}. They are all known as the Fossil Pokémon.
+* Arctozolt, Dracozolt, Dracovish, and Arctovish are the only [[fossil]] Pokémon to not be {{type|Rock}} or have a [[gender]].
+* Arctozolt, along with the other Galarian fossil Pokémon, was designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/1319507626372153344 Tweet by ありがひとし/ArigaHitoshi (@ariga_megamix).] Posted on October 23, 2020.</ref>
+* In {{aniseries|JN}}, [[Bray Zenn]] is the person who gives Arctozolt its species name.
+
+===Origin===
+Arctozolt, like {{p|Dracozolt}}, {{p|Dracovish}}, and {{p|Arctovish}}, may be based on the concept of {{wp|Chimera (paleontology)|chimera}} in paleontology, which refers to fossils reconstructed from multiple different species or genus of animals, resulting in an inaccurate and mistaken understanding of the animals' biology. In the case of Arctozolt, its top half appears to be based on a {{wp|Dromaeosauridae|dromaeosaurid}}, while its bottom half appears to be based on a marine reptile, like a {{wp|Plesiosauria|plesiosaur}}, {{wp|mosasaur}}, or {{wp|ichthyosaur}}. Arctozolt and the other Galarian Fossil Pokémon may also be based on the {{wp|Crystal Palace Dinosaurs}}, a series of scientifically inaccurate dinosaur sculptures displayed at the {{wp|Crystal Palace Park}}. Arctozolt may particularly reference the ''{{wp|Ichthyosaurus}}'' statue included in the series. The mucus it possesses is likely inspired by the fact that cold weather often results in a runny nose.
+
+The Pokédex entries for all the Galarian Fossil Pokémon mention them being the cause of their extinction, which may be a reference to the outdated hypothesis that the dinosaurs were evolutionarily inert, which made them get bigger, stupider, and more sluggish, to the point they could not sustain themselves.
+
+Arctozolt being unable to [[Pokémon breeding|breed]] could be a reference to {{wp|Hybrid (biology)|cross-bred}} animals, which are born {{wp|Infertility|infertile}} (unable to produce offspring).
+
+====Name origin====
+Arctozolt may be a combination of ''arctic'' and ''volt'' or ''jolt''.
+
+Patchilldon may be a combination of パチパチ ''pachipachi'' (onomatopoeia for crackling), ''chill'', and ''-don'' (common suffix in dinosaur names derived from the Ancient Greek word for tooth).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Ice
+|ja=パッチルドン ''Patchilldon''|jameaning=From {{tt|パチパチ ''pachipachi''|onomatopoeia for crackling}}, ''chill'', and {{tt|''-don''|common suffix in dinosaur names}}
+|fr=Galvagla|frmeaning=From ''{{tt|galvanique|galvanic}}'' and ''{{tt|glagla|onomatopeia suggesting coldness and shivering}}''
+|es=Arctozolt|esmeaning=Same as English name
+|de=Lecryodon|demeaning=From ''{{tt|elektrisch|electric}}'', ''{{tt|Kryo-|Greek-derived prefix for cold, freezing}}'', and {{tt|''-don''|common suffix in dinosaur names}}
+|it=Arctozolt|itmeaning=Same as English name
+|ko=파치르돈 ''Pachilldon''|komeaning=Transcription of its Japanese name
+|zh_cmn=雷鳥海獸 / 雷鸟海兽 ''Léiniǎohǎishòu''|zh_cmnmeaning=From {{tt|雷 ''léi''|thunder}}, {{tt|鳥 / 鸟 ''niǎo''|bird}}, and {{tt|海獸 / 海兽 ''hǎishòu''|marine mammal}}
+|zh_yue=雷鳥海獸 ''Lèuihníuhhóisau''|zh_yuemeaning=From {{tt|雷 ''lèuih''|thunder}}, {{tt|鳥 ''níuh''|bird}}, and {{tt|海獸 ''hóisau''|marine mammal}}
+|hi=चिलोस्पार्क ''Chillospark''|himeaning=From ''chill'' and ''spark''
+|th=พัจจิรุดอน ''Phatchirudon''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Fossil]]
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+{{Fossil}}{{PokémonPrevNext/Head|type=Electric|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0880|prev=Dracozolt|nextnum=0882|next=Dracovish}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+
+[[de:Lecryodon]]
+[[es:Arctozolt]]
+[[fr:Galvagla]]
+[[it:Arctozolt]]
+[[ja:パッチルドン]]
+[[zh:雷鸟海兽]]

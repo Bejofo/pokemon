@@ -1,0 +1,535 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Pansage}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0510|prev=Liepard|nextnum=0512|next=Simisage|round=none}}
+{{PokémonPrevNext/Disambig|species=Pansage}}
+|}
+{{Pokémon Infobox
+|name=Pansage
+|jname=ヤナップ
+|tmname=Yanappu
+|category=Grass Monkey
+|ndex=0511
+|typebox=1
+|type1=Grass
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=23.1
+|weight-kg=10.5
+|abilityn=d
+|ability1=Gluttony
+|abilityd=Overgrow
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=63
+|evtotal=1
+|evsp=1
+|lv100exp=1,000,000
+|gendercode=31
+|color=Green
+|catchrate=190
+|body=06
+|pokefordex=pansage
+|generation=5
+|friendship=70
+}}
+'''Pansage''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤナップ''' ''Yanappu'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolve]]s into {{p|Simisage}} when exposed to a [[Leaf Stone]].
+
+Pansage is one of three [[elemental monkeys]]. The other two are the {{type|Fire}} {{p|Pansear}} and the {{type|Water}} {{p|Panpour}}.
+
+==Biology==
+[[File:Pansage leaves Adventures.png|thumb|200px|left|Pansage's leaves curing exhaustion in [[Pokémon Adventures]]]]
+Pansage is a simian, green-and-cream {{OBP|Pokémon|species}}. It has oval, black eyes, large ears with light green insides, and a tiny, black nose. There is a broccoli-like sprout atop its head. In the sprout's foliage are three yellow, tapered seed-like shapes. Its muzzle, upper body, and skinny forelimbs are cream-colored, and its hands seem to have no fingers, aside from a thumb. Pansage's lower body is green with small feet, and its long tail is tipped with two leaves.
+
+The leaves in the sprout of its head are edible, and can alleviate exhaustion. Pansage dwells deep in the forest, where it collects berries to share with its friends.
+{{left clear}}
+
+===Evolution===
+Pansage evolves into {{p|Simisage}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|pictype=art
+|type1=Grass
+|no1=0511
+|name1=Pansage
+|type1-1=Grass
+|evo1=
+|no2=0512
+|name2=Simisage
+|type1-2=Grass}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=017|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=037|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.}}
+{{Dex/Entry1|v=White|entry=It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=029|label1=Central|reg2=Hoenn }}
+{{Dex/Entry1|v=X|t=FFF|entry=It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Pinwheel Forest]] (inner) and [[Lostlorn Forest]] ({{DL|Phenomenon|rustling grass}})<br>[[List of in-game event Pokémon in Pokémon Black and White#Pansage|Received]] in the [[Dreamyard]] (if the player's [[first partner Pokémon]] was {{p|Tepig}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Pinwheel Forest]] (inner) and [[Lostlorn Forest]] ({{DL|Phenomenon|rustling grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Santalune Forest]], [[Friend Safari]] ([[Friend Safari#Grass-type Safari|Grass]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Trailhead Field]], [[Echo Valley]]; Treetops: [[Sun-Dappled Bank]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Greenleaf]] (special)}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Withered Savanna]] (1F-17F), [[Holehills]] (1F-12F), [[Windy Shoreline]] (1F-11F), [[Canyon Foot]] (1F-9F), [[Silent Tundra]] (Gilded Hall), [[Dreamy Island]] (Gilded Hall), [[Moonlit Forest]] (Uncharted Road, Gilded Hall), [[Rusty Mountain]] (Uncharted Road), [[Skill Treasury]] (8F-15F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Magical Lake#Dual Launchers|Magical Lake: Dual Launchers]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 1|Blade-and-Shield Path: Stage 1]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Shrub Forest|Leafy Expanse: Shrub Forest]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 24|Area 24: Stage 03]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Snorlax Sea]], [[Rowlet Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 315]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Grass}}
+{{eventAvail|{{gameabbrev5|BW}}|Mystery Egg Cilan's Pansage|Japanese|Japan<br>Wi-Fi|1|December 17, 2010 to January 11, 2011|link=List of Wi-Fi Japanese event Pokémon distributions in Generation V#Cilan's Pansage}}
+{{eventAvail|{{gameabbrev5|BW}}|Secret Egg Cilan's Pansage|English|United States|1|April 27 to May 31, 2011|link=List of local English event Pokémon distributions in Generation V#Cilan's Pansage}}
+{{eventAvail|{{gameabbrev5|BW}}|Secret Egg Cilan's Pansage|Korean|Wi-Fi|1|June 1 to 26, 2011|link=List of Wi-Fi Korean event Pokémon distributions in Generation V#Cilan's Pansage}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Center Best Wishes Cilan's Pansage|Japanese|Japan|30|August 10 to September 6, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Cilan's Pansage}}
+|}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=Grass}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Pansage|Japanese|PGL|10|November 15, 2012 to January 10, 2013|link=List of Pokémon Global Link promotions/Pokémon#Pansage}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Grass}}
+{{HeldItems/Games2|Black|White|tcolor1=fff|Pokémon Black and White Versions}}
+{{HeldItems/Items2|Oran Berry|50|Occa Berry|5|rows=2}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|Pokémon Black and White Versions 2}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=50
+|Attack=53
+|Defense=48
+|SpAtk=53
+|SpDef=48
+|Speed=64}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+Pansage was last available in {{pkmn|Sun and Moon|Sun, Moon}}, {{pkmn|Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon}}. It is unavailable in [[Generation VIII]] and {{gen|IX}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Pansage|Grass|Grass|5}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Play Nice|Normal|Status|—|—|20}}
+{{learnlist/level7|4|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|7|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/level7|10|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level7|13|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|16|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level7|19|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|22|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level7|25|Torment|Dark|Status|—|100|15}}
+{{learnlist/level7|28|Fling|Dark|Physical|—|100|10}}
+{{learnlist/level7|31|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/level7|34|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/level7|37|Recycle|Normal|Status|—|—|10}}
+{{learnlist/level7|40|Natural Gift|Normal|Physical|—|100|15}}
+{{learnlist/level7|43|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/levelf/7|Pansage|Grass|Grass|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/7|Pansage|Grass|Grass|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Pansage|Grass|Grass|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Pansage|Grass|Grass|5}}
+{{learnlist/breed7|{{MSP/6|050|Diglett}}{{MSP/6|050A|Diglett}}{{MSP/6|051|Dugtrio}}{{MSP/6|051A|Dugtrio}}{{MSP/6|190|Aipom}}{{MSP/6|203|Girafarig}}{{MSP/6|234|Stantler}}{{MSP/6|293|Whismur}}{{MSP/6|294|Loudred}}{{MSP/6|295|Exploud}}{{MSP/6|303|Mawile}}{{MSP/6|320|Wailmer}}{{MSP/6|321|Wailord}}{{MSP/6|352|Kecleon}}{{MSP/6|424|Ambipom}}|Astonish|Ghost|Physical|30|100|15|grid=8}}
+{{learnlist/breed7|{{MSP/6|573|Cinccino}}|Bullet Seed|Grass|Physical|25|100|30||'''|grid=8}}
+{{learnlist/breed7|{{MSP/6|056|Mankey}}{{MSP/6|133|Eevee}}{{MSP/6|216|Teddiursa}}{{MSP/6|217|Ursaring}}{{MSP/6|263|Zigzagoon}}{{MSP/6|264|Linoone}}{{MSP/6|287|Slakoth}}{{MSP/6|289|Slaking}}{{MSP/6|300|Skitty}}{{MSP/6|677|Espurr}}{{MSP/6|678|Meowstic}}|Covet|Normal|Physical|60|100|25|grid=8}}
+{{learnlist/breed7|{{MSP/6|300|Skitty}}{{MSP/6|677|Espurr}}{{MSP/6|678|Meowstic}}{{MSP/6|700|Sylveon}}{{MSP/6|728|Popplio}}{{MSP/6|729|Brionne}}{{MSP/6|730|Primarina}}|Disarming Voice|Fairy|Special|40|—|15|grid=8}}
+{{learnlist/breed7|{{MSP/6|470|Leafeon}}|Grass Whistle|Grass|Status|—|55|15|grid=8}}
+{{learnlist/breed7|{{MSP/6|275|Shiftry}}{{MSP/6|495|Snivy}}{{MSP/6|496|Servine}}{{MSP/6|497|Serperior}}|Leaf Storm|Grass|Special|130|90|5||'''|grid=8}}
+{{learnlist/breed7|{{MSP/6|056|Mankey}}{{MSP/6|057|Primeape}}{{MSP/6|505|Watchog}}{{MSP/6|559|Scraggy}}{{MSP/6|560|Scrafty}}|Low Kick|Fighting|Physical|—|100|20|grid=8}}
+{{learnlist/breed7|{{MSP/6|470|Leafeon}}|Magical Leaf|Grass|Special|60|—|20||'''|grid=8}}
+{{learnlist/breed7|{{MSP/6|038|Ninetales}}{{MSP/6|038A|Ninetales}}{{MSP/6|052|Meowth}}{{MSP/6|052A|Meowth}}{{MSP/6|053|Persian}}{{MSP/6|053A|Persian}}{{MSP/6|190|Aipom}}{{MSP/6|424|Ambipom}}{{MSP/6|203|Girafarig}}{{MSP/6|228|Houndour}}{{MSP/6|229|Houndoom}}{{MSP/6|275|Shiftry}}{{MSP/6|390|Chimchar}}{{MSP/6|461|Weavile}}{{MSP/6|504|Patrat}}{{MSP/6|505|Watchog}}{{MSP/6|509|Purrloin}}{{MSP/6|510|Liepard}}{{MSP/6|570|Zorua}}{{MSP/6|571|Zoroark}}{{MSP/6|765|Oranguru}}|Nasty Plot|Dark|Status|—|—|20|grid=8}}
+{{learnlist/breed7|{{MSP/6|234|Stantler}}{{MSP/6|655|Delphox}}{{MSP/6|678|Meowstic}}|Role Play|Psychic|Status|—|—|10|grid=8}}
+{{learnlist/breed7|{{MSP/6|652|Chesnaught}}{{MSP/6|777|Togedemaru}}|Spiky Shield|Grass|Status|—|—|10|{{sup/7|USUM}}|grid=8}}
+{{learnlist/breed7|{{MSP/6|190|Aipom}}{{MSP/6|424|Ambipom}}{{MSP/6|572|Minccino}}{{MSP/6|573|Cinccino}}|Tickle|Normal|Status|—|100|20|grid=8}}
+{{learnlist/breedf/7|Pansage|Grass|Grass|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Pansage|Grass|Grass|5}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Grass Pledge|Grass|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Pansage|Grass|Grass|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/7|Pansage|Grass|Grass|5}}
+{{learnlist/prevgen7|Pansage|5|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Pansage|5|Dig|Ground|Physical|80|100|10|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Pansage|5|Flash|Normal|Status|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Pansage|5|Hone Claws|Dark|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Pansage|5|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen7|Pansage|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->}}
+{{learnlist/prevgenf/7|Pansage|Grass|Grass|5}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/PSMD|col=6|type=Grass|ndex=511
+|coset=29
+|conto={{p|Simisage}}
+|recruitment=Find Pansage's precious belonging
+|P1=A nibble from the leaf on my head will let you fully recover! It has lots of vitamins, too.
+|P2=I'm withering away...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=511
+|walk=2.08
+|hp=48
+|attack=69
+|defense=47
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=511
+|strong=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|pad=He is a good friend to {{p|Pansear}} and {{p|Panpour}}. Cheerful and honest, he brings the three of them together
+}}
+|-
+{{Spindata/Conquest|col=6|type=Grass|ndex=511
+|HP=2
+|atk=1
+|def=2
+|spd=3
+|range=3
+|move=Vine Whip
+|ability1=Melee
+|ability2=Nurse
+|ability3=Celebrate
+|evo=Evolves into {{p|Simisage}} after battling while its [[Warrior]] is equipped with a [[Leaf Stone]]
+|link=[[Rikyū]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=511
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=511|num=432
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Counterattack
+|skilldesc=Deals even more damage the more disruptions there are.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=511
+|egg=5
+|buddy=3
+|candy=Pansage
+|evocandy=50 + [[File:GO Unova Stone.png|20px|link=Unova Stone]] 1
+|stamina=137
+|attack=104
+|defense=94
+|fast={{m|Scratch}}, {{m|Vine Whip}}
+|special={{m|Energy Ball}}, {{m|Seed Bomb}}, {{m|Crunch}}
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|pictype=art
+|type1=Grass
+|no1=0511
+|name1=Pansage
+|type1-1=Grass
+|evo1={{Bag/s|Leaf Stone|SV}}<br>{{color2|000|Leaf Stone}}
+|no2=0512
+|name2=Simisage
+|type1-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=511}}
+{{Spritebox/6|ndex=511|crop=73}}
+{{Spritebox/7|ndex=511|crop=64}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0511}}
+{{Spritebox/Footer|511|Pansage}}
+
+==In animation==
+===Main series===
+[[File:Cilan Pansage.png|thumb|250px|Pansage in {{aniseries|BW}}]]
+====Major appearances====
+=====[[Cilan's Pansage]]=====
+{{an|Cilan}} owns a Pansage, which debuted in ''[[BW005|Triple Leaders, Team Threats!]]'', also marking the species' debut. He appeared alongside {{p|Pansear}} and {{p|Panpour}}, which were owned by [[Chili]] and [[Cress]], respectively. He has since been used by Cilan commonly during his travels with {{Ash}} and {{an|Iris}}.
+
+====Minor appearances====
+In ''[[BW019|A Connoisseur's Revenge!]]'', a {{pkmn|Trainer}}'s Pansage was at a [[Poké Mart]] near [[Castelia City]].
+
+A Pansage appeared in ''[[BW051|Lost at the Stamp Rally!]]''.
+
+Multiple Pansage appeared in ''[[BW053|A Maractus Musical!]]''.
+
+In ''[[XY059|Under the Pledging Tree!]]'', a Trainer's Pansage attended the [[Coumarine City Festival]].
+
+A Trainer's Pansage appeared in ''[[XY061|An Oasis of Hope!]]''.
+
+A Trainer's Pansage appeared in ''[[XY096|A Giga Battle with Mega Results!]]''.
+
+In ''[[XY101|A Dancing Debut!]]'', a {{pkmn|Performer}}'s Pansage competed in the {{to|Couriway}} {{pkmn|Showcase}}. In ''[[XY109|Master Class Choices!]]'', it competed in the {{ci|Fleurrh}} Showcase. In ''[[XY112|Master Class is in Session!]]'', Pansage competed in the {{ci|Gloire}} Showcase.
+
+In ''[[XY105|Party Dancecapades!]]'', {{kal|Lily}}'s Pansage attended [[Monsieur Pierre]]'s dance party.
+
+A Trainer's Pansage appeared in ''[[M20|I Choose You!]]''.
+
+A Trainer's Pansage appeared in ''[[HZ048|Sparkle! The Glow of Flame and Art]]''.
+
+A Pansage appeared in ''[[HZ085|The Pokémon Paradise of Laqua!]]'', among the Pokémon living in [[Laqua]].
+
+A Pansage appeared in ''[[HZ089|Where the Adventure Leads]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW005|Pansage|Ash's Pokédex|Pansage, the Grass Monkey Pokémon. Pansage offers leaves on its head to Pokémon that have low energy. The leaves relieve stress.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===GOTCHA!===
+====[[Cilan's Pansage]]====
+A Pansage briefly appeared in [[GOTCHA!]], under the ownership of [[Cilan]].
+
+===Pokémon Concierge===
+[[File:Pokémon Concierge Pansage.png|thumb|250px|Pansage in [[Pokémon Concierge]]]]
+A recurring Pansage made its [[Pokémon Concierge]] debut in ''[[PC01|I'm Haru, the New Concierge!]]'', as one of the three Pokémon under the ownership of [[Tyler]].
+{{-}}
+
+==In the manga==
+[[File:Cilan Pansage Adventures.png|thumb|200px|Pansage in [[Pokémon Adventures]]]]
+===Be the Best! Pokémon B+W===
+In ''[[PBW2|The Key to Triple Battles]]'', [[Cheren]] uses a Pansage against [[Monta]] in a [[Triple Battle]].
+
+===Pocket Monsters BW===
+{{main|Cilan's Pansage}}
+In [[PMBW02]], [[Cilan]] uses a Pansage against [[Red's Clefairy]] when he tries to instigate a fight between Cilan and his brothers [[Chili]] and [[Cress]]. The three brothers use their Pokémon against Clefairy, however, their group attack backfires when Clefairy uses the effects of {{p|Pansear}}, {{p|Panpour}}, and Pansage to make green tea.
+
+===Pokémon Adventures===
+{{main|Cilan's Pansage}}
+Pansage debuted in a short cameo in ''[[PS463|A Nickname for Tepig]]'', alongside [[Cilan]]. It later appeared in ''[[PS469|Welcome To Striaton City!!]]'', where it prepared tea for {{adv|Black}}, {{adv|Cheren}}, and {{adv|Bianca}} alongside its fellow [[elemental monkeys]]. In ''[[PS470|Their First Gym Battle]]'', it battled [[Bianca's Oshawott]] and won, but later unintentionally caused it and {{TP|Cheren|Snivy}} to be revitalized after they ate the leaves from its head.
+
+A Pansage appeared in a fantasy in ''[[PS466|An Odd Speech]]'' and ''[[PS467|Letting Go]]''.
+
+A Pansage appeared in ''[[PS483|Special Delivery]]'' as one of the Pokémon competing in {{ci|Nimbasa}}'s [[Pokémon Musical]].
+
+A {{pkmn|Trainer}}'s Pansage appeared in ''[[PS535|Amgry Boy]]''.
+
+A Pansage appeared in ''[[PS547|The Final Battle]]''.
+
+A Pansage appeared in a flashback in ''[[PS554|Kangaskhan...Kangascan't]]''.
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS470|Their First Gym Battle]]|This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Pansage (TCG)}}
+
+==Trivia==
+* Pansage was first seen, together with {{p|Axew}}, as a toy featured in [[n:Movie 13, Bandai possibly reveal new Pokémon|two images seen July 2010]], but it wasn't named and nothing was known about it. Pansage was officially revealed on August 22, 2010, by [[Pokémon Sunday]].
+* Pansage and its evolved form are the only non-[[first partner Pokémon]] that have {{a|Overgrow}} as an Ability.
+* Pansage, Pansear, and Panpour were all designed by [[Takao Unno]].<ref name=ND201>''Nintendo Dream'' Vol. 201, January 2011 ([http://lavacutcontent.com/ken-sugimori-nintendo-dream-3/ Translation by Dr. Lava])</ref>
+
+===Origin===
+Pansage is based on a {{wp|monkey}},<ref name=ND201/> with the top of its head resembling a {{wp|tree}} or vegetables such as {{wp|broccoli}}. The fact that it is based on both may mean it might be based on the legends of {{wp|Perceptions of religious imagery in natural phenomena#Hinduism|monkey trees}} or possibly a visual pun on {{wp|Colobinae|leaf monkeys}}.
+
+Pansage, Pansear, and Panpour were specifically created as partner Pokémon for [[Cilan]], [[Chili]] and [[Cress]], the [[Gym Leader]]s of [[Striaton Gym]]. As Striaton Gym doubles as a restaurant, these Pokémon were designed around cooking as a theme, and their hands were designed to resemble oven mitts.<ref name=ND201/> Additionally, Pansage, along with its two contemporaries, seems to be inspired by the {{wp|three wise monkeys}} motif; with its mouth open, Pansage represents "speak no evil".
+
+====Name origin====
+Pansage may be a combination of ''Pan'' (the genus of {{wp|chimpanzee}}s) and ''{{wp|Salvia officinalis|sage}}'' (an herb). ''Sage'' can also refer to a wise person, relating to the "{{wp|three wise monkeys}}" motif of the [[elemental monkeys]].
+
+Yanappu may be a combination of 柳 ''yanagi'' ({{wp|willow}}), 野菜 ''yasai'' (vegetables), 菜 ''na'' (greens), and ''{{wp|ape}}''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=ヤナップ ''Yanappu''|jameaning=From {{tt|柳 ''yanagi''|willow}}, {{tt|野菜 ''yasai''|vegetable}}, {{tt|菜 ''na''|greens}}, and ''ape''
+|fr=Feuillajou|frmeaning=From ''{{tt|feuille|leaf}}'' and {{tt|''sapajou''|capuchin monkey}}
+|es=Pansage|esmeaning=Same as English name
+|de=Vegimak|demeaning=From ''Vegetation'' and ''{{tt|Makake|macaque}}''
+|it=Pansage|itmeaning=Same as English name
+|ko=야나프 ''Yanappu''|komeaning=Transcription of Japanese name
+|zh_cmn=花椰猴 ''Huāyéhóu''|zh_cmnmeaning=From {{tt|花 ''huā''|flower}}, {{tt|花椰菜 ''huāyécài''|cauliflower}}, and {{tt|猴 ''hóu''|monkey}}
+|zh_yue=花椰猴 ''Fāyèhhàuh''|zh_yuemeaning=From {{tt|花 ''fā''|flower}}, {{tt|椰菜花 ''yèhchoifā''|cauliflower}}, and {{tt|猴 ''hàuh''|monkey}}
+|hi=शाकपि ''Shaakapi''|himeaning=From {{tt|शाक ''shaak''|herb}} and {{tt|कपि ''kapi''|ape/monkey}}
+|ru=Пансейдж ''Panseydzh''|rumeaning=Transcription of English name
+|th=ยานัปปุ ''Yanappu''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==See also==
+*[[Cilan's Pansage]]
+*[[Elemental monkeys]]
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0510|prev=Liepard|nextnum=0512|next=Simisage}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve by Evolution stone]]
+[[Category:Pokémon that evolve using Leaf Stone]]
+
+[[de:Vegimak]]
+[[es:Pansage]]
+[[fr:Feuillajou]]
+[[it:Pansage]]
+[[ja:ヤナップ]]
+[[zh:花椰猴]]

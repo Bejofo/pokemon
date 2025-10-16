@@ -1,0 +1,664 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Furret}}
+{{PokémonPrevNext/Pokémon|type=Normal|species=Normal|prevnum=0161|prev=Sentret|nextnum=0163|next=Hoothoot|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Furret
+|jname=オオタチ
+|tmname=Ootachi
+|ndex=0162
+|typebox=1
+|type1=Normal
+|category=Long Body
+|height-ftin=5'11"
+|height-m=1.8
+|weight-lbs=71.7
+|weight-kg=32.5
+|abilityn=d
+|ability1=Run Away
+|ability2=Keen Eye
+|abilityd=Frisk
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=2
+|evsp=2
+|expyield=145
+|oldexp=116
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=90
+|body=08
+|pokefordex=furret
+|generation=2
+|friendship=70
+}}
+'''Furret''' ([[List of Japanese Pokémon names|Japanese]]: '''オオタチ''' ''Ootachi'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Sentret}} starting at [[level]] 15.
+
+==Biology==
+Furret is a long, slim-bodied {{wp|Mustelidae|mustelid}} {{OBP|Pokémon|species}} with cream-colored fur and dark brown rings along the length of its body. The back of its head and neck are also dark brown; this marking extends to below its arms where the first ring is formed. It has cream-colored tips on its ears, two brown, whisker-like markings on each cheek, and round, black eyes. Its four limbs are stubby; the forepaws are brown and the hind paws are cream-colored. Furret is capable of standing on its hind legs but prefers to move on all fours. Its body and tail are so similar in structure that it is impossible to tell where its tail begins.
+
+Despite its short limbs, Furret is very quick and agile. This allows Furret to escape even when in the arms of a human. Its speed allows it to catch prey such as {{p|Rattata}}. It tends to burrow under the ground of meadows and other {{DL|List of Pokémon by habitat|Grassland Pokémon|temperate grasslands}}. Its narrow burrows are well-suited for its slim body and are very difficult for other Pokémon to enter. The burrows also become more maze-like deeper inside, which makes it even harder to find Furret's nest. A mother Furret curls itself around its offspring to help them sleep. Once the offspring are older, the mother Furret will take them outside to prepare them for independence. In [[Lental]], {{p|Mightyena}} is a natural predator of Furret.
+
+===Evolution===
+Furret evolves from {{p|Sentret}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0161
+|name1=Sentret
+|type1-1=Normal
+|evo1=
+|no2=0162
+|name2=Furret
+|type1-2=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=normal}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=020}}
+{{Dex/Entry1|v=Gold|entry=It makes a nest to suit its long and skinny body. The nest is impossible for other {{ScPkmn}} to enter.}}
+{{Dex/Entry1|v=Silver|entry=There is no telling where the tail begins. Despite its short legs, it is quick at hunting <sc>{{p|Rattata}}</sc>.}}
+{{Dex/Entry1|v=Crystal|entry=It lives in narrow burrows that fit its slim body. The deeper the nests go, the more maze-like they become.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It makes a nest to suit its long and skinny body. The nest is impossible for other {{ScPkmn}} to enter. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>There is no telling where the tail begins. Despite its short legs, it is quick at hunting <sc>Rattata</sc>. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Furret</sc> has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this {{ScPkmn}} is very nimble and fleet.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A <sc>Furret</sc> has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.}}
+{{Dex/Entry1|v=FireRed|entry=There is no telling where its tail begins. Despite its short legs, it is quick at hunting <sc>Rattata</sc>.}}
+{{Dex/Entry1|v=LeafGreen|entry=It makes a nest to suit its long and skinny body. The nest is impossible for other {{ScPkmn}} to enter.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=020}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=The mother puts its offspring to sleep by curling up around them. It corners foes with speed.}}
+{{Dex/Entry1|v=HeartGold|entry=It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.}}
+{{Dex/Entry1|v=SoulSilver|entry=There is no telling where the tail begins. Despite its short legs, it is quick and likes to chase <sc>Rattata</sc>.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The mother puts its offspring to sleep by curling up around them. It corners foes with speed.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The mother puts its offspring to sleep by curling up around them. It corners foes with speed.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=110|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=The mother puts its offspring to sleep by curling up around them. It corners foes with speed.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=The mother puts its offspring to sleep by curling up around them. It corners foes with speed.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=27|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It raises its offspring inside a long, narrow nest. Once they're old enough, it takes them outside the nest to prepare them for independence.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It is nimble and has a very flexible body. Even if you get ahold of it, it'll slip right out of your arms.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{normal color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{normal color dark}}; background:#{{normal color light}}; {{roundy|5px}};" | [[File:Pokédex Image Furret SV Kitakami.png|x200px]]
+|-
+| Furret in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=normal}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|1|Kanto}}{{Sup/t|M}}{{Sup/t|D}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|1|Kanto}} and {{rtn|43|Johto}}{{Sup/t|M}}{{Sup/t|D}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Sentret}}}}
+{{Availability/Entry1|v=Colosseum|area=[[Pyrite Town]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Sentret}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Sentret}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|1|Kanto}}{{Sup/t|M}}{{Sup/t|D}}<br/>{{safari|Johto}} (tall grass in Swamp with 5 Plains points; tall grass in Wetland with 2 Plains points)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Town Outskirts}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Sentret}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|7|Unova}} ([[Mass outbreak|Swarm]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Sentret}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Grand Underground]] - [[Spacious Cave]], [[Rocky Cave]], [[Volcanic Cave]], [[Whiteout Cave]], [[Big Bluff Cavern]], [[Typhlo Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Kitakami Road]], [[Apple Hills]], [[Reveler's Road]], [[Kitakami Hall]], [[Mossfell Confluence]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Kitakami)|Furret|3★}}, {{DL|List of 4★ Tera Raid Battles (Kitakami)|Furret|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 14]], Endless Level 26, Forever Level 11, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Sentret}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area={{OBP|Mt. Travail|Explorers of Time, Darkness, and Sky}} (1F-19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Peak]] (6th Station Pass 1F-Summit Pass 5F), {{OBP|Mt. Travail|Explorers of Time, Darkness, and Sky}} (1F-19F)}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Granite Zone]], [[Flower Zone]], [[Meeting Place]]{{tt|*|Cannot be befriended at Meeting Place}}}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Canal Ruins]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Challenger's Ground]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#Serperior Jungle|Jungle Area: Serperior Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 4|Mysterious Fountain: Stage 4]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Verdant Grove|Gold Plateau: Verdant Grove]] <small>(All Areas)</small>, [[Origin Hideaway#Secluded Volcanic Chasm|Origin Hideaway: Secluded Volcanic Chasm]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Dragonite Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Entei Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Frosty Forest]] (1F-3F), [[Purity Forest]] (61F-63F)<br/>Fainted Pokémon: [[Mt. Blaze]]}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Shiver Snowfields]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 339]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Normal}}
+{{HeldItems/Games2|Gold|Silver|Pokémon Gold and Silver Versions}}
+{{HeldItems/Items2|Berry (item){{!}}Berry|23|Gold Berry|2|rows=2|image1=None.png|image2=None.png}}
+{{HeldItems/Games1|Crystal|Pokémon Crystal Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Items2|Oran Berry|50|Sitrus Berry|5|rows=2}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=fff|Pokémon Black and White Versions 2}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=normal
+|HP=85
+|Attack=76
+|Defense=64
+|SpAtk=45
+|SpDef=55
+|Speed=90}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=5
+|SpeedMax=5
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=2
+|StaminaMax=3
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=normal
+|Normal=  100
+|Fighting=200
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Furret|Normal|Normal|2}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|1|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level9|1|Defense Curl|Normal|Status|—|—|40||}}
+{{learnlist/level9|1|Coil|Poison|Status|—|—|20||}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Agility|Psychic|Status|—|—|30||}}
+{{learnlist/level9|13|Fury Swipes|Normal|Physical|18|80|15||'''}}
+{{learnlist/level9|17|Helping Hand|Normal|Status|—|—|20||}}
+{{learnlist/level9|21|Follow Me|Normal|Status|—|—|20||}}
+{{learnlist/level9|28|Slam|Normal|Physical|80|75|20||'''}}
+{{learnlist/level9|32|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/level9|36|Sucker Punch|Dark|Physical|70|100|5||}}
+{{learnlist/level9|42|Amnesia|Psychic|Status|—|—|20||}}
+{{learnlist/level9|46|Baton Pass|Normal|Status|—|—|40||}}
+{{learnlist/level9|50|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/level9|56|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/levelf/9|Furret|Normal|Normal|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Furret|Normal|Normal|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20||}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20||}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20||}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20||}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15||}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15||}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15||}}
+{{learnlist/tm9|TM069|Ice Punch|Ice|Physical|75|100|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10||}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15||}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10||}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20||}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40||}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15||}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10||}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5||}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5||}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20||}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10||}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20||}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tmf/9|Furret|Normal|Normal|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Furret|Normal|Normal|2}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0728|Popplio}}{{MSP/H|0729|Brionne}}{{MSP/H|0730|Primarina}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Baby-Doll Eyes|Fairy|Status|—|100|30||}}
+{{learnlist/breed9|{{MSP/H|0056|Mankey}}{{MSP/H|0057|Primeape}}{{MSP/H|0979|Annihilape}}{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0501|Oshawott}}{{MSP/H|0502|Dewott}}{{MSP/H|0503|Samurott}}{{MSP/H|0503-Hisui|Samurott}}{{MSP/H|0766|Passimian}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0231|Phanpy}}{{MSP/H|0417|Pachirisu}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/breed9|{{MSP/H|0058|Growlithe}}{{MSP/H|0058-Hisui|Growlithe}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059-Hisui|Arcanine}}{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0448|Lucario}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0745-Midnight|Lycanroc}}{{MSP/H|0745-Dusk|Lycanroc}}{{MSP/H|0766|Passimian}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/breed9|{{MSP/H|0027|Sandshrew}}{{MSP/H|0027-Alola|Sandshrew}}{{MSP/H|0028|Sandslash}}{{MSP/H|0028-Alola|Sandslash}}{{MSP/H|0050|Diglett}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0052|Meowth}}{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0053|Persian}}{{MSP/H|0863|Perrserker}}{{MSP/H|0215|Sneasel}}{{MSP/H|0215|Sneasel|form=-Hisui}}{{MSP/H|0461|Weavile}}{{MSP/H|0903|Sneasler}}{{MSP/H|0216|Teddiursa}}{{MSP/H|0217|Ursaring}}{{MSP/H|0901|Ursaluna}}{{MSP/H|0901-Bloodmoon|Ursaluna}}{{MSP/H|0255|Torchic}}{{MSP/H|0256|Combusken}}{{MSP/H|0257|Blaziken}}{{MSP/H|0288|Vigoroth}}{{MSP/H|0335|Zangoose}}{{MSP/H|0503|Samurott}}{{MSP/H|0503|Samurott|form=-Hisui}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0944|Shroodle}}{{MSP/H|0945|Grafaiai}}|Slash|Normal|Physical|70|100|20||'''}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Tidy Up|Normal|Status|—|—|10||}}
+{{learnlist/breedf/9|Furret|Normal|Normal|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Furret|Normal|Normal|2}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/9|Furret|Normal|Normal|2}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Trozei|col=6|type=Normal|ndex=162|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=162
+|body=1
+|rate=Evolve
+|area=Thunder Meadow
+|P1=My legs are short, but I'm slick and quick!
+|P2=Ohhh... My HP's half gone!
+|P3=That's it... I can't move very much now...
+|PL=There it is! I got my level!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=162
+|body=1
+|rate=-4.5
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Normal|ndex=162
+|coset=3
+|conto={{p|Smeargle}}
+|recruitment=Visit {{p|Smeargle}}'s secret base
+|P1=They often describe me as thin and tall.
+|P2=Wait… I'm getting sleepy…
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|field=Tackle
+|fieldpower=3
+|past=NA
+|num=013
+|browser=It lets loose shock waves to attack.
+}}
+|-
+{{Spindata/Rumble|col=6|type=Normal
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=162
+|walk=1.32
+|hp=56
+|attack=75
+|defense=50
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Normal|ndex=162
+|Pad=Furret guards the [[Granite Zone]]. His sister is also a guard just past the Granite Zone. Furret are fantastic at {{DL|Attraction (PokéPark)|Absol's Hurdle Bounce}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=162
+|power=2
+}}
+{{Spindata/Shuffle|col=6|type=Normal|ndex=162|num=427
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Astonish
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=162
+|hatch=N/A
+|buddy=1
+|candy=Sentret
+|evolution=N/A
+|stamina=198
+|attack=148
+|defense=125
+|fast={{m|Quick Attack}}, {{m|Sucker Punch}}
+|special={{m|Dig}}, {{m|Brick Break}}, {{m|Hyper Beam}}, {{m|Trailblaze}}{{tt|*|From March 4, 2025 onward}}, {{m|Swift}}{{tt|*|From March 4, 2025 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=162|pdex=155
+|dex=Furret sure is agile, as we saw by the way it nimbly darted between the trees in [[Shiver Snowfields|the snowfields]]. Its long, slender body is perfectly suited for its habit of hiding inside narrow dens and fallen trees.}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0161
+|name1=Sentret
+|type1-1=Normal
+|evo1={{Bag/s|Rare Candy|SV}} <br>{{color2|000|Level|Level 15}}
+|no2=0162
+|name2=Furret
+|type1-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=normal}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=162}}
+{{Spritebox/3|ndex=162}}
+{{Spritebox/4|ndex=162}}
+{{Spritebox/5|ndex=162}}
+{{Spritebox/6|ndex=162|crop=95}}
+{{Spritebox/7|ndex=162|crop=83}}
+<!--{{Spritebox/8/BDSP|ndex=162}}
+{{Spritebox/9|ndex=0162}}-->
+{{Spritebox/HOME|ndex=0162}}
+{{Spritebox/Footer|162|Furret}}
+
+==In animation==
+[[File:Furret anime.png|thumb|250px|Furret in {{aniseries|JN}}]]
+===Main series===
+====Major appearances====
+Multiple Furret appeared in ''[[M04|Celebi: The Voice of the Forest]]''. One of them led {{Ash}} and {{ashfr}} to the [[Lake of Life]] so they could heal an injured {{OBP|Celebi|M04}}.
+
+In ''[[EP266|A Claim to Flame!]]'', [[Salvador]]'s Furret battled [[Ash's Pikachu]] during the first {{pkmn|battle}} of the [[Silver Conference]]. It repeatedly used {{m|Dig}} to confuse its opponent, but Pikachu broke through the strategy by latching onto Furret's back and using {{m|Thunderbolt}} to defeat it.
+
+====Minor appearances====
+Furret debuted in ''[[PK07|Pikachu & Pichu]]'' as a resident of [[Big Town]].
+
+Furret made its television debut in ''[[The Legend of Thunder!]]''.
+
+Furret made its animated series debut in the [[Banned episodes|banned episode]] [[EP250]] as a Pokémon living in a forest outside the [[Ice Path]].
+
+Furret made its English [[dub]] debut in the main series in ''[[EP252|Fangs for Nothin']]'' as a resident of the [[Dragon Holy Land]]. More Furret living there appeared in [[EP253|the follow-up episode]].
+
+A {{pkmn|Trainer}}'s Furret appeared in ''[[EP262|You're a Star, Larvitar!]]''.
+
+In ''[[AG011|A Bite to Remember]]'', an injured Furret was under the care of {{OBP|Katrina|AG011}}. Another was {{pkmn2|wild}}.
+
+In ''[[AG053|Game Winning Assist!]]'', [[Julie]] owns a Furret as her battling Pokémon.
+
+A Furret appeared in [[PK13]].
+
+A {{pkmn|Coordinator}}'s Furret appeared in ''[[AG160|Harley Rides Again]]''.
+
+A Coordinator's Furret appeared in ''[[AG167|What I Did for Love!]]''.
+
+In a flashback in ''[[M09|Pokémon Ranger and the Temple of the Sea]]'', multiple Furret helped {{OBP|Pokémon Ranger|Ranger series}} [[Jack Walker]] when he was a young boy lost in a blizzard.
+
+A Furret appeared in ''[[DP010|Not on MY Watch Ya Don't!]]''.
+
+A Furret appeared in ''[[DP017|Wild in the Streets!]]''.
+
+A Furret appeared in ''[[DP028|Drifloon On the Wind!]]''.
+
+A Furret appeared in ''[[DP040|Top-Down Training!]]''.
+
+A Furret appeared in ''[[DP049|Dawn's Early Night!]]''.
+
+In ''[[DP051|Glory Blaze!]]'', a Trainer's Furret competed in the [[Hearthome City Tag Battle Competition]].
+
+Multiple Furret appeared in ''[[M11|Giratina and the Sky Warrior]]''.
+
+Multiple Furret appeared in ''[[M12|Arceus and the Jewel of Life]]''.
+
+In ''[[DP141|Challenging a Towering Figure!]]'', a Trainer's Furret battled [[Brock's Sudowoodo]] during the [[Festival Battle Challenge]].
+
+A Furret appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Furret appeared in ''[[Mewtwo — Prologue to Awakening]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', a Furret was living in [[Pokémon Hills]], while another Furret was in {{OBP|Mewtwo|M16}}'s flashback.
+
+A Furret appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Furret appeared in ''[[XY002|Lumiose City Pursuit!]]''.
+
+A Furret appeared in ''[[XY009|Clemont's Got a Secret!]]''.
+
+A Furret appeared in ''[[XY016|A Jolting Switcheroo!]]''.
+
+A Furret appeared in ''[[XY021|A PokéVision of Things to Come!]]''.
+
+A Furret appeared in ''[[XY026|A Battle by Any Other Name!]]''.
+
+A Furret appeared in ''[[XY028|The Bonds of Evolution!]]''.
+
+A Furret appeared in ''[[XY029|Heroes - Friends and Faux Alike!]]''.
+
+A Furret appeared in ''[[XY047|Dreaming a Performer's Dream!]]''.
+
+In ''[[XY060|A Showcase Debut!]]'', a {{pkmn|Performer}}'s male Furret competed in the [[Coumarine City]] [[Pokémon Showcase]]. He reappeared in ''[[XY080|Performing with Fiery Charm!]]'' and ''[[XY105|Party Dancecapades!]]''; in the latter episode, he danced alongside [[Serena's Eevee]] during [[Monsieur Pierre]]'s dance party.
+
+In ''[[PK27|Pikachu and the Pokémon Music Squad]]'', a Furret was living in the forest.
+
+A Trainer's Furret appeared in ''[[XY112|Master Class is in Session!]]''.
+
+A Trainer's Furret appeared in ''[[XY125|A League of His Own!]]''
+
+A Trainer's Furret appeared in ''[[XY126|Valuable Experience for All!]]''
+
+A Trainer's Furret appeared in ''[[XY136|Forming a More Perfect Union!]]''.
+
+A Furret appeared in a flashback in ''[[XYS05|The Legend of X, Y, and Z!]]''.
+
+A Trainer's Furret appeared in ''[[M21|The Power of Us]]''.
+
+Two Furret appeared in ''[[JN009|Finding a Legend!]]''.
+
+Two Trainers' Furret appeared in ''[[JN033|Trade, Borrow, and Steal!]]''.
+
+Two Furret appeared in ''[[JN137|The Road Most Traveled!]]''.
+
+A Trainer's Furret appeared in ''[[JN144|Getting to the Heart of it All!]]''.
+
+A Furret appeared in ''[[HZ001|The Pendant That Starts It All (Part One)]]'', under the ownership of a {{tc|Student}} of [[Indigo Academy]].
+
+A Furret appeared in ''[[HZ005|Found You, Fuecoco!]]'', during a fantasy.
+
+A Trainer's Furret appeared in ''[[HZ008|The Door That Never Opens]]''.
+
+A Trainer's Furret appeared in ''[[HZ058|Food Fit for a Kingambit!]]''.
+
+A Student's Furret appeared in ''[[HZ066|Infiltrating the System! Naranja Academy in Danger!]]''.
+
+A Furret appeared in [[HZ092]].
+
+A Furret appeared in [[HZ094]].
+
+A Trainer's Furret appeared in [[HZ112]].
+
+===Pokémon Concierge===
+[[File:Pokémon Concierge Furret.jpg|thumb|250px|Furret in [[Pokémon Concierge]]]]
+A Furret appeared in ''[[PC01|I'm Haru, the New Concierge!]]'' and ''[[PC02|What's on Your Mind, Psyduck?]]'', chasing a {{p|Rattata}} around the [[Pokémon Resort]]. It reappeared in ''[[PC03|I Hope I Can Evolve Too...]]'', ''[[PC05|A Pokémon to Help Me!]]'', and the following episodes.
+
+===POKÉTOON===
+A Furret appeared in [[PT17]].
+{{-}}
+
+==In the manga==
+[[File:Team Rocket Furret Adventures.png|thumb|200px|Furret in [[Pokémon Adventures]]]]
+===Movie adaptations===
+A Furret appeared in ''{{ma|Celebi: a Timeless Encounter}}''.
+
+===Pokémon Adventures===
+Two Furret appeared in ''[[PS159|Popular Pupitar]]''.
+
+In ''[[PS179|The Last Battle XIII]]'', a Furret was sent to participate in the fight in [[Ilex Forest]].
+
+In ''[[PS460|All About Arceus IX]]'', multiple Furret belonging to {{tc|Team Rocket Grunt|Team Rocket}} were seen battling with the [[Team Rocket Elite Trio|Elite Trio]].
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Furret appeared in [[GDZ61]].
+
+===Pokémon Pocket Monsters===
+A Furret appeared in ''[[PM069|Demanding Tests at the Pokémon School!]]'', where it evolved from a Sentret.
+
+==In the TCG==
+{{main|Furret (TCG)}}
+
+==Trivia==
+
+===Origin===
+Furret's English name and appearance suggest it is based on a {{wp|ferret}}. Its design also appears to incorporate traits of other {{wp|mustelid}}s such as {{wp|polecat}}s, as well as a {{wp|ringtail}} or {{wp|cacomistle}}.
+
+====Name origin====
+Furret may a combination of ''fur'', ''{{wp|ferret}}'', and possibly ''{{wp|turret}}''.
+
+Ootachi may be a combination of 大 ''ō'' (big), 尾 ''o'' (tail), 立ち ''tachi'' (stand), and 鼬 ''itachi'' (weasel).
+
+==In other languages==
+{{Other languages|type=normal|type2=normal
+|ja=オオタチ ''Ootachi''|jameaning=From {{tt|大 ''ō''|big}}, {{tt|尾 ''o''|tail}}, {{tt|立ち ''tachi''|stand}}, and {{tt|鼬 ''itachi''|weasel}}
+|fr=Fouinar|frmeaning=From {{wp|Beech Marten|{{tt|''fouine''|beech marten}}}} and {{tt|''fouiner''|to snoop}}
+|es=Furret|esmeaning=Same as English name
+|de=Wiesenior|demeaning=From ''{{tt|Wiesel|weasel}}'', ''{{tt|Wiese|meadow}}'', ''{{tt|Wiesor|Sentret}}'', and ''Senior''
+|it=Furret|itmeaning=Same as English name
+|ko=다꼬리 ''Dakkori''|komeaning=From {{tt|다 ''da''|all}} and {{tt|꼬리 ''kkori''|tail}}
+|zh_cmn=大尾立 ''Dàwĕilì''|zh_cmnmeaning=From {{tt|大 ''dà''|big}}, {{tt|尾 ''wĕi''|tail}}, and {{tt|立 ''lì''|to stand}}
+|zh_yue=大尾立 ''Daaihméihlahp''|zh_yuemeaning=From {{tt|大 ''daaih''|big}}, {{tt|尾 ''méih''|tail}}, and {{tt|立 ''lahp''|to stand}}
+|hi=फ़रबिला ''Furbila''|himeaning=From ''Fur'' and {{tt|बिलाव ''bilav''|tomcat}} or {{tt|बिल्ला ''billa''|[male] cat}}
+|ru=Фуррет ''Furret''|rumeaning=Transcription of English name
+|th=โอโอทาจิ ''Oothachi''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|species=Furret|prevnum=0161|prev=Sentret|nextnum=0163|next=Hoothoot|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+
+[[de:Wiesenior]]
+[[es:Furret]]
+[[fr:Fouinar]]
+[[it:Furret]]
+[[ja:オオタチ]]
+[[zh:大尾立]]

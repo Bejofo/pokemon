@@ -1,0 +1,566 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Dark}}
+{{PokémonPrevNext/GO|species=Cacturne}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0331|prev=Cacnea|nextnum=0333|next=Swablu|round=none}}
+{{PokémonPrevNext/Disambig|species=Cacturne}}
+|}
+{{Pokémon Infobox
+|name=Cacturne
+|jname=ノクタス
+|jtranslit=Nokutasu
+|tmname=Noctus
+|ndex=0332
+|typebox=1
+|type1=Grass
+|type2=Dark
+|category=Scarecrow
+|height-ftin=4'03"
+|height-m=1.3
+|weight-lbs=170.6
+|weight-kg=77.4
+|abilityn=d
+|ability1=Sand Veil
+|abilityd=Water Absorb
+|egggroupn=2
+|egggroup1=Grass
+|egggroup2=Human-Like
+|eggcycles=20
+|evtotal=2
+|evat=1
+|evsa=1
+|expyield=166
+|oldexp=177
+|lv100exp=1,059,860
+|gendercode=127
+|color=Green
+|catchrate=60
+|body=12
+|pokefordex=cacturne
+|generation=3
+|friendship=35
+}}
+'''Cacturne''' ([[List of Japanese Pokémon names|Japanese]]: '''ノクタス''' ''Noctus'') is a dual-type {{2t|Grass|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Cacnea}} starting at [[level]] 32.
+
+==Biology==
+Cacturne is a humanoid, bipedal {{OBP|Pokémon|species}} that resembles a green scarecrow made of cacti. Its face has two eye holes through which yellow eyes can be seen, and six smaller holes representing a grinning mouth. It has numerous spikes along the length of its arms, legs, and around its neck. A pattern of green rhombi extends down the front of its body. A female has a large dark green rhombus above a smaller one, while a male has three small dark green rhombi. There is a triangular, dark green feature on its head that resembles a hat with spiky tips.
+
+Cacturne is a nocturnal Pokémon that rarely moves during the day, which allows it to hold moisture. At night, it searches for prey or follows travelers until they become exhausted. Prior to [[Generation V]], {{m|Needle Arm}} was its [[signature move]]. It has lived in {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|deserts}} for so long that its blood has transformed into sand.
+
+===Evolution===
+Cacturne evolves from {{p|Cacnea}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Grass
+|type2=Dark
+|pictype=art
+|no1=0331
+|name1=Cacnea
+|type1-1=Grass
+|evo1=
+|no2=0332
+|name2=Cacturne
+|type1-2=Grass
+|type2-2=Dark}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Dark}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=120|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=During the daytime, <sc>Cacturne</sc> remains unmoving so that it does not lose any moisture to the harsh desert sun. This {{ScPkmn}} becomes active at night when the temperature drops.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=If a traveler is going through a desert in the thick of night, <sc>Cacturne</sc> will follow in a ragtag group. The {{ScPkmn}} are biding their time, waiting for the traveler to tire and become incapable of moving.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=After spending thousands of years in harsh deserts, its blood transformed into the same substances as sand. It is nocturnal, so it hunts at night.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert's heat.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It becomes active at night, seeking prey that is exhausted from the day's desert heat.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Packs of them follow travelers through the desert until the travelers can no longer move.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It becomes active at night, seeking prey that is exhausted from the day's desert heat.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It becomes active at night, seeking prey that is exhausted from the day's desert heat.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn|num2=125}}
+{{Dex/Entry1|v=X|t=FFF|entry=It becomes active at night, seeking prey that is exhausted from the day's desert heat.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Packs of them follow travelers through the desert until the travelers can no longer move.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokémon becomes active at night when the temperature drops.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It becomes active at night, seeking prey that is exhausted from the day's desert heat.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=253|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=Packs of them follow travelers through the desert until the travelers can no longer move.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert's heat.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{dark color dark}}; background:#{{grass color}}; font-size:80%; {{roundy|10px}};"
+|-
+|style="border:2px solid #{{dark color dark}}; background:#{{grass color light}}; {{roundy|5px}};" | [[File:Pokédex Image Cacturne SV.png|x200px]]
+|-
+| Cacturne in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Dark}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Cacnea}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Cacnea}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|228|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|228|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}} (Desert with 42 Waterside points; Savannah with 35 Forest points)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Reversal Mountain]] ([[Mass outbreak|Swarm]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Dark-type Safari|Dark]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Cacnea}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|228|Sinnoh}}<br>[[Grand Underground]] - [[Grassland Cave]], [[Sunlit Cavern]], [[Swampy Cave]], [[Rocky Cave]], [[Big Bluff Cavern]], [[Stargleam Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[Asado Desert]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Cacturne|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Dark}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Cacnea}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 2]], Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Cacnea}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Northern Desert]] (9F-15F), [[Happy Outlook]] (B1F-B19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Northern Desert]] (9F-15F), [[Happy Outlook]] (B1F-B19F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Haruba Desert]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Magical Lake#In Need of Trees|Magical Lake: In Need of Trees]], [[Chill Battle#Garden Keepers|Chill Battle: Garden Keepers]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 5|Mysterious Fountain: Stage 5]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Heat-Wave Desert|Fairy Land: Heat-Wave Desert]] <small>(Center Boss, Back)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Pinsir Sea]], [[Celebi Sea]], [[Rayquaza Sea]], [[Celebi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Great Canyon]] (4F-9F), [[Lightning Field]] (10F-16F), [[Purity Forest]] (40F-45F)<br/>Mystery House: [[Pitfall Valley]], [[Darknight Relic]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 397]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Grass|type2=Dark}}
+{{eventAvail|{{gameabbrev3|RS}}|Pokémon Center New York Monster Week 1 Cacturne|English|United States|50|October 18 to 24, 2003|link=List of PCNY event Pokémon distributions in Generation III#Cacturne}}
+|}
+
+===Held items===
+In {{game|Emerald}}, Cacturne can only be found in the {{gdis|Battle Frontier|III}}.
+{{HeldItems/header|type=Grass|type2=Dark}}
+{{HeldItems/Games1|Emerald|tcolor=fff|Pokémon Emerald Version}}
+{{HeldItems/Items1|Poison Barb|5}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Sticky Barb|5|rows=6}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|type2=Dark
+|HP=     70
+|Attack=115
+|Defense=60
+|SpAtk= 115
+|SpDef=  60
+|Speed=  55}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|type2=Dark
+|Speed=4
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Dark
+|Normal=  100
+|Fighting=200
+|Flying=  200
+|Poison=  200
+|Ground=   50
+|Rock=    100
+|Bug=     400
+|Ghost=    50
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic=   0
+|Ice=     200
+|Dragon=  100
+|Dark=     50
+|Fairy=   200
+|notes=yes
+|dark=yes
+|newpsychic=1
+|waterabsorb=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Cacturne|Grass|Dark|3}}
+{{learnlist/level9|1|Destiny Bond|Ghost|Status|—|—|5}}
+{{learnlist/level9|1|Poison Sting|Poison|Physical|15|100|35}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|1|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Spiky Shield|Grass|Status|—|—|10}}
+{{learnlist/level9|10|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|13|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|16|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|19|Power Trip|Dark|Physical|20|100|10||'''}}
+{{learnlist/level9|22|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/level9|26|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/level9|30|Spikes|Ground|Status|—|—|20}}
+{{learnlist/level9|35|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level9|38|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/level9|44|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|49|Cotton Spore|Grass|Status|—|100|40}}
+{{learnlist/level9|54|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/levelf/9|Cacturne|Grass|Dark|3}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Cacturne|Grass|Dark|3}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM073|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Cacturne|Grass|Dark|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Cacturne|Grass|Dark|3}}
+{{learnlist/breed9|{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0849|Toxtricity}}{{MSP/H|0849-Low Key|Toxtricity}}|Acid|Poison|Special|40|100|30}}
+{{learnlist/breed9|{{MSP/H|0453|Croagunk}}{{MSP/H|0454|Toxicroak}}{{MSP/H|0849|Toxtricity}}{{MSP/H|0849-Low Key|Toxtricity}}|Belch|Poison|Special|120|90|10}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Block|Normal|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}{{MSP/H|0237|Hitmontop}}{{MSP/H|0286|Breloom}}{{MSP/H|0307|Meditite}}{{MSP/H|0308|Medicham}}{{MSP/H|0448|Lucario}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/breed9|{{MSP/H|0096|Drowzee}}{{MSP/H|0097|Hypno}}{{MSP/H|0302|Sableye}}{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Disable|Normal|Status|—|100|20}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Fell Stinger|Bug|Physical|50|100|25|grid=7}}
+{{learnlist/breed9|{{MSP/H|0097|Hypno}}|Switcheroo|Dark|Status|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}|Teeter Dance|Normal|Status|—|100|20}}
+{{learnlist/breedf/9|Cacturne|Grass|Dark|3}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Cacturne|Grass|Dark|3}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Cacturne|Grass|Dark|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Psybeam}}
+| style="background:#fff; {{roundybr|5px}}" | [[Cacturne ex (EX Emerald 91)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Dark}}
+{{Spindata/PinballRS|col=3|type=Grass|ndex=332|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=332|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=332
+|body=1
+|rate=Evolve
+|area=Furnace Desert
+|P1=It's too hot in the desert, so I like it at night.
+|P2=I'm not looking good. I lost around half my HP so far...
+|P3=I'm about done. My body's stiffening up tight...
+|PL=Fufufu... I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=332
+|body=1
+|rate=0.5
+|IQ=C
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=332
+|coset=9
+|conto={{p|Aerodactyl}}, {{p|Noivern}}
+|recruitment=Introduced by {{p|Aerodactyl}}
+|P1=The sun goes down and comes up again. It shines like new every time…
+|P2=Well, this may be fate…
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Dark
+|assist=Dark
+|field=Crush
+|fieldpower=2
+|num=240
+|browser=It attacks by scattering needles.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=4
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=332 f
+|walk=1.67
+|hp=53
+|attack=79
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=332
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=332|num=553
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Hyper Punch
+|skilldesc=Sometimes deals even more damage.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=332
+|hatch=N/A
+|buddy=3
+|candy=Cacnea
+|evolution=N/A
+|stamina=172|attack=221|defense=115
+|fast={{m|Poison Jab}}, {{m|Sucker Punch}}, {{m|Sand Attack}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Dark Pulse}}, {{m|Dynamic Punch}}, {{m|Grass Knot}}, {{m|Payback}}{{tt|*|From April 12, 2021 onward}}, {{m|Trailblaze}}{{tt|*|From December 1, 2023 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Grass
+|type2=Dark
+|pictype=art
+|no1=0331
+|name1=Cacnea
+|type1-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 32}}
+|no2=0332
+|name2=Cacturne
+|type1-2=Grass
+|type2-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Dark}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=332}}
+{{Spritebox/4/Gender|ndex=332}}
+{{Spritebox/5/Gender|ndex=332}}
+{{Spritebox/6/Gender|ndex=332|crop=87}}
+{{Spritebox/7/Gender|ndex=332|crop=88}}
+<!--{{Spritebox/8/BDSP/Gender|ndex=332}}
+{{Spritebox/9/Gender|ndex=0332}}-->
+{{Spritebox/HOME/Gender|ndex=0332}}
+{{Spritebox/Footer|332|Cacturne}}
+
+==In animation==
+[[File:Harley Cacturne.png|thumb|250px|Cacturne in {{aniseries|AG}}]]
+===Major appearances===
+====[[Harley's Cacturne]]====
+Cacturne made its animated series debut in ''[[AG103|A Cacturne for the Worse]]'', under the ownership of [[Harley]] as his signature Pokémon.
+
+===Minor appearances===
+Cacturne debuted in ''[[M07|Destiny Deoxys]]'', under the ownership of a {{pkmn|Trainer}}.
+
+A Cacturne appeared in [[HZ090]].
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG103|Cacturne|May's Pokédex|Cacturne, the Scarecrow Pokémon. Cacturne is the evolved form of {{p|Cacnea}}, and holds traits of both {{t|Grass}} and {{t|Dark}} [[type]]s. It rarely moves during the {{DL|Time|day}}, but is active once the temperature drops at {{DL|Time|night}}.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+
+==In the manga==
+[[File:Wally Cacturne.png|thumb|Cacturne in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Cacturne first appeared in ''[[PS240|Talk About Timing, Treecko]]'', under the ownership of {{adv|Wally}}. He was first seen when he was rowing a boat during a flood caused by {{p|Kyogre}}.
+
+The {{OBP|Battle Tower|Generation III}} rented a Cacturne, which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+{{-}}
+
+==In the TCG==
+{{main|Cacturne (TCG)}}
+
+==Trivia==
+* No other Pokémon has the same [[Egg Group]] combination as Cacturne and its pre-evolved form.
+** Cacturne and its pre-evolved form are also the only {{type|Grass}} Pokémon in the {{egg3|Human-Like}}.
+* Not counting the {{p|Porygon}} line, {{p|Jynx}} and {{p|Kadabra}}, which all have legal or controversial issues attached, Cacturne is the only Pokémon from the first three generations that never appeared in ''[[Pokémon the Series]]'' or {{pkmn|movies}} based on that series since ''[[Pokémon the Series: Ruby and Sapphire]]''.
+
+===Origin===
+Cacturne appears to be based on a {{wp|cactus}}, possibly the {{wp|saguaro}}, and a {{wp|scarecrow}}. It could be associated with the nighttime because cacti are known as night ({{wp|Crassulacean acid metabolism|CAM}}) plants, since their {{wp|carbon dioxide}} fixation process occurs during the night. Its face is similar to a classic {{wp|Halloween}} {{wp|jack-o'-lantern}}, referencing the tendency for scarecrows to have pumpkins for heads.
+
+====Name origin====
+Cacturne and Noctus may be a combination of ''{{wp|cactus}}'' and ''nocturne'' (French for ''{{wp|nocturnal}}'').
+
+==In other languages==
+{{Other languages|type=Grass|type2=Dark
+|ja=ノクタス ''Noctus''|jameaning=From ''nocturne'' or ''nocturnal'' and ''cactus''
+|fr=Cacturne|frmeaning=Same as English name
+|es=Cacturne|esmeaning=Same as English name
+|de=Noktuska|demeaning=From ''nocturne'', ''{{tt|Kaktus|cactus}}'', and ''{{p|Cacnea|{{tt|Tuska|Cacnea}}}}''
+|it=Cacturne|itmeaning=Same as English name
+|ko=밤선인 ''Bamseonin''|komeaning=From {{tt|밤 ''bam''|night}} and {{tt|선인장 (仙人掌) ''seon-in-jang''|cactus}}
+|zh_cmn=夢歌仙人掌 / 梦歌仙人掌 ''Mènggēxiānrénzhǎng''{{tt|*|Games}}<br>夢歌奈亞 / 梦歌奈亚 ''Mènggēnàiyǎ'' / ''Mènggēnàiyà''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|夢 / 梦 ''mèng''|dream}}, {{tt|歌 ''gē''|song}}, and {{tt|仙人掌 ''xiānrénzhǎng''|cactus}}<br>From {{tt|夢 / 梦 ''mèng''|dream}}, {{tt|歌 ''gē''|song}}, and {{tt|沙漠奈亞 / 沙漠奈亚 ''Shāmònàiyǎ / Shāmònàiyà''|Cacnea (former translation)}}
+|zh_yue=夢歌仙人掌 ''Mùhnggōsīnyàhnjéung''{{tt|*|Games}}<br>夢歌奈亞 ''Muhnggōnoih'a''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|夢 ''mùhng''|dream}}, {{tt|歌 ''gō''|song}}, and {{tt|仙人掌 ''sīnyàhnjéung''|cactus}}<br>From {{tt|夢 ''mùhng''|dream}}, {{tt|歌 ''gō''|song}}, and {{tt|沙漠奈亞 ''Sāmohknoih'a''|Cacnea (former translation)}}
+|hi=कैकनीशा ''Cacnisha''|himeaning=From ''cactus'' and {{tt|निशा ''nisha''|night}}
+|th=น็อคทัส ''Nokthat''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==Notes==
+{{reflist|group=lower-alpha}}
+
+==Related articles==
+*[[Harley's Cacturne]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass|type2=Dark}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0331|prev=Cacnea|nextnum=0333|next=Swablu}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Noktuska]]
+[[es:Cacturne]]
+[[fr:Cacturne]]
+[[it:Cacturne]]
+[[ja:ノクタス]]
+[[zh:梦歌仙人掌]]

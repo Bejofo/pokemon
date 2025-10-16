@@ -1,0 +1,298 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Capsakid}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0950|prev=Klawf|nextnum=0952|next=Scovillain|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Capsakid
+|jname=カプサイジ
+|jtranslit=Kapusaiji
+|tmname=Capsaiji
+|ndex=0951
+|type1=Grass
+|category=Spicy Pepper
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=6.6
+|weight-kg=3.0
+|abilityn=2
+|ability1=Chlorophyll
+|ability2=Insomnia
+|abilityd=Klutz
+|egggroupn=1
+|egggroup1=Grass
+|egggroup2=
+|eggcycles=20
+|evtotal=1
+|evhp=0
+|evat=1
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=61
+|lv100exp=1000000
+|gendercode=127
+|color=Green
+|catchrate=190
+|body=06
+|pokefordex=capsakid
+|generation=9
+|friendship=50
+}}
+'''Capsakid''' ([[List of Japanese Pokémon names|Japanese]]: '''カプサイジ''' ''Capsaiji'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] into {{p|Scovillain}} when exposed to a [[Fire Stone]].
+
+==Biology==
+Capsakid is a short, green, bipedal plant Pokémon with no arms and a very short, stubby tail. It has a four-leaved dark green collar on its neck. Its head has a white, round cap radially split into six at the rim. This cap resembles an egg shell or the {{wp|sepal|calyx}} found on fruits, and has a small, bulbous green top. Its face has black eyes and an orange coloration on the tip of its beak-like mouth, which also contains a single front tooth on the upper jaw. Capsakid's front tooth falls out naturally, and is used as a spice in traditional [[Paldea]]n cooking. Capsakid creates spicy chemicals inside its body by using energy from sunlight, which it uses to power its moves.
+
+===Evolution===
+Capsakid evolves into {{p|Scovillain}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-2
+|pictype=art
+|type1=Grass
+|no1=0951
+|name1=Capsakid
+|type1-1=Grass
+|evo1=
+|no2=0952
+|name2=Scovillain
+|type1-2=Grass
+|type2-2=Fire}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=250|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Capsakid SV.png|x200px]]
+|-
+| Capsakid in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Two)|Area Two]]<br>West Province: [[West Province (Area One)|Area One]], [[Asado Desert]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Capsakid|2★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|HP=50
+|Attack=62
+|Defense=40
+|SpAtk=62
+|SpDef=40
+|Speed=50
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Capsakid|Grass|Grass|9}}
+{{learnlist/level9|1|Leafage|Grass|Physical|40|100|40||'''}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|4|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|10|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|13|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|17|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|21|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|24|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|28|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/level9|38|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level9|44|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level9|48|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Capsakid|Grass|Grass|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Capsakid|Grass|Grass|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tmf/9|Capsakid|Grass|Grass|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Capsakid|Grass|Grass|9}}
+{{learnlist/breed9|{{MSP/H|0192|Sunflora}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed9|{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0286|Breloom}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0952|Scovillain}}|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/breedf/9|Capsakid|Grass|Grass|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/GO|col=6|type=Grass|ndex=0951
+|hatch=N/A
+|buddy=3
+|candy=Capsakid
+|evocandy=50
+|stamina=137
+|attack=118
+|defense=76
+|fast={{m|Leafage}}, {{m|Razor Leaf}}
+|special={{m|Leaf Storm}}, {{m|Grass Knot}}, {{m|Seed Bomb}}
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|pictype=art
+|type1=Grass
+|no1=0951
+|name1=Capsakid
+|type1-1=Grass
+|evo1={{Bag/s|Fire Stone|SV}}<br>{{color2|000|Fire Stone}}
+|no2=0952
+|name2=Scovillain
+|type1-2=Grass
+|type2-2=Fire}}
+
+===Sprites===
+{{Spritebox/Header|type=grass}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0951}}-->
+{{Spritebox/HOME|ndex=0951}}
+{{Spritebox/Footer|951|Capsakid}}
+
+==In animation==
+[[File:Capsakid anime.png|thumb|250px|Capsakid in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+====Minor appearances====
+Capsakid debuted in ''[[HZ052|Wattrel's High Wind Warning!]]'', where [[Roy]] rescued one from falling off a cliff.
+
+A Capsakid appeared in [[HZ102]], under the ownership of [[Karatō]].
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ052|Capsakid|Roy's Rotom Phone|Capsakid, the Spicy Pepper Pokémon. A {{t|Grass}} type. The more it suns itself, the more spicy chemicals are produced in its body. Traditional Paldean dishes can be extremely spicy when including the shed front teeth of a Capsakid in their ingredients.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===POKÉTOON===
+A Capsakid appeared in [[PT15]], under the ownership of Akira.
+
+==In the manga==
+===Pokémon Adventures===
+Capsakid debuted in ''[[PASV03|Battle! Team Star, the Delinquents!!]]''. One was seen walking around a cliff at [[West Province (Area One)]].
+
+A Capsakid appeared in [[PASV13]].
+{{-}}
+
+==In the TCG==
+{{main|Capsakid (TCG)}}
+
+==Trivia==
+*Capsakid is the only non-{{egg3|Field}} Pokémon and the only {{type|Grass}} Pokémon to evolve when exposed to a [[Fire Stone]].
+
+===Origin===
+Capsakid's {{pkmn|category}} and appearance suggest it may be based on an immature {{wp|chili pepper}} such as the {{wp|habanero}} (as alluded to in its Japanese category). The splitting flower over the back of its pepper-shaped head is also based on how peppers grow; the budding berry will grow from inside the flower, causing its petals to cover the pistil of the developing pepper in a manner similar to Capsakid's cap. Its cap and beak also make it resemble the {{wp|Kappa (folklore)|kappa}}. It also resembles a newly hatched baby dinosaur or chick, with its white cap resembling a piece of egg shell. The cap also resembles a {{wp|bonnet (headgear)|sunbonnet}}, hats worn by babies to protect them from sunburn, as Capsakid is still vulnerable to [[harsh sunlight]]-boosted Fire-type attacks, unlike its Evolution. Additionally, there is even a chili pepper named the "{{wp|Scotch bonnet}}", for its resemblance to bonnets.
+
+The Capsakid evolutionary line's introduction in Paldea may allude to how {{wp|Spain}} was the first European country to acquire the chili pepper.
+
+====Name origin====
+Capsakid may be a combination of ''{{wp|capsaicin}}'' (active component of chili peppers) or ''{{wp|Capsicum}}'' (the genus of chili peppers), ''kappa'', and ''kid''.
+
+Capsaiji may be a combination of ''capsaicin'', ''kappa'', and 児 ''ji'' (child).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=カプサイジ ''Capsaiji''|jameaning=From ''{{wp|capsaicin}}'' and {{tt|児 ''ji''|child}}
+|fr=Pimito|frmeaning=From ''{{tt|piment|chili pepper}}'' and ''{{tt|chiquito|Spanish for little boy}}''
+|es=Capsakid|esmeaning=Same as English name
+|de=Chilingel|demeaning=From ''Chili'' and ''{{tt|Schlingel|scamp}}''
+|it=Capsakid|itmeaning=Same as English name
+|ko=캡싸이 ''Kaepssai''|komeaning=From ''capsaicin'' and {{tt|아이 ''ai|child}}
+|zh_cmn=熱辣娃 / 热辣娃 ''Rèlàwá''|zh_cmnmeaning=From {{tt|熱 / 热 ''rè''|hot}}, {{tt|辣 ''là''|spicy}}, and {{tt|娃 ''wá''|child}}
+|zh_yue=熱辣娃 ''Yihtlaahtwā''|zh_yuemeaning=From {{tt|熱 ''yiht''|hot}}, {{tt|辣 ''laaht''|spicy}}, and {{tt|娃 ''wā''|child}}
+|hi=कैपशिशु ''Capshishu''|himeaning=From ''capsaicin'' or ''capsicum'' and {{tt|शिशु ''śhiśhu''|child/baby/infant}}
+|th=แคปไซจิ ''Khaepsaichi''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0950|prev=Klawf|nextnum=0952|next=Scovillain}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Chilingel]]
+[[es:Capsakid]]
+[[fr:Pimito]]
+[[it:Capsakid]]
+[[ja:カプサイジ]]
+[[zh:热辣娃]]
+
+[[Category:Pokémon that evolve by Evolution stone]]
+[[Category:Pokémon that evolve using Fire Stone]]

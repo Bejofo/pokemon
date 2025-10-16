@@ -1,0 +1,659 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/GO|species=Hypno}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0096|prev=Drowzee|nextnum=0098|next=Krabby|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Hypno
+|jname=スリーパー
+|jtranslit=Surīpā
+|tmname=Sleeper
+|ndex=0097
+|typebox=1
+|type1=Psychic
+|category=Hypnosis
+|height-ftin=5'03"
+|height-m=1.6
+|weight-lbs=166.7
+|weight-kg=75.6
+|abilityn=d
+|ability1=Insomnia
+|ability2=Forewarn
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Inner Focus
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|evtotal=2
+|evsd=2
+|expyield=169
+|oldexp=165
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|catchrate=75
+|body=12
+|pokefordex=hypno
+|generation=1
+|friendship=70
+}}
+'''Hypno''' ([[List of Japanese Pokémon names|Japanese]]: '''スリーパー''' ''Sleeper'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Drowzee}} starting at [[level]] 26.
+
+==Biology==
+Hypno is a bipedal, slightly humanoid {{OBP|Pokémon|species}} that has yellow skin. It has triangular ears with brown interiors, sleepy-looking eyes, and a large nose. On its neck, it has a ruff of white fur, which is longer on the female. Hypno has five fingers on each hand and holds a pendulum in its left. The pendulum resembles a flat, silver ring and is used for hypnotism. Hypno is never seen without it. It has three toes on each foot, which also have a pink pad on the undersides.
+
+Hypno is able to put people to sleep by swinging its pendulum. It is known to reside away from humans and on {{DL|List of Pokémon by habitat|Grassland Pokémon|less-traveled roads}}. While it awaits its prey, it polishes its pendulum. If anyone comes by, Hypno will hypnotize them and eat their dreams. It carries away people having good dreams and is even known to have stolen a child at one point. However, in the [[Alola]] [[region]], it preys primarily on {{p|Komala}}, and cases of Hypno targeting humans are notably rare. Some Hypno are even known to assist doctors in hospitals when their patients cannot sleep at night. In the {{al|Trainers' School}} in [[Pokémon Ultra Sun and Ultra Moon]], a Hypno is shown to be capable of creating illusions, namely by disguising itself as a human and causing illusory children to appear. As shown in ''[[SM130|Battling Besties!]]'', Hypno is left feeling completely despondent if its pendulum gets damaged in any way.
+
+===Evolution===
+Hypno evolves from {{p|Drowzee}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Psychic
+|pictype=art
+|no1=0096
+|name1=Drowzee
+|type1-1=Psychic
+|evo1=
+|no2=0097
+|name2=Hypno
+|type1-2=Psychic}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=psychic}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=097}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=When it locks eyes with an enemy, it will use a mix of PSI moves such as <sc>{{m|Hypnosis}}</sc> and <sc>{{m|Confusion}}</sc>.}}
+{{Dex/Entry1|v=Yellow|entry=Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=If you lock eyes with it, it will try to hypnotize you. It is best to close your eyes quickly before you get hypnotized.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=088}}
+{{Dex/Entry1|v=Gold|entry=When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.}}
+{{Dex/Entry1|v=Silver|entry=Always holding a pendulum that it rocks at a steady rhythm, it causes drowsiness in anyone nearby.}}
+{{Dex/Entry1|v=Crystal|entry=The longer it swings its pendulum, the longer the effects of its hypnosis last.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Always holding a pendulum that it rocks at a steady rhythm, it causes drowsiness in anyone nearby. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=097}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Hypno</sc> holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this {{ScPkmn}} searches for prey, it polishes the pendulum.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=The arcing movement and glitter of the pendulum in a <sc>Hypno</sc>'s hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.}}
+{{Dex/Entry1|v=FireRed|entry=It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.}}
+{{Dex/Entry1|v=LeafGreen|entry=When it locks eyes with an enemy, it will use a mix of PSI moves such as <sc>Hypnosis</sc> and <sc>Confusion</sc>.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=088}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.}}
+{{Dex/Entry1|v=HeartGold|entry=When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.}}
+{{Dex/Entry1|v=SoulSilver|entry=Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|entry=Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=055|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=067|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=097}}
+{{Dex/Entry1|v=Sun|entry=While it is an extremely dangerous Pokémon, people who are in need of a good, sound sleep call it their savior.}}
+{{Dex/Entry1|v=Moon|entry=As a matter of course, it makes anyone it meets fall asleep and has a taste of their dreams. Anyone having a good dream, it carries off.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=In Alola, Komala is Hypno's main target. It rarely harms people.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=There are some Hypno that assist doctors with patients who can't sleep at night in hospitals.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=67|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=When it locks eyes with an enemy, it will use a mix of psi moves, such as {{m|Hypnosis}} and {{m|Confusion}}.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{psychic color dark}}; background:#{{psychic color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}}; border:2px solid #{{psychic color dark}}; background:#{{psychic color light}}" | [[File:Pokédex Image Hypno SM.png|x200px]]
+| style="{{roundy|20px}}; border:2px solid #{{psychic color dark}}; background:#{{psychic color light}}" | [[File:Pokédex Image Hypno-Female SM.png|x200px]]
+| style="border:2px solid #{{psychic color dark}}; background:#{{psychic color light}}; {{roundy|5px}};" | [[File:Pokédex Image Hypno SV.png|x200px]]
+|-
+|Male Hypno in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|Female Hypno in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Hypno in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=psychic}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Cerulean Cave]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Cerulean Cave]]}}
+{{Availability/Entry1|v=Yellow|area=[[Evolution|Evolve]] {{p|Drowzee}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|11|Kanto}}}}
+{{Availability/Entry1|v=Crystal|area={{rt|11|Kanto}}{{Sup/t|Night}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Berry Forest]] ([[tall grass]], [[List of in-game event Pokémon in Pokémon FireRed and LeafGreen#Hypno|event]])}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Drowzee}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Drowzee}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|11|Kanto}}<br>{{safari|Johto}}{{sup/t|Night}} (tall grass in Swamp, default, and with 5 Forest points)}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Dreamyard]] ([[Mass outbreak|Swarm]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Drowzee}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{rt|121|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Poni Plains]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Poni Plains]]<br/>[[Hau'oli City]] ([[List of in-game event Pokémon in Pokémon Ultra Sun and Ultra Moon#Hypno|One]])}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=[[Evolution|Evolve]] {{p|Drowzee}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Drowzee}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Six)|Area Six]]<br>West Province: [[West Province (Area One)|Area One]], [[West Province (Area Three)|Area Three]]<br>North Province: [[North Province (Area Three)|Area Three]], [[Dalizapa Passage]], [[Glaseado Mountain]]<br>Area Zero: [[Area Zero#Depths|Depths]]{{tt|*|Only appears near entrance to Depths.}}<!--Before removing this, there is video proof here: https://youtu.be/g_yP8ahKLLs--><br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Hypno|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Drowzee}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 2]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Drowzee}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Dusk Factory]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=Deep [[Spacial Rift]] (B6F-B9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=Deep [[Spacial Rift]] (B6F-B9F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Chroma Ruins]], [[Altru Building]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]] <small>(Normal Mode C)</small>}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Soothing Shore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#A Lively Concert|Melodious Woodland: A Lively Concert]], [[Toy Collection#Guided by Pichu|Toy Collection: Guided by Pichu]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 2|Safari Jungle: Stage 2]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Ivory Pillar|White Ruins: Ivory Pillar]] <small>(All Areas)</small>,<br>[[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] (Entrance, Center, Back)}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Dragonite Sea]], [[Mewtwo Sea]], [[Rowlet Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Mewtwo Sea]]<sup>Final</sup>, [[Rowlet Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD red color}}|area=[[Western Cave]] (9F-14F), [[Buried Relic]] (22F-29F), [[Solar Cave]] (9F-14F), [[Remains Island]] (5F-6F), [[Marvelous Sea]] (5F-6F), [[Fantasy Strait]] (5F-6F)<br/>Mystery House: [[Marvelous Sea]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 669]]<br>Event: [[Pokémon Safari/2015-Feb. 2018#Ninth release|''Pokémon Safari'']] <small>(Ninth release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Psychic}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Gold Leaf|100|rows=2}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Psychic
+|HP=85
+|Attack=73
+|Defense=70
+|SpAtk=73
+|SpDef=115
+|Speed=67
+|Special=115
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Psychic
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=3
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=psychic
+|Normal=  100
+|Flying=  100
+|Fighting= 50
+|Ground=  100
+|Rock=    100
+|Bug=     200
+|Poison=  100
+|Ghost=   200
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=     100
+|Dragon=  100
+|Dark=    200
+|Fairy=100
+|notes=yes
+|gen1psychic=yes
+|oldghost=0}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Hypno|Psychic|Psychic|1}}
+{{learnlist/level9|1|Switcheroo|Dark|Status|—|100|10}}
+{{learnlist/level9|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level9|1|Disable|Normal|Status|—|100|20}}
+{{learnlist/level9|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level9|13|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|17|Poison Gas|Poison|Status|—|90|40}}
+{{learnlist/level9|21|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level9|25|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/level9|32|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level9|37|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level9|42|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level9|47|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level9|51|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/level9|56|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Hypno|Psychic|Psychic|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Hypno|Psychic|Psychic|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM037|Draining Kiss|Fairy|Special|50|100|10}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/tm9|TM069|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM073|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM138|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM217|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tm9|TM218|Expanding Force|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10||'''}}
+{{learnlist/tmf/9|Hypno|Psychic|Psychic|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Hypno|Psychic|Psychic|2}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}{{MSP/H|0126|Magmar}}{{MSP/H|0467|Magmortar}}{{MSP/H|0308|Medicham}}|Fire Punch|Fire|Physical|75|100|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0453|Croagunk}}{{MSP/H|0454|Toxicroak}}{{MSP/H|0574|Gothita}}{{MSP/H|0575|Gothorita}}{{MSP/H|0576|Gothitelle}}{{MSP/H|0859|Impidimp}}{{MSP/H|0860|Morgrem}}{{MSP/H|0861|Grimmsnarl}}|Flatter|Dark|Status|—|100|15|grid=8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Guard Swap|Psychic|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}{{MSP/H|0308|Medicham}}|Ice Punch|Ice|Physical|75|100|15|grid=8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Power Split|Psychic|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0475|Gallade}}{{MSP/H|0937|Ceruledge}}|Psycho Cut|Psychic|Physical|70|100|20||'''|grid=8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Role Play|Psychic|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}{{MSP/H|0125|Electabuzz}}{{MSP/H|0466|Electivire}}{{MSP/H|0308|Medicham}}|Thunder Punch|Electric|Physical|75|100|15|grid=8}}
+{{learnlist/breedf/9|Hypno|Psychic|Psychic|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Hypno|Psychic|Psychic|1}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Hypno|Psychic|Psychic|1}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/Pinball|col=3|type=Psychic|ndex=097|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Psychic|ndex=097|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Psychic|ndex=097
+|body=1
+|rate=Evolve
+|area=Wild Plains
+|P1="You are invincible!" Did my hypnotism work its magic?
+|P2=We may be in trouble. I'm down to half my HP.
+|P3=I'm ready to faint... Even hypnotism won't save us now...
+|PL=OK! There's my level!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Psychic|ndex=097
+|body=1
+|rate=-4.5
+|IQ=F
+}}
+|-
+{{Spindata/PSMD|col=6|type=Psychic|ndex=097
+|coset=3
+|conto={{p|Dodrio}}, {{p|Musharna}}
+|recruitment=Fleeing Pokémon
+|P1=Everyone should fall asleep with my {{m|Hypnosis}}!
+|P2=Tsk! So tough…
+}}
+|-
+{{Spindata/Ranger|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|fieldpower=0
+|field=None
+|loop=9
+|MinEXP=54
+|MaxEXP=68
+|num=091
+|browser=When Hypno spreads its arms wide, it is preparing to attack with psychic waves.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|field=Psy Power
+|fieldpower=2
+|num=167
+|browser=It lets loose strange orbs from the palms of its hands to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Psychic
+|att=2
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Psychic
+|att=2
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Psychic|ndex=097 f
+|walk=1.5
+|hp=56
+|attack=77
+|defense=58
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=097
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=097|num=571
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Sleep Combo
+|skilldesc=Increases damage done by combos if the foe is asleep.
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=097
+|hatch=N/A
+|buddy=3
+|candy=Drowzee
+|evolution=N/A
+|stamina=198
+|attack=144
+|defense=193
+|fast={{m|Zen Headbutt}}, {{m|Confusion}}
+|special={{m|Future Sight}}{{tt|*|From February 16, 2017 onward}}, {{m|Psychic}}, {{m|Focus Blast}}{{tt|*|From February 16, 2017 onward}}, {{m|Fire Punch}}{{tt|*|From July 9, 2019 onward}}, {{m|Ice Punch}}{{tt|*|From July 9, 2019 onward}}, {{m|Thunder Punch}}{{tt|*|From July 9, 2019 onward}}, {{m|Shadow Ball}}{{tt|*|Prior to February 16, 2017 and from January 23, 2020 onward}}, {{m|Psyshock}}{{tt|†|Prior to February 16, 2017}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Psychic
+|pictype=art
+|no1=0096
+|name1=Drowzee
+|type1-1=Psychic
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 26}}
+|no2=0097
+|name2=Hypno
+|type1-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/1|ndex=097}}
+{{Spritebox/2|ndex=097}}
+{{Spritebox/3|ndex=097}}
+{{Spritebox/4/Gender|ndex=097}}
+{{Spritebox/5/Gender|ndex=097}}
+{{Spritebox/6/Gender|ndex=097|crop=84}}
+{{Spritebox/7/Gender/PE|ndex=097|crop=85|PEcrop=166}}
+<!--{{Spritebox/8/BDSP/Gender|ndex=097}}-->
+<!--{{Spritebox/9|ndex=0097}}-->
+{{Spritebox/HOME/Gender|ndex=0097}}
+{{Spritebox/Footer|097|Hypno}}
+
+==In animation==
+[[File:Faba Hypno.png|thumb|250px|Hypno in {{aniseries|SM}}]]
+===Major appearances===
+Hypno debuted alongside its pre-evolved counterpart in ''[[EP027|Hypno's Naptime]]''. The members of [[HopHopHop Town]]'s [[Pokémon Fan Club|Pokémon Lover's Club]] were using the two of them to help them with their sleeping problems. However, the "Sleep Waves" from Hypno were also causing children to act like Pokémon and draining the energy of Pokémon in the local [[Pokémon Center]]. Drowzee eventually managed to fix this problem.
+
+In ''[[EP271|Playing with Fire!]]'', {{jo|Harrison}} used a Hypno during his [[Silver Conference]] {{pkmn|battle}} against {{Ash}}. It was able to defeat {{AP|Totodile}} before losing to {{AP|Snorlax}}.
+
+In ''[[AG146|Fear Factor Phony]]'', a Hypno lived in an abandoned mining colony with other Psychic-types.
+
+In ''[[SM049|Mission: Total Recall!]]'', {{an|Faba}} first used a Hypno in an attempt to wipe {{an|Lillie}}'s memories. {{an|Gladion}} stopped it by defeating it with his {{TP|Gladion|Silvally}}. It made further appearances in {{aniseries|SM}}.
+
+===Minor appearances===
+In ''[[M02|The Power of One]]'', a Hypno sensed the disturbance caused by [[Lawrence III]].
+
+In ''[[EP156|The Psychic Sidekicks!]]'', a Hypno was living in [[Len Town]].
+
+In ''[[EP169|Beauty and the Breeder]]'', a {{tc|Pokémon Breeder}}'s Hypno participated in the [[Pokémon Beauty Contest]].
+
+In ''[[EP176|Ariados, Amigos]]'', [[Mickey]] used a Hypno during his battle with {{OBP|Ralph|EP176}} at the [[Pokémon Jujitsu Academy]]. It lost to {{p|Houndour}}.
+
+In ''[[AG162|Spontaneous Combusken!]]'', a {{pkmn|Coordinator}}'s Hypno competed in the [[Chrysanthemum Island]] [[Pokémon Contest]].
+
+In ''[[JN018|Destination: Coronation!]]'', a Trainer's Hypno battled [[Visquez]]'s {{p|Raichu}}, only to be defeated by his {{m|Volt Tackle}}.
+
+A Trainer's Hypno appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP027|Hypno|Ash's Pokédex|Hypno, a Hypnosis Pokémon. It carries a pendulum-like device and performs hypnotic [[Move|attacks]].}}
+{{Animedexfooter/Pokémon|Kanto}}
+
+==In the manga==
+[[File:Al Hypno Adventures.png|thumb|170px|Hypno in [[Pokémon Adventures]]]]
+===Pokémon Ranger: The Comic – Shadows of Almia===
+A Hypno appeared in [[PRV2]].
+
+A Hypno appeared in [[PRV3]] as one of the Pokémon {{OBP|Heath|Ranger}} controlled.
+
+===Pokémon Journeys===
+A Trainer's Hypno appeared in ''[[JNM09|Destination: Coronation!]]''.
+
+===Pokémon Adventures===
+Hypno debuted in ''[[PS056|The Coming of Slowpoke (Eventually)]]'' as one of the Pokémon of [[Al]] of the [[Team Rocket]] trio that attempted to recapture [[S.S. Anne]].
+
+A Hypno appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+A Hypno belonging to the {{gdis|Battle Factory|III}} appeared in ''[[PS305|Interesting Interactions Involving Illumise]]''.
+
+The Battle Factory rented a Hypno, which was stolen by [[Guile Hideout]] in ''[[PS326|Lemme at 'Em, Lapras!]]''.
+
+A Hypno appeared in ''[[PS333|The Final Battle VI]]'', under the ownership of the Battle Factory. It was stolen alongside a {{p|Tangela}}.
+
+A Hypno appeared in ''[[PASM13|Unleashing the Incredible Z-Move]]''.
+
+[[Faba]]'s Hypno first appeared in ''[[PASM15|Shipwreck and "Oh, What Sharp Teeth You Have, Bruxish!"]]''.
+
+A Hypno belonging to the [[Aether Foundation]] appeared in a flashback in ''[[PASM25|Summon the Emissaries of the Moon and the Sun]]''.
+
+===Pokémon Gold & Silver: The Golden Boys===
+[[Eusine]] owns a Hypno, as seen in ''[[GB22|Farewell To Pikachu?!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+A Hypno appeared in [[GDZ32]].
+
+===Pokémon Pocket Monsters===
+[[Sabrina]] signed up her Hypno to perform onstage at the No. 1 Pokémon competition in ''[[PM019|Aim to be the No. 1 Pokémon!]]''.
+
+A Hypno appeared in ''[[PM051|Pikachu's Birthday Party]]''.
+
+A Hypno appeared in ''[[PM107|Clefairy, the Wizard]]''.
+
+==In the TCG==
+{{main|Hypno (TCG)}}
+
+==Other appearances==
+===Celestial===
+[[File:Hypno Celestial.png|thumb|250px|Hypno in the music video for Celestial]]
+Hypno appeared in the music video for [[Celestial]]. It came out of [[Ed Sheeran]]'s [[Game Boy Color]], and promptly put him to sleep.
+{{-}}
+
+==Merchandise==
+Hypno was one of the first four Pokémon designs revealed when the [[Pokémon 151]] brand was first announced. The shirt design features an image of Hypno swinging its pendulum from the left side of the shirt.
+
+==Trivia==
+* Hypno's Red, Blue, LeafGreen, and Scarlet Pokédex entries make reference to it using "PSI moves" (or "psi moves" in Scarlet), possibly indicating an early name for the {{t|Psychic}} type in English.
+* Hypno's numbers in the [[List of Pokémon by Alola Pokédex number in Pokémon Ultra Sun and Ultra Moon|Alola Pokédex]] in [[Pokémon Ultra Sun and Ultra Moon]] and the [[List of Pokémon by Alola Pokédex number|Paldea Pokédex]] are identical: 067 for the former, and 67 for the latter.
+* Hypno are most likely commonly left handed due to always holding their pendulums in their left hand.
+* Despite being heavily associated with the move {{m|Dream Eater}}, Hypno and its pre-Evolution, {{p|Drowzee}}, cannot learn the move by leveling up outside of [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!]].
+** Notably, as the move is not a [[TM]] in [[Pokémon Scarlet and Violet]], Drowzee and Hypno cannot legally learn Dream Eater in these games, despite both them and the move itself being present.
+
+===Origin===
+Hypno may be based on a {{wp|tapir}}, {{wp|Hypnosis|hypnotist}}, and {{wp|Baku (mythology)|baku}}, or dream eater spirit, of Japanese mythology. It also looks similar to a {{wp|proboscis monkey}}. Aspects of Hypno's behavior also resemble various {{wp|Fairy|fairies}}, {{wp|goblin}}s, {{wp|Bogeyman|bogeymen}}, and other supernatural entities in {{wp|European folklore}}.
+
+====Name origin====
+Hypno may be derived from ''{{wp|hypnosis}}''.
+
+Sleeper is literally ''sleeper''.
+
+==In other languages==
+{{Other languages|type=psychic|type2=psychic
+|ja=スリーパー ''Sleeper''|jameaning=From ''sleeper''
+|fr=Hypnomade|frmeaning=From ''{{tt|hypnose|hypnosis}}'' and ''{{tt|nomade|nomad}}''
+|es=Hypno|esmeaning=Same as English name
+|de=Hypno|demeaning=Same as English name
+|it=Hypno|itmeaning=Same as English name
+|ko=슬리퍼 ''Slliper''|komeaning=Transcription of Japanese name
+|zh_cmn=引夢貘人 / 引梦貘人 ''Yǐnmèngmòrén''{{tt|*|Games}}<br>素利拍 ''Sùlìpāi''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|引夢 ''yǐn mèng''|to lull into a dream}}, {{tt|貘 ''mò''|tapir}}, and {{tt|人 ''rén''|man}}<br>Transcription of Japanese name
+|zh_yue=引夢貘人 ''Yáhnmuhngmohkyàhn''{{tt|*|Games}}<br>催眠獸 ''Sihkmuhngsau''|zh_yuemeaning=From {{tt|引夢 ''yáhn muhng''|to lull into a dream}}, {{tt|貘 ''mohk''|tapir}}, and {{tt|人 ''yàhn''|man}}<br>From {{tt|催眠 ''chēuimìhn''|hypnosis}} and {{tt|獸 ''sau''|beast}}
+|he=היפנו ''Hipno''|hemeaning=Transcription of English name
+|hi=हिपनो ''Hypno''|himeaning=Transcription of English name
+|ru=Гипно ''Gipno''|rumeaning=Transcription of English name
+|th=สลีปเปอร์ ''Slippoe''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0096|prev=Drowzee|nextnum=0098|next=Krabby}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+
+[[de:Hypno]]
+[[es:Hypno]]
+[[fr:Hypnomade]]
+[[it:Hypno]]
+[[ja:スリーパー]]
+[[zh:引梦貘人]]

@@ -1,0 +1,666 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/GO|species=Drowzee}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0095|prev=Onix|nextnum=0097|next=Hypno|round=none}}
+{{PokémonPrevNext/Disambig|species=Drowzee}}
+|}
+{{Pokémon Infobox
+|name=Drowzee
+|jname=スリープ
+|jtranslit=Surīpu
+|tmname=Sleepe
+|ndex=0096
+|typebox=1
+|type1=Psychic
+|category=Hypnosis
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=71.4
+|weight-kg=32.4
+|abilityn=d
+|ability1=Insomnia
+|ability2=Forewarn
+|ability2note=<sup>{{color2|000|Generation IV|Gen IV+}}</sup>
+|abilityd=Inner Focus
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|evtotal=1
+|evsd=1
+|expyield=66
+|oldexp=102
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|catchrate=190
+|body=12
+|pokefordex=drowzee
+|generation=1
+|friendship=70
+}}
+'''Drowzee''' ([[List of Japanese Pokémon names|Japanese]]: '''スリープ''' ''Sleepe'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Hypno}} starting at [[level]] 26.
+
+==Biology==
+Drowzee is a bipedal {{OBP|Pokémon|species}} that resembles a {{wp|tapir}}. It has tired-looking eyes, a short trunk above its mouth, and triangular ears with brown interiors. The upper half of Drowzee's body is yellow and the lower half is brown. A wavy line separates the two halves. It has a round belly and short legs. Its feet are brown, except for its two toes, which are yellow. The bottom of each foot has a small, round, pink pad in the middle of it. There are three fingers on each of its hands. Drowzee is believed to have a common ancestor with {{p|Munna}} and {{p|Musharna}}.
+
+Drowzee is able to put people to sleep and can then sense the person's dreams. This is so it knows what kind of dream it would be eating. It has certain preferences for the dreams it eats, and it is known to love fun dreams and become ill from bad dreams. It will rarely eat the dreams of adults, as the dreams of children are seemingly tastier. Drowzee remembers every dream it has eaten and may show past meals to a person it trusts. It eats dreams through the victim's nose, so it is said that Drowzee is standing over a person's pillow if their nose itches while they are asleep. Drowzee lives in {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands and savannas}}.
+
+===Evolution===
+Drowzee evolves into {{p|Hypno}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Psychic
+|pictype=art
+|no1=0096
+|name1=Drowzee
+|type1-1=Psychic
+|evo1=
+|no2=0097
+|name2=Hypno
+|type1-2=Psychic}}
+</div>
+
+==Game data==
+===NPC appearances===
+* {{vg|Pokémon Ranger}}: After the credits, a man calling himself the [[Drowsy Guy]] stands on the [[Fiore Temple]] with two Drowzee. His Drowzee allow the player to reexperience the events of the end of the game.
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: {{mdc|Drowzee|2}} is a resident of Treasure Town who takes {{p|Azurill}} hostage and makes him get treasure for him. The player's team saves Azurill and gets Drowzee arrested. Later, when Azurill cannot wake up from a nightmare, the player's team looks for Drowzee's help. He sends the player's team into Azurill's dream to find out the problem.
+
+===Pokédex entries===
+{{Dex/Header|type=psychic}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=096}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Puts enemies to {{status|sleep}} then eats their dreams. Occasionally gets sick from eating bad dreams.}}
+{{Dex/Entry1|v=Yellow|entry=If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=It puts its enemy to sleep and eats the victim's dreams. Said to have descended from the legendary beast, {{wp|Baku (spirit)|Baku}}.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=087}}
+{{Dex/Entry1|v=Gold|entry=If you think that you had a good dream, but you can't remember it, a <sc>Drowzee</sc> has probably eaten it.}}
+{{Dex/Entry1|v=Silver|entry=It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier.}}
+{{Dex/Entry1|v=Crystal|entry=When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=If you think that you had a good dream, but you can't remember it, a <sc>Drowzee</sc> has probably eaten it. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=096}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=If your nose becomes itchy while you are sleeping, it's a sure sign that one of these {{ScPkmn}} is standing above your pillow and trying to eat your dream through your nostrils.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=If your nose becomes itchy while you are sleeping, it's a sure sign that a <sc>Drowzee</sc> is standing above your pillow and trying to eat your dream through your nostrils.}}
+{{Dex/Entry1|v=FireRed|entry=A descendent of the legendary animal baku, which is said to eat dreams. It is skilled at hypnotism.}}
+{{Dex/Entry1|v=LeafGreen|entry=Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=087}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.}}
+{{Dex/Entry1|v=HeartGold|entry=If you think that you had a good dream but you can't remember it, a <sc>Drowzee</sc> has probably eaten it.}}
+{{Dex/Entry1|v=SoulSilver|entry=It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=If you think that you had a good dream but you can't remember it, a Drowzee has probably eaten it.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=054|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=066|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=096}}
+{{Dex/Entry1|v=Sun|entry=A Pokémon that nourishes itself by eating dreams, it is thought to share common ancestry with {{p|Munna}} and {{p|Musharna}}.}}
+{{Dex/Entry1|v=Moon|entry=It finds really fun dreams tasty. When it makes friends with people, it may show them the most delicious dreams it's ever eaten.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It can be spotted near recreational facilities, intending to eat the pleasant dreams of children who enjoyed themselves there that day.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=It puts its prey to sleep and devours their dreams. It seems that bad dreams taste sour, so Drowzee doesn't particularly like eating them.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword, Shield]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=66|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It remembers every dream it eats. It rarely eats the dreams of adults because children’s are much tastier.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{psychic color dark}}; background:#{{psychic color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}}; border:2px solid #{{psychic color dark}}; background:#{{psychic color light}};" | [[File:Pokédex Image Drowzee SM.png|x200px]]
+| style="border:2px solid #{{psychic color dark}}; background:#{{psychic color light}}; {{roundy|5px}};" | [[File:Pokédex Image Drowzee SV.png|x200px]]
+|-
+| Drowzee in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Drowzee in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=psychic}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{rt|11|Kanto}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{rt|11|Kanto}}}}
+{{Availability/Entry1|v=Yellow|area={{rt|11|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|11|Kanto}}, {{rtn|34|Johto}}, and {{rtn|35|Johto}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|6|Kanto}}, {{rtn|11|Kanto}}, {{rtn|34|Johto}}, and {{rtn|35|Johto}}{{Sup/t|N}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{rt|11|Kanto}}, [[Berry Forest]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|215|Sinnoh}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|215|Sinnoh}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|11|Kanto}}, {{rtn|34|Johto}}, and {{rtn|35|Johto}}<br/>{{safari|Johto}}{{sup/t|N}} (tall grass in Swamp, default)}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{pkmn|breeding|Breed}} {{p|Hypno}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Psychic-type Safari|Psychic]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{pkmn|breeding|Breed}} {{p|Hypno}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|2|Alola}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{rt|2|Alola}}}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area={{rt|11|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|215|Sinnoh}} ([[Mass outbreak|Swarm]])<br>[[Grand Underground]] - [[Dazzling Cave]], [[Stargleam Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Two)|Area Two]], [[South Province (Area Three)|Area Three]], [[South Province (Area Five)|Area Five]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Drowzee|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Red Field]]: [[Vermilion City|Vermilion City Seaside]] <br> [[Blue Field]]: [[Vermilion City|Vermilion City Streets]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 7]], [[Secret Storage 18]], Endless Level 3, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Buried Relic]] (B9F-B14F), [[Solar Cave]] (B1F-B5F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Waterworks]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Spacial Rift]] (B15F, Deep Spacial Rift B1F-B4F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Spacial Rift]] (B15F, Deep Spacial Rift B1F-B4F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Cargo Ship]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]] <small>(Normal Mode C)</small>}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Challenger's Ground]], [[Soothing Shore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#A Lively Concert|Melodious Woodland: A Lively Concert]], [[Toy Collection#Guided by Pichu|Toy Collection: Guided by Pichu]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 1|Safari Jungle: Stage 1]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Ivory Pillar|White Ruins: Ivory Pillar]] <small>(All Areas)</small>,<br>[[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Entrance, Center, Back)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Dragonite Sea]], [[Mewtwo Sea]], [[Rowlet Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Mewtwo Sea]]<sup>Final</sup>, [[Rowlet Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD red color}}|area=[[Western Cave]] (1F-5F), [[Buried Relic]] (11F-14F, 16F), [[Solar Cave]] (1F-5F)<br/>Mystery House: [[Marvelous Sea]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 666]]<br>Event: [[Pokémon Safari/2015-Feb. 2018#Ninth release|''Pokémon Safari'']] <small>(Ninth release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=psychic}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Amnesia Drowzee|English|United States|5|November 29 to December 5, 2002|link=List of PCNY event Pokémon distributions in Generation II#Amnesia Drowzee}}
+{{eventAvail|{{gameabbrev3|FRLG}}|Pokémon Center New York Wish Egg Drowzee|English|United States|5|December 16, 2004 to January 2, 2005|link=List of PCNY event Pokémon distributions in Generation III#Drowzee}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Psychic}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Psychic
+|HP=60
+|Attack=48
+|Defense=45
+|SpAtk=43
+|SpDef=90
+|Speed=42
+|Special=90
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Psychic
+|Speed=1
+|SpeedMax=2
+|Power=3
+|PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=psychic
+|Normal=  100
+|Flying=  100
+|Fighting= 50
+|Ground=  100
+|Rock=    100
+|Bug=     200
+|Poison=  100
+|Ghost=   200
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=     100
+|Dragon=  100
+|Dark=    200
+|Fairy=100
+|notes=yes
+|gen1psychic=yes
+|oldghost=0}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Drowzee|Psychic|Psychic|1}}
+{{learnlist/level9|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level9|5|Disable|Normal|Status|—|100|20}}
+{{learnlist/level9|9|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level9|13|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level9|17|Poison Gas|Poison|Status|—|90|40}}
+{{learnlist/level9|21|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level9|25|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/level9|29|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level9|33|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level9|37|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level9|41|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level9|45|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/level9|49|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Drowzee|Psychic|Psychic|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Drowzee|Psychic|Psychic|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM037|Draining Kiss|Fairy|Special|50|100|10}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/tm9|TM069|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM073|Drain Punch|Fighting|Physical|75|100|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM138|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM158|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM217|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tm9|TM218|Expanding Force|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10||'''}}
+{{learnlist/tmf/9|Drowzee|Psychic|Psychic|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Drowzee|Psychic|Psychic|2}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}{{MSP/H|0126|Magmar}}{{MSP/H|0467|Magmortar}}{{MSP/H|0308|Medicham}}|Fire Punch|Fire|Physical|75|100|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0453|Croagunk}}{{MSP/H|0454|Toxicroak}}{{MSP/H|0574|Gothita}}{{MSP/H|0575|Gothorita}}{{MSP/H|0576|Gothitelle}}{{MSP/H|0859|Impidimp}}{{MSP/H|0860|Morgrem}}{{MSP/H|0861|Grimmsnarl}}|Flatter|Dark|Status|—|100|15|grid=8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Guard Swap|Psychic|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}{{MSP/H|0308|Medicham}}|Ice Punch|Ice|Physical|75|100|15|grid=8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Power Split|Psychic|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0475|Gallade}}{{MSP/H|0937|Ceruledge}}|Psycho Cut|Psychic|Physical|70|100|20||'''|grid=8}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Role Play|Psychic|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0107|Hitmonchan}}{{MSP/H|0125|Electabuzz}}{{MSP/H|0466|Electivire}}{{MSP/H|0308|Medicham}}|Thunder Punch|Electric|Physical|75|100|15|grid=8}}
+{{learnlist/breedf/9|Drowzee|Psychic|Psychic|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg psychic color}}; border: 3px solid #{{tcg psychic color dark}}"
+|-
+! style="background: #{{tcg psychic color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg psychic color light}}; {{roundytr|5px}}" | Card
+|- style="background:#fff"
+| {{m|Confuse Ray}}
+| [[Drowzee (Base Set 49)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Tackle}}
+| style="background:#fff; {{roundybr|5px}}" | [[Drowzee (Aquapolis 74)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/Pinball|col=3|type=Psychic|ndex=096|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Psychic|ndex=096|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Psychic|ndex=096
+|body=1
+|rate=7.9
+|area=Wild Plains
+|P1="You are powerful!" Did my hypnotism work?
+|P2=I only have half HP left.
+|P3=I can't keep up... I'm drained of hypnotic power...
+|PL=Oh, yes! My level's gone up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Psychic|ndex=096
+|body=1
+|rate=6.4
+|IQ=F
+}}
+|-
+{{Spindata/PSMD|col=6|type=Psychic|ndex=096
+|coset=3
+|conto={{p|Metagross}}, {{p|Pachirisu}}, {{p|Zorua}}
+|recruitment=Traveling Pokémon
+|P1=I can eat dreams. How do they taste? Not bad.
+|P2=Argh… This is getting too rough…
+}}
+|-
+{{Spindata/Ranger|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|fieldpower=0
+|field=None
+|loop=6
+|MinEXP=26
+|MaxEXP=39
+|num=090
+|browser=Drowzee looses psychic power from its hands to disrupt your capture attempts.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|field=Crush
+|fieldpower=2
+|num=166
+|browser=It lets loose strange orbs from the palms of its hands to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Psychic
+|att=1
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Psychic
+|att=1
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Psychic|ndex=096
+|walk=1.58
+|hp=51
+|attack=69
+|defense=52
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=096
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=096|num=570
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Sleep Charm
+|skilldesc=Leaves the foe asleep.
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=096
+|hatch=N/A
+|buddy=3
+|candy=Drowzee
+|evocandy=50
+|stamina=155
+|attack=89
+|defense=136
+|fast={{m|Pound}}, {{m|Confusion}}
+|special={{m|Psybeam}}, {{m|Psyshock}}, {{m|Psychic}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Psychic
+|pictype=art
+|no1=0096
+|name1=Drowzee
+|type1-1=Psychic
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 26}}
+|no2=0097
+|name2=Hypno
+|type1-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/1|ndex=096}}
+{{Spritebox/2|ndex=096}}
+{{Spritebox/3|ndex=096}}
+{{Spritebox/4|ndex=096}}
+{{Spritebox/5|ndex=096}}
+{{Spritebox/6|ndex=096|crop=60}}
+{{Spritebox/7/PE|ndex=096|crop=54|PEcrop=110}}
+<!--{{Spritebox/8/BDSP|ndex=096}}-->
+<!--{{Spritebox/9|ndex=0096}}-->
+{{Spritebox/HOME|ndex=0096}}
+{{Spritebox/Footer|096|Drowzee}}
+
+==In animation==
+[[File:Goh Drowzee.png|thumb|250px|Drowzee in {{aniseries|JN}}]]
+===Major appearances===
+Drowzee debuted in ''[[EP027|Hypno's Naptime]]'', where it and its evolved counterpart were used to help the members of the {{DL|Pokémon Fan Club|Pokémon Lover's Club}} get some sleep. However, after Hypno caused children to act like Pokémon and drained the energy of Pokémon resting in the local [[Pokémon Center]], Drowzee was used to fix the problem that Hypno created.
+
+In ''[[EP086|Pikachu Re-Volts]]'', [[Butch]] and [[Cassidy]] used a Drowzee stolen from their [[EP057|fake Pokémon Breeding Center]] while stationed at [[Mandarin Island North]]. Its Psychic powers brainwashed {{OBP|Pokémon|species}} into turning against their {{pkmn|Trainer}}s and obeying Butch and Cassidy instead.
+
+In ''[[AG146|Fear Factor Phony]]'', a Drowzee lived in an abandoned mining colony. The other Psychic Pokémon it lived with had parties in order to help them forget their sadness due to the fact that the miners had left the town long ago. However, the constant partying was disturbing the {{t|Ghost}} Pokémon that lived in the abandoned mine.
+
+In ''[[DP135|Beating the Bustle and Hustle!]]'', [[Azure]] owns a Drowzee, which participated with him in the fake ''[[Sinnoh Pokémon Hustle]]'' that {{TRT}} had set up. It was particularly powerful, being able to send Team Rocket blasting off and hold its own against [[Officer Jenny's Growlithe]] for a while.
+
+In ''[[SM065|Turning Heads and Training Hard!]]'', a {{tc|Team Skull Grunt}}'s Drowzee was quickly defeated by [[Ilima]] and his {{p|Eevee}}. In ''[[SM128|League Offenders and Defenders!]]'', Drowzee was defeated by Team Rocket; and in ''[[SM129|Battle Royal 151!]]'', it competed in the [[Manalo Conference]], only to be defeated by Ilima's Eevee again. It reappeared once more in ''[[SM146|Thank You, Alola! The Journey Continues!]]''.
+
+In ''[[JN053|Healing the Healer!]]'', [[Goh]] caught a {{DL|List of Goh's Pokémon|Drowzee}}, which he used to help defend {{TP|Goh|Suicune}} from a group of {{OBP|Pokémon hunters|JN053}}.
+
+===Minor appearances===
+A Trainer's Drowzee appeared in ''[[M01|Mewtwo Strikes Back]]''.
+
+In ''[[PK01|Pikachu's Vacation]]'', a Drowzee was at the [[Pokémon Theme Park]].
+
+A Drowzee briefly appeared in ''[[EP078|A Friend In Deed]]''.
+
+In ''[[M02|The Power of One]]'', a Drowzee sensed the disturbance caused by [[Lawrence III]].
+
+In ''[[EP146|Tricks of the Trade]]'', a Drowzee wa at the [[Pokémon Swap Meet]] in [[Palmpona]].
+
+In ''[[EP156|The Psychic Sidekicks!]]'', a Drowzee lived in [[Len Town]].
+
+In ''[[EP169|Beauty and the Breeder]]'', a {{tc|Pokémon Breeder}}'s Drowzee participated in the [[Pokémon Beauty Contest]].
+
+A thief {{OBP|Drowzee|Explorers of Time, Darkness, and Sky}} appeared in ''[[Pokémon Mystery Dungeon: Explorers of Time & Darkness]]'' and ''[[Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness]]''.
+
+In a flashback in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! (Part 1)]]'', a {{tc|Scientist}}'s Drowzee unsuccessfully tried to subdue the [[Aura Sphere Riolu]] in an attempt to capture it.
+
+A Drowzee appeared in ''[[DP088|Camping It Up!]]''.
+
+A Drowzee appeared in ''[[DP123|Old Rivals, New Tricks]]''.
+
+In ''[[DP160|A Marathon Rivalry!]]'', a Trainer's Drowzee competed in the [[Camellia Town]] [[Pokéathlon]].
+
+In ''[[M22|Mewtwo Strikes Back—Evolution]]'', a Drowzee replaced [[Raymond]]'s {{p|Golem}} from ''Mewtwo Strikes Back''. Alongside his {{p|Venomoth}} and {{p|Pinsir}}, it fought [[Ash's Pikachu]], only for all of them to be defeated with {{m|Thunderbolt}}.
+
+In ''[[SM144|From Z to Shining Z!]]'', a Trainer's Drowzee watched the battle between Ash's Pikachu and {{DL|Guardian deities (anime)|Tapu Koko}}. It reappeared in a flashback in ''[[JN112|Helping the Hometown Hero!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP027|Drowzee|Ash's Pokédex|Drowzee. Said to be a descendant of the {{wp|Baku (spirit)|dream-eating tapir}}. It was the first Pokémon to use a combination [[Move|attack]] like {{m|Hypnosis}} and {{m|Dream Eater}}.}}
+{{Animedexfooter/Pokémon|Kanto}}
+{{Animedexheader|Orange}}
+{{Animedexbody|EP086|Drowzee|Ash's Pokédex|Drowzee, the {{tt|Hypnotic Pokémon|Incorrect; should have said Hypnosis Pokémon}}. It is said to feed on the dreams of its opponents. It is also known for its powerful {{m|Psychic}} attack.}}
+{{Animedexfooter/Pokémon|Orange}}
+
+==In the manga==
+[[File:Gold Drowzee Adventures.png|thumb|140px|Drowzee in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+[[Sabrina]] has a Drowzee, which was used to sneak up on [[Erika]] prior to the showdown in [[Saffron City]]. However, it was noticed by the {{type|Grass}} [[Gym Leader]] and easily defeated by Erika's Vileplume's {{m|Petal Dance}} in ''[[PS019|Blame It On Eevee!]]''.
+
+A Drowzee appeared in ''[[PS091|Murkrow Row]]'' as one of the residents of {{adv|Gold}}'s house.
+
+Multiple Drowzee appeared in ''[[PS110|Piloswine Whine]]'', under the control of {{tc|Team Rocket Grunt}}s. They were used to attack {{adv|Gold}} and {{adv|Silver}}, but were easily defeated.
+
+A Drowzee appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+A Drowzee appeared in a fantasy in ''[[PS309|Moving Past Milotic]]'' as a Pokémon at the [[Battle Pike]].
+
+The {{OBP|Battle Tower|Generation III}} rented a Drowzee, which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''. It reappeared in ''[[PS336|The Final Battle IX]]''.
+
+Multiple Drowzee were used by {{tc|Team Galactic Grunt}}s in ''[[PS406|Halting Honchkrow]]''.
+
+A Drowzee appeared in ''[[PS442|Out-Odding Oddish]]'', under the ownership of a [[Pokéathlon]] participant.
+
+{{tc|Team Skull Grunt}}s own multiple Drowzee, which first appeared in ''[[PASM11|Homecoming and the Brilliant Professional Golfer]]''.
+
+===Pokémon Pocket Monsters===
+{{PPM|Professor Oak}} owns a Drowzee, which debuted in ''[[PM040|Save the Pokémon Zoo!!]]''.
+
+A Drowzee appeared in ''[[PM053|Clefairy's Pikachu Robot]]''.
+
+==In the TCG==
+{{main|Drowzee (TCG)}}
+
+==Trivia==
+* Drowzee's numbers in the [[List of Pokémon by Alola Pokédex number in Pokémon Ultra Sun and Ultra Moon|Alola Pokédex]] in [[Pokémon Ultra Sun and Ultra Moon]] and the [[List of Pokémon by Paldea Pokédex number|Paldea Pokédex]] are identical: 066 for the former, and 66 for the latter.
+* Despite being heavily associated with {{m|Dream Eater}}, Drowzee and its Evolution, {{p|Hypno}}, cannot learn the move by leveling up outside of {{LGPE}}.
+** Notably, as the move is not a [[TM]] in [[Pokémon Scarlet and Violet]], Drowzee and Hypno cannot legally learn Dream Eater in these games, despite both them and the move itself being present.
+
+===Origin===
+Drowzee may be based on the Japanese myth of the {{wp|Baku (mythology)|baku}}, creatures who eat bad dreams of sleeping people. Originally, they were composite animals, but later became {{wp|tapir}}s — pig-like animals with small trunks from {{wp|South America}} and {{wp|South Asia}}. Drowzee's dual coloring makes it especially similar to the {{wp|Malayan tapir}}.
+
+====Name origin====
+Drowzee may be a combination of ''drowsy'' and ''zzz'' (onomatopoeia for snoring).
+
+Sleepe may be derived from ''sleep''.
+
+==In other languages==
+{{Other languages|type=psychic|type2=psychic
+|ja=スリープ ''Sleepe''|jameaning=From ''sleep''
+|fr=Soporifik|frmeaning=From ''{{tt|soporifique|soporific, tending to induce sleep}}''
+|es=Drowzee|esmeaning=Same as English name
+|de=Traumato|demeaning=From ''{{tt|Traum|dream}}'' and ''{{tt|traumatisch|traumatic}}''
+|it=Drowzee|itmeaning=Same as English name
+|ko=슬리프 ''Sllip''|komeaning=From ''sleep''
+|zh_cmn=催眠貘 ''Cuīmiánmò''{{tt|*|Games}}<br>素利普 ''Sùlìpǔ''{{tt|*|Pre-Gen VII media}}|zh_cmnmeaning=From {{tt|催眠 ''cuīmián''|hypnosis}} and {{tt|貘 ''mò''|tapir}}<br>Transcription of Japanese name
+|zh_yue=催眠貘 ''Chēuimìhnmohk''{{tt|*|Games}}<br>食夢獸 ''Sihkmuhngsau''|zh_yuemeaning=From {{tt|催眠 ''chēuimìhn''|hypnosis}} and {{tt|貘 ''mohk''|tapir}}<br>From {{tt|食夢 ''sihkmuhng''|dream eating}} and {{tt|獸 ''sau''|beast}}
+|hi=ड्राउज़ी ''Drowzee''|himeaning=Transcription of English name
+|ru=Драузи ''Drauzi''|rumeaning=Transcription of English name
+|th=สลีป ''Slip''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Drowzee (Explorers of Time, Darkness, and Sky)]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0095|prev=Onix|nextnum=0097|next=Hypno}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Traumato]]
+[[es:Drowzee]]
+[[fr:Soporifik]]
+[[it:Drowzee]]
+[[ja:スリープ]]
+[[zh:催眠貘]]

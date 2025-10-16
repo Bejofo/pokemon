@@ -1,0 +1,561 @@
+{{PokémonPrevNext/Head|type=Psychic|type2=Flying}}
+{{PokémonPrevNext/GO|species=Woobat}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0526|prev=Gigalith|nextnum=0528|next=Swoobat|round=none}}
+{{PokémonPrevNext/Disambig|species=Woobat}}
+|}
+{{Pokémon Infobox
+|name=Woobat
+|jname=コロモリ
+|tmname=Koromori
+|category=Bat
+|type1=Psychic
+|type2=Flying
+|abilitylayout=2
+|ability1=Unaware
+|ability2=Klutz
+|abilityd=Simple
+|ndex=0527
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=4.6
+|weight-kg=2.1
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Flying
+|eggcycles=15
+|expyield=65<!--63 in Gen V-VI-->
+|lv100exp=1,000,000
+|evtotal=1
+|evsp=1
+|gendercode=127
+|color=Blue
+|catchrate=190
+|body=09
+|pokefordex=woobat
+|generation=5
+|friendship=70
+}}
+'''Woobat''' ([[List of Japanese Pokémon names|Japanese]]: '''コロモリ''' ''Koromori'') is a dual-type {{2t|Psychic|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Swoobat}} when [[friendship Evolution|leveled up with high friendship]].
+
+==Biology==
+Woobat is a blue, spherical {{OBP|Pokémon|species}}, resembling a {{wp|Honduran White Bat}}. It is covered in shaggy fur and has a large, piggish nose with a heart-shaped nostril. Two tufts of shaggy fur hide its eyes, and its mouth has a single fang in the center of its upper jaw. There are two relatively small, black wings on either side of its body.
+
+Woobat's nose serves various purposes: It uses ultrasonic waves from its nostrils for echolocation, and it can also be used to grip walls as Woobat sleeps, which leaves heart-shaped marks on the walls of caves. A Woobat's heart-shaped mark is said to give good fortune to whoever it leaves its mark on. Woobat preys on bug Pokémon and is known to live in caves and dark forests.
+
+===Evolution===
+Woobat evolves into {{p|Swoobat}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|pictype=art
+|type1=Psychic
+|type2=Flying
+|no1=0527
+|name1=Woobat
+|type1-1=Psychic
+|type2-1=Flying
+|evo1=
+|no2=0528
+|name2=Swoobat
+|type1-2=Psychic
+|type2-2=Flying}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Psychic|type2=Flying}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=033|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=066|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.}}
+{{Dex/Entry1|v=White|entry=Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=055|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=174|reg2=Galar|num2=151|label2=Isle of Armor|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it's evidence that Woobat live there.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Wellspring Cave]], [[Mistralton Cave]], [[Twist Mountain]], [[Challenger's Cave]], {{OBP|Victory Road|Black and White}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Wellspring Cave]], [[Mistralton Cave]], [[Twist Mountain]], [[Reversal Mountain]], [[Clay Tunnel]], [[Relic Passage]], [[Underground Ruins]], [[Seaside Cave]]<br>{{rt|6|Unova}} ([[Hidden Grotto]])<br>[[Wellspring Cave]] ([[N's Pokémon]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Reflection Cave]], [[Glittering Cave]], [[Friend Safari]] ([[Friend Safari#Flying-type Safari|Flying]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Galar Mine]], [[Watchtower Ruins]], [[Bridge Field]], [[Giant's Mirror]]<br>[[Rolling Fields/Dens|Rolling Fields]], [[Watchtower Ruins/Dens|Watchtower Ruins]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Stony Wilderness/Dens|Stony Wilderness]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Courageous Cavern]], [[Brawlers' Cave]]<br>[[Loop Lagoon/Dens|Loop Lagoon]], [[Frostpoint Field/Dens|Frostpoint Field]], [[Giant's Bed/Dens|Giant's Bed]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]], [[Dyna Tree Hill/Dens|Dyna Tree Hill]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Shimmering Lake]], [[Misty Edgewater]], [[Echo Valley]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Ragged Mountain]] (1F-5F), [[Stony Cave]] (B1-B5), [[Rusty Mountain]] (Gilded Hall), [[Jaws of the Abyss]] (Uncharted Road, Gilded Hall), [[Smoking Mountain]] (Uncharted Road, Gilded Hall), [[Poké Forest]] (1F-5F), [[Mount Tepid]] (1F-14F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#A Flowing Desert|Vehicle Gallery: A Flowing Desert]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 2|Sacred Plains: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Ivory Pillar|White Ruins: Ivory Pillar]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Castform Sea]], [[Mimikyu Sea]], [[Buzzwole Sea]], [[Mimikyu Sea]]<sup>Final</sup>, [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Ruins of Remembrance]], {{DL|Ruins of Remembrance|Aurus Island Illumina Spot}}<sup><span style="color:#067162;">Level 2</span></sup>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 511]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+======Generations V-VI======
+{{BaseStats
+|type=Psychic
+|type2=Flying
+|HP=55
+|Attack=45
+|Defense=43
+|SpAtk=55
+|SpDef=43
+|Speed=72}}
+
+======Generation VII onward======
+{{BaseStats
+|type=Psychic
+|type2=Flying
+|HP=65
+|Attack=45
+|Defense=43
+|SpAtk=55
+|SpDef=43
+|Speed=72}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|type2=Flying
+|Normal=100
+|Fighting=25
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=100
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=50
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1}}
+
+===Learnset===
+Woobat is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Woobat|Psychic|Flying|5}}
+{{learnlist/level8|1|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level8|1|Attract|Normal|Status|—|100|15}}
+{{learnlist/level8|5|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level8|10|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/level8|15|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level8|20|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/level8|25|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level8|30|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/level8|35|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level8|40|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level8|45|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/level8|50|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/level8|55|Simple Beam|Normal|Status|—|100|15}}
+{{learnlist/levelf/8|Woobat|Psychic|Flying|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Woobat|Psychic|Flying|5}}
+{{learnlist/tm8|TM06|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM18|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm8|TM19|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM30|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM44|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/tm8|TM62|Speed Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM69|Psycho Cut|Psychic|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM70|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM78|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm8|TM95|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tr|TR17|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR25|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR34|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR36|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR40|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tr|TR49|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR52|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tr|TR82|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR91|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/tmf/8|Woobat|Psychic|Flying|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Woobat|Psychic|Flying|5}}
+{{learnlist/breed8|{{MSP/8c|032|Nidoran♂}}{{MSP/8c|033|Nidorino}}{{MSP/8c|034|Nidoking}}{{MSP/8c|427|Buneary}}{{MSP/8c|428|Lopunny}}{{MSP/8c|877|Morpeko}}|Flatter|Dark|Status|—|100|15}}
+{{learnlist/breed8|{{MSP/8c|083|Farfetch'd}}{{MSP/8c|083G|Farfetch'd}}{{MSP/8c|865|Sirfetch'd}}{{MSP/8c|359|Absol}}{{MSP/8c|570|Zorua}}{{MSP/8c|571|Zoroark}}{{MSP/8c|810|Grookey}}{{MSP/8c|811|Thwackey}}{{MSP/8c|812|Rillaboom}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed8|{{MSP/8c|163|Hoothoot}}{{MSP/8c|164|Noctowl}}{{MSP/8c|177|Natu}}{{MSP/8c|178|Xatu}}|Psycho Shift|Psychic|Status|—|100|10}}
+{{learnlist/breed8|{{MSP/8c|163|Hoothoot}}{{MSP/8c|164|Noctowl}}{{MSP/8c|206|Dunsparce}}{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|519|Pidove}}{{MSP/8c|520|Tranquill}}{{MSP/8c|521|Unfezant}}{{MSP/8c|661|Fletchling}}{{MSP/8c|662|Fletchinder}}{{MSP/8c|663|Talonflame}}{{MSP/8c|701|Hawlucha}}{{MSP/8c|714|Noibat}}{{MSP/8c|715|Noivern}}|Roost|Flying|Status|—|—|10}}
+{{learnlist/breed8|{{MSP/8c|041|Zubat}}{{MSP/8c|042|Golbat}}{{MSP/8c|169|Crobat}}{{MSP/8c|142|Aerodactyl}}{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|293|Whismur}}{{MSP/8c|294|Loudred}}{{MSP/8c|295|Exploud}}{{MSP/8c|714|Noibat}}{{MSP/8c|715|Noivern}}|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/breedf/8|Woobat|Psychic|Flying|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Woobat|Psychic|Flying|5}}
+{{learnlist/tutor8|Dual Wingbeat|Flying|Physical|40|90|10||'''|no|yes}}
+{{learnlist/tutor8|Expanding Force|Psychic|Special|80|100|10||'''|no|yes}}
+{{learnlist/tutorf/8|Woobat|Psychic|Flying|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Woobat|Psychic|Flying|5}}
+{{learnlist/prevgen8|Woobat|5|Aerial Ace|Flying|Physical|60|—|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Woobat|5|After You|Normal|Status|—|—|15|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Woobat|5|Captivate|Normal|Status|—|100|20|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Charge Beam|Electric|Special|50|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Woobat|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Woobat|5|Defog|Flying|Status|—|—|15|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Woobat|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Woobat|5|Dream Eater|Psychic|Special|100|100|15||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Woobat|5|Embargo|Dark|Status|—|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Flash|Normal|Status|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Heart Stamp|Psychic|Physical|60|100|25||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Magic Coat|Psychic|Status|—|—|15|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Woobat|5|Odor Sleuth|Normal|Status|—|—|40|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Pluck|Flying|Physical|60|100|20||'''|V=yes<!--TM-->}}
+{{learnlist/prevgen8|Woobat|5|Psych Up|Normal|Status|—|—|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Woobat|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Shock Wave|Electric|Special|60|—|20|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Woobat|5|Signal Beam|Bug|Special|75|100|15|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Super Fang|Normal|Physical|—|90|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Woobat|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Woobat|5|Synchronoise|Psychic|Special|120|100|10||'''|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Tailwind|Flying|Status|—|—|15|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Woobat|5|Telekinesis|Psychic|Status|—|—|15|V=yes<!--TM-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Woobat|5|Torment|Dark|Status|—|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Woobat|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Woobat|Psychic|Flying|5}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic|type2=Flying}}
+{{Spindata/PSMD|col=6|type=Psychic|ndex=527
+|coset=3
+|conto={{p|Shaymin}}
+|recruitment=Introduced by {{p|Shaymin}}
+|P1=These ultrasound waves from my heart-shaped nostrils convey my love! ♡
+|P2=I can't stay...in the air...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Psychic|ndex=527
+|walk=2.08
+|hp=52
+|attack=69
+|defense=46
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Psychic|ndex=527
+|pad=Woobat came from the [[Crag Area]] with {{p|Ferrothorn}}. They like their new home and enjoy flying around.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=527
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=527|num=670
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Eject
+|skilldesc=Removes one non-Support Pokémon icon without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=527
+|hatch=N/A
+|buddy=1
+|candy=Woobat
+|evocandy=50 + [[File:GO Buddy icon.png|20px|link=Buddy Pokémon]]1 km
+|stamina=163
+|attack=107
+|defense=85
+|fast={{m|Confusion}}, {{m|Air Slash}}
+|special={{m|Air Cutter}}, {{m|Aerial Ace}}, {{m|Psyshock}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Psychic|ndex=527|pdex=207
+|dex=Woobat love dark environments. It looks like they left those heart-shaped markings on the [[Ruins of Remembrance|ruin]] walls. They use the suction from their nostrils to stick themselves to walls while they sleep.}}
+|}
+
+===Evolution data===
+{{evobox-2
+|pictype=art
+|type1=Psychic
+|type2=Flying
+|no1=0527
+|name1=Woobat
+|type1-1=Psychic
+|type2-1=Flying
+|evo1={{bag/s|Rare Candy|SV}} + {{bag/s|Soothe Bell|SV}}<br>{{color2|000|Level|Level up}} with<br>high {{color2|000|friendship}}
+|no2=0528
+|name2=Swoobat
+|type1-2=Psychic
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic|type2=Flying}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=527}}
+{{Spritebox/6|ndex=527|crop=72}}
+{{Spritebox/7|ndex=527|crop=70}}
+{{Spritebox/8|ndex=527}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0527}}
+{{Spritebox/Footer|527|Woobat}}
+
+==In animation==
+===Main series===
+[[File:Jessie Woobat.png|thumb|250px|Woobat in {{aniseries|JN}}]]
+====Major appearances====
+=====[[Jessie's Woobat]]=====
+In ''[[BW002|Enter Iris and Axew!]]'', [[Jessie]] {{pkmn2|caught}} a Woobat while in a cave with [[James]] and {{MTR}}. She used him to battle {{Ash}} and {{an|Iris}}. He managed to defeat Ash's newly caught {{AP|Pidove}}, but was defeated by {{AP|Oshawott}}'s {{m|Water Gun}}. Jessie had to give Woobat to {{an|Giovanni}} as a sign that they accomplished something in Unova. Woobat returned to Jessie's party in ''[[JN145|Rocket Revengers!]]''.
+
+=====Other=====
+In ''[[BW018|Sewaddle and Burgh in Pinwheel Forest!]]'', two {{pkmn2|wild}} Woobat attacked Ash and his {{AP|Sewaddle}}. They were then scared off thanks to the teamwork between Sewaddle and {{AP|Pikachu}}.
+
+====Minor appearances====
+Multiple Woobat debuted alongside Jessie's in ''Enter Iris and Axew!''.
+
+In ''[[BW020|Dancing With the Ducklett Trio!]]'', multiple Woobat scared [[Sunglasses Sandile|Sandile]].
+
+Multiple Woobat appeared in [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']].
+
+Two Woobat appeared in ''[[BW053|A Maractus Musical!]]'', with one appearing in a flashback.
+
+A {{pkmn|Trainer}}'s Woobat appeared in ''[[BW067|Cilan Takes Flight]]''.
+
+A Trainer's Woobat appeared in ''[[BW069|Climbing the Tower of Success!]]''.
+
+In ''[[BW087|Expedition to Onix Island!]]'', multiple Woobat were living at a {{OBP|Deserted Island|BW087|deserted island}}.
+
+A Trainer's Woobat appeared in ''[[BW104|Mission: Defeat Your Rival!]]''.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', multiple Woobat were living at [[Pokémon Hills]].
+
+Two Woobat appeared in the ending credits of ''[[PK25|Eevee & Friends]]''.
+
+Multiple Woobat appeared in ''[[BW136|A Pokémon of a Different Color!]]''.
+
+In ''[[BW137|Celebrating the Hero's Comet!]]'', multiple Woobat were living at an {{OBP|unnamed island|BW137}} in the [[Decolore Islands]].
+
+A Woobat appeared in ''[[XY073|A Fashionable Battle!]]''.
+
+A Woobat appeared in ''[[XY092|Cloudy Fate, Bright Future!]]'', under the ownership of a {{tc|Psychic}}.
+
+Two Woobat appeared in ''[[JN014|Raid Battle in The Ruins!]]'', with one under the ownership of a Trainer and the other being a resident of the [[Colossus Ruins]] at the [[Desert Resort]].
+
+A Trainer's Woobat appeared during a flashback in ''[[HZ019|The Bittersweet Truth]]''.
+
+A Woobat appeared in ''[[HZ022|Charge! Galar Mine!]]''.
+
+===Pokémon Evolutions===
+A Woobat briefly appeared in a flashback ''[[PE04|The Plan]]'' as one of the Pokémon that [[N]] had befriended while living in a forest as a child.
+
+==In the manga==
+[[File:Woobat Adventures.png|thumb|200px|Woobat in [[Pokémon Adventures]]]]
+===Pocket Monsters BW: Good Partners===
+A Woobat appeared in a fantasy in [[BWGP01]].
+
+Multiple Woobat appeared in [[BWGP04]], with one under the ownership of [[Takurō]] and the rest being wild.
+
+===Pocket Monsters BW===
+A Woobat appeared in {{OBP|Pocket Monsters BW|Kosaku Anakubo}}.
+
+===Pocket Monsters BW: The Heroes of Fire and Thunder===
+A Woobat appeared in ''[[FAT1|Justice Trainer Shin Appears!]]''.
+
+A Woobat appeared in ''[[FAT2|The King's Identity...!!]]''.
+
+===Pocket Monsters HGSS===
+A Woobat appeared in [[PMHGSS23]].
+
+===Pokémon Adventures===
+In ''[[PS463|A Nickname for Tepig]]'', {{adv|Black}} was attacked by a {{pkmn2|wild}} Woobat. Eventually, he manages to defeat it.
+
+A Woobat, [[nickname]]d Charlotte, is one of the Pokémon employed by {{adv|White}} in her [[BW Agency]] and is used for comedic roles. It first appeared in ''[[PS465|Lights, Camera...Action]]''.
+
+A {{pkmn|Trainer}}'s Woobat appeared in ''[[PS466|An Odd Speech]]''.
+
+Two Woobat appeared in {{adv|N}}'s flashback in ''[[PS468|Listening to Pokémon]]''.
+
+Multiple Woobat appeared in ''[[PS471|Battle at the Dreamyard]]''.
+
+A Woobat sitting on its Trainer's shoulder in [[Castelia City]] appeared in ''[[PS479|The Case of the Missing Pokémon]]'', where they watch as [[Tep]] trying to find the person who kidnapped {{adv|Bianca}}'s {{p|Litwick}}.
+
+Multiple Woobat appeared in ''[[PS492|Mine Mayhem]]''.
+
+A Woobat appeared in ''[[PS494|Up in the Air]]''.
+
+A Woobat liberated by [[Team Plasma]] appeared in ''[[PS547|The Final Battle]]''.
+
+A Student's Woobat appeared in ''[[PS548|Epilogue]]''.
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS463|A Nickname for Tepig]]|Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Woobat (TCG)}}
+
+==Trivia==
+* Woobat was first seen on [[a:File:BW anime height chart.png|concept art]] from {{aniseries|BW}} along with {{p|Servine}}, {{p|Dewott}}, and {{p|Axew}}.
+* [[Karl]], a character in ''[[M13|Zoroark: Master of Illusions]]'', wears a baseball cap with a Woobat depicted on it. As Woobat's official reveal was four days before the {{pkmn|movie}}'s release in Japan, the reveal of Karl's design was the first time Woobat's existence was hinted at.
+* Woobat's [[evolution]]ary line has several similarities with {{p|Zubat}}'s. All of the members of both lines are called the Bat Pokémon (excluding {{p|Swoobat}}), live in caves or other dark places, and have no visible eyes at their respective unevolved states; furthermore, members of both lines reach their respective fully evolved forms by [[friendship]], and both have similar Shiny forms (with green main bodies). Also, Woobat and Zubat have somewhat similar English names, both having rhyming prefixes and ''bat'' as a suffix.
+* Woobat shares its {{pkmn|category}} with the Zubat evolutionary line. They are all known as the Bat Pokémon.
+* Woobat is the only unevolved Pokémon that received an increase to its [[base stats]] in [[Generation VII]].
+
+===Origin===
+{{bulbanews|On the Origin of Species: Woobat}}
+With its light-colored fur, prominent nose and fluffy, round bodies, Woobat appears to be based on {{wp|Honduran white bat}}s. In particular, their shape resembles how these bats look when they're curled up together. Sunlight filters through the leaves these bats sleep on and make their white fur appear green during the day, which would mirror Woobat's {{Shiny}} form. 
+
+It may also be a literal interpretation of a {{wp|heart-nosed bat}}. The hair covering its eyes may be a reference to the myth of bats being blind or having extremely poor eyesight. Woobat's nose resembles a rubber stamp, befitting its signature move, {{m|Heart Stamp}}. Its round nose leaf and sharp central tooth may be inspired by {{wp|vampire bats}}; this tooth also resembles a baby tooth, which may allude to its status as a first-stage Pokémon with low base stats.
+
+====Name origin====
+Woobat may be a combination of ''[[wiktionary:woo|woo]]'' and ''bat''. It may also involve ''wool'' from its woolly appearance.
+
+Koromori may be a combination of 心 ''kokoro'' (heart) or  コロコロ ''korokoro'' (onomatopoeia for lightly rolling) and 蝙蝠 ''kōmori'' (bat).
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Flying
+|ja=コロモリ ''Koromori''|jameaning=From {{tt|心 ''kokoro''|heart}} or {{tt|コロコロ ''korokoro''|onomatopoeia for lightly rolling}} and {{tt|蝙蝠 ''kōmori''|bat}}
+|fr=Chovsourir|frmeaning=From {{tt|''chauve-souris''|bat}} and {{tt|''sourire''|smile}}
+|es=Woobat|esmeaning=Same as English name
+|de=Fleknoil|demeaning=From ''{{tt|Fledermaus|bat}}'' and ''{{tt|Fellknäuel|furball}}''
+|it=Woobat|itmeaning=Same as English name
+|ko=또르박쥐 ''Ttorbakjwi''|komeaning=From {{tt|또르르 ''ttoreureu''|round and round}} and {{tt|박쥐 ''bakjwi''|bat}}
+|zh_cmn=滾滾蝙蝠 / 滚滚蝙蝠 ''Gǔngǔnbiānfú''|zh_cmnmeaning=From {{tt|滾滾 / 滚滚 ''gǔngǔn''|to roll on}} and {{tt|蝙蝠 ''biānfú''|bat}}
+|zh_yue=滾滾蝙蝠 ''Gwángwánpīnfūk''|zh_yuemeaning=From {{tt|滾滾 ''gwángwán''|to roll on}} and {{tt|蝙蝠 ''pīnfūk''|bat}}
+|hi=चमिचक ''Chamichak''
+|ru=Вубат ''Vubat''|rumeaning=Transcription of English name
+|th=โคโรโมริ ''Khoromori''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Jessie's Woobat]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Psychic|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=0526|prev=Gigalith|nextnum=0528|next=Swoobat}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve by friendship]]
+[[Category:Pokémon whose base stats changed in Generation VII]]
+
+[[de:Fleknoil]]
+[[es:Woobat]]
+[[fr:Chovsourir]]
+[[it:Woobat]]
+[[ja:コロモリ]]
+[[zh:滚滚蝙蝠]]

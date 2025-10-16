@@ -1,0 +1,308 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Brambleghast}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0946|prev=Bramblin|nextnum=0948|next=Toedscool|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Brambleghast
+|jname=アノホラグサ
+|tmname=Anohoragusa
+|ndex=0947
+|type1=Grass
+|type2=Ghost
+|category=Tumbleweed
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=13.2
+|weight-kg=6.0
+|abilityn=1
+|ability1=Wind Rider
+|ability2=
+|abilityd=Infiltrator
+|egggroupn=1
+|egggroup1=Grass
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=2
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=168
+|lv100exp=1000000
+|gendercode=127
+|color=Brown
+|catchrate=45
+|body=01
+|pokefordex=brambleghast
+|generation=9
+|friendship=50
+}}
+'''Brambleghast''' ([[List of Japanese Pokémon names|Japanese]]: '''アノホラグサ''' ''Anohoragusa'') is a dual-type {{2t|Grass|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Bramblin}} when [[level|leveled up]] while outside of its [[Poké Ball]] after the player walks 1000 [[step counting|steps]] using the [[Let's Go!]] feature.<ref>https://twitter.com/Sibuna_Switch/status/1678027317891694593</ref><ref>https://twitter.com/Sibuna_Switch/status/1680044846403272704</ref>
+
+==Biology==
+Brambleghast is a tumbleweed-like {{OBP|Pokémon|species}} that is similar to its pre-Evolution {{p|Bramblin}}, only larger and with more thorns. Most of the branches that compose its loose, spherical body are brownish yellow with light purple tips on top, while the base of its body and its center front branch are entirely dark brown.
+
+The center front branch has two smaller branches near its base, which together with Brambleghast's eyes form a face. The two smaller branches act as Brambleghast's "lips", which can move to form expressions such as grinning or frowning. Brambleghast has small, diamond-shaped, leaf-like eyes; the right eye is black with a thin red pupil, and vice versa for the left eye. Each eye is surrounded by what appears to be a much smaller tumbleweed made of three stalks. The eyes don't blink and instead flip and rotate to express Brambleghast's emotions.
+
+Brambleghast catches prey using its branches, completely enveloping them. Once accomplished, it will not let go of the prey until it absorbs all the life energy it needs. Brambleghast lives in arid regions such as deserts, where the wind tumbles and rolls it around. There are rare occasions of massive outbreaks of Brambleghast, which can bury entire towns.
+
+===Evolution===
+Brambleghast evolves from {{p|Bramblin}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Grass
+|type2=Ghost
+|pictype=art
+|no1=0946
+|name1=Bramblin
+|type1-1=Grass
+|type2-1=Ghost
+|evo1=
+|no2=0947
+|name2=Brambleghast
+|type1-2=Grass
+|type2-2=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Ghost}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=243|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ghost color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Brambleghast SV.png|x200px]]
+|-
+| Brambleghast in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Ghost}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=fff|t2=fff|area=North Province: [[North Province (Area One)|Area One]], [[Socarrat Trail]]<br>[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Paldea)|Brambleghast|5★}})}}
+|}
+|}
+|}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Ghost
+|HP=55
+|Attack=115
+|Defense=70
+|SpAtk=80
+|SpDef=70
+|Speed=90
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=100
+|Bug=100
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Brambleghast|Grass|Ghost|9}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level9|1|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|5|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|9|Rapid Spin|Normal|Physical|50|100|40}}
+{{learnlist/level9|13|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|17|Infestation|Bug|Special|20|100|20}}
+{{learnlist/level9|21|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level9|25|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|29|Disable|Normal|Status|—|100|20}}
+{{learnlist/level9|35|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/level9|40|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|45|Curse|Ghost|Status|—|—|10}}
+{{learnlist/level9|50|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/level9|55|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/levelf/9|Brambleghast|Grass|Ghost|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Brambleghast|Grass|Ghost|9}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM151|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Brambleghast|Grass|Ghost|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Brambleghast|Grass|Ghost|9}}
+{{learnlist/breed9|{{MSP/H|0275|Shiftry}}|Beat Up|Dark|Physical|—|100|10}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Block|Normal|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0192|Sunflora}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Strength Sap|Grass|Status|—|100|10}}
+{{learnlist/breedf/9|Brambleghast|Grass|Ghost|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Brambleghast|Grass|Ghost|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Brambleghast|Grass|Ghost|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Ghost}}
+{{Spindata/GO|col=6|type=Grass|ndex=0947
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=146
+|attack=228
+|defense=144
+|fast={{m|Hex}}, {{m|Bullet Seed}}
+|special={{m|Shadow Sneak}}, {{m|Night Shade}}, {{m|Power Whip}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Grass
+|type2=Ghost
+|pictype=art
+|no1=0946
+|name1=Bramblin
+|type1-1=Grass
+|type2-1=Ghost
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Footwear icon.png|40px]]<br>{{color2|000|Level|Level up}}<br>whilst outside of its {{color2|000|Poké Ball}} after walking<br>1,000 {{color2|000|step counting|steps}} using the {{color2|000|Let's Go!}} feature
+|no2=0947
+|name2=Brambleghast
+|type1-2=Grass
+|type2-2=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=ghost}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0947}}-->
+{{Spritebox/HOME|ndex=0947}}
+{{Spritebox/Footer|947|Brambleghast}}
+
+==In animation==
+[[File:Shine Brambleghast.png|250px|thumb|Brambleghast in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Brambleghast debuted in ''[[HZ035|The Wild Pair, Friede and Cap!]]'', under the ownership of [[Shine]]. It evolved from {{p|Bramblin}} in order to break free from its imprisonment by a group of {{OBP|Pokémon hunters|HZ035}}.
+
+====Minor appearances====
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Brambleghast (TCG)}}
+
+==Trivia==
+
+===Origin===
+Brambleghast appears to be based on {{wp|tumbleweed}}s — certain types of plants which, when mature, have most of their cells dry out and die so that the wind can pick them up and allow them to disperse their seeds, hence Brambleghast's Ghost type and Ability. Some tumbleweed species are capable of causing outbreaks, like the {{wp|hairy panic}}. Brambleghast's secondary {{t|Ghost}} type may also be derived from the association of tumbleweeds with {{wp|ghost town}}s and empty deserts. 
+
+All of this also suggest that Brambleghast may be strongly based on the [https://murciaplaza.com/murciaplaza/animales-fantasticosmurcianos Alicornio], a demon from the {{wp|Region of Murcia|Murcian}} folklore of southern {{wp|Spain|Spain}} that hides itself in a tumbleweed and appears on windy days to snatch the souls of passersby. Additionally, it may reference the iconic tumbleweeds seen in Western films, and its Paldean origin may nod to the many {{wp|Spaghetti Western}}s filmed in Spain.
+
+The way it feeds on its prey by enveloping them inside and releasing them after fully consumed may be inspired by the feeding habits of {{wp|jellyfish}} and other {{wp|cnidarians}}.
+
+====Name origin====
+Brambleghast may be a combination of ''bramble'' and ''[[Wiktionary:ghastly|ghastly]]'', ''[[Wiktionary:ghast|ghast]]'' (a name used for various types of undead in fantasy fiction), or ''aghast''.
+
+Anohoragusa may be derived from the phrase あのほら草 ''ano hora kusa'' ("Um... Look! Grass") and ''horror''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Ghost
+|ja=アノホラグサ ''Anohoragusa''|jameaning=From the phrase {{tt|あのほら草 ''ano hora kusa''|Um... Look! Grass}} and ''horror''
+|fr=Virevorreur|frmeaning=From ''{{tt|virevoltant|tumbleweed}}'' and ''{{tt|horreur|horror}}''
+|es=Brambleghast|esmeaning=Same as English name
+|de=Horrerba|demeaning=From ''{{tt|horror|horror}}'' and Latin ''{{tt|herba|grass}}''
+|it=Brambleghast|itmeaning=Same as English name
+|ko=공푸리 ''Gongpuri''|komeaning=From {{tt|공포 (恐怖) ''gongpo''|horror}} and {{tt|풀 ''pul''|grass}}
+|zh_cmn=怖納噬草 / 怖纳噬草 ''Bùnàshìcǎo''|zh_cmnmeaning=From {{tt|怖 ''bù''|terror}}, {{tt|納 / 纳 ''nà''|to receive}}, {{tt|噬 ''shì''|to bite}}, {{tt|草 ''cǎo''|grass}}, and {{tt|不，那是草 ''Bù, nà shì cǎo''|No, that is grass}}
+|zh_yue=怖納噬草 ''Bounaahpsaihchóu''|zh_yuemeaning=From {{tt|怖 ''bou''|terror}}, {{tt|納 ''naahp''|to receive}}, {{tt|噬 ''saih''|to bite}}, and {{tt|草 ''chóu''|grass}}
+|hi=हॉरोग्रास ''Horrograss''|himeaning=From ''horror'' and ''grass''
+|th=อาโนะโฮรากุสะ ''Anohorakusa''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0946|prev=Bramblin|nextnum=0948|next=Toedscool}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Horrerba]]
+[[es:Brambleghast]]
+[[fr:Virevorreur]]
+[[it:Brambleghast]]
+[[ja:アノホラグサ]]
+[[zh:怖纳噬草]]

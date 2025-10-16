@@ -1,0 +1,327 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Dark}}
+{{PokémonPrevNext/GO|species=Lokix}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0919|prev=Nymble|nextnum=0921|next=Pawmi|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Lokix
+|jname=エクスレッグ
+|jtranslit=Ekusureggu
+|tmname=Exleg
+|ndex=0920
+|type1=Bug
+|type2=Dark
+|category=Grasshopper
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=38.6
+|weight-kg=17.5
+|abilityn=1
+|ability1=Swarm
+|ability2=
+|abilityd=Tinted Lens
+|egggroupn=1
+|egggroup1=Bug
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=2
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=158
+|lv100exp=1000000
+|gendercode=127
+|color=Gray
+|catchrate=30
+|body=12
+|pokefordex=lokix
+|generation=9
+|friendship=0
+}}
+'''Lokix''' ([[List of Japanese Pokémon names|Japanese]]: '''エクスレッグ''' ''Exleg'') is a dual-type {{2t|Bug|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Nymble}} starting at [[level]] 24.
+
+==Biology==
+[[File:4KomaPlaza451.png|thumb|left|250px|Lokix in its Showdown Mode]]
+Lokix is a bipedal, insectoid {{OBP|Pokémon|species}} which resembles a locust. It is primarily dark gray, with glossy black colorations on the head, thorax, lower abdomen, forearms, lower legs, and third set of legs. Its face is covered in a mask-like plate, and contains a pair of black triangular antennae with two white stripes on top, along with orange triangular eyes and a triangular notch on its chin. Its thorax and abdomen are separated by a white belt, with an X-shaped pattern at the front. It has a pair of white claws on each of its hands, and a single claw on each foot. Its forearms have an orange spike each, while its calves have two orange spikes protruding towards the back.
+
+Behind Lokix's body is its third set of legs, attached to its abdomen. These legs are oblong with a symbol resembling the {{wp|No symbol|general prohibition sign}} on the outside of the joints, and connect to thin, rectangular forelimbs. Each of the forelimbs have five orange spikes and a single white claw at the bottom. Lokix usually keeps its third set of legs folded on its back; however, it can unfold these legs to enter what is known as its Showdown Mode.
+
+In Showdown Mode, Lokix stands and jumps on its now-unfolded third set of legs, and swings them to attack. Lokix utilizes its Showdown Mode to fight all-out, being capable of quickly subduing its foes in this mode. However, it cannot be in Showdown Mode for too long, as it places a huge strain on its body. Lokix can live in a variety of different areas in Paldea, such as grasslands, snowy mountains, deserts, and lakes.
+
+===Evolution===
+Lokix evolves from {{p|Nymble}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|type2=Dark
+|pictype=art
+|no1=0919
+|name1=Nymble
+|type1-1=Bug
+|evo1=
+|no2=0920
+|name2=Lokix
+|type1-2=Bug
+|type2-2=Dark}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Dark}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=15|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can't stay in this mode for long.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{dark color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Lokix SV.png|x200px]]
+|-
+| Lokix in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Dark}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Three)|Area Three]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]], [[South Province (Area Six)|Area Six]], [[Alfornada Cavern]], {{pal|Pokémon League}}<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]]<br>West Province: [[West Province (Area Two)|Area Two]], [[West Province (Area Three)|Area Three]], [[Asado Desert]]<br>West Province: [[West Province (Area One)|Area One]] ({{t|Fighting}} {{Tera}} [[Type]])<br>North Province: [[North Province (Area One)|Area One]], [[North Province (Area Two)|Area Two]], [[North Province (Area Three)|Area Three]], [[Casseroya Lake]], [[Dalizapa Passage]], [[Glaseado Mountain]]<br>[[Area Zero]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Lokix|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Dark
+|HP=71
+|Attack=102
+|Defense=78
+|SpAtk=52
+|SpDef=55
+|Speed=92
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Dark
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Lokix|Bug|Dark|9}}
+{{learnlist/level9|1|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/level9|1|Detect|Fighting|Status|—|—|5}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/level9|4|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level9|6|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|9|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/level9|11|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level9|14|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|18|Endure|Normal|Status|—|—|10}}
+{{learnlist/level9|22|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level9|28|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level9|32|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|36|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/level9|40|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level9|44|First Impression|Bug|Physical|90|100|10||'''}}
+{{learnlist/level9|48|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/level9|53|Axe Kick|Fighting|Physical|120|90|10}}
+{{learnlist/levelf/9|Lokix|Bug|Dark|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Lokix|Bug|Dark|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20||'''}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/tmf/9|Lokix|Bug|Dark|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Lokix|Bug|Dark|9}}
+{{learnlist/breed9|{{MSP/H|0214|Heracross}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}|Counter|Fighting|Physical|—|100|20|grid=3}}
+{{learnlist/breed9|{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}|Skitter Smack|Bug|Physical|70|90|10||'''|grid=3}}
+{{learnlist/breedf/9|Lokix|Bug|Dark|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Lokix|Bug|Dark|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Lokix|Bug|Dark|9}}
+
+====Special moves====
+{{learnlist/eventh/9|Lokix|Bug|Dark|9}}
+{{learnlist/event9|[[West Province (Area One)|Wild Tera Pokémon]]|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/eventf/9|Lokix|Bug|Dark|9}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Dark}}
+{{Spindata/GO|col=6|type=Bug|ndex=0920
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=174
+|attack=199
+|defense=144
+|fast={{m|Bug Bite}}, {{m|Sucker Punch}}, {{m|Counter}}{{tt|*|From June 3, 2024 onward}}
+|special={{m|X-Scissor}}, {{m|Trailblaze}}, {{m|Bug Buzz}}, {{m|Dark Pulse}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|type2=Dark
+|pictype=art
+|no1=0919
+|name1=Nymble
+|type1-1=Bug
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 24}}
+|no2=0920
+|name2=Lokix
+|type1-2=Bug
+|type2-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=bug|type2=dark}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0920}}-->
+{{Spritebox/HOME|ndex=0920}}
+{{Spritebox/Footer|920|Lokix}}
+
+==In animation==
+[[File:Katy Lokix.png|thumb|250px|Lokix in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Lokix debuted in ''[[HZ055|Showdown! The Paldea Elite Four]]'', under the ownership of [[Katy]]. In ''[[HZ056|Liko vs. Rika! Towards the Battle's End]]'', [[Liko]] and Katy took part in the [[Elite Four Tag Battle]], where they used {{TP|Liko|Floragato}} and Lokix, respectively, in a [[Double Battle]] against [[Rika]]'s {{p|Dugtrio}} and {{p|Clodsire}}, but they ended up losing.
+
+====Minor appearances====
+{{-}}
+
+==In the manga==
+[[File:Violet Lokix.png|thumb|right|170px|Lokix in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Lokix debuted in [[PASV14]]. {{Violet}}'s {{p|Nymble}} evolved into a Lokix after defeating a {{tc|Team Star Grunt}}.
+
+{{-}}
+
+==In the TCG==
+{{main|Lokix (TCG)}}
+
+==Trivia==
+[[File:Lokix Helmets Seguro.png|thumb|250px|Lokix helmet options from [[Seguro Style]] in [[Cascarrafa]]]]
+* No other Pokémon has the same [[List of Pokémon with unique type combinations|type combination]] as Lokix.
+* Riding helmets resembling Lokix's head can be purchased with varying colors as part of Trainer customization in {{g|Scarlet and Violet}}.
+* Lokix, along with {{p|Buneary}}, is one of the only Pokémon with 0 [[List of Pokémon by base friendship|base friendship]] that is neither a [[Legendary Pokémon]], a [[Mythical Pokémon]], an [[Ultra Beast]], nor a [[Paradox Pokémon]].
+
+===Origin===
+Lokix appears to be based on a {{wp|grasshopper}}, particularly those of the {{wp|locust}} variety, which are notably larger than other grasshopper varieties and have a swarming phase. Its inability to fly in favour of kicking is also similar to various {{wp|wētā}} species, flightless crickets with large legs known to give strong kicks to would-be predators. Its Dark typing could be derived from the fact that grasshoppers and locusts are generally considered to be pests, and its debut in [[Paldea]] may refer to the fact that southern Iberia is the only region in Europe to be affected by locust plagues. It may also be based on {{wp|Tridactylidae|pygmy mole crickets}} due to its coloration and rounded features. The way its third set of legs fold up resembles the Spanish {{wp|navaja}}s; and its kick-based fighting style may be inspired by {{wp|tae kwon do}}.
+
+<!--DO NOT CHANGE TO NAME A SPECIFIC RIDER. REFERENCING THE FRANCHISE IS FINE, NOT A SPECIFIC CHARACTER.-->
+Lokix also appears to be based on the superheroes of the ''{{wp|Kamen Rider}}'' franchise. The titular Riders typically have an insect motif (most often being the grasshopper), a belt used to transform into their masked alter-egos, a limitation on how long they can hold the transformation, and a signature finishing move known as the ''Rider Kick''. All of these elements are present in the design of Lokix. Its Dark type thus may reference the themes of morality in the ''Kamen Rider'' series, as many of the Riders are considered {{wp|antihero}}es, and their powers typically derive from the same sources and technology as the forces of evil they fight against. Additionally, the Riders are known for riding motorcycles, and while Lokix itself does not have any strong allusion to motorcycles or motocycling, motorbike helmets based on its design are sold in Pokémon Scarlet and Violet.
+
+====Name origin====
+Lokix may be a combination of ''locust'' and ''kicks'' or ''crickets'', or a pun on ''low kicks''.
+
+Exleg may be a combination of ''extreme'', ''expert'', or ''exoskeleton'', and ''leg''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Dark
+|ja=エクスレッグ ''Exleg''|jameaning=From ''extreme'' and ''leg''
+|fr=Gambex|frmeaning=From ''{{tt|gambette|slang for leg}}'' and ''extreme''
+|es=Lokix|esmeaning=Same as English name
+|de=Lextremo|demeaning=From ''leg'' and ''{{tt|extremo|Spanish for extreme}}''
+|it=Lokix|itmeaning=Same as English name
+|ko=엑스레그 ''Ekseuregeu''|komeaning=Transcription of Japanese name
+|zh_cmn=烈腿蝗 ''Liètuǐhuáng''|zh_cmnmeaning=From {{tt|烈 ''liè''|fierce}}, {{tt|腿 ''tuǐ''|leg; kick}}, and {{tt|蝗 ''huáng''|locust}}
+|zh_yue=烈腿蝗 ''Lihttéuiwòhng''|zh_yuemeaning=From {{tt|烈 ''liht''|fierce}}, {{tt|腿 ''téui''|leg; kick}}, and {{tt|蝗 ''wòhng''|locust}}
+|hi=पैरेक्सट्रा ''Pairextra''|himeaning=From {{tt|पैर ''pair''|foot/feet}} (or ''pair'') and ''extra'' or ''extreme''
+|th=เอ็กซ์เลก ''Eklek''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug|type2=Dark}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0919|prev=Nymble|nextnum=0921|next=Pawmi}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Lextremo]]
+[[es:Lokix]]
+[[fr:Gambex]]
+[[it:Lokix]]
+[[ja:エクスレッグ]]
+[[zh:烈腿蝗]]

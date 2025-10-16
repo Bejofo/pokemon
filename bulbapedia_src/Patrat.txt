@@ -1,0 +1,557 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Patrat}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0503|prev=Samurott|nextnum=0505|next=Watchog|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Patrat
+|jname=ミネズミ
+|tmname=Minezumi
+|category=Scout
+|typebox=1
+|type1=Normal
+|abilityn=d
+|ability1=Run Away
+|ability2=Keen Eye
+|abilityd=Analytic
+|ndex=0504
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=25.6
+|weight-kg=11.6
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|expyield=51
+|evtotal=1
+|evat=1
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=08
+|pokefordex=patrat
+|generation=5
+|friendship=70
+}}
+'''Patrat''' ([[List of Japanese Pokémon names|Japanese]]: '''ミネズミ''' ''Minezumi'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolve]]s into {{p|Watchog}} starting at [[level]] 20.
+
+==Biology==
+Patrat is a rodent-like {{OBP|Pokémon|species}} that resembles a {{wp|chipmunk}}. It is mostly brown with a tan stomach and face. It has a large pointed tooth that sticks out of its mouth. Patrat has a flat face, and its cheeks are very round. Patrat has cheek pouches that it uses to store food. Its ears are small and pointed. Its head has a black band that covers the eyes, which have red irises with a yellow ring and black pupils. Its feet are small and black with three toes. Its long tail has a scruffy white tip and is usually standing up straight. This tail is used for communication; its tail is raised when it sees an enemy. Patrat is very conscious and wary regarding its surroundings and is always on guard. The {{aniseries|BW}} episode ''[[BW018|Sewaddle and Burgh in Pinwheel Forest!]]'' depicts Patrat living in tunnels.
+
+===Evolution===
+Patrat evolves into {{p|Watchog}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|pictype=art
+|type1=Normal
+|no1=0504
+|name1=Patrat
+|type1-1=Normal
+|evo1=
+|no2=0505
+|name2=Watchog
+|type1-2=Normal}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=010}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.}}
+{{Dex/Entry1|v=White|entry=Extremely cautious, they take shifts to maintain a constant watch of their nest. They feel insecure without a lookout.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=046|label1=Mountain|reg2=Hoenn }}
+{{Dex/Entry1|v=X|t=FFF|entry=Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Route]]s {{rtn|1|Unova}}, {{rtn|2|Unova}}, and {{rtn|3|Unova}}, [[Dreamyard]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|19|Unova}} and {{rtn|20|Unova}}, [[Floccesy Ranch]], [[Virbank Complex]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Watchog}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Trailhead Field]], [[Challenger's Ground]]; Field: [[Trailhead Field]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Moonlit Forest]] (Uncharted Road), [[Rusty Mountain]] (Uncharted Road, Gilded Hall), [[Jaws of the Abyss]] (Gilded Hall), [[Smoking Mountain]] (Gilded Hall), [[Kecleon Bazaar]] (1F-20F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Dream Gate#Wet and Wild Battle|Dream Gate: Wet and Wild Battle]], [[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]],<br>[[Variety Battle#Get 1,000 Combos!|Variety Battle: Get 1,000 Combos!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 1|Safari Jungle: Stage 1]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Trailhead Field|White Ruins: Trailhead Field]] <small>(All Areas)</small>, [[Starlight Islands#Surveillance Dunes|Starlight Islands: Surveillance Dunes]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Gengar Sea]], [[Aegislash Sea]], [[Buzzwole Sea]], [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 378]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{Base stats
+|HP=45
+|Attack=55
+|Defense=39
+|SpAtk=35
+|SpDef=39
+|Speed=42
+|type=Normal
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Flying=100
+|Fighting=200
+|Ground=100
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+Patrat was last available in {{pkmn|Sun and Moon|Sun, Moon}}, {{pkmn|Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon}}. It is unavailable in [[Generation VIII]] and {{gen|IX}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Patrat|Normal|Normal|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|3|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|6|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|8|Bide|Normal|Physical|—|—|10}}
+{{learnlist/level7|11|Detect|Fighting|Status|—|—|5}}
+{{learnlist/level7|13|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|16|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|18|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level7|21|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/level7|23|After You|Normal|Status|—|—|15}}
+{{learnlist/level7|26|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level7|28|Work Up|Normal|Status|—|—|30}}
+{{learnlist/level7|31|Hyper Fang|Normal|Physical|80|90|15||'''}}
+{{learnlist/level7|33|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level7|36|Mean Look|Normal|Status|—|—|5}}
+{{learnlist/level7|38|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level7|41|Slam|Normal|Physical|80|75|20||'''}}
+{{learnlist/levelf/7|Patrat|Normal|Normal|5}}
+
+====By [[TM]]====
+{{learnlist/tmh/7|Patrat|Normal|Normal|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Patrat|Normal|Normal|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Patrat|Normal|Normal|5}}
+{{learnlist/breed7|{{MSP/6|019|Rattata}}{{MSP/6|019A|Rattata}}{{MSP/6|020|Raticate}}{{MSP/6|020A|Raticate}}{{MSP/6|052|Meowth}}{{MSP/6|052A|Meowth}}{{MSP/6|053|Persian}}{{MSP/6|053A|Persian}}{{MSP/6|056|Mankey}}{{MSP/6|057|Primeape}}{{MSP/6|197|Umbreon}}{{MSP/6|203|Girafarig}}{{MSP/6|232|Donphan}}{{MSP/6|261|Poochyena}}{{MSP/6|262|Mightyena}}{{MSP/6|461|Weavile}}{{MSP/6|498|Tepig}}{{MSP/6|499|Pignite}}{{MSP/6|500|Emboar}}{{MSP/6|509|Purrloin}}{{MSP/6|510|Liepard}}{{MSP/6|527|Woobat}}{{MSP/6|528|Swoobat}}{{MSP/6|551|Sandile}}{{MSP/6|552|Krokorok}}{{MSP/6|553|Krookodile}}|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP/6|573|Cinccino}}|Bullet Seed|Grass|Physical|25|100|30|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP/6|206|Dunsparce}}{{MSP/6|220|Swinub}}{{MSP/6|231|Phanpy}}{{MSP/6|263|Zigzagoon}}{{MSP/6|287|Slakoth}}{{MSP/6|289|Slaking}}{{MSP/6|324|Torkoal}}{{MSP/6|327|Spinda}}{{MSP/6|613|Cubchoo}}{{MSP/6|614|Beartic}}{{MSP/6|659|Bunnelby}}{{MSP/6|660|Diggersby}}{{MSP/6|759|Stufful}}{{MSP/6|760|Bewear}}{{MSP/6|775|Komala}}|Flail|Normal|Physical|—|100|15||'''}}
+{{learnlist/breed7|{{MSP/6|161|Sentret}}{{MSP/6|162|Furret}}{{MSP/6|300|Skitty}}{{MSP/6|427|Buneary}}{{MSP/6|428|Lopunny}}{{MSP/6|448|Lucario}}|Foresight|Normal|Status|—|—|40}}
+{{learnlist/breed7|{{MSP/6|032|Nidoran♂}}{{MSP/6|111|Rhyhorn}}{{MSP/6|179|Mareep}}|Iron Tail|Steel|Physical|100|75|15|*}}
+{{learnlist/breed7|{{MSP/6|019|Rattata}}{{MSP/6|019A|Rattata}}{{MSP/6|020|Raticate}}{{MSP/6|020A|Raticate}}{{MSP/6|056|Mankey}}{{MSP/6|057|Primeape}}{{MSP/6|128|Tauros}}{{MSP/6|197|Umbreon}}{{MSP/6|206|Dunsparce}}{{MSP/6|335|Zangoose}}{{MSP/6|359|Absol}}{{MSP/6|418|Buizel}}{{MSP/6|419|Floatzel}}{{MSP/6|509|Purrloin}}{{MSP/6|510|Liepard}}{{MSP/6|522|Blitzle}}{{MSP/6|523|Zebstrika}}{{MSP/6|570|Zorua}}{{MSP/6|571|Zoroark}}{{MSP/6|587|Emolga}}{{MSP/6|626|Bouffalant}}{{MSP/6|734|Yungoos}}{{MSP/6|735|Gumshoos}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP/6|335|Zangoose}}{{MSP/6|461|Weavile}}{{MSP/6|501|Oshawott}}{{MSP/6|502|Dewott}}{{MSP/6|503|Samurott}}{{MSP/6|626|Bouffalant}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP/6|023|Ekans}}{{MSP/6|024|Arbok}}{{MSP/6|052|Meowth}}{{MSP/6|052A|Meowth}}{{MSP/6|053|Persian}}{{MSP/6|053A|Persian}}{{MSP/6|054|Psyduck}}{{MSP/6|055|Golduck}}{{MSP/6|056|Mankey}}{{MSP/6|057|Primeape}}{{MSP/6|190|Aipom}}{{MSP/6|424|Ambipom}}{{MSP/6|197|Umbreon}}{{MSP/6|206|Dunsparce}}{{MSP/6|215|Sneasel}}{{MSP/6|461|Weavile}}{{MSP/6|293|Whismur}}{{MSP/6|294|Loudred}}{{MSP/6|295|Exploud}}{{MSP/6|336|Seviper}}{{MSP/6|352|Kecleon}}{{MSP/6|434|Stunky}}{{MSP/6|435|Skuntank}}|Screech|Normal|Status|—|85|40}}
+{{learnlist/breed7|{{MSP/6|235|Smeargle}}|Tearful Look|Normal|Status|—|—|20|{{sup/7|USUM}}}}
+{{learnlist/breedf/7|Patrat|Normal|Normal|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Patrat|Normal|Normal|5}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Patrat|Normal|Normal|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/7|Patrat|Normal|Normal|5}}
+{{learnlist/prevgen7|Patrat|5|Cut|Normal|Physical|50|95|30||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Patrat|5|Dig|Ground|Physical|80|100|10|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Patrat|5|Retaliate|Normal|Physical|70|100|5||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen7|Patrat|5|Secret Power|Normal|Physical|70|100|20||'''|VI=yes<!--TM-->}}
+{{learnlist/prevgenf/7|Patrat|Normal|Normal|5}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/PSMD|col=6|type=Normal|ndex=504
+|coset=5
+|conto={{p|Stantler}}, {{p|Tranquill}}
+|recruitment=Rescue
+|P1=My cheek pouches can store lots of food! But I'd rather others keep their food separately.
+|P2=A life like this is too hard...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=504
+|walk=2.08
+|hp=46
+|attack=65
+|defense=45
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=504
+|pad=They patrol the [[Cove Area]], but they mostly just wander around. They sometimes fail to observe what they are supposed to see.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=504
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=504|num=530
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Eject
+|skilldesc=Removes one non-Support Pokémon icon without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=504
+|hatch=2 km
+|buddy=1
+|candy=Patrat
+|evocandy=50
+|stamina=128
+|attack=98
+|defense=73
+|fast={{m|Tackle}}, {{m|Bite}}
+|special={{m|Dig}}, {{m|Hyper Fang}}, {{m|Grass Knot}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{evobox-2
+|pictype=art
+|type1=Normal
+|no1=0504
+|name1=Patrat
+|type1-1=Normal
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0505
+|name2=Watchog
+|type1-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=504}}
+{{Spritebox/6|ndex=504|crop=56}}
+{{Spritebox/7|ndex=504|crop=56}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0504}}
+{{Spritebox/Footer|504|Patrat}}
+
+==In animation==
+===Main series===
+[[File:Snap Boys Patrat.png|thumb|250px|Patrat in {{aniseries|HZ}}]]
+====Major appearances====
+Patrat debuted in ''[[BW001|In The Shadow of Zekrom!]]''. They reappeared in ''[[BW002|Enter Iris and Axew!]]''.
+
+In ''[[BW024|Emolga the Irresistible!]]'', three male Patrat were gathering apples, but their harvest was stolen by a {{TP|Iris|gluttonous Emolga|Emolga}} who tricked them with {{m|Attract}}.
+
+In ''[[XY035|The Forest Champion!]]'', a Patrat, a {{p|Sentret}}, and a {{p|Pachirisu}} were gathering food, only to be scared off by an {{p|Ursaring}}. They were then saved by the forest champion {{AP|Hawlucha}}.
+
+In a flashback in ''[[XY088|A Trip Down Memory Train!]]'', a Patrat befriended [[Clemont's Bunnelby]] when it was still wild.
+
+Three Patrat appeared in ''[[HZ042|Transform! Hero of the Seas, Palafin]]'', under the ownership of the [[Snap Boys]].
+
+====Minor appearances====
+In ''[[BW003|A Sandile Gusher of Change!]]'', multiple Patrat, {{p|Pidove}}, and {{p|Deerling}} needed help from {{Ash}} and {{ashfr}}.
+
+A Patrat appeared in ''[[BW005|Triple Leaders, Team Threats!]]''.
+
+A {{pkmn|Trainer}}'s Patrat appeared in ''[[BW006|Dreams by the Yard Full!]]''.
+
+Two Patrat appeared in ''[[BW018|Sewaddle and Burgh in Pinwheel Forest!]]''. [[Burgh]] was able to heal one when it fell sick.
+
+In ''[[BW019|A Connoisseur's Revenge!]]'', multiple Trainers' Patrat were at the [[Poké Mart]] near [[Castelia City]].
+
+A Patrat appeared in ''[[BW023|Battling for the Love of Bug-Types!]]''.
+
+In a flashback in ''[[BW033|Iris and Excadrill Against the Dragon Buster!]]'', a Patrat was one of {{an|Iris}}'s Pokémon friends when she was little in the [[Village of Dragons]].
+
+Two Patrat appeared in ''[[BW034|Gotta Catch A Roggenrola!]]''.
+
+A Patrat appeared in ''[[BW037|A Fishing Connoisseur in a Fishy Competition!]]'', under the ownership of a participant in a [[fishing]] competition.
+
+In ''[[BW039|Reunion Battles In Nimbasa!]]'', {{OBP|Omega|BW039}} used a Patrat for the [[Club Battle]] tournament. However, they lost to [[Dino]] and his {{p|Deerling}} in the first round. Another Patrat also appeared in the same episode.
+
+Multiple Patrat appeared in [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']].
+
+A Patrat appeared in ''[[BW047|Crisis from the Underground Up!]]''.
+
+Multiple Patrat appeared in ''[[BW051|Lost at the Stamp Rally!]]''.
+
+Multiple Patrat appeared in ''[[BW052|Ash Versus the Champion!]]''.
+
+Multiple Patrat appeared in ''[[BW053|A Maractus Musical!]]''.
+
+A Patrat appeared in ''[[BW057|The Mighty Accelguard to the Rescue!]]'', under the ownership of a shopper at the {{DL|Driftveil City|Market|Driftveil Market}}.
+
+Multiple Patrat appeared in ''[[BW059|Stopping the Rage of Legends! Part 1]]''.
+
+In ''[[BW065|Battling the Bully!]]'', [[Sean]]'s father loaned a Patrat to his son and [[Glenn]] to use in a practice battle.
+
+Multiple Patrat appeared in ''[[BW069|Climbing the Tower of Success!]]'', with one under the ownership of a Trainer and the rest {{pkmn2|wild}}.
+
+A Patrat appeared in ''[[BW071|Search for the Clubultimate!]]''.
+
+In ''[[BW080|Clash of the Connoisseurs!]]'', a Patrat was living in [[Stonesthrow Town]].
+
+Two Patrat appeared in ''[[BW083|Rocking the Virbank Gym! Part 1]]''.
+
+A Patrat appeared in ''[[BW085|All for the Love of Meloetta!]]''.
+
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', the {{OBP|Swords of Justice|M15}} legend featured multiple Patrat.
+
+A Trainer's Patrat appeared in ''[[BW090|Jostling for the Junior Cup!]]''.
+
+A Patrat appeared in ''[[BW092|Ash, Iris, and Trip: Then There Were Three!]]''.
+
+In ''[[BW100|A Village Homecoming!]]'', the {{OBP|elder|Village of Dragons}}'s flashback featured a Patrat.
+
+In ''[[BW101|Drayden Versus Iris: Past, Present, and Future!]]'', one of Iris's flashbacks featured a Patrat.
+
+Two Patrat appeared in ''[[BW103|Curtain Up, Unova League!]]'', both under the ownership of a Trainer.
+
+A Trainer's Patrat appeared in ''[[BW104|Mission: Defeat Your Rival!]]''.
+
+A Trainer's Patrat appeared in ''[[BW105|Lost at the League!]]''.
+
+A Trainer's Patrat appeared in ''[[BW106|Strong Strategy Steals the Show!]]''.
+
+A Patrat appeared in ''[[BW112|Team Plasma's Pokémon Power Plot!]]''.
+
+A Patrat appeared in ''[[BW114|Saving Braviary!]]''.
+
+In ''[[BW118|Secrets From Out of the Fog!]]'', multiple Patrat were living at [[N's hideout]].
+
+A Patrat appeared in ''[[BW119|Meowth, Colress and Team Rivalry!]]''.
+
+In ''[[BW125|Cilan and the Case of the Purrloin Witness!]]'', a Trainer's Patrat was on the cruise ship.
+
+In ''[[BW127|The Island of Illusions!]]'', a Patrat was living at [[Grand Spectrala Islet]].
+
+A Patrat appeared in a flashback in ''[[BW131|The Path That Leads to Goodbye!]]''.
+
+A Patrat appeared in ''[[BW132|Searching for a Wish!]]''.
+
+A Patrat appeared in a fantasy or a flashback in ''[[BW134|The Journalist from Another Region!]]''.
+
+In ''[[BW137|Celebrating the Hero's Comet!]]'', a Patrat was living on an {{OBP|unnamed island|BW137}} in the [[Decolore Islands]].
+
+A Patrat appeared in a flashback in ''[[BW140|Survival of the Striaton Gym!]]''.
+
+A Patrat appeared in ''[[XY008|Grooming Furfrou!]]''.
+
+In ''[[PK27|Pikachu and the Pokémon Music Squad]]'', a Patrat was living in the forest.
+
+A Trainer's Patrat appeared in ''[[XY111|Unlocking Some Respect!]]''.
+
+In ''[[XY119|A Full-Strength Battle Surprise!]]'', three Patrat fled from [[Team Flare]] as they conducted an experiment.
+
+In ''[[M19|Volcanion and the Mechanical Marvel]]'', a Patrat was living at the [[Nebel Plateau]].
+
+A Trainer's Patrat appeared in ''[[XY137|Battling With a Clean Slate!]]''.
+
+Two Trainers' Patrat appeared in ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+In ''[[JN024|A Little Rocket R & R!]]'', a Trainer's Patrat was captured by the [[Matori Matrix]] but freed by Ash and his friends.
+
+In ''[[JN046|Getting More Than You Battled For!]]'', a Patrat was living on [[Cero Island]]. It reappeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Patrat appeared in ''[[JN137|The Road Most Traveled!]]''.
+
+===Pokémon Black 2 and White 2 Animated Trailer===
+In the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], a Patrat was living in [[Aspertia City]].
+
+==In the manga==
+[[File:Lenora Patrat Adventures.png|thumb|200px|Patrat in [[Pokémon Adventures]]]]
+===Be the Best! Pokémon B+W===
+Two Patrat appeared in ''[[PBW1|Advance Toward the Path of the Strongest!]]''. [[Monta]] {{pkmn2|caught}} one of them.
+
+===Pokémon Journeys===
+A Patrat appeared in ''[[JNM15|Getting More than You Battled For!]]''.
+
+===Pocket Monsters BW===
+A Patrat appeared in {{OBP|Pocket Monsters BW|Kosaku Anakubo}}.
+
+===Pocket Monsters BW: Good Partners===
+A Patrat appeared in [[BWGP01]], under the ownership of a {{tc|Backpacker}}.
+
+===Pocket Monsters HGSS===
+A Patrat appeared in [[PMHGSS23]].
+
+===Pokémon Adventures===
+The [[BW Agency]] have three Patrat hired to appear in different media such as advertising and movies, one of them is named Alain. They first appeared in ''[[PS465|Lights, Camera...Action]]'', where they did an [[Xtransceiver]] commercial with a girl.
+
+A Patrat appeared in a fantasy in ''[[PS466|An Odd Speech]]''.
+
+[[Lenora]] has a Patrat, which she used against {{adv|Black}} in ''[[PS472|Wheeling and Dealing]]''.
+
+A Patrat appeared in ''[[PS483|Special Delivery]]'' as one of the Pokémon competing in {{ci|Nimbasa}}'s [[Pokémon Musical]].
+
+[[Shoko]]'s four Patrat first appear in ''[[PS506|A Week to Go and Old Wounds]]''. Later, they are seen rescuing the [[Gym Leader]]s captured by [[Team Plasma]].
+
+Two Patrat appeared in a fantasy in ''[[PS507|A Misunderstanding]]''.
+
+==In the TCG==
+{{main|Patrat (TCG)}}
+
+==Trivia==
+[[File:Patrat Yellow Battle Chess.png|thumb|Patrat in Pokémon Battle Chess]]
+* Patrat shares its {{pkmn|category}} with {{p|Sentret}} and {{rf|Hisuian}} {{p|Growlithe}}. They are all known as the Scout Pokémon.
+* Patrat has the lowest base stat total of all {{OBP|Pokémon|species}} introduced in [[Generation V]].
+* Patrat appears in {{DL|Pokémon Battle Chess|Pokémon Battle Chess BW Version}}. It acts like a pawn piece in chess, but can also move one square horizontally.
+* Coincidentally, Patrat's name and etymology is the same in both the English and Czech versions. In the Czech language, ''pátrat'' is a verb that means "to search" or "to scout."
+
+===Origin===
+Patrat appears to be based on a {{wp|prairie dog}}, {{wp|chipmunk}}, or {{wp|meerkat}}. The way it always look out for danger seems to be based on {{wp|scout}}s and doing reconnaissance.
+
+====Name origin====
+Patrat may be a combination of ''patrol'' and ''rat'', as well as a play on ''{{wp|pack rat}}''.
+
+Minezumi may be a combination of 見 ''mi'' (looking) and 鼠 ''nezumi'' (mouse).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ミネズミ ''Minezumi''|jameaning=From {{tt|見 ''mi''|looking}} and {{tt|鼠 ''nezumi''|mouse}}
+|fr=Ratentif|frmeaning=From ''rat'' and ''{{tt|attentif|careful}}''
+|es=Patrat|esmeaning=Same as English name
+|de=Nagelotz|demeaning=From ''{{tt|Nager|rodent}}'' and ''{{tt|glotzen|to gawk}}''
+|it=Patrat|itmeaning=Same as English name
+|ko=보르쥐 ''Borujwi''|komeaning=From {{tt|볼 ''bol''|looking}} and {{tt|쥐 ''jwi''|mouse}}
+|zh_cmn=探探鼠 ''Tàntànshǔ''|zh_cmnmeaning=From {{tt|探 ''tàn''|to scout}} and {{tt|鼠 ''shǔ''|rat}}
+|zh_yue=探探鼠 ''Tāamtāamsyú''|zh_yuemeaning=From {{tt|探 ''tāam''|to scout}} and {{tt|鼠 ''syú''|rat}}
+|cs=Patrat|csmeaning=Same as English name and ''pátrat (to search; to scout)
+|hi=मूष्काउट ''Mooshkout''|himeaning=From {{tt|मूषक ''mooshak''|rodent}} and ''lookout''
+|ru=Патрат ''Patrat''|rumeaning=Transcription of English name
+|th=มิเนซูมิ ''Minesumi''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0503|prev=Samurott|nextnum=0505|next=Watchog}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Nagelotz]]
+[[es:Patrat]]
+[[fr:Ratentif]]
+[[it:Patrat]]
+[[ja:ミネズミ]]
+[[zh:探探鼠]]

@@ -1,0 +1,871 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Burmy}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0411|prev=Bastiodon|nextnum=0413|next=Wormadam|round=none}}
+{{PokémonPrevNext/Disambig|species=Burmy}}
+|}
+{{Pokémon Infobox
+|name=Burmy
+|jname=ミノムッチ
+|jtranslit=Minomutchi
+|tmname=Minomucchi
+|forme=3
+|form1=Plant Cloak
+|form2=Sandy Cloak
+|form3=Trash Cloak
+|image=0412Burmy-Plant.png
+|image2=0412Burmy-Sandy.png
+|image3=0412Burmy-Trash.png
+|ndex=0412
+|typebox=1
+|type1=Bug
+|category=Bagworm
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=7.5
+|weight-kg=3.4
+|abilityn=d
+|ability1=Shed Skin
+|abilityd=Overcoat
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=1
+|evsd=1
+|expyield=45
+|oldexp=61
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|formcolors=yes
+|catchrate=120
+|body=05
+|pokefordex=burmy
+|generation=4
+|friendship=70
+}}
+'''Burmy''' ([[List of Japanese Pokémon names|Japanese]]: '''ミノムッチ''' ''Minomucchi'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] into either {{p|Wormadam}} or {{p|Mothim}} starting at [[level]] 20 depending on its [[gender]]; female Burmy evolve into Wormadam, whereas male Burmy evolve into Mothim.
+
+Burmy has three [[#Form data|forms]]: '''Plant Cloak''', '''Sandy Cloak''', and '''Trash Cloak'''. It changes its cloak based on the [[environment]] of its last battle. In the case of female Burmy, its form determines the form of Wormadam it evolves into, which is permanent. The specifics of how an environment affects Burmy's cloak vary between games. The cloak only affects the form of {{p|Wormadam}} it evolves into, otherwise having no effect on gameplay.
+
+(Specifics may differ in past games. Refer to [[#Form data|Game data&rarr;Form data]] for these details.)
+
+==Biology==
+Burmy is a small, larval {{OBP|Pokémon|species}} with a black segmented body and a coiled antenna on top of its head. It has a beak-like mouth and yellow eyes. Burmy has six stubby legs: the first two pairs are black, while the back pair is yellow. There are also two white spots on its cheeks. However, Burmy's legs and cheek spots are only visible on a Burmy without a cloak.
+
+As seen in the {{aniseries|DP}} episode ''[[DP030|Some Enchanted Sweetening!]]'' it can uncoil the antenna on its head and wrap it around its opponent. {{p|Remoraid}} is a natural predator of Burmy.
+
+<gallery>
+Cheryl Burmy appendage.png|Burmy uncoiling its appendage in the {{pkmn|animated series}}
+0412Burmy-No Cloak.png|Burmy without its cloak
+</gallery>
+
+===Forms===
+[[File:Burmy Forms TCG.png|thumb|200px|Burmy's forms in the [[Burmy (Brilliant Stars 9)|TCG]]]]
+Burmy has three forms: Plant Cloak, Sandy Cloak, and Trash Cloak.
+
+Burmy is normally covered by a cloak, with three known variants that consist of either twigs and leaves, sand and mud bound by its own silk, or dust and garbage resembling pink building insulation. It will not hesitate to collect nearby materials to construct a new cloak if the old one breaks or falls off. Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak. The cloak protects it from the cold and will become thinner when the weather is hot. 
+
+<div class="scrollbox">
+{| style="margin:auto; text-align:center; font-size:80%; background: #{{bug color}}; {{roundy|10px}} border: 3px solid #{{bug color dark}}"
+|-
+| {{color|000|Plant Cloak}}
+| {{color|000|Sandy Cloak}}
+| {{color|000|Trash Cloak}}
+|-
+| style="{{roundy|96px}} border: 2px solid #{{bug color dark}}; background: #{{bug color light}}; width:96px; height:96px"| [[File:0412Burmy-Plant.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{bug color dark}}; background: #{{bug color light}}; width:96px; height:96px"| [[File:0412Burmy-Sandy.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{bug color dark}}; background: #{{bug color light}}; width:96px; height:96px"| [[File:0412Burmy-Trash.png|100px]]
+|}
+</div>
+
+===Evolution===
+Burmy, if [[Gender|female]], evolves into {{p|Wormadam}} and, if male, evolves into {{p|Mothim}}. When evolving into Wormadam, its form determines the form of Wormadam it evolves into, which is permanent.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly">
+
+<div style="max-width:100%; text-align:center;">
+'''Plant Cloak'''
+{{Evobox/1branch2
+|type1=Bug
+|art1=0412Burmy-Plant
+|no1=0412
+|name1=Burmy
+|form1=Plant Cloak
+|type1-1=Bug
+|evo1a=[[File:Female icon HOME.png|link=Gender|x20px]]<br><small>{{color2|000|Gender|Female}}</small>
+|art2a=0413Wormadam-Plant
+|no2a=0413
+|name2a=Wormadam
+|type1-2a=Bug
+|type2-2a=Grass
+|form2a=Plant Cloak
+|evo1b=[[File:Male icon HOME.png|link=Gender|x20px]]<br><small>{{color2|000|Gender|Male}}</small>
+|no2b=0414
+|name2b=Mothim
+|type1-2b=Bug
+|type2-2b=Flying}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Sandy Cloak'''
+{{Evobox/1branch2
+|type1=Bug
+|art1=0412Burmy-Sandy
+|no1=0412
+|name1=Burmy
+|form1=Sandy Cloak
+|type1-1=Bug
+|evo1a=[[File:Female icon HOME.png|link=Gender|x20px]]<br><small>{{color2|000|Gender|Female}}</small>
+|art2a=0413Wormadam-Sandy
+|no2a=0413
+|name2a=Wormadam
+|type1-2a=Bug
+|type2-2a=Ground
+|form2a=Sandy Cloak
+|evo1b=[[File:Male icon HOME.png|link=Gender|x20px]]<br><small>{{color2|000|Gender|Male}}</small>
+|no2b=0414
+|name2b=Mothim
+|type1-2b=Bug
+|type2-2b=Flying}}
+</div>
+
+<div style="max-width:100%; text-align:center;">
+'''Trash Cloak'''
+{{Evobox/1branch2
+|type1=Bug
+|art1=0412Burmy-Trash
+|no1=0412
+|name1=Burmy
+|form1=Trash Cloak
+|type1-1=Bug
+|evo1a=[[File:Female icon HOME.png|link=Gender|x20px]]<br><small>{{color2|000|Gender|Female}}</small>
+|art2a=0413Wormadam-Trash
+|no2a=0413
+|name2a=Wormadam
+|type1-2a=Bug
+|type2-2a=Steel
+|form2a=Trash Cloak
+|evo1b=[[File:Male icon HOME.png|link=Gender|x20px]]<br><small>{{color2|000|Gender|Male}}</small>
+|no2b=0414
+|name2b=Mothim
+|type1-2b=Bug
+|type2-2b=Flying}}
+</div>
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=045|reg2=Johto}}
+{{Dex/Entry1|v=Diamond|entry=To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.}}
+{{Dex/Entry1|v=Pearl|entry=If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.}}
+{{Dex/Entry1|v=Platinum|entry=Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It covers itself with a cloak to shelter from the cold. When it's hot, its cloak is thinner.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=044|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|num2=045|reg3=Hisui|num3=043}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword and Shield]]}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.}}
+{{Dex/Entry1|v=Shining Pearl|entry=If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.}}
+{{Dex/Form|Plant Cloak}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=If its cloak is even slightly damaged, Burmy will immediately repair it with whatever is close at hand. The Pokémon within the cloak is scrawny and vulnerable to the cold.}}
+{{Dex/Form|Sandy Cloak}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=It creates a cloak by weaving together sand, mud, and silk it has spat out. This earthen cloak is ruined by wind and rain, so the Pokémon hides away in caves and other such places.}}
+{{Dex/Form|Trash Cloak}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=When confronted by a lack of other materials, Burmy will create its cloak using dust and refuse. The cloak seems to be more comfortable than one would think.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|206|Sinnoh}}, {{rtn|207|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|211|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|215|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|222|Sinnoh}}, [[Eterna Forest]], [[Floaroma Meadow]], [[Fuego Ironworks]], [[Valley Windworks]] ([[Honey Tree]]s) <small>('''Plant Cloak''')</small>}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|206|Sinnoh}}, {{rtn|207|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|211|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|215|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|222|Sinnoh}}, [[Eterna Forest]], [[Floaroma Meadow]], [[Fuego Ironworks]], [[Valley Windworks]] ([[Honey Tree]]s) <small>('''Plant Cloak''')</small>}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|38|Johto}} ([[Headbutt tree]]s{{tt|*|Tree on top of a hill on Route 38, which is accessible through Route 39 using Rock Climb. The tree is located exactly east from the Rock Climbing area, and south of a road sign.}}; post-National) <small>('''Plant Cloak''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pokémon Café Forest}} and {{dwa|Rugged Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|3|Kalos}}, {{kal|Berry fields}} (Green Berry trees) <small>('''Plant Cloak''')</small>}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|206|Sinnoh}}, {{rtn|207|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|211|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|215|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|222|Sinnoh}}, [[Eterna Forest]], [[Floaroma Meadow]], [[Fuego Ironworks]], [[Valley Windworks]] ([[Honey Tree]]s) <small>('''Plant Cloak''')</small>}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' [[Grueling Grove]], [[Worn Bridge]], [[Deertrack Path]], [[Deertrack Heights]], [[Windswept Run]], [[Nature's Pantry]], [[Tidewater Dam]], [[Obsidian Falls]]<sup>Shaking trees</sup> <small>('''Plant Cloak''')</small><br>'''[[Crimson Mirelands]]:''' [[Golden Lowlands]], [[Gapejaw Bog]], [[Holm of Trials]], [[Ursa's Ring]], near [[Scarlet Bog]], near [[Cloudpool Ridge]], [[Shrouded Ruins]], near [[Diamond Settlement]], near [[Diamond Heath]], [[Bolderoll Slope]], [[Cottonsedge Prairie]], [[Droning Meadow]], near [[Lake Valor]]<sup>Shaking trees</sup> <small>('''Sandy Cloak''')</small><br>'''[[Cobalt Coastlands]]:''' [[Crossing Slope]], [[Ginkgo Landing]], [[Aipom Hill]], [[Bathers' Lagoon]], [[Hideaway Bay]], near [[Deadwood Haunt]], [[Tombolo Walk]], [[Sand's Reach]], [[Tranquility Cove]], [[Castaway Shore]], near [[Windbreak Stand]], [[Spring Path]], near [[Islespy Shore]], [[Veilstone Cape]], [[Lunker's Lair]], [[Seagrass Haven]], near [[Firespit Island]]<sup>Shaking trees</sup> <small>('''Trash Cloak''')</small><br>'''[[Coronet Highlands]]:''' [[Heavenward Lookout]], near [[Ancient Quarry]], [[Clamberclaw Cliffs]], [[Celestica Ruins]], near [[Celestica Trail]], [[Sacred Plaza]], [[Stonetooth Rows]], [[Fabled Spring]], [[Cloudcap Pass]]<sup>Shaking trees</sup> <small>('''Sandy Cloak''')</small><br>'''[[Alabaster Icelands]]:''' [[Avalanche Slopes]], [[Whiteout Valley]], [[Bonechill Wastes]], [[Bonechill Wastes]], [[Icebound Falls]], [[Arena's Approach]], near [[Avalugg's Legacy]], [[Glacier Terrace]], [[Heart's Crag]], [[Lake Acuity]], near [[Pearl Settlement]]<sup>Shaking trees</sup> <small>('''Trash Cloak''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1/None|1|v=MD Time|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Wonder Mail]] code}}
+{{Availability/Entry1|1|v=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lush Prairie]] (1F-5F) <small>('''Plant Cloak''')</small><br>[[Apple Woods]] (1F-5F) <small>('''Sandy Cloak''')</small><br>[[Oran Forest]] (1F-4F) <small>('''Trash Cloak''')</small>}}
+{{Availability/Entry1|1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lush Prairie]] (1F-5F) <small>('''Plant Cloak''')</small><br>[[Apple Woods]] (1F-5F) <small>('''Sandy Cloak''')</small><br>[[Oran Forest]] (1F-4F) <small>('''Trash Cloak''')</small>}}
+{{Availability/Entry1|1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>('''Plant Cloak''')</small>}}
+<!--{{Availability/Entry1|1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Meeting Place]] <small>('''Plant Cloak''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]] <small>('''Plant Cloak''')</small><br>Autumnwood: [[Volcanic Slope]] <small>('''Sandy Cloak''')</small>, [[Firebreathing Mountain]] <small>('''Trash Cloak''')</small>}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]<sup>Post-game</sup> <small>('''Plant Cloak''')</small>}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs]] <small>(Possible Boss, '''All Cloaks''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 1|Safari Jungle: Stage 1]]{{dotw|Th}} <small>('''Plant Cloak''')</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Abundant Orchard|Plasma Tundra: Abundant Orchard]] <small>(All Areas)</small>, [[Legend Terrain#Primeval Thicket|Legend Terrain: Primeval Thicket]] <small>(All Areas; '''All Cloaks''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Garchomp Sea]], [[Arceus Sea]], [[Garchomp Sea]]<sup>Final</sup> <small>('''All Cloaks)'''</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 485]] <small>('''Plant Cloak''')</small><br>[[Marron Trail|Marron Trail: Stage 688]] <small>('''Sandy Cloak''')</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#20th release|''Pokémon Safari'']] <small>(20th release; '''Trash Cloak''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+Burmy will not appear in Pokémon Mystery Dungeon: Explorers of Time until a rescue mission involving it has been completed, using a Wonder Mail code such as the following:
+:XR2Y #==@ JYX%
+:3@2F Q8FQ R@M#
+:Objective: Prospect with Burmy on floor 13 of [[Marine Resort]].
+
+===Held items===
+{{HeldItems/header|type=Bug}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Vivichoke|65|Spoiled Apricorn|15|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=40
+|Attack=29
+|Defense=45
+|SpAtk=29
+|SpDef=45
+|Speed=36}}
+
+====Pokéathlon stats====
+=====Plant Cloak=====
+{{Pokéthlon
+|type=Bug
+|Speed=1
+|SpeedMax=5
+|Power=1
+|PowerMax=3
+|Technique=1
+|TechniqueMax=5
+|Stamina=1
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+=====Sandy Cloak=====
+{{Pokéthlon
+|type=Bug
+|Speed=1
+|SpeedMax=4
+|Power=1
+|PowerMax=4
+|Technique=1
+|TechniqueMax=4
+|Stamina=1
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+=====Trash Cloak=====
+{{Pokéthlon
+|type=Bug
+|Speed=1
+|SpeedMax=4
+|Power=1
+|PowerMax=5
+|Technique=1
+|TechniqueMax=3
+|Stamina=1
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=  100
+|Ground=   50
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+}}
+
+===Learnset===
+Burmy is available in {{pkmn|Brilliant Diamond and Shining Pearl}} and [[Pokémon Legends: Arceus]].
+
+====By [[Level|leveling up]]====
+{{gameabbrev8|BDSP}}
+{{learnlist/levelh/8|Burmy|Bug|Bug|4}}
+{{learnlist/level8|1|Protect|Normal|Status|—|—|10||}}
+{{learnlist/level8|10|Tackle|Normal|Physical|40|100|35||}}
+{{learnlist/level8|15|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level8|20|String Shot|Bug|Status|—|95|40||}}
+{{learnlist/levelf/8|Burmy|Bug|Bug|4}}
+
+{{gameabbrev8|LA}}
+{{learnlist/levelh/LA|Burmy|Bug|Bug|4}}
+{{learnlist/levelLA|1|10|Struggle Bug|Bug|Special|40|50|30|100|100|20||'''}}
+{{learnlist/levelf/8|Burmy|Bug|Bug|4}}
+
+====By [[TM]]====
+{{learnlist/tmh/8|Burmy|Bug|Bug|4}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tmf/8|Burmy|Bug|Bug|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Burmy|Bug|Bug|4}}
+{{learnlist/breed8null}}
+{{learnlist/breedf/8|Burmy|Bug|Bug|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Burmy|Bug|Bug|4}}
+{{learnlist/tutor8null}}
+{{learnlist/tutorf/8|Burmy|Bug|Bug|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Iron Defense}}
+| style="background:#fff; {{roundybr|5px}}" | [[Burmy (Majestic Dawn 54)]]
+|}
+
+===Side game data===
+====Plant Cloak====
+{{Spindata/Head|type=Bug}}
+{{Spindata/MDTDS|col=6|type=Bug|ndex=412
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=412
+|coset=3
+|conto={{p|Cradily}}, {{form|Burmy and Wormadam|Plant Cloak}} {{p|Wormadam}}, {{p|Scatterbug}}
+|recruitment=Introduced by {{p|Scatterbug}}
+|P1=I've gathered some of the plants from around here to wear. How do I look?
+|P2=My plant cloak is shredded…
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=412
+|walk=2.92
+|hp=45
+|attack=61
+|defense=46
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Bug|ndex=412
+|Pad=Burmy hangs from the Tree House in the [[Meeting Place]] to think his thoughts in peace.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=412
+|pad=He said he came from far away. He likes to think while hanging around.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=412
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=412|num=622
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=412
+|hatch=N/A
+|buddy=1
+|candy=Burmy
+|evocandy=50
+|stamina=120
+|attack=53
+|defense=83
+|fast={{m|Tackle}}, {{m|Bug Bite}}
+|special={{m|Struggle}}
+}}
+|}
+
+====Sandy Cloak====
+{{Spindata/Head|type=Bug}}
+{{Spindata/MDTDS|col=6|type=Bug|ndex=412G
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=412G
+|coset=3
+|conto={{p|Wurmple}}, {{form|Burmy and Wormadam|Sandy Cloak}} {{p|Wormadam}}, {{p|Scatterbug}}
+|recruitment=Introduced by {{p|Scatterbug}}
+|P1=I've gathered some sand to wear. What do you think? Am I charming?
+|P2=Oh no! My sand… *pant pant*
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=412G
+|walk=2.92
+|hp=45
+|attack=61
+|defense=46
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Bug|ndex=412G|num=622
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Rockify+
+|skilldesc=Sometimes turns up to 10 non-Support Pokémon into rocks.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=412G
+|hatch=N/A
+|buddy=1
+|candy=Burmy
+|evocandy=50
+|stamina=120
+|attack=53
+|defense=83
+|fast={{m|Tackle}}, {{m|Bug Bite}}
+|special={{m|Struggle}}
+}}
+|}
+
+====Trash Cloak====
+{{Spindata/Head|type=Bug}}
+{{Spindata/MDTDS|col=6|type=Bug|ndex=412S
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=412S
+|coset=9
+|conto={{p|Sandile}}, {{p|Galvantula}}
+|recruitment=Introduced by {{p|Sandile}}
+|P1=I've gathered some trash to wear… I had no choice! That's all I could find.
+|P2=My trash! My beautiful, protective trash!
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=412S
+|walk=2.92
+|hp=45
+|attack=61
+|defense=46
+|speed=60
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Bug|ndex=412S|num=622
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Quirky+
+|skilldesc=Sometimes erases two extra matching Pokémon elsewhere.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=412S
+|hatch=N/A
+|buddy=1
+|candy=Burmy
+|evocandy=50
+|stamina=120
+|attack=53
+|defense=83
+|fast={{m|Tackle}}, {{m|Bug Bite}}
+|special={{m|Struggle}}
+}}
+|}
+
+===Form data===
+Burmy has three separate forms: Plant Cloak, Sandy Cloak, and Trash Cloak. Burmy can change forms freely, changing its cloak depending on the environment in which it last participated in a battle (so [[Exp. Share]] alone will not change its form). When a Burmy evolves into {{p|Wormadam}}, it retains its cloak.
+
+Apart from {{pkmn|breeding}} and [[Evolution]], Burmy's cloak is purely cosmetic. Bred Burmy will have the same cloak as the mother, will be in the same cloak as a Burmy or Wormadam bred with {{p|Ditto}}, or will be in Plant Cloak if bred from a {{p|Mothim}} and a Ditto.
+
+If a Burmy last battled outside or in [[tall grass]], it changes into its Plant Cloak. In {{g|Legends: Arceus}}, it will change into this form in [[Jubilife Village]] and the [[Obsidian Fieldlands]]. If female, Plant Cloak Burmy will evolve into Plant Cloak Wormadam, which is a {{2t|Bug|Grass}} Pokémon. This cloak is composed of leaves and twigs.
+
+If a Burmy last battled in a [[cave]] or on a [[beach]], it changes into its Sandy Cloak. In [[Generation IV]], it will also change into this form after battling in an area with a snow storm. In {{game|HeartGold and SoulSilver|s}}, Burmy will change into this form after battling inside the [[Bell Tower]], the [[Burned Tower]], or [[Sprout Tower]], due to the towers all being internally classified as caves. In Pokémon Legends: Arceus, it will change into this form in the [[Crimson Mirelands]] or the [[Coronet Highlands]]. If female, Sandy Cloak Burmy will evolve into Sandy Cloak Wormadam, which is a {{2t|Bug|Ground}} Pokémon. This cloak is composed of sand and rocks.
+
+If a Burmy last battled in a building, it changes into its Trash Cloak. In Pokémon Legends: Arceus, it will change into this form in the [[Cobalt Coastlands]] and the [[Alabaster Icelands]]. If female, Trash Cloak Burmy will evolve into Trash Cloak Wormadam, which is a {{2t|Bug|Steel}} Pokémon. This cloak is composed of pink {{wp|building insulation|insulation}}.
+
+In Pokémon Mystery Dungeon series, Burmy's cloaks cannot be changed and are instead found in different dungeons or as separate Pokémon on the [[Connection Orb]].
+{{evobox/Formes
+|family=None
+|sprite1=0412Burmy-Plant
+|name1=Burmy
+|type1-1=Bug
+|forme1=Plant Cloak
+|loc1=After battling outside or in {{color2|000|tall grass}}
+|item1=
+|sprite2=0412Burmy-Sandy
+|name2=Burmy
+|type1-2=Bug
+|forme2=Sandy Cloak
+|item2=
+|sprite3=0412Burmy-Trash
+|loc2=After battling in a {{color2|000|cave}} or on a {{color2|000|beach}}
+|name3=Burmy
+|type1-3=Bug
+|forme3=Trash Cloak
+|loc3=After battling in a building
+}}
+
+===Evolution data===
+====Plant Cloak====
+{{Evobox/1branch2
+|type1=Bug
+|art1=0412Burmy-Plant
+|no1=0412
+|name1=Burmy
+|form1=Plant Cloak
+|type1-1=Bug
+|evo1a={{Bag/s|Rare Candy|SV}} + [[File:Female icon HOME.png|link=Gender|32px]]<br>Level 20<br><small>({{color2|000|Gender|female}})</small>
+|art2a=0413Wormadam-Plant
+|no2a=0413
+|name2a=Wormadam
+|type1-2a=Bug
+|type2-2a=Grass
+|form2a=Plant Cloak
+|evo1b={{Bag/s|Rare Candy|SV}} + [[File:Male icon HOME.png|link=Gender|32px]]<br>Level 20<br><small>({{color2|000|Gender|male}})</small>
+|no2b=0414
+|name2b=Mothim
+|type1-2b=Bug
+|type2-2b=Flying}}
+
+====Sandy Cloak====
+{{Evobox/1branch2
+|type1=Bug
+|art1=0412Burmy-Sandy
+|no1=0412
+|name1=Burmy
+|form1=Sandy Cloak
+|type1-1=Bug
+|evo1a={{Bag/s|Rare Candy|SV}} + [[File:Female icon HOME.png|link=Gender|32px]]<br>Level 20<br><small>({{color2|000|Gender|female}})</small>
+|art2a=0413Wormadam-Sandy
+|no2a=0413
+|name2a=Wormadam
+|type1-2a=Bug
+|type2-2a=Ground
+|form2a=Sandy Cloak
+|evo1b={{Bag/s|Rare Candy|SV}} + [[File:Male icon HOME.png|link=Gender|32px]]<br>Level 20<br><small>({{color2|000|Gender|male}})</small>
+|no2b=0414
+|name2b=Mothim
+|type1-2b=Bug
+|type2-2b=Flying}}
+
+====Trash Cloak====
+{{Evobox/1branch2
+|type1=Bug
+|art1=0412Burmy-Trash
+|no1=0412
+|name1=Burmy
+|form1=Trash Cloak
+|type1-1=Bug
+|evo1a={{Bag/s|Rare Candy|SV}} + [[File:Female icon HOME.png|link=Gender|32px]]<br>Level 20<br><small>({{color2|000|Gender|female}})</small>
+|art2a=0413Wormadam-Trash
+|no2a=0413
+|name2a=Wormadam
+|type1-2a=Bug
+|type2-2a=Steel
+|form2a=Trash Cloak
+|evo1b={{Bag/s|Rare Candy|SV}} + [[File:Male icon HOME.png|link=Gender|32px]]<br>Level 20<br><small>({{color2|000|Gender|male}})</small>
+|no2b=0414
+|name2b=Mothim
+|type1-2b=Bug
+|type2-2b=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/3Forms|ndex=412|form1=G|form2=S}}
+{{Spritebox/5/3Forms|ndex=412|form1=G|form2=S}}
+{{Spritebox/6/3Forms|ndex=412|form1=G|form2=S|crop=64}}
+{{Spritebox/7/3Forms|ndex=412|form1=G|form2=S|crop=63}}
+{{Spritebox/8/LA/3Forms|ndex=412|form1=G|form2=S|LAcrop=128}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/3Forms|ndex=0412|form1=G|form2=S}}
+{{Spritebox/Footer|412|Burmy}}
+
+==In animation==
+[[File:Burmy anime.png|thumb|250px|Burmy in {{aniseries|PTS}}]]
+===Major appearances===
+====[[Cheryl's Burmy]]====
+In ''[[DP030|Some Enchanted Sweetening!]]'', [[Cheryl]] {{pkmn2|caught}} a male Burmy after he was lured to the Honey she put on a tree. After participating in {{pkmn|battle}}s with {{TRT}}, Burmy evolved into a Mothim.
+
+===Minor appearances===
+Burmy debuted in ''[[DP002|Two Degrees of Separation!]]'', where {{an|Dawn}} tried and failed to catch it.
+
+A Burmy appeared in ''[[DP004|Dawn Of A New Era!]]''.
+
+Multiple Burmy appeared in ''[[M10|The Rise of Darkrai]]''. One particular Plant Cloak Burmy surprised {{Ash}} in the garden in [[Alamos Town]] by abruptly dropping in front of his face.
+
+Multiple Burmy appeared in a flashback in ''[[DP099|A Trainer and Child Reunion!]]''.
+
+A Plant Cloak Burmy appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''
+
+A Plant Cloak Burmy appeared in ''[[XY004|A Shockingly Cheeky Friendship!]]''.
+
+Two Plant Cloak Burmy appeared in ''[[XY089|A Frolicking Find in the Flowers!]]''.
+
+In ''[[JN033|Trade, Borrow, and Steal!]]'', a Plant Cloak Burmy was part of [[Kricketina Kylie]]'s Bug-type Pokémon collection, as shown in her [[Rotom Phone]].
+
+A Plant Cloak Burmy appeared in ''[[JN074|Nightfall? Nightmares!]]''.
+
+<gallery>
+File:Burmy no cloak.png|Burmy without cloak in ''[[DP030|Some Enchanted Sweetening!]]''
+Burmy Plant Cloak anime.png|{{form|Burmy|Plant Cloak}} Burmy in [[Professor Oak's Big Pokémon Encyclopedia|Oak's lecture]]
+Burmy Sandy Cloak anime.png|{{form|Burmy|Sandy Cloak}} Burmy in [[Professor Oak's Big Pokémon Encyclopedia|Oak's lecture]]
+Burmy Trash Cloak anime.png|{{form|Burmy|Trash Cloak}} Burmy in [[Professor Oak's Big Pokémon Encyclopedia|Oak's lecture]]
+</gallery>
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP002|Burmy|Dawn's Pokédex|Burmy, the Bagworm Pokémon. To protect itself from the cold wind, Burmy uses leaves and branches to make a cloak around itself.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+
+==In the manga==
+[[File:Paka Burmy Plant Cloak.png|200px|thumb|Plant Cloak Burmy in [[Pokémon Adventures]]]]
+===Pocket Monsters DP===
+A Burmy appeared in [[PMDP08]].
+
+===Pokémon Adventures===
+{{adv|Platinum}}'s intended bodyguard [[Paka and Uji|Paka]] is seen using a Burmy alongside [[Paka and Uji|Uji]]'s {{p|Buizel}}, fending off an attack from an {{p|Abra}} and {{p|Croagunk}} belonging to [[Team Galactic]]. It first appeared in ''[[PS352|Crowded by Croagunk & Advanced on by Abra I]]''.
+
+<gallery>
+Paka Burmy Sandy Cloak.png|Sandy Cloak Burmy in [[Pokémon Adventures]]
+Paka Burmy Trash Cloak.png|Trash Cloak Burmy in [[Pokémon Adventures]]
+</gallery>
+
+==In the TCG==
+{{main|Burmy (TCG)}}
+
+==Trivia==
+* Burmy and {{p|Wormadam}} share their {{pkmn|category}} with {{p|Pineco}} and {{p|Forretress}}. They are all known as the Bagworm Pokémon.
+* Burmy is the only Pokémon with a base stat total of 224.
+* Although Burmy has been confirmed to have feet, it does not have a [[footprint]].
+* Except for recurring end segments such as [[Professor Oak's Big Pokémon Encyclopedia]], Burmy has never been seen in the {{pkmn|animated series}} wearing either the Sandy or Trash Cloak.
+* Prior to [[Generation VI]], Burmy's shape was [[File:Body02.png|32px]].
+* Burmy's [[List of Pokémon by color|Pokédex color]] has changed between generations:
+** Prior to [[Generation VII]], all Burmy forms were classified as gray.
+** In Generation VII and prior to the release of {{g|HOME}}, all Burmy forms were classified as green.
+** After the release of HOME, Plant Cloak Burmy retains its classification as green, while Sandy Cloak and Trash Cloak Burmy are classified as brown and red, respectively.
+* Before [[Generation VIII]], the Burmy family had only been obtainable with their [[Hidden Ability]] in the [[Pokémon Dream World]]. Due to the closure of the [[Pokémon Global Link]], the Burmy family could no longer be obtained with their Hidden Ability, except by trading between games and {{pkmn|breeding}}. The Burmy family's Hidden Ability can currently be obtained via the [[Ability Patch]].
+* Burmy, {{p|Wormadam}}, {{p|Mothim}}, {{p|Geodude}}, {{p|Graveler}}, and {{p|Golem}} are the only Pokémon in all five [[List of Pokémon by Hisui Pokédex number|Hisui Pokédex]] sublistings.
+* Not including Evolutions into [[regional form]]s, Burmy is the only Pokémon introduced in [[Generation IV]] to have a [[List of Pokémon with branched Evolutions|branched Evolution]].
+* In {{game|Platinum}}, {{2v2|HeartGold|SoulSilver}}, and {{2v2|Black|White|2}}, when the [[player character]] talks to the [[Non-player character|NPC]] that [[Hidden Power (move)/Calculation|checks]] the [[type]] that {{m|Hidden Power}} will be when used by a specific Pokémon, he will state that Burmy cannot learn Hidden Power, despite Burmy being able to learn it at [[level]] 20. This is due to Burmy being unable to learn the move via TM prior to Generation VI.
+* Burmy can be spawned in all existing tree-based mechanics that can spawn Pokémon ([[Honey Tree]]s, [[Headbutt tree]]s, as well as shaking trees in {{g|Legends: Arceus}}) in games where Burmy is available. It shares this trait with {{p|Cherubi}}.
+
+===Origin===
+Burmy appears to be based on a {{wp|bagworm moth|bagworm}}, which makes cocoons by sewing together surrounding materials (usually leaves or scraps of wood) with its silk. Its Evolutions into Wormadam or Mothim reflect the bagworm's natural life cycle — males will metamorphose into a flying moth, while females undergo little change and remain inside their cocoon lifelong. Its antenna may have been inspired by the {{wp|Uraba lugens|gum-leaf skeletoniser}}.
+
+The Trash Cloak form specifically appears to be made of {{wp|fiberglass}} insulation, a wool-like padding that is often dyed pink — this seems to be alluded to in its [[Pokédex]] entry in {{g|Legends: Arceus}}, where it is described as surprisingly comfortable, due to its spongey texture. The idea of a cloak made from household materials may be inspired by {{wp|Phereoeca uterella|household casebearer moths}}, whose larvae exhibit the same cloaking behaviour as bagworms, and make cloaks from dust, hair, and dirt they scavenge from homes.
+
+====Name origin====
+Burmy may be a combination of ''bag'' or ''bug'' and ''worm'', with a diminutive ''-y''.
+
+Minomucchi may be derived from 蓑虫 ''minomushi'' (bagworm) and possibly from プチ ''puchi'' (small).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=ミノムッチ ''Minomucchi''|jameaning=From {{tt|蓑虫 ''minomushi''|bagworm}} and {{tt|プチ ''puchi''|small}}
+|fr=Cheniti|frmeaning=From {{tt|''chenille''|caterpillar}} and {{tt|''petit''|small}}
+|es=Burmy|esmeaning=Same as English name
+|de=Burmy|demeaning=Same as English name
+|it=Burmy|itmeaning=Same as English name
+|ko=도롱충이 ''Dorongchungi''|komeaning=From {{tt|도롱이벌레 ''dorong-i-beollae''|bagworm}}, {{tt|충 (蟲) ''chung''|bug}}, and the diminutive suffix ～이 ''-i''
+|zh_cmn=結草兒 / 结草儿 ''Jiécǎo'ér''|zh_cmnmeaning=From {{tt|結草蟲 / 结草虫 ''jiécǎochóng''|bagworm}} and {{tt|兒 / 儿 ''ér''|child}}
+|zh_yue=結草兒 ''Gitchóuyìh''|zh_yuemeaning=From {{tt|結草蟲 ''gitchóuchùhng''|bagworm}} and {{tt|兒 ''yìh''|child}}
+|hi=बोरिकीट ''Borikeet''|himeaning=From {{tt|बोरी ''bori''|gunny sack}} and {{tt|कीट ''keet''|insect}}
+|th=มิโนมุจจิ ''Minomutchi''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+<div style="display:inline-block">
+''Plant Cloak''
+{{langtable|color={{bug color}}|bordercolor={{grass color}}
+|ja=くさきのミノ ''{{tt|Kusaki no Mino|Plant Coat}}''
+|zh_yue=草木蓑衣 ''{{tt|Chóumuhk Sōyī|Plant Coat}}''
+|zh_cmn=草木蓑衣 ''{{tt|Cǎomù Suōyī|Plant Coat}}''
+|fr=Cape Plante
+|de=Pflanzenumhang
+|hi= प्लांट क्लोक ''Plant Cloak''
+|id=Jubah Tanaman
+|it=Manto Pianta
+|ko=초목도롱 ''{{tt|Chomok Dorong|Plant Coat}}''
+|ms=Samaran Tumbuhan
+|pt_br=Manto Vegetal
+|es=Tronco Planta
+|th=ปลอกใบไม้ ''{{tt|Plok Baimai|Leaf Cover}}''
+|tr=Bitki Pelerini
+}}
+</div>
+<div style="display:inline-block">
+''Sandy Cloak''
+{{langtable|color={{bug color}}|bordercolor={{ground color}}
+|ja=すなちのミノ ''{{tt|Sunachi no Mino|Sand Coat}}''
+|zh_yue=砂土蓑衣 ''{{tt|Sātóu Sōyī|Sand Coat}}''
+|zh_cmn=砂土蓑衣 ''{{tt|Shātǔ Suōyī|Sand Coat}}'' {{tt|*|Games}}<br>沙土蓑衣 ''{{tt|Shātǔ Suōyī|Sand Coat}}'' {{tt|*|Animated series, Manga}}
+|fr=Cape Sable
+|de=Sandumhang
+|hi=सैंडी क्लोक ''Sandy Cloak''
+|id=Jubah Pasir
+|it=Manto Sabbia
+|ko=모래땅도롱 ''{{tt|Moraettang Dorong|Sand Coat}}''
+|ms=Samaran Pasir
+|pt_br=Manto Arenoso
+|es=Tronco Arena
+|th=ปลอกทราย ''{{tt|Plok Otrai|Sand Cover}}''
+|tr=Kumlu Pelerin
+}}
+</div>
+<div style="display:inline-block">
+''Trash Cloak''
+{{langtable|color={{bug color}}|bordercolor={{steel color}}
+|ja=ゴミのミノ ''{{tt|Gomi no Mino|Trash Coat}}''
+|zh_yue=垃圾蓑衣 ''{{tt|Laahpsaap Sōyī|Trash Coat}}''
+|zh_cmn=垃圾蓑衣 ''{{tt|Lèsè Suōyī / Lājī Suōyī|Trash Coat}}''
+|fr=Cape Déchet
+|de=Lumpenumhang
+|hi=ट्रैश क्लोक ''Trash Cloak''
+|id=Jubah Sampah
+|it=Manto Scarti
+|ko=슈레도롱 ''{{tt|Syure Dorong|Trash Coat}}''
+|ms=Samaran Sampah
+|pt_br=Manto de Lixo
+|es=Tronco Basura
+|th=ปลอกขยะ ''{{tt|Plok Okya|Trash Cover}}''
+|tr=Çöp Pelerin
+}}
+</div>
+{{-}}
+
+==Related articles==
+* [[Cheryl's Burmy]]
+* [[List of Pokémon with form differences]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0411|prev=Bastiodon|nextnum=0413|next=Wormadam}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Body style 02 Pokémon]]<!--Prior to Gen VI-->
+[[Category:Pokémon that evolve based on gender]]
+[[Category:Brown-colored Pokémon]]<!--Sandy Cloak-->
+[[Category:Red-colored Pokémon]]<!--Trash Cloak-->
+[[de:Burmy]]
+[[es:Burmy]]
+[[fr:Cheniti]]
+[[it:Burmy]]
+[[ja:ミノムッチ]]
+[[zh:结草儿]]

@@ -1,0 +1,496 @@
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/GO|species=Liepard}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=0509|prev=Purrloin|nextnum=0511|next=Pansage|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Liepard
+|jname=レパルダス
+|jtranslit=Reparudasu
+|tmname=Lepardas
+|category=Cruel
+|ndex=0510
+|typebox=1
+|type1=Dark
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=82.7
+|weight-kg=37.5
+|abilityn=d
+|ability1=Limber
+|ability2=Unburden
+|abilityd=Prankster
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=156
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|catchrate=90
+|evtotal=2
+|evsp=2
+|body=08
+|pokefordex=liepard
+|generation=5
+|friendship=70
+}}
+'''Liepard''' ([[List of Japanese Pokémon names|Japanese]]: '''レパルダス''' ''Lepardas'') is a {{type|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Purrloin}} starting at [[level]] 20.
+
+==Biology==
+Liepard is a slender, purple feline {{OBP|Pokémon|species}}  speckled with yellow rosettes. Its fur patterning is considered attractive to many {{pkmn|Trainer}}s. It has a pink "mask" marking over its eyes, a pink nose, and small yellow markings over its green eyes. It has two pairs of long yellow whiskers and a tufted yellow underside. Its lower legs are yellow, and each small paw has a pale pink pad that can be seen in [[Pokédex 3D Pro]]. It has a long, curving tail with a sickle-like shape toward the tip.
+
+Liepard has well-developed muscles that allows it to run silently and strike opponents from behind. It has also been known to vanish and reappear without warning. It is known to be rather moody and vicious. In [[Galar]], it competes with {{p|Thievul}} for territory.
+
+===Evolution===
+Liepard evolves from {{p|Purrloin}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-2
+|pictype=art
+|type1=Dark
+|no1=0509
+|name1=Purrloin
+|type1-1=Dark
+|evo1=
+|no2=0510
+|name2=Liepard
+|type1-2=Dark}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=016|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=013|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.}}
+{{Dex/Entry1|v=White|entry=Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Their beautiful form comes from the muscles they have developed. They run silently in the night.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=043|label1=Mountain|reg2=Hoenn }}
+{{Dex/Entry1|v=X|t=FFF|entry=Their beautiful form comes from the muscles they have developed. They run silently in the night.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Their beautiful form comes from the muscles they have developed. They run silently in the night.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=045|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with {{p|Thievul}} for territory.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Route]]s {{rtn|5|Unova}}, {{rtn|9|Unova}}, and {{rtn|16|Unova}}<br>[[Dreamyard]] (Ruins; {{DL|Tall grass|dark grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|2|Unova}}, {{rtn|5|Unova}}, {{rtn|9|Unova}}, and {{rtn|16|Unova}}, [[Dreamyard]]<br>[[Route]]s {{rtn|5|Unova}} and {{rtn|9|Unova}} ([[Hidden Grotto]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|v=X|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Dark-type Safari|Dark]])}}
+{{Availability/Entry1|v=Y|t=FFF|area={{rt|15|kalos}}, [[Friend Safari]] ([[Friend Safari#Dark-type Safari|Dark]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Route]]s {{rtn|7|Galar}}, {{rtn|9|Galar}}, [[Axew's Eye]], [[Giant's Seat]], [[Bridge Field]], [[Giant's Cap]]<br>[[West Lake Axewell/Dens|West Lake Axewell]], [[Bridge Field/Dens|Bridge Field]], [[Stony Wilderness/Dens|Stony Wilderness]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Frostpoint Field/Dens|Frostpoint Field]], [[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Giant's Foot/Dens|Giant's Foot]], [[Frigid Sea/Dens|Frigid Sea]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Challenger's Ground]], [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Guard the Fort!|Frenzy Square: Guard the Fort!]], [[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 3|Safari Jungle: Stage 3]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Halloween Village|Starlight Islands: Halloween Village]] <small>(All Areas)</small>, [[Legend Terrain#Primeval Thicket|Legend Terrain: Primeval Thicket]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Gengar Sea]], [[Mimikyu Sea]], [[Buzzwole Sea]], [[Zygarde Sea]], [[Mimikyu Sea]]<sup>Final</sup>, [[Buzzwole Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Founja Jungle]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Sweet Strasse|Sweet Strasse: Stage 87]]<br>[[Nacht Carnival|Nacht Carnival: Stage 513]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Grimsley|Liepard}}<br>{{DL|Damage Challenge|Training Ticket Exchange}}: {{sync|Cheren|Liepard}}<br>[[Special Kick-Start Event Strong and Reliable Friends]]: {{sync|Marnie|Liepard}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Dark}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Se Jun's Liepard|Korean|South Korea|20|August 31 to September 1, 2013|link=List of local Korean event Pokémon distributions in Generation V#Se Jun's Liepard}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Dark
+|event1=Dark Gem|event1type=Gem|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dark
+|HP=64
+|Attack=88
+|Defense=50
+|SpAtk=88
+|SpDef=50
+|Speed=106}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1}}
+
+===Learnset===
+Liepard is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Liepard|Dark|Dark|5}}
+{{learnlist/level8|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level8|1|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/level8|12|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level8|16|Torment|Dark|Status|—|100|15}}
+{{learnlist/level8|23|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/level8|28|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level8|34|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level8|40|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level8|46|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level8|52|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/levelf/8|Liepard|Dark|Dark|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Liepard|Dark|Dark|5}}
+{{learnlist/tm8|TM02|Pay Day|Normal|Physical|40|100|20}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM29|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM47|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm8|TM69|Psycho Cut|Psychic|Physical|70|100|20}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM85|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR30|Encore|Normal|Status|—|100|5}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR42|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tr|TR58|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tr|TR59|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tr|TR68|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tr|TR73|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tr|TR81|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/tr|TR90|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tr|TR95|Throat Chop|Dark|Physical|80|100|15||'''}}
+{{learnlist/tmf/8|Liepard|Dark|Dark|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Liepard|Dark|Dark|5}}
+{{learnlist/breed8|{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|448|Lucario}}{{MSP/8c|831|Wooloo}}{{MSP/8c|832|Dubwool}}|Copycat|Normal|Status|—|—|20}}
+{{learnlist/breed8|{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|263|Zigzagoon}}{{MSP/8c|264|Linoone}}{{MSP/8c|677|Espurr}}{{MSP/8c|678|Meowstic}}{{MSP/8c|820|Greedent}}|Covet|Normal|Physical|60|100|25}}
+{{learnlist/breed8|{{MSP/8c|025|Pikachu}}{{MSP/8c|026|Raichu}}{{MSP/8c|026A|Raichu}}{{MSP/8c|359|Absol}}{{MSP/8c|587|Emolga}}{{MSP/8c|744|Rockruff}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745Mn|Lycanroc}}{{MSP/8c|745D|Lycanroc}}|Double Team|Normal|Status|—|—|15}}
+{{learnlist/breed8|{{MSP/8c|025|Pikachu}}{{MSP/8c|026|Raichu}}{{MSP/8c|026A|Raichu}}{{MSP/8c|037|Vulpix}}{{MSP/8c|038|Ninetales}}{{MSP/8c|078|Rapidash}}{{MSP/8c|078G|Rapidash}}{{MSP/8c|133|Eevee}}{{MSP/8c|134|Vaporeon}}{{MSP/8c|135|Jolteon}}{{MSP/8c|136|Flareon}}{{MSP/8c|196|Espeon}}{{MSP/8c|197|Umbreon}}{{MSP/8c|470|Leafeon}}{{MSP/8c|471|Glaceon}}{{MSP/8c|700|Sylveon}}{{MSP/8c|215|Sneasel}}{{MSP/8c|461|Weavile}}{{MSP/8c|255|Torchic}}{{MSP/8c|256|Combusken}}{{MSP/8c|257|Blaziken}}{{MSP/8c|309|Electrike}}{{MSP/8c|310|Manectric}}{{MSP/8c|359|Absol}}{{MSP/8c|427|Buneary}}{{MSP/8c|428|Lopunny}}{{MSP/8c|448|Lucario}}{{MSP/8c|587|Emolga}}{{MSP/8c|659|Bunnelby}}{{MSP/8c|660|Diggersby}}{{MSP/8c|745|Lycanroc}}{{MSP/8c|745D|Lycanroc}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}{{MSP/8c|827|Nickit}}{{MSP/8c|828|Thievul}}{{MSP/8c|877|Morpeko}}|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/breed8|{{MSP/8c|027|Sandshrew}}{{MSP/8c|027A|Sandshrew}}{{MSP/8c|028|Sandslash}}{{MSP/8c|028A|Sandslash}}{{MSP/8c|050|Diglett}}{{MSP/8c|051|Dugtrio}}{{MSP/8c|052|Meowth}}{{MSP/8c|052G|Meowth}}{{MSP/8c|053|Persian}}{{MSP/8c|863|Perrserker}}{{MSP/8c|083|Farfetch'd}}{{MSP/8c|215|Sneasel}}{{MSP/8c|461|Weavile}}{{MSP/8c|255|Torchic}}{{MSP/8c|256|Combusken}}{{MSP/8c|257|Blaziken}}{{MSP/8c|264|Linoone}}{{MSP/8c|613|Cubchoo}}{{MSP/8c|614|Beartic}}{{MSP/8c|631|Heatmor}}{{MSP/8c|674|Pancham}}{{MSP/8c|675|Pangoro}}|Slash|Normal|Physical|70|100|20}}
+{{learnlist/breed8|{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}{{MSP/8c|206|Dunsparce}}{{MSP/8c|449|Hippopotas}}{{MSP/8c|450|Hippowdon}}{{MSP/8c|517|Munna}}{{MSP/8c|518|Musharna}}|Yawn|Normal|Status|—|—|10}}
+{{learnlist/breedf/8|Liepard|Dark|Dark|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Liepard|Dark|Dark|5}}
+{{learnlist/tutor8|Burning Jealousy|Fire|Special|70|100|5|||no|yes}}
+{{learnlist/tutor8|Lash Out|Dark|Physical|75|100|5||'''|no|yes}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10|||no|yes}}
+{{learnlist/tutorf/8|Liepard|Dark|Dark|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Liepard|Dark|Dark|5}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Liepard|Dark|Dark|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Liepard|Dark|Dark|5}}
+{{learnlist/prevgen8|Liepard|5|Aerial Ace|Flying|Physical|60|—|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Liepard|5|Assist|Normal|Status|—|—|20|V=yes<!--level,level-->|VI=yes<!--level,level-->|VII=yes<!--level,level-->|x=yes}}
+{{learnlist/prevgen8|Liepard|5|Captivate|Normal|Status|—|100|20|V=yes<!--prevo-->|VI=yes<!--prevo-->|VII=yes<!--prevo-->|x=yes}}
+{{learnlist/prevgen8|Liepard|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Liepard|5|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Liepard|5|Dream Eater|Psychic|Special|100|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Liepard|5|Echoed Voice|Normal|Special|40|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Liepard|5|Embargo|Dark|Status|—|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Liepard|5|Feint Attack|Dark|Physical|60|—|20||'''|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Liepard|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Liepard|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Liepard|5|Knock Off|Dark|Physical|65|100|20||'''|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Liepard|5|Laser Focus|Normal|Status|—|—|30|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Liepard|5|Psych Up|Normal|Status|—|—|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Liepard|5|Pursuit|Dark|Physical|40|100|20||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Liepard|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Liepard|5|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Liepard|5|Role Play|Psychic|Status|—|—|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Liepard|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Liepard|5|Snatch|Dark|Status|—|—|10|V=yes<!--level,tutor-->|VI=yes<!--level,tutor-->|VII=yes<!--level,tutor-->|x=yes}}
+{{learnlist/prevgen8|Liepard|5|Spite|Ghost|Status|—|100|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Liepard|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Liepard|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Liepard|Dark|Dark|5}}
+
+===Side game data===
+{{Spindata/Head|type=Dark}}
+{{Spindata/PSMD|col=6|type=Dark|ndex=510
+|coset=3
+|conto={{p|Mr. Mime}}
+|recruitment=Retrieve the Popular Ribbon from Liepard
+|P1=My charm is enough to knock out the teeth of any Pokémon! ♪ Figuratively, of course!
+|P2=Please, someone, do something… This is too much for me!
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Dark
+|att=3
+|def=2
+|speed=4
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Dark|ndex=510
+|walk=1.25
+|hp=52
+|attack=76
+|defense=48
+|speed=70
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Dark|ndex=510
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Dark|ndex=510|num=035
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Counterattack
+|skilldesc=Deals even more damage the more disruptions there are.
+|swapper=Swap++
+}}
+|-
+{{Spindata/GO|col=6|type=Dark|ndex=510
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=162
+|attack=187
+|defense=106
+|fast={{m|Charm}}, {{m|Snarl}}
+|special={{m|Gunk Shot}}, {{m|Play Rough}}, {{m|Dark Pulse}}, {{m|Payback}}{{tt|*|From April 12, 2021 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Dark|ndex=510|pdex=053
+|dex=Liepard dashes through [[Founja Jungle|the jungle]] with sinewy grace without making a sound. But it’s a fickle Pokémon and usually spends more of its time just loafing around.}}
+|}
+
+===Evolution data===
+{{evobox-2
+|pictype=art
+|type1=Dark
+|no1=0509
+|name1=Purrloin
+|type1-1=Dark
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 20}}
+|no2=0510
+|name2=Liepard
+|type1-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Dark}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=510}}
+{{Spritebox/6|ndex=510|crop=121}}
+{{Spritebox/7|ndex=510|crop=118}}
+{{Spritebox/8|ndex=510}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0510}}
+{{Spritebox/Footer|510|Liepard}}
+
+==In animation==
+===Main series===
+[[File:Liepard anime.png|thumb|250px|Liepard in {{aniseries|BW}}]]
+====Major appearances====
+Liepard was set to debut in [[BW023 (unaired)|the 23rd]] and [[BW024 (unaired)|24th]] episodes of {{aniseries|BW}}, under the ownership of [[Team Plasma]]. However, the episodes were [[Banned episodes|postponed indefinitely]] due to the {{wp|2011 Tōhoku earthquake and tsunami|Tōhoku earthquake and tsunami}}.
+
+Liepard made its official animated series debut in ''[[BW105|Lost at the League!]]'', under the ownership of [[Stephan]]. In [[BW106|the next episode]], it battled {{Ash}} at the [[Vertress Conference]], but lost to {{AP|Krookodile}}'s {{m|Dragon Claw}}.
+
+A Liepard appeared in ''[[BW117|Team Plasma's Pokémon Manipulation!]]'' and ''[[BW119|Meowth, Colress and Team Rivalry!]]'', under the ownership of [[Aldith]]. It was used to battle [[Jessie's Woobat]] and [[James's Amoonguss]]. In ''Meowth, Colress and Team Rivalry!'', Liepard and [[Barret]]'s {{p|Magnezone}} battled Jessie and James, but both were caught in their trap.
+
+{{tc|Team Plasma Grunt}}s own multiple Liepard, one of which appeared in ''[[BW118|Secrets From Out of the Fog!]]''. They made further appearances in ''[[BW120|Ash and N: A Clash of Ideals!]]'', ''[[BW121|Team Plasma and the Awakening Ceremony!]]'', and ''[[BW122|What Lies Beyond Truth and Ideals!]]''.
+
+In ''[[XY100|A Festival of Decisions!]]'', under the ownership of [[Shinobu]]. It was used to defend the [[Ninja Village]], and it was able to defeat a {{p|Houndoom}} with a {{m|Shadow Ball}}.
+
+In ''[[XY102|Meeting at Terminus Cave!]]'', [[Bryony]]'s Liepard battled [[Ash's Pikachu]] and {{AP|Greninja}}. It was eventually defeated by the latter when it transformed into its Ash-Greninja form. In ''[[XY133|Coming Apart at the Dreams!]]'', it was defeated in a battle with {{an|Clemont}}, [[Clembot]], and [[Meyer|Blaziken Mask]]'s Pokémon.
+
+A Liepard appeared in ''[[JN110|Narrowing the Chaser Chase!]]'', under the ownership of [[Lyla]]. She used it during the [[Project Mew]] [[Field Research|Trial Mission]] at [[Sea Mauville]].
+
+====Minor appearances====
+Multiple Liepard debuted in the opening sequence of ''[[M14|Black—Victini and Reshiram]]''.
+
+In ''[[M15|Kyurem VS. The Sword of Justice]]'', [[Misaki]]'s Liepard won against {{un|Kanata}}'s {{p|Herdier}} in the [[Roshan City]] [[Pokémon Center]]. Another Liepard appeared during the {{OBP|Swords of Justice|M15}} legend.
+
+In ''[[BW125|Cilan and the Case of the Purrloin Witness!]]'', a Trainer's Liepard was on the cruise ship. Another Liepard also appeared in a fantasy in the same episode.
+
+A Liepard appeared in ''[[HZ040|Farewell, Sprigatito?]]'' at [[Marnya's house]].
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW105|Liepard|Ash's Pokédex|Liepard, the Cruel Pokémon and the evolved form of Purrloin. Well-known for its beauty, Liepard uses the element of surprise when battling opponents, attacking before they can react.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon Black 2 and White 2 Animated Trailer===
+[[File:Team Plasma Liepard Scolipede B2W2 Trailer.png|thumb|250px|Liepard in the animated trailer]]
+In the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], a {{tc|Team Plasma Grunt}}'s Liepard surrounded {{ga|Nate}}, [[Hugh]], and [[Cheren]] aboard the [[Plasma Frigate]].
+
+===Pokémon Generations===
+[[File:Team Plasma Liepard PG.png|thumb|left|250px|Liepard in [[Pokémon Generations]]]]
+In ''[[PG13|The Uprising]]'', some {{tc|Team Plasma Grunt}}s used a Liepard to battle [[Iris]] and the [[Unova]] [[Gym Leader]]s at [[N's Castle]].
+
+In ''[[PG14|The Frozen World]]'', multiple Liepard owned by Team Plasma Grunts battled [[Drayden]]'s {{p|Haxorus}} alongside [[Zinzolin]]'s {{p|Cryogonal}} and {{p|Weavile}}.
+
+===Pokémon Masters Animated Trailer===
+[[File:Nanu Grimsley Masters Trailer.png|thumb|250px|Liepard (center right) in the [[Pokémon Masters Animated Trailer]]]]
+In the [[Pokémon Masters Animated Trailer]], {{mas|Grimsley}}'s Liepard was part of a team with its {{pkmn|Trainer}} and {{mas|Nanu}}.
+
+===GOTCHA!===
+A Liepard briefly appeared in [[GOTCHA!]], under the ownership of [[Grimsley]].
+{{-}}
+
+==In the manga==
+[[File:Liepard Adventures.png|thumb|230px|Liepard in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+In ''[[PS471|Battle at the Dreamyard]]'', {{adv|Black}} battled a Liepard using his {{p|Tepig}}, [[Tep]]. He was able to defeat it using {{m|Rock Smash}}.
+
+A Trainer's Liepard appeared in ''[[PS489|Drawing Bridges]]''.
+
+[[Team Flare]] scientist [[Bryony]] owns a Liepard in ''[[PS550|X-actly What They Wanted]]''.
+
+Multiple Liepard used by {{tc|Team Flare Grunt}}s first appeared in ''[[PS581|Rhyhorn Charges]]''.
+{{-}}
+
+==In the TCG==
+{{main|Liepard (TCG)}}
+
+==Trivia==
+* Liepard is the only Pokémon with a base stat total of 446.
+* Liepard shares its category with {{rf|Galarian}} {{p|Articuno}}. They are both known as the Cruel Pokémon.
+
+===Origin===
+Liepard has traits of housecats and {{wp|leopard}}s. It could also draw inspiration from spotted wildcats like the {{wp|leopard cat}}, {{wp|ocelot}}, and {{wp|serval}}. It may also be based on a {{wp|Savannah cat}}, a hybrid between a domestic cat and a serval. It also slightly resembles a {{wp|black leopard}}, because of its dark coloration and the fact that it has spots which can be seen if examined closely. Its fur pattern around its eyes, behavior, and feline influence suggests that it may also be based on a female thief, commonly known as a {{wp|Burglary|cat burglar}}.
+
+====Name origin====
+Liepard may be a combination of ''lie'' and ''leopard''.
+
+Lepardas may be a combination of ''leopard'' and λεόπαρδος ''leopardós'' (Ancient Greek for leopard) or ''leopardus'' (Latin for leopard).
+
+==In other languages==
+{{Other languages|type=Dark|type2=Dark
+|ja=レパルダス ''Lepardas''|jameaning=From ''leopard'' and {{tt|λεόπαρδος ''leópardos''|Ancient Greek for leopard}} or {{tt|''leopardus''|Latin for leopard}}
+|fr=Léopardus|frmeaning=From {{tt|''léopard''|leopard}} and {{tt|''leopardus''|Latin for leopard}}
+|es=Liepard|esmeaning=Same as English name
+|de=Kleoparda|demeaning=From ''{{wp|Cleopatra VII|Kleopatra}}'' and ''Leopard''
+|it=Liepard|itmeaning=Same as English name
+|ko=레파르다스 ''Lepardas''|komeaning=Transcription of Japanese name
+|zh_cmn=酷豹 ''Kùbào''|zh_cmnmeaning=From {{tt|酷 ''kù''|ruthless}} and {{tt|豹 ''bào''|leopard}}
+|zh_yue=酷豹 ''Huhkpaau''|zh_yuemeaning=From {{tt|酷 ''huhk''|ruthless}} and {{tt|豹 ''paau''|leopard}}
+|hi=तेंदुआस ''Tenduaas''|himeaning=From {{tt|तेंदुआ ''tenduaa''|panther/leopard}}
+|ru=Лайпард ''Laypard''|rumeaning=Transcription of English name
+|th=เลพัลดัส ''Lephandat''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=0509|prev=Purrloin|nextnum=0511|next=Pansage}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+
+[[de:Kleoparda]]
+[[es:Liepard]]
+[[fr:Léopardus]]
+[[it:Liepard]]
+[[ja:レパルダス]]
+[[zh:酷豹]]

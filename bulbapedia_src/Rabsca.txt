@@ -1,0 +1,336 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Rabsca}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0953|prev=Rellor|nextnum=0955|next=Flittle|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Rabsca
+|jname=ベラカス
+|jtranslit=Berakasu
+|tmname=Beracas
+|ndex=0954
+|type1=Bug
+|type2=Psychic
+|category=Rolling
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=7.7
+|weight-kg=3.5
+|abilityn=1
+|ability1=Synchronize
+|ability2=
+|abilityd=Telepathy
+|egggroupn=1
+|egggroup1=Bug
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=0
+|evsa=2
+|evsd=0
+|evsp=0
+|expyield=165
+|lv100exp=800000
+|gendercode=127
+|color=Green
+|catchrate=45
+|body=14
+|pokefordex=rabsca
+|generation=9
+|friendship=50
+}}
+'''Rabsca''' ([[List of Japanese Pokémon names|Japanese]]: '''ベラカス''' ''Beracas'') is a dual-type {{2t|Bug|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Rellor}} when [[level|leveled up]] while outside of its [[Poké Ball]] after the player walks 1000 [[step counting|steps]] using the [[Let's Go!]] feature.<ref>https://twitter.com/Sibuna_Switch/status/1678027317891694593</ref><ref>https://twitter.com/Sibuna_Switch/status/1680044846403272704</ref>
+
+==Biology==
+Rabsca is a teal, metallic, beetle-like Pokémon that perpetually floats upside down in the air. Its face is red, with a diamond-shaped nose, a white four-pointed star on its forehead, and long, prominent white hairs that extend past its body, resembling eyebrows and a mustache; the latter also somewhat resembles wings. Its eyes have pink sclerae and white pupils shaped like four-pointed stars, but they are usually closed. It has four limbs, each with three spike-like protruberances. It has four horn-like protrusions on its head, a zigzag pattern on its abdomen, and an elaborate pattern of red stripes on its back.
+
+Rabsca's hind legs hold a ball over its body. The double-layer ball is reddish pink with purple cloud-like masses surrounding it, and it can glow brightly, revealing a cocoon-like infant sleeping inside. Rabsca gently rolls the ball with its legs so that the infant inside can sleep comfortably. A hypothesis posits that the infant is actually Rabsca's true body, since the body that rolls the ball around barely moves. In [[Generation IX]], {{m|Speed Swap}} is its [[signature move]].
+
+<gallery>
+Rabsca back.png|Rabsca's back
+954Rabsca Dream 2.png|An infant inside Rabsca's ball
+</gallery>
+
+===Evolution===
+Rabsca evolves from {{p|Rellor}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Bug
+|type2=Psychic
+|no1=0953
+|name1=Rellor
+|type1-1=Bug
+|evo1=
+|no2=0954
+|name2=Rabsca
+|type1-2=Bug
+|type2-2=Psychic}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Psychic}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=255|reg2=Kitakami|reg3=Blueberry|num3=31}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{psychic color dark}}; background:#{{bug color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Rabsca SV.png|x200px]]
+|style="border:2px solid #{{bug color light}}; background:#{{bug color light}} | [[File:Pokédex Image Rabsca SV Blueberry.png|x200px]]
+|-
+| Rabsca in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Rabsca in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Psychic}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Rabsca|4★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Psychic
+|HP=75
+|Attack=50
+|Defense=85
+|SpAtk=115
+|SpDef=100
+|Speed=45
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Psychic
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=200
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Rabsca|Bug|Psychic|9}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level9|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Revival Blessing|Normal|Status|—|—|1}}
+{{learnlist/level9|4|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|7|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level9|11|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|15|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level9|20|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level9|24|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|29|Extrasensory|Psychic|Special|80|100|20||'''}}
+{{learnlist/level9|35|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/level9|40|Speed Swap|Psychic|Status|—|—|10}}
+{{learnlist/level9|40|Power Swap|Psychic|Status|—|—|10}}
+{{learnlist/level9|40|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/level9|45|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level9|50|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/levelf/9|Rabsca|Bug|Psychic|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Rabsca|Bug|Psychic|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM095|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM101|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM105|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM138|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM193|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM217|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tm9|TM218|Expanding Force|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10||'''}}
+{{learnlist/tmf/9|Rabsca|Bug|Psychic|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Rabsca|Bug|Psychic|9}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Cosmic Power|Psychic|Status|—|—|20|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Memento|Dark|Status|—|100|10|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Recover|Normal|Status|—|—|5|grid=2}}
+{{learnlist/breed9|{{bag/s|TM Normal|SV|TM193}}{{tt|*|No Pokémon in the Bug Egg Group can learn Weather Ball via level-up. However, the move is available via TM193 and can be passed down from Masquerain, Vivillon, Frosmoth, and the Rellor line, or copied via Mirror Herb.}}|Weather Ball|Normal|Special|50|100|10|grid=2}}
+{{learnlist/breedf/9|Rabsca|Bug|Psychic|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Rabsca|Bug|Psychic|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Rabsca|Bug|Psychic|9}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Psychic}}
+{{Spindata/GO|col=6|type=Bug|ndex=0954
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=181
+|attack=201
+|defense=178
+|fast={{m|Bug Bite}}, {{m|Confusion}}
+|special={{m|Dig}}, {{m|Bug Buzz}}, {{m|Lunge}}, {{m|Psybeam}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Bug
+|type2=Psychic
+|no1=0953
+|name1=Rellor
+|type1-1=Bug
+|evo1={{bag/s|Rare Candy|SV}} + [[File:Footwear icon.png|40px]]<br>{{color2|000|Level|Level up}}<br>whilst outside of its {{color2|000|Poké Ball}} after walking<br>1,000 {{color2|000|step counting|steps}} using the {{color2|000|Let's Go!}} feature
+|no2=0954
+|name2=Rabsca
+|type1-2=Bug
+|type2-2=Psychic
+}}
+
+===Sprites===
+{{Spritebox/Header|type=bug|type2=psychic}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0954}}-->
+{{Spritebox/HOME|ndex=0954}}
+{{Spritebox/Footer|954|Rabsca}}
+
+==In animation==
+===Main series===
+[[File:Explorers Rabsca.png|thumb|250px|Rabsca in {{aniseries|HZ}}]]
+====Major appearances====
+Rabsca debuted in [[HZ107]], where four assisted [[Indy]] and [[Rubella]] in their battle against [[Roy]] and [[Ult]].
+
+====Minor appearances====
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Rabsca (TCG)}}
+
+==Trivia==
+*The infant inside Rabsca's ball is present in Rabsca's in-game model, with a model of its own. It resembles a basic insect larva, distinct from Rellor.<ref> https://www.youtube.com/watch?v=tSHTyxLKUmQ</ref>
+
+===Origin===
+Rabsca appears to be based on a {{wp|Scarabaeidae|scarab beetle}}, particularly resembling the {{wp|Scarabaeus sacer|sacred scarab}}. It may also be based on {{wp|Khepri}}, an Egyptian scarab-faced god who represents the rising or morning sun, and by extension, creation and the renewal of life. This seems to be represented by Rabsca learning {{m|Revival Blessing}}.
+
+The grey moustache and hair Rabsca grows makes it resemble an old man, which invokes the idea of a {{wp|monk}} or {{wp|guru}} who has achieved {{wp|enlightenment (spiritual)|enlightenment}} through lifelong training and {{wp|meditation}} (which can even be done upside-down). The white star on Rabsca's forehead resembles an {{wp|Urna}}.
+
+According to the Pokédex, Rabsca's ball contains an infant — this appears to be a reference to dung beetles and some scarab beetles laying their eggs in a ball of dung to incubate them and feed the hatching larva. The ball being a red, translucent bubble suggests it is meant to be an {{wp|amniotic sac}}, a thin membrane that holds a fetus while it develops in the {{wp|uterus|womb}}.
+
+====Name origin====
+Rabsca may be derived from ''scarab'' with the syllables transposed. It may also pull from ''{{wp|Ra}}'', the Egyptian sun god sometimes associated with scarabs.
+
+Beracas may be derived from スカラベ ''sukarabe'' (scarab) spelled in reverse.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Psychic
+|ja=ベラカス ''Beracas''|jameaning=From {{tt|スカラベ ''sukarabe''|scarab}} spelled in reverse
+|fr=Bérasca|frmeaning=From {{wp|Verlan|{{tt|Verlan|youth language consisting of reversed words}}}} for ''{{tt|scarabée|scarab}}''
+|es=Rabsca|esmeaning=Same as English name
+|de=Skarabaks|demeaning=From ''{{tt|Skarabäus|scarab}}''
+|it=Rabsca|itmeaning=Same as English name
+|ko=베라카스 ''Berakaseu''|komeaning=From {{tt|스카라베 ''seukarabe''|scarab}} spelled in reverse
+|zh_cmn=蟲甲聖 / 虫甲圣 ''Chóngjiǎshèng''|zh_cmnmeaning=From {{tt|聖甲蟲 / 圣甲虫 ''shèngjiǎchóng''|scarab}} spelled in reverse
+|zh_yue=蟲甲聖 ''Chùhnggaapsing''|zh_yuemeaning=From {{tt|聖甲蟲 ''singgaapchùhng''|scarab}} spelled in reverse
+|hi=लारैबगु ''Laraibagu''|himeaning=From {{tt|गुबरैला ''gubrailā''|dung beetle}} spelled in reverse
+|th=เบราคาสุ ''Berakhasu''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0953|prev=Rellor|nextnum=0955|next=Flittle}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Skarabaks]]
+[[es:Rabsca]]
+[[fr:Bérasca]]
+[[it:Rabsca]]
+[[ja:ベラカス]]
+[[zh:虫甲圣]]

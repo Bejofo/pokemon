@@ -1,0 +1,352 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Skwovet}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0818|prev=Inteleon|nextnum=0820|next=Greedent|round=none}}
+{{PokémonPrevNext/Disambig|species=Skwovet}}
+|}
+{{Pokémon Infobox
+|name=Skwovet
+|jname=ホシガリス
+|tmname=Hoshigarisu
+|ndex=0819
+|type1=Normal
+|category=Cheeky
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=5.5
+|weight-kg=2.5
+|abilityn=d
+|ability1=Cheek Pouch
+|abilityd=Gluttony
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=1
+|evhp=1
+|expyield=55
+|lv100exp=1000000
+|gendercode=127
+|color=Brown
+|catchrate=255
+|body=06
+|pokefordex=skwovet
+|generation=8
+|friendship=50
+}}
+'''Skwovet''' ([[List of Japanese Pokémon names|Japanese]]: '''ホシガリス''' ''Hoshigarisu'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Greedent}} starting at [[level]] 24.
+
+==Biology==
+Skwovet is a {{wp|squirrel}}-like {{OBP|Pokémon|species}}. It is grayish-brown in color, with a large fluffy tail, which is dark-grayish-brown at the top. Skwovet has a light-grayish-brown underbelly, and the color extends to its mouth and parts of its cheeks. It has two orange freckles underneath each eye and an orange nose. Its ears are similar in color to its tail, and they have orange insides.
+
+Using its special cheeks, which can stretch to many times its normal volume, Skwovet can stuff a tremendous amount of food such as {{Berries}}. If it is feeling full, it can temporarily keep the extra food in its tail fur. Skwovet's habit of eating Berries nonstop has made it more resilient than it appears. If its cheeks are ever completely empty of Berries, it becomes very uneasy; it may even stuff its cheeks with pebbles if it can't find any Berries nearby. Skwovet will appear on farms, looking for more Berries to eat. When they are not eating Berries, they spit out the seeds in the rich soil in order to cultivate Berry trees. It has a habit of hiding and adding to its food storage, as it is always anxious about getting hungry. {{p|Gumshoos}} is its natural predator.
+
+Skwovet and its evolved form, {{p|Greedent}}, are the [[Signature move|only known Pokémon]] capable of learning the move {{m|Stuff Cheeks}} by leveling up.
+
+===Evolution===
+Skwovet evolves into {{p|Greedent}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0819
+|name1=Skwovet
+|type1-1=Normal
+|evo1=
+|no2=0820
+|name2=Greedent
+|type1-2=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/5|gen=VIII|reg1=Galar|num1=024|reg2=Galar|label2=Isle of Armor|num2=009|reg3=Galar|label3=Crown Tundra|num3=005|reg4=Sinnoh|reg5=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It eats berries nonstop—a habit that has made it more resilient than it looks. It'll show up on farms, searching for yet more berries.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=29|reg2=Kitakami|num2=72|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It stores berries in its cheeks. When there are no berries to be found, Skwovet will stuff pebbles into its cheeks to stave off its cravings.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=No matter how much it stuffs its belly with food, it is always anxious about getting hungry again. So, it stashes berries in its cheeks and tail.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Skwovet SV.png|x200px]]
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Skwovet SV Kitakami.png|x200px]]
+|-
+| Skwovet in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Skwovet in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Route]]s {{rtn|1|Galar}} and {{rtn|2|Galar}}, [[Slumbering Weald]]<br>[[Route]]s {{rtn|3|Galar}}, {{rtn|4|Galar}}, and {{rtn|5|Galar}}, [[Rolling Fields]], [[Motostoke Riverbank]], [[North Lake Miloch]], [[Dappled Grove]], [[Watchtower Ruins]] ([[Berry tree]]s)<br>[[Rolling Fields/Dens|Rolling Fields]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Bridge Field/Dens|Bridge Field]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])<br>{{DL|In-game trade|Pokémon Sword and Shield|Trade}} {{p|Bunnelby}} in [[Motostoke]]}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Stepping-Stone Sea]], [[Ballimere Lake]]<br>[[Fields of Honor]], [[Soothing Wetlands]], [[Challenge Beach]], [[Forest of Focus]], [[Training Lowlands]], [[Workout Sea]], [[Loop Lagoon]], [[Stepping-Stone Sea]], [[Insular Sea]], [[Slippery Slope]], [[Frostpoint Field]], [[Giant's Bed]], [[Giant's Foot]], [[Ballimere Lake]] ([[Berry tree]]s)<br>[[Slippery Slope/Dens|Slippery Slope]], [[Giant's Bed/Dens|Giant's Bed]], [[Giant's Foot/Dens|Giant's Foot]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Two)|Area Two]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Skwovet|1★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Reveler's Road]], [[Kitakami Hall]], [[Mossfell Confluence]], [[Wistful Fields]], [[Paradise Barrens]]}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Normal|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17, 30, 40, 50, 60|November 20 to 22, 2020|link=Wild Area News#November 20 to 22, 2020}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|60[[File:ShinyVIIIStar.png|20px]]|November 20 to 22, 2020|link=Wild Area News#November 20 to 22, 2020}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Normal}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items2|Oran Berry|5|Oran Berry|100|availNote2=[[In-game trade]],&#32;}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=FFF|tcolor2=FFF|Pokémon Scarlet and Violet}}
+{{HeldItems/Items2|Oran Berry|5|Leppa Berry|5|availNote2=[[The Hidden Treasure of Area Zero]] required,&#32;}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|HP=70
+|Attack=55
+|Defense=55
+|SpAtk=35
+|SpDef=35
+|Speed=25
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Skwovet|Normal|Normal|8}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|5|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|10|Stuff Cheeks|Normal|Status|—|—|10}}
+{{learnlist/level9|15|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/level9|15|Spit Up|Normal|Special|—|100|10||'''}}
+{{learnlist/level9|15|Swallow|Normal|Status|—|—|10}}
+{{learnlist/level9|20|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/level9|25|Rest|Psychic|Status|—|—|5}}
+{{learnlist/level9|30|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/level9|35|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/level9|40|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/level9|45|Belch|Poison|Special|120|90|10}}
+{{learnlist/levelf/9|Skwovet|Normal|Normal|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Skwovet|Normal|Normal|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Skwovet|Normal|Normal|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Skwovet|Normal|Normal|8}}
+{{learnlist/breed9|{{MSP/H|0335|Zangoose}}|Belly Drum|Normal|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0027|Sandshrew}}{{MSP/H|0027-Alola|Sandshrew}}{{MSP/H|0028|Sandslash}}{{MSP/H|0028-Alola|Sandslash}}{{MSP/H|0155|Cyndaquil}}{{MSP/H|0156|Quilava}}{{MSP/H|0157|Typhlosion}}{{MSP/H|0157|Typhlosion|form=-Hisui}}{{MSP/H|0161|Sentret}}{{MSP/H|0162|Furret}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0231|Phanpy}}{{MSP/H|0232|Donphan}}{{MSP/H|0498|Tepig}}{{MSP/H|0499|Pignite}}{{MSP/H|0500|Emboar}}{{MSP/H|0775|Komala}}|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0231|Phanpy}}{{MSP/H|0417|Pachirisu}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/breed9|{{MSP/H|0027|Sandshrew}}{{MSP/H|0027-Alola|Sandshrew}}{{MSP/H|0028|Sandslash}}{{MSP/H|0028-Alola|Sandslash}}{{MSP/H|0155|Cyndaquil}}{{MSP/H|0156|Quilava}}{{MSP/H|0157|Typhlosion}}{{MSP/H|0157|Typhlosion|form=-Hisui}}{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0231|Phanpy}}{{MSP/H|0232|Donphan}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0498|Tepig}}{{MSP/H|0499|Pignite}}{{MSP/H|0500|Emboar}}{{MSP/H|0650|Chespin}}{{MSP/H|0651|Quilladin}}{{MSP/H|0652|Chesnaught}}{{MSP/H|0775|Komala}}{{MSP/H|0878|Cufant}}{{MSP/H|0879|Copperajah}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breedf/9|Skwovet|Normal|Normal|8}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|}}
+{{Spindata/GO|col=6|type=Normal|ndex=819
+|egg=N/A
+|buddy=1
+|candy=Skwovet
+|evocandy=50
+|stamina=172
+|attack=95
+|defense=86
+|fast={{m|Tackle}}, {{m|Bite}}, {{m|Bullet Seed}}
+|special={{m|Body Slam}}, {{m|Crunch}}, {{m|Trailblaze}}{{tt|*|From September 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0819
+|name1=Skwovet
+|type1-1=Normal
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 24}}
+|no2=0820
+|name2=Greedent
+|type1-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=819}}
+<!--{{Spritebox/9|ndex=0819}}-->
+{{Spritebox/HOME|ndex=0819}}
+{{Spritebox/Footer|819|Skwovet}}
+
+==In animation==
+===Main series===
+[[File:Skwovet anime.png|thumb|250px|Skwovet in {{aniseries|HZ}}]]
+====Major appearances====
+=====[[Goh's Skwovet]]=====
+Skwovet debuted in ''[[JN013|The Climb to Be the Very Best!]]'', where it was lured in by {{Ash}}'s scones and then {{pkmn2|caught}} by [[Goh]]. In ''[[JN047|Crowning the Chow Crusher!]]'', it evolved into a Greedent.
+
+====Minor appearances====
+Two Skwovet appeared in ''[[JN046|Getting More Than You Battled For!]]''.
+
+A Skwovet appeared in ''[[M23|Secrets of the Jungle]]''.
+
+In ''[[JN050|A Pinch of This, a Pinch of That!]]'', two Skwovet were seen in the [[Wild Area]].
+
+A {{pkmn|Trainer}}'s Skwovet appeared in ''[[JN073|Grabbing the Brass Ring!]]''.
+
+A Skwovet appeared in ''[[JN137|The Road Most Traveled!]]''.
+
+A Trainer's Skwovet appeared in ''[[HZ008|The Door That Never Opens]]''.
+
+A Skwovet appeared in ''[[HZ019|The Bittersweet Truth]]''.
+
+Multiple Skwovet appeared in ''[[HZ027|As Long as I'm with My Friends]]''.
+
+A Trainer's Skwovet appeared in ''[[HZ063|Ice Battle! Cold-Eyed Grusha]]'', during a flashback.
+
+Three Skwovet appeared in [[HZ109]].
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN013|Skwovet|Goh's Rotom Phone|Skwovet, the Cheeky Pokémon. A {{t|Normal}} type. Skwovet keeps {{Berries}} in its cheeks, but if its stomach is already full, it can temporarily store food in the tufts of fur on its tail.}}
+{{Animedexbody|JN023|Skwovet|Goh's Rotom Phone|Skwovet, the Cheeky Pokémon. A {{t|Normal}} type. Hiding and building up food stores is Skwovet's signature behavior.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon: Twilight Wings===
+[[File:Schoolboy Schoolgirl Youngster Twilight Wings.png|thumb|250px|Skwovet in [[Pokémon: Twilight Wings]]]]
+Two Skwovet appeared in ''[[TW03|Buddy]]'', with one under the ownership of a {{tc|Schoolgirl}} and the other under the ownership of a Trainer.
+
+===POKÉTOON===
+A Skwovet appeared in ''[[PT07|Snorunt's Summer Vacation]]''.
+
+Two Skwovet living at the [[Safari Zone]] appeared in [[PT14]].
+
+===Pokémon: Paldean Winds===
+A Trainer's Skwovet appeared in a photograph in ''[[PPW01|Breathe Out]]''.
+{{-}}
+
+==In the manga==
+[[File:Skwovet Adventures.png|thumb|250px|Skwovet in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Skwovet debuted in a flashback in ''[[PASS05|Ooh Shiny!! Legendary Equipment]]'', where it was in the [[Slumbering Weald]].
+
+Multiple Skwovet appeared in ''[[PASS34|BAAM!! Incredible Evolution of the Three Pokémon]]''.
+{{-}}
+
+==In the TCG==
+{{main|Skwovet (TCG)}}
+==Trivia==
+[[File:Company Icon No. 1 Pharmacy.png|thumb|150px|Icon for No. 1 Pharmacy]]
+* The company logo for [[Poké Job|No. 1 Pharmacy]] depicts a Skwovet.
+
+===Origin===
+Skwovet appears to be based on an {{wp|Eastern gray squirrel}}, an {{wp|invasive species}} in {{wp|Great Britain}}. Its {{Shiny}} coloration may allude to the {{wp|Eurasian red squirrel}}, which, in real life, is {{wp|Endangered species|endangered}} in the United Kingdom, Italy, and Ireland.
+
+====Name origin====
+Skwovet may be a combination of ''squirrel'' and ''covet''.
+
+Hoshigarisu may be a combination of 欲しがる ''hoshigaru'' (to desire) and 栗鼠 ''risu'' (squirrel).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ホシガリス ''Hoshigarisu''|jameaning=From {{tt|欲しがる ''hoshigaru''|to desire}} and {{tt|栗鼠 ''risu''|squirrel}}
+|fr=Rongourmand|frmeaning=From ''{{tt|ronger|to gnaw}}'' or ''{{tt|rongeur|rodent}}'' and ''gourmand''
+|es=Skwovet|esmeaning=Same as English name
+|de=Raffel|demeaning=From ''{{tt|raffgierig|greedy}}'' or ''{{tt|raffen|to snatch}}'' and ''squirrel''
+|it=Skwovet|itmeaning=Same as English name
+|ko=탐리스 ''Tamrisu''|komeaning=From {{tt|탐 (貪) ''tam''|greedy}} and a partial transcription of its Japanese name
+|zh_cmn=貪心栗鼠 / 贪心栗鼠 ''Tānxīnlìshǔ''|zh_cmnmeaning=From {{tt|貪心 / 贪心 ''tānxīn''|greedy}} and {{tt|栗鼠 ''lìshǔ''|chipmunk, squirrel}}
+|zh_yue=貪心栗鼠 ''Tāamsāmleuhtsyú''|zh_yuemeaning=From {{tt|貪心 ''tāamsām''|greedy}} and {{tt|栗鼠 ''leuhtsyú''|chipmunk, squirrel}}
+|hi=गिगोलू ''Gigoloo''|himeaning=From {{tt|गिलहरी ''gilahrī''|squirrel}} and {{tt|गोल ''gol''|round/circular}}; possible also from ''giggle''
+|th=โฮชิกะริสึ ''Hochikarisue''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Goh's Skwovet]]
+* [[Greedent (UNITE)]]
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0818|prev=Inteleon|nextnum=0820|next=Greedent}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Raffel]]
+[[es:Skwovet]]
+[[fr:Rongourmand]]
+[[it:Skwovet]]
+[[ja:ホシガリス]]
+[[zh:贪心栗鼠]]

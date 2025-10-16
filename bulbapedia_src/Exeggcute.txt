@@ -1,0 +1,653 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Exeggcute}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0101|prev=Electrode|nextnum=0103|next=Exeggutor|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Exeggcute
+|jname=タマタマ
+|tmname=Tamatama
+|ndex=0102
+|type1=Grass
+|type2=Psychic
+|category=Egg
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=5.5
+|weight-kg=2.5
+|abilityn=d
+|ability1=Chlorophyll
+|abilityd=Harvest
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=1
+|evde=1
+|expyield=65
+|oldexp=98
+|lv100exp=1,250,000
+|gendercode=127
+|color=Pink
+|catchrate=90
+|body=11
+|pokefordex=exeggcute
+|generation=1
+|friendship=70
+}}
+'''Exeggcute''' ([[List of Japanese Pokémon names|Japanese]]: '''タマタマ''' ''Tamatama'') is a dual-type {{2t|Grass|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Exeggutor}} when exposed to a [[Leaf Stone]].
+
+In [[Alola]], Exeggcute will evolve into {{rf|Alolan}} Exeggutor when exposed to a Leaf Stone.
+
+==Biology==
+Exeggcute is a {{OBP|Pokémon|species}} resembling a group of six light pink "eggs", usually seen arranged with five heads huddled around a sixth. Each "head" has a slightly different facial expression, but each face has triangular eyes with tiny black pupils and a small mouth. Each shell has some cracks, and one member of the bundle usually has its yellow insides or brain exposed. More numerous cracks are a sign that it is close to [[Evolution]]. Despite looking like eggs, Exeggcute is actually more closely related to {{wp|seed|plant seeds}}. It is believed to carry genes of plants and other species.
+
+Exeggcute gather in swarms of six. The heads communicate with each other by using a form of telepathy that only they can understand. Should the number of Exeggcute be reduced to less than six, the remaining Exeggcute will attempt to replace it with a similarly sized Pokémon as seen in the [[Pikachu short]] ''[[PK04|Pikachu's Rescue Adventure]]''. It needs six Exeggcute in order to stay balanced or else it becomes nervous and cowardly. {{p|Pidgeotto}} and {{p|Crabrawler}} are its natural predators, which it chases off with psychokinesis. Exeggcute inhabits {{DL|List of Pokémon by habitat|Forest Pokémon|jungles and forests}}. Exeggcute in the [[Alola]] region tend to be heavier than those from elsewhere. This is due to the shells being packed full.
+
+Exeggcute and its evolved form, {{p|Exeggutor}}, are the [[Signature move|only known Pokémon]] capable of learning the move {{m|Barrage}}.
+
+===Evolution===
+Exeggcute evolves into {{p|Exeggutor}}.
+
+In [[Alola]], it evolves into {{rf|Alolan}} Exeggutor.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Grass
+|type2=Psychic
+|no1=0102
+|name1=Exeggcute
+|type1-1=Grass
+|type2-1=Psychic
+|evo1a=
+|no2a=0103
+|name2a=Exeggutor
+|type1-2a=Grass
+|type2-2a=Psychic
+|evo1b=
+|art2b=0103Exeggutor-Alola
+|no2b=0103
+|name2b=Exeggutor
+|form2b=Alolan Form
+|type1-2b=Grass
+|type2-2b=Dragon}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Psychic}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=102}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.}}
+{{Dex/Entry1|v=Yellow|entry=The heads attract each other and spin around. There must be 6 heads for it to maintain balance.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=A Pokémon that is like the seeds of a plant. If you find one and chase it, others will join it without you noticing.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=104}}
+{{Dex/Entry1|v=Gold|entry=The shell is very durable. Even if it cracks, it can survive without spilling the contents.}}
+{{Dex/Entry1|v=Silver|entry=Using telepathy only they can receive, they always form a cluster of six <sc>Exeggcute</sc>.}}
+{{Dex/Entry1|v=Crystal|entry=If even one is separated from the group, the energy bond between the six will make them rejoin instantly.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=The shell is very durable. Even if it cracks, it can survive without spilling the contents. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Using telepathy only they can receive, they always form a cluster of six <sc>Exeggcute</sc>. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=102}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=This {{ScPkmn}} consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, <sc>Exeggcute</sc> is close to evolution.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.}}
+{{Dex/Entry1|v=FireRed|entry=Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.}}
+{{Dex/Entry1|v=LeafGreen|entry=It is often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=105}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its six eggs converse using telepathy. They can quickly gather if they become separated.}}
+{{Dex/Entry1|v=HeartGold|entry=Their shells are very durable. Even if they crack, they can survive without spilling their contents.}}
+{{Dex/Entry1|v=SoulSilver|entry=Using telepathy only they can employ, they always form a cluster of six <sc>Exeggcute</sc>.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its six eggs converse using telepathy. They can quickly gather if they become separated.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its six eggs converse using telepathy. They can quickly gather if they become separated.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=136|label1=Coastal|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its six eggs converse using telepathy. They can quickly gather if they become separated.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=269|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=355|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=102}}
+{{Dex/Entry1|v=Sun|entry=Its six eggs use telepathy to communicate among themselves. It is believed to carry plant genes and the genes of other species.}}
+{{Dex/Entry1|v=Moon|entry=Six of them together form a full-fledged Pokémon. It's often hunted by {{p|Crabrawler}}, but uses psychokinesis to drive it off.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Six of them form a single Pokémon. Should one of the six be lost, the next morning there will once more be six.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Although they are the same size as other Exeggcute, the ones produced in Alola are quite heavy. Their shells are packed full.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=The heads attract each other and spin around. There must be six heads for it to maintain balance.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|label1=Isle of Armor|num1=205|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Though it may look like it's just a bunch of eggs, it's a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=These Pokémon get nervous when they're not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Its six eggs converse using telepathy. They can quickly gather if they become separated.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=3}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=If you touch one of Exeggcute’s heads, mistaking it for an egg, the other heads will quickly gather and attack you in a swarm.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Using telepathy only fellow Exeggcute can pick up on, they always form a cluster of six.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{psychic color dark}}; background:#{{grass color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{psychic color dark}}; background:#{{grass color light}};" | [[File:Pokédex Image Exeggcute SM.png|x200px]]
+| style="border:2px solid #{{psychic color dark}}; background:#{{grass color light}}; {{roundy|5px}};" | [[File:Pokédex Image Exeggcute SV Blueberry.png|x200px]]
+|-
+| Exeggcute in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Exeggcute in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Psychic}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{safari|Kanto}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{safari|Kanto}}}}
+{{Availability/Entry1|v=Yellow|area={{safari|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}, [[Azalea Town]], [[Ilex Forest]], [[Lake of Rage]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|29|Johto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, {{rtn|39|Johto}}, and {{rtn|43|Johto}}, [[Lake of Rage]] ([[Headbutt tree]]s)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{safari|Kanto}}, [[Berry Forest]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Great Marsh]] (after obtaining [[National Pokédex]])}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]] (after obtaining [[National Pokédex]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|29|Johto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, {{rtn|39|Johto}}, {{rtn|43|Johto}}, {{rtn|47|Johto}}, and {{rtn|48|Johto}}, [[New Bark Town]], [[Cherrygrove City]], [[Violet City]], [[Ecruteak City]], [[National Park]], [[Lake of Rage]], [[Safari Zone Gate]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Big Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|18|Unova}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|12|Kalos}}, [[Azure Bay]]}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ancient Poni Path]], [[Exeggutor Island]], [[Poni Wilds]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Exeggutor Island]]}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area={{rt|23|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Insular Sea]], [[Stepping-Stone Sea]], [[Workout Sea]]<br>[[Soothing Wetlands/Dens|Soothing Wetlands]], [[Forest of Focus/Dens|Forest of Focus]], [[Challenge Beach/Dens|Challenge Beach]], [[Training Lowlands/Dens|Training Lowlands]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Great Marsh]] (after obtaining [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]], [[Coastal Biome]], [[Torchlit Labyrinth]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Blueberry Academy)|Exeggcute|1★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Psychic}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Blue Field]]: [[Fuchsia City|Fuchia City]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area={{OBP|Viridian Forest|Channel}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 6]], [[Secret Storage 17]], Endless Level 19, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Howling Forest]] (14F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lush Prairie]] (1F-5F), [[Mystifying Forest]] (1F-13F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lush Prairie]] (1F-5F), [[Mystifying Forest]] (1F-13F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie]] <small>(Normal Mode B)</small>}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Cheerful Meadow]] (1F-11F)}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#Guided by Pichu|Toy Collection: Guided by Pichu]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 3|Infinite Ruins: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Surveillance Dunes|Starlight Islands: Surveillance Dunes]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Snorlax Sea]], [[Rowlet Sea]], [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Rowlet Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD red color}}|area=[[Tiny Woods]] (1F-3F), [[Howling Forest]] (1F-2F),  [[Purity Forest]] (1F-3F), [[Oddity Cave]] (5F-6F), [[Remains Island]] (5F-6F), [[Marvelous Sea]] (5F-6F), [[Fantasy Strait]] (5F-6F)<br/>Mystery House: [[Waterfall Pond]]<br/>[[Mystery_dungeon#Strong_Foes|Strong Foe]]: [[Wyvern Hill]] (10F-24F){{shinystar}}}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 323]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area={{sync/player|egg|Exeggcute}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Grass|type2=Psychic}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Sweet Scent Exeggcute|English|United States|5|November 29 to December 5, 2002|link=List of PCNY event Pokémon distributions in Generation II#Sweet Scent Exeggcute}}
+{{eventAvail|{{gameabbrev3|FRLG}}|Pokémon Center New York Wish Egg Exeggcute|English|United States|5|December 16, 2004 to January 2, 2005|link=List of PCNY event Pokémon distributions in Generation III#Exeggcute}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Grass|type2=Psychic}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Items1|Psychic Seed|5|rows=2}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Psychic Seed|5|rows=2|availNote=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Psychic
+|HP=60
+|Attack=40
+|Defense=80
+|SpAtk=60
+|SpDef=45
+|Speed=40
+|Special=60
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|type2=Psychic
+|Speed=3
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=4
+|Jump=2
+|JumpMax=3}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Psychic
+|Normal=100
+|Flying=200
+|Fighting=50
+|Ground=50
+|Rock=100
+|Bug=400
+|Poison=200
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=50
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|gen1psychic=yes
+|oldghost=0}}
+
+===Learnset===
+Exeggcute is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Exeggcute|Grass|Psychic|1}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|1|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level9|5|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/level9|10|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level9|15|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|20|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level9|25|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/level9|30|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|35|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|40|Extrasensory|Psychic|Special|80|100|20||'''}}
+{{learnlist/level9|45|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level9|50|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/level9|55|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/levelf/9|Exeggcute|Grass|Psychic|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Exeggcute|Grass|Psychic|1}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10||'''}}
+{{learnlist/tmf/9|Exeggcute|Grass|Psychic|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Exeggcute|Grass|Psychic|2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Block|Normal|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0842|Appletun}}{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0192|Sunflora}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0459|Snover}}{{MSP/H|0460|Abomasnow}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}|Moonlight|Fairy|Status|—|—|5}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0948|Toedscool}}{{MSP/H|0949|Toedscruel}}|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0071|Victreebel}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/breed9|{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0187|Hoppip}}{{MSP/H|0188|Skiploom}}{{MSP/H|0189|Jumpluff}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0948|Toedscool}}{{MSP/H|0949|Toedscruel}}|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/breedf/9|Exeggcute|Grass|Psychic|2}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Psychic}}
+{{Spindata/Pinball|col=3|type=Grass|ndex=102|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=102|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=102
+|body=1
+|rate=6
+|area=Jungle
+|P1=Don't make fun of us because we look like eggs!
+|P2=Ouch... Our health is down to half.
+|P3=We've had it. There's no power left.
+|PL=We leveled up! Let's go for it!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=102
+|body=1
+|rate=6
+|IQ=B
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=102
+|coset=3
+|conto={{p|Dodrio}}, {{p|Shuckle}}, {{p|Watchog}}
+|recruitment=Find Exeggcute's precious belonging
+|P1=We happen to be together by chance. That's all!
+|P2=Is everyone OK? I'm not… Me neither… Me? I'm done for…
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=102
+|walk=1.67
+|hp=51
+|attack=69
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=102
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=102|num=428
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Crowd Control
+|skilldesc=Increases damage when there are more Exeggcute in the puzzle area.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=102
+|hatch=N/A{{tt|*|5&nbsp;km Eggs obtained prior to February 8, 2017 can hatch into Exeggcute}}
+|buddy=3
+|candy=Exeggcute
+|evolution=<br>{{MSP/GO|0103|Exeggutor|size=40}} ← {{Candy|Exeggcute}}50<br>{{MSP/GO|0103A|Exeggutor|Alolan Form|size=40}} ← {{Candy|Exeggcute}}50{{tt|*|Only during the Limited Research Day 'An Egg-citing Spring Surprise'}}
+|stamina=155
+|attack=107
+|defense=125
+|fast={{m|Confusion}}, {{m|Bullet Seed}}{{tt|*|From February 16, 2017 onward}}
+|special={{m|Seed Bomb}}, {{m|Psychic}}, {{m|Ancient Power}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox/1branch2
+|type1=Grass
+|type2=Psychic
+|no1=0102
+|name1=Exeggcute
+|type1-1=Grass
+|type2-1=Psychic
+|evo1a={{Bag/s|Leaf Stone|SV}}<br>{{color2|000|Leaf Stone}}<br>outside of {{color2|000|Alola}}
+|no2a=0103
+|name2a=Exeggutor
+|type1-2a=Grass
+|type2-2a=Psychic
+|evo1b={{Bag/s|Leaf Stone|SV}} + [[File:Alola Champion Ribbon VIII.png|40px|link=Alola]]<br>{{color2|000|Leaf Stone}}<br>in {{color2|000|Alola}}
+|art2b=0103Exeggutor-Alola
+|no2b=0103
+|name2b=Exeggutor
+|form2b=Alolan Form
+|type1-2b=Grass
+|type2-2b=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Psychic}}
+{{Spritebox/1|ndex=102}}
+{{Spritebox/2|ndex=102}}
+{{Spritebox/3|ndex=102}}
+{{Spritebox/4|ndex=102}}
+{{Spritebox/5|ndex=102}}
+{{Spritebox/6|ndex=102|crop=82}}
+{{Spritebox/7/PE|ndex=102|crop=80|PEcrop=160}}
+{{Spritebox/8|ndex=102}}
+<!--{{Spritebox/9|ndex=0102}}-->
+{{Spritebox/HOME|ndex=0102}}
+{{Spritebox/Footer|102|Exeggcute}}
+
+==In animation==
+===Main series===
+[[File:Goh Exeggcute.png|thumb|250px|Exeggcute in {{aniseries|JN}}]]
+====Major appearances====
+In ''[[EP043|The March of the Exeggutor Squad]]'', on [[Melvin]]'s orders, an Exeggcute managed to hypnotize {{Ash}}, and Melvin forced him to {{pkmn2|caught|catch}} a group of Exeggutor. Melvin's Exeggcute later managed to [[Evolution|evolve]] without using a [[Leaf Stone]].
+
+In ''[[PK04|Pikachu's Rescue Adventure]]'', {{AP|Pikachu}} and his friends, plus an {{p|Elekid}}, found [[Misty's Togepi]] hanging around an Exeggcute, which was missing a member of its batch. It evolved when all of the eggs were put back together while standing on a Leaf Stone.
+
+====Minor appearances====
+Exeggcute debuted in ''[[EP026|Pokémon Scent-sation!]]'', as one of the Pokémon that [[Erika]] keeps in the [[Celadon Gym]].
+
+An Exeggcute appeared in a photo in ''[[EP057|The Breeding Center Secret]]''.
+
+In ''[[EP064|It's Mr. Mime Time]]'', [[Stella]] used an Exeggcute for her circus.
+
+In ''[[EP065|Showdown at the Po-ké Corral]]'', multiple Exeggcute were living at [[Professor Oak's Laboratory]].
+
+In ''[[EP156|The Psychic Sidekicks!]]'', an Exeggcute was living in [[Len Town]].
+
+In ''[[EP229|An EGG-sighting Adventure!]]'', multiple Exeggcute were seen in their nests.
+
+An Exeggcute appeared in ''[[AG155|The Green Guardian]]''.
+
+An Exeggcute appeared in ''[[DP091|One Team, Two Team, Red Team, Blue Team!]]''.
+
+A Trainer's Exeggcute appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+In ''[[SM042|Alola, Kanto!]]'', five {{pkmn2|wild}} Exeggcute were at Professor Oak's Laboratory.
+
+In ''[[SM044|A Dream Encounter!]]'', an Exeggcute starred in a video advertising [[Aether Paradise]]. It reappeared alongside three others in ''[[SM046|Deceiving Appearances!]]''. In ''[[SM049|Mission: Total Recall!]]'', one of the quartet was on a video screen at Aether Paradise. Another reappeared in ''[[SM096|Don't Ignore the Small Stufful!]]''.
+
+Five Exeggcute appeared in ''[[SM090|Securing the Future!]]'', with two under the ownership of different Trainers and the other three being wild. They joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|true form}}.
+
+An Exeggcute appeared in a flashback in ''[[JN001|Enter Pikachu!]]''.
+
+In ''[[JN021|Caring for a Mystery!]]'', [[Goh]] caught an {{DL|List of Goh's Pokémon|Exeggutor|Exeggcute}} after he and Ash mistook it for a [[Pokémon Egg]]. It made further appearances in {{aniseries|JN}} and evolved into an Exeggutor in ''[[JN037|That New Old Gang of Mine!]]''.
+
+An Exeggcute appeared in ''[[M23|Secrets of the Jungle]]''.
+
+A {{pkmn|Coordinator}}'s Exeggcute appeared on television in ''[[JN074|Nightfall? Nightmares!]]''.
+
+An Exeggcute appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP043|Exeggcute|Ash's Pokédex|Exeggcute, an Egg Pokémon. Although it resembles an egg, it is known to be more closely related to the seed of a plant.}}
+{{Animedexfooter/Pokémon|Kanto}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN021|Exeggcute|Goh's Rotom Phone|Exeggcute, the Egg Pokémon. A {{t|Grass}} and {{t|Psychic}} type. Exeggcute is made up of six eggs that communicate with each other using telepathy.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', an Exeggcute briefly appeared under the ownership of a {{pkmn|Trainer}} in [[Ecruteak City]].
+
+==In the manga==
+[[File:Gold Exeggcute Adventures.png|thumb|250px|Exeggcute in [[Pokémon Adventures]]]]
+===Pocket Monsters DP===
+An Exeggcute appeared in [[PMDP16]].
+
+===Pokémon Adventures===
+Exeggcute debuted in ''[[PS021|Long Live the Nidoking!]]'', where it was one of the Pokémon at [[Fuchsia City]]'s {{safari|Kanto}}. In ''[[PS022|A Hollow Victreebel]]'', multiple Exeggcute were {{pkmn2|caught}} by {{adv|Red}} off-panel.
+
+{{adv|Bill}} owns an Exeggcute, which first appeared in ''[[PS075|Electrode's Big Shock]]''. In ''[[PS117|Slugging It Out with Slugma]]'', it appeared again with its {{pkmn|Trainer}} when he was talking to {{adv|Professor Oak}}. However, it kept being a nuisance during the conversation along with Bill's {{p|Vulpix}}. Prior to ''[[PS276|My, My, My Mimic]]'', it evolved into {{p|Exeggutor}}.
+
+An Exeggcute appeared in ''[[PS091|Murkrow Row]]'' as one of the residents of {{adv|Gold}}'s house. However, it only has five eggs instead of six, and none of them have any cracks.
+
+An Exeggcute appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+An Exeggcute appeared in ''[[PS442|Out-Odding Oddish]]'', under the ownership of a [[Pokéathlon]] participant.
+
+===Pokémon Gold & Silver: The Golden Boys===
+An Exeggcute appeared in ''[[GB16|The New Pokémon Is Hatched!!]]''.
+
+===Pokémon: Yeah! I Got Pokémon!===
+Multiple Exeggcute appeared in [[GDZ34]].
+
+Multiple Exeggcute appeared in [[GDZ65]].
+
+===Pokémon Pocket Monsters===
+{{PPM|Red}} received an Exeggcute from {{PPM|Professor Oak}} in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]''. He was shown to have another one in ''[[PM042|Red VS Green?!]]''.
+
+===Pokémon Ruby-Sapphire===
+An Exeggcute appeared in ''[[PMRS39|Pokémon New Year]]''.
+
+==In the TCG==
+{{main|Exeggcute (TCG)}}
+
+==Trivia==
+* Exeggcute shares its {{pkmn|category}} with {{p|Chansey}}. They are both known as the Egg Pokémon.
+* Despite being able to learn {{m|Solar Beam}} by level up, Exeggcute cannot learn it by TM in [[Generation I]].
+* Despite consisting of six individuals from different births and having separate identities, all six merge during Evolution to form a single Exeggutor.<ref>https://www.youtube.com/watch?v=Krm9t6tk3Nc A scene from ''[[Pokémon the Series]]'' featuring an evolving Exeggcute.</ref>
+* Exeggcute and Kantonian Exeggutor are the only {{type|Psychic}} Pokémon in the {{egg3|Grass}}.
+* The size and crack patterns on the “leader” Exeggcute is inconsistent between games. In Red and Blue only, the “leader” is disproportionately larger compared to any other games which has it relatively consistent in size. The crack pattern is absent on the “leader” in all the Generation IV and V sprites while there is an additional lower crack under its left eye in Pokémon Ruby, Sapphire and Emerald. In its {{file|102Exeggcute Dream.png|Dream World}} and {{file|0102Exeggcute.png|official art}}, the crack is absent.
+
+===Origin===
+Exeggcute may be based on both plant {{wp|seed}}s and a clutch of {{wp|egg}}s. It may also draw inspiration from {{wp|coconut}}s, considering Exeggutor's resemblance to a {{wp|palm tree}} and the fact that Exeggcute is hunted by {{p|Crabrawler}}, which may be based on a {{wp|coconut crab}}. It is possibly a visual pun on an {{wp|eggplant}}, though it may also have been inspired by the "Egg Yolk" {{wp|tomato}}, or the {{wp|Nidulariaceae|bird's nest fungi}}. Their {{t|Psychic}} type may come from the idea of {{wp|telepathy}} making them coordinate and act as one being or from  {{wp|oomancy}}, a type of {{wp|divination}} done using egg whites.
+
+====Name origin====
+Exeggcute may be a combination of ''execute'', ''egg'', and ''cute''.
+
+Tamatama may be derived from 玉子 ''tamago'' (egg), as well as being a play on 偶々 ''tamatama'' (unexpectedly).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Psychic
+|ja=タマタマ ''Tamatama''|jameaning=From {{tt|玉子 ''tamago''|egg}} and {{tt|偶々 ''tamatama''|unexpected}}
+|fr=Noeunoeuf<br>Noeufnoeuf{{tt|*|TCG (EX FireRed & LeafGreen)}}<br>Nœufnœuf{{tt|*|TCG (Jungle - Aquapolis)}}|frmeaning=From ''{{tt|œuf|egg}}'' repeated<br>Misspelling of ''Noeunoeuf''<br>Misspelling of ''Noeunoeuf''
+|es=Exeggcute|esmeaning=Same as English name
+|de=Owei|demeaning=From ''{{tt|ovum|Latin for egg}}'' and ''{{tt|Ei|egg}}'', as well as being a play on ''{{tt|O wei!|Oh dear!}}''
+|it=Exeggcute|itmeaning=Same as English name
+|ko=아라리 ''Arari''|komeaning=From {{tt|알 ''al''|egg}}
+|zh_cmn=蛋蛋 ''Dàndàn''|zh_cmnmeaning=From {{tt|蛋 ''dàn''|egg}} repeated
+|zh_yue=蛋蛋 ''Daahndaahn''|zh_yuemeaning=From {{tt|蛋 ''daahn''|egg}} repeated
+|hi=एगोला ''Eggola''|himeaning=From ''egg'' and {{tt|गोला ''gola''|circle/ball}}
+|is=Aflífa{{tt|*|in the sub of Pikachu's Rescue Adventure}}|ismeaning=From {{tt|''aflífa''|to put to sleep, to put down, to kill (an animal)}}
+|ru=Эксегкьют ''Eksegk'yut''|rumeaning=Transcription of English name
+|th=ทามะทามะ ''Thamathama''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references/>
+
+==Related articles==
+* [[Pokémon fusion]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0101|prev=Electrode|nextnum=0103|next=Exeggutor}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve by Evolution stone]]
+[[Category:Pokémon that evolve using Leaf Stone]]
+[[Category:Pokémon with cross-generational Evolutions]]<!--Alolan Exeggutor-->
+[[Category:Pokémon with Alola-exclusive Evolutions]]<!--Alolan Exeggutor-->
+[[Category:Pokémon that lose a type upon evolving]]<!--Alolan Exeggutor-->
+[[Category:Pokémon with branched Evolutions]]
+
+[[de:Owei]]
+[[es:Exeggcute]]
+[[fr:Noeunoeuf]]
+[[it:Exeggcute]]
+[[ja:タマタマ]]
+[[zh:蛋蛋]]

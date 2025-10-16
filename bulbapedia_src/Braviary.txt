@@ -1,0 +1,759 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/GO|species=Braviary}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0627|prev=Rufflet|nextnum=0629|next=Vullaby|round=none}}
+{{PokémonPrevNext/Disambig|species=Braviary}}
+|}
+{{Pokémon Infobox
+|name=Braviary
+|jname=ウォーグル
+|jtranslit=Wōguru
+|tmname=Warrgle
+|ndex=0628
+|forme=2
+|form1=Braviary
+|form2=Hisuian Braviary
+|image2=0628Braviary-Hisui.png
+|category={{tt|Valiant|Braviary}} Pokémon<br/>{{tt|Battle Cry|Hisuian Braviary}}
+|type1=Normal
+|type2=Flying
+|form2type1=Psychic
+|form2type2=Flying
+|abilityn=d
+|abilitylayout=1+2
+|ability1=Keen Eye
+|ability2=Sheer Force
+|abilityd=Defiant
+|abilitydcaption=Braviary
+|abilityd2=Tinted Lens
+|abilityd2caption=Hisuian Braviary
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=90.4
+|weight-kg=41.0
+|height-ftin2=5'07"
+|height-m2=1.7
+|weight-lbs2=95.7
+|weight-kg2=43.4
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=20
+|expyield=179
+|lv100exp=1,250,000
+|gendercode=0
+|color=Red
+|formcolors=yes
+|evforms=2
+|evtotal=2
+|evat=2
+|evsa=0
+|evat2=0
+|evsa2=2
+|catchrate=60
+|body=09
+|pokefordex=braviary
+|generation=5
+|friendship=70
+}}
+'''Braviary''' ([[List of Japanese Pokémon names|Japanese]]: '''ウォーグル''' ''Warrgle'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Rufflet}} starting at [[level]] 54.
+
+In [[Hisui]], Braviary has a dual-type {{2t|Psychic|Flying}} [[regional form]]. It evolves from Rufflet starting at level 54. All Rufflet in Hisui will evolve into this form regardless of their origin.
+
+==Biology==
+Braviary is a large, avian {{OBP|Pokémon|species}} with dark red feathers on its back and dark blue feathers on its underside. Its tail feathers are red, turning to yellow, and then blue at the tips. Braviary's legs are long and thick with yellow feet that each have a digit facing backward, and three facing forward. Each digit is tipped by a short, thick, black claw.
+
+Braviary has a long, thick beak with a blue {{wp|cere}}. On either side of the cere are Braviary's eyes, which are greyish-blue with small black pupils and white reflections. Sprouting from above the eyes is a crest of three long, white feathers. At the base of the feathers is a red, W-shaped design that is spread across all three feathers. On each side of Braviary's face, sprouting out from behind the feathers on its forehead, are an additional three white feathers pointing horizontally and downward. Behind the three feathers on its head is a large mane of white feathers, draping over its neck. Combined, these features resemble a {{wp|Native American}} {{wp|war bonnet}}.
+
+Braviary is extremely aggressive, but for noble reasons. It is known for its bravery and pride, and will fight fiercely to help and protect its friends. Even if it is injured or has its life threatened, it will still fight. The more scars it has on its front, the more respect it gets from its peers. Scars on its back will bring it ridicule, however. It has earned the nickname "the hero of the skies" due to its extreme dedication for its friends. Aiding its valiance, Braviary is extremely strong, capable of lifting a car and flying with it. However, due to its hotheaded and belligerent nature, it was rejected from being the [[Flying Taxi]] carrier in [[Galar]] in favor of {{p|Corviknight}}. Braviary is usually seen as a motif for different emblems.
+
+===Forms===
+Braviary has an ancient [[regional form]] in Hisuian Braviary. In [[Hisui]], Braviary grow even larger and have been known to be relied on by the indigenous people of Hisui for personal transport aross the skies. Their legs and undersides feature dark grey plummage while white feathers extend across their back, wings, and tail. Braviary's tail feathers are now shaped like a jet. The crest of feathers above its beak and now red {{wp|cere}} has evolved into a formation that appears to be purple flames adorned with two light blue eye-like markings, altogether resembling aviator goggles. The mane of feathers behind this formation has grown more voluminous and fans upward.
+
+Unlike their Unovan counterparts, Hisuian Braviary prefers to live alone instead of flocks. Hisuian Braviary travels to Hisui from the north during the winter season. When it hunts, it sends out bloodcurdling battle cries, which can be imbued with its psychic powers to generate shock waves. It uses these shock waves to stun prey living underwater in lakes, causing them to float to the surface, before it grabs them with its talons and rips them apart. Hisuian Braviary can use its psychic powers to heighten its sixth sense, as well as to enter a trance for a physical power boost.<ref>[https://legends.arceus.pokemon.com/en-us/pokemon/braviary/ Hisuian Braviary | Pokémon Legends: Arceus Official Website]</ref>
+
+A special Hisuian Braviary is worshiped in Hisui due to him being descended from one of the 10 ancient Pokémon who received a blessing from {{p|Arceus}}. In particular, he is one of the [[Ride Pokémon (Hisui)|Ride Pokémon]] who resides in [[Alabaster Icelands]], watched over by the [[warden]] [[Sabi]]. This special Hisuian Braviary is known to assist humans.
+
+Hisuian Braviary is the [[signature move|only known Pokémon]] capable of learning the move {{m|Esper Wing}}.
+
+===Evolution===
+Braviary evolves from {{p|Rufflet}}.
+
+In [[Hisui]], Braviary has a [[regional form]] that evolves from Rufflet.
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Normal
+|type2=Flying
+|no1=0627
+|name1=Rufflet
+|type1-1=Normal
+|type2-1=Flying
+|evo1a=
+|no2a=0628
+|name2a=Braviary
+|type1-2a=Normal
+|type2-2a=Flying
+|evo1b=
+|art2b=0628Braviary-Hisui
+|no2b=0628
+|name2b=Braviary
+|form2b=Hisuian Form
+|type1-2b=Psychic
+|type2-2b=Flying}}
+</div>
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Legends: Arceus]]: [[Ride Pokémon (Hisui)|Hisuian Braviary]] is a supporting character in the game. It is one of the [[Ride Pokémon (Hisui)|Ride Pokémon]], a descendant of the Braviary that the [[Ancient hero]] befriended ages ago. It was beloved by the people of the [[Hisui]] region along with the other Ride and [[Noble Pokémon]].
+
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=134|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=110|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They fight for their friends without any thought about danger to themselves. One can carry a car while flying.}}
+{{Dex/Entry1|v=White|entry=The more scars they have, the more respect these brave soldiers of the sky get from their peers.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=They fight for their friends without any thought about danger to themselves. One can carry a car while flying.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They fight for their friends without any thought about danger to themselves. One can carry a car while flying.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=076|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=090|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=With its brave disposition, it fears nothing—not even death. Ancient Alolan people respected it, referring to it as "the hero of the sky."}}
+{{Dex/Entry1|v=Moon|entry=It's thought that people disturbed their habitats in the past, so Braviary banded together to fight back.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=The more scars it has on its front, the more heroic it's considered to be. Those with many scars on their back are mocked by the flock.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Known as “the hero of the skies,” this Pokémon is so proud and so brave that it will never retreat, even when it's injured.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=282|reg2=Galar|label2=Isle of Armor|num2=180|reg3=Sinnoh|reg4=Hisui|num4=222}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond and Shining Pearl]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Known for its bravery and pride, this majestic Pokémon is often seen as a motif for various kinds of emblems.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Because this Pokémon is hotheaded and belligerent, it's Corviknight that's taken the role of transportation in Galar.}}
+{{Dex/Form|Hisuian Braviary}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Screaming a bloodcurdling battle cry, this huge and ferocious bird Pokémon goes out on the hunt. It blasts lakes with shock waves, then scoops up any prey that float to the water's surface.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=366|reg2=Kitakami|reg3=Blueberry|num3=33}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=The more scars they have, the more respect these brave soldiers of the sky get from their peers.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{flying color dark}}; background:#{{normal color light}}| [[File:Pokédex Image Braviary SM.png|x200px]]
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Braviary SV.png|x200px]]
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Braviary SV Blueberry.png|x200px]]
+|-
+| Braviary in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Braviary in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Braviary in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|1|v=Black}}
+{{Availability/Entry1|1|v=White|area={{rt|11|Unova}}, [[Village Bridge]] ({{DL|tall grass|dark grass}})}}
+{{Availability/Entry1/None|1|v=Black 2}}
+{{Availability/Entry1|1|v=White 2|area={{rt|4|Unova}}{{tt|*|always has Defiant, respawns weekly}}{{dotw|Mo}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Rufflet}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=FFF|area=[[Soaring in the sky]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|v=Sun|area=[[Poni Plains]]}}
+{{Availability/Entry1/None|v=Moon}}
+{{Availability/Entry1|v=Ultra Sun|t=FFF|area=[[Poni Plains]]}}
+{{Availability/Entry1/None|v=Ultra Moon}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|v=Sword|t=FFF|area=[[Dusty Bowl]], [[Lake of Outrage]]<br>[[Bridge Field/Dens|Bridge Field]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Rolling Fields/Dens|Rolling Fields]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1/None|v=Shield}}
+{{Availability/Entry1|v=Sword Expansion Pass|color={{sword color dark}}|t=fff|link=Pokémon Sword and Shield Expansion Pass|area=[[Challenge Road]] ([[Wanderer]])<br>[[Loop Lagoon/Dens|Loop Lagoon]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Alabaster Icelands]]:''' near [[Lake Acuity]]<sup>Flying</sup> (also [[mass outbreak]]s), massive mass outbreaks <small>('''Hisuian Form''')</small><br>Unobtainable <small>('''Unovan Form''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=West Province: [[Asado Desert]] <small>('''Unovan Form''')</small><br>North Province: [[North Province (Area One)|Area One]] <small>('''Unovan Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 5★ Tera Raid Battles (Paldea)|Braviary|5★}}) <small>('''Unovan Form''')</small><br>[[Evolution|Evolve]] {{p|Rufflet}} in {{g|Legends: Arceus}} via {{g|HOME}} <small>('''Hisuian Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]] <small>('''Unovan Form''')</small>  <br> [[Evolution|Evolve]] {{p|Rufflet}} in {{g|Legends: Arceus}} via {{g|HOME}} <small>('''Hisuian Form''')}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Rufflet}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Stony Cave]] (B3), [[Inflora Forest]] (8F), [[Great Glacier]] (2F-14F), [[Moonlit Forest]] (Uncharted Road), [[Rusty Mountain]] (Uncharted Road, Gilded Hall), [[Jaws of the Abyss]] (Gilded Hall), [[Smoking Mountain]] (Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#Walking a Thin Line|Secret Warehouse: Walking a Thin Line]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 2|Safari Jungle: Stage 2]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Boundless Prairie|Dark Land: Boundless Prairie]] <small>(Center Boss, Back)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Aegislash Sea]], [[Buzzwole Sea]], [[Rayquaza Sea]], [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Shiver Snowfields]]<sup><span style="color:#3A546B;">Night</span></sup>, [[Outaway Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]] (from Ultra 4)<br>[[Cyan Beach]] (from Ultra 1)<br>[[Snowdrop Tundra]] (from Great 4)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Great 3) <small>('''Unovan Form''')</small>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 204]]<br>[[Marron Trail|Marron Trail: Stage 684]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Sync pair scout]]: {{sync|Nate|Braviary}} <small>('''Unovan Form''')</small><br>Costume sync pair scout: {{sync|Rei|Braviary|Academy}} <small>('''Hisuian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+====Hisuian Braviary====
+{{HeldItems/header|type=Psychic|Flying}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Sootfoot Root|35|Ball of Mud|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+=====Braviary=====
+{{BaseStats
+|type=Normal
+|type2=Flying
+|HP=100
+|Attack=123
+|Defense=75
+|SpAtk=57
+|SpDef=75
+|Speed=80}}
+
+=====Hisuian Braviary=====
+{{BaseStats
+|type=Psychic
+|type2=Flying
+|HP=     110
+|Attack= 83
+|Defense= 70
+|SpAtk= 112
+|SpDef= 70
+|Speed= 65}}
+
+===Type effectiveness===
+====Braviary====
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=    0
+|Rock=    200
+|Bug=      50
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=    50
+|Electric=200
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|flying=yes
+|newground=1
+|normal=yes
+|newghost=1}}
+
+====Hisuian Braviary====
+{{TypeEffectiveness
+|type1=Psychic
+|type2=Flying
+|Normal=100
+|Fighting=25
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=100
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=50
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Braviary=====
+{{learnlist/levelh/9|Braviary|Normal|Flying|5}}
+{{learnlist/level9|1|Sky Attack|Flying|Physical|140|90|5||'''}}
+{{learnlist/level9|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level9|1|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/level9|18|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/level9|24|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level9|30|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/level9|36|Slash|Normal|Physical|70|100|20||'''}}
+{{learnlist/level9|42|Whirlwind|Normal|Status|—|—|20}}
+{{learnlist/level9|48|Crush Claw|Normal|Physical|75|95|10||'''}}
+{{learnlist/level9|57|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level9|64|Defog|Flying|Status|—|—|15}}
+{{learnlist/level9|72|Thrash|Normal|Physical|120|100|10||'''}}
+{{learnlist/levelf/9|Braviary|Normal|Flying|5}}
+
+=====Hisuian Braviary=====
+{{learnlist/levelh/9|Braviary|Psychic|Flying|8}}
+{{learnlist/level9|1|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/level9|1|Sky Attack|Flying|Physical|140|90|5||'''}}
+{{learnlist/level9|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level9|1|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Esper Wing|Psychic|Special|80|100|10||'''}}
+{{learnlist/level9|18|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/level9|24|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level9|30|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/level9|36|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level9|42|Whirlwind|Normal|Status|—|—|20}}
+{{learnlist/level9|48|Crush Claw|Normal|Physical|75|95|10}}
+{{learnlist/level9|57|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level9|64|Defog|Flying|Status|—|—|15}}
+{{learnlist/level9|72|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level9|80|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/levelf/9|Braviary|Psychic|Flying|8}}
+
+====By [[TM]]====
+=====Braviary=====
+{{learnlist/tmh/9|Braviary|Normal|Flying|5}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM064|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM097|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm9|TM164|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM167|Close Combat|Fighting|Physical|120|100|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM216|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/tmf/9|Braviary|Normal|Flying|5}}
+
+=====Hisuian Braviary=====
+{{learnlist/tmh/9|Braviary|Psychic|Flying|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM030|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM064|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM097|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM138|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM164|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM167|Close Combat|Fighting|Physical|120|100|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM184|Vacuum Wave|Fighting|Special|40|100|30}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM216|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/tm9|TM217|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tm9|TM218|Expanding Force|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm9|TM228|Psychic Noise|Psychic|Special|75|100|10||'''}}
+{{learnlist/tmf/9|Braviary|Psychic|Flying|8}}
+
+====By {{pkmn|breeding}}====
+=====Braviary=====
+{{learnlist/breedh/9|Braviary|Normal|Flying|5}}
+{{learnlist/breed9|[[File:Bag Mirror Herb SV Sprite.png|32px]]{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Rock Smash|Fighting|Physical|40|100|15|grid=2}}
+{{learnlist/breed9|[[File:Bag Mirror Herb SV Sprite.png|32px]]{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}<!--Braviary is male-only-->|Roost|Flying|Status|—|—|5|grid=2}}
+{{learnlist/breedf/9|Braviary|Normal|Flying|5}}
+
+=====Hisuian Braviary=====
+{{learnlist/breedh/9|Braviary|Psychic|Flying|8}}
+{{learnlist/breed9|[[File:Bag Mirror Herb SV Sprite.png|32px]]{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Rock Smash|Fighting|Physical|40|100|15|grid=2}}
+{{learnlist/breed9|[[File:Bag Mirror Herb SV Sprite.png|32px]]{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}<!--Braviary is male-only-->|Roost|Flying|Status|—|—|5|grid=2}}
+{{learnlist/breedf/9|Braviary|Psychic|Flying|8}}
+
+====By a prior [[Evolution]]====
+=====Braviary=====
+{{learnlist/prevoh/9|Braviary|Normal|Flying|5}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Braviary|Normal|Flying|5}}
+
+=====Hisuian Braviary=====
+{{learnlist/prevoh/9|Braviary|Psychic|Flying|8}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Braviary|Psychic|Flying|8}}
+
+===Side game data===
+====Braviary====
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/PSMD|col=6|type=Normal|ndex=628
+|coset=2
+|conto={{p|Honchkrow}}
+|recruitment=Introduced by {{p|Honchkrow}}
+|P1=I'm a sky warrior! I fight for my allies!
+|P2=Wawwr… Losing is not an option! Never!
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=628
+|walk=1.17
+|hp=59
+|attack=80
+|defense=54
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=628
+|strong=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]]
+|weak=[[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|pad=Since he wants to be strong, he never neglects his training. He is strict to himself and others. He is a secret hero in the [[Crag Area]].
+}}
+|-
+{{Spindata/Conquest|col=6|type=Normal|ndex=628
+|HP=4
+|atk=4
+|spd=3
+|def=3
+|range=4
+|move=Sky Drop
+|ability1=Keen Eye
+|ability2=Pride
+|ability3=Hero
+|evo=Evolves from {{p|Rufflet}} when its Attack is 119 or higher
+|link=[[Haruyuki]], '''[[Masamune]]''', [[Munetoki]], and [[Naoshige]]
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=628|bttype=Flying
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=628|stype=Flying|num=214
+|min=70
+|max=130
+|raisemaxlevel=15
+|skill=Sky Blast
+|skilldesc=Increases damage done by any Flying types in the combo.
+|swapper=Nosedive
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=628
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=225
+|attack=232
+|defense=152
+|fast={{m|Steel Wing}}, {{m|Air Slash}}
+|special={{m|Heat Wave}}, {{m|Brave Bird}}, {{m|Rock Slide}}, {{m|Close Combat}}{{tt|*|From July 27, 2020 onward}}, {{m|Fly}}{{tt|*|From December 1, 2023 onward}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Normal|ndex=628|pdex=160
+|dex=Braviary’s appearance may stick out on [[Shiver Snowfields|the snowfields]], but this warrior of the skies has survived nonetheless. Its courage is unmatched, and it never backs down from a challenge.}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0628
+|pokemon=Braviary
+|sleeptype=Slumbering
+|type=Flying
+|dexentry=For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured. It has been seen preening its feathers in its sleep. Maybe this is to keep its body ready for a fight at any time.
+|sleepstyle1=Roosting Sleep
+|sleepstyle2=Flutter Sleep
+|sleepstyle3=Preening Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=12
+|specialty=Skills
+|berry=Pamtre
+|ingredient1=Bean Sausage
+|ingredient2=Greengrass Corn
+|ingredient3=Rousing Coffee
+|carrylimit=18
+|skillname=Berry Burst
+|skilldesc=Gets ? Berries plus ? of each of the Berries other Pokémon on your team collect
+}}
+|}
+
+====Hisuian Braviary====
+{{Spindata/Head|type=Psychic|type2=Flying}}
+{{Spindata/GO|col=6|type=Psychic|ndex=628H
+|hatch=N/A
+|buddy=5
+|candy=Rufflet
+|evolution=N/A
+|stamina=242
+|attack=213
+|defense=137
+|fast= {{m|Zen Headbutt}}, {{m|Air Slash}}
+|special= {{m|Psychic}}, {{m|Brave Bird}}, {{m|Ominous Wind}}, {{m|Dazzling Gleam}}, {{m|Fly}}{{tt|*|From December 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox/1branch2
+|type1=Normal
+|type2=Flying
+|no1=0627
+|name1=Rufflet
+|type1-1=Normal
+|type2-1=Flying
+|evo1a={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 54}}<br>outside of {{color2|000|Hisui}}
+|no2a=0628
+|name2a=Braviary
+|type1-2a=Normal
+|type2-2a=Flying
+|evo1b={{bag/s|Rare Candy|SV}} + [[File:Hisui Ribbon IX.png|40px|link=Hisui]]<br>{{color2|000|Level|Level 54}}<br>in {{color2|000|Hisui}}
+|art2b=0628Braviary-Hisui
+|no2b=0628
+|name2b=Braviary
+|form2b=Hisuian Form
+|type1-2b=Psychic
+|type2-2b=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=628}}
+{{Spritebox/6|ndex=628|crop=138}}
+{{Spritebox/7|ndex=628|crop=188}}
+{{Spritebox/8/LAForm|ndex=628|form1=H|LAcrop=178}}
+<!--{{Spritebox/9/2Forms|ndex=0628|form1=H}}-->
+{{Spritebox/HOME/2Forms|ndex=0628|form1=H}}
+{{Spritebox/Footer|628|Braviary}}
+
+==In animation==
+===Main series===
+[[File:Braviary anime.png|thumb|250px|Braviary in {{aniseries|HZ}}]]
+[[File:Hisuian Pokémon anime.png|thumb|250px|Hisuian Braviary in {{aniseries|JN}}]]
+====Major appearances====
+Braviary made his animated series debut in ''[[BW099|A Surface to Air Tag Battle Team!]]'', under the ownership of [[Soren and Rocko|Soren]]. Soren used Braviary in a [[Multi Battle|Tag Battle]] alongside {{p|Drilbur}} against {{Ash}} and {{an|Cilan}} (who were using {{AP|Unfezant}} and {{TP|Cilan|Pansage}}, respectively), but they were defeated. His {{m|Brave Bird}} later became a vital component for a unique combination invented by Soren, called "Jet Brave". He reappeared in a flashback in ''[[BW141|Best Wishes Until We Meet Again!]]''.
+
+In ''[[BW103|Curtain Up, Unova League!]]'', [[Radley]]'s Braviary was seen competing in the [[Vertress Conference]]. However, he was defeated by [[Stephan]]'s {{p|Zebstrika}}, who used a combination of {{m|Thunderbolt}} and {{m|Giga Impact}} to knock him out.
+
+In ''[[BW114|Saving Braviary!]]'', {{Ash}}, {{ashfr}}, and {{an|N}} helped a Braviary escape from [[Schwarz and Weiss]].
+
+In ''[[Hoopa — The Mischief Pokémon]]'' and ''[[M18|Hoopa and the Clash of Ages]]'', [[Baraz]] uses a Braviary to fly around.
+
+In ''[[SM052|Revealing the Stuff of Legend!]]'', {{an|Professor Kukui}} used a Braviary to help {{an|Professor Burnet}} escape from a group of {{p|Jangmo-o}} and {{p|Hakamo-o}} at the [[Vast Poni Canyon]]. He has since made further appearances in {{aniseries|SM}}.
+
+In ''[[JN014|Raid Battle in The Ruins!]]'', {{OBP|Kira|JN014}} used a Braviary during a [[Raid Battle (GO)#In animation|Raid Battle]] against a {{pkmn2|giant}} {{TP|Goh|Golurk}}, which he helped defeat.
+
+====Minor appearances====
+Braviary debuted in [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']]. In ''White—Victini and Zekrom'', Ash spotted a Braviary soaring in the sky while walking on a trail with {{an|Iris}} and {{an|Cilan}}.
+
+In ''[[M16|Genesect and the Legend Awakened]]'', {{OBP|Mewtwo|M16}} raced a Braviary.
+
+Six Braviary appeared in ''[[SM002|The Guardian's Challenge!]]''.
+
+In ''[[SM015|Rocking Clawmark Hill!]]'', two Braviary were training up on [[Clawmark Hill]].
+
+In ''[[SM044|A Dream Encounter!]]'', a Braviary was featured in a television presentation by [[Aether Paradise]] on Professor Burnet. He physically appeared in ''[[SM046|Deceiving Appearances!]]'' and then reappeared in ''[[SM096|Don't Ignore the Small Stufful!]]''.
+
+In ''[[SM090|Securing the Future!]]'', a {{pkmn|Trainer}}'s Braviary joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|true form}}.
+
+In a flashback in ''[[SM096|Don't Ignore the Small Stufful!]]'', two Braviary were released back into the wild by an {{tc|Aether Foundation Employee}}, Professor Burnet, and [[Wicke]].
+
+In ''[[JN005|Mind-Boggling Dynamax!]]'', a Braviary was seen in the [[Wild Area]].
+
+Two Braviary appeared in ''[[JN050|A Pinch of This, a Pinch of That!]]''.
+
+A Hisuian Braviary appeared in a fantasy in ''[[JNS01|The Arceus Chronicles (Part 1)]]''.
+
+A Braviary appeared in ''[[JN110|Narrowing the Chaser Chase!]]'', under the ownership of a [[Project Mew]] Challenger.
+
+A Braviary appeared in ''[[HZ080|Total-lie Awesome Pokémon in Area Zero?!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW099|Braviary|Ash's Pokédex|Braviary, the Valiant Pokémon, and the evolved form of {{p|Rufflet}}. Called "soldiers of the sky," Braviary fights tirelessly to protect its friends. If it has many scars, it earns more respect from its comrades.}}
+{{Animedexbody|BW114|Braviary|Ash's Pokédex|Braviary, the Valiant Pokémon, and the evolved form of Rufflet. Because of its devotion to its friends, Braviary will continue battling, even after sustaining injury.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+===Pokémon: Twilight Wings===
+In ''[[TW02|Training]]'', multiple Braviary were seen in the [[Wild Area]].
+
+==In the manga==
+[[File:Black Brav.png|thumb|250px|Braviary in [[Pokémon Adventures]]]]
+===Be the Best! Pokémon B+W===
+A Braviary appeared in ''[[PBW1|Advance Toward the Path of the Strongest!]]'', under the ownership of the {{tc|Biker|Biker King}}.
+
+===Pokémon Adventures===
+{{main|Brav}}
+{{adv|Black}} owns a Braviary [[nickname]]d Brav. He is strong and can lift Black into the sky with ease, thus making him useful for {{m|fly}}ing purposes. He first appeared in ''[[PS462|Choices]]''.
+
+===Pokémon Journeys===
+Two Braviary appeared in ''[[JNM02|Being Stalked by a Scorbunny–and Challenging a Snorlax in Dynamax Form?!]]''.
+
+===Pokémon RéBURST===
+A Braviary appears as the [[Burst]] form of Eurou.
+
+==In the TCG==
+{{main|Braviary (TCG)}}
+
+==Other appearances==
+==={{DetPikMov}}===
+Four Braviary appeared in {{DetPikMov}}.
+
+==Trivia==
+* Braviary represents {{wp|August}} in the [[Unova]] [[horoscope]].
+* Braviary and {{p|Rufflet}} can be seen as counterparts to {{p|Mandibuzz}} and {{p|Vullaby}}. Braviary and Mandibuzz share a base stat total of 510, evolve from their pre-evolved forms starting at [[level]] 54, and are both part {{t|Flying}}. Braviary and Rufflet are exclusive to {{game|Black and White|s|White}}, {{B2W2|White 2}}, {{pkmn|Sun and Moon|Sun}}, {{pkmn|Ultra Sun and Ultra Moon|Ultra Sun}}, and {{pkmn|Sword and Shield|Sword}}, while Mandibuzz and Vullaby are exclusive to {{game|Black and White|s|Black}}, {{B2W2|Black 2}}, {{pkmn|Sun and Moon|Moon}}, {{pkmn|Ultra Sun and Ultra Moon|Ultra Moon}}, and {{pkmn|Sword and Shield|Shield}}. Whereas Braviary and Rufflet can only be male, Mandibuzz and Vullaby can only be female.
+* Unovan Braviary and its pre-Evolution were designed by [[Takao Unno]].<ref name=ND205 />
+* In [[Pokémon Legends: Arceus]]'s internal code, Hisuian Braviary's Hidden Ability is {{a|Defiant}} instead of {{a|Tinted Lens}}.
+* Hisuian Braviary and Hisuian {{p|Growlithe}} were the first Hisuian forms to be officially revealed.
+
+===Origin===
+Because the setting of {{game|Black and White|s}}, [[Unova]], is based on the {{wp|New York metropolitan area}}, the game designers considered how they could incorporate this setting — and more broadly, of America — into their designs. Braviary is based on the {{wp|bald eagle}}, which is the national bird of the United States. Its color scheme of red, white and blue is inspired by the {{wp|flag of the United States}}. Additionally, its design is influenced by {{wp|Native Americans in the United States|Native American}} culture, which is reflected by its strong legs and the feathers on its head,<ref name=ND205>''Nintendo Dream'' Vol. 205, May 2011 ([http://web.archive.org/web/20110402003550/http://shellspider.blog101.fc2.com/blog-entry-562.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream-6/ Translation by Dr. Lava])</ref> the latter resembling {{wp|war bonnet}}s. War bonnets were traditionally only worn by men, which is presumably reflected in Braviary's 100% male gender ratio. Braviary's personality traits appear to be based on {{wp|Stereotypes of Americans|American stereotypes}}.
+
+Hisuian Braviary appears to be based on the {{wp|Steller's sea eagle}}, with its size, plumage, and southward migratory route to {{wp|Hokkaido}} (the real-life basis for the Hisui region). Its {{t|Psychic}} type might allude to the fact that the Steller's sea eagle is considered a {{wp|kamuy}} (divine or spiritual being) by the {{wp|Ainu people}}, who call it ''Kapatcir-kamuy.'' It also has a rare dark {{wp|Polymorphism (biology)|morph}} that resembles Hisuian Braviary's {{Shiny}} variant. The purple flames on Hisuian Braviary's head may be inspired by {{wp|Eyespot (mimicry)|eyespots}} or a {{wp|third eye}}, which is said to give psychic powers.  
+
+====Name origin====
+Braviary may be a combination of ''brave'' or ''bravery'' and ''{{wp|aviary}}''. It may also involve ''[[Wiktionary:eyrie|eyrie]]''.
+
+Warrgle may be a combination of ''{{wp|war}}'' or ''{{wp|warrior}}'' and ''eagle''. It may also involve ''warble'', a sound a bird makes.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=ウォーグル ''Warrgle''|jameaning=From ''war'' or ''warrior'' and ''eagle''
+|fr=Gueriaigle|frmeaning=From {{tt|''guerrier''|warrior}} and {{tt|''aigle''|eagle}}
+|es=Braviary|esmeaning=Same as English name
+|de=Washakwil|demeaning=From {{tt|鷲 ''washi''|Japanese for eagle}} or ''{{wp|Washington}}'' and {{tt|''aquila''|Latin for eagle}}
+|it=Braviary|itmeaning=Same as English name
+|ko=워글 ''Warrgle''|komeaning=Transcription of Japanese name
+|zh_cmn=勇士雄鷹 / 勇士雄鹰 ''Yǒngshìxióngyīng''{{tt|*|Games}}<br>勇士鷹 / 勇士鹰 ''Yǒngshìyīng''{{tt|*|Pre-Gen VII Media}}|zh_cmnmeaning=From {{tt|勇士 ''yǒngshì''|warrior}}, {{tt|雄 ''xióng''|male; heroic}} and {{tt|鷹 / 鹰 ''yīng''|eagle}}
+|zh_yue=勇士雄鷹 ''Yúhngsihhùhngyīng''{{tt|*|Games}}<br>勇士鷹 ''Yúhngsihyīng''{{tt|*|Pre-Gen VII Media}}|zh_yuemeaning=From {{tt|勇士 ''yúhngsih''|warrior}}, {{tt|雄 ''hùhng''|male; heroic}} and {{tt|鷹 ''yīng''|eagle}}
+|hi=वीरीगल ''Veereegle''|himeaning=From {{tt|वीर ''vīr''|heroic/brave}} and ''eagle'', possibly also from ''regal''
+|ru=Бревиари ''Breviari''|rumeaning=Transcription of English name
+|th=วอร์เกิล ''Wokoen''|thmeaning=Transcription of Japanese name
+}}
+
+{{left clear}}
+
+==Related articles==
+* [[Brav]]
+* [[Regional form]]
+* [[Ride Pokémon (Hisui)]]
+
+==References==
+<references />
+
+==External links==
+
+
+{{Hisuian forms}}
+{{Ancient Hero Pokémon}}
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=627|prev=Rufflet|nextnum=629|next=Vullaby}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Washakwil]]
+[[es:Braviary]]
+[[fr:Gueriaigle]]
+[[it:Braviary]]
+[[ja:ウォーグル]]
+[[zh:勇士雄鹰]]

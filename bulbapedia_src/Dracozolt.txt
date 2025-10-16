@@ -1,0 +1,301 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Dragon}}
+{{PokémonPrevNext/GO|species=Dracozolt}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0879|prev=Copperajah|nextnum=0881|next=Arctozolt|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Dracozolt
+|jname=パッチラゴン
+|tmname=Patchiragon
+|ndex=0880
+|type1=Electric
+|type2=Dragon
+|category=Fossil
+|height-ftin=5'11"
+|height-m=1.8
+|weight-lbs=418.9
+|weight-kg=190.0
+|abilityn=d
+|ability1=Volt Absorb
+|ability2=Hustle
+|abilityd=Sand Rush
+|egggroupn=0
+|egggroup1=No Eggs Discovered
+|eggcycles=35
+|evtotal=2
+|evat=2
+|expyield=177
+|lv100exp=1,250,000
+|gendercode=255
+|color=Green
+|catchrate=45
+|body=06
+|pokefordex=dracozolt
+|generation=8
+|friendship=50
+}}
+'''Dracozolt''' ([[List of Japanese Pokémon names|Japanese]]: '''パッチラゴン''' ''Patchiragon'') is a dual-type {{2t|Electric|Dragon}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It is revived from combining a [[Fossilized Bird]] and a [[Fossilized Drake]]. It it is not known to [[Evolution|evolve]] into or from any other Pokémon, but appears to be related to {{p|Arctozolt}} and {{p|Dracovish}}.
+
+==Biology==
+Dracozolt is a hybrid fossil {{OBP|Pokémon|species}}. It has a small yellow upper body with two long wings shaped like lightning bolts on its arms. Dracozolt has a long neck that connects to a {{wp|Paraves|paravian}}-like head with closed eyes and a red spot on each cheek. The upper half is connected to the middle of the lower body, with an orange and yellow circle surrounding the neck. The lower body is colored pink and green. The legs are green with pink toes and stripes and the tail is green with pink stripes and spikes.
+
+It generates electricity thanks to its powerful tail muscles. It allegedly overgrazed its plant-based food sources, causing it to eventually go extinct, though this is likely not the case due to Dracozolt being combined from two separate Pokémon that each had their niches before going extinct.
+
+Dracozolt and its counterpart {{p|Arctozolt}} are [[Signature move|the only known Pokémon]] capable of learning the [[move]] {{m|Bolt Beak}}.
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric|type2=Dragon}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=374|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Electric|type2=Dragon}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=Revive from [[Fossilized Bird]] and [[Fossilized Drake]] by [[Cara Liss]] on {{rt|6|Galar}}}}
+{{Availability/Entry1|v=Expansion Pass|color={{galar color}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Snowslide Slope/Dens|Snowslide Slope]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|type2=Dragon
+|HP=90
+|Attack=100
+|Defense=90
+|SpAtk=80
+|SpDef=70
+|Speed=75
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Dragon
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=50
+|Electric=25
+|Psychic=100
+|Ice=200
+|Dragon=200
+|Dark=100
+|Fairy=200
+|notes=yes
+|voltabsorb=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Dracozolt|Electric|Dragon|8}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level8|7|Charge|Electric|Status|—|—|20}}
+{{learnlist/level8|14|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/level8|21|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level8|28|Pluck|Flying|Physical|60|100|20}}
+{{learnlist/level8|35|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/level8|42|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level8|49|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level8|56|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level8|63|Bolt Beak|Electric|Physical|85|100|10||'''}}
+{{learnlist/level8|70|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level8|77|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/levelf/8|Dracozolt|Electric|Dragon|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Dracozolt|Electric|Dragon|8}}
+{{learnlist/tm8|TM00|Mega Punch|Normal|Physical|80|85|20}}
+{{learnlist/tm8|TM01|Mega Kick|Normal|Physical|120|75|5}}
+{{learnlist/tm8|TM05|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM13|Fire Spin|Fire|Special|35|85|15}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm8|TM54|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/tm8|TM66|Thunder Fang|Electric|Physical|65|95|15||'''}}
+{{learnlist/tm8|TM68|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm8|TM97|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm8|TM98|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm8|TM99|Breaking Swipe|Dragon|Physical|60|100|15||'''}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR02|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tr|TR07|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tr|TR10|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tr|TR15|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR24|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR47|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tr|TR62|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tr|TR67|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tr|TR75|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tr|TR80|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tr|TR94|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tmf/8|Dracozolt|Electric|Dragon|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Dracozolt|Electric|Dragon|8}}
+{{learnlist/breed8null}}
+{{learnlist/breedf/8|Dracozolt|Electric|Dragon|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Dracozolt|Electric|Dragon|8}}
+{{learnlist/tutor8|Draco Meteor|Dragon|Special|130|90|5||'''|yes|no}}
+{{learnlist/tutor8|Meteor Beam|Rock|Special|120|90|10|||no|yes}}
+{{learnlist/tutor8|Rising Voltage|Electric|Special|70|100|20||'''|no|yes}}
+{{learnlist/tutorf/8|Dracozolt|Electric|Dragon|8}}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Dragon}}
+{{Spindata/GO|col=6|type=Electric|ndex=0880
+|egg=N/A
+|buddy=5
+|candy=Dracozolt
+|evolution=N/A
+|stamina=207
+|attack=195
+|defense=165
+|fast={{m|Thunder Shock}}, {{m|Dragon Tail}}
+|special={{m|Discharge}}, {{m|Dragon Pulse}}, {{m|Ancient Power}}
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Electric
+|type2=Dragon
+|pictype=art
+|no1=0880
+|name1=Dracozolt
+|type1-1=Electric
+|type2-1=Dragon}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=Electric|type2=Dragon}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=880}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0880}}
+{{Spritebox/Footer|880|Dracozolt}}
+
+==In animation==
+===Main series===
+[[File:Dracozolt anime.png|thumb|250px|Dracozolt in {{aniseries|JN}}]]
+====Major appearances====
+
+====Minor appearances====
+Dracozolt debuted as an image in ''[[JN050|A Pinch of This, a Pinch of That!]]''.
+{{-}}
+
+==In the manga==
+[[File:Cara Liss Dracozolt Adventures.png|thumb|left|150px|Dracozolt in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Dracozolt first appeared in ''[[PASS39|Clip-Clop!! The King's Horse]]'', where it was restored by [[Cara Liss]].
+{{-}}
+
+==In the TCG==
+{{main|Dracozolt (TCG)}}
+==Trivia==
+* Dracozolt shares its {{pkmn|category}} with {{p|Aerodactyl}}, {{p|Arctozolt}}, {{p|Dracovish}}, and {{p|Arctovish}}. They are all known as the Fossil Pokémon.
+* Dracozolt, Arctozolt, Dracovish, and Arctovish are the only [[fossil]] Pokémon to not be {{type|Rock}} or have a [[gender]].
+* Dracozolt, along with the other Galarian fossil Pokémon, was designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/1319507626372153344 Tweet by ありがひとし/ArigaHitoshi (@ariga_megamix).] Posted on October 23, 2020.</ref>
+* In {{aniseries|JN}}, [[Bray Zenn]] is the person who gives Dracozolt its species name.
+
+===Origin===
+Dracozolt, like {{p|Arctozolt}}, {{p|Dracovish}}, and {{p|Arctovish}}, may be based on the concept of {{wp|Chimera (paleontology)|chimera}} in paleontology, which refers to fossils reconstructed from multiple different species or genus of animals, resulting in an inaccurate and mistaken understanding of the animals' biology. In the case of Dracozolt, its top half appears to be based on a {{wp|Dromaeosauridae|dromaeosaurid}}, while its bottom half appears to be based mainly on a {{wp|Stegosauria|stegosaurian}}. Dracozolt and the other Galarian Fossil Pokémon may also be based on the {{wp|Crystal Palace Dinosaurs}}, a series of scientifically inaccurate dinosaur sculptures displayed at the {{wp|Crystal Palace Park}}.
+
+The Pokédex entries for all the Galarian Fossil Pokémon mention them being the cause of their own extinction, which may be a reference to the outdated hypothesis that the dinosaurs were evolutionarily inert, which made them get bigger, stupider, and more sluggish, to the point they could not sustain themselves.
+
+Dracozolt being unable to [[Pokémon breeding|breed]] could be a reference to {{wp|Hybrid_(biology)|cross-bred}} animals, which are born {{wp|Infertility|infertile}} (unable to produce offspring).
+
+====Name origin====
+Dracozolt may be a combination of ''[[wiktionary:draco|dracō]]'' (Latin for ''dragon'') and ''volt'' or ''jolt''.
+
+Patchiragon may be a combination of パチパチ ''pachipachi'' (onomatopoeia for crackling) and ''dragon''.
+
+==In other languages==
+{{Other languages|type=Electric|type2=Dragon
+|ja=パッチラゴン ''Patchiragon''|jameaning=From {{tt|パチパチ ''pachipachi''|onomatopoeia for crackling}} and ''dragon''
+|fr=Galvagon|frmeaning=From ''{{tt|galvanique|galvanic}}'' and ''dragon''
+|es=Dracozolt|esmeaning=Same as English name
+|de=Lectragon|demeaning=From ''{{tt|elektrisch|electric}}'' and ''Dragon''
+|it=Dracozolt|itmeaning=Same as English name
+|ko=파치래곤 ''Pachiragon''|komeaning=From the transcription of its Japanese name and ''dragon''
+|zh_cmn=雷鳥龍 / 雷鸟龙 ''Léiniǎolóng''|zh_cmnmeaning=From {{tt|雷 ''léi''|thunder}}, {{tt|鳥 / 鸟 ''niǎo''|bird}}, and {{tt|龍 / 龙 ''lóng''|dragon}}
+|zh_yue=雷鳥龍 ''Lèuihníuhlùhng''|zh_yuemeaning=From {{tt|雷 ''lèuih''|thunder}}, {{tt|鳥 ''níuh''|bird}}, and {{tt|龍 ''lùhng''|dragon}}
+|hi=ड्रैगोस्पार्क ''Dragospark''|himeaning=From ''dragon'' and ''spark''
+|th=พัจจิรากอน ''Phatchirakon''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Fossil]]
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+{{Fossil}}{{PokémonPrevNext/Head|type=Electric|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0879|prev=Copperajah|nextnum=0881|next=Arctozolt}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+
+[[de:Lectragon]]
+[[es:Dracozolt]]
+[[fr:Galvagon]]
+[[it:Dracozolt]]
+[[ja:パッチラゴン]]
+[[zh:雷鸟龙]]

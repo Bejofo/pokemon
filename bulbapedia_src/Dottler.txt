@@ -1,0 +1,318 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Dottler}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0824|prev=Blipbug|nextnum=0826|next=Orbeetle|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Dottler
+|jname=レドームシ
+|jtranslit=Redōmushi
+|tmname=Redomushi
+|ndex=0825
+|type1=Bug
+|type2=Psychic
+|category=Radome
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=43.0
+|weight-kg=19.5
+|abilityn=d
+|ability1=Swarm
+|ability2=Compound Eyes
+|abilityd=Telepathy
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=2
+|evsd=2
+|expyield=117
+|lv100exp=1000000
+|gendercode=127
+|color=Yellow
+|catchrate=120
+|body=14
+|pokefordex=dottler
+|generation=8
+|friendship=50
+}}
+'''Dottler''' ([[List of Japanese Pokémon names|Japanese]]: '''レドームシ''' ''Redomushi'') is a dual-type {{2t|Bug|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{p|Blipbug}} starting at [[level]] 10 and evolves into {{p|Orbeetle}} starting at level 30.
+
+==Biology==
+[[File:825Dottler WF.png|thumb|left|180px|Dottler's feet]]
+Dottler is an insectoid {{OBP|Pokémon|species}}. It has an orange, blob-like body, though most of it is covered by its geometric shaped shell, with only its face and underside visible. It has cyan, beady, crystalline eyes similar to those of its pre-evolved form; a pair of blue feelers in a V-shape on each side of its face; and four blue feet under its body. Dottler's shell is made up of yellow triangular surfaces with blue circles around its vertices, arranged to form an icosahedron. These blue circles constantly flash from top to bottom. The shell is so heavy, it prevents Dottler from getting food to eat and water to drink, leaving very small holes to breathe through.
+
+While growing inside, Dottler uses its shell to examine its environment, using its psychic powers to keep itself protected and gather information about its habitat until it evolves.
+
+===Evolution===
+Dottler evolves from {{p|Blipbug}} and evolves into {{p|Orbeetle}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|type1=Bug
+|type2=Psychic
+|no1=0824
+|name1=Blipbug
+|type1-1=Bug
+|evo1=
+|no2=0825
+|name2=Dottler
+|type1-2=Bug
+|type2-2=Psychic
+|evo2=
+|no3=0826
+|name3=Orbeetle
+|type1-3=Bug
+|type2-3=Psychic}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Psychic}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=011|reg2=Galar|label2=Isle of Armor|num2=015|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It barely moves, but it's still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Psychic}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|5|Galar}}, [[Giant's Cap]], [[Giant's Mirror]], [[Stony Wilderness]]<br>[[Bridge Field/Dens|Bridge Field]], [[Dappled Grove/Dens|Dappled Grove]], [[Rolling Fields/Dens|Rolling Fields]], [[South Lake Miloch/Dens|South Lake Miloch]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Fields of Honor/Dens|Fields of Honor]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+===Held items===
+{{HeldItems/header|type=Bug|type2=Psychic}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Psychic Seed|5}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Psychic
+|HP=50
+|Attack=35
+|Defense=80
+|SpAtk=50
+|SpDef=90
+|Speed=30
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Psychic
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=200
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Dottler|Bug|Psychic|8}}
+{{learnlist/level8|1|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/level8|1|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level8|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level8|1|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/levelf/8|Dottler|Bug|Psychic|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Dottler|Bug|Psychic|8}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM18|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm8|TM19|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM41|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm8|TM44|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM60|Power Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM61|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM70|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm8|TM71|Wonder Room|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM72|Magic Room|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM91|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR25|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR34|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR40|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR49|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tr|TR61|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tr|TR69|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/tr|TR82|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR99|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tmf/8|Dottler|Bug|Psychic|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Dottler|Bug|Psychic|8}}
+{{learnlist/breed8|{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|873|Frosmoth}}|Infestation|Bug|Special|20|100|20||'''|grid=5}}
+{{learnlist/breed8|{{MSP/8c|616|Shelmet}}{{MSP/8c|617|Accelgor}}|Recover|Normal|Status|—|—|10|grid=5}}
+{{learnlist/breed8|{{MSP/8c|213|Shuckle}}{{MSP/8c|596|Galvantula}}{{MSP/8c|736|Grubbin}}{{MSP/8c|737|Charjabug}}{{MSP/8c|738|Vikavolt}}|Sticky Web|Bug|Status|—|—|20|grid=5}}
+{{learnlist/breed8|{{MSP/8c|012|Butterfree}}{{MSP/8c|329|Vibrava}}{{MSP/8c|330|Flygon}}|Supersonic|Normal|Status|—|55|20|grid=5}}
+{{learnlist/breedf/8|Dottler|Bug|Psychic|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Dottler|Bug|Psychic|8}}
+{{learnlist/tutor8|Expanding Force|Psychic|Special|80|100|10||'''|no|yes}}
+{{learnlist/tutorf/8|Dottler|Bug|Psychic|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Dottler|Bug|Psychic|8}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Dottler|Bug|Psychic|8}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Psychic}}
+{{Spindata/GO|col=6|type=Bug|ndex=0825
+|hatch=N/A
+|buddy=1
+|candy=Blipbug
+|evolution=100
+|stamina=137
+|attack=87
+|defense=157
+|fast={{m|Struggle Bug}}, {{m|Confusion}}
+|special={{m|Bug Buzz}}. {{m|Psychic}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Bug
+|type2=Psychic
+|no1=0824
+|name1=Blipbug
+|type1-1=Bug
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 10}}
+|no2=0825
+|name2=Dottler
+|type1-2=Bug
+|type2-2=Psychic
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no3=0826
+|name3=Orbeetle
+|type1-3=Bug
+|type2-3=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Psychic}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=825}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0825}}
+{{Spritebox/Footer|825|Dottler}}
+
+==In animation==
+===Main series===
+====Major appearances====
+
+====Minor appearances====
+Dottler debuted in ''[[M23|Secrets of the Jungle]]''.
+
+Dottler made its animated series debut in ''[[JN115|Curtain Up! Fight the Fights!]]'', under the ownership of a {{pkmn|Trainer}}.
+
+===Pokémon: Twilight Wings===
+Two {{pkmn|Trainer}}s' Dottler appeared in ''[[TW08|The Gathering of Stars]]''.
+
+==In the manga==
+===Pokémon Adventures===
+Dottler debuted in ''[[PASS29|GRRR!! The Irrepairable Gears]]'' during the [[Darkest Day]].
+
+==In the TCG==
+{{main|Dottler (TCG)}}
+==Trivia==
+* Dottler and its evolutionary relatives are the only three-stage evolutionary line whose members are all the same height, at 1'04" (0.4 m).
+
+===Origin===
+Dottler may be based on a {{wp|Coccinellidae|ladybird}} pupa and a {{wp|radome}}, hence its {{pkmn|category}} name. Its eyes also resemble laboratory {{wp|goggles}}. Dottler may also be inspired by a {{wp|disco ball}}, due to its shape and the blue spots on its shell being able to light up.
+
+====Name origin====
+Dottler may be a combination of ''dot'' and ''{{wp|Doppler radar}}''.
+
+Redomushi may be a combination of ''radome'' and 天道虫 ''tentōmushi'' (ladybug).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Psychic
+|ja=レドームシ ''Redomushi''|jameaning=From ''{{wp|radome}}'' and {{tt|天道虫 ''tentōmushi''|ladybug}}
+|fr=Coléodôme|frmeaning=From ''{{tt|coléoptère|beetle}}'' and ''{{tt|radôme|radome}}''
+|es=Dottler|esmeaning=Same as English name
+|de=Keradar|demeaning=From ''{{tt|Käfer|bug, beetle}}'' and ''Radar''
+|it=Dottler|itmeaning=Same as English name
+|ko=레돔벌레 ''Redombeollae''|komeaning=From 레이돔 ''radome'' and {{tt|벌레 ''beollae''|bug}}
+|zh_cmn=天罩蟲 / 天罩虫 ''Tiānzhàochóng''|zh_cmnmeaning=From {{tt|天線罩 / 天线罩 ''tiānxiànzhào''|radome}} and {{tt|天道虫 ''tentōmushi''|Japanese for ladybug}}
+|zh_yue=天罩蟲 ''Tīnjaauchùhng''|zh_yuemeaning=From {{tt|天線罩 ''tīnsinjaau''|radome}} and {{tt|天道虫 ''tentōmushi''|Japanese for ladybug}}
+|hi=रेडाकीट ''Redakit''|himeaning=From ''radar'' or ''radome'' (or ''red'') and {{tt|कीट ''kīṭ''|insect}}
+|th=เรโดมุชิ ''Redomuchi''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0824|prev=Blipbug|nextnum=0826|next=Orbeetle}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Keradar]]
+[[es:Dottler]]
+[[fr:Coléodôme]]
+[[it:Dottler]]
+[[ja:レドームシ]]
+[[zh:天罩虫]]

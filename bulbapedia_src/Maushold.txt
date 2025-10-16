@@ -1,0 +1,427 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Maushold}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0924|prev=Tandemaus|nextnum=0926|next=Fidough|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Maushold
+|jname=イッカネズミ
+|tmname=Ikkanezumi
+|ndex=0925
+|type1=Normal
+|category=Family
+|forme=2
+|form1=Family of Four
+|form2=Family of Three
+|image2=0925Maushold-Three.png
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=6.2
+|weight-kg=2.8
+|weight-lbs2=5.1
+|weight-kg2=2.3
+|abilityn=2
+|ability1=Friend Guard
+|ability2=Cheek Pouch
+|abilityd=Technician
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Fairy
+|eggcycles=10
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=0
+|evsp=2
+|expyield=165
+|lv100exp=800000
+|gendercode=255
+|color=White
+|catchrate=75
+|body=11
+|pokefordex=maushold
+|generation=9
+|friendship=50
+}}
+'''Maushold''' ([[List of Japanese Pokémon names|Japanese]]: '''イッカネズミ''' ''Ikkanezumi'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Tandemaus}} when [[level]]ed up in a {{pkmn|battle}} starting at level 25. If leveled up in a battle Tandemaus was not sent out in, it will still evolve, but the [[Evolution#Animations|Evolution animation]] will be skipped.
+
+Maushold has two separate [[#Form data|forms]]: '''Family of Four''' and '''Family of Three'''. When Tandemaus evolves, it has a 1/100 chance of evolving into Family of Three Maushold.
+
+(Refer to [[#Form data|Game data&rarr;Form data]] for more details.)
+
+==Biology==
+[[File:MausholdPaldeaEvolved226.jpg|thumb|200px|left|Maushold's nest has many specialized rooms]]
+Maushold is a group of three or four separate mouse-like {{wp|rodent}} {{OBP|Pokémon|species}} which work together as one, similar to {{p|Exeggcute}}, {{p|Falinks}}, or its pre-evolved form {{p|Tandemaus}}. Each individual is small, white, and bipedal, and has a spherical head with large ears and stubby limbs that have large paws. Each one also has two black beady eyes, a tiny black nose with short whiskers, and a long tail which curls up and ends with a bulbous tip. When they open their mouths, which take up over half of their faces when fully open, a single upper incisor can be seen on the insides of each one.
+
+Two of the individuals are larger, and their appearance is virtually unchanged from Tandemaus, where one has a light-gray patch of fur surrounding its chest which resembles a shirt, while the other has a light-gray patch of fur surrounding its legs, which resembles a pair of pants. The pair are accompanied by one or two smaller ones, which lack the light-gray patch of fur and have shorter tails and stubbier limbs. The smaller ones tend to hide behind the larger pair, and hold onto the tips of their tails when walking.
+
+No one knows where the smaller individuals that form Maushold come from. The larger and smaller individuals live together and act as a family; however, their actual relationship is unclear. The larger individuals protect the smaller ones in battle, although they will all work together when faced with strong opponents. Maushold create and live in huge nests comprising many rooms with different purposes, such as eating and sleeping.
+
+Maushold and its pre-evolved form, {{p|Tandemaus}}, are the [[signature move|only known Pokémon]] capable of learning the move {{m|Population Bomb}}.
+{{left clear}}
+
+===Forms===
+Maushold has two separate forms: Family of Four and Family of Three.
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{normal color}}; {{roundy|10px}} border: 3px solid #{{normal color dark}}"
+|-
+| Family of Four
+|-
+| style="{{roundy|96px}} border: 2px solid #{{normal color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:925Maushold Dream - Four.png|100px]]
+|}
+|
+{| style="background: #{{normal color}}; {{roundy|10px}} border: 3px solid #{{normal color dark}}"
+|-
+| Family of Three
+|-
+| style="{{roundy|96px}} border: 2px solid #{{normal color dark}}; background: #{{normal color light}}; width:96px; height:96px"| [[File:925Maushold Dream.png|100px]]
+|}
+|}
+
+===Evolution===
+Maushold evolves from {{p|Tandemaus}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Normal
+|no1=0924
+|name1=Tandemaus
+|type1-1=Normal
+|evo1a=
+|no2a=0925
+|name2a=Maushold
+|form2a=Family of Four
+|type1-2a=Normal
+|evo1b=
+|no2b=0925
+|art2b=0925Maushold-Three
+|name2b=Maushold
+|form2b=Family of Three
+|type1-2b=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=72|reg2=Kitakami|num2=98|reg3=Blueberry}}
+{{Dex/Form|Family of Four}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The two little ones just appeared one day. The group might be a family of related Pokémon, but nobody knows for sure.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.}}
+{{Dex/Form|Family of Three}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The little one just appeared one day. They all live together like a family, but the relationship between the three is still unclear.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{normal color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Maushold SV.png|x200px]]
+|style="border:2px solid #{{normal color light}}; background:#{{normal color light}} | [[File:Pokédex Image Maushold SV Kitakami.png|x200px]]
+|-
+| Family of Four Maushold in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Family of Three Maushold in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Paldea)|Maushold - Family of Three|4★}}) <small>('''Family of Three Form''')</small><br>[[Tera Raid Battle]]s ({{DL|List of 6★ Tera Raid Battles (Paldea)|Maushold - Family of Four|6★}}) <small>('''Family of Four Form''')</small>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Tandemaus}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|HP=74
+|Attack=75
+|Defense=70
+|SpAtk=65
+|SpDef=75
+|Speed=111
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Maushold|Normal|Normal|9}}
+{{learnlist/level9|1|Follow Me|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Tidy Up|Normal|Status|—|—|10}}
+{{learnlist/level9|1|Pound|Normal|Physical|40|100|35||'''}}
+{{learnlist/level9|1|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level9|5|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/level9|8|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level9|11|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/level9|14|Double Hit|Normal|Physical|35|90|10||'''}}
+{{learnlist/level9|18|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/level9|22|Encore|Normal|Status|—|100|5}}
+{{learnlist/level9|29|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/level9|33|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/level9|37|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|41|Beat Up|Dark|Physical|—|100|10}}
+{{learnlist/level9|46|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level9|53|Population Bomb|Normal|Physical|20|90|10||'''}}
+{{learnlist/levelf/9|Maushold|Normal|Normal|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Maushold|Normal|Normal|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM011|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM039|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40|patch=Version 2.0.1 onwards}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM183|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tmf/9|Maushold|Normal|Normal|9}}
+
+====By {{pkmn|breeding}}====<!--Do not add parents, Maushold is gender unknown-->
+{{learnlist/breedh/9|Maushold|Normal|Normal|9}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|After You|Normal|Status|—|—|15|grid=2}}
+{{learnlist/breed9|{{MSP/H|0924|Tandemaus}}{{MSP/H|0925|Maushold}}|Baton Pass|Normal|Status|—|—|40|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Bite|Dark|Physical|60|100|25|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Feint|Normal|Physical|30|100|10||'''|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Switcheroo|Dark|Status|—|100|10|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Tickle|Normal|Status|—|100|20|grid=2}}
+{{learnlist/breedf/9|Maushold|Normal|Normal|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Maushold|Normal|Normal|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Maushold|Normal|Normal|9}}
+
+===Side game data===
+====Family of Four====
+{{Spindata/Head|type=Normal}}
+{{Spindata/GO|col=6|type=Normal|ndex=0925
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=179
+|attack=159
+|defense=157
+|fast={{m|Take Down}}, {{m|Mud Shot}}, {{m|Bullet Seed}}
+|special={{m|Swift}}, {{m|Play Rough}}, {{m|Crunch}}
+}}
+|}
+
+====Family of Three====
+{{Spindata/Head|type=Normal}}
+{{Spindata/GO|col=6|type=Normal|ndex=0925T
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=179
+|attack=159
+|defense=157
+|fast={{m|Take Down}}, {{m|Mud Shot}}, {{m|Bullet Seed}}
+|special={{m|Swift}}, {{m|Play Rough}}, {{m|Crunch}}
+}}
+|}
+
+===Form data===
+Maushold has two non-interchangeable forms: Family of Four and Family of Three. Aside from a weight difference, the difference between the two forms is purely aesthetic (though they also have different [[cry|cries]]). The form {{p|Tandemaus}} [[Evolution|evolves]] into is determined based on its [[personality value#Maushold's form|encryption constant]], with a 99% chance of it evolving into the Family of Four form and a 1% chance of it evolving into the Family of Three form. This is not the case for {{pkmn2|wild}} Maushold encountered in [[Tera Raid Battle]]s, as these will have a predetermined form (Family of Three in 4★ raids or Family of Four in 6★ raids) regardless of their encryption constant value.
+
+===Evolution data===
+{{Evobox/1branch2
+|type1=Normal
+|no1=0924
+|name1=Tandemaus
+|type1-1=Normal
+|evo1a={{bag/s|Rare Candy|SV}} + [[File:Bag Battle Items SwSh pocket icon.png|40px|link=Pokémon battle]] + [[File:Bag Loaded Dice SV Sprite.png|40px|link=Personality value]]<br>{{color2|000|Level}} 25<br><small>(only in {{color2|000|Pokémon_battle|battle}}, with a certain<br>{{color2|000|personality value|encryption constant}})
+|no2a=0925
+|art2a=0925Maushold
+|name2a=Maushold
+|form2a=Family of Four
+|type1-2a=Normal
+|evo1b={{bag/s|Rare Candy|SV}} + [[File:Bag Battle Items SwSh pocket icon.png|40px|link=Pokémon battle]] + [[File:Bag Loaded Dice SV Sprite.png|40px|link=Personality value]]<br>{{color2|000|Level}} 25<br><small>(only in {{color2|000|Pokémon_battle|battle}}, with a certain<br>{{color2|000|personality value|encryption constant}})
+|no2b=0925
+|art2b=0925Maushold-Three
+|name2b=Maushold
+|form2b=Family of Three
+|type1-2b=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=normal}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9/2Forms|ndex=0925|form1=T}}-->
+{{Spritebox/HOME/2Forms|ndex=0925|form1=T}}
+{{Spritebox/Footer|925|Maushold}}
+
+==In animation==
+===Main series===
+[[File:RVT Maushold.png|thumb|250px|Maushold in {{aniseries|HZ}}]]
+====Major appearances====
+{{form|Maushold|Family of Four}} Maushold made their debut in ''[[HZ038|The SOS is from Tandemaus?]]'', where they joined the group of Pokémon living on the [[Brave Olivine]].
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ038|Maushold|Liko's Rotom Phone|Maushold, the Family Pokémon. A {{t|Normal}} type. The two larger ones hunt for necessities while protecting the smaller two.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Discover Pokémon Together===
+[[File:Maushold The Mysterious Mismagius.png|thumb|250px|Maushold in ''{{DL|Discover Pokémon Together|The Mysterious Mismagius}}'']]
+A Maushold appears in ''{{DL|Discover Pokémon Together|The Mysterious Mismagius}}''. It is saved from a rampaging {{p|Scovillain}} by a {{p|Mismagius}}.
+
+===Pokémon: Paldean Winds===
+A {{pkmn|Trainer}}'s Family of Four Maushold appeared in ''[[PPW04|Breathe Together]]''.
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Maushold (TCG)}}
+
+==Trivia==
+* Although Family of Three Maushold is rarer and does not have official key artwork, it is the primary form of Maushold as listed in the code for {{g|Scarlet and Violet}}. In [[Pokémon HOME]], the Pokédex considers Family of Three the primary form, while the Pokémon Guidebook considers Family of Four the primary form.
+* Maushold and its pre-evolved form were designed by [[Megumi Mizutani]].<ref>[https://twitter.com/megtany/status/1607179613431824384 Megumi Mizutani on Twitter]</ref>
+* Maushold and its pre-evolved form are the only [[gender unknown]] {{OBP|Pokémon|species}} in the {{egg|Field}} [[Egg Group]], and the only {{type|Normal}} Pokémon [[List of Pokémon by shape#Pokémon consisting of multiple bodies|to consist of multiple bodies]].
+* Maushold is the only Pokémon to have {{a|Friend Guard}} as a standard [[Ability]] instead of a [[Hidden Ability]].
+* In [[Generation IX]], prior to the Version 2.0.1 update of Pokémon Scarlet and Violet, Maushold was unable to learn {{m|Baton Pass}} via [[TM]], while its pre-evolved form could.
+* Because {{p|Tandemaus}} must specifically level up in battle, Maushold is the only Pokémon that can be unobtainable upon reaching level 100 since the [[Rare Candy]] was updated to allow Evolution at the highest level.
+
+===Origin===
+Maushold seems to be based on a family of {{wp|mouse|mice}}. Specifically, based on its white coloration and its Pokédex entries describing how it lives in large nests with dedicated rooms, it may be based on {{wp|laboratory mouse|laboratory mice}} and how they are studied in simulacra of human behavior. Its forms may be based on the concept of a {{wp|nuclear family}}, and its doll-like appearance may reference {{wp|dollhouse}} figurines such as the Japanese doll line {{wp|Sylvanian Families}}.
+
+====Name origin====
+Maushold may be a combination of ''Maus'' (German for mouse) and ''household''. It may also be a pun on ''mouse hole''.
+
+Ikkanezumi may be a combination of 一家 ''ikka'' (family) and 鼠 ''nezumi'' (mouse).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=イッカネズミ ''Ikkanezumi''|jameaning=From {{tt|一家 ''ikka''|a family}} and {{tt|鼠 ''nezumi''|mouse}}
+|fr=Famignol|frmeaning=From ''{{tt|famille|family}}'', ''{{tt|mignon|cute}}'' and ''{{tt|campagnol|vole}}''
+|es=Maushold|esmeaning=Same as English name
+|de=Famieps|demeaning=From ''{{tt|Familie|family}}'' and ''{{tt|piepsen|to squeak}}''
+|it=Maushold|itmeaning=Same as English name
+|ko=파밀리쥐 ''Pamillijwi''|komeaning=From ''family'' and {{tt|쥐 ''jwi''|mouse}}
+|zh_cmn=一家鼠 '' Yījiāshǔ''|zh_cmnmeaning=From {{tt|一家 ''yījiā''|a family}} and {{tt|鼠 '' shǔ''|mouse}}
+|zh_yue=一家鼠 ''Yātgāsyú''|zh_yuemeaning=From {{tt|一家 ''yātgā''|a family}} and {{tt|鼠 ''syú''|mouse}}
+|hi=मूशीमोर ''Moosheemore''|himeaning=From {{tt|मूषक ''mūṣhak''|rat/mouse}} and ''more''
+|th=อิกคาเนซูมิ ''Ikkhanesumi''|thmeaning=Transcription of Japanese name
+}}
+{{-}}
+<div style="display:inline-block">
+''Family of Four''
+{{langtable
+|color={{normal color}}|bordercolor={{normal color dark}}
+|ja=４ひきかぞく ''{{tt|4-Hiki Kazoku|Family of Four}}''
+|zh_yue=四隻家庭 ''{{tt|Sei-Jek Gātìhng|Family of Four}}''
+|zh_cmn=四隻家庭 / 四只家庭 ''{{tt|Sì-Zhī Jiātíng|Family of Four}}''
+|fr=Famille de Quatre
+|de=Viererfamilie
+|it=Quadrifamiglia
+|ko=네 식구 ''{{tt|Ne Sikgu|Four Family Members}}''
+|pt_br=Família Quádrupla
+|es=Familia de Cuatro
+|th=ครอบครัวสี่ตัว
+}}
+</div>
+<div style="display:inline-block">
+''Family of Three''
+{{langtable
+|color={{normal color}}|bordercolor={{normal color dark}}
+|ja=３びきかぞく ''{{tt|3-Biki Kazoku|Family of Three}}''
+|zh_yue=三隻家庭 ''{{tt|Sāam-Jek Gātìhng|Family of Three}}''
+|zh_cmn=三隻家庭 / 三只家庭 ''{{tt|Sān-Zhī Jiātíng|Family of Three}}''
+|fr=Famille de Trois
+|de=Dreierfamilie
+|it=Trifamiglia
+|ko=세 식구 ''{{tt|Se Sikgu|Three Family Members}}''
+|pt_br=Família Tripla
+|es=Familia de Tres
+|th=ครอบครัวสามตัว
+}}
+</div>
+
+==Related articles==
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0924|prev=Tandemaus|nextnum=0926|next=Fidough}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Famieps]]
+[[es:Maushold]]
+[[fr:Famignol]]
+[[it:Maushold]]
+[[ja:イッカネズミ]]
+[[zh:一家鼠]]

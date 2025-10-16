@@ -1,0 +1,452 @@
+{{PokémonPrevNext/Head|type=Ghost|type2=Grass}}
+{{PokémonPrevNext/GO|species=Phantump}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0707|prev=Klefki|nextnum=0709|next=Trevenant|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Phantump
+|jname=ボクレー
+|jtranslit=Bokurē
+|tmname=Bokurei
+|ndex=0708
+|type1=Ghost
+|type2=Grass
+|category=Stump
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=15.4
+|weight-kg=7.0
+|abilitylayout=2
+|ability1=Natural Cure
+|ability2=Frisk
+|abilityd=Harvest
+|egggroupn=2
+|egggroup1=Grass
+|egggroup2=Amorphous
+|gendercode=127
+|eggcycles=20
+|evtotal=1
+|evat=1
+|expyield=62
+|lv100exp=1,000,000
+|color=Brown
+|catchrate=120
+|body=04
+|pokefordex=phantump
+|generation=6
+|friendship=70
+}}
+'''Phantump''' ([[List of Japanese Pokémon names|Japanese]]: '''ボクレー''' ''Bokurei'') is a dual-type {{2t|Ghost|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] into {{p|Trevenant}} when [[trade Evolution|traded]].
+
+==Biology==
+Phantump is a ghostly {{OBP|Pokémon|species}} possessing a tree stump. Its black body is wispy with nubby arms. Covering its head is a small, brown tree stump with a wavy branch on each side. Its red eyes are visible through two holes in the stump and its mouth appears on the stump itself. There are two small, green leaves near the tip of each branch. Brewing these leaves can create a curative liquid.
+
+Phantump is created when a spirit possesses a tree stump; it is said that the spirit is that of a child who became lost in the forest and died. This Pokémon's cries sound like the voice of a child or eerie screams. People have become lost following the voice, but Phantump is attempting to make friends. 
+
+Phantump and its evolved form {{p|Trevenant}} are the [[Signature move|only known Pokémon]] capable of learning the move {{m|Forest's Curse}}.
+
+===Evolution===
+Phantump evolves into {{p|Trevenant}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=ghost
+|type2=grass
+|pictype=art
+|no1=0708
+|name1=Phantump
+|type1-1=Ghost
+|type2-1=Grass
+|evo1=
+|no2=0709
+|name2=Trevenant
+|type1-2=Ghost
+|type2-2=Grass}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost|type2=Grass}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=061|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=These Pokémon are created when spirits possess rotten tree stumps. They prefer to live in abandoned forests.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=These Pokémon are created when spirits possess rotten tree stumps. They prefer to live in abandoned forests.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=196|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=250|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.}}
+{{Dex/Entry1|v=Moon|entry=According to legend, medicine to cure any illness can be made by plucking the green leaves on its head, brewing them, and boiling down the liquid.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=By imitating the voice of a child, it causes people to get hopelessly lost deep in the forest. It's trying to make friends with them.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=An unknown spirit came to lodge in a tree stump, creating this Pokémon. A cure-all can be made from an infusion of its green leaves.}}
+|}
+|}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=338|reg2=Galar|num2=033|label2=Crown Tundra|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit's rebirth as this Pokémon.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=With a voice like a human child's, it cries out to lure adults deep into the forest, getting them lost among the trees.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=68|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Legend tells that its green leaves can cure any illness. When plucked, however, the leaves will instantly wither away.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pokémon came to be when the spirit of a deceased child possessed a tree stump. It now wanders the forest searching for friends.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{ghost color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{grass color dark}}; background:#{{ghost color light}}| [[File:Pokédex Image Phantump SM.png|x200px]]
+|style="border:2px solid #{{ghost color light}}; background:#{{ghost color light}} | [[File:Pokédex Image Phantump SV Kitakami.png|x200px]]
+|-
+| Phantump in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Phantump in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ghost|type2=Grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|16|Kalos}}, [[Friend Safari]] ([[Friend Safari#Ghost-type Safari|Ghost]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Petalburg Woods]] ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Memorial Hill]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Memorial Hill]], [[Tapu Village]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Glimwood Tangle]]<br>[[Dappled Grove/Dens|Dappled Grove]], [[Watchtower Ruins/Dens|Watchtower Ruins]], [[Stony Wilderness/Dens|Stony Wilderness]], [[Giant's Mirror/Dens|Giant's Mirror]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Slippery Slope]], [[Old Cemetery]], [[Snowslide Slope]], [[Giant's Foot]], [[Three-Point Pass]]<br>[[Slippery Slope/Dens|Slippery Slope]], [[Old Cemetery/Dens|Old Cemetery]], [[Giant's Foot/Dens|Giant's Foot]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Reveler's Road]],  [[Kitakami Wilds]], [[Timeless Woods]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Kitakami)|Phantump|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ghost|type2=Grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Stage 3|Safari Jungle: Stage 3]]{{dotw|We}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Chilling Graveyard|Dark Land: Chilling Graveyard]] <small>(All Areas)</small>, [[Starlight Islands#Halloween Village|Starlight Islands: Halloween Village]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mimikyu Sea]], [[Rowlet Sea]], [[Greninja Sea]], [[Mimikyu Sea]]<sup>Final</sup>, [[Rowlet Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 303]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Ghost|type2=Grass}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Items1|Grassium Z|100|availNote=[[In-game trade]],&#32;|image=Held Grassium Z Sprite.png}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ghost
+|type2=Grass
+|HP=43
+|Attack=70
+|Defense=48
+|SpAtk=50
+|SpDef=60
+|Speed=38
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Grass
+|Normal=0
+|Fighting=0
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=100
+|Bug=100
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Phantump|Ghost|Grass|6}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||}}
+{{learnlist/level9|4|Branch Poke|Grass|Physical|40|100|40||'''}}
+{{learnlist/level9|8|Leech Seed|Grass|Status|—|90|10||}}
+{{learnlist/level9|12|Confuse Ray|Ghost|Status|—|100|10||}}
+{{learnlist/level9|16|Will-O-Wisp|Fire|Status|—|85|15||}}
+{{learnlist/level9|20|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level9|24|Growth|Normal|Status|—|—|20||}}
+{{learnlist/level9|28|Horn Leech|Grass|Physical|75|100|10||'''}}
+{{learnlist/level9|32|Curse|Ghost|Status|—|—|10||}}
+{{learnlist/level9|36|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/level9|40|Ingrain|Grass|Status|—|—|20||}}
+{{learnlist/level9|44|Wood Hammer|Grass|Physical|120|100|15||'''}}
+{{learnlist/level9|48|Destiny Bond|Ghost|Status|—|—|5||}}
+{{learnlist/level9|52|Forest's Curse|Grass|Status|—|100|20||}}
+{{learnlist/levelf/9|Phantump|Ghost|Grass|6}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Phantump|Ghost|Grass|6}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10||}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15||}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm9|TM061|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10||}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10||}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10||}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15||}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10||}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10||}}
+{{learnlist/tm9|TM151|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10||}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM199|Lash Out|Dark|Physical|75|100|5||}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20||}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Phantump|Ghost|Grass|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Phantump|Ghost|Grass|6}}
+{{learnlist/breed9|{{MSP/H|0577|Solosis}}{{MSP/H|0578|Duosion}}{{MSP/H|0579|Reuniclus}}|Ally Switch|Psychic|Status|—|—|15||}}
+{{learnlist/breed9|{{MSP/H|0088|Grimer}}{{MSP/H|0088-Alola|Grimer}}{{MSP/H|0089|Muk}}{{MSP/H|0089-Alola|Muk}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Dusknoir}}{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Disable|Normal|Status|—|100|20||}}
+{{learnlist/breed9|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0353|Shuppet}}{{MSP/H|0354|Banette}}{{MSP/H|0442|Spiritomb}}|Sucker Punch|Dark|Physical|70|100|5||}}
+{{learnlist/breedf/9|Phantump|Ghost|Grass|6}}
+
+===Side game data===
+{{Spindata/Head|type=Ghost|type2=Grass}}
+{{Spindata/PSMD|col=6|type=Ghost|ndex=708
+|coset=3
+|conto={{p|Gengar}}
+|recruitment=Introduced by {{p|Gengar}}
+|P1=I know how I look, but I'm not a ghost. There is no need to get startled.
+|P2=Maybe I AM a ghost, after all...
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ghost|ndex=708
+|walk=2.92
+|hp=46
+|attack=69
+|defense=49
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ghost|ndex=708
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Ghost|ndex=708|num=465
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Stabilize
+|skilldesc=Sometimes erases one of the foe's disruptions on the board.
+|swapper=Rock Break++
+}}
+|-
+{{Spindata/GO|col=6|type=Ghost|ndex=708
+|hatch=N/A
+|buddy=5
+|candy=Phantump
+|evocandy=200 or [[File:GO Trade icon.png|20px|link=Trade (GO)|Trade Evolution]]
+|stamina=125
+|attack=125
+|defense=103
+|fast={{m|Astonish}}, {{m|Tackle}}
+|special={{m|Seed Bomb}}, {{m|Shadow Ball}}, {{m|Foul Play}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=ghost
+|type2=grass
+|pictype=art
+|no1=0708
+|name1=Phantump
+|type1-1=Ghost
+|type2-1=Grass
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]]<br>{{color2|000|Trade}}
+|no2=0709
+|name2=Trevenant
+|type1-2=Ghost
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=ghost|type2=grass}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=708|crop=64}}
+{{Spritebox/7|ndex=708|crop=64}}
+{{Spritebox/8|ndex=708}}
+<!--{{Spritebox/9|ndex=0708}}-->
+{{Spritebox/HOME|ndex=0708}}
+{{Spritebox/Footer|708|Phantump}}
+
+==In animation==
+[[File:Phantump anime.png|thumb|250px|Phantump in {{aniseries|XY}}]]
+[[File:Shiny Phantump.png|thumb|250px|{{Shiny}} Phantump in {{aniseries|XY}}]]
+===Main series===
+====Major appearances====
+Multiple Phantump, including a {{DL|List of alternately colored Pokémon in animation|Phantump|Shiny}} one, made their animated series debut in ''[[XY117|Making Friends and Influencing Villains!]]''. {{Ash}} and {{ashfr}} spent the episode helping the Shiny Phantump reach its home on a mountaintop and make friends in the process.
+
+A Phantump appeared in ''[[SM094|A Haunted House for Everyone!]]'', where it played with [[Harper and Sarah]] at the [[Pokémon School]] and in the dream that a {{p|Mismagius}} created.
+
+A {{DL|List of Goh's Pokémon|Phantump}} appeared in ''[[JN025|A Festival Reunion!]]'', where it was among the Pokémon caught by [[Goh]] while in [[Shalour City]]. It has since made further appearances in {{aniseries|JN}}.
+
+====Minor appearances====
+Multiple Phantump debuted in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Phantump appeared as an image in ''[[XY091|A Performance Pop Quiz!]]''.
+
+Three Phantump appeared in ''[[SM125|A Timeless Encounter!]]''.
+
+Three Phantump appeared in ''[[JN005|Mind-Boggling Dynamax!]]'', where they were among the Pokémon seen in the [[Wild Area]].
+
+In ''[[JN050|A Pinch of This, a Pinch of That!]]'', a Phantump was in the Wild Area.
+
+Multiple Phantump appeared in ''[[JN082|The Sweet Taste of Battle!]]'', where they were among the Pokémon seen in [[Glimwood Tangle]].
+
+A Phantump appeared in ''[[JN137|The Road Most Traveled!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY117|Phantump|Ash's Pokédex|Phantump, the Stump Pokémon. Phantump come from rotting tree stumps that have been possessed by spirits. Lonely forests are their preferred habitat.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+===POKÉTOON===
+[[File:Phantump PT.png|thumb|250px|Phantump in [[POKÉTOON]]]]
+A Phantump appeared in [[PT12]].
+{{-}}
+
+==In the manga==
+[[File:Essentia Phantump Adventures.png|200px|thumb|Phantump in [[Pokémon Adventures]]]]
+[[File:Phantump ANN.png|thumb|left|200px|Phantump in [[After the Rain, Goomy.]]]]
+===Pokémon Adventures===
+In ''[[PS553|Sylveon Enchants]]'', a {{tc|Hex Maniac}}'s Phantump was at the Mini-game Corner.
+
+In ''[[PS560|Trevenant Pokes]]'', [[Emma|Essentia]]'s Phantump  was used to attack [[Gurkinn]] during her raid on the [[Tower of Mastery]].
+
+===After the Rain, Goomy.===
+Two Phantump appeared in [[After the Rain, Goomy.]]
+{{-}}
+
+==In the TCG==
+{{main|Phantump (TCG)}}
+
+==Trivia==
+* No other Pokémon have the same [[Egg Group]] combination as Phantump and its {{p|Trevenant|Evolution}}.
+* Of all the Pokémon that [[Methods of Evolution#Evolution via trading|evolve via trading]] (including with held items), Phantump is the only one whose evolved form can also be directly caught in the wild in the same generation in which it was introduced.
+* Phantump and its Evolution were designed by [[James Turner]].<ref>[https://twitter.com/JamesTurner_42/status/1316265423545921536 Tweet by James Turner (@JamesTurner_42).] Posted on October 14, 2020.</ref><ref>[https://www.youtube.com/watch?v=qJk3wrvL6To How Pokémon's Art Director James Turner Draws Pokémon.] Game Informer - YouTube.</ref>
+*Phantump and {{p|Pumpkaboo}} can be seen as counterparts. Both are dual-type [[Grass (type)|Grass]]/[[Ghost (type)|Ghost]]-type Pokémon that are the first stage of a two-stage evolutionary line introduced in [[Generation VI]] that evolve via trade. Both also have a signature move that adds a type to the target.
+
+===Origin===
+Phantump is probably based on the stump of a {{wp|kodama (spirit)|kodama}}, the spirits of trees that sometimes inhabit old-aged trees. It is also similar to other types of {{wp|List of tree deities|tree}} and {{wp|List of nature deities|nature}} spirits and deities, such as {{wp|dryad}}s. Its {{Shiny}} coloration may be based on an {{wp|aspen}} or {{wp|birch}} tree, known for its white bark, with its leaves representing a tree in the autumn.
+
+====Name origin====
+Phantump may be a combination of ''phantom'' and ''stump''.
+
+Bokurei may be derived from the ''{{wp|Kanji#On'yomi (Sino-Japanese reading)|on}}'' readings of the kanji in 木霊 ''kodama'', resulting in a combination of 木 ''boku'' (wood, tree) and 霊 ''rei'' (spirit, ghost).
+
+==In other languages==
+{{Other languages|type=ghost|type2=grass
+|ja=ボクレー ''Bokurei''|jameaning=From the alternative reading of 木霊 ''{{wp|kodama (spirit)|kodama}}''
+|fr=Brocélôme|frmeaning=From ''{{wp|Brocéliande}}'', ''{{tt|fantôme|ghost}}'', and ''{{tt|môme|kid, brat}}''
+|es=Phantump|esmeaning=Same as English name
+|de=Paragoni|demeaning=From ''Paranormal'' and ''{{tt|Mahagoni|mahogany}}''
+|it=Phantump|itmeaning=Same as English name
+|ko=나목령 ''Namokryeong|komeaning=From {{tt|나무 ''namu''|tree}}, {{tt|나목 (裸木) ''namok''|bare wood}}, and {{tt|령 (靈) ''ryeong''|spirit, ghost}}
+|zh_cmn=小木靈 / 小木灵 ''Xiǎomùlíng''|zh_cmnmeaning=From {{tt|小 ''xiǎo''|small}}, {{tt|木 ''mù''|wood}}, and {{tt|靈 / 灵 ''líng''|spirit}}
+|zh_yue=小木靈 ''Síumuhklìhng''|zh_yuemeaning=From {{tt|小 ''síu''|small}}, {{tt|木 ''muhk''|wood}}, and {{tt|靈 ''lìhng''|spirit}}
+|hi=रूहट्री ''Roohtree''|himeaning=From {{tt|रूह ''rūh''|soul/spirit}} and ''tree''
+|ru=Фантамп ''Fantamp''|rumeaning=Transcription of English name
+|th=โบคุเร ''Bokhure''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Trevenant (UNITE)]]
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Ghost|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0707|prev=Klefki|nextnum=0709|next=Trevenant}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve through trading]]
+
+[[de:Paragoni]]
+[[es:Phantump]]
+[[fr:Brocélôme]]
+[[it:Phantump]]
+[[ja:ボクレー]]
+[[zh:小木灵]]

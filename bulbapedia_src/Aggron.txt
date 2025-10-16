@@ -1,0 +1,948 @@
+{{PokémonPrevNext/Head|type=Steel|type2=Rock}}
+{{PokémonPrevNext/GO|species=Aggron}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0305|prev=Lairon|nextnum=0307|next=Meditite|round=none}}
+{{PokémonPrevNext/Disambig|species=Aggron}}
+|}
+{{Pokémon Infobox
+|name=Aggron
+|jname=ボスゴドラ
+|jtranslit=Bosugodora
+|tmname=Bossgodora
+|forme=2
+|form2=Mega Aggron
+|image2=0306Aggron-Mega.png
+|mega=Aggronite
+|ndex=0306
+|type1=Steel
+|type2=Rock
+|form2type1=Steel
+|category=Iron Armor
+|height-ftin=6'11"
+|height-m=2.1
+|height-ftin2=7'03"
+|height-m2=2.2
+|weight-lbs=793.7
+|weight-kg=360.0
+|weight-lbs2=870.8
+|weight-kg2=395.0
+|abilityn=dm
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Sturdy
+|ability2=Rock Head
+|abilityd=Heavy Metal
+|abilitym=Filter
+|egggroupn=1
+|egggroup1=Monster
+|eggcycles=35
+|evtotal=3
+|evde=3
+|expyield=239
+|oldexp=205
+|lv100exp=1,250,000
+|gendercode=127
+|color=Gray
+|catchrate=45
+|body=06
+|pokefordex=aggron
+|generation=3
+|friendship=35
+}}
+'''Aggron''' ([[List of Japanese Pokémon names|Japanese]]: '''ボスゴドラ''' ''Bossgodora'') is a dual-type {{2t|Steel|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Lairon}} starting at [[level]] 42. It is the final form of {{p|Aron}}.
+
+Aggron can [[Mega Evolution|Mega Evolve]] into '''Mega Aggron''' using the [[Aggronite]].
+
+==Biology==
+Aggron is a huge, bipedal {{OBP|Pokémon|species}}. It has a crusty, {{a|Sturdy|highly durable}} gray exoskeleton, adorned with plates of silver armor. The armor on its head has two pairs of holes with horns protruding from the foremost holes. Its forehead plating extends past its upper jaw in a small point. It has sky-blue eyes, and two nostril-like holes on the tip of its upper jaw. On the rim of its mouth are several pointed, fang-like protrusions and the nape of its neck and back have gray-silver armor sections. It has wide, blunt spikes on its shoulders and gray-silver bands on its arms and legs. Its hands and feet each have three claws. It has a thick, long, black tail that it can swing at enemies.
+
+The gouges in Aggron's armor from previous battles are worn as mementos. The more wounds it has, the more it has battled. It claims a large {{DL|List of Pokémon by habitat|Mountain Pokémon|mountain}} as its territory and fiercely defends it from trespassers. If its environment is damaged by a flood or a forest fire, it will restore the area by bringing in topsoil and planting trees. It burrows through the strongest of bedrock and digs tunnels, as it searches for iron to eat. Its horns, which it uses to dig through bedrock when seeking food, grow a little longer at a time and can be used to determine its age. Aggron's horn is sharp enough to cut through steel and used as a ramming weapon to bring foes down. Long ago, there was a king who wore a helmet resembling an Aggron in an attempt to channel its strength. As mentioned in [[Pokémon Sleep]], Aggron has been observed eating iron ore on rare occasions while it sleeps. It is believed that Aggron engages in this behavior due to exhaustion after patrolling its territory.
+
+===Forms===
+Aggron can [[Mega Evolution|Mega Evolve]] into Mega Aggron.
+
+Mega Aggron is bulkier and more heavily plated than its previous state. The horns on its forehead are now shorter, and it has a third, wider horn on its nose. Using its horns, it is said to be able to destroy a steel tank.<ref>http://www.pokemonxy.com/en-us/pokemon/mega_pokemon/#Aggron</ref> A spike projects downward from both its upper and lower jaw. The protrusions on its shoulders are longer and curve toward its head, and new spikes thrust from holes in its armbands. Its tail is thicker with two bands around it.
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{steel color}}; {{roundy|10px}} border: 3px solid #{{steel color dark}}"
+|-
+| {{color2|000|Mega Evolution|Mega}} Aggron
+|-
+| style="{{roundy|96px}} border: 2px solid #{{steel color dark}}; background: #{{steel color light}}; width:96px; height:96px"| [[File:0306Aggron-Mega.png|100px]]
+|}
+|}
+
+===Evolution===
+Aggron evolves from {{p|Lairon}} and is the final form of {{p|Aron}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Steel
+|type2=Rock
+|pictype=art
+|no1=0304
+|name1=Aron
+|type1-1=Steel
+|type2-1=Rock
+|evo1=
+|no2=0305
+|name2=Lairon
+|type1-2=Steel
+|type2-2=Rock
+|evo2=
+|no3=0306
+|name3=Aggron
+|type1-3=Steel
+|type2-3=Rock}}
+</div>
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Pinball: Ruby & Sapphire]]: The EVO Mode banner features an Aggron.
+* {{g|Mystery Dungeon: Explorers of Sky}}: Aggron is the boss of [[Boulder Quarry]], which can only be accessed through the Special Episode [[Here Comes Team Charm!]].
+
+===Pokédex entries===
+{{Dex/Header|type=Steel|type2=Rock}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=072|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Aggron</sc> claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This {{ScPkmn}} vigilantly patrols its territory at all times.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Aggron</sc> is surprisingly protective of its environment. If its mountain is ravaged by a landslide or a fire, this {{ScPkmn}} will haul topsoil to the area, plant trees, and beautifully restore its own territory.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its iron horns grow longer a little at a time. They are used to determine the <sc>Aggron</sc>'s age. The gouges in its armor are worn with pride as mementos from battles.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It claims a large mountain as its sole territory. It mercilessly thrashes those that violate its space.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=You can tell its age by the length of its iron horns. It claims an entire mountain as its territory.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=168|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It claims an entire mountain as its own. The more wounds it has, the more it has battled, so don't take it lightly.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=101|label1=Mountain|reg2=Hoenn|num2=074}}
+{{Dex/Entry1|v=X|t=FFF|entry=It claims an entire mountain as its own. The more wounds it has, the more it has battled, so don't take it lightly.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Aggron claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This Pokémon vigilantly patrols its territory at all times.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=193|label1=Crown Tundra|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Aggron has a horn sharp enough to perforate thick iron sheets. It brings down its opponents by ramming into them horn first.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokémon's strength.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Steel|type2=Rock}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Diamond|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+{{Availability/Entry1/None|v=Pearl}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|v=X|t=FFF|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+{{Availability/Entry1/None|v=Y|area=[[Trade]], [[#In events|Event]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Poni Plains]] ({{DL|QR Scanner|Island Scan}}){{dotw|Mo}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.3.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Lakeside Cave]] ([[Wanderer]])<br>[[Slippery Slope/Dens|Slippery Slope]], [[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Steel|type2=Rock}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|3|Phobos Drill}}, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Dark Crater|Deep Dark Crater]] (B9F-B14F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Dark Crater|Deep Dark Crater]] (B9F-B14F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Volcano Cave]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Sky Fortress]], [[Fire Temple]], [[Odd Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Volcanic Slope]] (post-ending)}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Lairon}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#Working Gears|Model Train Room: Working Gears]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 2|Pitch-Black Cavern: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Withered Cemetery|Distortion Land: Withered Cemetery]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 16|Area 16: Stage 07]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Jirachi Sea]], [[Rayquaza Sea]], [[Jirachi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=Fainted Pokémon: [[Mt. Faraway]]<br/>Mystery House: [[Silver Trench]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Old Gold Power Plant]] (from Master 3)<br>[[Greengrass Isle]]<sup>Expert</sup> (from Ultra 2)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 270]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Steel|type2=Rock}}
+{{eventAvail|{{gameabbrev3|RS}}|Pokémon Center New York Monster Week 2 Level 50 Aggron|English|United States|50|October 25 to 31, 2003|link=List of PCNY event Pokémon distributions in Generation III#Level 50 Aggron}}
+{{eventAvail|{{gameabbrev3|RS}}|Pokémon Center New York Monster Week 2 Level 100 Aggron|English|United States|100|October 25 to 31, 2003|link=List of PCNY event Pokémon distributions in Generation III#Level 100 Aggron}}
+{{eventAvail|{{gameabbrev6|Y}}|2014 Korean World Championship Series Aggron|All|South Korea|50|July 6, 2014|link=List of local event Pokémon distributions in Generation VI#Aggron}}
+|}
+
+===Held items===
+In {{game|Emerald}}, Aggron can only be found in the {{gdis|Battle Frontier|III}}.
+{{HeldItems/header|type=Steel|type2=Rock}}
+{{HeldItems/Games1|Emerald|tcolor=fff|Pokémon Emerald Version}}
+{{HeldItems/Items1|Hard Stone|5|rows=2}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Hard Stone|5|availNote=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;}}
+|}
+
+===Stats===
+====Base stats====
+=====Aggron=====
+{{BaseStats
+|type=Steel
+|type2=Rock
+|HP=70
+|Attack=110
+|Defense=180
+|SpAtk=60
+|SpDef=60
+|Speed=50}}
+
+=====Mega Aggron=====
+{{Base Stats
+|type=Steel
+|HP=70
+|Attack=140
+|Defense=230
+|SpAtk=60
+|SpDef=80
+|Speed=50}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+||type=Steel
+|type2=Rock
+|Speed=1
+|SpeedMax=2
+|Power=5
+|PowerMax=5
+|Technique=4
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=4
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+=====Aggron=====
+{{TypeEffectiveness
+|type1=Steel
+|type2=Rock
+|Normal=   25
+|Fighting=400
+|Flying=   25
+|Poison=    0
+|Ground=  400
+|Rock=     50
+|Bug=      50
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   200
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=    100
+|Fairy=    50
+|notes=yes
+|steel=yes
+|newpoison=½|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+=====Mega Aggron=====
+{{TypeEffectiveness
+|type1=Steel
+|Normal=   50
+|Fighting=150
+|Flying=   50
+|Poison=    0
+|Ground=  150
+|Rock=     50
+|Bug=      50
+|Ghost=   100
+|Steel=    50
+|Fire=    150
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=    100
+|Fairy=    50
+|notes=yes
+|filter=yes
+|filternote={{typecolor|Fighting}}-, {{typecolor|Ground}}-, and {{typecolor2|Fire}} moves is 1½×, if this ability is ignored it is 2×}}
+
+===Learnset===
+Aggron is available in {{pkmn|Sword and Shield}} Version 1.3.0+ and {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Aggron|Steel|Rock|3}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level8|1|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level8|1|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/level8|12|Roar|Normal|Status|—|—|20}}
+{{learnlist/level8|16|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level8|20|Protect|Normal|Status|—|—|10}}
+{{learnlist/level8|24|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level8|28|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level8|35|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level8|40|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level8|48|Autotomize|Steel|Status|—|—|15}}
+{{learnlist/level8|56|Iron Tail|Steel|Physical|100|75|15||'''}}
+{{learnlist/level8|64|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level8|72|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/level8|80|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level8|88|Metal Burst|Steel|Physical|—|100|10}}
+{{learnlist/levelf/8|Aggron|Steel|Rock|3}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Aggron|Steel|Rock|3}}
+{{learnlist/tm8|TM00|Mega Punch|Normal|Physical|80|85|20}}
+{{learnlist/tm8|TM01|Mega Kick|Normal|Physical|120|75|5}}
+{{learnlist/tm8|TM03|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/tm8|TM04|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/tm8|TM05|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM26|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM43|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm8|TM49|Sand Tomb|Ground|Physical|35|85|15}}
+{{learnlist/tm8|TM54|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM59|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm8|TM64|Avalanche|Ice|Physical|60|100|10}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM81|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm8|TM96|Smart Strike|Steel|Physical|70|—|10||'''}}
+{{learnlist/tm8|TM97|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm8|TM98|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR02|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tr|TR07|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR09|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tr|TR10|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tr|TR15|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR21|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tr|TR24|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR31|Iron Tail|Steel|Physical|100|75|15||'''}}
+{{learnlist/tr|TR32|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR37|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tr|TR39|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR47|Dragon Claw|Dragon|Physical|80|100|15}}
+{{learnlist/tr|TR58|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tr|TR62|Dragon Pulse|Dragon|Special|85|100|10}}
+{{learnlist/tr|TR64|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tr|TR67|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tr|TR70|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tr|TR74|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tr|TR75|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tr|TR76|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tr|TR79|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/tr|TR94|High Horsepower|Ground|Physical|95|95|10}}
+{{learnlist/tr|TR99|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tmf/8|Aggron|Steel|Rock|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Aggron|Steel|Rock|3}}
+{{learnlist/tm8|TM01|Focus Punch|Fighting|Physical|150|100|20||}}
+{{learnlist/tm8|TM02|Dragon Claw|Dragon|Physical|80|100|15||}}
+{{learnlist/tm8|TM03|Water Pulse|Water|Special|60|100|20||}}
+{{learnlist/tm8|TM05|Roar|Normal|Status|&mdash;|&mdash;|20||}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM12|Taunt|Dark|Status|&mdash;|100|20||}}
+{{learnlist/tm8|TM13|Ice Beam|Ice|Special|90|100|10||}}
+{{learnlist/tm8|TM14|Blizzard|Ice|Special|110|70|5||}}
+{{learnlist/tm8|TM15|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||}}
+{{learnlist/tm8|TM23|Iron Tail|Steel|Physical|100|75|15||'''}}
+{{learnlist/tm8|TM24|Thunderbolt|Electric|Special|90|100|15||}}
+{{learnlist/tm8|TM25|Thunder|Electric|Special|110|70|10||}}
+{{learnlist/tm8|TM26|Earthquake|Ground|Physical|100|100|10||}}
+{{learnlist/tm8|TM28|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm8|TM31|Brick Break|Fighting|Physical|75|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tm8|TM34|Shock Wave|Electric|Special|60|&mdash;|20||}}
+{{learnlist/tm8|TM35|Flamethrower|Fire|Special|90|100|15||}}
+{{learnlist/tm8|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM38|Fire Blast|Fire|Special|110|85|5||}}
+{{learnlist/tm8|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm8|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|&mdash;|100|15||}}
+{{learnlist/tm8|TM52|Focus Blast|Fighting|Special|120|70|5||}}
+{{learnlist/tm8|TM56|Fling|Dark|Physical|&mdash;|100|10||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM59|Dragon Pulse|Dragon|Special|85|100|10||}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15||}}
+{{learnlist/tm8|TM66|Payback|Dark|Physical|50|100|10||}}
+{{learnlist/tm8|TM68|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm8|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20||}}
+{{learnlist/tm8|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm8|TM72|Avalanche|Ice|Physical|60|100|10||}}
+{{learnlist/tm8|TM73|Thunder Wave|Electric|Status|&mdash;|90|20||}}
+{{learnlist/tm8|TM76|Stealth Rock|Rock|Status|&mdash;|&mdash;|20||}}
+{{learnlist/tm8|TM79|Dark Pulse|Dark|Special|80|100|15||}}
+{{learnlist/tm8|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM83|Bulldoze|Ground|Physical|60|100|20||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|&mdash;|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||}}
+{{learnlist/tm8|TM95|Surf|Water|Special|90|100|15||}}
+{{learnlist/tm8|TM96|Strength|Normal|Physical|80|100|15||}}
+{{learnlist/tm8|TM98|Rock Smash|Fighting|Physical|40|100|15||}}
+{{learnlist/tm8|TM100|Rock Climb|Normal|Physical|90|85|20||}}
+{{learnlist/tmf/8|Aggron|Steel|Rock|3}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Aggron|Steel|Rock|3}}
+{{learnlist/breed8|{{MSP/8c|079|Slowpoke}}{{MSP/8c|079G|Slowpoke}}{{MSP/8c|080|Slowbro}}{{MSP/8c|080G|Slowbro}}{{MSP/8c|199|Slowking}}{{MSP/8c|199G|Slowking}}{{MSP/8c|712|Bergmite}}{{MSP/8c|713|Avalugg}}|Curse|Ghost|Status|—|—|10|grid=8}}
+{{learnlist/breed8|{{MSP/8c|443|Gible}}{{MSP/8c|444|Gabite}}{{MSP/8c|445|Garchomp}}|Dragon Rush|Dragon|Physical|100|75|10|grid=8}}
+{{learnlist/breed8|{{MSP/8c|104|Cubone}}{{MSP/8c|105|Marowak}}{{MSP/8c|105A|Marowak}}{{MSP/8c|252|Treecko}}{{MSP/8c|253|Grovyle}}{{MSP/8c|254|Sceptile}}{{MSP/8c|258|Mudkip}}{{MSP/8c|259|Marshtomp}}{{MSP/8c|260|Swampert}}{{MSP/8c|757|Salandit}}|Endeavor|Normal|Physical|—|100|5|grid=8}}
+{{learnlist/breed8|{{MSP/8c|697|Tyrantrum}}{{MSP/8c|834|Drednaw}}|Head Smash|Rock|Physical|150|80|5||'''|grid=8}}
+{{learnlist/breed8|{{MSP/8c|104|Cubone}}{{MSP/8c|105|Marowak}}{{MSP/8c|105A|Marowak}}{{MSP/8c|694|Helioptile}}{{MSP/8c|695|Heliolisk}}|Mud-Slap|Ground|Special|20|100|10|grid=8}}
+{{learnlist/breed8|{{MSP/8c|108|Lickitung}}{{MSP/8c|463|Lickilicky}}{{MSP/8c|111|Rhyhorn}}{{MSP/8c|112|Rhydon}}{{MSP/8c|464|Rhyperior}}{{MSP/8c|293|Whismur}}{{MSP/8c|294|Loudred}}{{MSP/8c|295|Exploud}}{{MSP/8c|696|Tyrunt}}{{MSP/8c|697|Tyrantrum}}|Stomp|Normal|Physical|65|100|20|grid=8}}
+{{learnlist/breedf/8|Aggron|Steel|Rock|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Aggron|Steel|Rock|3}}
+{{learnlist/breed8|{{MSP/H|0131|Lapras}}{{MSP/H|0143|Snorlax}}{{MSP/H|0152|Chikorita}}{{MSP/H|0153|Bayleef}}{{MSP/H|0154|Meganium}}{{MSP/H|0357|Tropius}}|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/breed8|{{MSP/H|0079|Slowpoke}}{{MSP/H|0080|Slowbro}}{{MSP/H|0199|Slowking}}{{MSP/H|0387|Turtwig}}{{MSP/H|0388|Grotle}}{{MSP/H|0389|Torterra}}|Curse|Ghost|Status|&mdash;|&mdash;|10||}}
+{{learnlist/breed8|{{MSP/H|0443|Gible}}{{MSP/H|0444|Gabite}}{{MSP/H|0445|Garchomp}}|Dragon Rush|Dragon|Physical|100|75|10||}}
+{{learnlist/breed8|{{MSP/H|0104|Cubone}}{{MSP/H|0105|Marowak}}{{MSP/H|0252|Treecko}}{{MSP/H|0253|Grovyle}}{{MSP/H|0254|Sceptile}}{{MSP/H|0258|Mudkip}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0409|Rampardos}}|Endeavor|Normal|Physical|&mdash;|100|5||}}
+{{learnlist/breed8|{{MSP/H|0408|Cranidos}}{{MSP/H|0409|Rampardos}}|Head Smash|Rock|Physical|150|80|5||'''}}
+{{learnlist/breed8|{{MSP/H|0304|Aron}}{{MSP/H|0305|Lairon}}{{MSP/H|0306|Aggron}}{{MSP/H|0410|Shieldon}}{{MSP/H|0411|Bastiodon}}|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/breed8|{{MSP/H|0104|Cubone}}{{MSP/H|0105|Marowak}}{{MSP/H|0158|Totodile}}{{MSP/H|0159|Croconaw}}{{MSP/H|0160|Feraligatr}}|Mud-Slap|Ground|Special|20|100|10||}}
+{{learnlist/breed8|{{MSP/H|0111|Rhyhorn}}{{MSP/H|0112|Rhydon}}{{MSP/H|0464|Rhyperior}}|Reversal|Fighting|Physical|&mdash;|100|15|*|}}
+{{learnlist/breed8|{{MSP/H|0108|Lickitung}}{{MSP/H|0463|Lickilicky}}{{MSP/H|0158|Totodile}}{{MSP/H|0159|Croconaw}}{{MSP/H|0160|Feraligatr}}{{MSP/H|0246|Larvitar}}{{MSP/H|0247|Pupitar}}{{MSP/H|0248|Tyranitar}}{{MSP/H|0252|Treecko}}{{MSP/H|0253|Grovyle}}{{MSP/H|0254|Sceptile}}{{MSP/H|0258|Mudkip}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0293|Whismur}}{{MSP/H|0294|Loudred}}{{MSP/H|0295|Exploud}}{{MSP/H|0408|Cranidos}}{{MSP/H|0409|Rampardos}}|Screech|Normal|Status|&mdash;|85|40||}}
+{{learnlist/breed8|{{MSP/H|0108|Lickitung}}{{MSP/H|0463|Lickilicky}}{{MSP/H|0111|Rhyhorn}}{{MSP/H|0112|Rhydon}}{{MSP/H|0464|Rhyperior}}{{MSP/H|0293|Whismur}}{{MSP/H|0294|Loudred}}{{MSP/H|0295|Exploud}}{{MSP/H|0357|Tropius}}|Stomp|Normal|Physical|65|100|20||}}
+{{learnlist/breed8|{{MSP/H|0158|Totodile}}{{MSP/H|0159|Croconaw}}{{MSP/H|0160|Feraligatr}}|Superpower|Fighting|Physical|120|100|5||}}
+{{learnlist/breedf/8|Aggron|Steel|Rock|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Aggron|Steel|Rock|3}}
+{{learnlist/tutor8|Meteor Beam|Rock|Special|120|90|10||'''|no|yes}}
+{{learnlist/tutor8|Steel Beam|Steel|Special|140|95|5||'''|yes|no}}
+{{learnlist/tutor8|Steel Roller|Steel|Physical|130|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Aggron|Steel|Rock|3}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Aggron|Steel|Rock|3}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Aggron|Steel|Rock|3}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Aggron|Steel|Rock|3}}
+{{learnlist/prevgen8|Aggron|3|Aerial Ace|Flying|Physical|60|—|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Ancient Power|Rock|Special|60|100|5||'''|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Aqua Tail|Water|Physical|90|90|10|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Block|Normal|Status|—|—|5|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aggron|3|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Counter|Fighting|Physical|—|100|20|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Defense Curl|Normal|Status|—|—|40|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Double Team|Normal|Status|—|—|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Dragon Tail|Dragon|Physical|60|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Dynamic Punch|Fighting|Physical|100|50|5|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Focus Punch|Fighting|Physical|150|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Frustration|Normal|Physical|—|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aggron|3|Fury Cutter|Bug|Physical|40|95|20|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Hidden Power|Normal|Special|60|100|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aggron|3|Hone Claws|Dark|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Incinerate|Fire|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Magnet Rise|Electric|Status|—|—|10|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Mimic|Normal|Status|—|—|10|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aggron|3|Power-Up Punch|Fighting|Physical|40|100|20|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Return|Normal|Physical|—|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aggron|3|Rock Polish|Rock|Status|—|—|20|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Aggron|3|Rollout|Rock|Physical|30|90|20||'''|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Aggron|3|Seismic Toss|Fighting|Physical|—|100|20|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Shock Wave|Electric|Special|60|—|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Smack Down|Rock|Physical|50|100|15||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Smelling Salts|Normal|Physical|70|100|10|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Aggron|3|Spite|Ghost|Status|—|100|10|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Aggron|3|Strength|Normal|Physical|80|100|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Swagger|Normal|Status|—|85|15|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Toxic|Poison|Status|—|90|10|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Aggron|3|Water Pulse|Water|Special|60|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgenf/8|Aggron|Steel|Rock|3}}
+
+===Side game data===
+====Aggron====
+{{Spindata/Head|type=Steel|type2=Rock}}
+{{Spindata/PinballRS|col=3|type=Steel|ndex=306|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Steel|ndex=306|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Steel|ndex=306
+|body=1
+|rate=Evolve
+|area=Mt. Cleft
+|P1=I don't forgive anyone that messes with my territory!
+|P2=Gah! So, my health has slipped down by half...
+|P3=I'm finished... I'm drained of power...
+|PL=That's right! I leveled up! I'll smash my enemies flat!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Steel|ndex=306
+|body=1
+|rate=-10
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Steel|ndex=306
+|coset=3
+|conto={{p|Gyarados}}
+|recruitment=Introduced by {{p|Gyarados}}
+|P1=This huge mountain is my territory. Where is it? Well…where isn't it!
+|P2=I can't use my horns much longer…
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Steel
+|group=Steel
+|assist=Steel
+|field=Tackle
+|fieldpower=4
+|num=133
+|browser=It opens up {{m|fissure}}s in the ground. It also rams to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Steel
+|group=Steel
+|assist=Steel
+|field=Tackle
+|fieldpower=4
+|num=122
+|pastnum=096
+|browser=It launches three iron balls to attack.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Steel
+|att=3
+|def=5
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Steel|ndex=306
+|walk=1.42
+|hp=53
+|attack=81
+|defense=63
+|speed=60
+}}
+|-
+{{Spindata/Conquest|col=6|type=Steel|ndex=306
+|HP=3
+|atk=4
+|def=5
+|spd=2
+|range=2
+|move=Iron Tail
+|ability1=Sturdy
+|ability2=Bodyguard
+|ability3=Run Up
+|evo=Evolves from {{p|Lairon}} when its Defense is 130 or higher
+|link='''[[Ieyasu]]''', [[Katsu]], [[Tadatsugu]], and [[Toku]]
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Steel|ndex=306
+|power=3
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Steel|ndex=306|num=393
+|mega=1
+|stone=Aggronite
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Eject
+|skilldesc=Removes one non-Support Pokémon icon without fail.
+|swapper=Crushing Step
+|megaspeedup=5
+|effectdesc=Erases Pokémon and disruptions around three spots you tap.
+}}
+|-
+{{Spindata/GO|col=6|type=Steel|ndex=306
+|hatch=N/A
+|buddy=1
+|candy=Aron
+|evolution={{Mega Energy|Aggron}}{{tt|200|First time}}/{{tt|40|1st Mega Level}}/{{tt|20|2nd Mega Level}}/{{tt|10|3rd Mega Level}}
+|stamina=172|attack=198|defense=257
+|fast={{m|Dragon Tail}}, {{m|Iron Tail}}, {{m|Smack Down}}{{tt|*|From July 9, 2019 onward}}, {{m|Metal Sound}}{{tt|*|From June 1, 2025 onward}}
+|special={{m|Thunder}}, {{m|Stone Edge}}, {{m|Heavy Slam}}, {{m|Rock Tomb}}{{tt|*|From November 29, 2021 onward}}, {{m|Meteor Beam}}{{tt|*|From December 1, 2022 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0306
+|pokemon=Aron
+|sleeptype=Slumbering
+|type=Steel
+|dexentry=Aggron claims an entire mountain as its own. This Pokémon vigilantly patrols to make sure nothing violates its territory. On rare occasions, it's been spotted sleeping while eating iron ore it dug up from its mountain—perhaps it was tuckered out from its patrol.
+|sleepstyle1=Tummy-Rub Sleep
+|sleepstyle2=Imposing Sleep
+|sleepstyle3=Iron-Eating Sleep
+|sleepstyle4=Atop-Belly Sleep
+|friendpoints=20
+|specialty=Ingredients
+|candyNum=
+|evolution=
+|berry=Belue
+|ingredient1=Bean Sausage
+|ingredient2=Rousing Coffee
+|ingredient3=Greengrass Soybeans
+|carrylimit=18
+|skillname=Charge Energy S
+|skilldesc=Restores 12 Energy to the user.
+}}
+|}
+
+====Mega Aggron====
+{{Spindata/Head|type=Steel}}
+{{Spindata/PSMD|col=6|type=Steel|ndex=306M
+|coset=3
+|conto={{p|Gyarados}}
+|recruitment=Introduced by {{p|Gyarados}}
+|P1=This huge mountain is my territory. Where is it? Well…where isn't it!
+|P2=I can't use my horns much longer…
+}}
+|-
+{{Spindata/GO|col=6|type=Steel|ndex=306M
+|hatch=N/A
+|buddy=1
+|candy=Aron
+|evolution=N/A
+|stamina=172|attack=247|defense=331
+|fast={{m|Dragon Tail}}, {{m|Iron Tail}}, {{m|Smack Down}}{{tt|*|From July 9, 2019 onward}}, {{m|Metal Sound}}{{tt|*|From June 1, 2025 onward}}
+|special={{m|Thunder}}, {{m|Stone Edge}}, {{m|Heavy Slam}}, {{m|Rock Tomb}}{{tt|*|From November 29, 2021 onward}}, {{m|Meteor Beam}}{{tt|*|From December 1, 2022 onward}}, {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Form data===
+====Mega Evolution====
+{{Evobox/Formes
+|sprite1=0306Aggron
+|name1=Aggron
+|type1-1=Steel
+|type2-1=Rock
+|forme1=Aggron
+|loc1=Default
+|item1=Aggronite
+|itemfile1=Dream Aggronite Sprite.png
+|itemsize1=40px
+|sprite2=0306Aggron-Mega
+|type1-2=Steel
+|forme2=Mega Aggron
+|loc2={{color2|000|Held item|Held}} Aggronite
+}}
+
+===Evolution data===
+{{Evobox-3
+|type1=Steel
+|type2=Rock
+|pictype=art
+|no1=0304
+|name1=Aron
+|type1-1=Steel
+|type2-1=Rock
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 32}}
+|no2=0305
+|name2=Lairon
+|type1-2=Steel
+|type2-2=Rock
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 42}}
+|no3=0306
+|name3=Aggron
+|type1-3=Steel
+|type2-3=Rock}}
+
+===Sprites===
+{{Spritebox/Header|type=Steel|type2=Rock}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=306}}
+{{Spritebox/4|ndex=306}}
+{{Spritebox/5|ndex=306}}
+{{Spritebox/6/2Forms|ndex=306|form1=M|crop=141}}
+{{Spritebox/7/2Forms|ndex=306|form1=M|crop=134}}
+{{Spritebox/8|ndex=306}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/2Forms|ndex=0306|form1=M}}
+{{Spritebox/Footer|306|Aggron}}
+
+==In animation==
+===Main series===
+[[File:Steven Aggron.png|thumb|250px|Aggron in {{aniseries|JN}}]]
+[[File:Gozu Mega Aggron.png|thumb|250px|Mega Aggron in {{aniseries|SM}}]]
+====Major appearances====
+Aggron debuted in ''[[AG022|A Hole Lotta Trouble]]'', under the ownership of {{an|Steven Stone}}. The Iron Armor Pokémon was used to send {{TRT}} flying before being [[recall]]ed into its {{i|Poké Ball}}. It reappeared in ''[[JN118|Battling as Hard as Stone!]]'', where it was used in Steven's [[Masters Eight Tournament]] match against {{Ash}}. It battled and defeated {{AP|Dracovish}} before being defeated by {{AP|Gengar}}.
+
+In ''[[PK13|Pikachu's Summer Festival]]'', an Aggron sent a {{p|Skarmory}} to kidnap an {{p|Azumarill}} to sing for him and his children.
+
+In ''[[AG128|Shocks and Bonds]]'', [[Johnny]] used an Aggron in a [[Double Battle]] against {{ho|Tyson}}'s {{p|Sceptile}} at the [[Ever Grande Conference]]. It was defeated by its {{m|Solar Beam}}.
+
+In ''[[AG177|Grating Spaces]]'', [[Jessie]] and [[James]] were temporarily given a {{p|Charizard}} and Aggron. The two Pokémon were used to battle [[Ash's Donphan]] and [[Brock's Steelix]]. Along with Charizard, Aggron was returned to {{OBP|Delibird|Team Rocket}}, who meant to give them to [[Butch]] and [[Cassidy]].
+
+In ''[[DP057|Bibarel Gnaws Best!]]'', the [[head engineer]] used an Aggron to attack a {{p|Bibarel}} alongside a {{p|Metang}} and {{p|Magmar}}, but Bibarel dodged its attack. It was eventually defeated by [[Ash's Buizel]]'s super effective {{m|Water Gun}}.
+
+In ''[[DP072|Pokémon Ranger and the Kidnapped Riolu! (Part 2)]]'', {{OBP|J's client|DP071}} used an Aggron to barricade passages in a cave in order to prevent Ash and [[Kellyn]] from following him.
+
+In ''[[DP110|Steeling Peace of Mind!]]'' and ''[[DP111|Saving the World From Ruins!]]'', an Aggron was affected by [[Team Galactic]]'s meddling on [[Iron Island]].
+
+In ''[[DP119|Trials and Adulations!]]'', a wild Aggron battled [[Dawn's Mamoswine]].
+
+In ''[[DP186|Familiarity Breeds Strategy!]]'', [[Paul]] used an Aggron in his [[Lily of the Valley Conference]] {{pkmn|battle}} against {{Ash}}, fighting well against Pikachu with its powerful moves. However, it could not stand on the same par as [[Ash's Infernape]] and was defeated with a {{m|Mach Punch}}.
+
+In ''[[M19|Volcanion and the Mechanical Marvel]]'', an Aggron capable of [[Mega Evolution|Mega Evolving]] was under the control of [[Levi]] and [[Cherie]]'s Mega Wave. It was used to battle [[Ash's Pikachu]], [[Squishy]], and {{OBP|Volcanion|M19}}. It was later freed from their control when [[Alva]]'s Mega Wave Crystal was destroyed, and it escaped.
+
+In ''[[SM089|The Prism Between Light and Darkness!]]'', [[Gozu]] sent an Aggron capable of Mega Evolving to battle {{an|Professor Kukui}} and {{an|Faba}}. In ''[[SM090|Securing the Future!]]'', Aggron was defeated by Kukui's {{TP|Professor Kukui|Incineroar}}.
+
+====Minor appearances====
+An Aggron appeared in ''[[AG034|Having a Wailord of a Time]]'', under the ownership of a contestant.
+
+In the opening sequence of ''[[M06|Jirachi: Wish Maker]]'', {{ga|Brendan}} used an Aggron and a {{p|Shiftry}} in a [[Double Battle]].
+
+An Aggron appeared in [[PK13]].
+
+A {{pkmn|Trainer}}'s Aggron appeared in a fantasy in ''[[AG125|Like a Meowth to a Flame]]''.
+
+Multiple Aggron appeared in ''[[M08|Lucario and the Mystery of Mew]]'', most of them as part of the feuding armies that were eventually placated by [[Sir Aaron]] in the past. In the present day, a Trainer's Aggron won against another Trainer's {{p|Hitmonlee}} during the [[Rota]] tournament.
+
+In ''[[The Mastermind of Mirage Pokémon]]'', [[Dr. Yung]] used a {{pkmn2|Mirage}} Aggron.
+
+In ''[[DP051|Glory Blaze!]]'', [[Conway]]'s Aggron battled alongside [[Dawn's Pachirisu]] during the [[Hearthome City Tag Battle Competition]].
+
+In ''[[M11|Giratina and the Sky Warrior]]'', an Aggron and its pre-evolved forms helped {{Ash}} and {{ashfr}} stop a broken glacier.
+
+An Aggron appeared in ''[[DP091|One Team, Two Team, Red Team, Blue Team!]]''
+
+An Aggron appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+In ''[[BW134|The Journalist from Another Region!]]'', a {{pkmn|Trainer}}'s Aggron was entered into the [[Pokémon Sumo Tournament]] on [[Harvest Island]].
+
+An Aggron capable of Mega Evolving appeared in the opening of ''[[XYS01|Mega Evolution Special I]]''.
+
+In ''[[XYS04|Mega Evolution Special IV]]'', a Trainer's Mega Aggron was one of the ten Mega-Evolved Pokémon that [[Alain]] and his {{TP|Alain|Charizard}} had to defeat.
+
+A soldier's Aggron appeared in a flashback in ''[[XYS05|The Legend of X, Y, and Z!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG022|Aggron|Ash's Pokédex|Aggron, the Iron Armor Pokémon. Aggron is the final Evolution of Aron. It shows no mercy to anyone who disturbs its habitat.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP119|Aggron|Dawn's Pokédex|Aggron, the Iron Armor Pokémon. Aggron's steel horns can destroy the firmest of bedrock and it {{m|dig}}s tunnels as it looks for iron to eat.}}
+{{Animedexbody|DP186|Aggron|Dawn's Pokédex|Aggron, the Iron Armor Pokémon, and the evolved form of {{p|Lairon}}. Aggron claims a large mountain for its territory, and fiercely defends it from those who trespass.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN118|Aggron|Goh's Rotom Phone|Aggron, the Iron Armor Pokémon. A {{t|Steel}} and {{t|Rock}} type. Aggron has a sharp horn that can pierce through thick iron. It rams opponents with its horn to stop them in their tracks.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Generations===
+[[File:Abomasnow Weavile Aggron Magnemite PG.png|thumb|250px|Aggron in [[Pokémon Generations]]]]
+A soldier's Aggron appeared in ''[[PG18|The Redemption]]'', during a fantasy of a story from the past. It was one of the many Pokémon fighting in the great war of [[Kalos]] 3,000 years previously.
+
+===Pokémon Evolutions===
+[[File:May Aggron Evolutions.png|thumb|left|250px|Aggron in [[Pokémon Evolutions]]]]
+An Aggron appeared in ''[[PE06|The Wish]]'', under the ownership of {{ga|May}}. It was used to battle {{p|Rayquaza}} but was quickly [[recall]]ed after its single {{m|Stone Edge}} missed.
+{{-}}
+
+==In the manga==
+[[File:Sapphire Rono.png|thumb|200px|Aggron in [[Pokémon Adventures]]]]
+[[File:Mega Aggron Adventures.png|thumb|left|200px|Mega Aggron in Pokémon Adventures]]
+===Pocket Monsters XY: The Legend of the Pokémon Dragon King===
+[[Daito]] owns an Aggron, as seen in [[LDK0]].
+
+===Pokémon Adventures===
+{{main|Rono}}
+In ''[[PS256|With a Spoink in Your Step II]]'', {{adv|Sapphire}}'s Lairon, [[nickname]]d Rono, evolved into an Aggron after training on {{gdis|Mirage Island|III}}.
+
+{{adv|Giovanni}} was later seen using an Aggron in ''[[PS282|Going Green]]'' to shatter {{adv|Deoxys}}'s Delta Shield with his {{m|Brick Break}} attack, {{pkmn2|caught|catching}} it.
+
+An Aggron appeared as a {{Gdis|Battle Factory|III}} Pokémon in ''[[PS306|Pinsir Me, I Must Be Dreaming]]''.
+
+The Battle Factory rented an Aggron, which was stolen by [[Guile Hideout]] in ''[[PS326|Lemme at 'Em, Lapras!]]''.
+
+An Aggron appeared in a flashback as one of the Pokémon trained by the [[International Police]] in ''[[PS528|Innocent Scientist]]''.
+
+A Mega Aggron appeared in a fantasy in ''[[PS556|Lucky Lucario Was Here]]''.
+
+An Aggron capable of [[Mega Evolution|Mega Evolving]] appeared in a fantasy in ''[[PS560|Trevenant Pokes]]''.
+
+In ''[[PS585|Pinsir Changes]]'', an Aggron drained of its life energy was among several other Pokémon in a similar state at {{rt|19|Kalos}}. {{adv|Tierno}} and {{adv|Shauna}} were forced to move the Aggron's body to find a [[Mega Stone]].
+
+===Pokémon Diamond and Pearl Adventure!===
+Aggron was seen under the ownership of a {{tc|Team Galactic Grunt}} in ''[[DPA27|A Surprise Visit from Hareta's Father!]]''.
+
+===Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~===
+An Aggron appeared in [[PNA6]], under the ownership of [[Ieyasu]].
+
+==In the TCG==
+{{main|Aggron (TCG)}}
+
+==Trivia==
+* Of all the {{OBP|Pokémon|species}} that can [[Mega Evolution|Mega Evolve]], Aggron is the only dual-type Pokémon that becomes single-type upon Mega Evolving.
+* Mega Aggron is tied with {{me|Steelix}} for the highest base {{stat|Defense}} stat of all {{type|Steel}} Pokémon.
+
+===Origin===
+Aggron may be based on the {{wp|Pulgasari (creature)|Pulgasari}}, a monster that eats iron in Korean legend; its draconic appearance may have been inspired by how it appears in {{wp|Pulgasari|the film adaptation}} of the legend. Aggron's design may have also drawn inspiration from the ''{{wp|kaiju}}'' genre.
+
+It also seems to be based on a ''{{wp|Triceratops}}'' and various {{wp|Theropoda|theropods}}. As its Pokémon category suggests, its appearance may also be inspired by {{wp|plate armour}}s, and its head resembles a {{wp|knight}} or {{wp|gladiator}}'s helmet.
+
+====Name origin====
+Aggron may be a combination of ''aggressive'' or ''{{wp|Construction aggregate|aggregate}}'' and ''{{wp|iron}}''.
+
+Bossgodora may be a combination of ''boss'', 坑道 ''kōdō'' (mining tunnel), and コドラ ''Kodora'' ({{p|Lairon}}).
+
+==In other languages==
+{{Other languages|type=Steel|type2=Rock
+|ja=ボスゴドラ ''Bossgodora''|jameaning=From ''boss'', {{tt|坑道 ''kōdō''|mining tunnel}}, and ''dragon'' or コドラ ''{{p|Lairon|Kodora}}''
+|fr=Galeking|frmeaning=From ''{{tt|galet|pebble}}'' and ''king''
+|es=Aggron|esmeaning=Same as English name
+|de=Stolloss|demeaning=From ''{{wp|Adit|Stollen}}'' and ''{{tt|Koloss|colossus}}'' or ''boss''
+|it=Aggron|itmeaning=Same as English name
+|ko=보스로라 ''Bosrora''|komeaning=Partial transcription of Japanese name
+|zh_cmn=波士可多拉 ''Bōshìkěduōlā''|zh_cmnmeaning=From {{tt|波士 ''bōsí''|Cantonese for boss}} and transcription of Japanese name
+|zh_yue=波士可多拉 ''Bōsíhódōlāai''|zh_yuemeaning=From {{tt|波士 ''bōsí''|Cantonese for boss}} and Mandarin-based transcription of Japanese name
+|hi=आइरोडॉन ''Irodon''|himeaning=From ''iron'' and ''don''
+|ru=Аггрон ''Aggron''|rumeaning=Transcription of English name
+|th=บอสโกโดรา ''Botkodora''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Rono]]
+* [[Mega Evolution]]
+
+==References==
+<references />
+
+==External links==
+{{Mega Evolution}}{{PokémonPrevNext/Head|type=Steel|type2=Rock}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0305|prev=Lairon|nextnum=0307|next=Meditite}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Stolloss]]
+[[es:Aggron]]
+[[fr:Galeking]]
+[[it:Aggron]]
+[[ja:ボスゴドラ]]
+[[zh:波士可多拉]]

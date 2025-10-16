@@ -1,0 +1,629 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Dunsparce}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0205|prev=Forretress|nextnum=0207|next=Gligar|round=none}}
+{{PokémonPrevNext/Disambig|species=Dunsparce}}
+|}
+{{Pokémon Infobox
+|name=Dunsparce
+|jname=ノコッチ
+|jtranslit=Nokotchi
+|tmname=Nokocchi
+|ndex=0206
+|typebox=1
+|type1=Normal
+|category=Land Snake
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=30.9
+|weight-kg=14.0
+|abilityn=d
+|ability1=Serene Grace
+|ability2=Run Away
+|abilityd=Rattled
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=1
+|evhp=1
+|expyield=145
+|g4exp=125
+|oldexp=75
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|catchrate=190
+|body=02
+|pokefordex=dunsparce
+|generation=2
+|friendship=70
+}}
+'''Dunsparce''' ([[List of Japanese Pokémon names|Japanese]]: '''ノコッチ''' ''Nokocchi'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] into {{p|Dudunsparce}} when [[level]]ed up while knowing {{m|Hyper Drill}}.
+
+Dunsparce will evolve into one of two {{fd|Dudunsparce|forms}} of Dudunsparce, '''Two-Segment Form''' or '''Three-Segment Form''', with a 1/100 chance of evolving into Three-Segment Form Dudunsparce.
+
+(Refer to [[#Evolution data|Game data&rarr;Evolution data]] for more details.)
+
+==Biology==
+Dunsparce is a {{wp|snake|serpentine}}, and somewhat {{wp|insect|insectoid}}, {{OBP|Pokémon|species}} with a primarily yellow body, blue underside, and blue-and-cream-striped back. Its head is round with a wide mouth extending under its jowls and curving up toward the middle of its face. Its chin is blue with two rounded prongs. Its eyes—round and rimmed with blue—are kept closed, revealing its cream-colored eyelids. On Dunsparce's upper back are two tiny white wings. Its body ends in a drill-like tail.
+
+Dunsparce can float slightly with its wings, which some scientists believe were used to fly in the sky during ancient times. However, it avoids detection and flees when spotted by burrowing into the ground with its tail. It lives immobile in {{DL|List of Pokémon by habitat|Cave Pokémon|caves}} and beneath the earth, where it makes maze-like nests. They get along with {{p|Diglett}} and share tunnels with each other. Dunsparce can navigate through its nests without getting lost by the smell of the dirt.
+
+Dunsparce and its evolved form, {{p|Dudunsparce}}, are the [[signature move|only known Pokémon]] capable of learning the move {{m|Hyper Drill}}.
+
+===Evolution===
+Dunsparce evolves into {{p|Dudunsparce}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Normal
+|no1=0206
+|name1=Dunsparce
+|type1-1=Normal
+|evo1a=
+|no2a=0982
+|name2a=Dudunsparce
+|form2a=Two-Segment
+|type1-2a=Normal
+|evo1b=
+|no2b=0982
+|art2b=0982Dudunsparce-Three
+|name2b=Dudunsparce
+|form2b=Three-Segment
+|type1-2b=Normal}}
+</div>
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Gates to Infinity]]: {{mdc|Dunsparce|gti}} is a supporting character throughout the game.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=052}}
+{{Dex/Entry1|v=Gold|entry=When spotted, this {{ScPkmn}} escapes backward by furiously boring into the ground with its tail.}}
+{{Dex/Entry1|v=Silver|entry=If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.}}
+{{Dex/Entry1|v=Crystal|entry=It hides deep inside caves where no light ever reaches it and remains virtually motionless there.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=When spotted, this {{ScPkmn}} escapes backward by furiously boring into the ground with its tail. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Dunsparce</sc> has a drill for its tail. It uses this tail to burrow into the ground backwards. This {{ScPkmn}} is known to make its nest in complex shapes deep under the ground.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its drill-tipped tail is used to burrow into the ground backwards. This {{ScPkmn}} is known to make its nest in complex shapes deep under the ground.}}
+{{Dex/Entry1|v=FireRed|entry=If spotted, it escapes by burrowing with its tail. It can hover just slightly using its wings.}}
+{{Dex/Entry1|v=LeafGreen|entry=When spotted, this {{ScPkmn}} escapes backward by furiously boring into the ground with its tail.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=052}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.}}
+{{Dex/Entry1|v=HeartGold|entry=When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.}}
+{{Dex/Entry1|v=SoulSilver|entry=If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=035|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=040|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=063|label1={{gameIcon|US}}{{gameIcon|UM}}:|reg2=Kanto}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It travels by digging through the ground. Diglett and Dunsparce share one another's tunnels happily.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=052|label1=Isle of Armor|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon's tiny wings have some scientists saying that Dunsparce used to fly through the sky in ancient times.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests—they can tell where they are by the scent of the dirt.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=188|reg2=Kitakami|num2=160|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{normal color dark}}; background:#{{normal color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{normal color dark}}; background:#{{normal color light}};" | [[File:Pokédex Image Dunsparce USUM.png|x200px]]
+| style="border:2px solid #{{normal color dark}}; background:#{{normal color light}}; {{roundy|5px}};" | [[File:Pokédex Image Dunsparce SV.png|x200px]]
+| style="border:2px solid #{{normal color dark}}; background:#{{normal color light}}; {{roundy|5px}};" | [[File:Pokédex Image Dunsparce SV Kitakami.png|x200px]]
+|-
+| Dunsparce in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Dunsparce in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Dunsparce in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Dark Cave]]{{tt|*|Violet City side}}}}
+{{Availability/Entry1|v=Crystal|area=[[Dark Cave]]{{tt|*|Violet City side}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Three Isle Port]]}}
+{{Availability/Entry1|v=Colosseum|area=[[Pyrite Cave]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|208|Sinnoh}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|208|Sinnoh}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Dark Cave]]}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|12|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|1|Unova}}, {{rtn|2|Unova}}, {{rtn|6|Unova}}, {{rtn|12|Unova}}, {{rtn|18|Unova}}, and {{rtn|20|Unova}}, [[Floccesy Ranch]], [[Dreamyard]], [[Village Bridge]], {{OBP|Victory Road|Black 2 and White 2}}, [[Nature Preserve]] ({{DL|Phenomenon|rustling grass}})<br>{{rt|6|Unova}}{{tt|*|Near Pokémon Breeder April}} and [[Floccesy Ranch]] ([[Hidden Grotto]])}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Route]]s {{rtn|3|Kalos}} and {{rtn|22|Kalos}}, [[Friend Safari]] ([[Friend Safari#Normal-type Safari|Normal]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Alola Route 2|Route 2]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Soothing Wetlands]]<br>[[Fields of Honor/Dens|Fields of Honor]] ([[Max Raid Battle]])<br>[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|208|Sinnoh}} ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Three)|Area Three]], [[South Province (Area Four)|Area Four]], [[South Province (Area Five)|Area Five]], [[South Province (Area Six)|Area Six]], [[Alfornada Cavern]]<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]], [[Tagtree Thicket]]<br>West Province: [[West Province (Area Two)|Area Two]], [[West Province (Area Three)|Area Three]], [[Asado Desert]]<br>North Province: [[Dalizapa Passage]]<br>[[Area Zero]]<br>South Province: [[South Province (Area Three)|Area Three]] ({{t|Poison}} {{Tera}} [[Type]])<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Dunsparce|1★}}, {{DL|List of 3★ Tera Raid Battles (Paldea)|Dunsparce|3★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Oni Mountain]], [[Crystal Pool]], [[Chilling Waterhead]], [[Timeless Woods]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Mt. Snowfall]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 10]], Endless Level 11, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Great Canyon]] (1F-3F), [[Wish Cave]] (43F-44F), [[Joyous Tower]] (43F-44F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Foggy Forest]] (1F-5F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Foggy Forest]] (1F-5F)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Rasp Cavern]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Desolate Canyon]]{{tt|*|Automatically recruited upon completion}}, [[Moonlit Forest]] (Uncharted Road), [[Rusty Mountain]] (Uncharted Road, Gilded Hall), [[Jaws of the Abyss]] (Gilded Hall), [[Smoking Mountain]] (Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Slithering Trains|Vehicle Gallery: Slithering Trains]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Monday Stage 1|Safari Jungle: Stage 1]]{{dotw|Mo}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Rock Chasm|Diamond Crater: Rock Chasm]] <small>(All Areas)</small>, [[Plasma Tundra#Sacred Blade Cliff|Plasma Tundra: Sacred Blade Cliff]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Aegislash Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Entei Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Great Canyon]] (1F-3F), [[Wish Cave]] (43F-44F), [[Joyous Tower]] (43F-44F), [[Marvelous Sea]] (14F-15F), [[Fantasy Strait]] (14F-15F)<br/>Fainted Pokémon: [[Mt. Thunder]]<br/>Mystery House: [[Uproar Forest]], [[Desert Region]], [[Southern Cavern]], [[Wyvern Hill]], [[Waterfall Pond]], [[Remains Island]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Daily Pokémon#The Daily Pokémon (#5)|The Daily Pokémon (#5)]]''}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Normal}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Horn Drill Dunsparce|English|United States|5|February 22 to March 14, 2002|link=List of PCNY event Pokémon distributions in Generation II#Horn Drill Dunsparce}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Fury Attack Dunsparce|English|United States|5|January 31 to February 6, 2003|link=List of PCNY event Pokémon distributions in Generation II#Fury Attack Dunsparce}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|HP=    100
+|Attack= 70
+|Defense=70
+|SpAtk=  65
+|SpDef=  65
+|Speed=  45}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=2
+|SpeedMax=3
+|Power=3
+|PowerMax=4
+|Technique=1
+|TechniqueMax=2
+|Stamina=3
+|StaminaMax=4
+|Jump=4
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=  100
+|Fighting=200
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Dunsparce|Normal|Normal|2}}
+{{learnlist/level9|1|Flail|Normal|Physical|—|100|15||'''}}
+{{learnlist/level9|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level9|4|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level9|8|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level9|12|Glare|Normal|Status|—|100|30}}
+{{learnlist/level9|16|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|20|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level9|24|Drill Run|Ground|Physical|80|95|10}}
+{{learnlist/level9|28|Yawn|Normal|Status|—|—|10}}
+{{learnlist/level9|32|Hyper Drill|Normal|Physical|100|100|5||'''}}
+{{learnlist/level9|36|Roost|Flying|Status|—|—|5}}
+{{learnlist/level9|40|Dragon Rush|Dragon|Physical|100|75|10}}
+{{learnlist/level9|44|Coil|Poison|Status|—|—|20}}
+{{learnlist/level9|48|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/level9|52|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/levelf/9|Dunsparce|Normal|Normal|2}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Dunsparce|Normal|Normal|2}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm9|TM026|Poison Tail|Poison|Physical|50|100|25}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM053|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM083|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM106|Drill Run|Ground|Physical|80|95|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM117|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM124|Ice Spinner|Ice|Physical|80|100|15}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM132|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tm9|TM135|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm9|TM143|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||'''}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/tm9|TM200|Scale Shot|Dragon|Physical|25|90|20}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM203|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM222|Breaking Swipe|Dragon|Physical|60|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Dunsparce|Normal|Normal|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Dunsparce|Normal|Normal|2}}
+{{learnlist/breed9|{{MSP/H|0054|Psyduck}}{{MSP/H|0055|Golduck}}{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}{{MSP/H|0501|Oshawott}}{{MSP/H|0502|Dewott}}{{MSP/H|0503|Samurott}}{{MSP/H|0503|Samurott|form=-Hisui}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}|Aqua Tail|Water|Physical|90|90|10}}
+{{learnlist/breed9|{{MSP/H|0050|Diglett}}{{MSP/H|0050|Diglett|form=-Alola}}{{MSP/H|0051|Dugtrio}}{{MSP/H|0051|Dugtrio|form=-Alola}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0203|Girafarig}}{{MSP/H|0981|Farigiraf}}{{MSP/H|0234|Stantler}}{{MSP/H|0899|Wyrdeer}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0963|Finizen}}{{MSP/H|0964|Palafin}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/breed9|{{MSP/H|0023|Ekans}}{{MSP/H|0024|Arbok}}{{MSP/H|0052|Meowth}}{{MSP/H|0052|Meowth|form=-Alola}}{{MSP/H|0053|Persian}}{{MSP/H|0053|Persian|form=-Alola}}{{MSP/H|0058|Growlithe}}{{MSP/H|0058|Growlithe|form=-Hisui}}{{MSP/H|0059|Arcanine}}{{MSP/H|0059|Arcanine|form=-Hisui}}{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0228|Houndour}}{{MSP/H|0229|Houndoom}}{{MSP/H|0261|Poochyena}}{{MSP/H|0262|Mightyena}}{{MSP/H|0336|Seviper}}{{MSP/H|0403|Shinx}}{{MSP/H|0404|Luxio}}{{MSP/H|0405|Luxray}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}{{MSP/H|0434|Stunky}}{{MSP/H|0435|Skuntank}}{{MSP/H|0449|Hippopotas}}{{MSP/H|0450|Hippowdon}}{{MSP/H|0551|Sandile}}{{MSP/H|0552|Krokorok}}{{MSP/H|0553|Krookodile}}{{MSP/H|0650|Chespin}}{{MSP/H|0651|Quilladin}}{{MSP/H|0652|Chesnaught}}{{MSP/H|0725|Litten}}{{MSP/H|0726|Torracat}}{{MSP/H|0727|Incineroar}}{{MSP/H|0734|Yungoos}}{{MSP/H|0735|Gumshoos}}{{MSP/H|0744|Rockruff}}{{MSP/H|0745|Lycanroc}}{{MSP/H|0745|Lycanroc|form=-Midnight}}{{MSP/H|0745|Lycanroc|form=-Dusk}}{{MSP/H|0819|Skwovet}}{{MSP/H|0820|Greedent}}{{MSP/H|0877|Morpeko}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0909|Fuecoco}}{{MSP/H|0910|Crocalor}}{{MSP/H|0911|Skeledirge}}{{MSP/H|0921|Pawmi}}{{MSP/H|0922|Pawmo}}{{MSP/H|0923|Pawmot}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}{{MSP/H|0967|Cyclizar}}{{MSP/H|0971|Greavard}}{{MSP/H|0972|Houndstone}}|Bite|Dark|Physical|60|100|25}}
+{{learnlist/breed9|{{MSP/H|0322|Numel}}{{MSP/H|0323|Camerupt}}{{MSP/H|0324|Torkoal}}{{MSP/H|0335|Zangoose}}{{MSP/H|0570|Zorua|form=-Hisui}}{{MSP/H|0571|Zoroark|form=-Hisui}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0128-Paldea Combat|Tauros}}{{MSP/H|0128|Tauros|form=-Paldea Blaze}}{{MSP/H|0128-Paldea Aqua|Tauros}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0273|Seedot}}{{MSP/H|0287|Slakoth}}{{MSP/H|0559|Scraggy}}{{MSP/H|0560|Scrafty}}{{MSP/H|0667|Litleo}}{{MSP/H|0668|Pyroar}}{{MSP/H|0813|Scorbunny}}{{MSP/H|0814|Raboot}}{{MSP/H|0815|Cinderace}}{{MSP/H|0843|Silicobra}}{{MSP/H|0844|Sandaconda}}{{MSP/H|0875|Eiscue}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}{{MSP/H|0971|Greavard}}{{MSP/H|0972|Houndstone}}{{MSP/H|0942|Maschiff}}{{MSP/H|0943|Mabosstiff}}|Headbutt|Normal|Physical|70|100|15||'''}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0209|Snubbull}}{{MSP/H|0210|Granbull}}{{MSP/H|0231|Phanpy}}{{MSP/H|0417|Pachirisu}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}{{MSP/H|0926|Fidough}}{{MSP/H|0927|Dachsbun}}|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/breedf/9|Dunsparce|Normal|Normal|2}}
+
+====Special moves====
+{{learnlist/eventh/9|Dunsparce|Normal|Normal|2}}
+{{learnlist/event9|[[South Province (Area Three)|Wild Tera Pokémon]]|Poison Tail|Poison|Physical|50|100|25}}
+{{learnlist/eventf/9|Dunsparce|Normal|Normal|2}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Trozei|col=6|type=Normal|ndex=206|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=206
+|body=1
+|rate=7.6
+|area=Echo Cave
+|P1=Please, don't look at me like that. It makes me very self-conscious.
+|P2=Oh, please don't say so. Half my HP is already gone?
+|P3=I give up... I don't have the energy to even flee...
+|PL=Leveled up! Oh, but please don't look... It isn't very nice.
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=206
+|body=1
+|rate=6.4
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Normal|ndex=206
+|coset=3
+|conto={{p|Emolga}}
+|recruitment=Go to find with {{p|Emolga}}
+|P1=I'd like to be a first-rate adventurer someday! I have a long way to go, but I'll do my best!
+|P2=Argh… This is so hard… But I won't give up!
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|field=Crush
+|fieldpower=1
+|num=052
+|pastnum=129
+|browser=It lets loose shock waves to attack.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Normal|ndex=206
+|walk=1.27
+|hp=59
+|attack=74
+|defense=52
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=206
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=206|num=335
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Mega Boost+
+|skilldesc=Fills the Mega Gauge of the same type of Pokémon more.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=206
+|hatch=N/A
+|buddy=3
+|candy=Dunsparce
+|evocandy=50
+|stamina=225|attack=131|defense=128
+|fast={{m|Bite}}, {{m|Astonish}}, {{m|Rollout}}{{tt|*|From September 1, 2022 onward}}
+|special={{m|Dig}}, {{m|Rock Slide}}, {{m|Drill Run}}
+}}
+|}
+
+===Evolution data===
+The form of {{p|Dudunsparce}} that Dunsparce [[Evolution|evolves]] into is determined based on its [[personality value#Dudunsparce's form|encryption constant]], with a 99% chance of it evolving into the Two-Segment Form and a 1% chance of it evolving into the Three-Segment Form. This is not the case for [[Wild Pokémon|wild]] Dudunsparce (including those encountered in [[Tera Raid Battle]]s), as these will always be in Two-Segment Form regardless of their encryption constant value.<ref>[https://twitter.com/Sibuna_Switch/status/1596550660241039360 Encounter rates for Three-Segment Dudunsparce by Anubis/Sibuna_Switch on Twitter]</ref>
+
+Since [[Nature]]s were determined via [[personality value]] prior to [[Generation V]] (which itself is indistinct from encryption constants prior to [[Generation VI]]), a Hardy Nature Dunsparce with the [[Ability]] {{a|Serene Grace}} that is [[transfer]]red from Generation {{gen|III}} or {{gen|IV}} to [[Generation IX]] will have a 50% chance of evolving into Three-Segment Form Dudunsparce, whereas Dunsparce from the same [[generation]]s with other Natures or the Ability {{a|Run Away}} will always evolve into the Two-Segment Form (unless a Dunsparce with Run Away came from {{pkmn|Colosseum}})
+{{Evobox/1branch2
+|type1=Normal
+|no1=0206
+|name1=Dunsparce
+|type1-1=Normal
+|evo1a={{bag/s|Rare Candy|SV}} + [[File:Bag TM Normal SV Sprite.png|40px|link=Hyper Drill (move)]] + [[File:Bag Loaded Dice SV Sprite.png|40px|link=Personality value]]<br>{{color2|000|Level|Level up}}<br>knowing {{color2|000|Hyper Drill (move)|Hyper Drill}}<br><small>(with a certain<br>{{color2|000|personality value|encryption constant}})
+|no2a=0982
+|name2a=Dudunsparce
+|form2a=Two-Segment
+|type1-2a=Normal
+|evo1b={{bag/s|Rare Candy|SV}} + [[File:Bag TM Normal SV Sprite.png|40px|link=Hyper Drill (move)]] + [[File:Bag Loaded Dice SV Sprite.png|40px|link=Personality value]]<br>{{color2|000|Level|Level up}}<br>knowing {{color2|000|Hyper Drill (move)|Hyper Drill}}<br><small>(with a certain<br>{{color2|000|personality value|encryption constant}})
+|no2b=0982
+|art2b=0982Dudunsparce-Three
+|name2b=Dudunsparce
+|form2b=Three-Segment
+|type1-2b=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=206}}
+{{Spritebox/3|ndex=206}}
+{{Spritebox/4|ndex=206}}
+{{Spritebox/5|ndex=206}}
+{{Spritebox/6|ndex=206|crop=68}}
+{{Spritebox/7|ndex=206|crop=67}}
+{{Spritebox/8|ndex=206}}
+<!--{{Spritebox/9|ndex=0206}}-->
+{{Spritebox/HOME|ndex=0206}}
+{{Spritebox/Footer|206|Dunsparce}}
+
+==In animation==
+[[File:Dunsparce anime.png|thumb|250px|Dunsparce in {{aniseries|BW}}]]
+===Major appearances===
+Dunsparce debuted in ''[[EP191|The Dunsparce Deception]]'', where an entire town was full of children owning Dunsparce. [[Bucky]] was the only child without a Dunsparce and asked {{Ash}} and {{ashfr}} for assistance. In the end, he was able to {{pkmn2|caught|catch}} one.
+
+In ''[[BW131|The Path That Leads to Goodbye!]]'', Ash tried to catch a Dunsparce, but [[Iris's Axew]] bumped into [[Ash's Pikachu]], which led to Dunsparce escaping.
+
+In ''[[XY059|Under the Pledging Tree!]]'', Ash wanted to catch another Dunsparce, but was unable to, as he didn't have any [[Poké Ball]]s on hand at that moment, thus letting Dunsparce get away again.
+
+===Minor appearances===
+A Dunsparce appeared in ''[[The Legend of Thunder!]]''.
+
+In ''[[DP001|Following a Maiden's Voyage!]]'', a Dunsparce was trapped in an {{p|Ariados}}'s web.
+
+In ''[[DP061|Team Shocker!]]'', a {{pkmn|Coordinator}}'s Dunsparce competed in the [[Appeal|Performance Stage]] of the {{to|Solaceon}} {{pkmn|Contest}}.
+
+A Dunsparce appeared in a flashback in ''[[JN032|Time After Time!]]''.
+
+A Trainer's Dunsparce appeared during a flashback in ''[[HZ018|Flying Pikachu, Rising Higher and Higher!]]''.
+
+Two Dunsparce appeared in ''[[HZ051|The Flower Tower]]''.
+
+A Dunsparce appeared in ''[[HZ052|Wattrel's High Wind Warning!]]''.
+
+A Dunsparce appeared in ''[[HZ075|The Wonders of the World!]]'', during a flashback.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP191|Dunsparce|Ash's Pokédex|Dunsparce, the Land Snake Pokémon. When discovered, the Dunsparce uses its tail to burrow into the earth and evade capture.}}
+{{Animedexfooter/Pokémon|Johto}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW131|Dunsparce|Ash's Pokédex|Dunsparce, the Land Snake Pokémon. Dunsparce uses its tail to dig its elaborate nest.}}
+{{Animedexfooter/Pokémon|Unova}}
+
+==In the manga==
+[[File:Roseanne Dunsparce Adventures.png|thumb|110px|Dunsparce in [[Pokémon Adventures]]]]
+===Pocket Monsters XY: The Legend of the Pokémon Dragon King===
+A Dunsparce appeared in [[LDK1]].
+
+===Pokémon Adventures===
+{{adv|Crystal}} encountered a {{pkmn2|wild}} Dunsparce in ''[[PS119|A Flaaffy Kerfuffle]]''. It and a {{p|Flaaffy}} became stranded on a boat owned by {{adv|Bill}}. They were rescued by Crystal and captured so {{adv|Professor Oak}} could research them.
+
+A Dunsparce owned by [[Lostelle]] first appeared in ''[[PS275|A Vicious Cycle of Possibilities]]''.
+
+A Dunsparce appeared in ''[[PS332|The Final Battle V]]'', during a flashback of {{adv|Emerald}}'s past.
+
+A Dunsparce owned by [[Roseanne]] first appeared in ''[[PS392|Well Met, Weepinbell]]''.
+{{-}}
+
+====Pokédex entries====
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS119]]|Whenever it's being scrutinized at or if it feels threatened, it will start drilling a hole with its tail, in an attempt to escape from underground.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Dunsparce (TCG)}}
+
+==Trivia==
+* In the {{pkmn|animated series}}, Dunsparce is usually shown to be much shorter than 4'11" (1.5 m), which is its listed height (or in this case, length) in the {{pkmn|games}}.
+** It is also shown as much smaller than its listed height in [[Pokémon Mystery Dungeon: Gates to Infinity]] and [[Pokémon Super Mystery Dungeon]], being even smaller than {{p|Pikachu}}.
+* Dunsparce was designed by [[Hironobu Yoshida]].<ref>[http://wayback.archive.org/web/20080704081535/http://www.gpara.com/contents/creator/bn_225.htm Drill Dozer interview by Gpara] (Japanese)</ref>
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Dunsparce}}
+Dunsparce appears to be based on the snake-like {{wp|Tsuchinoko}} cryptid of Japan. Visually, its design may be a pun on one of the cryptid's other names, バチヘビ ''bachi hebi'' (bee snake), as Dunsparce appears to combine bee- and snake-like features. It may draw specific inspiration from {{wp|Anthophorini|digger bees}}. Its perpetually closed eyes and {{wp|drill}}-like tail, which also resembles a {{wp|rattlesnake}}'s rattle, may have been inspired by the {{wp|vestigiality|vestigial}} eyes and barbed tail of {{wp|Typhlopidae|blind snakes}}. Its tendency to burrow backward is similar to {{wp|Ophichthidae|snake eels}}, as well as the {{wp|Cirriformia|thread-gilled worm}} ''Cirriformia moorei''. Dunsparce may also have connections to {{wp|Amphiptere}}s, such as {{wp|Quetzalcoatl}}, or {{wp|flying snakes}}. Its gourd-shaped body may reference gourd-shaped sake bottles, given that the Tsuchinoko is said to have a taste for alcohol.
+
+Given its larviform appearance, horn-like tail, and ring-circled eyes that resemble the {{wp|Eyespot (mimicry)|eyespots}} of some species, Dunsparce may draw inspiration from {{wp|Sphingidae|sphinx moth caterpillars}}, which have a history of being mistaken for the Tsuchinoko. This may double as a nod to the Nozuchi, a large caterpillar-like creature thought to be synonymous with the Tsuchinoko.
+
+====Name origin====
+Dunsparce may be a combination of ''dun'' (a dull, sandy brown - the colour of Dunsparce's eyes and back; or a subadult mayfly) and ''sparse'', for its rarity.
+
+Nokocchi may be derived from an {{wp|anagram}} of ツチノコ, the katakana spelling of 槌の子 ''tsuchinoko'' (a fabled snake-like creature).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ノコッチ ''Nokocchi''|jameaning=From ツチノコ / 槌の子 ''{{wp|tsuchinoko}}''
+|fr=Insolourdo|frmeaning=From {{tt|''insolite''|unusual}} and {{tt|''lourdaud''|graceless, clumsy or slow-witted}}
+|es=Dunsparce|esmeaning=Same as English name
+|de=Dummisel|demeaning=From {{tt|''dumm''|stupid}} and {{tt|''Meißel''|chisel}}
+|it=Dunsparce|itmeaning=Same as English name
+|ko=노고치 ''Nogochi''|komeaning=Transcription of Japanese name
+|zh_cmn=土龍弟弟 / 土龙弟弟 ''Tǔlóngdìdì''|zh_cmnmeaning=From {{tt|土龍 / 土龙 ''tǔlóng''|tsuchinoko}} and {{tt|弟弟 ''dìdì''|younger brother}}
+|zh_yue=土龍弟弟 ''Tóulùhngdàihdái''|zh_yuemeaning=From {{tt|土龍 ''tóulùhng''|tsuchinoko}} and {{tt|弟弟 ''dàihdái''|younger brother}}
+|hi=विरीरेंग ''Virireng''|himeaning=From {{tt|रेंगना ''rengna''|crawling/creeping}}
+|ru=Данспарс ''Danspars''|rumeaning=Transcription of English name
+|th=โนก็อจจิ ''Nokotchi''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==Related articles==
+* [[Dunsparce (Gates to Infinity)]]
+
+==References==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0205|prev=Forretress|nextnum=0207|next=Gligar}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve with certain moves]]
+[[Category:Pokémon that evolve with Hyper Drill]]
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+[[Category:Pokémon with cross-generational Evolutions]]
+
+[[de:Dummisel]]
+[[es:Dunsparce]]
+[[fr:Insolourdo]]
+[[it:Dunsparce]]
+[[ja:ノコッチ]]
+[[zh:土龙弟弟]]

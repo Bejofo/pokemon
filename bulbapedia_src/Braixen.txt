@@ -1,0 +1,438 @@
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/GO|species=Braixen}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=0653|prev=Fennekin|nextnum=0655|next=Delphox|round=none}}
+{{PokémonPrevNext/Disambig|species=Braixen}}
+|}
+{{Pokémon Infobox
+|name=Braixen
+|jname=テールナー
+|jtranslit=Tērunā
+|tmname=Tairenar
+|category=Fox
+|typebox=1
+|type1=Fire
+|abilityn=d
+|ability1=Blaze
+|abilityd=Magician
+|ndex=0654
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=32.0
+|weight-kg=14.5
+|egggroupn=1
+|egggroup1=Field
+|expyield=143
+|gendercode=31
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|lv100exp=1,059,860
+|color=Red
+|catchrate=45
+|body=06
+|pokefordex=braixen
+|generation=6
+|friendship=70
+}}
+'''Braixen''' ([[List of Japanese Pokémon names|Japanese]]: '''テールナー''' ''Tairenar'') is a {{type|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Fennekin}} starting at [[level]] 16 and evolves into {{p|Delphox}} starting at level 36.
+
+==Biology==
+Braixen is a bipedal, fox-like {{OBP|Pokémon|species}}. While the majority of its fur is yellow, it has thick black fur on its legs, white arms and face, and a dark orange tail tip. The fur on its cheeks is longer, and a small mane of white fur covers its shoulders and chest. Long, wavy tufts of dark orange fur grow out of its large ears, and its eyes and small nose match this fur in color. When its mouth is open, two pointed teeth can be seen in its upper jaw. Above its developed legs, the fur around its hips sweeps out to either side, resembling a skirt or shorts. Each paw has three small digits. 
+
+Braixen always keeps a stick in its tail, which it sets alight using friction from its bushy tail fur. The stick also helps calm down Braixen. The flame from the lit twig is used for both attack and communication. It draws circles in the air with the flame to indicate danger.<ref>[https://web.archive.org/web/20160224014849/http://www.pokemonxy.com/en-us/pokemon/starters/ | Starter Pokémon (Archived)]</ref>
+
+===Evolution===
+Braixen evolves from {{p|Fennekin}} and evolves into {{p|Delphox}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=fire
+|pictype=art
+|no1=0653
+|name1=Fennekin
+|type1-1=Fire
+|evo1=
+|no2=0654
+|name2=Braixen
+|type1-2=Fire
+|evo2=
+|no3=0655
+|name3=Delphox
+|type1-3=Fire
+|type2-3=Psychic}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fire}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=005|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Generation VIII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=213}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It ignites the twig from its tail and waves the twig around to signal its allies. To indicate danger, it draws circles in the air with the twig’s flame.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Braixen’s branch ignites as it’s pulled from the Pokémon’s tail. Braixen then uses the flame to spark powerful attacks.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{fire color dark}}; background:#{{fire color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{fire color light}}; background:#{{fire color light}} | [[File:Pokédex Image Braixen SV Blueberry.png|x200px]]
+|-
+| Braixen in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=fire}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Fire-type Safari|Fire]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Fennekin}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Fennekin}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 3|Renegade Meadow: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ember Mountains#Shrine of Magic|Ember Mountains: Shrine of Magic]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Castform Sea]], [[Greninja Sea]], [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 189]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Serena|Fennekin}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Fire
+|HP=     59
+|Attack= 59
+|Defense=58
+|SpAtk=  90
+|SpDef=  70
+|Speed=  73}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fire
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  200
+|Rock=    200
+|Bug=      50
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=   200
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=    50
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Braixen|Fire|Fire|6}}
+{{learnlist/level9|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level9|11|Howl|Normal|Status|—|—|40}}
+{{learnlist/level9|14|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/level9|18|Psybeam|Psychic|Special|65|100|20||''}}
+{{learnlist/level9|22|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/level9|28|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|36|Psyshock|Psychic|Special|80|100|10||''}}
+{{learnlist/level9|41|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/level9|45|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/level9|49|Psychic|Psychic|Special|90|100|10||''}}
+{{learnlist/level9|52|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|56|Magic Room|Psychic|Status|—|—|10}}
+{{learnlist/level9|59|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/levelf/9|Braixen|Fire|Fire|6}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Braixen|Fire|Fire|6}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM012|Low Kick|Fighting|Physical|—|100|20}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||''}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM024|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm9|TM038|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM041|Stored Power|Psychic|Special|20|100|10||''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM054|Psyshock|Psychic|Special|80|100|10||''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||''}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM067|Fire Punch|Fire|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10||''}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm9|TM129|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM138|Psychic Terrain|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm9|TM144|Fire Pledge|Fire|Special|80|100|10||'''}}
+{{learnlist/tm9|TM157|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm9|TM161|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM165|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM195|Burning Jealousy|Fire|Special|70|100|5||'''}}
+{{learnlist/tmf/9|Braixen|Fire|Fire|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Braixen|Fire|Fire|6}}
+{{learnlist/breed9|{{MSP/H|0133|Eevee}}{{MSP/H|0134|Vaporeon}}{{MSP/H|0135|Jolteon}}{{MSP/H|0136|Flareon}}{{MSP/H|0196|Espeon}}{{MSP/H|0197|Umbreon}}{{MSP/H|0470|Leafeon}}{{MSP/H|0471|Glaceon}}{{MSP/H|0700|Sylveon}}{{MSP/H|0448|Lucario}}|Copycat|Normal|Status|—|—|20|grid=5}}
+{{learnlist/breed9|{{MSP/H|0324|Torkoal}}|Heat Wave|Fire|Special|95|90|10||'''|grid=5}}
+{{learnlist/breed9|{{MSP/H|0234|Stantler}}{{MSP/H|0899|Wyrdeer}}|Hypnosis|Psychic|Status|—|60|20|grid=5}}
+{{learnlist/breed9|{{MSP/H|0654|Braixen}}{{MSP/H|0655|Delphox}}|Magic Room|Psychic|Status|—|—|10|grid=5}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10|grid=5}}
+{{learnlist/breedf/9|Braixen|Fire|Fire|6}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Braixen|Fire|Fire|6}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Braixen|Fire|Fire|6}}
+
+===Side game data===
+{{Spindata/Head|type=Fire}}
+{{Spindata/PSMD|col=6|type=Fire|ndex=654
+|coset=3
+|conto={{p|Deerling}}
+|recruitment=Talk to in [[Sahra Town]]
+|P1=Huh? You want to know why I have a twig stuck in my tail? Nonya!
+|P2=Ah… I must fight back! Let me set my twig on fire…
+|protag=1
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Fire|ndex=654
+|walk=1.67
+|hp=50
+|attack=75
+|defense=52
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fire|ndex=654
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Fire|ndex=654|num=173
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Stabilize+
+|skilldesc=Sometimes erases two of the foe's disruptions on the board.
+}}
+|-
+{{Spindata/GO|col=6|type=Fire|ndex=654
+|hatch=N/A
+|buddy=3
+|candy=Fennekin
+|evocandy=100
+|stamina=153
+|attack=171
+|defense=130
+|fast={{m|Scratch}}, {{m|Ember}}
+|special={{m|Psyshock}}, {{m|Flamethrower}}, {{m|Flame Charge}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=fire
+|pictype=art
+|no1=0653
+|name1=Fennekin
+|type1-1=Fire
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 16}}
+|no2=0654
+|name2=Braixen
+|type1-2=Fire
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 36}}
+|no3=0655
+|name3=Delphox
+|type1-3=Fire
+|type2-3=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=fire}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=654|crop=88}}
+{{Spritebox/7|ndex=654|crop=88}}
+{{Spritebox/NA|gen=VIII|is=yes}}
+<!--{{Spritebox/9|ndex=0654}}-->
+{{Spritebox/HOME|ndex=0654}}
+{{Spritebox/Footer|654|Braixen}}
+
+==In animation==
+[[File:Serena Braixen.png|thumb|250px|Braixen in {{aniseries|XY}}]]
+===Major appearances===
+====[[Aria's Braixen]]====
+Braixen debuted in ''[[XY040|Day Three Blockbusters!]]'', under the ownership of {{an|Aria}}. She was revealed to have evolved from her Fennekin before the episode's events. She was later revealed to have evolved into a Delphox before ''[[XY064|Battling with Elegance and a Big Smile!]]''.
+
+====[[Serena's Braixen]]====
+{{an|Serena}}'s Fennekin evolved into a Braixen in ''[[XY064|Battling with Elegance and a Big Smile!]]'' during a [[Double Battle]] with {{TP|Serena|Pancham}} against [[Aria's Delphox]] and {{p|Aromatisse}}. She evolved into a {{p|Delphox}} sometime prior to ''[[JN105|Reuniting for the First Time!]]''.
+
+===Minor appearances===
+A Braixen appeared in the opening sequence of ''[[M19|Volcanion and the Mechanical Marvel]]'', when it evolved from {{p|Fennekin}} and then into {{p|Delphox}}.
+
+Two {{pkmn|Trainer}}s' Braixen appeared in ''[[SM034|A Crowning Moment of Truth!]]''. They were among the Pokémon attending the [[Wela Fire Festival]].
+
+A Student's Braixen appeared in [[HZ090]].
+
+A Trainer's Braixen appeared in [[HZ112]].
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY047|Braixen|Ash's Pokédex|Braixen, the Fox Pokémon and the evolved form of Fennekin. To defeat its opponent, Braixen combines the flame from the twig in its tail with its fiery breath, creating a massive {{m|Fire Spin}}.}}
+{{Animedexbody|XY064|Braixen|Serena's Pokédex|Braixen, the Fox Pokémon and the evolved form of Fennekin. Braixen uses friction to ignite the twig from its tail before a battle.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+==In the manga==
+[[File:Malva Braixen Adventures.png|thumb|200px|Braixen in [[Pokémon Adventures]]]]
+===Movie adaptations===
+{{main|Serena's Braixen}}
+Braixen appeared in ''{{ma|Hoopa and the Clash of Ages}}'', under the ownership of {{an|Serena}}.
+
+===Pokémon Adventures===
+{{main|Whitley's Delphox}}
+After {{adv|Trevor}} lost the {{p|Fennekin}} he was given from [[Professor Sycamore]], she was taken by [[Malva]] after finding her Poké Ball put into box filled with other Pokémon gathered from [[Vaniville Town]]. Prior to ''[[PS573|Gathering Klefki]]'', she evolved into a Braixen. Some time after her stay at the [[Pokémon Village]], she evolved into a {{p|Delphox}}.
+{{-}}
+
+==In the TCG==
+{{main|Braixen (TCG)}}
+
+==Other appearances==
+[[File:Pokkén Braixen.png|thumb|200px|Braixen in [[Pokkén Tournament]]]]
+===[[Pokkén Tournament]]===
+{{main|Braixen (Pokkén)}}
+Braixen is a Battle Pokémon in Pokkén Tournament. Its moves include {{m|Psybeam}}, {{m|Fire Spin}}, {{m|Fire Blast}}, {{m|Sunny Day}}, {{m|Flame Charge}}, {{m|Flamethrower}}, and {{m|Light Screen}}. During Synergy Burst, it can use the Burst Attack Psyfirecracker.
+{{-}}
+
+==Trivia==
+* In English, the {{pkmn|category}} "Fox Pokémon" is shared by {{p|Vulpix}}, {{p|Fennekin}}, {{p|Nickit}}, and their [[Evolution]]s.
+** In Japanese, the hiragana category "きつねポケモン" (''Fox Pokémon'') is shared by the evolutionary lines of Vulpix and Nickit, while the katakana version "キツネポケモン" (''Fox Pokémon'') is shared by Fennekin and its Evolutions.
+* Braixen is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 409.
+
+===Origin===
+Braixen's [[List of Pokémon by evolutionary line|evolutionary line]] is based on a fox,<ref>[https://web.archive.org/web/20141007232727/http://www.officialnintendomagazine.co.uk/55933/features/interview-game-freak-on-the-origins-of-pokmon-x-y/ Official Nintendo Magazine - Interview: Game Freak on the origins of Pokémon X & Y (archived)]</ref> specifically resembling the {{wp|fennec fox}}. It also shares characteristics with {{wp|kitsune}} and {{wp|Asian witchcraft#Japan|kitsune-mochi}}, witches in Japanese folklore that inherit their powers from foxes. Braixen's use of a wand-like branch is likely derived from {{wp|Magic (supernatural)#Magicians|mages}}. When the stick is stored in the fur of its tail, the entire tail resembles a broomstick, which has been depicted as a witch's primary means of transport. As drawing the stick from its tail ignites the stick, this may be a reference to striking a {{wp|match|matchstick}}.
+
+Its fur is reminiscent of {{wp|Japanese school uniform|seifuku}}, the predominant uniform worn by schoolgirls in Japan, and {{wp|1550–1600 in Western European fashion|aristocratic attire from western Europe during the Renaissance}}. Its lower body also resembles a {{wp|Hose (clothing)|hose}}.
+
+====Name origin====
+Braixen may be a combination of ''braise'' (French for hot charcoal) and ''vixen'' (female fox). It may also be an allusion to ''bruxa'' (Portuguese for witch) or ''brazen'' (meaning bold).
+
+Tairenar may be a combination of テール ''tail'' and ルナール ''renard'' (French for fox).
+
+==In other languages==
+{{Other languages|type=fire|type2=fire
+|ja=テールナー ''Tairenar''|jameaning=From ''tail'' and ''{{tt|renard|French for fox}}''
+|fr=Roussil|frmeaning=From ''{{tt|roussi|scorched}}'' and ''{{tt|goupil|archaic term for fox}}''
+|es=Braixen|esmeaning=Same as English name
+|de=Rutena|demeaning=From ''{{tt|Rute|rod}}'' and ''{{tt|renard|French for fox}}''
+|it=Braixen|itmeaning=Same as English name
+|ko=테르나 ''Tereuna''|komeaning=Transcription of Japanese name
+|zh_cmn=長尾火狐 / 长尾火狐 ''Chángwěihuǒhú''|zh_cmnmeaning=From {{tt|長尾 / 长尾 ''chángwěi ''|long tail}}, {{tt|火 ''huǒ''|fire}}, and {{tt|狐 ''hú''|fox}}
+|zh_yue=長尾火狐 ''Chèuhngméihfówùh''|zh_yuemeaning=From {{tt|長尾 ''chèuhngméih''|long tail}}, {{tt|火 ''fó''|fire}}, and {{tt|狐 ''wùh''|fox}}
+|hi=लौमिटेल ''Laumitail''|himeaning=From {{tt|लोमड़ी ''lomṛī''|fox}} and ''tail''
+|ru=Брейксен ''Breyksen''|rumeaning=Transcription of English name
+|th=เทลนาร์ ''Thenna''|thmeaning=Transcription of Japanese name
+}}
+
+==See also==
+* [[Aria's Braixen]]
+* [[Serena's Braixen]]
+* [[Malva's Braixen]]
+* [[Braixen (Pokkén)]]
+* [[Delphox (UNITE)]]
+* [[First partner Pokémon]]
+
+==References==
+<references />
+{{clear}}
+
+==External links==
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=0653|prev=Fennekin|nextnum=0655|next=Delphox}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Rutena]]
+[[es:Braixen]]
+[[fr:Roussil]]
+[[it:Braixen]]
+[[ja:テールナー]]
+[[zh:长尾火狐]]

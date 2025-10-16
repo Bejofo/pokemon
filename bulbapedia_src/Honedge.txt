@@ -1,0 +1,441 @@
+{{PokémonPrevNext/Head|type=Steel|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Honedge}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0678|prev=Meowstic|nextnum=0680|next=Doublade|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Honedge
+|jname=ヒトツキ
+|tmname=Hitotsuki
+|category=Sword
+|type1=Steel
+|type2=Ghost
+|abilitylayout=1
+|ability1=No Guard
+|ndex=0679
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=4.4
+|weight-kg=2.0
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=1
+|evde=1
+|expyield=65
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=180
+|body=05
+|pokefordex=honedge
+|generation=6
+|friendship=70
+}}
+'''Honedge''' ([[List of Japanese Pokémon names|Japanese]]: '''ヒトツキ''' ''Hitotsuki'') is a dual-type {{2t|Steel|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] into {{p|Doublade}} starting at [[level]] 35, which evolves into {{p|Aegislash}} when exposed to a [[Dusk Stone]].
+
+==Biology==
+Honedge is a {{OBP|Pokémon|species}} that resembles a sword from medieval times. Its body is a silver sword with a light gray hilt. Embedded in the hilt is a blue gem with a dark center that appears to be its eye. Attached to the pommel is a long, dark blue cloth with a swirl design in lighter blue at the tip; the tip of the sash splits into four tassels. Honedge's sheath is dark brown with curved lines resembling a {{wp|triquetra}} across its surface. Near the top of the sheath are two rings and a hole that in conjunction with the shape of Honedge's blade create the illusion of a face, with eyes and a mouth. A third ring extends onto the hilt and encircles its actual eye.
+
+Honedge is said to have been born when the departed spirit of a person inhabits the sword that killed them a long time ago. Its old cloth is prehensile, and it holds its sheath with it when battling. Honedge is known to attach itself to people and wrap its sash around their arm to suck their life energy completely if they dare to grab it by the hilt. The eye on its handguard is actually its true body.
+
+<gallery>
+XY Prerelease Honedge unsheathed.png|Honedge with its sheath removed
+Shauna wielding a Honedge.png|A Honedge wielded by {{adv|Shauna}}
+</gallery>
+===Evolution===
+Honedge evolves into {{p|Doublade}}, which evolves into {{p|Aegislash}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|pictype=sprite
+|type1=steel
+|type2=ghost
+|no1=0679Honedge
+|name1=Honedge
+|type1-1=Steel
+|type2-1=Ghost
+|evo1=
+|no2=0680Doublade
+|name2=Doublade
+|type1-2=Steel
+|type2-2=Ghost
+|evo2=
+|no3=0681Aegislash-Shield
+|name3=Aegislash
+|type1-3=Steel
+|type2-3=Ghost}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Steel|type2=Ghost}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=117|label1=Central|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=330|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Honedge's soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge's body.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The blue eye on the sword's handguard is the true body of Honedge. With its old cloth, it drains people's lives away.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=steel|type2=ghost}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|6|Kalos}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Akala Outskirts]] ({{DL|QR Scanner|Island Scan}}){{dotw|We}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Akala Outskirts]] ({{DL|QR Scanner|Island Scan}}){{dotw|We}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Hammerlocke Hills]]<br>[[Watchtower Ruins/Dens|Watchtower Ruins]], [[Stony Wilderness/Dens|Stony Wilderness]]{{sup/8|Sh}}, [[Giant's Seat/Dens|Giant's Seat]], [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Steel|type2=Ghost}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 4|Blade-and-Shield Path: Stage 4]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Royal Armory|Dark Land: Royal Armory]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Aegislash Sea]], [[Greninja Sea]], [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Wacky Workshop|Wacky Workshop: Stage 167]]<br>[[Marron Trail|Marron Trail: Stage 672]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Steel
+|type2=Ghost
+|HP=45
+|Attack=80
+|Defense=100
+|SpAtk=35
+|SpDef=37
+|Speed=28
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=50
+|Bug=25
+|Ghost=200
+|Steel=50
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=50
+|Dark=200
+|Fairy=50
+|notes=yes
+|ghost=yes
+|newfighting=2
+|newnormal=½
+|steel=yes
+|newpoison=½
+}}
+
+===Learnset===
+Honedge is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Honedge|Steel|Ghost|6}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level8|4|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/level8|8|Autotomize|Steel|Status|—|—|15}}
+{{learnlist/level8|12|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/level8|16|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level8|20|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level8|24|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/level8|28|Retaliate|Normal|Physical|70|100|5}}
+{{learnlist/level8|32|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level8|36|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level8|40|Power Trick|Psychic|Status|—|—|10}}
+{{learnlist/level8|44|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/level8|48|Sacred Sword|Fighting|Physical|90|100|15}}
+{{learnlist/levelf/8|Honedge|Steel|Ghost|6}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Honedge|Steel|Ghost|6}}
+{{learnlist/tm8|TM12|Solar Blade|Grass|Physical|125|100|10}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM18|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM43|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm8|TM69|Psycho Cut|Psychic|Physical|70|100|20}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM79|Retaliate|Normal|Physical|70|100|5}}
+{{learnlist/tm8|TM94|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm8|TM97|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR21|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR52|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tr|TR53|Close Combat|Fighting|Physical|120|100|5}}
+{{learnlist/tr|TR70|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tr|TR74|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tmf/8|Honedge|Steel|Ghost|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Honedge|Steel|Ghost|6}}
+{{learnlist/breed8|{{MSP/8c|185|Sudowoodo}}{{MSP/8c|874|Stonjourner}}|Block|Normal|Status|—|—|5|grid=4}}
+{{learnlist/breed8|{{MSP/8c|562|Yamask}}{{MSP/8c|562G|Yamask}}{{MSP/8c|563|Cofagrigus}}{{MSP/8c|867|Runerigus}}|Destiny Bond|Ghost|Status|—|—|5|grid=4}}
+{{learnlist/breed8|{{MSP/8c|713|Avalugg}}{{MSP/8c|874|Stonjourner}}|Wide Guard|Rock|Status|—|—|10|grid=4}}
+{{learnlist/breedf/8|Honedge|Steel|Ghost|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Honedge|Steel|Ghost|6}}
+{{learnlist/tutor8|Steel Beam|Steel|Special|140|95|5||'''|yes}}
+{{learnlist/tutorf/8|Honedge|Steel|Ghost|6}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Honedge|Steel|Ghost|6}}
+{{learnlist/prevgen8|Honedge|6|After You|Normal|Status|—|—|15|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Honedge|6|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Honedge|6|Cut|Normal|Physical|50|95|30|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Honedge|6|Double Team|Normal|Status|—|—|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Honedge|6|Frustration|Normal|Physical|—|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Honedge|6|Hidden Power|Normal|Special|60|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Honedge|6|Laser Focus|Normal|Status|—|—|30|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Honedge|6|Magnet Rise|Electric|Status|—|—|10|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Honedge|6|Pursuit|Dark|Physical|40|100|20|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Honedge|6|Return|Normal|Physical|—|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Honedge|6|Rock Smash|Fighting|Physical|40|100|15|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Honedge|6|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Honedge|6|Shock Wave|Electric|Special|60|—|20|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Honedge|6|Spite|Ghost|Status|—|100|10|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Honedge|6|Swagger|Normal|Status|—|85|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Honedge|6|Toxic|Poison|Status|—|90|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Honedge|Steel|Ghost|6}}
+
+===Side game data===
+{{Spindata/Head|type=Steel|type2=Ghost}}
+{{Spindata/PSMD|col=6|type=Steel|ndex=679
+|coset=28
+|conto={{p|Gothita}}, {{p|Gothorita}}, {{p|Gothitelle}}, {{p|Golurk}}
+|recruitment=Introduced by {{p|Golurk}}
+|P1=I, Honedge, pledge to wedge an edge into a hedge on the ledge!
+|P2=Augh… One strike, and I'd be… Yep, I'm in no mood for jokes right now…
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Steel|ndex=679
+|walk=1.67
+|hp=46
+|attack=70
+|defense=53
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Steel|ndex=679
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Steel|ndex=679|num=203
+|min=50
+|max=120
+|raisemaxlevel=15
+|skill=Steely Resolve
+|skilldesc=Increases damage when things are looking desperate.
+|swapper=Risk-Taker
+}}
+|-
+{{Spindata/GO|col=6|type=Steel|ndex=679
+|hatch=N/A
+|buddy=5
+|candy=Honedge
+|evocandy=25
+|stamina=128
+|attack=135
+|defense=139
+|fast= {{m|Tackle}}, {{m|Psycho Cut}}
+|special= {{m|Gyro Ball}}, {{m|Iron Head}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|pictype=sprite
+|type1=steel
+|type2=ghost
+|no1=0679Honedge
+|name1=Honedge
+|type1-1=Steel
+|type2-1=Ghost
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}
+|no2=0680Doublade
+|name2=Doublade
+|type1-2=Steel
+|type2-2=Ghost
+|evo2={{Bag/s|Dusk Stone|SV}}<br>{{color2|000|Dusk Stone}}
+|no3=0681Aegislash-Shield
+|name3=Aegislash
+|type1-3=Steel
+|type2-3=Ghost
+}}
+
+===Sprites===
+{{Spritebox/Header|type=steel|ghost}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=679|crop=80}}
+{{Spritebox/7|ndex=679|crop=73}}
+{{Spritebox/8|ndex=679}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0679}}
+{{Spritebox/Footer|679|Honedge}}
+
+==In animation==
+===Main series===
+[[File:Wikstrom Honedge.png|thumb|250px|Honedge in {{aniseries|JN}}]]
+====Major appearances====
+Honedge debuted in ''[[Diancie — Princess of the Diamond Domain]]'', under the ownership of [[Argus Steel]]. It is his main Pokémon. Honedge reappeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Honedge appeared in ''[[XY106|A Meeting of Two Journeys!]]'', under the ownership of [[Sawyer]]. It was used in his {{pkmn|battle}} against {{Ash}}, but was defeated by {{AP|Pikachu}}. It [[Evolution|evolved]] into Doublade sometime before ''[[XY119|A Full-Strength Battle Surprise!]]'', and it evolved again into Aegislash sometime before ''[[XY126|Valuable Experience for All!]]''.
+
+A Honedge appeared in ''[[JN056|Searching for Chivalry!]]'', under the ownership of [[Wikstrom]].
+
+In ''[[HZ028|The Stolen Treasure]]'', a Honedge appeared under the ownership of [[Tepen]].
+
+====Minor appearances====
+Honedge made its animated series debut in ''[[XY080|Performing with Fiery Charm!]]'', under the ownership of a {{pkmn|Performer}}. She used it during the Rookie Class [[Pokémon Showcase]] in [[Dendemille Town]]. It appeared again in ''[[XY112|Master Class is in Session!]]'', being used by its {{pkmn|Trainer}} in the Master Class Showcase in [[Gloire City]].
+
+A Trainer's Honedge appeared in ''[[JN004|Settling the Scorbunny!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY106|Honedge|Ash's Pokédex|Honedge, the Sword Pokémon. It is said that Honedge is actually a spirit living inside a sword.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+===Pokémon Generations===
+[[File:Honedge Lunatone Gyarados Talonflame Salamence PG.png|thumb|250px|Honedge in [[Pokémon Generations]]]]
+Two soldiers' Honedge appeared in ''[[PG18|The Redemption]]'', during a fantasy of a story from the past. They were some of the many Pokémon fighting in the great war of [[Kalos]] 3,000 years previously.
+{{-}}
+
+==In the manga==
+[[File:Celosia Honedge Adventures.png|thumb|250px|Honedge in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+[[Celosia]] owns a Honedge, which she used in conjunction with her {{p|Aegislash}} to possess {{adv|Shauna}}. It first appeared in ''[[PS554|Kangaskhan...Kangascan't]]''.
+{{-}}
+
+==In the TCG==
+{{main|Honedge (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Wii U]]===
+Honedge makes a cameo appearance in the {{st|Kalos Pokémon League}} stage. When the stage transitions to the {{DL|Pokémon League (Kalos)|Ironworks Chamber}}, it can be seen in the background along with {{p|Steelix}}, {{p|Scizor}}, and {{p|Klinklang}}.
+
+====Trophy information====
+'''NA:''' ''The origin of this Pokémon is a great ghost tale: it's said that Honedge are ancient swords possessed by a departed spirit. Should people try to grab the sword, Honedge will attack them or wrap its sash around their arm, slowly draining the life energy from their body. Moral of the story: be careful around ancient swords.''
+
+'''PAL:''' ''There's a rather spooky tale behind this Pokémon's origins: apparently, it's an ancient sword possessed by a departed spirit. Honedge won't let anyone grip its hilt. If they try, it will attack them or wrap its sash around their arm and drain the life energy from their body! Yikes!''
+
+==Trivia==
+* Honedge and its evolved forms were designed by [[Hitoshi Ariga]].<ref>[http://hitoshiariga.deviantart.com/art/Pocket-Monsters-XY-413536751 Pocket Monsters XY by HitoshiAriga on deviantART]</ref>
+
+===Origin===
+Honedge appears to be based conceptually on a fully sentient, possessed {{wp|magic sword|magical sword}}. The fact that it starts off as an ordinary sword may mean it could be based on the {{wp|bushido}} mythos behind {{wp|katana}} use; katanas possessed the user {{wp|samurai}}'s soul and attacked of its own free will. In Japanese legends, any object left behind or forgotten by its owner can and will after a while become a {{wp|tsukumogami}}, and most commonly in legends, swords or umbrellas were the ones to attack humans. Considering it drains the life of those who wield it, it may have also been based on {{wp|Tyrfing}}, a cursed sword from Norse mythology. Visually, considering its build and hilt, Honedge seems to be based on either a {{wp|spatha}}, {{wp|claymore}}, or possibly {{wp|jian}} sword, with its own {{wp|scabbard}} and {{wp|Hilt#Sword_knot|tassel}}-like prehensile limb. The design on both Honedge and Doublade's sheath resembles that of a {{wp|triquetra}}, clearly depicted on Honedge and more ornately designed on Doublade's. Its shiny form resembles a blood-soaked sword.
+
+====Name origin====
+Honedge may be a combination of ''hone'', ''one'', and ''edge''.
+
+Hitotsuki may be a combination of 一つ ''hitotsu'' (one) and 突き ''tsuki'' (stab, lunge, or thrust) or 憑き ''tsuki'' ({{wp|spirit possession}}).
+
+==In other languages==
+{{Other languages|type=Steel|type2=Ghost
+|ja=ヒトツキ ''Hitotsuki''|jameaning=From {{tt|一つ ''hitotsu''|one}} and {{tt|突き ''tsuki''|stab, lung, or thrust}} or {{tt|憑き ''tsuki''|spirit possession}}
+|fr=Monorpale|frmeaning=From ''{{tt|mono-|Greek prefix meaning one}}'', ''{{tt|empaler|to impale}}'', and ''{{wp|vorpal sword|vorpale}}''
+|es=Honedge|esmeaning=Same as English name
+|de=Gramokles|demeaning=From ''{{wp|Gram (mythology)|Gram}}'' and ''{{wp|Damocles|{{tt|Damoklesschwert|Sword of Damocles}}}}''
+|it=Honedge|itmeaning=Same as English name
+|ko=단칼빙 ''Dankalbing''|komeaning=From {{tt|단 (單) ''dan''|single}}, {{tt|칼 ''kal''|sword, dagger}}, and {{tt|빙의 (憑依) ''bing-ui''|spirit possession}}
+|zh_cmn=獨劍鞘 / 独剑鞘 ''Dújiànqiào''|zh_cmnmeaning=From {{tt|獨 / 独 ''dú''|single}}, {{tt|劍 / 剑 ''jiàn''|sword}}, and {{tt|鞘 ''qiào''|sheath}}
+|zh_yue=獨劍鞘 ''Duhkgimchiu''|zh_yuemeaning=From {{tt|獨 ''duhk''|single}}, {{tt|劍 ''gim''|sword}}, and {{tt|鞘 ''chiu''|sheath}}
+|hi=ब्लेडेक ''Bladeck''|himeaning=From ''blade'' and {{tt|एक ''ek''|one}}
+|ru=Хонедж ''Khonedzh''|rumeaning=Transcription of English name
+|th=ฮิโตทซึกิ ''Hitotsueki''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Aegislash (UNITE)]]
+* [[Pokémon fusion]]
+* [[Weaponry in the Pokémon world]]
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Steel|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0678|prev=Meowstic|nextnum=0680|next=Doublade}}
+|}
+{{Project Pokédex notice}}
+[[Category:Super Smash Bros. trophies]]
+
+[[de:Gramokles]]
+[[es:Honedge]]
+[[fr:Monorpale]]
+[[it:Honedge]]
+[[ja:ヒトツキ]]
+[[zh:独剑鞘]]

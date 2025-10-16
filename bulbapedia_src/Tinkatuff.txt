@@ -1,0 +1,333 @@
+{{PokémonPrevNext/Head|type=Fairy|type2=Steel}}
+{{PokémonPrevNext/GO|species=Tinkatuff}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0957|prev=Tinkatink|nextnum=0959|next=Tinkaton|round=none}}
+{{PokémonPrevNext/Disambig|species=Tinkatuff}}
+|}
+{{Pokémon Infobox
+|name=Tinkatuff
+|jname=ナカヌチャン
+|tmname=Nakanuchan
+|ndex=0958
+|type1=Fairy
+|type2=Steel
+|category=Hammer
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=130.3
+|weight-kg=59.1
+|abilityn=2
+|ability1=Mold Breaker
+|ability2=Own Tempo
+|abilityd=Pickpocket
+|egggroupn=1
+|egggroup1=Fairy
+|egggroup2=
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=0
+|evsa=0
+|evsd=2
+|evsp=0
+|expyield=133
+|lv100exp=1059860
+|gendercode=254
+|color=Pink
+|catchrate=90
+|body=12
+|pokefordex=tinkatuff
+|generation=9
+|friendship=50
+}}
+'''Tinkatuff''' ([[List of Japanese Pokémon names|Japanese]]: '''ナカヌチャン''' ''Nakanuchan'') is a dual-type {{2t|Fairy|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation IX]].
+
+It [[Evolution|evolves]] from {{p|Tinkatink}} starting at [[level]] 24 and evolves into {{p|Tinkaton}} starting at level 38.
+
+==Biology==
+[[File:Dot Tinkatuff forging.png|thumb|left|250px|Tinkatuff forging a new hammer in order to evolve]]
+Tinkatuff is a pink humanoid Pokémon, with a large head and arms and short, stumpy toeless feet with light pink circles underneath. Its arms have three fingers each, and it has steel plates on its hips that resemble outturned pockets. Its head has light pink circles on its cheeks, silver eyes, and a mouth with square teeth-like growths on the upper and lower lips. It has thin eyebrows or eyelashes above its eyes that give it a perpetually angered expression. On top of its head is a white growth resembling hair tied into a ponytail, with a light pink zigzag pattern on the rim where the growth meets the head.
+
+Tinkatuff carries a large, gray, crude yet sturdy hammer, with loose metal plates for the hammer head and what appears to be the old hammer Tinkatuff had as a {{p|Tinkatink}} on top of the shaft. Tinkatuff makes its hammer using metal it collects from groups of {{p|Pawniard}} and {{p|Bisharp}}, which it preys on; the {{pkmn|animated series}} also depicted Tinkatuff attacking {{p|Corviknight}} to steal its feathers for the hammer. Two Tinkatuff will smash their hammers together in order to test out the hammers' strength. As depicted in [[HZ109]], forging the hammer will trigger Tinkatuff's Evolution into {{p|Tinkaton}}. It is a female-only species. Tinkatuff largely resides in various ruins across [[Paldea]], though it is also said to live in piles of scrap metal.
+
+===Evolution===
+Tinkatuff evolves from {{p|Tinkatink}} and evolves into {{p|Tinkaton}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Fairy
+|type2=Steel
+|no1=0957
+|name1=Tinkatink
+|type1-1=Fairy
+|type2-1=Steel
+|evo1=
+|no2=0958
+|name2=Tinkatuff
+|type1-2=Fairy
+|type2-2=Steel
+|evo2=
+|no3=0959
+|name3=Tinkaton
+|type1-3=Fairy
+|type2-3=Steel}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fairy|type2=Steel}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=280|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon will attack groups of {{p|Pawniard}} and {{p|Bisharp}}, gathering metal from them in order to create a large and sturdy hammer.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{steel color dark}}; background:#{{fairy color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{fairy color light}}; background:#{{fairy color light}} | [[File:Pokédex Image Tinkatuff SV.png|x200px]]
+|-
+| Tinkatuff in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Fairy|type2=Steel}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Six)|Area Six]]<br>East Province: [[East Province (Area Two)|Area Two]]<br>West Province: [[West Province (Area Two)|Area Two]], [[Asado Desert]]<br>North Province: [[North Province (Area One)|Area One]], [[North Province (Area Three)|Area Three]], [[Dalizapa Passage]], [[Casseroya Lake]]<br>West Province: [[West Province (Area One)|Area One]] ({{t|Dark}} {{Tera}} [[Type]])<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Tinkatuff|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Fairy
+|type2=Steel
+|HP=65
+|Attack=55
+|Defense=55
+|SpAtk=45
+|SpDef=82
+|Speed=78
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fairy
+|type2=Steel
+|Normal=50
+|Fighting=100
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=50
+|Bug=25
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=0
+|Dark=50
+|Fairy=50
+|notes=yes
+|steel=yes
+|fairy=yes
+|newpoison=2
+|newdragon=½
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Tinkatuff|Fairy|Steel|9}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|1|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level9|5|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level9|8|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level9|11|Covet|Normal|Physical|60|100|25}}
+{{learnlist/level9|14|Rock Smash|Fighting|Physical|40|100|15}}
+{{learnlist/level9|17|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/level9|21|Sweet Kiss|Fairy|Status|—|75|10}}
+{{learnlist/level9|24|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/level9|27|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level9|31|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/level9|35|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/level9|39|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/level9|43|Flatter|Dark|Status|—|100|15}}
+{{learnlist/level9|47|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/level9|52|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/levelf/9|Tinkatuff|Fairy|Steel|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Tinkatuff|Fairy|Steel|9}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM031|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM037|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM062|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM080|Metronome|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tmf/9|Tinkatuff|Fairy|Steel|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Tinkatuff|Fairy|Steel|9}}
+{{learnlist/breed9|{{MSP/H|0025|Pikachu}}{{MSP/H|0026|Raichu}}{{MSP/H|0026-Alola|Raichu}}{{MSP/H|0286|Breloom}}|Feint|Normal|Physical|30|100|10|grid=4}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Ice Hammer|Ice|Physical|100|90|10|grid=4}}
+{{learnlist/breed9|{{MSP/H|0877|Morpeko}}|Quash|Dark|Status|—|100|15|*|grid=4}}
+{{learnlist/breedf/9|Tinkatuff|Fairy|Steel|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Tinkatuff|Fairy|Steel|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Tinkatuff|Fairy|Steel|9}}
+
+====Special moves====
+{{learnlist/eventh/9|Tinkatuff|Fairy|Steel|9}}
+{{learnlist/event9|[[West Province (Area One)|Wild Tera Pokémon]]|Thief|Dark|Physical|60|100|25}}
+{{learnlist/eventf/9|Tinkatuff|Fairy|Steel|9}}
+
+===Side game data===
+{{Spindata/Head|type=Fairy|type2=Steel}}
+{{Spindata/GO|col=6|type=Fairy|ndex=0958
+|hatch=N/A
+|buddy=3
+|candy=Tinkatink
+|evocandy=100
+|stamina=163
+|attack=109
+|defense=145
+|fast={{m|Fairy Wind}}, {{m|Rock Smash}}
+|special={{m|Play Rough}}, {{m|Flash Cannon}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Fairy
+|type2=Steel
+|no1=0957
+|name1=Tinkatink
+|type1-1=Fairy
+|type2-1=Steel
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 24}}
+|no2=0958
+|name2=Tinkatuff
+|type1-2=Fairy
+|type2-2=Steel
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 38}}
+|no3=0959
+|name3=Tinkaton
+|type1-3=Fairy
+|type2-3=Steel
+}}
+
+===Sprites===
+{{Spritebox/Header|type=fairy|type2=steel}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0958}}-->
+{{Spritebox/HOME|ndex=0958}}
+{{Spritebox/Footer|958|Tinkatuff}}
+
+==In animation==
+[[File:Dot Tinkatuff.png|thumb|250px|Tinkatuff in {{aniseries|HZ}}]]
+[[File:Dot Tinkatuff Terastal.png|thumb|left|250px|{{Tera}} Tinkatuff in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+=====[[Dot's Tinkatuff]]=====
+Tinkatuff debuted in ''[[HZ070|Tinkatink's Hammer Wasn't Made in a Day]]'', after [[Dot]]'s {{p|Tinkatink}} [[Evolution|evolve]]d during a battle against a {{Tera}}stallized {{p|Bombirdier}}. She Terastallized into a {{t|Steel}} [[type]] for the first time in [[HZ097]] and evolved into {{p|Tinkaton}} in [[HZ109]]. Notably, her hammer had a light pink handle [[List of alternately colored Pokémon in animation|instead of the usual design]] seen carried by her species.
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ070|Tinkatuff|Liko's Rotom Phone|Tinkatuff, the Hammer Pokémon. A {{t|Fairy}} and {{t|Steel}} type. These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon: Paldean Winds===
+[[File:Asado Desert PPW.png|thumb|left|250px|Tinkatuff in [[Pokémon: Paldean Winds]]]]
+A {{pkmn2|wild}} Tinkatuff appeared in ''[[PPW04|Breathe Together]]''.
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Tinkatuff (TCG)}}
+
+==Trivia==
+* Tinkatuff and its evolutionary relatives were designed by [[Megumi Mizutani]].<ref>[https://twitter.com/megtany/status/1607179613431824384 Megumi Mizutani on Twitter]</ref>
+
+===Origin===
+Given its type combination and its size, Tinkatuff may be inspired by {{wp|duende}}s, {{wp|gnome}}s, or {{wp|Dwarf (folklore)|dwarfs}}, the latter of which are commonly depicted smithing and using iron tools and weapons.
+
+====Name origin====
+Tinkatuff may be a combination of ''{{wp|tinker}}'' (itinerant tinsmith) and ''tough''.
+
+Nakanuchan may be a combination of 中 ''naka'' (middle), 鍛冶 ''kanuchi'' (blacksmith), and the Japanese diminutive suffix ～ちゃん ''-chan''.
+
+==In other languages==
+{{Other languages|type=Fairy|type2=Steel
+|ja=ナカヌチャン ''Nakanuchan''|jameaning=From {{tt|中 ''naka''|middle}}, {{tt|鍛冶 ''kanuchi''|blacksmith}}, and {{tt|～ちゃん ''-chan''|Japanese diminutive suffix}}
+|fr=Forgella|frmeaning=From ''{{tt|forger|to forge}}'' and ''{{tt|-ella|Italian feminine diminutive suffix}}''
+|es=Tinkatuff|esmeaning=Same as English name
+|de=Tafforgita|demeaning=From ''{{tt|taff|tough}}'', ''forge'' and ''{{tt|-ita|Spanish feminine diminutive suffix}}''
+|it=Tinkatuff|itmeaning=Same as English name
+|ko=벼리짱 ''Byeorijjang''|komeaning=From {{tt|벼리다 ''byeorida''|to forge}} and {{tt|대장장이 ''daejangjang-i''|blacksmith}}
+|zh_cmn=巧鍛匠 / 巧锻匠 ''Qiǎoduànjiàng''|zh_cmnmeaning=From {{tt|巧 ''qiǎo''|skillful}}, {{tt|鍛 / 锻 ''duàn''|to forge}} and {{tt|鐵匠 / 铁匠 ''tiějiàng''|blacksmith}}
+|zh_yue=巧鍛匠 ''Háaudyunjeuhng''|zh_yuemeaning=From {{tt|巧 ''háau''|skillful}}, {{tt|鍛 ''dyun''|to forge}} and {{tt|鐵匠 '' titjeuhng''|blacksmith}}
+|hi=इस्पारीटा ''Ispaarita''|himeaning=From {{tt|इस्पात ''ispāt''|steel}}, {{tt|लोहार ''lohār''|blacksmith}}, and {{tt|''-ita''|Spanish feminine suffix}}''
+|th=นาคานุจัง ''Nakhanuchang''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Weaponry in the Pokémon world]]
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Fairy|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=0957|prev=Tinkatink|nextnum=0959|next=Tinkaton}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Tafforgita]]
+[[es:Tinkatuff]]
+[[fr:Forgella]]
+[[it:Tinkatuff]]
+[[ja:ナカヌチャン]]
+[[zh:巧锻匠]]

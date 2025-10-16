@@ -1,0 +1,744 @@
+{{PokémonPrevNext/Head|type=Ghost|type2=Grass}}
+{{PokémonPrevNext/GO|species=Pumpkaboo}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0709|prev=Trevenant|nextnum=0711|next=Gourgeist|round=none}}
+{{PokémonPrevNext/Disambig|species=Pumpkaboo}}
+|}
+{{Pokémon Infobox
+|name=Pumpkaboo
+|jname=バケッチャ
+|jtranslit=Baketcha
+|tmname=Bakeccha
+|category=Pumpkin
+|typebox=1
+|type1=Ghost
+|type2=Grass
+|abilityn=d
+|ability1=Pickup
+|ability2=Frisk
+|abilityd=Insomnia
+|ndex=0710
+|form1=Small Size
+|form2=Average Size
+|form3=Large Size
+|form4=Super Size
+|height-ftin=1'00"
+|height-ftin2=1'04"
+|height-ftin3=1'08"
+|height-ftin4=2'07"
+|height-m=0.3
+|height-m2=0.4
+|height-m3=0.5
+|height-m4=0.8
+|weight-lbs=7.7
+|weight-lbs2=11.0
+|weight-lbs3=16.5
+|weight-lbs4=33.1
+|weight-kg=3.5
+|weight-kg2=5.0
+|weight-kg3=7.5
+|weight-kg4=15.0
+|egggroupn=1
+|egggroup1=Amorphous
+|gendercode=127
+|eggcycles=20
+|evtotal=1
+|evde=1
+|expyield=67
+|lv100exp=1,000,000
+|color=Brown
+|catchrate=120
+|body=01
+|pokefordex=pumpkaboo
+|generation=6
+|friendship=70
+}}
+'''Pumpkaboo''' ([[List of Japanese Pokémon names|Japanese]]: '''バケッチャ''' ''Bakeccha'') is a dual-type {{2t|Ghost|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] into {{p|Gourgeist}} when [[Trade Evolution|traded]].
+
+Pumpkaboo has four different [[#Form data|forms]]: '''Small Size''', '''Average Size''', '''Large Size''', and '''Super Size'''.
+
+==Biology==
+[[File:Jessie Pumpkaboo flashing lights.png|thumb|left|250px|[[Jessie's Pumpkaboo]] flashing light from the holes in her body]]
+Pumpkaboo is a ghostly pumpkin-like {{OBP|Pokémon|species}} that varies dramatically in size. Encasing its lower body is a pinkish pumpkin with a pair of nubby legs. Carved into the pumpkin is a pair of circular holes that glow yellow-orange. Pumpkaboo's shadowy black body pokes out of the top of the pumpkin. It has glowing yellow eyes, a pair of fangs in its upper jaw, and pointed ears that curve slightly. On top of its head is a long tuft of fur that curls tightly at the tip. A collar of furry-looking tufts hangs over the edge of the pumpkin.
+
+Pumpkaboo becomes active after dark. The holes in its body can glow and illuminate the way for travelers in the dark. It is said that it also carries wandering spirits to the afterlife by storing the spirits in its body. However, its own spirit is trapped in this world. Pumpkaboo can hypnotize and control any humans or Pokémon. It does this task by releasing streams of light from the holes in the pumpkin.
+
+Pumpkaboo and its evolved form {{p|Gourgeist}} are the [[Signature move|only known Pokémon]] capable of learning the move {{m|Trick-or-Treat}}.
+{{left clear}}
+===Forms===
+Pumpkaboo has four separate forms: Small Size, Average Size, Large Size, and Super Size.
+
+The size of Pumpkaboo is said to be the product of the number of lost souls that lingered in the area where it was formed. When taking spirits to the afterlife, small Pumpkaboo prefer the spirits of children to those of adults. Supersized Pumpkaboo are very partial to the spirits of people who were of similarly superior proportions.
+
+{| style="margin:auto; text-align:center;
+|
+{| style="background: #{{ghost color}}; {{roundy|10px}} border: 3px solid #{{grass color dark}}"
+|-
+| Small Size
+|-
+| style="{{roundy|100px}} border: 2px solid #{{grass color dark}}; background: #{{ghost color light}}; width:100px; height:100px"| [[File:HOME0710Sm.png|100px]]
+|}
+|
+{| style="background: #{{ghost color}}; {{roundy|10px}} border: 3px solid #{{grass color dark}}"
+|-
+| Average Size
+|-
+| style="{{roundy|100px}} border: 2px solid #{{grass color dark}}; background: #{{ghost color light}}; width:100px; height:100px"| [[File:HOME0710.png|100px]]
+|}
+|
+{| style="background: #{{ghost color}}; {{roundy|10px}} border: 3px solid #{{grass color dark}}"
+|-
+| Large Size
+|-
+| style="{{roundy|100px}} border: 2px solid #{{grass color dark}}; background: #{{ghost color light}}; width:100px; height:100px"| [[File:HOME0710La.png|100px]]
+|}
+|
+{| style="background: #{{ghost color}}; {{roundy|10px}} border: 3px solid #{{grass color dark}}"
+|-
+| Super Size
+|-
+| style="{{roundy|100px}} border: 2px solid #{{grass color dark}}; background: #{{ghost color light}}; width:100px; height:100px"| [[File:HOME0710Su.png|100px]]
+|}
+|}
+
+===Evolution===
+Pumpkaboo evolves into {{p|Gourgeist}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=ghost
+|type2=grass
+|pictype=art
+|no1=0710
+|name1=Pumpkaboo
+|type1-1=Ghost
+|type2-1=Grass
+|evo1=
+|no2=0711
+|name2=Gourgeist
+|type1-2=Ghost
+|type2-2=Grass}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost|type2=Grass}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=063|label1=Mountain|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It is said to carry wandering spirits to the place where they belong so they can move on.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It is said to carry wandering spirits to the place where they belong so they can move on.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=191|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Form|Small Size}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When taking spirits to the afterlife, small Pumpkaboo prefer the spirits of children to those of adults.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Small Pumpkaboo are said to be the product of areas where few lost souls lingered.}}
+{{Dex/Form|Average Size}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Spirits that wander this world are placed into Pumpkaboo's body. They're then moved on to the afterlife.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.}}
+{{Dex/Form|Large Size}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When taking spirits to the afterlife, large Pumpkaboo prefer the spirits of adults to those of children.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Large Pumpkaboo are said to be the product of areas where many lost souls lingered.}}
+{{Dex/Form|Super Size}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Supersized Pumpkaboo are very partial to the spirits of people who were of similarly superior proportions.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Massive Pumpkaboo are said to be the product of areas where a great number of lost souls lingered.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=ghost|type2=grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{rt|16|Kalos}} <small>('''All Sizes''')</small><br>[[Friend Safari]] ([[Friend Safari#Ghost-type Safari|Ghost]]) <small>('''Average Size''')</small>}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]], [[#In events|Event]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Galar Route 4|Route 4]], [[Giant's Mirror]], [[Hammerlocke Hills]] <small>('''All Sizes''')</small><br>[[Dappled Grove/Dens|Dappled Grove]], [[Giant's Mirror/Dens|Giant's Mirror]] ([[Max Raid Battle]]) <small>('''All Sizes''')</small><br>[[South Lake Miloch/Dens|South Lake Miloch]]{{sup/8|Sw}}, [[Watchtower Ruins/Dens|Watchtower Ruins]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]]) <small>('''Average Size''')</small>}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ghost|type2=Grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 2|Mountain of Order: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Chilling Graveyard|Dark Land: Chilling Graveyard]] <small>(All Areas)</small>, [[Starlight Islands#Halloween Village|Starlight Islands: Halloween Village]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 02|Area 02: Stage 01]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Entei Sea]], [[Mimikyu Sea]], [[Greninja Sea]], [[Entei Sea]]<sup>Final</sup>,[[Mimikyu Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Outaway Cave]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 478]]<br>Event: [[Pokémon Safari/2015-Feb. 2018#Fourth release|''Pokémon Safari'']] <small>(Fourth release)</small><br>Event: [[Pokémon Safari/2015-Feb. 2018#12th release|''Pokémon Safari'']] <small>(12th release; Spooky)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====Super Size=====	
+{{eventAvail/h|Region|type=ghost|type2=grass}}
+{{eventAvail|{{gameabbrev6|XY}}|Spooky 2014 Super Size Pumpkaboo|American region|Nintendo Network|50|October 1 to 31, 2014|link=List of American region Nintendo Network event Pokémon distributions in Generation VI#Spooky 2014 Super Size Pumpkaboo}}
+{{eventAvail|{{gameabbrev6|XY}}|Spooky 2014 Super Size Pumpkaboo|PAL region|Nintendo Network|50|October 1 to 31, 2014|link=List of PAL region Nintendo Network event Pokémon distributions in Generation VI#Spooky 2014 Super Size Pumpkaboo}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Super Size Pumpkaboo|Japanese region|Nintendo Zone|50|October 10 to November 1, 2015|link=List of Japanese region Nintendo Network event Pokémon distributions in Generation VI#Pokémon Center Super Size Pumpkaboo}}
+|}
+
+===Held items===
+{{HeldItems/header|type=Ghost|type2=Grass}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Items1|Miracle Seed|100|availNote=Super Size Pumpkaboo only,&#32;|rows=2}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield|rows=2}}
+|}
+
+===Stats===
+====Base stats====
+=====Small Size=====
+{{Stats
+|type=Ghost
+|type2=Grass
+|HP=44
+|Attack=66
+|Defense=70
+|SpAtk=44
+|SpDef=55
+|Speed=56
+}}
+
+=====Average Size=====
+{{Stats
+|type=Ghost
+|type2=Grass
+|HP=49
+|Attack=66
+|Defense=70
+|SpAtk=44
+|SpDef=55
+|Speed=51
+}}
+
+=====Large Size=====
+{{Stats
+|type=Ghost
+|type2=Grass
+|HP=54
+|Attack=66
+|Defense=70
+|SpAtk=44
+|SpDef=55
+|Speed=46
+}}
+
+=====Super Size=====
+{{Stats
+|type=Ghost
+|type2=Grass
+|HP=59
+|Attack=66
+|Defense=70
+|SpAtk=44
+|SpDef=55
+|Speed=41
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Grass
+|Normal=0
+|Fighting=0
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=100
+|Bug=100
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+}}
+
+===Learnset===
+Pumpkaboo is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Pumpkaboo|Ghost|Grass|6}}
+{{learnlist/level8|1|Trick-or-Treat|Ghost|Status|—|100|20}}
+{{learnlist/level8|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level8|4|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/level8|8|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/level8|12|Trick-or-Treat|Ghost|Status|—|100|20}}
+{{learnlist/level8|12|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level8|16|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/level8|20|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level8|24|Trick-or-Treat|Ghost|Status|—|100|20}}
+{{learnlist/level8|24|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level8|28|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/level8|32|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level8|36|Trick-or-Treat|Ghost|Status|—|100|20}}
+{{learnlist/level8|36|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level8|40|Trick|Psychic|Status|—|100|10}}
+{{learnlist/level8|44|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/levelf/8|Pumpkaboo|Ghost|Grass|6}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Pumpkaboo|Ghost|Grass|6}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm8|TM17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm8|TM19|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM26|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM38|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM44|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM50|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm8|TM70|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM77|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm8|TM92|Mystical Fire|Fire|Special|75|100|10}}
+{{learnlist/tr|TR02|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tr|TR11|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tr|TR15|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR22|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR40|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tr|TR52|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tr|TR58|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tr|TR59|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tr|TR65|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tr|TR77|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tr|TR81|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tmf/8|Pumpkaboo|Ghost|Grass|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Pumpkaboo|Ghost|Grass|6}}
+{{learnlist/breed8|{{MSP/8c|092|Gastly}}{{MSP/8c|093|Haunter}}{{MSP/8c|094|Gengar}}{{MSP/8c|355|Duskull}}{{MSP/8c|356|Dusclops}}{{MSP/8c|477|Dusknoir}}{{MSP/8c|442|Spiritomb}}{{MSP/8c|562|Yamask}}{{MSP/8c|562G|Yamask}}{{MSP/8c|563|Cofagrigus}}{{MSP/8c|867|Runerigus}}{{MSP/8c|607|Litwick}}{{MSP/8c|608|Lampent}}{{MSP/8c|609|Chandelure}}{{MSP/8c|708|Phantump}}{{MSP/8c|709|Trevenant}}{{MSP/8c|871|Pincurchin}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed8|{{MSP/8c|092|Gastly}}{{MSP/8c|093|Haunter}}{{MSP/8c|094|Gengar}}{{MSP/8c|109|Koffing}}{{MSP/8c|110|Weezing}}{{MSP/8c|110G|Weezing}}{{MSP/8c|202|Wobbuffet}}{{MSP/8c|425|Drifloon}}{{MSP/8c|426|Drifblim}}{{MSP/8c|477|Dusknoir}}{{MSP/8c|562|Yamask}}{{MSP/8c|562G|Yamask}}{{MSP/8c|563|Cofagrigus}}{{MSP/8c|867|Runerigus}}{{MSP/8c|592|Frillish}}{{MSP/8c|593|Jellicent}}{{MSP/8c|708|Phantump}}{{MSP/8c|709|Trevenant}}|Destiny Bond|Ghost|Status|—|—|5}}
+{{learnlist/breed8|{{MSP/8c|355|Duskull}}{{MSP/8c|356|Dusclops}}{{MSP/8c|477|Dusknoir}}{{MSP/8c|562|Yamask}}{{MSP/8c|562G|Yamask}}{{MSP/8c|563|Cofagrigus}}{{MSP/8c|867|Runerigus}}|Disable|Normal|Status|—|100|20}}
+{{learnlist/breedf/8|Pumpkaboo|Ghost|Grass|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Pumpkaboo|Ghost|Grass|6}}
+{{learnlist/tutor8|Grassy Glide|Grass|Physical|70|100|20||'''|no|yes}}
+{{learnlist/tutor8|Poltergeist|Ghost|Physical|110|90|5||'''|no|yes}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10|||no|yes}}
+{{learnlist/tutorf/8|Pumpkaboo|Ghost|Grass|6}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Pumpkaboo|Ghost|Grass|6}}
+{{learnlist/prevgen8|Pumpkaboo|6|Bestow|Normal|Status|—|—|15|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Pumpkaboo|6|Charge Beam|Electric|Special|50|90|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Double Team|Normal|Status|—|—|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Dream Eater|Psychic|Special|100|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Explosion|Normal|Physical|250|100|5|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Flame Charge|Fire|Physical|50|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Flash|Normal|Status|—|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Pumpkaboo|6|Frustration|Normal|Physical|—|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Pumpkaboo|6|Hidden Power|Normal|Special|60|100|15|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Pumpkaboo|6|Incinerate|Fire|Special|60|100|15|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Magic Coat|Psychic|Status|—|—|15|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Nature Power|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Return|Normal|Physical|—|100|20|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Pumpkaboo|6|Rock Smash|Fighting|Physical|40|100|15|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Role Play|Psychic|Status|—|—|10|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Pumpkaboo|6|Spite|Ghost|Status|—|100|10|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Swagger|Normal|Status|—|85|15|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Synthesis|Grass|Status|—|—|5|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Pumpkaboo|6|Telekinesis|Psychic|Status|—|—|15|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Pumpkaboo|6|Toxic|Poison|Status|—|90|10|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Pumpkaboo|Ghost|Grass|6}}
+
+===Side game data===
+{{Spindata/Head|type=Ghost|type2=Grass}}
+{{Spindata/PSMD|col=6|type=Ghost|ndex=710
+|coset=32
+|conto={{p|Litwick}}
+|recruitment=Explore the last floor of a dungeon
+|P1=They think I look like something. I get that way too often, in fact.
+|P2=I would not make good survival food. So pelase don't eat me.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ghost|ndex=710
+|walk=2.08
+|hp={{tt|46|Small Size}}, {{tt|48|Average Size}}, {{tt|49|Large Size}} or {{tt|50|Super Size}}
+|attack=70
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ghost|ndex=710
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Ghost|ndex=710|num=320
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Risk-Taker
+|skilldesc=Increases damage randomly.
+}}
+{{Spindata/Shuffle|col=3|type=Ghost|ndex=710Spooky|num=320
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Swap+
+|skilldesc=Sometimes replaces three disruptions with this Pokémon.
+}}
+|-
+{{Spindata/GO|col=6|type=Ghost|ndex=710
+|hatch=N/A
+|buddy=5
+|candy=Pumpkaboo
+|evocandy=200 or [[File:GO Trade icon.png|20px|link=Trade (GO)|Trade Evolution]]
+|stamina={{tt|127|Small Size}}, {{tt|135|Average Size}}, {{tt|144|Large Size}} or {{tt|153|Super Size}}
+|attack={{tt|122|Small Size}}, {{tt|121|Average Size}}, {{tt|120|Large Size}} or {{tt|118|Super Size}}
+|defense={{tt|124|Small Size}}, {{tt|123|Average Size}}, {{tt|122|Large Size}} or {{tt|120|Super Size}}
+|fast={{m|Astonish}}, {{m|Razor Leaf}}
+|special={{m|Grass Knot}}, {{m|Shadow Sneak}}, {{m|Foul Play}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Ghost|ndex=710|pdex=189
+|dex=Pumpkaboo of several different sizes live in the [[Lental]] [[region]]. I’ve heard it said that their size depends on the number of souls they have trapped inside them.}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{grass color dark}}; background:#{{ghost color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{grass color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{grass color dark}}; background:#{{ghost color light}};"| [[File:GO0710SmHalloween2022.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{grass color dark}}; background:#{{ghost color light}};"| [[File:GO710Halloween2022.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{grass color dark}}; background:#{{ghost color light}};"| [[File:GO0710LaHalloween2022.png|100px]]
+| style="{{roundy|80px}} border:2px solid #{{grass color dark}}; background:#{{ghost color light}};"| [[File:GO0710SuHalloween2022.png|100px]]
+|-
+| Spooky Festival (Small Size)
+| Spooky Festival (Average Size)
+| Spooky Festival (Large Size)
+| Spooky Festival (Super Size)
+|}
+
+===Form data===
+Pumpkaboo have four different forms, each named after their respective size: Small Size, Average Size, Large Size, and Super Size. 
+
+Its size is maintained through [[Evolution]] into {{p|Gourgeist}} and cannot be changed. Larger sizes of Pumpkaboo are rarer to encounter in the {{pkmn2|wild}}. [[Pokémon breeding|Bred]] Pumpkaboo are the same size as their mother, or the same size as the Pumpkaboo or Gourgeist parent if bred with {{p|Ditto}}.
+
+In the wild, Super Size Pumpkaboo will always hold a [[Miracle Seed]], whereas other sizes will never hold an [[item]] in the wild. Super Size variants have different, lower-pitched [[Cry|cries]] than the other forms, and were also the only Pokémon to have the XXL [[Size and weight variation#Pokémon GO|size designation]] in {{g|GO}} prior to the addition of XXL and XXS sizes for all species. The different sizes of Pumpkaboo do not use different menu sprites, except in {{g|HOME}}.
+
+Previously, only Average Size and Super Size Pumpkaboo could have their [[Hidden Ability]] {{a|Insomnia}}. Average Size can be obtained with its Hidden Ability from the [[Friend Safari]], and Super Size could be obtained with its Hidden Ability from {{pkmn2|event}}s. Since Version 1.2.0 of {{g|Sword and Shield}}, all sizes can be obtained with their Hidden Abilities via [[Ability Patch]]es.
+
+Each form has different [[base stats]]. With each increase in size, Pumpkaboo's base {{stat|HP}} stat increases by 5 points, while its base {{stat|Speed}} stat decreases by 5 points. Consequently, its base stat total does not vary with size.
+
+{| style="margin:auto"
+|
+{{compare|name=Pumpkaboo|forme=Small Size|type=Ghost|type2=Grass|image=HOME710Sm|ab=Pickup|ab2=Frisk|abd=Insomnia|HP=44|Attack=66|Defense=70|SpAtk=44|SpDef=55|Speed=56}}
+|
+{{compare|name=Pumpkaboo|forme=Average Size|type=Ghost|type2=Grass|image=HOME710|ab=Pickup|ab2=Frisk|abd=Insomnia|HP=49|Attack=66|Defense=70|SpAtk=44|SpDef=55|Speed=51}}
+|
+{{compare|name=Pumpkaboo|forme=Large Size|type=Ghost|type2=Grass|image=HOME710La|ab=Pickup|ab2=Frisk|abd=Insomnia|HP=54|Attack=66|Defense=70|SpAtk=44|SpDef=55|Speed=46}}
+|
+{{compare|name=Pumpkaboo|forme=Super Size|type=Ghost|type2=Grass|image=HOME710Su|ab=Pickup|ab2=Frisk|abd=Insomnia|HP=59|Attack=66|Defense=70|SpAtk=44|SpDef=55|Speed=41}}
+|}
+
+===Evolution data===
+====Small Size====
+{{Evobox-2
+|type1=Ghost
+|type2=Grass
+|pictype=sprite
+|no1=HOME0710Sm
+|form1=Small Size
+|name1=Pumpkaboo
+|type1-1=Ghost
+|type2-1=Grass
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]]<br>{{color2|000|Trade}}
+|no2=HOME0711Sm
+|name2=Gourgeist
+|form2=Small Size
+|type1-2=Ghost
+|type2-2=Grass}}
+
+====Average Size====
+{{Evobox-2
+|type1=Ghost
+|type2=Grass
+|pictype=sprite
+|no1=HOME0710
+|form1=Average Size
+|name1=Pumpkaboo
+|type1-1=Ghost
+|type2-1=Grass
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]]<br>{{color2|000|Trade}}
+|no2=HOME0711
+|name2=Gourgeist
+|form2=Average Size
+|type1-2=Ghost
+|type2-2=Grass}}
+
+====Large Size====
+{{Evobox-2
+|type1=Ghost
+|type2=Grass
+|pictype=sprite
+|no1=HOME0710La
+|form1=Large Size
+|name1=Pumpkaboo
+|type1-1=Ghost
+|type2-1=Grass
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]]<br>{{color2|000|Trade}}
+|no2=HOME0711La
+|name2=Gourgeist
+|form2=Large Size
+|type1-2=Ghost
+|type2-2=Grass}}
+
+====Super Size====
+{{Evobox-2
+|type1=Ghost
+|type2=Grass
+|pictype=sprite
+|no1=HOME0710Su
+|form1=Super Size
+|name1=Pumpkaboo
+|type1-1=Ghost
+|type2-1=Grass
+|evo1=[[File:Link Trade icon SV.png|40px|link=Trade]]<br>{{color2|000|Trade}}
+|no2=HOME0711Su
+|name2=Gourgeist
+|form2=Super Size
+|type1-2=Ghost
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=ghost|type2=grass}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6/4Forms|ndex=710|form1=Sm|form2=La|form3=Su|crop=77}}
+{{Spritebox/7/4Forms|ndex=710|form1=Sm|form2=La|form3=Su|crop=70}}
+{{Spritebox/8/4Forms|ndex=710|form1=Sm|form2=La|form3=Su}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME/4Forms|ndex=0710|form1=Sm|form2=La|form3=Su}}
+{{Spritebox/Footer|710|Pumpkaboo}}
+
+==In animation==
+[[File:Jessie Pumpkaboo.png|thumb|250px|Super Size Pumpkaboo in {{aniseries|XY}}]]
+[[File:Count Pumpka Pumpkaboo.png|thumb|250px|Small Size Pumpkaboo in {{aniseries|XY}}]]
+===Main series===
+====Major appearances====
+=====[[Jessie's Pumpkaboo]]=====
+Pumpkaboo debuted in ''[[XY011|The Bamboozling Forest!]]'', where [[Jessie]] tripped over a Super Size Pumpkaboo in a forest. When she came out of the ground, she threw a {{i|Poké Ball}} at her and successfully {{pkmn2|caught}} her. She later evolved into a Gourgeist after being traded in ''[[XY082|A Festival Trade! A Festival Farewell?]]''.
+
+=====Other=====
+A Small Size Pumpkaboo named Prince Pumpkaboo appeared in ''[[XY082|A Festival Trade! A Festival Farewell?]]'', under the ownership of [[Count Pumpka]]. He fell in love with Jessie's Pumpkaboo and a trade was agreed on. However, when the trade caused Jessie's Pumpkaboo to evolve into Gourgeist, Prince Pumpkaboo rejected her.
+
+====Minor appearances====
+A Pumpkaboo appeared as an image in ''[[XY091|A Performance Pop Quiz!]]''.
+
+A {{pkmn|Trainer}}'s Pumpkaboo appeared during a flashback in ''[[XYS05|The Legend of X, Y, and Z!]]''.
+
+Multiple Pumpkaboo appeared in ''[[JN091|The Spectral Express!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY011|Pumpkaboo|Ash's Pokédex|Pumpkaboo, the Pumpkin Pokémon. Pumpkaboo's eyes can glow, which lights the way for travelers. They often sleep in the ground.}}
+{{Animedexfooter/Pokémon|Kalos}}
+
+===Pokémon: Twilight Wings===
+[[File:Pumpkaboo TW.png|thumb|250px|Pumpkaboo in [[Pokémon: Twilight Wings]]]]
+A Pumpkaboo appeared in ''[[TW05|Assistant]]''.
+{{-}}
+
+==In the manga==
+[[File:Aliana Pumpkaboo Adventures.png|thumb|180px|Pumpkaboo in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+{{adv|Blue}}'s Average Size Pumpkaboo appeared in ''[[PS582|Pinsir Glares]]'', where he was with [[Diantha]] underneath some rubble to hide from the [[ultimate weapon]]'s beam.
+
+[[Aliana]]'s Pumpkaboo first appeared in ''[[PS591|Mewtwo Angered]]''.
+
+A Pumpkaboo appeared in ''[[PASS29|GRRR!! The Irrepairable Gears]]'' during the [[Darkest Day]].
+{{-}}
+
+==In the TCG==
+{{main|Pumpkaboo (TCG)}}
+==Trivia==
+===Origin===
+Pumpkaboo appears to be based on a {{wp|pumpkin}}, specifically the ones carved into {{wp|jack-o'-lantern}}s for {{wp|Halloween}}. Considering its fangs, black upper body, and affiliation with Halloween, it may also be based on bats or black cats.
+
+Pumpkaboo's different forms are likely inspired by the large variety of sizes in pumpkins, the largest ones possibly being a reference to the agricultural tradition of growing {{wp|giant pumpkin|incredibly large pumpkins}}.
+
+====Name origin====
+Pumpkaboo may be a combination of ''pumpkin'' and ''boo'' (a common word used to startle people) or ''{{wp|Peekaboo|peek-a-boo}}''.
+
+Bakeccha may be a combination of お化け ''obake'' (ghost) and 南瓜 ''kabocha'' (pumpkin).
+
+==In other languages==
+{{Other languages|type=ghost|type2=grass
+|ja=バケッチャ ''Bakeccha''|jameaning=From {{tt|お化け ''obake''|ghost}} and {{tt|南瓜 ''kabocha''|pumpkin}}
+|fr=Pitrouille|frmeaning=From ''{{tt|petit|small}}'', ''{{tt|pitre|jokester}}'', ''{{tt|citrouille|pumpkin}}'', and ''{{tt|trouille|fear}}''
+|es=Pumpkaboo|esmeaning=Same as English name
+|de=Irrbis|demeaning=From ''{{tt|Irrlicht|will-o'-the-wisp}}'' and ''{{tt|Kürbis|pumpkin}}
+|it=Pumpkaboo|itmeaning=Same as English name
+|ko=호바귀 ''Hobagwi''|komeaning=From {{tt|호박 (胡朴) ''hobak''|pumpkin}} and {{tt|귀 (鬼) ''gwi''|ghost}}
+|zh_cmn=南瓜精 ''Nánguājīng''|zh_cmnmeaning=From {{tt|南瓜 ''nánguā''|pumpkin}} and {{tt|精 ''jīng''|spirit}}
+|zh_yue=南瓜精 ''Nàahmgwājīng''|zh_yuemeaning=From {{tt|南瓜 ''nàahmgwā''|pumpkin}} and {{tt|精 ''jīng''|spirit}}
+|hi=कब्बू ''Kabboo''|himeaning=From {{tt|कद्दू ''kaddū''|pumpkin}} and ''boo''
+|ru=Пампкабу ''Pampkabu''|rumeaning=Transcription of English name
+|th=บาเค็จจะ ''Bakhetcha''|thmeaning=Transcription of Japanese name
+}}
+{{-}}
+<div style="display:inline-block">
+''Average Size''
+{{langtable
+|color={{ghost color}}|bordercolor={{grass color dark}}
+|ja=ふつうのサイズ ''Average Size''
+|zh_yue=普通尺寸 ''{{tt|Póutūng Chekchyun|Normal Size}}''
+|zh_cmn=普通尺寸 ''{{tt|Pǔtōng Chǐcùn|Normal Size}}''
+|fr=Taille Normale
+|de=Größe M
+|hi=ऐवरेज साइज़ ''Average Size''
+|id=Ukuran Normal
+|it=Normale
+|ko=보통 사이즈 ''Normal Size''
+|pt_br=Tamanho Médio
+|es=Tamaño Normal
+|th=ขนาดปกติ
+|tr=Orta Boy
+|vi=Cỡ thường
+}}
+</div>
+<div style="display:inline-block">
+''Small Size''
+{{langtable
+|color={{ghost color}}|bordercolor={{grass color dark}}
+|ja=ちいさいサイズ ''Small Size''
+|zh_yue=小尺寸 ''{{tt|Síu Chekchyun|Small Size}}''
+|zh_cmn=小尺寸 ''{{tt|Xiǎo Chǐcùn|Small Size}}''
+|fr=Taille Mini
+|de=Größe S
+|hi=स्मॉल साइज़ ''Small Size''
+|id=Ukuran Kecil
+|it=Mini
+|ko=작은 사이즈 ''Small Size''
+|pt_br=Tamanho Pequeno
+|es=Tamaño Pequeño
+|th=ขนาดเล็ก
+|tr=Küçük Boy
+|vi=Cỡ nhỏ
+}}
+</div>
+<div style="display:inline-block">
+''Large Size''
+{{langtable
+|color={{ghost color}}|bordercolor={{grass color dark}}
+|ja=おおきいサイズ ''Large Size''
+|zh_yue=大尺寸 ''{{tt|Daaih Chekchyun|Large Size}}''
+|zh_cmn=大尺寸 ''{{tt|Dà Chǐcùn|Large Size}}''
+|fr=Taille Maxi
+|de=Größe L
+|hi=बड़ा साइज़ {{tt|''Bada Size''|Large Size}}
+|id=Ukuran Besar
+|it=Grande
+|ko=큰 사이즈 ''Large Size''
+|pt_br=Tamanho Grande
+|es=Tamaño Grande
+|th=ขนาดใหญ่
+|tr=Büyük Boy
+|vi=Cỡ lớn
+}}
+</div>
+<div style="display:inline-block">
+''Super Size''
+{{langtable
+|color={{ghost color}}|bordercolor={{grass color dark}}
+|ja=とくだいサイズ ''Extra Large Size''
+|zh_yue=特大尺寸 ''{{tt|Dahkdaaih Chekchyun|Extra Large Size}}''
+|zh_cmn=特大尺寸 ''{{tt|Tèdà Chǐcùn|Extra Large Size}}''
+|fr=Taille Ultra
+|de=Größe XL
+|hi=सुपर साइज़ ''Super Size''
+|id=Ukuran Super
+|it=Maxi
+|ko=특대 사이즈 ''Extra Large Size''
+|pt_br=Tamanho Extragrande
+|es=Tamaño Extragrande
+|th=ขนาดใหญ่พิเศษ
+|tr=Süper Büyük Boy
+|vi=Cỡ đặc biệt lớn
+}}
+</div>
+{{-}}
+
+==Related articles==
+*[[Jessie's Pumpkaboo]]
+* [[List of Pokémon with form differences]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Ghost|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0709|prev=Trevenant|nextnum=0711|next=Gourgeist}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with different forms]]
+[[Category:Pokémon that evolve through trading]]
+
+[[de:Irrbis]]
+[[es:Pumpkaboo]]
+[[fr:Pitrouille]]
+[[it:Pumpkaboo]]
+[[ja:バケッチャ]]
+[[zh:南瓜精]]

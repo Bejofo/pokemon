@@ -1,0 +1,439 @@
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/GO|species=Klang}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0599|prev=Klink|nextnum=0601|next=Klinklang|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Klang
+|jname=ギギアル
+|tmname=Gigiaru
+|category=Gear
+|typebox=1
+|type1=Steel
+|abilityn=d
+|ability1=Plus
+|ability2=Minus
+|abilityd=Clear Body
+|ndex=0600
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=112.4
+|weight-kg=51.0
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|expyield=154
+|lv100exp=1,059,860
+|gendercode=255
+|color=Gray
+|catchrate=60
+|evtotal=2
+|evde=2
+|body=11
+|pokefordex=klang
+|generation=5
+|friendship=70
+}}
+'''Klang''' ([[List of Japanese Pokémon names|Japanese]]: '''ギギアル''' ''Gigiaru'') is a {{type|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Klink}} starting at [[level]] 38 and evolves into {{p|Klinklang}} starting at level 49.
+
+==Biology==
+Klang is a {{OBP|Pokémon|species}} resembling three interlocking gears, with six teeth on the smaller two gears and eight teeth on the larger gear. The teeth of the smaller gears are a light gray, while their central regions are much darker. The teeth of the larger gear are a medium gray, and its central region is darker in color. The left eye of the smaller gear is a white "X", while its right eye has a black pupil and a white sclera. It has a round green nose and a small mouth that is wide open. The large gear appears to have a face with a black square for its right eye, a black circle for its left eye, and a sharply angled white frown. 
+
+Klang can fire tiny gears at high speeds. Klang and its evolutionary relatives are the [[signature move|only known Pokémon]] capable of learning the move {{m|Gear Grind}}. Before [[Generation VII]], {{m|Shift Gear}} was also one of its signature moves. When it gets angry, its gears rotate faster. Klang communicate with each other by spinning their gears in different directions. Klang is often chosen as a logo for many companies in [[Galar]]. Klang is believed to be the symbol of industrial technology.
+
+===Evolution===
+Klang evolves from {{p|Klink}} and evolves into {{p|Klinklang}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">{{evobox-3
+|type1=Steel
+|no1=0599
+|name1=Klink
+|type1-1=Steel
+|evo1=
+|no2=0600
+|name2=Klang
+|type1-2=Steel
+|evo2=
+|no3=0601
+|name3=Klinklang
+|type1-3=Steel}}</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Steel}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen/2|gen=V|reg1=Unova|num1=106|label1={{gameIcon|Bl}}{{gameIcon|W}}:|reg2=Unova|num2=131|label2={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry1|v=Black|t=FFF|entry=By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.}}
+{{Dex/Entry1|v=White|entry=Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=114|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Klink}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[P2 Laboratory]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Friend Safari]] ([[Friend Safari#Steel-type Safari|Steel]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Klink}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Klink}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area={{rt|10|Galar}}, [[Dusty Bowl]], [[Hammerlocke Hills]]<br>[[Dusty Bowl/Dens|Dusty Bowl]], [[Giant's Seat/Dens|Giant's Seat]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Tech Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Desolate Canyon]] (1F-7F), [[Redland Reaches]] (1F-10F), [[Scorching Desert]] (1F-10F), [[Moonlit Forest]](Uncharted Road), [[Rusty Mountain]] (Uncharted Road, Gilded Hall), [[Jaws of the Abyss]] (Gilded Hall), [[Smoking Mountain]] (Gilded Hall)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#Working Gears|Model Train Room: Working Gears]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 3|Colossal Forest: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Rumbling Hall|White Ruins: Rumbling Hall]] <small>(All Areas)</small>, [[Origin Hideaway#Super-Aura Test Lab|Origin Hideaway: Super-Aura Test Lab]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Aegislash Sea]], [[Buzzwole Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 227]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Steel
+|HP=60
+|Attack=80
+|Defense=95
+|SpAtk=70
+|SpDef=85
+|Speed=50}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+===Learnset===
+Klang is available in {{pkmn|Sword and Shield}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Klang|Steel|Steel|5}}
+{{learnlist/level8|1|Thunder Shock|Electric|Special|40|100|30}}
+{{learnlist/level8|1|Vise Grip|Normal|Physical|55|100|30}}
+{{learnlist/level8|1|Bind|Normal|Physical|15|85|20}}
+{{learnlist/level8|1|Charge|Electric|Status|—|—|20}}
+{{learnlist/level8|12|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/level8|16|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level8|20|Autotomize|Steel|Status|—|—|15}}
+{{learnlist/level8|24|Discharge|Electric|Special|80|100|15}}
+{{learnlist/level8|28|Screech|Normal|Status|—|85|40}}
+{{learnlist/level8|32|Gear Grind|Steel|Physical|50|85|15||'''}}
+{{learnlist/level8|36|Lock-On|Normal|Status|—|—|5}}
+{{learnlist/level8|42|Shift Gear|Steel|Status|—|—|10}}
+{{learnlist/level8|48|Zap Cannon|Electric|Special|120|50|5}}
+{{learnlist/level8|54|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/levelf/8|Klang|Steel|Steel|5}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Klang|Steel|Steel|5}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM58|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM80|Volt Switch|Electric|Special|70|100|20}}
+{{learnlist/tr|TR08|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR63|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/tr|TR70|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tmf/8|Klang|Steel|Steel|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Klang|Steel|Steel|5}}
+{{learnlist/breed8null}}
+{{learnlist/breedf/8|Klang|Steel|Steel|5}}	
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Klang|Steel|Steel|5}}
+{{learnlist/tutor8|Rising Voltage|Electric|Special|70|100|20||'''|no|yes}}
+{{learnlist/tutor8|Steel Beam|Steel|Special|140|95|5||'''|yes|no}}
+{{learnlist/tutor8|Steel Roller|Steel|Physical|130|100|5||'''|no|yes}}
+{{learnlist/tutorf/8|Klang|Steel|Steel|5}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Klang|Steel|Steel|5}}
+{{Learnlist/prevo8null}}
+{{learnlist/prevof/8|Klang|Steel|Steel|5}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Klang|Steel|Steel|5}}
+{{learnlist/prevgen8|Klang|5|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Klang|5|Double Team|Normal|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Klang|5|Frustration|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Klang|5|Gravity|Psychic|Status|—|—|5|V=yes<!--tutor,{{dwa|Icy Cave}}-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Klang|5|Hidden Power|Normal|Special|60|100|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Klang|5|Magic Coat|Psychic|Status|—|—|15|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Klang|5|Magnet Rise|Electric|Status|—|—|10|V=yes<!--tutor,{{dwa|Icy Cave}}-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Klang|5|Mirror Shot|Steel|Special|65|85|10||'''|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Klang|5|Recycle|Normal|Status|—|—|10|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Klang|5|Return|Normal|Physical|—|100|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Klang|5|Rock Polish|Rock|Status|—|—|20|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Klang|5|Rock Smash|Fighting|Physical|40|100|15|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Klang|5|Secret Power|Normal|Physical|70|100|20|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Klang|5|Shock Wave|Electric|Special|60|—|20|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Klang|5|Signal Beam|Bug|Special|75|100|15|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Klang|5|Swagger|Normal|Status|—|85|15|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Klang|5|Telekinesis|Psychic|Status|—|—|15|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Klang|5|Toxic|Poison|Status|—|90|10|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Klang|Steel|Steel|5}}
+
+===Side game data===
+{{Spindata/Head|type=Steel}}
+{{Spindata/PSMD|col=6|type=Steel|ndex=600
+|coset=15
+|conto={{p|Magnemite}}, {{p|Klink}}
+|recruitment=Escort to find Klang's precious belonging
+|P1=Minigear and I work together to attack!
+|P2=Big Gear: Are you OK, Minigear?<br>Minigear: I can barely keep turning…
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Steel
+|att=2
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Steel|ndex=600
+|walk=1.67
+|hp=51
+|attack=76
+|defense=57
+|speed=60
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Steel|ndex=600
+|strong=
+|weak=
+|pad=Klang worked hard as a gear with {{p|Klink}} and {{p|Klinklang}} to move the elevator. Klang worked too hard and got tired of working.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Steel|ndex=600
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Steel|ndex=600|num=311
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Power of 5
+|skilldesc=Increases damage when you make a match of five.
+}}
+|-
+{{Spindata/GO|col=6|type=Steel|ndex=600
+|hatch=N/A
+|buddy=5
+|candy=Klink
+|evocandy=100
+|stamina=155
+|attack=150
+|defense=174
+|fast={{m|Thunder Shock}}, {{m|Charge Beam}}, {{m|Metal Sound}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Vise Grip}}, {{m|Thunderbolt}}, {{m|Zap Cannon}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Steel
+|no1=0599
+|name1=Klink
+|type1-1=Steel
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 38}}
+|no2=0600
+|name2=Klang
+|type1-2=Steel
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 49}}
+|no3=0601
+|name3=Klinklang
+|type1-3=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Steel}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=600}}
+{{Spritebox/6|ndex=600|crop=78}}
+{{Spritebox/7|ndex=600|crop=79}}
+{{Spritebox/8|ndex=600}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0600}}
+{{Spritebox/Footer|600|Klang}}
+
+==In animation==
+[[File:Mannes Klang.png|thumb|250px|Klang in {{aniseries|BW}}]]
+===Main series===
+====Major appearances====
+Klang debuted in [[M14|''White—Victini and Zekrom'' and ''Black—Victini and Reshiram'']] alongside Klink and Klinklang; they are all under the ownership of [[Mannes]]. He used the three for various tasks, such as powering the music machine at Eindoak Town's Harvest Festival, doing yard work on his property, and powering his helicopter in the climax of the films.
+
+====Minor appearances====
+Klang made its {{pkmn|animated series}} debut in ''[[Mewtwo — Prologue to Awakening]]'', where it was used by [[Virgil]] to power his helicopter.
+
+A {{pkmn|Trainer}}'s Klang appeared in ''[[M23|Secrets of the Jungle]]''.
+{{-}}
+
+==In the manga==
+[[File:Gizairu Burst.png|thumb|150px|Klang burst in [[Pokémon RéBURST]]]]
+===Pocket Monsters B2 W2 ~ A New Legend ~===
+Two Klang appeared in [[ANL4]], under the ownership of [[Dr. Zeno]].
+
+===Pokémon Adventures===
+A {{tc|Team Plasma Grunt}}'s Klang was seen in ''[[PS545|Deduction Time]]''.
+
+===Pokémon RéBURST===
+A Klang appears as the [[Burst]] form of Gizairu, who appeared at the [[RB21|start]] of [[Burst Heart Survival]].
+{{-}}
+
+==In the TCG==
+{{main|Klang (TCG)}}
+
+==Trivia==
+* Klang is the only non-{{pkmn2|Legendary}} or [[Mythical Pokémon]] from [[Generation V]] who has yet to debut in the {{pkmn|animated series}}.
+* The idea for Klang's evolutionary line came from [[Ken Sugimori]],<ref name=ND204/> while the designs were done by [[Keiko Moritsugu]].<ref>[https://imgur.com/a/cgf0g14 Archive of deleted tweet by Keiko Moritsugu]</ref>
+* A [[Pokémon.com]] article from August 2025 stated that Klang was the least-searched Pokémon on the site's Pokédex.<ref>[https://www.pokemon.com/us/pokemon-news/marvel-at-the-middle-evolution-pokemon-infographic "Marvel at the Middle Evolution Pokémon Infographic"]</ref>
+
+===Origin===
+Klang is based on interlocking gears,<ref name=ND204>''Nintendo Dream'' Vol. 204, April 2011 ([https://web.archive.org/web/20110704155314/http://shellspider.blog101.fc2.com/blog-entry-502.html Shellspider's blog (Japanese)], [http://lavacutcontent.com/ken-sugimori-nintendo-dream-6/ Translation by Dr. Lava])</ref> perhaps specifically the {{wp|sun and planet gear}}s.
+
+====Name origin====
+Klang may be derived from ''clang'' (onomatopoeia for metal heavily striking a surface). 
+
+Gigiaru may be derived from ギア ''gear'', with the first syllable repeated.
+
+==In other languages==
+{{Other languages|type=Steel|type2=Steel
+|ja=ギギアル ''Gigiaru''|jameaning=From ''gear''
+|fr=Clic|frmeaning=From ''{{tt|clic|click}}''
+|es=Klang|esmeaning=Same as English name
+|de=Kliklak|demeaning=From ''{{tt|klickklack|onomatopoeia for moving cogwheels}}''
+|it=Klang|itmeaning=Same as English name
+|ko=기기어르 ''Gigiaru''|komeaning=Transcription of Japanese name
+|zh_cmn=齒輪組 / 齿轮组 ''Chǐlúnzǔ''|zh_cmnmeaning=From {{tt|齒輪 / 齿轮 ''chǐlún''|gear}} and {{tt|組 / 组 ''zǔ''|group}}
+|zh_yue=齒輪組 ''Chílèuhnjóu''|zh_yuemeaning=From {{tt|齒輪 ''chílèuhn''|gear}} and {{tt|組 ''jóu''|group}}
+|hi=गेरारीरी ''Gerareeree''|himeaning=From ''gear'' and {{tt|गरारी ''garārī''|gear}}
+|ru=Кланг ''Klang''|rumeaning=Transcription of English name
+|th=กิเกียร์ ''Kikia''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==References==
+<references />
+
+==Related articles==
+* [[Pokémon fusion]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=0599|prev=Klink|nextnum=0601|next=Klinklang}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kliklak]]
+[[es:Klang]]
+[[fr:Clic]]
+[[it:Klang]]
+[[ja:ギギアル]]
+[[zh:齿轮组]]

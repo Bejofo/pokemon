@@ -1,0 +1,879 @@
+{{PokémonPrevNext/Head|type=Poison}}
+{{PokémonPrevNext/GO|species=Weezing}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=0109|prev=Koffing|nextnum=0111|next=Rhyhorn|round=none}}
+{{PokémonPrevNext/Disambig|species=Weezing}}
+|}
+{{Pokémon Infobox
+|name=Weezing
+|jname=マタドガス
+|jtranslit=Matadogasu
+|tmname=Matadogas
+|forme=2
+|form1=Weezing
+|form2=Galarian Weezing
+|image2=0110Weezing-Galar.png
+|ndex=0110
+|type1=Poison
+|form2type1=Poison
+|form2type2=Fairy
+|category=Poison Gas
+|height-ftin=3'11"
+|height-m=1.2
+|height-ftin2=9'10"
+|height-m2=3.0
+|weight-lbs=20.9
+|weight-kg=9.5
+|weight-lbs2=35.3
+|weight-kg2=16.0
+|abilityn=d
+|abilitylayout=1+2
+|ability1=Levitate
+|ability2=Neutralizing Gas
+|ability2note=<sup>{{color2|000|Generation VIII|Gen VIII+}}</sup>
+|abilityd=Stench
+|abilitydcaption=Gen VIII+ Weezing
+|abilityd2=Misty Surge
+|abilityd2caption=Galarian Weezing
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=20
+|evtotal=2
+|evde=2
+|expyield=172
+|oldexp=173
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|formcolors=yes
+|catchrate=60
+|body=11
+|pokefordex=weezing
+|generation=1
+|friendship=70
+}}
+'''Weezing''' ([[List of Japanese Pokémon names|Japanese]]: '''マタドガス''' ''Matadogas'') is a {{type|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Koffing}} starting at [[level]] 35.
+
+In [[Galar]], Weezing has a dual-type {{2t|Poison|Fairy}} [[regional form]]. It evolves from Koffing starting at level 35. All Koffing in Galar evolve into this form regardless of their origin.
+
+==Biology==
+Weezing is a purple {{OBP|Pokémon|species}} consisting of two spherical heads connected by a thin tube with another sphere in the center. The heads have different sizes and features. The left head is larger and has prominent eyebrows, pointed teeth protruding from its lower jaw, and two flat teeth in its upper jaw. The smaller, right head simply has two pointed teeth, one at each corner of its mouth. The larger head has a cream-colored skull-and-crossbones marking below its face, while the smaller head has a ring marking instead. It is covered with many geyser-like protrusions, which usually expel mustard-colored gases. Weezing is said to form when poisonous gases pool and two {{p|Koffing}} fuse over many years. Very rarely, two Koffing can become a Weezing in a short time span because of a sudden mutation. Triplet Weezing have been discovered, although they are extremely rare.
+
+Each of Weezing's heads contains a different toxin. It mixes its gases by inflating one head and deflating the other. When its gases mix, Weezing becomes more toxic and putrid. Weezing can hover in midair, presumably due to gases lighter than air, as is the case for Koffing. Despite their stench and poison, Weezing's gases can be used to make top-grade perfume by diluting them to the highest level.
+
+Weezing lives in {{DL|List of Pokémon by habitat|Urban Pokémon|urban areas}}. It seeks a dirty, unkempt house and nests there. At night, when the people in the house are asleep, it will go through the trash. Weezing feeds on the dust, microorganisms, and especially gases emitted by garbage and toxic waste. Weezing's body expands and smells worse upon inhaling poisonous gases. The Kantonian Weezing used to be common in [[Galar]] and created more potent toxins than their Galarian relatives.
+
+Weezing and its pre-evolved form are the [[Signature Ability|only known Pokémon]] that can have {{a|Neutralizing Gas}} as an [[Ability]]. 
+
+===Forms===
+[[File:Galarian Weezing absorbing pollutant.png|thumb|left|250px|Galarian Weezing absorbing pollutants from a factory and expelling clean air]]
+
+Weezing has a [[regional form]]: {{rf|Galarian}} Weezing.
+
+In the [[Galar]] [[region]], its appearance has changed due to absorbing polluted air from factories. It has a gray body with the skull, crossbones, and ring patterns changed to the color yellow. Both heads have a hat-like tube located on top of them that constantly releases purified air. Five puffs of green poison gas clouds can be seen floating around it. The gas clouds also partly cover its faces: the larger head has a mustache-like cloud on its upper lip, while the smaller head has clouds on its face in the shape of eyebrows and a beard.
+
+Galarian Weezing consumes particles from polluted air and expels clean air instead of droppings. The toxins within Galarian Weezing's body are accumulated into poison gas clouds that leak and drift around it. The gas is its best weapon in battle, being potent enough to stun and immobilize an opponent with just a whiff.<ref>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/weezing/ Galarian Weezing | Official Website | Pokémon Sword and Pokémon Shield]</ref> Galarian Weezing preys on {{p|Trubbish}} for the fumes it produces.
+
+Galarian Weezing is also the [[Signature move|only known Pokémon]] capable of learning the move {{m|Strange Steam}}. Additionally, in [[Generation IX]], Galarian Weezing is the [[Signature Ability|only known Pokémon]] that can have {{a|Misty Surge}} as an [[Ability]].
+{{left clear}}
+
+===Evolution===
+Weezing evolves from {{p|Koffing}}.
+
+In [[Galar]], Weezing has a [[regional form]] that evolves from Koffing.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Poison
+|no1=0109
+|name1=Koffing
+|type1-1=Poison
+|evo1a=
+|no2a=0110
+|name2a=Weezing
+|type1-2a=Poison
+|evo1b=
+|art2b=0110Weezing-Galar
+|no2b=0110
+|name2b=Weezing
+|form2b=Galarian Form
+|type1-2b=Poison
+|type2-2b=Fairy}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Poison}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=110}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Where two kinds of poison gases meet, 2 <sc>Koffing</sc>s can fuse into a <sc>Weezing</sc> over many years.}}
+{{Dex/Entry1|v=Yellow|entry=It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=A twinned <sc>Koffing</sc> that forms on rare occasions where poisonous gases pool. Its two toxic gases appear to be different.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=115}}
+{{Dex/Entry1|v=Gold|entry=If one of the twin <sc>Koffing</sc> inflates, the other one deflates. It constantly mixes its poisonous gases.}}
+{{Dex/Entry1|v=Silver|entry=Top-grade perfume is made using its internal poison gases by diluting them to the highest level.}}
+{{Dex/Entry1|v=Crystal|entry=When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=If one of the twin <sc>Koffing</sc> inflates, the other one deflates. It constantly mixes its poisonous gases. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>Top-grade perfume is made using its internal poison gases by diluting them to the highest level. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=109|reg2=Kanto|num2=110}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Weezing</sc> loves the gases given off by rotted kitchen garbage. This {{ScPkmn}} will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Weezing</sc> alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The {{ScPkmn}} also becomes more putrid.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To <sc>Weezing</sc>, gases emanating from garbage are the ultimate feast.}}
+{{Dex/Entry1|v=FireRed|entry=Very rarely, a sudden mutation can result in two small <sc>Koffing</sc> twins becoming conjoined as a <sc>Weezing</sc>.}}
+{{Dex/Entry1|v=LeafGreen|entry=Where two kinds of poison gases meet, two <sc>Koffing</sc> can fuse into a <sc>Weezing</sc> over many years.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=116}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It grows by feeding on gases released by garbage. Though very rare, triplets have been found.}}
+{{Dex/Entry1|v=HeartGold|entry=If one of the twin <sc>Koffing</sc> inflates, the other one deflates. It constantly mixes its poisonous gases.}}
+{{Dex/Entry1|v=SoulSilver|entry=Top-grade perfume is made using its internal poison gases by diluting them to the highest level.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=047|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It grows by feeding on gases released by garbage. Though very rare, triplets have been found.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn|num2=114}}
+{{Dex/Entry1|v=X|t=FFF|entry=If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto|num2=110}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]]}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=251|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It mixes gases between its two bodies. It's said that these Pokémon were seen all over the Galar region back in the day.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It can't suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It grows by feeding on gases released by garbage. Though very rare, triplets have been found.}}
+{{Dex/Form|Galarian Weezing}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=136|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Top-grade perfume is made using its internal poison gases by diluting them to the highest level.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{poison color dark}}; background:#{{poison color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{poison color dark}}; background:#{{poison color light}}; {{roundy|5px}};" | [[File:Pokédex Image Weezing SV Kitakami.png|x200px]]
+|-
+| Weezing in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{ka|Pokémon Mansion}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{ka|Pokémon Mansion}}}}
+{{Availability/Entry1/None|v=Yellow}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Koffing}}}}
+{{Availability/Entry1|v=Crystal|area=[[Burned Tower]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Koffing}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[Evolution|Evolve]] {{p|Koffing}}}}
+{{Availability/Entry1|v=FireRed|area={{ka|Pokémon Mansion}}}}
+{{Availability/Entry1|v=LeafGreen|area=[[Evolution|Evolve]] {{p|Koffing}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|227|Sinnoh}}, [[Stark Mountain]]}}
+{{Availability/Entry1|v=Platinum|area={{rt|227|Sinnoh}}, [[Stark Mountain]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}} (tall grass in Marshland, default{{sup/t|M}}{{sup/t|D}})}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[P2 Laboratory]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Koffing}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry1/None|2|v=Let's Go Pikachu}}
+{{Availability/Entry1|2|v=Let's Go Eevee|area={{FB|Kanto|Power Plant}}, {{ka|Pokémon Mansion}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Trade]]<sup>Version 1.2.0+</sup> <small>('''Kantonian Form''')</small><br>[[East Lake Axewell]], [[Lake of Outrage]], [[Slumbering Weald]] <small>('''Galarian Form''')</small><br>[[East Lake Axewell/Dens|East Lake Axewell]], [[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[North Lake Miloch/Dens|North Lake Miloch]] ([[Max Raid Battle]]) <small>('''Galarian Form''')</small>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[In-game trade#The Isle of Armor|Trade]] {{rf|Galarian}} Weezing with Regina on [[Isle of Armor]] <small>('''Kantonian Form''')</small><br>[[Frostpoint Field/Dens|Frostpoint Field]], [[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]]) <small>('''Galarian Form''')</small><br>[[Max Lair]] ([[Dynamax Adventure]]) <small>('''Kantonian Form''')</small><br>[[Max Lair]] ([[Dynamax Adventure]]) <small>('''Galarian Form''')</small>}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|227|Sinnoh}}, [[Stark Mountain]]<small> ('''Kantonian Form''')</small><br>[[Grand Underground]] - [[Swampy Cave]], [[Bogsunk Cavern]] (After obtaining the [[National Pokédex]]) <small>('''Kantonian Form''')</small><br>Unobtainable <small>('''Galarian Form''')</small>}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Koffing}} <small>('''Kantonian Form''')</small><br>[[Evolution|Evolve]] {{p|Koffing}} in {{g|Sword and Shield}} via {{g|HOME}} <small>('''Galarian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Koffing}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Mt. Snowfall|Ruins of Truth]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Koffing}}}}
+{{Availability/Entry1|v=Trozei!|color={{electric color}}|area=[[Secret Storage 19]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Koffing}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Concealed Ruins]] (B1F-B29F), [[World Abyss]] (B1F-B29F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Concealed Ruins]] (B1F-B29F), [[World Abyss]] (B1F-B29F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Almia Castle]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]] <small>(Normal Mode B)</small>}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Faldera Island]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Everspring Valley]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#Major Clean-Up|Melodious Woodland: Major Clean-Up]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 3|Mountain of Order: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Blustery Grove|Black Realm: Blustery Grove]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mimikyu Sea]], [[Mewtwo Sea]], [[Bulbasaur Sea]], [[Mimikyu Sea]]<sup>Final</sup>, [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Sky Tower]] (8F-16F), [[Wish Cave]] (86F-98F), [[Joyous Tower]] (86F-94F), [[Purity Forest]] (86F-95F)<br/>Fainted Pokémon: [[Murky Cave]], [[Fantasy Strait]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 310]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Special event]] (''{{DL|Special event|Blasting Off Again}}''): {{sync|James|Weezing}} <small>('''Kantonian Form''')</small><br>[[Evolution]]: {{sync/player|egg|Koffing}} <small>('''Kantonian Form''')</small><br>Variety [[sync pair scout]]: {{sync|Petrel|Weezing}} <small>('''Kantonian Form''')</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====Galarian Weezing=====
+======[[Wild Area News]]======
+{{eventAvail/h|Gigantamax|type=Poison|type2=Fairy|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|40, 50 ,60|March 1 to 31, 2021
+|link=Wild Area News/2021#March 1 to 31, 2021}}
+|}
+
+===Held items===
+====Weezing====
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Poison}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Silver Leaf|100|rows=2}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Items1|Smoke Ball|5|rows=7}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+|}
+
+====Galarian Weezing====
+{{HeldItems/header|type=Poison|type2=Fairy}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Misty Seed|5}}
+|}
+
+===Stats===
+====Base stats====
+=====Weezing=====
+{{Stats
+|type=Poison
+|HP=65
+|Attack=90
+|Defense=120
+|SpAtk=85
+|SpDef=70
+|Speed=60
+|Special=85
+}}
+
+=====Galarian Weezing=====
+Galarian Weezing has the same base stats as Kantonian Weezing.
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Poison
+|Speed=2
+|SpeedMax=2
+|Power=3
+|PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+====Weezing====
+{{TypeEffectiveness
+|type1=Poison
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|levitate=maybe
+|newground=2
+|gen1poison=yes
+|oldbug=2
+}}
+
+====Galarian Weezing====
+{{TypeEffectiveness
+|type1=Poison
+|type2=Fairy
+|Normal=100
+|Fighting=25
+|Flying=100
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=25
+|Ghost=100
+|Steel=200
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=0
+|Dark=50
+|Fairy=50
+|notes=yes
+|levitate=maybe
+|newground=2
+|fairy=yes
+|newdragon=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Weezing=====
+{{learnlist/levelh/9|Weezing|Poison|Poison|1}}
+{{learnlist/level9|1|Heat Wave|Fire|Special|95|90|10||}}
+{{learnlist/level9|1|Poison Gas|Poison|Status|—|90|40||}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||}}
+{{learnlist/level9|1|Smog|Poison|Special|30|70|20||'''}}
+{{learnlist/level9|1|Smokescreen|Normal|Status|—|100|20||}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Double Hit|Normal|Physical|35|90|10||}}
+{{learnlist/level9|12|Clear Smog|Poison|Special|50|—|15||'''}}
+{{learnlist/level9|16|Assurance|Dark|Physical|60|100|10||}}
+{{learnlist/level9|20|Sludge|Poison|Special|65|100|20||'''}}
+{{learnlist/level9|24|Haze|Ice|Status|—|—|30||}}
+{{learnlist/level9|28|Self-Destruct|Normal|Physical|200|100|5||}}
+{{learnlist/level9|32|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/level9|38|Toxic|Poison|Status|—|90|10||}}
+{{learnlist/level9|44|Belch|Poison|Special|120|90|10||'''}}
+{{learnlist/level9|50|Explosion|Normal|Physical|250|100|5||}}
+{{learnlist/level9|56|Memento|Dark|Status|—|100|10||}}
+{{learnlist/level9|62|Destiny Bond|Ghost|Status|—|—|5||}}
+{{learnlist/levelf/9|Weezing|Poison|Poison|1}}
+
+=====Galarian Weezing=====
+{{learnlist/levelh/9|Weezing|Poison|Fairy|8}}
+{{learnlist/level9|1|Strange Steam|Fairy|Special|90|95|10||'''}}
+{{learnlist/level9|1|Defog|Flying|Status|—|—|15||}}
+{{learnlist/level9|1|Heat Wave|Fire|Special|95|90|10||}}
+{{learnlist/level9|1|Smokescreen|Normal|Status|—|100|20||}}
+{{learnlist/level9|1|Haze|Ice|Status|—|—|30||}}
+{{learnlist/level9|1|Poison Gas|Poison|Status|—|90|40||}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||}}
+{{learnlist/level9|1|Smog|Poison|Special|30|70|20||'''}}
+{{learnlist/level9|1|Aromatic Mist|Fairy|Status|—|—|20||}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Double Hit|Normal|Physical|35|90|10||}}
+{{learnlist/level9|12|Clear Smog|Poison|Special|50|—|15||'''}}
+{{learnlist/level9|16|Assurance|Dark|Physical|60|100|10||}}
+{{learnlist/level9|20|Sludge|Poison|Special|65|100|20||'''}}
+{{learnlist/level9|24|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level9|28|Self-Destruct|Normal|Physical|200|100|5||}}
+{{learnlist/level9|32|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/level9|38|Toxic|Poison|Status|—|90|10||}}
+{{learnlist/level9|44|Belch|Poison|Special|120|90|10||'''}}
+{{learnlist/level9|50|Explosion|Normal|Physical|250|100|5||}}
+{{learnlist/level9|56|Memento|Dark|Status|—|100|10||}}
+{{learnlist/level9|62|Destiny Bond|Ghost|Status|—|—|5||}}
+{{learnlist/level9|68|Misty Terrain|Fairy|Status|—|—|10||}}
+{{learnlist/levelf/9|Weezing|Poison|Fairy|8}}
+
+====By [[TM]]====
+=====Weezing=====
+{{learnlist/tmh/9|Weezing|Poison|Poison|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20||}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20||}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15||}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10||}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5||}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30||}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10||}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10||}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Weezing|Poison|Poison|1}}
+
+=====Galarian Weezing=====
+{{learnlist/tmh/9|Weezing|Poison|Fairy|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10||}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM016|Psybeam|Psychic|Special|65|100|20||}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5||}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20||}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20||}}
+{{learnlist/tm9|TM094|Dark Pulse|Dark|Special|80|100|15||}}
+{{learnlist/tm9|TM102|Gunk Shot|Poison|Physical|120|80|5||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM107|Will-O-Wisp|Fire|Status|—|85|15||}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10||}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10||'''}}
+{{learnlist/tm9|TM139|Misty Terrain|Fairy|Status|—|—|10||}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5||}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm9|TM157|Overheat|Fire|Special|130|90|5||}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM174|Haze|Ice|Status|—|—|30||}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10||}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10||}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||}}
+{{learnlist/tm9|TM201|Misty Explosion|Fairy|Special|100|100|5||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Weezing|Poison|Fairy|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Weezing|Poison|Poison|2}}
+{{learnlist/breed9|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0353|Shuppet}}{{MSP/H|0354|Banette}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Dusknoir}}{{MSP/H|0442|Spiritomb}}{{MSP/H|0607|Litwick}}{{MSP/H|0608|Lampent}}{{MSP/H|0609|Chandelure}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0871|Pincurchin}}|Curse|Ghost|Status|—|—|10}}
+{{learnlist/breed9|{{MSP/H|0200|Misdreavus}}{{MSP/H|0316|Gulpin}}{{MSP/H|0577|Solosis}}{{MSP/H|0578|Duosion}}{{MSP/H|0579|Reuniclus}}{{MSP/H|0607|Litwick}}{{MSP/H|0608|Lampent}}{{MSP/H|0609|Chandelure}}{{MSP/H|0778|Mimikyu}}|Pain Split|Normal|Status|—|—|20||}}
+{{learnlist/breed9|{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}|Spit Up|Normal|Special|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0353|Shuppet}}{{MSP/H|0354|Banette}}{{MSP/H|0429|Mismagius}}{{MSP/H|0442|Spiritomb}}|Spite|Ghost|Status|—|100|10}}
+{{learnlist/breed9|{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/breed9|{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}|Swallow|Normal|Status|—|—|10}}
+{{learnlist/breedf/9|Weezing|Poison|Poison|2|form=yes}}
+
+====By a prior [[Evolution]]====
+=====Weezing=====
+{{learnlist/prevoh/9|Weezing|Poison|Poison|1}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/9|Weezing|Poison|Poison|1}}
+
+=====Galarian Weezing=====
+{{learnlist/prevoh/9|Weezing|Poison|Fairy|8}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/9|Weezing|Poison|Fairy|8}}
+
+===Side game data===
+====Weezing====
+{{Spindata/Head|type=Poison}}
+{{Spindata/Pinball|col=2|type=Poison|ndex=110|acquisition=Evolve|evolved=yes}}
+{{Spindata/PinballRS|col=2|type=Poison|ndex=110|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=2|type=Poison|ndex=110|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Poison|ndex=110
+|body=1
+|rate=Evolve
+|area=Poison Swamp
+|P1= Peeeuuw! You smell awful! Seriously, you reek!
+|P2= I need serious help. Look, half my HP's been used up!
+|P3= Uh-oh... My gases are about to blow up...
+|PL= I leveled up! My aroma will grow more pungent!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Poison|ndex=110
+|body=1
+|rate=-12
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Poison|ndex=110
+|coset=3
+|conto={{p|Grimer}}, {{p|Garbodor}}
+|recruitment=Battle {{p|Garbodor}}
+|P1=Our era is finally here! Weez!
+|P2=*wheeze* Another hit taken...
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Poison
+|group= Poison
+|assist= Poison
+|field= Tackle
+|fieldpower= 2
+|num=188
+|browser= It attacks by scattering poison gas and spitting up pools of poison.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Poison
+|group= Poison
+|assist= Poison
+|field= Crush
+|fieldpower= 2
+|num=046
+|pastnum=114
+|browser=It attacks by scattering poison gas around itself that makes Pokémon Tired.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Poison
+|att=3
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Poison
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Poison|ndex=110
+|walk=1.58
+|hp=52
+|attack=78
+|defense=58
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Poison|ndex=110
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Poison|ndex=110|num=461
+|min=60
+|max=125
+|raisemaxlevel=15
+|skill=Quirky+
+|skilldesc=Sometimes erases two extra matching Pokémon elsewhere.
+|swapper=Rock Shot
+}}
+|-
+{{Spindata/GO|col=6|type=Poison|ndex=110
+|hatch=N/A
+|buddy=3
+|candy=Koffing
+|evolution=N/A
+|stamina=163
+|attack=174
+|defense=197
+|fast={{m|Tackle}}, {{m|Infestation}}{{tt|*|From February 16, 2017 onward}}, {{m|Rollout}}{{tt|*|From March 4, 2025 onward}}, {{m|Acid}}{{tt|×|Prior to August 19, 2016}}
+|special={{m|Sludge Bomb}}, {{m|Shadow Ball}}, {{m|Dark Pulse}}, {{m|Thunderbolt}}{{tt|*|From February 1, 2019 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+====Galarian Weezing====
+{{Spindata/Head|type=Poison|type2=Fairy}}
+{{Spindata/GO|col=6|type=Poison|ndex=110G
+|hatch=N/A
+|buddy=3
+|candy=Koffing
+|evolution=N/A
+|stamina=163
+|attack=174
+|defense=197
+|fast={{m|Tackle}}, {{m|Fairy Wind}}{{tt|*|From September 1, 2022 onward}}
+|special={{m|Sludge}}, {{m|Hyper Beam}}, {{m|Play Rough}}, {{m|Overheat}}, {{m|Brutal Swing}}{{tt|*|From December 1, 2022 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox/1branch2
+|type1=Poison
+|no1=0109
+|name1=Koffing
+|type1-1=Poison
+|evo1a={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}<br>outside of {{color2|000|Galar}}
+|no2a=0110
+|name2a=Weezing
+|type1-2a=Poison
+|evo1b={{Bag/s|Rare Candy|SV}} + [[File:Galar Champion Ribbon VIII.png|40px|link=Galar]]<br>{{color2|000|Level|Level 35}}<br>in {{color2|000|Galar}}
+|art2b=0110Weezing-Galar
+|no2b=0110
+|name2b=Weezing
+|form2b=Galarian Form
+|type1-2b=Poison
+|type2-2b=Fairy}}
+
+===Sprites===
+{{Spritebox/Header|type=Poison}}
+{{Spritebox/1|ndex=110}}
+{{Spritebox/2|ndex=110}}
+{{Spritebox/3|ndex=110}}
+{{Spritebox/4|ndex=110}}
+{{Spritebox/5|ndex=110}}
+{{Spritebox/6|ndex=110|crop=64}}
+{{Spritebox/7/PE|ndex=110|crop=66|PEcrop=141}}
+{{Spritebox/8/2Forms|ndex=110|form1=G}}
+<!--{{Spritebox/9|ndex=0110}}-->
+{{Spritebox/HOME/2Forms|ndex=0110|form1=G}}
+{{Spritebox/Footer|110|Weezing}}
+
+==In animation==
+===Main series===
+[[File:Pokémon hunter Weezing.png|thumb|250x250px|Weezing in {{aniseries|JN}}]]
+[[File:Galarian Weezing anime.png|thumb|250px|{{rf|Galarian}} Weezing in {{aniseries|HZ}}]]
+====Major appearances====
+=====[[James's Weezing]]=====
+Weezing debuted in ''[[EP031|Dig Those Diglett!]]'', where [[James]]'s Koffing evolved into one. In ''[[AG006|A Poached Ego!]]'', it was {{pkmn2|released}} along with [[Jessie's Arbok]] so they could protect a {{pkmn2|wild}} group of Koffing and {{p|Ekans}} that were rescued from [[Rico]]'s clutches.
+
+=====Other=====
+In ''[[EP056|The Ultimate Test]]'', {{Ash}} used a Weezing during the [[Pokémon League Admissions Exam]]. It defeated [[Pokémon League entrance exam instructor|the instructor]]'s {{p|Flareon}} with its {{m|Smog}}, {{m|Smokescreen}}, and {{m|Tackle}} attacks. Later on, Ash commanded it to use {{m|Explosion}} against {{TRT}}, causing them to blast off.
+
+In ''[[JN053|Healing the Healer!]]'', a group of {{OBP|Pokémon hunters|JN053}} used a Weezing to poison a lake in an attempt to draw the attention of {{TP|Goh|Suicune}}. Once [[Goh]] {{pkmn2|caught}} Suicune, it was used to battle Ash and Goh before eventually being defeated.
+
+In ''[[HZ029|Orla and the Poké Ball Smith]]'', [[Roy]] was attacked by a group of Galarian Weezing after he accidentally hit one with an experimental [[Poké Ball]]. They were ultimately calmed down by [[Friede]] by having them feast on dirty smoke.
+
+====Minor appearances====
+A Weezing appeared in the opening intro of ''[[M04|Celebi: The Voice of the Forest]]'', which was reused for ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+In ''[[XY078|Lights! Camera! Pika!]]'', a Weezing provided white smoke effects for [[Frank]] on the sets of his films.
+
+In ''[[M20|I Choose You!]]'', a Weezing fell under the control of {{OBP|Marshadow|M20}}.
+
+A {{rf|Galarian}} Weezing debuted in the intro segment of ''[[JN046|Getting More Than You Battled For!]]'', where it was at the altar of the [[Slumbering Weald]].
+
+A Weezing appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Galarian Weezing appeared in ''[[HZ019|The Bittersweet Truth]]''.
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ029|Weezing|Liko's Rotom Phone|Weezing, [[Galarian form]]. The Poison Gas Pokémon. A {{t|Poison}} and {{t|Fairy}} type. This Pokémon consumes pollutant particles from the atmosphere and expels clean air in exchange.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===Pokémon Origins===
+[[File:Koga PO.png|thumb|250px|Weezing in [[Pokémon Origins]]]]
+[[Koga]]'s Weezing briefly appeared in ''[[PO03|File 3: Giovanni]]''.
+
+===Pokémon Generations===
+[[File:Petrel Weezing PG.png|thumb|left|250px|Weezing in [[Pokémon Generations]]]]
+In ''[[PG04|The Lake of Rage]]'', [[Petrel]]'s Weezing attempted to stop [[Lance]] during his and {{ga|Ethan}}'s infiltration of the [[Team Rocket HQ]]. However, it was easily defeated by {{TP|Lance|Dragonite}}'s {{m|Thunderbolt}}.
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', a Weezing was used to provide special effects for the [[Kimono Girl]]s' performance.
+
+===POKÉTOON===
+A {{rf|Galarian}} Weezing appeared in [[PT10]], where it seen being defeated by the {{OBP|boy|PT10}}'s {{p|Primeape}}.
+{{-}}
+
+==In the manga==
+[[File:Opal Weezing Adventures.png|thumb|200px|left|Galarian Weezing in [[Pokémon Adventures]]]]
+[[File:James Weezing EToP.png|thumb|200px|Weezing in [[The Electric Tale of Pikachu]]]]
+===The Electric Tale of Pikachu===
+{{main|James's Weezing}}
+[[James]]'s Weezing appeared in ''[[ET08|You Gotta Have Friends]]''.
+
+===Pokémon Adventures===
+[[File:Janine Weezing Adventures.png|thumb|200px|Weezing in [[Pokémon Adventures]]]]
+Weezing debuted in ''[[PS036|Drat That Dratini!]]'', where a horde of them tried to attack {{adv|Red}} and {{adv|Yellow}}, but they escaped using Red's Aerodactyl.
+
+A Weezing appeared in ''[[PS038|Long Live the Nidoqueen!?]]'' when the people of [[Viridian City]] were trying to calm some forest Pokémon down.
+
+In ''[[PS043|Sea Sea Seadra]]'', a Weezing and a {{p|Sandslash}} appeared behind [[Bill]], still showing the ecology in [[Viridian Forest]] hasn't changed back to normal in two years.
+
+Harry of the [[Team Rocket Elite Trio]] has a Weezing, which first appeared in ''[[PS056|The Coming of Slowpoke (Eventually)]]''.
+
+[[Koga]]'s Weezing first appeared in ''[[PS072|Weezing Winks Out]]'', where it was used on Cerise Island to battle Agatha, mostly to bide time until Arbok regenerated.
+
+[[Janine]]'s Weezing first appeared in ''[[PS136|Crossing Crobat]]'', where it used its smoke to reveal the lasers in the Goldenrod Museum.
+
+The {{gdis|Battle Tower|III}} rented a Weezing, which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''. It reappeared in a flashback in ''[[PS335|The Final Battle VIII]]''.
+
+A Trainer's Weezing appeared in ''[[PS418|Deprogramming Porygon-Z]]''.
+
+A {{rf|Galarian}} Weezing first appeared in ''[[PASS16|Rising!! Opal of Ballonlea]]'', under the ownership of [[Opal]].
+
+===Pokémon Pocket Monsters===
+A Weezing appeared in ''[[PM016|Get The Flying Machine!!]]'', under the ownership of a {{tc|Biker}}. It was sent out to battle [[Red's Clefairy]] but lost.
+
+===Pokémon Zensho===
+[[Koga]]'s only known Pokémon is Weezing. It battled {{Zensho|Satoshi}}'s Ditto in [[PZ06]] and lost.
+
+==In the TCG==
+{{main|Weezing (TCG)}}
+
+==In the TFG==
+One Weezing figure has been released.
+
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Weezing|24}}
+
+==Other appearances==
+===[[Super Smash Bros. Melee]]===
+When released from a {{i|Poké Ball}}, Weezing will hover in place and emit {{m|Poison Gas}} that juggles any opponent who comes near it, essentially serving the function of its pre-Evolution, {{p|Koffing}}, from [[Super Smash Bros.]]
+
+Weezing also makes an appearance as a float in the [[Poké Floats]] stage. It appears as {{p|Psyduck}} and {{p|Chikorita}} leave. Once {{p|Slowpoke}} appears, it will slowly deflate and move to the top of the screen.
+
+====Trophy information====
+''"The evolved form of Koffing, Weezing is basically a pair of Koffing fused together. They tend to float in the air and emit gas or noxious smoke from the outgrowths that cover their bodies. As strange as it may seem, diluting Weezing emissions as much as possible creates one of the most exquisite perfumes known to man."''
+
+===[[Super Smash Bros. Ultimate]]===
+Weezing appears as a {{sbw|Spirit}}.
+
+==Trivia==
+* In the [[Pokémon Red and Green beta|Pokémon Red and Blue beta]], Weezing was originally known as "La", representing {{wp|Los Angeles}}' polluted air.
+* Weezing is the only {{type|Poison}} Pokémon that {{DL|List of Pokémon by shape|Pokémon consisting of multiple bodies|consists of multiple bodies}}.
+** Galarian Weezing is the only {{type|Fairy}} Pokémon that consists of multiple bodies.
+* In certain instances in the {{pkmn|games}}, such as summary pages and [[Pokémon Contest]]s, a Pokémon's sprite is horizontally flipped, unless its body is asymmetrical. However, Weezing's sprite is flipped in all instances despite its asymmetrical body.
+* The {{3v2|Diamond|Pearl|Platinum}} [[Pokédex entry|Pokédex entries]] for Weezing claim triplet forms have been discovered, but this variant has not been shown in any [[Pokémon]] media.
+* Weezing shares similar traits to {{p|Muk}} and {{p|Garbodor}}. All three Pokémon are pure {{type|Poison}} Pokémon with a single pre-evolved form, roughly the same base stat totals and [[Evolution]] levels, and appear to be based on a different kind of pollution; Weezing being air pollution.
+* Galarian Weezing is tied with {{p|Xerneas}} as the [[List of Pokémon by height|tallest]] {{type|Fairy}} Pokémon.
+* Although Weezing and Galarian Weezing do not appear in {{g|Legends: Arceus}}, the smoke tower on the rooftop of the [[Galaxy Hall]] resembles a Galarian Weezing.
+* Kantonian Weezing and its pre-evolved form are the only Pokémon whose {{Abilities}} changed in [[Generation VIII]]. In previous [[generation]]s, their only Ability was {{a|Levitate}}.
+* Galarian Weezing can learn more moves that cause it to faint than any other Pokémon ({{m|Self-Destruct}}, {{m|Explosion}}, {{m|Memento}}, and {{m|Misty Explosion}}).
+* Galarian Weezing was the first [[Galarian form]] to be officially revealed.
+* Galarian Weezing has the shortest duration of time out of all Pokémon between being made available in a mainline game and being made available in {{g|GO}}. It was made available in Pokémon GO in Raid Battles on November 16, 2019, just one day after the release of {{g|Sword and Shield}}.
+
+===Origin===
+Considering its looks, its ability to float, and its tendency to explode, Weezing may have been based upon a floating {{wp|naval mine}} or living meteorite. It is also based on smog and other forms of air pollution. It may also be based on the imagined fear that heavy pollution, caused by the leakage and/or improper disposal of toxic and/or radioactive waste, may result in the creation of new and undesirable life forms. Much like Koffing, the symbol under Weezing's larger face resembles the {{wp|skull and crossbones}}, a hazard symbol for poison. The three orbs connected by stems that constitute its body resemble a {{wp|molecule}}. Weezing's fused heads may also be based on {{wp|conjoined twins}} and the effects of pollution-induced birth defects.
+
+Weezing's prominent eyebrow ridges and large bottom teeth evoke the unappealing appearance of mythical creatures like {{wp|troll}}s or {{wp|ogre}}s, often associated with polluted or unclean environments such as swamps, reinforcing its Poison typing. Its features also resemble those of the Japanese {{wp|oni}}, known for their imposing tusks and fearsome presence.
+
+Galarian Weezing takes inspiration from {{wp|steam engine}}s.<ref>(November 15, 2019). "[https://www.4gamer.net/games/451/G045125/20191112090/ 「ポケットモンスター ソード・シールド」インタビュー。「最強」をテーマに，子供たちが楽しめるものを目指して]." ''4Gamer.net''.</ref> Its appearance in particular seems to be based on a stereotypical {{wp|Victorian era}} British gentleman wearing a {{wp|Top hat|chimney hat}}, combined with actual {{wp|chimney}}s. Both its smog-based "facial hair" and its {{pkmn|Sword and Shield|Shield}} Pokédex entry, which describes Weezing taking the form as a result of heavy air pollution, likely draw reference from {{wp|Pea soup fog|the heavy smog}} that afflicted London during the Victorian era. Its ability to clean the air of pollutants may be based on air scrubbers, referring to the fact that they expel clean air as referenced in its {{pkmn|Sword and Shield|Sword}} Pokédex entry. The way Galarian Weezing feeds, absorbing polluted air and then releasing it through the chimney-like tubes on top of their heads as purified air, may have been based on the feeding method of {{wp|Porifera|sponges}}, which are animals that feed through filtration. Water enters the sponge's body bringing food particles (such as microorganisms) and, after being filtered by the animal, is eliminated through the {{wp|osculum}}, a hole in the free end of the animal. Its design may also draw inspiration from nuclear cooling towers, referring to the clouds that they make being steam and not smoke as evidenced by its signature move {{m|Strange Steam}}. Additionally, its {{t|Fairy}} type and appearance may be a reference to {{wp|leprechaun}}s. Galarian Weezing's {{Shiny}} form may be based on {{wp|sepia tone}} photography.
+
+Galarian Weezing's resemblance to Victorian era British noblemen, along with its [[Ability]] {{a|Neutralizing Gas}}, may be a play on {{wp|noble gas}}es, which are gaseous elements known for being highly unreactive and are typically used to prevent unwanted reactions from occuring.
+
+====Name origin====
+Weezing may be a corruption of ''wheezing'' (producing a whistling sound while breathing with difficulty).
+
+Matadogas may come from 又 ''mata'' (again) and 毒ガス ''doku-gasu'' (poison gas). It may also be derived from マスタードガス ''masutādogasu'' ({{wp|mustard gas}}).
+
+==In other languages==
+{{Other languages|type=Poison|type2=Poison
+|ja=マタドガス ''Matadogas''|jameaning=From {{tt|又 ''mata''|again}} and {{tt|毒ガス ''doku-gasu''|toxic gas}} or ''{{wp|mustard gas}}''
+|fr=Smogogo|frmeaning=From ''smog'' or {{P|Koffing|''Smogo''}}, {{tt|''à gogo''|slang term for galore or abundantly}}, and {{tt|''gogo''|silly and gullible person}}
+|es=Weezing|esmeaning=Same as English name
+|de=Smogmog|demeaning=From ''Smog''
+|it=Weezing|itmeaning=Same as English name
+|ko=또도가스 ''Ttodogas''|komeaning=From {{tt|또 ''tto''|again}} and {{tt|독가스 ''dok-gaseu''|toxic gas}}
+|zh_cmn=雙彈瓦斯 / 双弹瓦斯 ''Shuāngdànwǎsī''|zh_cmnmeaning=From {{tt|雙 / 双 ''shuāng''|double}}, {{tt|彈 / 弹 ''dàn''|bomb}}, and {{tt|瓦斯 ''wǎsī''|gas}}
+|zh_yue=雙彈瓦斯 ''Sēungdáanngáhsī''{{tt|*|Games}}<br>毒氣雙子 ''Duhkheisēungjí''{{tt|*|Pre-Gen VII media}}|zh_yuemeaning=From {{tt|雙 ''sēung''|double}}, {{tt|彈 ''dáan''|bomb}}, and {{tt|瓦斯 ''ngáhsī''|gas}}<br>From {{tt|毒氣 ''duhkhei''|toxic gas}} and {{tt|雙子 ''sēungjí''|twin}}
+|hi=वीज़िंग ''Weezing''|himeaning=Transcription of English name
+|ru=Визинг ''Vizing''|rumeaning=Transcription of English name
+|th=มาตาโดกัซ ''Matadokat''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[James's Weezing]]
+* [[Regional form]]
+* [[Pokémon fusion]]
+* [[Weaponry in the Pokémon world]]
+
+==References==
+<references/>
+
+==External links==
+{{Galarian forms}}
+{{Smash Bros.}}
+{{PokémonPrevNext/Head|type=Poison}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=0109|prev=Koffing|nextnum=0111|next=Rhyhorn}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Gray-colored Pokémon]]<!--Galarian Weezing-->
+[[Category:Super Smash Bros. spirits]]
+[[Category:Super Smash Bros. trophies]]
+
+[[de:Smogmog]]
+[[es:Weezing]]
+[[fr:Smogogo]]
+[[it:Weezing]]
+[[ja:マタドガス]]
+[[zh:双弹瓦斯]]

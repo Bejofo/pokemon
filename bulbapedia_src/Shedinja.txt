@@ -1,0 +1,642 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Shedinja}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0291|prev=Ninjask|nextnum=0293|next=Whismur|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Shedinja
+|jname=ヌケニン
+|tmname=Nukenin
+|ndex=0292
+|type1=Bug
+|type2=Ghost
+|category=Shed
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=2.6
+|weight-kg=1.2
+|abilitylayout=1
+|ability1=Wonder Guard
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=15
+|evtotal=2
+|evhp=2
+|expyield=83
+|oldexp=95
+|lv100exp=600,000
+|gendercode=255
+|color=Brown
+|catchrate=45
+|body=05
+|pokefordex=shedinja
+|generation=3
+|friendship=70
+}}
+'''Shedinja''' ([[List of Japanese Pokémon names|Japanese]]: '''ヌケニン''' ''Nukenin'') is a dual-type {{2t|Bug|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It is considered a special Evolution of {{p|Nincada}}, appearing only when Nincada [[Evolution|evolves]] into {{p|Ninjask}} starting at [[level]] 20, if the player has an empty slot in their [[party]] and an extra {{i|Poké Ball}} on hand.
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+Shedinja is a {{OBP|Pokémon|species}} resembling a cicada's shed exoskeleton. Most of its body is light brown, but the abdomen is gray. It has four protrusions on its underside instead of legs; the top pair is brown, while the lower is gray. There are round protrusions on the side of its head with narrow slits for eyes. Two lines encircle its abdomen and a white crescent-shaped halo floats above its head. On its back is a pair of tattered wings divided into three wingtips. A hole between its wings reveals that its body is completely hollow and dark, as it possesses no internal organs. 
+
+Shedinja is said to be a very strange and peculiar Pokémon due to how it is created from an empty shell. It has the ability to inhabit an empty [[Poké Ball]] after it evolves from {{p|Nincada}}. It is said that looking into this empty space will steal one's spirit. Its shell is very hard, which gives it strong defense but renders it incapable of movement. It does not breathe and floats without moving its wings. It lives in {{DL|List of Pokémon by habitat|Forest Pokémon|tropical and temperate forests}}.
+
+Shedinja is the [[Signature Ability|only known Pokémon]] that can have {{a|Wonder Guard}} as an [[Ability]].
+
+===Evolution===
+When {{p|Nincada}} evolves into {{p|Ninjask}}, it can also evolve into Shedinja simultaneously, which appears in an empty {{i|Poké Ball}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Bug
+|type2=Ghost
+|no1=0290
+|name1=Nincada
+|type1-1=Bug
+|type2-1=Ground
+|evo1a=
+|no2a=0291
+|name2a=Ninjask
+|type1-2a=Bug
+|type2-2a=Flying
+|evo1b=
+|no2b=0292
+|name2b=Shedinja
+|type1-2b=Bug
+|type2-2b=Ghost
+|nocat=yes}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Ghost}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=044|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Shedinja</sc>'s hard body doesn't move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this {{ScPkmn}} will steal the spirit of anyone peering into its hollow body from its back.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Shedinja</sc> is a peculiar {{ScPkmn}}. It seems to appear unsought in a {{ScBall}} after a <sc>Nincada</sc> evolves. This bizarre {{ScPkmn}} is entirely immobile - it doesn't even breathe.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A peculiar {{ScPkmn}} that floats in air even though its wings remain completely still. The inside of its body is hollow and utterly dark.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=A most peculiar {{ScPkmn}} that somehow appears in a {{ScBall}} when a <sc>Nincada</sc> evolves.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=A strange Pokémon--it flies without moving its wings, has a hollow shell for a body, and does not breathe.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=113|label1=Central|reg2=Hoenn|num2=045}}
+{{Dex/Entry1|v=X|t=FFF|entry=A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Shedinja's hard body doesn't move—not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this Pokémon will steal the spirit of anyone peering into its hollow body from its back.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Shedinja is a peculiar Pokémon. It seems to appear unsought in a Poké Ball after a Nincada evolves. This bizarre Pokémon is entirely immobile—it doesn't even breathe.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=106|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It is a discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Ghost}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Nincada}} with extra slot in [[party]]}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Nincada}} with extra slot in [[party]]}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Nincada}} with extra slot in [[party]] and spare {{i|Poké Ball}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Nincada}} with extra slot in [[party]] and spare {{i|Poké Ball}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Nincada}} with extra slot in [[party]] and spare {{i|Poké Ball}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Nincada}} with extra slot in [[party]] and spare {{i|Poké Ball}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Nincada}} with extra slot in [[party]] and spare {{i|Poké Ball}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Bridge Field/Dens|Bridge Field]], [[Rolling Fields/Dens|Rolling Fields]], [[South Lake Miloch/Dens|South Lake Miloch]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Nincada}} with extra slot in [[party]] and spare {{i|Poké Ball}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Ghost}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Automatic on obtaining {{p|Ninjask}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 19]], Endless Level 33, Forever Level 33, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Lyra Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area={{OBP|Mt. Travail|Explorers of Time, Darkness, and Sky}} (1F-19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area={{OBP|Mt. Travail|Explorers of Time, Darkness, and Sky}} (1F-19F), [[Sky Peak Mountain Path|Sky Peak]] (8th Station Pass 1F-Sky Peak Summit Pass 5F)}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Misty Edgewater]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#Guardians of the Flower Patch|Flower Garden: Guardians of the Flower Patch]], [[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 5|Sky-High Ruins: Stage 5]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 30|Area 30: Stage 09]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mewtwo Sea]], [[Butterfree Sea]], [[Rayquaza Sea]], [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=Shedinja: [[Buried Relic]] (26F-34F, 36F-39F), [[Wish Cave]] (44F-49F), [[Desert Region]] (1F-6F), [[Darknight Relic]] (1F-14F), [[Joyous Tower]] (44F-49F), [[Purity Forest]] (44F-49F), [[Fantasy Strait]] (22F-24F)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 457]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Bug|type2=Ghost}}
+{{eventAvail|{{gameabbrev3|RS}}|Pokémon Center New York Monster Week 1 Shedinja|English|United States|50|October 18 to 24, 2003|link=List of PCNY event Pokémon distributions in Generation III#Shedinja}}
+|}
+
+===Stats===
+====Base stats====
+* Shedinja's HP stat is not calculated with the traditional formula, and is instead always equal to 1.
+{{BaseStats
+|type=Bug
+|type2=Ghost
+|HP=      1
+|Attack= 90
+|Defense=45
+|SpAtk=  30
+|SpDef=  30
+|Speed=  40}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Ghost
+|Speed=2
+|SpeedMax=2
+|Power=1
+|PowerMax=3
+|Technique=1
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Ghost
+|Normal=    0
+|Flying=  200
+|Fighting=  0
+|Ground=    0
+|Rock=    200
+|Bug=       0
+|Poison=    0
+|Ghost=   200
+|Steel=     0
+|Fire=    200
+|Water=     0
+|Grass=     0
+|Electric=  0
+|Psychic=   0
+|Ice=       0
+|Dragon=    0
+|Dark=    200
+|Fairy=     0
+|notes=yes
+|wonderguard=yes
+|newnormal=1
+|newfighting=1
+}}
+
+Shedinja can also be damaged by {{m|Struggle}} and any of the [[Shadow move]]s from [[Pokémon Colosseum]] and {{Pokémon XD}}. The moves {{m|Beat Up}}, {{m|Future Sight}}, and {{m|Doom Desire}} could hit Shedinja prior to [[Generation V]] due to dealing [[typeless]] damage.
+
+In the [[Pokémon Mystery Dungeon series]], the [[regular attack]] will do 1 HP damage to Shedinja, or have no effect in {{g|Super Mystery Dungeon}}. Foe Shedinja always have a maximum of 5 HP, or 10 HP in [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|Explorers of Time, Darkness]] and [[Pokémon Mystery Dungeon: Explorers of Sky|Sky]]. However, as a team member, Shedinja's HP is not capped.
+
+===Learnset===
+Shedinja is available in {{pkmn|Sword and Shield}} and {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Shedinja|Bug|Ghost|3}}
+{{learnlist/level8|1|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/level8|1|Grudge|Ghost|Status|—|—|5}}
+{{learnlist/level8|1|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level8|1|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/level8|1|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level8|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level8|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level8|1|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/level8|15|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/level8|23|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level8|29|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/level8|36|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level8|43|Mind Reader|Normal|Status|—|—|5}}
+{{learnlist/level8|50|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level8|57|Spite|Ghost|Status|—|100|10}}
+{{learnlist/level8|64|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/levelf/8|Shedinja|Bug|Ghost|3}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Shedinja|Bug|Ghost|3}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM38|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM77|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm8|TM86|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/tm8|TM94|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tr|TR38|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tr|TR60|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tr|TR61|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tr|TR83|Ally Switch|Psychic|Status|—|—|15}}
+{{learnlist/tmf/8|Shedinja|Bug|Ghost|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Shedinja|Bug|Ghost|3}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM15|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM19|Giga Drain|Grass|Special|75|100|10||}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||}}
+{{learnlist/tm8|TM28|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm8|TM30|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tm8|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM54|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15||}}
+{{learnlist/tm8|TM62|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm8|TM65|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm8|TM68|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm8|TM70|Flash|Normal|Status|&mdash;|100|20||}}
+{{learnlist/tm8|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM85|Dream Eater|Psychic|Special|100|100|15||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|&mdash;|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||}}
+{{learnlist/tmf/8|Shedinja|Bug|Ghost|3}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Shedinja|Bug|Ghost|3}}
+{{learnlist/breed8|{{MSP/8c|010|Caterpie}}{{MSP/8c|012|Butterfree}}{{MSP/8c|127|Pinsir}}{{MSP/8c|213|Shuckle}}{{MSP/8c|291|Ninjask}}{{MSP/8c|415|Combee}}{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}{{MSP/8c|543|Venipede}}{{MSP/8c|544|Whirlipede}}{{MSP/8c|545|Scolipede}}{{MSP/8c|557|Dwebble}}{{MSP/8c|558|Crustle}}{{MSP/8c|595|Joltik}}{{MSP/8c|596|Galvantula}}{{MSP/8c|632|Durant}}{{MSP/8c|636|Larvesta}}{{MSP/8c|637|Volcarona}}{{MSP/8c|736|Grubbin}}{{MSP/8c|737|Charjabug}}{{MSP/8c|738|Vikavolt}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|768|Golisopod}}{{MSP/8c|850|Sizzlipede}}{{MSP/8c|851|Centiskorch}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed8|{{MSP/8c|616|Shelmet}}{{MSP/8c|617|Accelgor}}|Final Gambit|Fighting|Special|—|100|5}}
+{{learnlist/breed8|{{MSP/8c|557|Dwebble}}{{MSP/8c|558|Crustle}}{{MSP/8c|588|Karrablast}}{{MSP/8c|589|Escavalier}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed8|{{MSP/8c|012|Butterfree}}{{MSP/8c|415|Combee}}{{MSP/8c|637|Volcarona}}|Gust|Flying|Special|40|100|35}}
+{{learnlist/breed8|{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breedf/8|Shedinja|Bug|Ghost|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Shedinja|Bug|Ghost|3}}
+{{learnlist/breed8|{{MSP/H|0010|Caterpie}}{{MSP/H|0012|Butterfree}}{{MSP/H|0013|Weedle}}{{MSP/H|0015|Beedrill}}{{MSP/H|0127|Pinsir}}{{MSP/H|0168|Ariados}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0213|Shuckle}}{{MSP/H|0265|Wurmple}}{{MSP/H|0267|Beautifly}}{{MSP/H|0269|Dustox}}{{MSP/H|0291|Ninjask}}{{MSP/H|0401|Kricketot}}{{MSP/H|0402|Kricketune}}{{MSP/H|0412|Burmy}}{{MSP/H|0414|Mothim}}{{MSP/H|0415|Combee}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}{{MSP/H|0469|Yanmega}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed8|{{MSP/H|0290|Nincada}}{{MSP/H|0291|Ninjask}}|Final Gambit|Fighting|Special|&mdash;|100|5|{{colorlink|Grand Underground|000|^}}|}}
+{{learnlist/breed8|{{MSP/H|0046|Paras}}{{MSP/H|0047|Parasect}}{{MSP/H|0328|Trapinch}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}|Flail|Normal|Physical|&mdash;|100|15|*|}}
+{{learnlist/breed8|{{MSP/H|0012|Butterfree}}{{MSP/H|0049|Venomoth}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0267|Beautifly}}{{MSP/H|0269|Dustox}}{{MSP/H|0284|Masquerain}}{{MSP/H|0414|Mothim}}{{MSP/H|0415|Combee}}|Gust|Flying|Special|40|100|35||}}
+{{learnlist/breed8|{{MSP/H|0402|Kricketune}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}{{MSP/H|0469|Yanmega}}{{MSP/H|0472|Gliscor}}|Night Slash|Dark|Physical|70|100|15||}}
+{{learnlist/breedf/8|Shedinja|Bug|Ghost|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Shedinja|Bug|Ghost|3}}
+{{learnlist/tutor8|Poltergeist|Ghost|Physical|110|90|5||'''|no|yes}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Shedinja|Bug|Ghost|3}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Shedinja|Bug|Ghost|3}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Shedinja|Bug|Ghost|3}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Shedinja|Bug|Ghost|3}}
+{{learnlist/prevgen8|Shedinja|3|Aerial Ace|Flying|Physical|60|—|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Shedinja|3|Baton Pass|Normal|Status|—|—|40|III=yes<!--prevo-->|IV=yes<!--prevo-->}}
+{{learnlist/prevgen8|Shedinja|3|Bide|Normal|Physical|—|—|10|VI=yes<!--prevo-->|VII=yes<!--prevo-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Shedinja|3|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Shedinja|3|Double Team|Normal|Status|—|—|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Shedinja|3|Double-Edge|Normal|Physical|120|100|15|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Shedinja|3|Dream Eater|Psychic|Special|100|100|15|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Shedinja|3|Feint Attack|Dark|Physical|60|—|20|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Flash|Normal|Status|—|100|20|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Frustration|Normal|Physical|—|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Fury Cutter|Bug|Physical|40|95|20||'''|III=yes<!--tutor-->|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Shedinja|3|Heal Block|Psychic|Status|—|100|15|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Hidden Power|Normal|Special|60|100|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Hone Claws|Dark|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Shedinja|3|Mimic|Normal|Status|—|—|10|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Shedinja|3|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Nightmare|Ghost|Status|—|100|15|III=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Return|Normal|Physical|—|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Screech|Normal|Status|—|85|40|III=yes<!--prevo-->|IV=yes<!--prevo-->}}
+{{learnlist/prevgen8|Shedinja|3|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Silver Wind|Bug|Special|60|100|5||'''|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Slash|Normal|Physical|70|100|20|III=yes<!--prevo-->|IV=yes<!--prevo-->}}
+{{learnlist/prevgen8|Shedinja|3|String Shot|Bug|Status|—|95|40|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Shedinja|3|Struggle Bug|Bug|Special|50|100|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Shedinja|3|Sucker Punch|Dark|Physical|70|100|5|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Shedinja|3|Swagger|Normal|Status|—|85|15|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Shedinja|3|Swords Dance|Normal|Status|—|—|20|III=yes<!--prevo-->|IV=yes<!--prevo-->}}
+{{learnlist/prevgen8|Shedinja|3|Telekinesis|Psychic|Status|—|—|15|V=yes<!--TM-->|VII=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Shedinja|3|Toxic|Poison|Status|—|90|10|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Shedinja|Bug|Ghost|3}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Ghost}}
+{{Spindata/PinballRS|col=3|type=Bug|ndex=292|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=292|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=292
+|body=1
+|rate=Evolve
+|area=Secretive Forest
+|P1=I'm an empty shell, but still I'll fight!
+|P2=My health has dipped to around half the peak level.
+|P3=It's looking grim. I even feel like an empty shell now...
+|PL=I'm just an empty shell, but I can still level up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=292
+|body=1
+|rate=-12
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=292
+|coset=23
+|conto={{p|Ninjask}}, {{p|Shuppet}}, {{p|Lucario}}, {{p|Greninja}}
+|recruitment=Deliver a letter from Shedinja to {{p|Shuppet}} in [[Sahra Town]]
+|P1=Here comes Shedinja, the shed ninja! All or nothing! That's my motto!
+|P2=You want me to say something at a time like this?
+}}
+|-
+{{Spindata/Ranger|col=6|type=Bug
+|group=Bug
+|assist=Ghost
+|loop=6
+|MinEXP=36
+|MaxEXP=70
+|num=033
+|browser=Shedinja is difficult to capture because it fades in and out of view.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=3
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=292
+|walk=1.67
+|hp=15
+|attack=66
+|defense=44
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=292
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=292|num=635
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Stabilize++
+|skilldesc=Sometimes erases five of the foe's disruptions on the board.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=292
+|hatch=N/A
+|buddy=5
+|candy=Nincada
+|evolution=N/A
+|stamina=1
+|attack=153
+|defense=73
+|fast={{m|Bug Bite}}{{tt|*|From November 1, 2018 onward}}, {{m|Shadow Claw}}{{tt|*|From November 1, 2018 onward}}, {{m|Struggle Bug}}{{tt|†|Temporarily obtainable on November 1, 2018}}, {{m|Bite}}{{tt|×|Temporarily obtainable on November 1, 2018}}
+|special={{m|Shadow Sneak}}, {{m|Aerial Ace}}, {{m|Dig}}
+}}
+|}
+
+In {{g|GO}}, Shedinja can be obtained by completing the [[Special Research]], ''Level 43 Challenge''. Shedinja cannot be used in {{OBP|Trainer Battle|GO}}s, but it can be used in [[Team GO Rocket]] battles.
+
+===Evolution data===
+Shedinja is considered a special Evolution of {{p|Nincada}}, appearing only when Nincada [[Evolution|evolves]] into {{p|Ninjask}} starting at [[level]] 20, if the player has an empty slot in their [[party]] and an extra {{i|Poké Ball}} on hand. Note that the Poké Ball has to be a regular Poké Ball. In [[Generation III]], an extra Poké Ball is not necessary to obtain Shedinja.
+
+In {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}, Shedinja will not be mentioned when evolving Nincada, but will subsequently appear in {{p|Chimecho}}'s Assembly.
+{{evobox/1castoff|0290|Nincada|2|Bug|Ground|[[Level|Level 20]]|0291|Ninjask|2|Bug|Flying|[[File:Bag Poké Ball Sprite.png]]<br>{{i|Poké Ball}}<br>in [[Bag]]|Space in [[party]]|0292|Shedinja|2|Bug|Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Ghost}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=292}}
+{{Spritebox/4|ndex=292}}
+{{Spritebox/5|ndex=292}}
+{{Spritebox/6|ndex=292|crop=56}}
+{{Spritebox/7|ndex=292|crop=63}}
+{{Spritebox/8|ndex=292}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0292}}
+{{Spritebox/Footer|292|Shedinja}}
+
+==In animation==
+[[File:Goh Shedinja.png|thumb|250px|Shedinja in {{aniseries|JN}}]]
+===Major appearances===
+Shedinja debuted in ''[[AG044|The Princess and the Togepi]]'', under the ownership of [[Colonel Hansen]]. It was his main battling Pokémon. It reappeared in ''[[AG045|A Togepi Mirage!]]'', where it was eventually defeated by a {{m|Flamethrower}} attack from [[Misty's Gyarados]].
+
+In ''[[JN091|The Spectral Express!]]'', a {{pkmn2|wild}} Ninjask left behind a {{DL|List of Goh's Pokémon|Shedinja}} upon evolving. The Shedinja entered one of [[Goh]]'s empty {{i|Poké Ball}}s, becoming his Pokémon.
+
+===Minor appearances===
+In ''[[AG121|Hi Ho Silver Wind!]]'' and ''[[AG122|Deceit and Assist]]'', a {{pkmn|Coordinator}}'s Shedinja competed in the [[Hoenn Grand Festival]]. Another Shedinja was also in a visualization in the former episode.
+
+A Coordinator's Shedinja appeared in ''[[AG143|The Saffron Con]]''.
+
+In ''[[XY077|A Relay in the Sky!]]'', a {{pkmn|Trainer}}'s Shedinja participated in the [[Pokémon Sky Relay]]. It was in a team also consisting of {{p|Vibrava}} and {{p|Ninjask}}.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG044|Shedinja|May's Pokédex|Shedinja, the Shed Pokémon. Shedinja possesses a hard, powerful body, giving it {{a|Wonder Guard|strong defenses}}.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN091|Shedinja|Goh's Rotom Phone|Shedinja, the Shed Pokémon. A {{t|Bug}} and {{t|Ghost}} type. Shedinja appear in empty {{i|Poké Ball}}s when {{p|Nincada}} evolve into {{p|Ninjask}}.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+==In the manga==
+[[File:Amber Shedinja Adventures.png|thumb|150px|Shedinja in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Shedinja first appeared in ''[[PS246|Can I Ninjask You a Question?]]'', when {{adv|Amber}}, having been deprived of his Pokémon after being abandoned by [[Archie]], borrowed a Nincada from his comrade [[Shelly]], which then immediately evolves into a {{p|Ninjask}}, putting [[Wattson]] in quite a pinch with the incredible speed it gained by the minute. Although the old Gym Leader eventually managed to defeat it, a Shedinja formed from the shell Ninjask shed and attacked him from behind, sending him sinking into the ocean.
+
+In ''[[PS311|A Dust-Up With Dusclops]]'', {{adv|Emerald}} used a Shedinja during his [[Battle Pyramid]] challenge, exploiting the fact that it required no healing due to it always having just one HP to save on items.
+
+In ''[[PS317|Sneaky Like Shedinja]]'', [[Greta]] used a Shedinja to battle [[Emerald's Sudowoodo]].
+
+A student's Shedinja appeared in ''[[PS530|Movie Panic]]''.
+
+==In the TCG==
+{{main|Shedinja (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Ultimate]]===
+Shedinja appears as a {{sbw|Spirits (characters)|Spirit}}. In the Spirit Battle, Shedinja, depicted as a yellow Mr. Game & Watch, has only 1 HP like in the core series games, but Wonder Guard is depicted as giving Shedinja complete invincibility for 90% of the match, as well as reflecting all projectiles. However, the invincibility is disabled periodically for about a second, allowing the player to KO Shedinja with just one hit.
+
+==Trivia==
+* From [[Generation IV]] onwards, a basic {{i|Poké Ball}} (a requirement for Evolution) is removed from the [[Bag]] upon Evolution to produce a Shedinja. In [[Generation III]], Shedinja instead copied the ball Nincada was in; this is one of only two legitimate ways to obtain Shedinja in a non-standard Poké Ball until [[Generation VIII]], where Shedinja can be caught in [[Max Raid Battle]]s or transferred from [[Pokémon GO]]. 
+** The other option is to catch a Nincada in {{game3|HeartGold and SoulSilver|HeartGold or SoulSilver|s}} via the [[Bug Catching Contest]] in a [[Sport Ball]] and evolve it in {{game3|Diamond and Pearl|Diamond, Pearl|s}}, or {{v2|Platinum}}. Because the Sport Ball is not coded to exist in Diamond, Pearl, and Platinum, it copies the Ball to the Shedinja without reassigning it to have a basic Poké Ball. This effect would also apply to [[Apricorn]] Balls (which are also considered "out-of-bounds" by these games), but in HeartGold and SoulSilver, Nincada is only obtainable in the wild from the Bug Catching Contest, in which only Sport Balls can be used.
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Shedinja.
+* Shedinja:
+** has the lowest base stat total of all {{type|Ghost}} Pokémon.
+** has the lowest base stat total of any fully evolved [[Bug (type)|Bug-type]] Pokémon.
+** is tied with {{p|Duskull}}, {{rf|Galarian}} {{p|Yamask}}, and {{p|Greavard}} for the lowest base {{stat|Special Attack}} stat of all Ghost-type Pokémon.
+** is tied with {{p|Dreepy}} for the lowest base {{stat|Special Defense}} stat of all Ghost-type Pokémon.
+* Shedinja is the only evolved Pokémon that has a lower base stat total than its {{p|Nincada|pre-evolved form}}.
+* Shedinja is exclusively part of the [[Mineral (Egg Group)|Mineral]] [[Egg Group]], but its pre-Evolution is exclusively part of the [[Bug (Egg Group)|Bug]] Egg Group. These two are the only Pokémon related by Evolution to not share identical Egg Groups, excluding those that transition in or out of the {{egg|No Eggs Discovered}} Egg Group.
+** However, because it is [[gender unknown]], it cannot breed with Pokémon other than {{p|Ditto}}.
+* Shedinja inherits the same [[game of origin]], [[personality value]], {{IV}}s, {{EV}}s, [[original Trainer|OT]], [[Trainer ID number|Trainer ID number and Secret ID number]], and met location as the Nincada it evolves from. It also inherits [[Pokérus]] if the Nincada had it. Among other things, due to keeping the same game of origin, personality value, and Trainer and Secret ID numbers, Shedinja will be Shiny if and only if the Nincada was {{Shiny}}.
+* In most games, Shedinja evolved from a Nincada has no [[nickname]] and the player is not prompted to nickname it, meaning the only way to give Shedinja a nickname is to take it to a [[Name Rater]]. However, in {{g|Brilliant Diamond and Shining Pearl}}, Shedinja will have the same nickname as the Nincada it evolved from.
+* In [[Pokémon Colosseum]], due to the game having no [[wild Pokémon]], the only way to completely fill the [[Pokémon Storage System]] is to [[trade]] for multiple Nincada and evolve them to produce Shedinja.
+* Shedinja's {{a|Wonder Guard}} Ability renders it immune to 13 of 18 move types, the most of any Pokémon; four of these immunities (to {{t|Ice}}, {{t|Bug}}, {{t|Steel}}, and {{t|Fairy}}) are entirely unique to Shedinja.
+** Even if it is affected by {{m|Foresight}} or {{m|Odor Sleuth}}, or if the opposing Pokémon has {{a|Scrappy}} or {{a|Mind's Eye}}, Shedinja is still immune to {{t|Normal}} and {{type|Fighting}} moves.
+* Prior to [[Generation V]], if Nincada learns a move upon evolving into {{p|Ninjask}}, Shedinja will also know this move. This means that Shedinja can learn any of Ninjask's level up moves starting at level 20, but can only simultaneously have multiple of them if they are learned at the same level. From Generation V onward, Shedinja starts with the moves Nincada knew prior to Evolution.
+* Shedinja is the only Pokémon in [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]] that is able to change its name.
+* In [[Pokémon Super Mystery Dungeon]] and [[Pokémon Mystery Dungeon: Rescue Team DX]], wild Shedinja will spawn on any tile where a wild Nincada was defeated after several turns have passed. They move once every two turns and do not attack. Additionally, other wild Pokémon will try to attack the wild Shedinja if they are nearby, allowing them to [[Seed#Empowerment Seed|awaken]] without defeating the player or their allies if they succeed in causing it to faint.
+* Shedinja is the only Pokémon with a base stat total of 236.
+* Shedinja's barrier in Max Raid Battles requires the most hits to break, with 8. However, because it still faints in one hit and is immune to {{m|False Swipe}} and {{m|Hold Back}}, breaking the barrier is impossible.
+* In [[Pokémon GO]], Shedinja and {{p|Ditto}} are the only Pokémon that cannot be used in [[Trainer Battle (GO)|Trainer Battles]].
+* Despite Shedinja's HP being its lowest stat, Shedinja awards HP EVs.
+
+===1 HP trivia===
+Shedinja has the lowest HP of all Pokémon, with only 1. As such, it has many unique characteristics:
+
+* Excluding [[Starmobile]]s, Shedinja is the only Pokémon to have a stat not calculated by the [[Statistic#Generation III onward|standard formula]]; if it were, Shedinja would have at least 11 HP even at [[level]] 1.
+** Shedinja can gain HP {{EV}}s, but they will have no effect.
+* Having only 1 HP, Shedinja's {{stat|Defense}} and {{stat|Special Defense}} stats normally have no practical purpose in battle. However, if Shedinja receives a {{OBP|substitute|doll}} through {{m|Baton Pass}} or {{m|Shed Tail}}, its Defense and Special Defense are factored into damage the substitute takes. Shedinja's Defense and Special Defense stats also become relevant if a Pokémon uses {{m|Transform}} on it or if Shedinja uses {{m|Power Trick}} or {{m|Body Press}} (both via {{m|Mimic}}), or if an opponent has {{a|Download}}.
+* From [[Generation IV]] onward, Shedinja is the only Pokémon that can knock itself out from full health with the recoil damage from {{m|Struggle}}.
+* Outside of battle, Shedinja immediately recovers from {{status|poison}} after four steps in [[Generation IV]]; in [[Generation III]], it will immediately faint after four steps.
+* Despite it being able to learn {{m|Substitute}}, {{m|Bide}}, and {{m|Rest}}, they will always fail; consequently, the only way Shedinja can have a substitute is via {{m|Baton Pass}} or {{m|Shed Tail}}.
+** It can also have {{m|Final Gambit}} from one of {{p|Nincada}}'s [[Egg Move]]s, but it will only do 1 HP damage, due to Final Gambit doing damage equal to the user's current HP.
+* Although Shedinja can learn {{m|Sandstorm}}, it cannot normally use the move without fainting as a result of damage from the {{weather|sandstorm}}. Use of [[Safety Goggles]] allows this to be circumvented.
+* If Shedinja uses {{m|Pain Split}} (via Mimic), it will cut the target's current HP in half, similarly to {{m|Super Fang}}, {{m|Nature's Madness}}, and {{m|Ruination}}.
+* Shedinja is the only Pokémon that has its HP restored to maximum when leveled up with a [[Rare Candy]] (prior to [[Generation VI]]) or revived with a [[Revive]].
+* From [[Generation V]] onward, if a Shedinja has {{a|Sturdy}}, it can survive any damaging move or {{status|confusion}} damage an indefinite number of times.
+* If a Shedinja is holding a [[Focus Sash]], it can survive any single damaging hit (including {{status|confusion}} damage) and remain at full HP.
+* Shedinja is the only Pokémon that can never recover HP using an {{cat|HP-draining moves|HP-draining move}}.
+* Although Shedinja can eat [[Dynamax Candy|Dynamax Candies]], its HP will remain at 1 regardless when it [[Dynamax]]es. This makes it the only Pokémon that doesn't get an HP boost when it Dynamaxes.
+* {{m|Eruption}}, {{m|Water Spout}}, or {{m|Dragon Energy}} used by Shedinja via Mimic will always have 150 base power, while {{m|Flail}} from Nincada's Egg Moves and {{m|Reversal}} via Mimic will always have 20 base power, due to Shedinja always having full HP.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Nincada, Ninjask and Shedinja}}
+Shedinja appears to be based on the {{wp|Exuviae|shed husk}} that {{wp|cicada}}s leave behind when they finish their {{wp|metamorphosis}} into adults. It also appears to be a reference to the fabled ninjutsu technique 空蝉 ''utsusemi'', where a {{wp|ninja}} uses a dummy or replica of themselves to evade and escape from threats, and where its namesake also alludes to the cast off shed husk of a cicada. It may also be based on a {{wp|guardian angel}} due to the {{wp|halo (religious iconography)|halo}}-like object floating above its head and its {{a|Wonder Guard}} [[Ability]].
+
+====Name origin====
+Shedinja may be a combination of ''shed'' (to cast off shell) and ''ninja''.
+
+Nukenin may be a combination of 抜け殻 ''nukegara'' (empty shell) and 忍者 ''ninja'', as well as a pun on 抜け忍 ''nukenin'' (fugitive ninja).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Ghost
+|ja=ヌケニン ''Nukenin''|jameaning=From {{tt|抜け殻 ''nukegara''|empty shell}}, 忍者 ''ninja'', and a pun of {{tt|抜け忍 ''nukenin''|fugitive ninja}}
+|fr=Munja|frmeaning=From ''{{tt|mue|shed shell}}'' and ''ninja''
+|es=Shedinja|esmeaning=Same as English name
+|de=Ninjatom|demeaning=From ''Ninja'' and ''Phantom''
+|it=Shedinja|itmeaning=Same as English name
+|ko=껍질몬 ''Kkubjilmon''|komeaning=From {{tt|껍질 ''kkeopjil''|shell, husk}} and ''monster''
+|zh_cmn=脫殼忍者 / 脱壳忍者 ''Tuōkérěnzhě''|zh_cmnmeaning=From {{tt|脫殼 / 脱壳 ''tuōké''|to shed}} and {{tt|忍者 ''rěnzhě''|ninja}}
+|zh_yue=脫殼忍者 ''Tyuthokyánjé''|zh_yuemeaning=From {{tt|脫殼 ''tyuthok''|to shed}} and {{tt|忍者 ''yánjé''|ninja}}
+|hi=निनिकल ''Ninikal''|himeaning=From ''ninja'' and {{tt|निकल ''nikal''|get out/come out}}
+|ru=Шединья ''Shedin'ya''|rumeaning=Transcription of English name
+|th=นูเคนิน ''Nukhenin''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0291|prev=Ninjask|nextnum=0293|next=Whismur}}
+|}
+{{Project Pokédex notice}}
+[[Category:Super Smash Bros. spirits]]
+
+[[de:Ninjatom]]
+[[es:Shedinja]]
+[[fr:Munja]]
+[[it:Shedinja]]
+[[ja:ヌケニン]]
+[[zh:脱壳忍者]]

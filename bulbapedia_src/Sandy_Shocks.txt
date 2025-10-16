@@ -1,0 +1,317 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Ground}}
+{{PokémonPrevNext/GO|species=Sandy Shocks}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0988|prev=Slither Wing|nextnum=0990|next=Iron Treads|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Sandy Shocks
+|jname=スナノケガワ
+|tmname=Sunanokegawa
+|ndex=0989
+|type1=Electric
+|type2=Ground
+|category=Paradox
+|height-ftin=7'07"
+|height-m=2.3
+|weight-lbs=132.3
+|weight-kg=60.0
+|abilitylayout=1
+|ability1=Protosynthesis
+|ability2=
+|abilityd=
+|egggroupn=1
+|egggroup1=No Eggs Discovered
+|egggroup2=
+|eggcycles=50
+|evtotal=3
+|evhp=0
+|evat=0
+|evde=0
+|evsa=3
+|evsd=0
+|evsp=0
+|expyield=285
+|lv100exp=1250000
+|gendercode=255
+|color=Gray
+|catchrate=30
+|body=08
+|pokefordex=sandy-shocks
+|generation=9
+|friendship=0
+}}
+'''Sandy Shocks''' ([[List of Japanese Pokémon names|Japanese]]: '''スナノケガワ''' ''Sunanokegawa'') is a dual-type {{2t|Electric|Ground}} [[Paradox Pokémon]] introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It is said to be an ancient relative of {{p|Magneton}} or a counterpart of it from a parallel timeline.
+
+==Biology==
+Sandy Shocks is a seemingly metallic Pokémon with a body composed of three units that resemble ancient versions of {{p|Magnemite}}, all of which have yellow eyes. Unlike {{p|Magneton}},  each eye blinks independently of one another and not in unison. The top unit bears markings similar to tribal war paint as well as iron filings on its body and horseshoe magnets that resemble hair. The bottom units have only a single magnet each, which is elongated in a manner that makes them resemble legs; they are also covered with iron filings on their ends. Instead of floating like Magneton, it walks by bending these magnets. A series of screws with iron filings on the end floats between the two lower units, making it resemble a tail. 
+
+According to an article from a July issue of {{DL|Magazines in the Pokémon world|Occulture}} magazine, some scientists claim that Sandy Shocks is a Magneton that has lived for 10,000 years. It has allegedly been sighted numerous times in [[Paldea]]'s more arid regions, but there are no reports of it ever having been caught. It is said to have an aggressive disposition and some people who have seen it claim to have been attacked. Sandy Shocks purportedly takes its name from a beast with a matching description in the [[Scarlet Book]].
+
+According to [[Professor Sada|AI Sada]], Sandy Shocks is an ancient Pokémon related to Magneton. However, according to a version of Professor Sada that appeared at the [[Crystal Pool]], Sandy Shocks is a counterpart of Magneton from another timeline. Its true origin is unknown. Sandy Shocks was brought to the depths of [[Area Zero]] by a [[time machine]] built by Professor Sada ten years ago. 200 years ago, [[Heath]] also encountered Sandy Shocks, as seen in the Scarlet Book, though it is unclear how it arrived there at the time.
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric|type2=Ground}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=381|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=No records exist of this Pokémon being caught. Data is lacking, but the Pokémon’s traits match up with a creature shown in an expedition journal.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It slightly resembles a Magneton that lived for 10,000 years and was featured in an article in a paranormal magazine.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{electric color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{electric color light}}; background:#{{electric color light}} | [[File:Pokédex Image Sandy Shocks SV.png|x200px]]
+|-
+| Sandy Shocks in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Electric|type2=Ground}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|1|v=Scarlet|t=FFF|area=[[Area Zero]]}}
+{{Availability/Entry1/None|1|v=Violet|area=[[Union Circle]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====[[Poké Portal News]]=====
+{{eventAvail/h|Tera Type|type=Electric|type2=Ground|lochide=yes}}
+{{eventAvail|{{gameabbrev9|S}}|Sandy Shocks and Iron Thorns Spotlight|Random<br>Ice|hide|75|May 24 to 26, 2024|link=Poké Portal News/2024#May 24 to 26, 2024}}
+{{eventAvail|{{gameabbrev9|S}}|Roaring Moon and Iron Valiant the Unrivaled|Random|hide|75|October 3 to 12, 2025|link=Poké Portal News#October 3 to 12, 2025}}
+|}
+
+====In side games====
+
+===Held items===
+{{HeldItems/header|type=Electric|type2=Ground}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=FFF|gcolor2=FFF|tcolor2={{Violet color}}|Pokémon Scarlet and Violet}}
+{{HeldItems/Items1|Booster Energy|size=24px|5}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|type2=Ground
+|HP=85
+|Attack=81
+|Defense=97
+|SpAtk=121
+|SpDef=85
+|Speed=101
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Ground
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=50
+|Ground=200
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=½
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Sandy Shocks|Electric|Ground|9}}
+{{learnlist/level9|1|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|1|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/level9|1|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level9|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/level9|7|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|14|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|21|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/level9|28|Tri Attack|Normal|Special|80|100|10}}
+{{learnlist/level9|35|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|42|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/level9|49|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level9|56|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|63|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|70|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/level9|77|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/level9|84|Zap Cannon|Electric|Special|120|50|5||'''}}
+{{learnlist/level9|91|Magnetic Flux|Electric|Status|—|—|20}}
+{{learnlist/levelf/9|Sandy Shocks|Electric|Ground|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Sandy Shocks|Electric|Ground|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM084|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM089|Body Press|Fighting|Physical|80|100|10}}
+{{learnlist/tm9|TM090|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM101|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM186|High Horsepower|Ground|Physical|95|95|10||'''}}
+{{learnlist/tm9|TM210|Supercell Slam|Electric|Physical|100|95|15||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tmf/9|Sandy Shocks|Electric|Ground|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Sandy Shocks|Electric|Ground|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Sandy Shocks|Electric|Ground|9}}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Ground}}
+{{Spindata/GO|col=6|type=Electric|ndex=0989
+|hatch=N/A
+|buddy=20
+|evolution=N/A
+|stamina=198
+|attack=244
+|defense=195
+|fast=
+|special=
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Electric
+|type2=Ground
+|pictype=art
+|no1=0989
+|name1=Sandy Shocks
+|type1-1=Electric
+|type2-1=Ground}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=electric|type2=ground}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0989}}-->
+{{Spritebox/HOME|ndex=0989}}
+{{Spritebox/Footer|989|Sandy Shocks}}
+
+==In animation==
+[[File:Sandy Shocks anime.png|thumb|250px|Sandy Shocks in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+Sandy Shocks debuted in ''[[HZ080|Total-lie Awesome Pokémon in Area Zero?!]]'', where [[Roy]] encountered it in [[Area Zero]] and defeated it with his {{TP|Roy|Crocalor}}.
+
+====Minor appearances====
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Sandy Shocks (TCG)}}
+
+==Trivia==
+* Sandy Shocks is the only Paradox Pokémon to share its weight with its apparent relative. Both Sandy Shocks and Magneton weigh 132.3 lbs./60.0 kg.
+** It is also the only ancient Paradox Pokémon to not weigh more than its apparent relative.
+
+===Origin===
+Sandy Shocks is based on {{p|Magneton}}. The tufts around and on its body may be {{wp|iron filings}} or {{wp|ironsand}} (as suggested by its name and typing), and they resemble the messy and unkempt hair that cavemen are typically depicted to have. Its stilt-like legs and elongated tail may serve to reference dinosaurs of the {{wp|Diplodocidae}} family. Its tail may also draw inspiration from {{wp|transmission tower}}s, with it specifically resembling an {{wp|Insulator (electricity)|electrical insulator}}. Its presence among the ancient Paradox Pokémon despite being composed of modern objects may be a reference to {{wp|out-of-place artifact}}s.
+
+Its dual {{2t|Electric|Ground}} typing may be a pun on electrical {{wp|Ground (electricity)|ground}}, due to it touching the ground rather than levitating like Magneton.
+
+====Name origin====
+Sandy Shocks is literally ''sandy shocks''. The word ''shock'' may refer to both a burst of electrical energy and a tuft of hair or fur.
+
+Sunanokegawa can be taken literally as 砂の毛皮 ''suna no kegawa'' (sandy fur).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Ground
+|ja=スナノケガワ ''Sunanokegawa''|jameaning=From {{tt|砂の毛皮 ''suna no kegawa''|sandy fur}}
+|fr=Pelage-Sablé|frmeaning=From ''{{tt|pelage|fur}}'' and ''{{tt|sablé|sandy}}''
+|es=Pelarena|esmeaning=From ''{{tt|pelaje|fur}}'' and ''{{tt|arena|sand}}''
+|de=Sandfell|demeaning=From ''Sand'' and ''{{tt|Fell|pelt}}''
+|it=Peldisabbia|itmeaning=From ''{{tt|pelo di sabbia|sandy fur}}''
+|ko=모래털가죽 ''Moraeteolgajuk''|komeaning=From {{tt|모래털가죽 ''morae teolgajuk''|sandy fur}}
+|zh_cmn=沙鐵皮 / 沙铁皮 ''Shātiěpí''|zh_cmnmeaning=From {{tt|沙 ''shā''|sand}}, {{tt|鐵 / 铁 ''tiě''|iron}}, and {{tt|皮 ''pí''|skin}}
+|zh_yue=沙鐵皮 ''Sātitpèih''|zh_yuemeaning=From {{tt|沙 ''sā''|sand}}, {{tt|鐵 ''tit''|iron}}, and {{tt|皮 ''pèih''|skin}}
+|hi=रेतीफ़र ''Retifur''|himeaning=From {{tt|रेत ''ret''|sand}} and ''fur''
+|pt_br=Choque Areia|pt_brmeaning=From ''{{tt|choque|shock}}'' and ''{{tt|areia|sand}}''
+|th=ขนทราย ''Khonsai''|thmeaning=From ''{{tt|ขน khon|fur}}'' and ''{{tt|ทราย sai|sand}}''
+|ru=Магнитные Вихры ''Magnitnyye Vikhry''|rumeaning=From {{tt|магнитные ''magnitnyye''|magnetic (plural)}} and {{tt|вихры ''vikhry''|tufts, cowlicks}}
+}}
+
+==Related articles==
+* [[Paradox Pokémon]]
+* [[Scarlet Book]]
+* [[Time machine]]
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+
+{{Paradox Pokémon}}
+
+{{PokémonPrevNext/Head|type=Electric|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0988|prev=Slither Wing|nextnum=0990|next=Iron Treads}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Paradox Pokémon]]
+[[Category:Ancient Pokémon]]
+
+[[de:Sandfell]]
+[[es:Pelarena]]
+[[fr:Pelage-Sablé]]
+[[it:Peldisabbia]]
+[[ja:スナノケガワ]]
+[[zh:沙铁皮]]

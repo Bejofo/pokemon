@@ -1,0 +1,930 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Steel}}
+{{PokémonPrevNext/GO|species=Magnemite}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0080|prev=Slowbro|nextnum=0082|next=Magneton|round=none}}
+{{PokémonPrevNext/Disambig|species=Magnemite}}
+|}
+{{Pokémon Infobox
+|name=Magnemite
+|jname=コイル
+|jtranslit=Koiru
+|tmname=Coil
+|ndex=0081
+|type1=Electric
+|type2=Steel
+|category=Magnet
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=13.2
+|weight-kg=6.0
+|ability1=Magnet Pull
+|ability2=Sturdy
+|abilityd=Analytic
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=65
+|oldexp=89
+|lv100exp=1,000,000
+|gendercode=255
+|color=Gray
+|catchrate=190
+|body=04
+|pokefordex=magnemite
+|generation=1
+|friendship=70
+}}
+'''Magnemite''' ([[List of Japanese Pokémon names|Japanese]]: '''コイル''' ''Coil'') is a dual-type {{2t|Electric|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation I]]. Prior to [[Generation II]], it [[:Category:Pokémon that have had their type changed|was]] a pure {{type|Electric}} Pokémon.
+
+It [[Evolution|evolves]] into {{p|Magneton}} starting at [[level]] 30, which evolves into {{p|Magnezone}} when [[level]]ed up in a [[special magnetic field]] or when exposed to a [[Thunder Stone]].
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+Magnemite is a seemingly {{wp|robot|robotic}} {{OBP|Pokémon|species}} that has a gray, spherical metal body, with blue-and-red tipped horseshoe magnets on each side and a single, large eye. It has three {{wp|Phillips head}} screws on its body: two near the bottom of its body and the one on top of its head that looks similar to an antenna. The two bottom screws serve no noticeable purpose, although they may be its feet as the Pokédex identifies a footprint similar to that of the screw's head. Even though Magnemite and its evolved forms are mechanical creatures, it is shown in the ''[[Pokémon the Series]]'' episode ''[[EP101|Get Along, Little Pokémon]]'' that it has emotions and a way of reproducing. In ''[[EP195|The Poké Spokesman]]'', it exhibited the need to eat, although its main form of nutrition are electrical currents. It is commonly found in locations such as {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|power plants or caves}} with a strong magnetic field. Despite its modern, artificial appearance, [[Media:Neo Premium File 2.jpg|Magnemite has been depicted in carvings]] discovered at the [[Ruins of Alph]]. It has also been present in [[AZ]]'s retelling of the [[Kalos]] war, indicating it has existed for at least 3,000 years.
+
+The magnetic units on Magnemite's body generate an electromagnetic field that allows it to defy gravity and can potentially disrupt electrical equipment. The units generate stronger magnetic fields the faster they rotate. Magnemite is not known to be unnecessarily aggressive but they may approach Trainers with little notice. If a wild Magnemite is approached, [[Escape#Wild Pokémon|it may simply flee]] on rare occasions, as Magnemite does not care for interaction. However, if attacked, it will retaliate with non-damaging moves. In the care of a Trainer, it can be a devoted fighter. However, as seen in the {{aniseries|PTS}} episode ''[[EP195|The Poké Spokesman]]'', it's shown that it may be deterred unless a strong bond is formed with its Trainer. Should it run out of electricity, Magnemite will fall to the ground. Usually, batteries can help recharge it in order for Magnemite to start moving again.
+
+Magnemite can be attracted to anything emitting electricity or a magnetic field, including gadgets such as a [[Pokétch]]. In the episode ''[[EP030|Sparks Fly for Magnemite]]'', it is shown to be attracted to electric Pokémon producing such fields. With modern electrical lines buried underground, Magnemite attacks on power plants have increased. To prevent power outages, these power plants deliberately send out signals Magnemite cannot stand to ward them off. As mentioned in [[Pokémon Sleep]], Magnemite is known to sleep airbone by generating electromagnetic waves from its side magnets.<ref>[[Sleep style|Sleep Style Dex]]</ref>There are rare occasions where while Magnemite sleeps and muddles to the direction of its waves, it will loop in the air while sleeping.
+
+===Evolution===
+Magnemite evolves into {{p|Magneton}}, which evolves into {{p|Magnezone}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Electric
+|type2=Steel
+|pictype=art
+|no1=0081
+|name1=Magnemite
+|type1-1=Electric
+|type2-1=Steel
+|evo1=
+|no2=0082
+|name2=Magneton
+|type1-2=Electric
+|type2-2=Steel
+|evo2=
+|no3=0462
+|name3=Magnezone
+|type1-3=Electric
+|type2-3=Steel}}
+</div>
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Red Rescue Team and Blue Rescue Team}}: A group of Magnemite are the clients of the game's second mission, sending the player to save their friend who is trapped in [[Thunderwave Cave]]. One of the Magnemite decides to join the rescue team a couple of days later.
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: Two Magnemite serve as {{p|Magnezone}}'s police units.
+
+===Pokédex entries===
+{{Dex/Header|type=Electric|type2=Steel}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=081}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Uses anti-gravity to stay suspended. Appears without warning and uses <sc>{{m|Thunder Wave}}</sc> and similar moves.}}
+{{Dex/Entry1|v=Yellow|entry=It is born with the ability to defy gravity. It floats in air on powerful electromagnetic waves.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Appears as if out of nowhere. It floats using anti-gravity and discharges electricity from two side-mounted units.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=118}}
+{{Dex/Entry1|v=Gold|entry=It is attracted by electromagnetic waves. It may approach trainers if they are using their [[Pokégear|<sc>Pok</sc>é<sc>gear</sc>]].}}
+{{Dex/Entry1|v=Silver|entry=The units at the sides of its body generate anti-gravity energy to keep it aloft in the air.}}
+{{Dex/Entry1|v=Crystal|entry=The electricity emitted by the units on each side of its body cause it to become a strong magnet.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It is attracted by electromagnetic waves. It may approach trainers if they are using their <sc>POK</sc>é<sc>GEAR</sc>. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>The units at the sides of its body generate anti-gravity energy to keep it aloft in the air. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=082|reg2=Kanto|num2=081}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Magnemite</sc> attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this {{ScPkmn}} clinging to the breaker box.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Magnemite</sc> floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This {{ScPkmn}} becomes incapable of flight if its internal electrical supply is depleted.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over {{tt|300 feet|100m}} away.}}
+{{Dex/Entry1|v=FireRed|entry=It moves while constantly hovering. It discharges <sc>Thunder Wave</sc> and so on from the units at its sides.}}
+{{Dex/Entry1|v=LeafGreen|entry=Uses antigravity to stay suspended. Appears without warning and uses <sc>Thunder Wave</sc> and similar moves.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=178|label1={{gameIcon|Pt}}:|reg2=Johto|num2=119}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.}}
+{{Dex/Entry1|v=Platinum|entry=The faster the units at its sides rotate, the greater the magnetic force they generate.}}
+{{Dex/Entry1|v=HeartGold|entry=It is attracted by electromagnetic waves. It may approach Trainers if they are using their Pokégear.}}
+{{Dex/Entry1|v=SoulSilver|entry=The units at the sides of its body generate antigravity energy to keep it aloft in the air.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=048|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The faster the units at its sides rotate, the greater the magnetic force they generate.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=069|label1=Mountain|reg2=Hoenn|num2=084}}
+{{Dex/Entry1|v=X|t=FFF|entry=The units at the sides of its body generate antigravity energy to keep it aloft in the air.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pokémon becomes incapable of flight if its internal electrical supply is depleted.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=047|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=054|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=081}}
+{{Dex/Entry1|v=Sun|entry=They gather in places where electricity is available. They can be found clinging to the steel towers used to support power lines.}}
+{{Dex/Entry1|v=Moon|entry=It sends out electromagnetic waves, which let it float through the air. Touching it while it's eating electricity will give you a full-body shock.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It's frequently the cause of power outages, which is why some power plants send out electrical signals that it can't stand.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=Perhaps because electrical lines are often buried these days, the number of Magnemite attacks on power plants has increased.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=105|label1=Isle of Armor|reg2=Sinnoh|reg3=Hisui|num3=177}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it'll start moving again.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=209|reg2=Kitakami|reg3=Blueberry|num3=116}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It moves while constantly hovering. It discharges electromagnetic waves and so on from the units at its sides.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{steel color dark}}; background:#{{electric color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{steel color dark}}; background:#{{electric color light}};" | [[File:Pokédex Image Magnemite SM.png|x200px]]
+| style="border:2px solid #{{steel color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Magnemite SV.png|x200px]]
+| style="border:2px solid #{{steel color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Magnemite SV Blueberry.png|x200px]]
+|-
+| Magnemite in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Magnemite in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Magnemite in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=electric|type2=steel}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1|v=Yellow|area={{rt|10|Kanto}}, {{FB|Kanto|Power Plant}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|6|Kanto}}, {{rtn|11|Kanto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|6|Kanto}}, {{rtn|11|Kanto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[New Mauville]]}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[New Mauville]]}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Fuego Ironworks]] ([[Mass outbreak|Swarm]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|222|Sinnoh}}, [[Fuego Ironworks]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|6|Kanto}}, {{rtn|11|Kanto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}<br/>{{safari|Johto}} (Peak, default; Wasteland, default)}}
+{{Availability/Entry1|v=Pal Park|color=D4B5A7|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=FF3333|area={{pw|Suburban Area}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[White Forest]]{{tt|*|Appears only with the presence of Scientist Marie}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Virbank Complex]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Rugged Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area={{pkmn|breeding|Breed}} {{p|Magneton}} or {{p|Magnezone}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{rt|110|Hoenn}} ([[Horde Encounter]])<br/>[[New Mauville]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{al|Trainers' School}}, [[Hau'oli City]], [[Malie City]], [[Poké Pelago]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{al|Trainers' School}}, [[Hau'oli City]], [[Malie City]]}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area={{FB|Kanto|Power Plant}}}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Challenge Beach]]<br/>[[Fields of Honor/Dens|Fields of Honor]], [[Forest of Focus/Dens|Forest of Focus]], [[Challenge Beach/Dens|Challenge Beach]], [[Brawlers' Cave/Dens|Brawlers' Cave]], [[Courageous Cavern/Dens|Courageous Cavern]], [[Stepping-Stone Sea/Dens|Stepping-Stone Sea]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Fuego Ironworks]] ([[Mass outbreak|Swarm]])<br>[[Grand Underground]] - [[Spacious Cave]], [[Whiteout Cave]], [[Icy Cave]], [[Glacial Cavern]]}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Cobalt Coastlands]]:''' [[Space-time distortion]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=East Province: [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Magnemite|2★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Canyon Biome]], [[Chargestone Cavern]], [[Polar Biome]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric|type2=Steel}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Tunnel]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Red Field]]: [[Lavender Town]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field|Back Yard]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Plains ([[Ruby Field|Both]] [[Sapphire Field|Fields]])}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 2]], [[Secret Storage 19]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Lightning Field]] (1F-7F), [[Wish Cave]] (1F-3F), automatically recruited when [[Friend Area]]s become purchasable}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Krokka Tunnel]], [[Waterworks]], [[Dusk Factory]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (1F-25F), [[Final Maze]] (B1F-B48F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (1F-25F), [[Final Maze]] (B1F-B48F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Pueltown]], [[Volcano Cave]], [[Union Road]], [[Peril Cliffs]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Fiery Furnace]] <small>(Normal Mode C, Advanced Mode B)</small>}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Cavern Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Wireless Tower]], [[Mitonga Road]], [[Old Mansion]], [[Daybreak Ruins]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Conductor Room#Rumbling Magnetic Motors|Conductor Room: Rumbling Magnetic Motors]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 2|Distortion Island: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Super-Aura Test Lab|Origin Hideaway: Super-Aura Test Lab]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 20|Area 20: Stage 05]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Zapdos Sea]], [[Garchomp Sea]], [[Aegislash Sea]], [[Bulbasaur Sea]], [[Arceus Sea]], [[Greninja Sea]], [[Garchomp Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Thunderwave Cave]]{{tt|*|Automatically recruited one day after completion}}, [[Lightning Field]] (1F-7F), [[Wish Cave]] (1F-3F)<br/>Fainted Pokémon: [[Southern Cavern]], [[Far-Off Sea]]}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[Greengrass Isle]], [[Old Gold Power Plant]], [[Greengrass Isle]]<sup>Expert</sup> (from Basic 1)}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 325]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area={{sync/player|egg|Magnemite}}<br>[[Trainer Lodge]] Friendship Level 100: {{sync|Jasmine|Magnemite}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=electric|type2=steel}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Agility Magnemite|English|United States|5|October 4 to 10, 2002|link=List of PCNY event Pokémon distributions in Generation II#Agility Magnemite}}
+|}
+
+===Held items===
+Pokémon caught in [[Generation I]] must be traded to a [[Generation II]] game in order for a held item to appear.
+
+{{HeldItems/header|type=Electric|type2=Steel}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|rows=2|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Games2|Gold|Silver|Pokémon Gold and Silver Versions}}
+{{HeldItems/Items1|Metal Coat|2|rows=2}}
+{{HeldItems/Games1|Crystal|Pokémon Crystal Version}}
+{{HeldItems/Games2|Ruby|Sapphire|tcolor1=fff|tcolor2=fff|Pokémon Ruby and Sapphire Versions}}
+{{HeldItems/Items1|Metal Coat|5|rows=10}}
+{{HeldItems/Games1|Emerald|tcolor=fff|Pokémon Emerald Version}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Games2|Black|White|tcolor1={{black color}}|gcolor1=FFF|Pokémon Black and White Versions}}
+{{HeldItems/Games2|Black 2|White 2|tcolor1=FFF|Pokémon Black and White Versions 2}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=FFF|tcolor2=fff|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Metal Coat|5|availNote=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+{{HeldItems/Items1|Metal Coat|5}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Iron Chunk|30|Metal Coat|7|Exp. Candy S|100|Seed of Mastery|10}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=electric
+|type2=steel
+|HP=25
+|Attack=35
+|Defense=70
+|SpAtk=95
+|SpDef=55
+|Speed=45
+|Special=95
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|type2=Steel
+|Speed=4
+|SpeedMax=4
+|Power=1
+|PowerMax=2
+|Technique=3
+|TechniqueMax=4
+|Stamina=1
+|StaminaMax=2
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Steel
+|Normal=   50
+|Flying=   25
+|Fighting=200
+|Ground=  400
+|Rock=     50
+|Bug=      50
+|Poison=    0
+|Ghost=   100
+|Steel=    25
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric= 50
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=    100
+|Fairy=50
+|notes= yes
+|magnemite=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|olddark=½
+|gen5ghost=yes
+|oldghost2=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Magnemite|Electric|Steel|1}}
+{{learnlist/level9|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level9|4|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level9|8|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|12|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/level9|16|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/level9|20|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|24|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|28|Magnet Rise|Electric|Status|—|—|10}}
+{{learnlist/level9|32|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/level9|36|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|40|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level9|44|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|48|Lock-On|Normal|Status|—|—|5}}
+{{learnlist/level9|52|Zap Cannon|Electric|Special|120|50|5||'''}}
+{{learnlist/levelf/9|Magnemite|Electric|Steel|1}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Magnemite|Electric|Steel|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||'''}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM170|Steel Beam|Steel|Special|140|95|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tmf/9|Magnemite|Electric|Steel|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Magnemite|Electric|Steel|2}}
+{{learnlist/breed9|{{MSP/H|0081|Magnemite}}{{tt|*|Magnemite caught in 2★ Tera Raid Battles know this move}}|Electroweb|Electric|Special|55|95|15||'''|grid=2}}
+{{learnlist/breed9|{{bag/s|Mirror Herb|SV}}{{tt|*|The Pokémon must hold a Mirror Herb to copy this move from another Pokémon.}}|Explosion|Normal|Physical|250|100|5|grid=2}}
+{{learnlist/breedf/9|Magnemite|Electric|Steel|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg lightning color}}; border: 3px solid #{{tcg lightning color dark}}"
+|-
+! style="background: #{{tcg lightning color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg lightning color light}}; {{roundytr|5px}}" | Card
+|- style="background:#fff"
+| {{m|Quick Attack}}
+| [[Magnemite (Supreme Victors 111)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Self-Destruct}}
+| style="background:#fff; {{roundybr|5px}}" | [[Magnemite (Base Set 53)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Steel}}
+{{Spindata/Pinball|col=2|type=Electric|ndex=081|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Electric|ndex=081|acquisition=Catch}}
+{{Spindata/Trozei|col=2|type=Electric|ndex=081|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Electric|ndex=081
+|body=1
+|rate=12.8
+|area=Power Plant
+|P1=<sc>bzbzbzz... magnemite...</sc>
+|P2=<sc>bzbzbzz... magnemite 50 percent...</sc>
+|P3=<sc>bzbzbzz... magnemite failing...</sc>
+|PL=<sc>bzbzbzz... magnemite leveled up!...</sc>
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Electric|ndex=081
+|body=1
+|rate=8.2
+|IQ=A
+}}
+|-
+{{Spindata/PSMD|col=6|type=Electric|ndex=081
+|coset=15
+|conto={{p|Magnezone}}, {{p|Zebstrika}}, {{p|Klink}}, {{p|Klang}}, {{p|Klinklang}}, {{p|Helioptile}}
+|recruitment=Talk to in [[Serene Village]]
+|P1=Safety first! Pi-pi-pi!
+|P2=Exhausted… Pi-pi-pi…
+}}
+|-
+{{Spindata/Ranger|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|fieldpower=1
+|field=Recharge
+|loop=2
+|MinEXP=4
+|MaxEXP=4
+|num=056
+|browser=Magnemite looses electricity to attack. It can also recharge your [[Capture Styler|Styler]].
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Recharge
+|field=Recharge
+|fieldpower=2
+|num=062
+|browser=It attacks by sending out bolts of electricity.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Recharge
+|field=Recharge
+|fieldpower=2
+|past=NA
+|num=110
+|browser=It restores the Styler Energy.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Electric
+|att=3
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Electric
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Electric|ndex=081
+|walk=2.08
+|hp=39
+|attack=71
+|defense=51
+|speed=60
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Electric|ndex=081
+|Pad=Magnemite came out of crates in the [[Cavern Zone]]. What do they like best? {{DL|Attraction (PokéPark)|Rhyperior's Bumper Burn}} and {{DL|Attraction (PokéPark)|Rotom's Spooky Shoot-'em-Up}}!
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=081
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=081|num=440
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=081
+|hatch=N/A
+|buddy=3
+|candy=Magnemite
+|evocandy=25{{tt|*|50 prior to May 18, 2019}}
+|stamina=93
+|attack=165
+|defense=121
+|fast={{m|Spark}}, {{m|Thunder Shock}}, {{m|Volt Switch}}{{tt|*|From September 1, 2023 onward}}, {{m|Metal Sound}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Discharge}}, {{m|Magnet Bomb}}, {{m|Thunderbolt}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|-
+{{Spindata/Sleep|col=6
+|ndex=0081
+|sleeptype=Slumbering
+|type=Steel
+|dexentry=The units at its side generate electromagnetic waves that keep it airborne. On rare occasions, perhaps when it sleepily muddles the direction of its waves, it does loops through the air while asleep.
+|sleepstyle1=Droopy-Float Sleep
+|sleepstyle2=Magnet-Rise Sleep
+|sleepstyle3=Upside-Down Sleep
+|friendpoints=5
+|specialty=Skills
+|evolution=Lv. 23
+|pokemon=Magnemite
+|candyNum=40
+|berry=Belue
+|ingredient1=Pure Oil
+|ingredient2=Fiery Herb
+|carrylimit=8
+|skillname=Cooking Power-Up S
+|skilldesc=Gives your pot room for 7 more ingredients next time you cook.
+}}
+|}
+
+===Evolution data===
+Magnemite [[Evolution|evolves]] into {{p|Magneton}} starting at [[level]] 30, which, since [[Generation IV]], evolves into {{p|Magnezone}} when [[level]]ed up in a [[special magnetic field]]. Magneton cannot evolve into Magnezone in {{game|HeartGold and SoulSilver|s}}, due to there being no area in [[Kanto]] or [[Johto]] with a special magnetic field. Magneton also cannot evolve in {{LGPE}}, as Magnezone is not present in those games. There is also no special magnetic field in {{g|Sword and Shield}} or {{g|Scarlet and Violet}}, so from [[Generation VIII]] onwards, Magneton is also able to evolve into Magnezone when exposed to a [[Thunder Stone]]. 
+{{Evobox-3
+|type1=Electric
+|type2=Steel
+|pictype=art
+|no1=0081
+|name1=Magnemite
+|type1-1=Electric
+|type2-1=Steel
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 30}}
+|no2=0082
+|name2=Magneton
+|type1-2=Electric
+|type2-2=Steel
+|evo2={{bag/s|Rare Candy|SV}} + [[File:Town Map Icon BDSP.png|40px]]<br>{{color2|000|Level|Level up}}<br><small>in areas with a<br>{{color2|000|special magnetic field}}</small><br><big><big>→</big></big><br>{{Bag/s|Thunder Stone|SV}}<br>{{color2|000|Thunder Stone}}<sup>{{gen|VIII}}+</sup>
+|no3=0462
+|name3=Magnezone
+|type1-3=Electric
+|type2-3=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric|type2=Steel}}
+{{Spritebox/1|ndex=081}}
+{{Spritebox/2|ndex=081}}
+{{Spritebox/3|ndex=081}}
+{{Spritebox/4|ndex=081}}
+{{Spritebox/5|ndex=081}}
+{{Spritebox/6|ndex=081|crop=50}}
+{{Spritebox/7/PE|ndex=081|crop=50|PEcrop=99}}
+{{Spritebox/8/SwShLA|ndex=081|LAcrop=108}}
+<!--{{Spritebox/9|ndex=0081}}-->
+{{Spritebox/HOME|ndex=0081}}
+{{Spritebox/Footer|081|Magnemite}}
+
+==In animation==
+[[File:Clemont Magnemite.png|thumb|250px|Magnemite in {{aniseries|XY}}]]
+===Main series===
+====Major appearances====
+=====[[Clemont's Magnemite]]=====
+{{an|Clemont}} owns a Magnemite that first appeared in ''[[XY009|Clemont's Got a Secret!]]''. It stays at the [[Lumiose Gym]].
+
+=====[[Francois]]=====
+[[Ren]] owns a Magnemite [[nickname]]d Francois (Japanese: '''フランソワーズ''' ''Françoise'').
+
+=====Other=====
+Magnemite debuted in ''[[EP030|Sparks Fly for Magnemite]]''. {{Ash}} and {{ashfr}} were in [[Gringey City]] while the power went out. When they were looking around for the cause of the power outage, Magnemite showed up and was attracted to [[Ash's Pikachu]], who had a cold. When a group of {{p|Grimer}} and its {{AP|Muk}} leader were chasing Ash and his friends, a group of other Magnemite, along with Magneton, helped fight them off.
+
+In ''[[EP101|Get Along, Little Pokémon]]'', {{OBP|Ethan|EP101}} used multiple Magnemite to harness electrical energy from bolts of lightning during thunderstorms, with this energy being given to towns without power. One of the Magnemite, [[nickname]]d Number 6, evolved into a Magneton to save Ash and Pikachu from {{TRT}}.
+
+In ''[[EP195|The Poké Spokesman]]'', a group of [[phony Pokémon interpreters]] used three Magnemite to attack a [[Pokémon Center]] until [[Simon]] convinced them to stop.
+
+In ''[[EP199|Current Events]]'', ten Magnemite served as security guards for an electric company's power station. They first attacked Team Rocket, who had sneaked into the power station. Later on, Ash saw the door had been opened by someone, and upon investigation, he was also attacked by the Magnemite.
+
+[[Jasmine]]'s Magnemite debuted in ''[[EP208|Fight for the Light!]]'', where it sat perched on her shoulder. Magnemite was later used in her [[Gym]] {{pkmn|battle}} with Ash in ''[[EP224|Nerves of Steelix!]]''; it battled {{AP|Pikachu}}, who was able to defeat Magnemite with {{m|Quick Attack}}.
+
+In ''[[AG040|Watt's with Wattson?]]'', [[Wattson]] used a Magnemite during Ash's Gym battle against him. It was defeated easily due Pikachu having become overcharged during an earlier incident. Three {{pkmn2|wild}} Magnemite also appeared later in the episode.
+
+In ''[[AG058|All Torkoal, No Play!]]'', multiple Magnemite were part of a pack of {{type|Steel}} Pokémon in the [[Valley of Steel]] bullying a wild {{AP|Torkoal}}.
+
+In [[PK13]], a Magnemite attacked Meowth and Wobbuffet with {{m|Thunder Wave}}, but it was quickly defeated by Wobbuffet's {{m|Counter}}.
+
+In ''[[M11|Giratina and the Sky Warrior]]'', an army of Magnemite and Magneton, led by a {{p|Magnezone}}, was owned by [[Zero]]. He mainly used them as a swarm to trap or capture targets by linking together around them.
+
+In ''[[DP088|Camping It Up!]]'', {{an|Brock}} temporarily trained a Magnemite provided by the [[Pokémon Summer Academy]]. Unlike the rest of the group, he had no problems bonding with and educating his Pokémon.
+
+In ''[[BW087|Expedition to Onix Island!]]'', a wild Magnemite lived on a {{OBP|Deserted Island|BW087|deserted island}}. It attacked {{an|Iris}} and {{TP|Iris|Axew}} with an Electric attack after Iris got too close it.
+
+Two Magnemite appeared in ''[[BW112|Team Plasma's Pokémon Power Plot!]]'', ''[[BW119|Meowth, Colress and Team Rivalry!]]'', and ''[[BW120|Ash and N: A Clash of Ideals!]]'', both under the ownership of {{tc|Team Plasma Grunt}}s.
+
+In ''[[JN093|It's All in the Name!]]'', multiple Magnemite, including one belonging to a Trainer, went crazy in [[Vermilion City]] due to a {{wp|geomagnetic storm|magnetic storm}}.
+
+====Minor appearances====
+In ''[[PK01|Pikachu's Vacation]]'', a Magnemite was at the [[Pokémon Theme Park]].
+
+In ''[[EP069|Lights, Camera, Quack-tion]]'', two Magnemite were {{wp|Lighting technician|lighting technicians}} for the film ''{{DL|Movies in the Pokémon world|Pokémon in Love}}''.
+
+In ''[[EP086|Pikachu Re-Volts]]'', four Magnemite were controlled by [[Cassidy]] and [[Butch]] at [[Mandarin Island North]].
+
+In ''[[M02|The Power of One]]'', multiple Magnemite sensed the disturbance caused by [[Lawrence III]].
+
+Multiple wild Magnemite appeared in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+In ''[[EP169|Beauty and the Breeder]]'', a {{tc|Pokémon Breeder}}'s Magnemite participated in the [[Pokémon Beauty Contest]].
+
+In ''[[The Legend of Thunder!]]'', multiple Magnemite were lured by the "Miracle Crystal" used by [[Attila]] and [[Hun]].
+
+In ''[[EP242|As Clear As Crystal]]'', a Magnemite was affected by a crystal that gave a lake the ability to heal {{type|Electric}} Pokémon.
+
+In ''[[AG010|You Said A Mouthful!]]'', a Magnemite was one of the Pokémon inside {{OBP|Anthony|AG010}}'s {{p|Pelipper}}'s mouth so Pelipper could employ its Electric attacks.
+
+A Magnemite appeared in ''[[AG077|A Fan with a Plan!]]''.
+
+In ''[[HS12|Training Daze]]'', a Magnemite was partnered with two [[Team Rocket]] trainees.
+
+A Magnemite appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Magnemite appeared in ''[[DP029|The Champ Twins!]]''.
+
+In ''[[DP110|Steeling Peace of Mind!]]'' and ''[[DP111|Saving the World From Ruins!]]'', multiple Magnemite were disturbed by [[Team Galactic]]'s interference on [[Iron Island]].
+
+Multiple Magnemite appeared in ''[[DP112|Cheers on Castaways Isle!]]''.
+
+In ''[[DP144|Gone With the Windworks!]]'', [[Benjamin]] employs multiple Magnemite as guards for the [[Valley Windworks]].
+
+In ''[[DP149|Sticking With Who You Know!]]'', a Magnemite belonged to [[Professor Kodama]].
+
+In ''[[DP171|Dawn of a Royal Day!]]'', a {{pkmn|Coordinator}}'s Magnemite competed in the {{to|Arrowroot}} {{pkmn|Contest}}.
+
+Multiple Magnemite appeared in ''[[BW089|Iris and the Rogue Dragonite!]]''.
+
+Two Magnemite appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]'', with one of them wearing a pink ribbon.
+
+A Magnemite appeared in ''[[XY039|Summer of Discovery!]]'' on a [[Pokévision]] video icon.
+
+A Magnemite appeared in ''[[XY048|A Campus Reunion!]]''.
+
+In ''[[XY062|The Future Is Now, Thanks to Determination!]]'', multiple Magnemite were being controlled by {{TRT}}.
+
+In ''[[XY078|Lights! Camera! Pika!]]'', [[Frank]] employs Magnemite alongside {{p|Swirlix}} and {{p|Heliolisk}} to provide the lighting whilst filming his movies.
+
+In ''[[SM006|A Shocking Grocery Run!]]'', four Magnemite belonged to different {{pkmn|Trainer}}s.
+
+A Trainer's Magnemite appeared in ''[[SM016|They Might Not Be Giants!]]''.
+
+A Trainer's Magnemite appeared in ''[[SM017|Crystal-Clear Sleuthing!]]''.
+
+In ''[[M20|I Choose You!]]'', a Magnemite fell under the control of {{OBP|Marshadow|M20}}.
+
+Two Trainers' Magnemite appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+A Trainer's Magnemite appeared in ''[[SM045|Now You See Them, Now You Don't!]]''.
+
+A Trainer's Magnemite appeared in ''[[SM060|Getting a Jump on the Competition!]]''.
+	
+Multiple Magnemite appeared in ''[[M21|The Power of Us]]'', with five under the ownership of different Trainers, one being wild, and the other two appearing during a flashback.
+
+A Trainer's Magnemite appeared in ''[[SM083|Dummy, You Shrunk the Kids!]]''.
+
+In ''[[SM090|Securing the Future!]]'', multiple Trainers' Magnemite joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|true form}}.
+
+A Trainer's Magnemite appeared in ''[[SM092|Turning the Other Mask!]]''.
+
+A Trainer's Magnemite appeared in ''[[SM103|Heart of Fire! Heart of Stone!]]''.
+
+Two Trainers' Magnemite appeared in ''[[SM115|The Dealer of Destruction!]]''.
+
+A Trainer's Magnemite appeared in ''[[SM119|A High-Speed Awakening!]]''.
+
+Two Magnemite appeared in ''[[SM135|The Final Four!]]'', with one under the ownership of a Trainer near Team Rocket's food truck and the other appearing in a fantasy.
+
+A Trainer's Magnemite appeared in ''[[SM141|Exhibition Unmasked!]]''.
+
+In ''[[JN002|Legend? Go! Friends? Go!]]'', a Trainer's Magnemite took part in a [[Raid Battle (GO)#In animation|Raid Battle]] against a {{p|Lugia}}.
+
+A Trainer's Magnemite appeared in ''[[JN008|The Sinnoh Iceberg Race!]]''.
+
+A Trainer's Magnemite appeared in ''[[JN016|A Chilling Curse!]]''.
+
+A Trainer's Magnemite appeared in ''[[JN038|Restore and Renew!]]''.
+
+Four Magnemite appeared in ''[[JN040|A Crackling Raid Battle!]]''.
+
+A Trainer's Magnemite appeared in ''[[JN046|Getting More Than You Battled For!]]''.
+
+A Trainer's Magnemite appeared in ''[[JN109|Aim For The Eight!]]''.
+
+A Trainer's Magnemite appeared in ''[[JN112|Helping the Hometown Hero!]]''.
+
+Three Magnemite appeared in ''[[JN136|This Could be the Start of Something Big!]]''.
+
+A Trainer's Magnemite appeared during a flashback in ''[[HZ019|The Bittersweet Truth]]''.
+
+A Trainer's Magnemite appeared in ''[[HZ039|Tinkatink's Ideal Hammer]]''.
+
+A Trainer's Magnemite appeared in ''[[HZ050|Trending Terastallization! Dance, Dance, Quaxly!]]''.
+
+A Trainer's Magnemite appeared in ''[[HZ059|Dance, Quaxly! The Blue Medali Step!]]''.
+
+A Trainer's Magnemite appeared in ''[[HZ089|Where the Adventure Leads]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP030|Magnemite|Ash's Pokédex|Magnemite, a Magnet Pokémon. Its means of floating through the air are not understood. This very mysterious Pokémon is of the {{t|Electric}} type.}}
+{{Animedexfooter/Pokémon|Kanto}}
+{{Animedexheader|Orange}}
+{{Animedexbody|EP101|Magnemite|Ash's Pokédex|Magnemite, the Magnet Pokémon. It's able to float through the air and emits {{m|Thunder Wave}} through its magnet-shaped units located on its sides.}}
+{{Animedexfooter/Pokémon|Orange}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN093|Magnemite|Goh's Rotom Phone|Magnemite, the Magnet Pokémon. An {{t|Electric}} and {{t|Steel}} type. Magnemite eat electricity. As they fly, they emit electromagnetic waves from the two units on their sides.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Black 2 and White 2 Animated Trailer===
+[[File:Team Plasma Magnemite B2W2 Trailer.png|thumb|250px|Magnemite (left) in the animated trailer]]
+A Magnemite appeared in the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], under the ownership of a {{tc|Team Plasma Grunt}}. It surrounded {{ga|Nate}}, [[Hugh]], and [[Cheren]] aboard the [[Plasma Frigate]].
+
+===Pokémon Origins===
+[[File:Weedle Magnemite Zubat PO.png|thumb|left|250px|Magnemite in [[Pokémon Origins]]]]
+In ''[[PO03|File 3: Giovanni]]'', two Magnemite were seen being freed by {{OBP|Red|Origins}}: one had been imprisoned in the [[Team Rocket Hideout|Rocket Hideout]], and the other, in the [[Silph Co.]] building.
+
+===Pokémon Generations===
+[[File:International Police Magnemite PG.png|thumb|250px|Magnemite in [[Pokémon Generations]]]]
+In ''[[PG02|The Chase]]'', an [[International Police]] {{wp|SWAT}} team's Magnemite was used during the raid on the [[Viridian Gym]], during which it destroyed a door lock.
+
+A Magnemite appeared in ''[[PG04|The Lake of Rage]]'', under the ownership of a {{tc|Team Rocket Grunt}}. Along with {{p|Grimer}}, {{p|Raticate}}, {{p|Golbat}}, and {{p|Houndoom}}, it was defeated by [[Lance's Dragonite]] during [[Lance]] and {{ga|Ethan}}'s infiltration of the [[Team Rocket HQ]].
+
+A soldier's Magnemite appeared in ''[[PG18|The Redemption]]'', during a fantasy of a story from the past. It was one of the many Pokémon fighting in the great war of [[Kalos]] 3,000 years previously.
+
+===Pokémon Evolutions===
+In ''[[PE07|The Show]]'', a Magnemite briefly appeared under the ownership of a {{pkmn|Trainer}} in [[Ecruteak City]].
+
+===POKÉTOON===
+A Trainer's Magnemite appeared in [[PT16]].
+
+==In the manga==
+[[File:Lt Surge Magnemite Adventures.png|thumb|230px|Magnemite in [[Pokémon Adventures]]]]
+===Magical Pokémon Journey===
+A Magnemite appeared in ''[[PPP01|How Do You Do, Pikachu?]]''.
+
+===Pocket Monsters Diamond & Pearl===
+A Magnemite appeared in [[PDP25]].
+
+===Pocket Monsters HGSS===
+Multiple Magnemite appeared in [[PMHGSS06]].
+
+A Magnemite appeared in [[PMHGSS11]].
+
+===Pokémon Adventures===
+{{main|Clemont's Magnemite}}
+Multiple Magnemite debuted aboard the [[S.S. Anne]] in ''[[PS010|Danger: High Voltorb]]'' as some of the Pokémon ready to attack {{adv|Red}}; however, it is unclear if they belong to [[Lt. Surge]] or his {{tc|Sailor}}. They reappeared in ''[[PS011|Buzz Off, Electabuzz!]]'', where they were searching the ship for Red.
+
+In ''[[PS026|Holy Moltres]]'', a {{tc|Team Rocket Grunt}} used a Magnemite to battle Blaine's Arcanine and Rapidash.
+
+Lt. Surge used two Magnemite to act as chains to trap Red so he could attack him in ''[[PS029|Go for the Golbat]]''.
+
+In ''[[PS050|Lapras Lazily]]'', a {{pkmn2|wild}} Magnemite appeared in the abandoned Power Plant in Blue's flashback of how he met Agatha. Later, in ''[[PS051|Electro Magneton]]'', three wild Magnemite and a Magneton attacked {{adv|Blue}} and [[Evan]]. After Blue's Machamp defeated the Magneton, the wild Magnemite escaped.
+
+Lt. Surge used a Magnemite to get [[Morty]]'s attention so he could help locate {{adv|Gold}} and {{adv|Silver}} in ''[[PS141|Hello, Lickitung]]''.
+
+Later, in ''[[PS157|Magnificent Magnemite]]'', Lt. Surge used a Magnemite to fight [[Morty]]'s {{p|Misdreavus}}, using electromagnetism to shield attacks as well as to fire {{m|Zap Cannon}}. The fight, however, ended in a draw due to Misdreavus using {{m|Destiny Bond}}.
+
+A Magnemite appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to participate in the fight in [[Ilex Forest]].
+
+[[Wattson]]'s two Magnemite were first seen with his {{TP|Wattson|Electrike}} in ''[[PS204|Plugging Past Electrike I]]'', where they battled some Pokémon belonging to children.
+
+[[Gabby and Ty|Ty]]'s Magnemite appeared in ''[[PS219|What Would You Do for a Whismur?]]'', where it battled [[Team Magma]] at the [[Rusturf Tunnel]].
+
+The {{OBP|Battle Tower|Generation III}} rented a Magnemite, which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''. It reappeared in a flashback in ''[[PS335|The Final Battle VIII]]''.
+
+Multiple Magnemite were among the {{type|Electric}} Pokémon that charged the [[Lumiose Gym|Prism Tower]] during a blackout in ''[[PS562|Pangoro Poses a Problem]]''.
+
+Multiple Magnemite appeared in a flashback in ''[[PS580|Flabébé Blooms]]''.
+
+A Trainer's Magnemite appeared in ''[[PASM04|The Decision and the Tournament of Six]]''.
+
+===Pokémon Gold & Silver: The Golden Boys===
+A Magnemite appeared in ''[[GB04|Let's Aim For The Goal!]]''.
+
+{{GnB|Black}} owns a Magnemite, which first appeared in ''[[GB11|Gold and Black VS Team Rocket]]''.
+
+===Pokémon Pocket Monsters===
+{{PPM|Green}} caught a Magnemite, as seen in ''[[PM020|Good Luck at the Big Pokémon Athletic Meet!]]''.
+
+A Magnemite appeared in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]'', where it was one of the Pokémon that took part in a baseball match.
+
+A Magnemite appeared in ''[[PM037|Get that 10 Billion Yen!! (Special Side-Story)]]''.
+
+{{PPM|Giovanni}} sent out a Magnemite in an attempt to battle {{p|Squirtle}} in ''[[PM047|Squirtle, the Crybaby Pokémon]]''. It reappeared in ''[[PM059|Good-Bye, Pikachu?!]]''.
+
+A Magnemite appeared in ''[[PM051|Pikachu's Birthday Party]]''.
+
+===Pokémon Zensho===
+A Magnemite appeared in [[PZ04]], under the ownership of [[Lt. Surge]].
+
+==In the TCG==
+{{main|Magnemite (TCG)}}
+
+==Other appearances==
+[[File:Magnemite 3Ds trophy SSB4.png|thumb|150px|Magnemite trophy in ''Super Smash Bros. for 3DS'']]
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+Magnemite appears in the background of the {{st|Prism Tower}} stage in the 3DS version of the game. It also appears as a trophy exclusive to the 3DS version.
+
+====Trophy information====
+''Instantly recognizable by the horseshoe magnets on either side of its body, this Magnet Pokémon uses electromagnetic waves to nullify gravity and float in midair. The sense of nostalgia it inspires has only been strengthened by the many years that have passed since its debut in the very first Pokémon games.''
+
+==={{DetPikMov}}===
+A Magnemite appeared in {{DetPikMov}}.
+{{-}}
+
+==Trivia==
+* In the [[Pokémon Red and Green beta|Pokémon Red and Blue beta]], Magnemite was originally known as "Coil", which was derived from its Japanese name.
+* Magnemite and its [[Evolution|evolved]] form were the first Pokémon to ever change typing with the progress of [[generation]]s.
+* Despite most of Magnemite's [[Pokédex entry|Pokédex entries]] saying they are able to float through the air by employing powerful electromagnetic waves or even anti-gravity, Magnemite does not have the [[Ability]] {{a|Levitate}}, so it is still affected by {{type|Ground}} moves. However, starting in [[Generation IV]], Magnemite can learn {{m|Magnet Rise}}, which simulates Levitate for five turns.
+* Magnemite and Magneton are two of the few Pokémon that had their [[cry]] changed slightly in [[Generation III]]. This was due to Generation III utilizing a better sound effects game engine and [[Game Boy Advance|newer game system]].
+* {{g|Snap}} is one of the few times that two Magnemite have been shown bonding, similar to a Magneton. However, when a picture is taken, they are still called Magnemite.
+** {{g|Mystery Dungeon: Red Rescue Team and Blue Rescue Team}} also showed this, but it was stated to be a failed Evolution, due to the lack of a third Magnemite.
+* In 2008, Japanese internet users spammed votes for Magnemite on a {{wp|Yahoo! Kids}} poll featuring 9 Pokémon appearing in ''[[M11|Giratina and the Sky Warrior]]''. Since then, several Japanese Pokémon polls have received an unusual amount of votes for Magnemite, including the 2021 [[Pokémon of the Year]] poll, when it came in 1st place for [[Kanto]] Pokémon.
+* In [[Generation V]], Magnemite was the most traded Pokémon on the [[GTS]]. This is probably due to what is known as the Magnemite chain/coil: a scheme by which players could increase the number of visitors to their [[Join Avenue]] in {{2v2|Black|White|2}} by trading Magnemite on the GTS. The scheme originated with Japanese players and became popular worldwide.
+* Magnemite was designed by [[Ken Sugimori]], based on an idea by [[Satoshi Tajiri]].<ref name=USUMPokédex>"What It Takes to Create a Pokémon." Interview with Ken Sugimori in ''[[Pokémon Ultra Sun & Pokémon Ultra Moon Edition: The Official National Pokédex]]'', p. xv</ref>
+* On May 31, 2017, [[The Pokémon Company]] posted a Magnemite-themed music video onto their YouTube channel titled [[Where is Coil? Here is Coil!]].
+
+===Origin===
+Magnemite is based on {{wp|magnet}}s<ref name=USUMPokédex/> and screws, and in broader terms, possibly an objectification of {{wp|electromagnetism}}, one of the four {{wp|fundamental interactions}} of nature. Magnemite's mysterious mechanical nature, ability to levitate, and appearance on [[Johto Route 39]] — where the [[Moomoo Farm]] is located — suggest inspirations from {{wp|UFO}}s and the idea of aliens kidnapping cattle.
+
+====Name origin====
+Magnemite may be a combination of ''magnet'' and ''mite'' (minute object). It may also play on ''{{wp|magnetite}}'' and/or ''{{wp|maghemite}}'', iron oxide minerals that can, under specific conditions, become permanent magnets.
+
+Coil may refer to ''{{wp|electromagnetic coil}}''.
+
+==In other languages==
+{{Other languages|type=electric|type2=steel
+|ja=コイル ''Coil''|jameaning=From ''coil''
+|fr=Magnéti|frmeaning=From ''{{tt|magnétique|magnetic}}'' and ''{{tt|petit|small}}''
+|es=Magnemite|esmeaning=Same as English name
+|de=Magnetilo|demeaning=From ''Magnet'' and ''{{tt|ilo|Esperanto for 'tool'}}''
+|it=Magnemite|itmeaning=Same as English name
+|ko=코일 ''Koil''|komeaning=Transcription of Japanese name
+|zh_cmn=小磁怪 ''Xiǎocíguài''|zh_cmnmeaning=From {{tt|小 ''xiǎo''|small}}, {{tt|磁 ''cí''|magnetic}}, and {{tt|怪 ''guài''|monster}}
+|zh_yue=小磁怪 ''Síuchìhgwaai''|zh_yuemeaning=From {{tt|小 ''síu''|small}}, {{tt|磁 ''chìh''|magnetic}}, and {{tt|怪 ''gwaai''|monster}}
+|he=מגנמייט ''Magnemayt''|hemeaning=Transcription of English name
+|hi=मैग्नेमाइट ''Magnemite''|himeaning=Transcription of English name
+|ru=Магнемайт ''Magnemayt''|rumeaning=Transcription of English name
+|th=คอยล์ ''Khoi''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Clemont's Magnemite]]
+* [[Francois]]
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Electric|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0080|prev=Slowbro|nextnum=0082|next=Magneton}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Single-type Pokémon|081]]<!--In Gen I-->
+[[Category:Pokémon that appear in Pokémon Snap]]
+[[Category:Pokémon that run from battle]]
+[[Category:Pokémon that have had their type changed]]
+[[Category:Super Smash Bros. trophies]]
+
+[[de:Magnetilo]]
+[[es:Magnemite]]
+[[fr:Magnéti]]
+[[it:Magnemite]]
+[[ja:コイル]]
+[[zh:小磁怪]]

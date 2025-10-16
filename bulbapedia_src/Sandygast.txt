@@ -1,0 +1,412 @@
+{{PokémonPrevNext/Head|type=Ghost|type2=Ground}}
+{{PokémonPrevNext/GO|species=Sandygast}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0768|prev=Golisopod|nextnum=0770|next=Palossand|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Sandygast
+|jname=スナバァ
+|tmname=Sunaba
+|jtranslit=Sunabā
+|ndex=0769
+|type1=Ghost
+|type2=Ground
+|category=Sand Heap
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=154.3
+|weight-kg=70.0
+|abilitylayout=2
+|ability1=Water Compaction
+|abilityd=Sand Veil
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=15
+|evtotal=1
+|evde=1
+|expyield=64
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=140
+|body=02
+|pokefordex=sandygast
+|generation=7
+|friendship=70
+}}
+'''Sandygast''' ([[List of Japanese Pokémon names|Japanese]]: '''スナバァ''' ''Sunaba'') is a dual-type {{2t|Ghost|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] into {{p|Palossand}} starting at [[level]] 42.
+
+==Biology==
+Sandygast is a {{OBP|Pokémon|species}} formed from sand. It is mostly a mound of whitish sand dotted with gray pebbles. A tunnel through its center acts as a mouth, and a small depression above that has two pebbles for eyes. A red shovel with a white handle is stuck blade first into the top of its head. On either side of its main body is a smaller mound reminiscent of a stubby arm.
+
+Sandygast is known to inhabit beaches, and is born from grudges that seep into the sand, such as from Pokémon that suffer defeat in battle or the deceased. It can suck the life force of people or Pokémon through its mouth. Apparently, in the Alola region, sticking a hand into Sandygast's mouth is a way of proving one's courage. A person who grabs Sandygast's shovel or puts a hand in its mouth falls under its control. Sandygast uses this power to make children add sand to its body so it can become bigger. Sandygast cares a lot about the shovel on its head. A Sandygast that loses its shovel may replace it with something like a branch or a flag, but it is said to keep searching for its lost shovel.<ref>[http://www.pokemon-sunmoon.com/en-us/pokemon/sandygast/ Pokémon Sun and Moon site | Sandygast]</ref> Sandygast attacks prey by flinging sand into their eyes; however, because Sandygast is very slow, its prey tend to escape before it can approach them.
+
+Sandygast and its evolved form, {{p|Palossand}}, are the [[signature move|only known Pokémon]] capable of learning the move {{m|Shore Up}}. They are also the [[Signature Ability|only known Pokémon]] that can have {{a|Water Compaction}} as an [[Ability]].
+
+===Evolution===
+Sandygast evolves into {{p|Palossand}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Ghost
+|type2=Ground
+|pictype=art
+|no1=0769
+|name1=Sandygast
+|type1-1=Ghost
+|type2-1=Ground
+|evo1=
+|no2=0770
+|name2=Palossand
+|type1-2=Ghost
+|type2-2=Ground}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost|type2=Ground}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=186|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=225|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed.}}
+{{Dex/Entry1|v=Moon|entry=It takes control of anyone who puts a hand in its mouth. And so it adds to the accumulation of its sand-mound body.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=If you build sand mounds when you're playing, destroy them before you go home, or they may get possessed and become Sandygast.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=133|label1=Isle of Armor|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Grudges of the dead have possessed a mound of sand and become a Pokémon. Sandygast is fond of the shovel on its head.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=Sandygast mainly inhabits beaches. It takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=322|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=If it loses its shovel, it will stick something else— like a branch—in its head to make do until it finds another shovel.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It flings sand into the eyes of its prey and tries to close in on them while they're blinded, but since Sandygast is so slow, the prey tends to escape.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{ground color dark}}; background:#{{ghost color}}; font-size:80%; border-radius: 10px"
+|-
+| style="{{roundy|20px}} border:2px solid #{{ground color dark}}; background:#{{ghost color light}}| [[File:Pokédex Image Sandygast SM.png|x200px]]
+|style="border:2px solid #{{ghost color light}}; background:#{{ghost color light}} | [[File:Pokédex Image Sandygast SV.png|x200px]]
+|-
+| Sandygast in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+| Sandygast in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ghost|type2=Ground}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Hano Beach]]}}
+{{Availability/Entry1|v=Ultra Sun|area=[[Hano Beach]]}}
+{{Availability/Entry1|v=Ultra Moon|area=[[Hano Beach]]<br/>{{rt|15|Alola}} ([[List of in-game event Pokémon in Pokémon Ultra Sun and Ultra Moon#Sandygast|One]])}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.2.0+</sup>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Loop Lagoon]]}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Five)|Area Five]]<br>East Province: [[East Province (Area Two)|Area Two]]<br>West Province: [[West Province (Area Two)|Area Two]]<br>West Province: [[Asado Desert]] ({{t|Grass}} {{Tera}} [[Type]])<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Sandygast|2★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ghost|type2=Ground}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mimikyu Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Blushing Beach]]<sup><span style="color:#3A546B;">Night</span></sup>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Pokémon Safari/2015-Feb. 2018#25th release|''Pokémon Safari'']] <small>(25th release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Ghost|type2=Ground}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Items1|Spell Tag|5|rows=2}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Spell Tag|5|availNote=[[Pokémon Sword and Shield Expansion Pass|Expansion Pass]] required,&#32;}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ghost
+|type2=Ground
+|HP=55
+|Attack=55
+|Defense=80
+|SpAtk=70
+|SpDef=45
+|Speed=15}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Ground
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=25
+|Ground=100
+|Rock=50
+|Bug=50
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|ground=yes
+|newelectric=1}}
+
+* Based on its species, Sandygast is also immune to the move {{m|Telekinesis}}.
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Sandygast|Ghost|Ground|7}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level9|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level9|5|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level9|10|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level9|15|Mega Drain|Grass|Special|40|100|15}}
+{{learnlist/level9|20|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|25|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|30|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level9|35|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/level9|40|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level9|45|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level9|50|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|55|Shore Up|Ground|Status|—|—|5}}
+{{learnlist/level9|60|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/levelf/9|Sandygast|Ghost|Ground|7}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Sandygast|Ghost|Ground|7}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM022|Chilling Water|Water|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM029|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM042|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM092|Imprison|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm9|TM098|Skill Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM104|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tm9|TM109|Trick|Psychic|Status|—|100|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM114|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM148|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM178|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM198|Poltergeist|Ghost|Physical|110|90|5||'''}}
+{{learnlist/tm9|TM202|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Sandygast|Ghost|Ground|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Sandygast|Ghost|Ground|7}}
+{{learnlist/breed9|{{MSP/H|0218|Slugma}}{{MSP/H|0219|Magcargo}}{{MSP/H|0422|Shellos}}{{MSP/H|0423|Gastrodon}}|Ancient Power|Rock|Special|60|100|5|grid=8}}
+{{learnlist/breed9|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0353|Shuppet}}{{MSP/H|0354|Banette}}{{MSP/H|0355|Duskull}}{{MSP/H|0356|Dusclops}}{{MSP/H|0477|Duskull}}{{MSP/H|0442|Spiritomb}}{{MSP/H|0607|Litwick}}{{MSP/H|0608|Lampent}}{{MSP/H|0609|Chandelure}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0871|Pincurchin}}|Curse|Ghost|Status|—|—|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0092|Gastly}}{{MSP/H|0093|Haunter}}{{MSP/H|0094|Gengar}}{{MSP/H|0109|Koffing}}{{MSP/H|0110|Weezing}}{{MSP/H|0110-Galar|Weezing}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}{{MSP/H|0477|Duskull}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}|Destiny Bond|Ghost|Status|—|—|5|grid=8}}
+{{learnlist/breed9|{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}|Spit Up|Normal|Special|—|100|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}|Stockpile|Normal|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0316|Gulpin}}{{MSP/H|0317|Swalot}}{{MSP/H|0425|Drifloon}}{{MSP/H|0426|Drifblim}}|Swallow|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breedf/9|Sandygast|Ghost|Ground|7}}
+
+====Special moves====
+{{learnlist/eventh/9|Sandygast|Ghost|Ground|7}}
+{{learnlist/event9|[[Asado Desert|Wild Tera Pokémon]]|Curse|Ghost|Status|—|—|10}}
+{{learnlist/event9|[[Asado Desert|Wild Tera Pokémon]]|Destiny Bond|Ghost|Status|—|—|5}}
+{{learnlist/event9|[[Asado Desert|Wild Tera Pokémon]]|Giga Drain|Grass|Special|75|100|10|<sup>Lv.&nbsp;30</sup>}}
+{{learnlist/eventf/9|Sandygast|Ghost|Ground|7}}
+
+===Side game data===
+{{Spindata/Head|type=Ghost|type2=Ground}}
+{{Spindata/Shuffle|col=6|type=Ghost|ndex=769|stype=Ground|num=779
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Sand Sport
+|skilldesc=Delays your opponent's disruptions even more.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ghost|ndex=769
+|walk=2.92
+|hp=49
+|attack=70
+|defense=51
+|speed=50
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Ghost|ndex=769|pdex=097
+|dex=They say that a mound of sand became possessed by the grudges of the departed, giving birth to Sandygast. Think twice about going near any cute-looking shovels you see sticking out of the sand.}}
+|-
+{{Spindata/GO|col=6|type=Ghost|ndex=0769
+|hatch=N/A
+|buddy=3
+|candy=Sandygast
+|evocandy=50
+|stamina=146
+|attack=120
+|defense=118
+|fast={{m|Astonish}}, {{m|Mud Shot}}, {{m|Sand Attack}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Sand Tomb}}, {{m|Shadow Ball}}, {{m|Earth Power}}, {{m|Scorching Sands}}{{tt|*|From September 1, 2023 onward}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Ghost
+|type2=Ground
+|pictype=art
+|no1=0769
+|name1=Sandygast
+|type1-1=Ghost
+|type2-1=Ground
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 42}}
+|no2=0770
+|name2=Palossand
+|type1-2=Ghost
+|type2-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Ghost|type2=Ground}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=769|crop=90}}
+{{Spritebox/8|ndex=769}}
+<!--{{Spritebox/9|ndex=0769}}-->
+{{Spritebox/HOME|ndex=0769}}
+{{Spritebox/Footer|769|Sandygast}}
+
+==In animation==
+[[File:Sandygast anime.png|thumb|250px|Sandygast in {{aniseries|SM}}]]
+===Major appearances===
+Two Sandygast debuted in ''[[SM022|A Shivering Shovel Search!]]''. In the episode, one evolved into {{p|Palossand}} and the other was shown in a flashback, possessing {{an|Kiawe}}.
+
+A Sandygast appeared in ''[[SM041|Mounting an Electrifying Charge!]]'', where it was used to create obstacles during the [[Charjabug race]] over the desert terrain.
+
+===Minor appearances===
+Three Sandygast appeared at [[Aether Paradise]] in ''[[SM046|Deceiving Appearances!]]''. One of them appeared again in a video in ''[[SM049|Mission: Total Recall!]]''. One of them physically appeared again in ''[[SM096|Don't Ignore the Small Stufful!]]''.
+
+Three Sandygast appeared in ''[[SM110|Keeping Your Eyes on the Ball!]]''.
+
+A Sandygast appeared in ''[[SM112|Got Meltan?]]'', where {{AP|Rowlet}} tried to use it in an attempt to replace a {{AP|Meltan}}'s lost nut head.
+
+A {{pkmn|Trainer}}'s Sandygast appeared in ''[[SM130|Battling Besties!]]''.
+
+A Trainer's Sandygast appeared in ''[[SM141|Exhibition Unmasked!]]''.
+
+A Sandygast appeared in ''[[HZ035|The Wild Pair, Friede and Cap!]]''.
+
+Two Sandygast appeared in ''[[HZ042|Transform! Hero of the Seas, Palafin]]''.
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM022|Sandygast|Rotom Pokédex|Sandygast, the Sand Heap Pokémon. A {{t|Ghost}} and {{t|Ground}} type. Sandygast can control people or Pokémon if they touch its shovel.}}
+{{Animedexfooter/Pokémon|Alola}}
+
+==In the manga==
+[[File:Acerola Sandygast Adventures.png|thumb|170px|Sandygast in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Sandygast debuted in ''[[PASM15|Shipwreck and "Oh, What Sharp Teeth You Have, Bruxish!"]]'', under the ownership of [[Acerola]]. It was used to rescue {{adv|Sun}} and [[Lillie]] after they washed ashore on [[Ula'ula Island]]. It later evolved into {{p|Palossand}}.
+{{-}}
+
+==In the TCG==
+{{main|Sandygast (TCG)}}
+==Trivia==
+* When Sandygast and its Evolution are sent out, they merely fade onto the screen instead of dropping down like most other Pokémon. This trait is shared by {{p|Diglett}}, {{p|Dugtrio}}, {{p|Wiglett}}, and {{p|Wugtrio}}.
+* Sandygast, {{p|Palossand}}, {{p|Diglett}}, {{p|Dugtrio}}, and {{me|Gengar}} are immune to {{m|Telekinesis}}.
+
+===Origin===
+Sandygast resembles a small heap of sand, yet to be shaped into a {{wp|Sand art and play|sand castle}}. Its {{Shiny}} color variation may be based on {{wp|black sand}}.
+
+====Name origin====
+Sandygast may be a combination of ''sandy'' and ''ghast'' (evil spirit).
+
+Sunaba may derive from 砂場 ''sunaba'' (sandbox) or 砂 ''suna'' (sand) and ''bar'' or いないいないばあ ''inai-inai-baa'' ({{wp|peekaboo}}).
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Ground
+|ja=スナバァ ''Sunaba''|jameaning=From {{tt|砂場 ''sunaba''|sandbox}} or {{tt|砂 ''suna''|sand}}, ''bar'', and {{tt|いないいないばあ ''inai-inai-baa''|peekaboo}}
+|fr=Bacabouh|frmeaning=From {{tt|''bac à sable''|sandbox}} and {{tt|''bouh''|boo}}
+|es=Sandygast|esmeaning=Same as English name
+|de=Sankabuh|demeaning=From {{tt|''Sandkasten''|sandbox}} and {{tt|''buh''|boo}}
+|it=Sandygast|itmeaning=Same as English name
+|ko=모래꿍 ''Moraekkung''|komeaning=From {{tt|모래 ''morae''|sand}}, {{tt|까꿍 ''kkakkung''|peekaboo}}, and {{tt|궁 (宮) ''gung''|palace}}
+|zh_cmn=沙丘娃 ''Shāqiūwá''|zh_cmnmeaning=From {{tt|沙丘 ''shāqiū''|sand dune}}, {{tt|娃 ''wá''|child}}, and {{tt|哇 ''wa''|interjection indicating surprise or shock}}
+|zh_yue=沙丘娃 ''Sāyāuwā''|zh_yuemeaning=From {{tt|沙丘 ''sāyāu''|sand dune}}, {{tt|娃 ''wā''|child}}, and {{tt|哇 ''wā''|interjection indicating surprise or shock}}
+|hi=रेताबु ''Retaboo''|himeaning=From {{tt|रेत ''ret''|sand}} and ''boo''
+|ru=Сэндигаст ''Sendigast''|rumeaning=Transcription of English name
+|th=ซึนาบา ''Suenaba''|thmeaning=Transcription of Japanese name
+}}
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Ghost|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=0768|prev=Golisopod|nextnum=0770|next=Palossand}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Lental Photodex]]
+
+[[de:Sankabuh]]
+[[es:Sandygast]]
+[[fr:Bacabouh]]
+[[it:Sandygast]]
+[[ja:スナバァ]]
+[[zh:沙丘娃]]

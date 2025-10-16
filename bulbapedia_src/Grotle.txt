@@ -1,0 +1,525 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Grotle}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0387|prev=Turtwig|nextnum=0389|next=Torterra|round=none}}
+{{PokémonPrevNext/Disambig|species=Grotle}}
+|}
+{{Pokémon Infobox
+|name=Grotle
+|jname=ハヤシガメ
+|tmname=Hayashigame
+|ndex=0388
+|typebox=1
+|type1=Grass
+|category=Grove
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=213.8
+|weight-kg=97.0
+|abilityn=d
+|ability1=Overgrow
+|abilityd=Shell Armor
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=2
+|evat=1
+|evde=1
+|expyield=142
+|oldexp=141
+|lv100exp=1,059,860
+|gendercode=31
+|color=Green
+|catchrate=45
+|body=08
+|pokefordex=grotle
+|generation=4
+|friendship=70
+}}
+'''Grotle''' ([[List of Japanese Pokémon names|Japanese]]: '''ハヤシガメ''' ''Hayashigame'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Turtwig}} starting at [[level]] 18 and evolves into {{p|Torterra}} starting at level 32.
+
+==Biology==
+[[File:Grotle acorn.png|thumb|left|250px|Grotle with acorns]]
+Grotle is a quadrupedal turtle {{OBP|Pokémon|species}} with light green skin and a large shell covering its back. The shell is composed of hardened soil and conforms to the shape of Grotle's body, extending from its forehead to the tip of its short tail. The shell appears sectioned and is yellow with three long, brown ridges atop it. Two bush-like trees are growing around the outermost ridges. Grotle's lower jaw is yellow and has triangular extensions on the cheeks, while its upper jaw has a hooked tip. Its feet are yellow and have three claws each.
+
+Grotle can sense where pure water wells are and will carry other Pokémon on its back to these sources. Each Grotle has a secret place for getting clean spring water. It lives in forests but leaves during the day to allow more sunlight on its trees. Grotle has also been observed living near clean spring water. Berries grow on the trees, attracting some species of Pokémon. The berries it grows are said to be sweet and very delicious. In ''[[DP121|The Lonely Snover!]]'', Grotle is seen to produce acorn-like nuts instead.
+
+===Evolution===
+Grotle evolves from {{p|Turtwig}} and evolves into {{p|Torterra}}
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Grass
+|pictype=art
+|no1=0387
+|name1=Turtwig
+|type1-1=Grass
+|evo1=
+|no2=0388
+|name2=Grotle
+|type1-2=Grass
+|evo2=
+|no3=0389
+|name3=Torterra
+|type1-3=Grass
+|type2-3=Ground}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=002|reg2=Johto}}
+{{Dex/Entry1|v=Diamond|entry=It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.}}
+{{Dex/Entry1|v=Pearl|entry=The shell is hardened soil. Some Pokémon come to peck the berries growing on the trees on its back.}}
+{{Dex/Entry1|v=Platinum|entry=It knows where pure water wells up. It carries fellow Pokémon there on its back.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=A <sc>Grotle</sc> that lives in the forest is said to have its own secret springwater.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It knows where pure water wells up. It carries fellow Pokémon there on its back.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It knows where pure water wells up. It carries fellow Pokémon there on its back.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It knows where pure water wells up. It carries fellow Pokémon there on its back.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It knows where pure water wells up. It carries fellow Pokémon there on its back.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|reg2=Sinnoh|num2=002|reg3=Hisui|num3=131}}
+{{Dex/NE|[[Pokémon Sword and Shield|Sword and Shield]]}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=It lives along water in forests. In the daytime, it leaves the forest to sunbathe the trees on its shell.}}
+{{Dex/Entry1|v=Shining Pearl|entry=Its shell is hardened soil. Some Pokémon come to peck the berries growing on the trees on its back.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Appears where there is clean spring water. The fruit that grows on the shrubs on its shell is sweet, nutritious, and truly delicious.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=192}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Grotle live in the forest. Each is said to have its own secret place for getting clean springwater.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It knows where pure water wells up. It carries fellow Pokémon there on its back.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{grass color dark}}; background:#{{grass color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="border:2px solid #{{grass color dark}}; background:#{{grass color light}}; {{roundy|5px}};" | [[File:Pokédex Image Grotle SV Blueberry.png|x200px]]
+|-
+| Grotle in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Turtwig}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Turtwig}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Evolution|Evolve]] [[List of Pokémon Global Link promotions/Pokémon#Turtwig|Global Link event]] {{p|Turtwig}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Evolution|Evolve]] [[List of Pokémon Global Link promotions/Pokémon#Turtwig|Global Link event]] {{p|Turtwig}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Turtwig}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Ula'ula Meadow]] ({{DL|QR Scanner|Island Scan}}){{dotw|We}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=Unobtainable}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Turtwig}}}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Crimson Mirelands]]:''' near [[Droning Meadow]], massive [[mass outbreak]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Evolution|Evolve]] {{p|Turtwig}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (1F-13F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (1F-13F), {{OBP|Mystery Jungle|Explorers of Time, Darkness, and Sky}} (1F-29F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Vien Forest]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] Advanced Mode C & A}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Canal Ruins]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 2|Mysterious Fountain: Stage 2]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Boundless Prairie|Dark Land: Boundless Prairie]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Garchomp Sea]], [[Arceus Sea]], [[Garchomp Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/NA/Side|gen=VIII}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Zaffiro Coast|Zaffiro Coast: Stage 618]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Evolution]]: {{sync|Dawn|Turtwig}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Grass}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Sitrus Berry|25|Spoiled Apricorn|15|Exp. Candy M|100|Seed of Mastery|20}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=     75
+|Attack= 89
+|Defense=85
+|SpAtk=  55
+|SpDef=  65
+|Speed=  36}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=2
+|SpeedMax=3
+|Power=4
+|PowerMax=4
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  200
+|Ground=   50
+|Rock=    100
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Grotle|Grass|Grass|4}}
+{{learnlist/level9|1|Tackle|Normal|Physical|40|100|35||}}
+{{learnlist/level9|1|Withdraw|Water|Status|—|—|40||}}
+{{learnlist/level9|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level9|13|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level9|17|Curse|Ghost|Status|—|—|10||}}
+{{learnlist/level9|22|Bite|Dark|Physical|60|100|25||}}
+{{learnlist/level9|27|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level9|32|Leech Seed|Grass|Status|—|90|10||}}
+{{learnlist/level9|37|Synthesis|Grass|Status|—|—|5||}}
+{{learnlist/level9|42|Crunch|Dark|Physical|80|100|15||}}
+{{learnlist/level9|47|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level9|52|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/9|Grotle|Grass|Grass|4}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Grotle|Grass|Grass|4}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20||}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||''}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||''}}
+{{learnlist/tm9|TM033|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5||}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM059|Zen Headbutt|Psychic|Physical|80|90|15||}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15||}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30||}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5||}}
+{{learnlist/tm9|TM088|Swords Dance|Normal|Status|—|—|20||}}
+{{learnlist/tm9|TM099|Iron Head|Steel|Physical|80|100|15||}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10||}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15||}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20||}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM121|Heavy Slam|Steel|Physical|—|100|10||}}
+{{learnlist/tm9|TM128|Amnesia|Psychic|Status|—|—|20||}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||''}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10||}}
+{{learnlist/tm9|TM146|Grass Pledge|Grass|Special|80|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10||}}
+{{learnlist/tm9|TM172|Roar|Normal|Status|—|—|20||}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||''}}
+{{learnlist/tm9|TM179|Smack Down|Rock|Physical|50|100|15||}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM204|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/tm9|TM224|Curse|Ghost|Status|—|—|10}}
+{{learnlist/tmf/9|Grotle|Grass|Grass|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Grotle|Grass|Grass|4}}
+{{learnlist/breed9|{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0712|Bergmite}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713-Hisui|Avalugg}}|Double-Edge|Normal|Physical|120|100|15||}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0043|Oddish}}{{MSP/H|0044|Gloom}}{{MSP/H|0045|Vileplume}}{{MSP/H|0182|Bellossom}}{{MSP/H|0069|Bellsprout}}{{MSP/H|0070|Weepinbell}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0285|Shroomish}}{{MSP/H|0286|Breloom}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}{{MSP/H|0357|Tropius}}{{MSP/H|0495|Snivy}}{{MSP/H|0496|Servine}}{{MSP/H|0497|Serperior}}{{MSP/H|0546|Cottonee}}{{MSP/H|0547|Whimsicott}}{{MSP/H|0590|Foongus}}{{MSP/H|0591|Amoonguss}}{{MSP/H|0708|Phantump}}{{MSP/H|0709|Trevenant}}{{MSP/H|0753|Fomantis}}{{MSP/H|0754|Lurantis}}{{MSP/H|0764|Comfey}}{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|1011|Dipplin}}{{MSP/H|1019|Hydrapple}}{{MSP/H|0928|Smoliv}}{{MSP/H|0929|Dolliv}}{{MSP/H|0930|Arboliva}}{{MSP/H|0948|Toedscool}}{{MSP/H|0949|Toedscruel}}{{MSP/H|0951|Capsakid}}{{MSP/H|0952|Scovillain}}|Growth|Normal|Status|—|—|20||}}
+{{learnlist/breed9|{{MSP/H|0007|Squirtle}}{{MSP/H|0008|Wartortle}}{{MSP/H|0009|Blastoise}}|Shell Smash|Normal|Status|—|—|15}}
+{{learnlist/breed9|{{MSP/H|0071|Victreebel}}|Spit Up|Normal|Special|—|100|10||}}
+{{learnlist/breed9|{{MSP/H|0071|Victreebel}}{{MSP/H|0143|Snorlax}}|Stockpile|Normal|Status|—|—|20||}}
+{{learnlist/breed9|{{MSP/H|0158|Totodile}}{{MSP/H|0159|Croconaw}}{{MSP/H|0160|Feraligatr}}|Superpower|Fighting|Physical|120|100|5||}}
+{{learnlist/breed9|{{MSP/H|0071|Victreebel}}{{MSP/H|0143|Snorlax}}|Swallow|Normal|Status|—|—|10||}}
+{{learnlist/breed9|{{MSP/H|0158|Totodile}}{{MSP/H|0159|Croconaw}}{{MSP/H|0160|Feraligatr}}{{MSP/H|0246|Larvitar}}{{MSP/H|0247|Pupitar}}{{MSP/H|0248|Tyranitar}}|Thrash|Normal|Physical|120|100|10||}}
+{{learnlist/breed9|{{MSP/H|0270|Lotad}}|Tickle|Normal|Status|—|100|20|*|}}
+{{learnlist/breed9|{{MSP/H|0357|Tropius}}{{MSP/H|0411|Bastiodon}}{{MSP/H|0713|Avalugg}}{{MSP/H|0713-Hisui|Avalugg}}|Wide Guard|Rock|Status|—|—|10||}}
+{{learnlist/breed9|{{MSP/H|0001|Bulbasaur}}{{MSP/H|0002|Ivysaur}}{{MSP/H|0003|Venusaur}}{{MSP/H|0102|Exeggcute}}{{MSP/H|0103|Exeggutor}}{{MSP/H|0103-Alola|Exeggutor}}{{MSP/H|0191|Sunkern}}{{MSP/H|0192|Sunflora}}{{MSP/H|0286|Breloom}}{{MSP/H|0906|Sprigatito}}{{MSP/H|0907|Floragato}}{{MSP/H|0908|Meowscarada}}{{MSP/H|0952|Scovillain}}|Worry Seed|Grass|Status|—|100|10||}}
+{{learnlist/breedf/9|Grotle|Grass|Grass|4}}
+
+====By a prior [[Evolution]]====
+{{Learnlist/prevoh/9|Grotle|Grass|Grass|4}}
+{{Learnlist/prevo8null}}
+{{Learnlist/prevof/9|Grotle|Grass|Grass|4}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/MDTDS|col=6|type=Grass|ndex=388
+|body=1
+|rate=-10
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Grass|ndex=388
+|coset=3
+|conto={{p|Camerupt}}, {{p|Conkeldurr}}
+|recruitment=Escort to open the locked door at [[Abundant Pass]]
+|P1=I'd rather live quietly in the forest. I prefer having a lake nearby.
+|P2=The trees on my shell are wilting…
+|protag=1
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Tackle
+|fieldpower=2
+|num=053
+|browser=It attacks by {{m|Razor Leaf|launching leaves}} like daggers.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Tackle
+|fieldpower=3
+|num=140
+|pastnum=040
+|browser=It creates vines around itself that make Pokémon Slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Grass|ndex=388
+|walk=1.25
+|hp=54
+|attack=75
+|defense=54
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=388
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=388|num=357
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Shot Out
+|skilldesc=Erases two non-Support Pokémon and increases damage.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=388
+|hatch=N/A
+|buddy=3
+|evocandy=100
+|candy=Turtwig
+|stamina=181
+|attack=157
+|defense=143
+|fast={{m|Bite}}, {{m|Razor Leaf}}
+|special={{m|Energy Ball}}, {{m|Solar Beam}}, {{m|Body Slam}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Grass
+|pictype=art
+|no1=0387
+|name1=Turtwig
+|type1-1=Grass
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 18}}
+|no2=0388
+|name2=Grotle
+|type1-2=Grass
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 32}}
+|no3=0389
+|name3=Torterra
+|type1-3=Grass
+|type2-3=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=388}}
+{{Spritebox/5|ndex=388}}
+{{Spritebox/6|ndex=388|crop=81}}
+{{Spritebox/7|ndex=388|crop=77}}
+{{Spritebox/8/LA|ndex=388|LAcrop=143}}
+<!--{{Spritebox/9|ndex=0388}}-->
+{{Spritebox/HOME|ndex=0388}}
+{{Spritebox/Footer|0388|Grotle}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{grass color dark}}; background: #{{grass color}};"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{grass color dark}}; background: #{{grass color light}}; width:160px"| [[File:Spr 4p Grotle intro.png]]
+|-
+| Platinum intro's sprite
+|}
+
+==In animation==
+[[File:Ash Grotle.png|thumb|250px|Grotle in {{aniseries|DP}}]]
+===Major appearances===
+====[[Ash's Grotle]]====
+{{Ash}}'s Turtwig evolved into a Grotle in ''[[DP100|Aiding the Enemy!]]'', which also marked the species' debut. In ''[[DP166|The Fleeing Tower of Sunyshore!]]'', Grotle evolved into a Torterra.
+
+===Minor appearances===
+A Grotle appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Grotle appeared in ''[[JN058|Eyes on the Goal!]]'', under the ownership of the [[Shell Sage]].
+
+A Student's Grotle appeared in [[HZ091]].
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP100|Grotle|Ash's Pokédex|Grotle, the Grove Pokémon and the evolved form of {{p|Turtwig}}. Grotle lives near water in forests, and leaves the forest during the {{DL|Time|day}} to {{m|Synthesis|allow light to shine}} on the tree on its shell.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+
+==In the manga==
+[[File:Tru Grotle.png|thumb|220px|Grotle in [[Pokémon Adventures]]]]
+===Pocket Monsters Diamond & Pearl===
+{{main|Ash's Grotle}}
+{{Ash}}'s Grotle first appeared in [[PDP29]], where it evolved from a Turtwig.
+
+===Pokémon Adventures===
+{{main|Tru}}
+In ''[[PS346|Ring Around the Roserade I]]'', {{adv|Diamond}}'s Turtwig, Tru, evolved into a Grotle. He became stronger and (slightly) faster in this new form, but was scarcely used for battles, as he would have been ineffective against [[Gardenia]]'s {{type|Grass}} Pokémon, though he still helped {{adv|Platinum}} train for future Gym battles. Soon afterwards, Grotle became a {{p|Torterra}} alongside [[Chimler]] in [[Veilstone City]] fighting a legion of {{tc|Team Galactic Grunt}}s, and his power and endurance grew tremendously.
+
+===Pokémon Diamond and Pearl Adventure!===
+{{OBP|Jun|DPA}}'s Turtwig evolved into a Grotle off-screen and later into Torterra.
+
+==In the TCG==
+{{main|Grotle (TCG)}}
+
+==Trivia==
+* Grotle is the [[List of Pokémon by weight|heaviest]] of the second-stage [[first partner Pokémon]], at 213.8&nbsp;lbs. (97.0&nbsp;kg), being heavier than many other fully evolved first partner Pokémon.
+* Grotle is the only second-stage [[Sinnoh]] first partner Pokémon to [[Evolution|evolve]] at [[level]] 32. {{p|Monferno}} and {{p|Prinplup}} both evolve at level 36.
+* When Grotle evolves into {{p|Torterra}}, all of its stats increase by 20 points.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Turtwig, Grotle and Torterra}}
+Grotle seems to be based on a {{wp|Chelydridae|snapping turtle}}, but it may also originate from a {{wp|World Turtle}}, most likely Akūpāra. It also shares characteristics with armored {{wp|Ankylosauria|Ankylosaurs}}.
+
+====Name origin====
+Grotle may be a combination of ''{{wp|grove (nature)|grove}}'', ''grow'', and ''{{wp|turtle}}''.
+
+Hayashigame may be a combination of 林 ''hayashi'' (grove) and 亀 ''kame'' (turtle).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=ハヤシガメ ''Hayashigame''|jameaning=From {{tt|林 ''hayashi''|grove}} and {{tt|亀 ''kame''|turtle}}
+|fr=Boskara|frmeaning=From ''{{tt|bosquet|forest}}'' and ''{{tt|carapace|shell}}''
+|es=Grotle|esmeaning=Same as English name
+|de=Chelcarain|demeaning=From the genus ''{{wp|Chelonia}}'', ''{{tt|Carapax|carapace}}'', and ''{{tt|Hain|grove}}''
+|it=Grotle|itmeaning=Same as English name
+|ko=수풀부기 ''Supulbugi''|komeaning=From {{tt|수풀 ''supul''|bushes}} and {{tt|거북이 ''geobugi''|turtle}}
+|zh_cmn=樹林龜 / 树林龟 ''Shùlínguī''|zh_cmnmeaning=From {{tt|樹林 / 树林 ''shùlín''|grove}} and {{tt|龜 / 龟 ''guī''|turtle}}
+|zh_yue=樹林龜 ''Syuhlàhmgwāi''|zh_yuemeaning=From {{tt|樹林 ''syuhlàhm''|grove}} and {{tt|龜 ''gwāi''|turtle}}
+|hi= जंगलटल ''Jungletle'' |himeaning=From ''jungle'' and ''turtle''
+|th=ฮายาชิกาเมะ ''Hayachikame''|thmeaning=Transcription of Japanese name
+}}
+{{left clear}}
+
+==See also==
+* [[Ash's Torterra|Ash's Grotle]]
+* [[Tru]]
+* [[Paul's Torterra|Paul's Grotle]]
+* [[First partner Pokémon]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=0387|prev=Turtwig|nextnum=0389|next=Torterra}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Chelcarain]]
+[[es:Grotle]]
+[[fr:Boskara]]
+[[it:Grotle]]
+[[ja:ハヤシガメ]]
+[[zh:树林龟]]

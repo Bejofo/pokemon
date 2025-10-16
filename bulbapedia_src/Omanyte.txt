@@ -1,0 +1,692 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Water}}
+{{PokémonPrevNext/GO|species=Omanyte}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0137|prev=Porygon|nextnum=0139|next=Omastar|round=none}}
+{{PokémonPrevNext/Disambig|species=Omanyte}}
+|}
+{{Pokémon Infobox
+|name=Omanyte
+|jname=オムナイト
+|jtranslit=Omunaito
+|tmname=Omnite
+|ndex=0138
+|typebox=1
+|type1=Rock
+|type2=Water
+|category=Spiral
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=16.5
+|weight-kg=7.5
+|abilityn=d
+|ability1=Swift Swim
+|ability2=Shell Armor
+|abilityd=Weak Armor
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Water 3
+|eggcycles=30
+|evtotal=1
+|evde=1
+|expyield=71
+|g4exp=99
+|oldexp=120
+|lv100exp=1,000,000
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=10
+|pokefordex=omanyte
+|generation=1
+|friendship=70
+}}
+'''Omanyte''' ([[List of Japanese Pokémon names|Japanese]]: '''オムナイト''' ''Omnite'') is a dual-type {{2t|Rock|Water}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It is revived from a [[Helix Fossil]] and [[Evolution|evolves]] into {{p|Omastar}} starting at [[level]] 40.
+
+==Biology==
+[[File:Omanyte Omastar Withdraw.png|thumb|left|220px|Omanyte and Omastar hiding in their shells]]
+Omanyte is a small extinct {{wp|cephalopod}} {{wp|mollusk}} {{OBP|Pokémon|species}} similar to an {{wp|Ammonoidea|ammonite}} or {{wp|nautilus}}. It has a sky blue body with ten tentacles and a pale yellow, helix-spiraled shell on its back. The shell's rim has two circular indents where Omanyte's large saucer-like eyes protrude. If attacked or threatened, it quickly withdraws into its hard shell.
+
+Omanyte is considered extinct, although it can be revived from [[Fossil]]s. Its fossils have been excavated in areas that were once {{DL|List of Pokémon by habitat|oceans}} long ago. Omanyte regulated its buoyancy by storing and releasing air within its shell and controlled direction by twisting its tentacles. While Omanyte fed on {{wp|plankton}}, it was preyed on by {{p|Archeops}} and {{p|Carracosta}}. Omanyte can now be found in the wild due to being released by people or escaping after being restored to life, causing this species to become a problem.
+
+===Evolution===
+Omanyte evolves into {{p|Omastar}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Rock
+|type2=Water
+|no1=0138
+|name1=Omanyte
+|type1-1=Rock
+|type2-1=Water
+|evo1=
+|no2=0139
+|name2=Omastar
+|type1-2=Rock
+|type2-2=Water}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Water}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=138}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Although long extinct, in rare cases, it can be genetically resurrected from fossils.}}
+{{Dex/Entry1|v=Yellow|entry=An ancient {{ScPkmn}} that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=A prehistoric and long-extinct Pokémon that was resurrected from a fossil. Swims by twisting its 10 tentacles about.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=220}}
+{{Dex/Entry1|v=Gold|entry=Revived from an ancient fossil, this {{ScPkmn}} uses air stored in its shell to sink and rise in water.}}
+{{Dex/Entry1|v=Silver|entry=This {{ScPkmn}} from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles.}}
+{{Dex/Entry1|v=Crystal|entry=In prehistoric times, it swam on the sea floor, eating plankton. Its fossils are sometimes found.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Revived from an ancient fossil, this {{ScPkmn}} uses air stored in its shell to sink and rise in water. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>This {{ScPkmn}} from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|reg2=Kanto|num2=138}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=<sc>Omanyte</sc> is one of the ancient and long-since-extinct {{ScPkmn}} that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=One of the ancient and long-since-extinct {{ScPkmn}} that have been regenerated from fossils by humans. If attacked, it withdraws into its hard shell.}}
+{{Dex/Entry1|v=FireRed|entry=A prehistoric {{ScPkmn}} that lived in the primordial sea, it swims by twisting its 10 tentacles about.}}
+{{Dex/Entry1|v=LeafGreen|entry=Although long extinct, in rare cases, it can be genetically regenerated from fossils.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto|num2=225}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.}}
+{{Dex/Entry1|v=HeartGold|entry=Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.}}
+{{Dex/Entry1|v=SoulSilver|entry=This Pokémon from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|reg2=Hoenn}}
+{{Dex/Entry1|v=X|t=FFF|entry=A prehistoric Pokémon that lived in the primordial sea, it swims by twisting its 10 tentacles about.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|num1=227|label1={{gameIcon|US}}{{gameIcon|UM}}:|reg2=Kanto|num2=138}}
+{{Dex/NE|[[Pokémon Sun and Moon|Sun and Moon]]}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Omanyte lived in the seas of antiquity. Its fossils have been found bearing bite marks from Archeops, so apparently Archeops preyed on it.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=It was restored from an ancient fossil. Those Helix Fossils are excavated from areas that were once oceans long, long ago.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|label1=Crown Tundra|num1=123|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it's just drifting along.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It's a Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{water color dark}}; background:#{{rock color}}; font-size:80%; border-radius: 10px"
+|-
+|style="{{roundy|20px}} border:2px solid #{{water color dark}}; background:#{{rock color light}}| [[File:Pokédex Image Omanyte USUM.png|x200px]]
+|-
+| Omanyte in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=Revive from [[Helix Fossil]] at the [[Cinnabar Lab|Pokémon Lab]] on [[Cinnabar Island]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=Revive from [[Helix Fossil]] at the [[Cinnabar Lab|Pokémon Lab]] on [[Cinnabar Island]]}}
+{{Availability/Entry1|v=Yellow|area=Revive from [[Helix Fossil]] at the [[Cinnabar Lab|Pokémon Lab]] on [[Cinnabar Island]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2/None|v=Gold|v2=Silver|area=[[Time Capsule]], [[#In events|Event]]}}
+{{Availability/Entry1/None|v=Crystal|area=[[Time Capsule]], [[#In events|Event]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=Revive from [[Helix Fossil]] at the [[Cinnabar Lab|Pokémon Lab]] on [[Cinnabar Island]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=Revive from [[Helix Fossil]] at the [[Oreburgh Mining Museum]] in [[Oreburgh City]]}}
+{{Availability/Entry1|v=Platinum|area=Revive from [[Helix Fossil]] at the [[Oreburgh Mining Museum]] in [[Oreburgh City]]}}
+{{Availability/Entry1|v=HeartGold|area=Revive from [[Helix Fossil]] at the [[Pewter Museum of Science]] in [[Pewter City]]}}
+{{Availability/Entry1/None|v=SoulSilver|area=[[Trade]]<br>Receive [[Helix Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=Revive from [[Helix Fossil]] at the {{DL|Nacrene City|Nacrene Museum}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=Revive from [[Helix Fossil]] at the {{DL|Nacrene City|Nacrene Museum}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{Dwa|Sparkling Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1/None|1|v=X|area=[[Trade]]<br>Receive [[Helix Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it}}
+{{Availability/Entry1|1|v=Y|t=FFF|area=Revive from [[Helix Fossil]] at the [[Ambrette Town]] {{DL|Ambrette Town|Fossil Lab}}}}
+{{Availability/Entry1/None|1|v=Omega Ruby|area=[[Trade]]<br>Receive [[Helix Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it}}
+{{Availability/Entry1|1|v=Alpha Sapphire|t=fff|area=Revive from [[Helix Fossil]] at the [[Devon Corporation]] in [[Rustboro City]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]<br/>Receive [[Helix Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=Revive from [[Helix Fossil]] at the [[Fossil Restoration Center]] on {{rt|8|Alola}}}}
+{{Availability/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Revive from [[Helix Fossil]] at the [[Cinnabar Lab]] on [[Cinnabar Island]]}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2/None|v=Sword|v2=Shield|area=[[Trade]]<sup>Version 1.3.0+</sup>}}
+{{Availability/Entry1|v=Sword Expansion Pass|color={{sword color dark}}|t=fff|link=Pokémon Sword and Shield Expansion Pass|area=[[Giant's Foot]], [[Roaring-Sea Caves]] ({{m|Surf}}ing)<br>[[Giant's Bed/Dens|Giant's Bed]], [[Snowslide Slope/Dens|Snowslide Slope]], [[Giant's Foot/Dens|Giant's Foot]], [[Ballimere Lake/Dens|Ballimere Lake]], [[Frigid Sea/Dens|Frigid Sea]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=Revive from [[Helix Fossil]] at the [[Oreburgh Mining Museum]] in [[Oreburgh City]]}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Red Field]]: [[Cinnabar Island]]}}
+{{Availability/Entry1|1|v=Stadium|link=Pokémon Stadium|color=000|t=FFF|area=[[Gym Leader Castle]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 9]], Endless Level 9, Forever Level 9, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Stormy Sea]] (1F-9F), [[Silver Trench]] (1F-9F), [[Far-off Sea]] (1F-9F), [[Marvelous Sea]] (B1-B9), [[Fantasy Strait]] (B1-B9)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Brine Cave]] (B1F-B7F), [[Final Maze]] (B1F-B48F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Brine Cave]] (B1-B7), [[Final Maze]] (B1-B48)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Sea of Wailord]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]] <small>(Normal Mode A)</small>}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Entranceway#A Fateful Showdown!|Entranceway: A Fateful Showdown!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 1|Safari Jungle: Stage 1]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Vast Ocean|Distortion Land: Vast Ocean]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Jirachi Sea]], [[Bulbasaur Sea]], [[Arceus Sea]], [[Jirachi Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Stormy Sea]] (1F-9F), [[Silver Trench]] (1F-9F), [[Far-Off Sea]] (1F-9F)<br/>Fainted Pokémon: [[Pitfall Valley]], [[Southern Cavern]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 336]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=[[Egg event]] (''{{DL|Egg event|Rock- and Ground-Type Egg Event}}, {{DL|Egg event|Rock- and Ice-Type Egg Event}}''): {{sync/player|egg|Omanyte}}<br>[[Story event]] (''[[Pasio Eggsplorers]]''): {{sync/player|egg|Omanyte}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Rock|type2=Water}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Rock Throw Omanyte|English|United States|5|February 21 to 27, 2003|link=List of PCNY event Pokémon distributions in Generation II#Rock Throw Omanyte}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Adventure Camp Omanyte|Japanese|Japan|15|July 21, 2012 to September 30, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Omanyte}}
+|}
+
+=====In-game events=====
+{{eventAvail/h|type=Rock|type2=Water|lochide=yes}}
+{{eventAvail|{{gameabbrev1|RGBY}}|Gym Leader Castle Omanyte|Japanese|hide|20|April 30, 1999 onwards|link=List of game-based Pokémon distributions in Generation I#Omanyte 2}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Omanyte|English|hide|20|February 29, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Omanyte}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Omanyte|French|hide|20|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Omanyte}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Omanyte|German|hide|20|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Omanyte}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Omanyte|Italian|hide|20|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Omanyte}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Omanyte|Spanish|hide|20|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Omanyte}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Rock|type2=Water
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+|stad1=Normal Box|stad1type=None|stad1image=no|stad1rar=100
+|stad2=Gorgeous Box|stad2type=None|stad2image=no|stad2rar=100
+|event1=Rindo Berry|event1type=Berry|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|type=Rock
+|type2=Water
+|HP=      35
+|Attack=  40
+|Defense=100
+|SpAtk=   90
+|SpDef=   55
+|Special= 90
+|Speed=   35}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|type2=Water
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Water
+|Normal=   50
+|Flying=   50
+|Fighting=200
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Poison=   50
+|Ghost=   100
+|Steel=   100
+|Fire=     25
+|Water=   100
+|Grass=   400
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=100}}
+
+===Learnset===
+Omanyte is available in {{pkmn|Sword and Shield}} Version 1.3.0+ and {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Omanyte|Rock|Water|1}}
+{{learnlist/level8|1|Bind|Normal|Physical|15|85|20}}
+{{learnlist/level8|1|Withdraw|Water|Status|—|—|40}}
+{{learnlist/level8|5|Rollout|Rock|Physical|30|90|20||'''}}
+{{learnlist/level8|10|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level8|15|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level8|20|Leer|Normal|Status|—|100|30}}
+{{learnlist/level8|25|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/level8|30|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level8|35|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level8|41|Protect|Normal|Status|—|—|10}}
+{{learnlist/level8|45|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level8|50|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/level8|55|Shell Smash|Normal|Status|—|—|15}}
+{{learnlist/level8|60|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/8|Omanyte|Rock|Water|1}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Omanyte|Rock|Water|1}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM22|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM27|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM33|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm8|TM35|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm8|TM36|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM45|Dive|Water|Physical|80|100|10||'''}}
+{{learnlist/tm8|TM48|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm8|TM53|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/tm8|TM54|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tr|TR01|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tr|TR03|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/tr|TR04|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tr|TR05|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tr|TR06|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tr|TR16|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR23|Spikes|Ground|Status|—|—|20}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR45|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/tr|TR46|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/tr|TR52|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tr|TR54|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tr|TR67|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/tr|TR76|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tr|TR84|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tmf/8|Omanyte|Rock|Water|1}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Omanyte|Rock|Water|1}}
+{{learnlist/tm8|TM03|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/tm8|TM07|Hail|Ice|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM13|Ice Beam|Ice|Special|90|100|10||}}
+{{learnlist/tm8|TM14|Blizzard|Ice|Special|110|70|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tm8|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM45|Attract|Normal|Status|&mdash;|100|15||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM49|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm8|TM55|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20||}}
+{{learnlist/tm8|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5||}}
+{{learnlist/tm8|TM76|Stealth Rock|Rock|Status|&mdash;|&mdash;|20||}}
+{{learnlist/tm8|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|&mdash;|85|15||}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM95|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm8|TM98|Rock Smash|Fighting|Physical|40|100|15||}}
+{{learnlist/tm8|TM99|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tmf/8|Omanyte|Rock|Water|1}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Omanyte|Rock|Water|2}}
+{{learnlist/breed8|{{MSP/8c|090|Shellder}}{{MSP/8c|091|Cloyster}}{{MSP/8c|223|Remoraid}}{{MSP/8c|224|Octillery}}{{MSP/8c|363|Spheal}}{{MSP/8c|364|Sealeo}}{{MSP/8c|365|Walrein}}|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/breed8|{{MSP/8c|007|Squirtle}}{{MSP/8c|008|Wartortle}}{{MSP/8c|009|Blastoise}}{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}{{MSP/8c|564|Tirtouga}}{{MSP/8c|565|Carracosta}}{{MSP/8c|747|Mareanie}}{{MSP/8c|748|Toxapex}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|833|Chewtle}}{{MSP/8c|834|Drednaw}}|Bite|Dark|Physical|60|100|25}}
+{{learnlist/breed8|{{MSP/8c|060|Poliwag}}{{MSP/8c|061|Poliwhirl}}{{MSP/8c|062|Poliwrath}}{{MSP/8c|186|Politoed}}{{MSP/8c|072|Tentacool}}{{MSP/8c|073|Tentacruel}}{{MSP/8c|098|Krabby}}{{MSP/8c|099|Kingler}}{{MSP/8c|116|Horsea}}{{MSP/8c|117|Seadra}}{{MSP/8c|230|Kingdra}}{{MSP/8c|183|Marill}}{{MSP/8c|184|Azumarill}}{{MSP/8c|222|Corsola}}{{MSP/8c|223|Remoraid}}{{MSP/8c|224|Octillery}}{{MSP/8c|226|Mantine}}{{MSP/8c|270|Lotad}}{{MSP/8c|271|Lombre}}{{MSP/8c|272|Ludicolo}}{{MSP/8c|341|Corphish}}{{MSP/8c|342|Crawdaunt}}{{MSP/8c|535|Tympole}}{{MSP/8c|536|Palpitoad}}{{MSP/8c|537|Seismitoad}}{{MSP/8c|728|Popplio}}{{MSP/8c|729|Brionne}}{{MSP/8c|730|Primarina}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|871|Pincurchin}}|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/breed8|{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}|Haze|Ice|Status|—|—|30}}
+{{learnlist/breed8|{{MSP/8c|271|Lombre}}{{MSP/8c|272|Ludicolo}}{{MSP/8c|341|Corphish}}{{MSP/8c|342|Crawdaunt}}{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed8|{{MSP/8c|073|Tentacruel}}|Reflect Type|Normal|Status|—|—|15}}
+{{learnlist/breed8|{{MSP/8c|098|Krabby}}{{MSP/8c|099|Kingler}}{{MSP/8c|147|Dratini}}{{MSP/8c|148|Dragonair}}{{MSP/8c|149|Dragonite}}{{MSP/8c|183|Marill}}{{MSP/8c|184|Azumarill}}{{MSP/8c|194|Wooper}}{{MSP/8c|195|Quagsire}}|Slam|Normal|Physical|80|75|20}}
+{{learnlist/breed8|{{MSP/8c|072|Tentacool}}{{MSP/8c|073|Tentacruel}}{{MSP/8c|090|Shellder}}{{MSP/8c|091|Cloyster}}{{MSP/8c|226|Mantine}}{{MSP/8c|258|Mudkip}}{{MSP/8c|259|Marshtomp}}{{MSP/8c|260|Swampert}}{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|535|Tympole}}{{MSP/8c|536|Palpitoad}}{{MSP/8c|537|Seismitoad}}|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/breed8|{{MSP/8c|270|Lotad}}{{MSP/8c|271|Lombre}}{{MSP/8c|272|Ludicolo}}|Tickle|Normal|Status|—|100|20|*}}
+{{learnlist/breed8|{{MSP/8c|007|Squirtle}}{{MSP/8c|008|Wartortle}}{{MSP/8c|009|Blastoise}}{{MSP/8c|054|Psyduck}}{{MSP/8c|055|Golduck}}{{MSP/8c|072|Tentacool}}{{MSP/8c|073|Tentacruel}}{{MSP/8c|079|Slowpoke}}{{MSP/8c|079G|Slowpoke}}{{MSP/8c|080|Slowbro}}{{MSP/8c|080G|Slowbro}}{{MSP/8c|199|Slowking}}{{MSP/8c|199G|Slowking}}{{MSP/8c|131|Lapras}}{{MSP/8c|223|Remoraid}}{{MSP/8c|224|Octillery}}{{MSP/8c|226|Mantine}}{{MSP/8c|258|Mudkip}}{{MSP/8c|259|Marshtomp}}{{MSP/8c|260|Swampert}}{{MSP/8c|278|Wingull}}{{MSP/8c|279|Pelipper}}{{MSP/8c|350|Milotic}}{{MSP/8c|422|Shellos}}{{MSP/8c|423|Gastrodon}}{{MSP/8c|690|Skrelp}}{{MSP/8c|691|Dragalge}}{{MSP/8c|692|Clauncher}}{{MSP/8c|693|Clawitzer}}{{MSP/8c|816|Sobble}}{{MSP/8c|817|Drizzile}}{{MSP/8c|818|Inteleon}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breedf/8|Omanyte|Rock|Water|2}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Omanyte|Rock|Water|2}}
+{{learnlist/breed8|{{MSP/H|0086|Seel}}{{MSP/H|0087|Dewgong}}{{MSP/H|0090|Shellder}}{{MSP/H|0091|Cloyster}}{{MSP/H|0223|Remoraid}}{{MSP/H|0224|Octillery}}{{MSP/H|0363|Spheal}}{{MSP/H|0364|Sealeo}}{{MSP/H|0365|Walrein}}|Aurora Beam|Ice|Special|65|100|20||}}
+{{learnlist/breed8|{{MSP/H|0007|Squirtle}}{{MSP/H|0008|Wartortle}}{{MSP/H|0009|Blastoise}}{{MSP/H|0158|Totodile}}{{MSP/H|0159|Croconaw}}{{MSP/H|0160|Feraligatr}}{{MSP/H|0367|Huntail}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}|Bite|Dark|Physical|60|100|25||}}
+{{learnlist/breed8|{{MSP/H|0060|Poliwag}}{{MSP/H|0061|Poliwhirl}}{{MSP/H|0062|Poliwrath}}{{MSP/H|0186|Politoed}}{{MSP/H|0072|Tentacool}}{{MSP/H|0073|Tentacruel}}{{MSP/H|0098|Krabby}}{{MSP/H|0099|Kingler}}{{MSP/H|0116|Horsea}}{{MSP/H|0117|Seadra}}{{MSP/H|0230|Kingdra}}{{MSP/H|0183|Marill}}{{MSP/H|0184|Azumarill}}{{MSP/H|0222|Corsola}}{{MSP/H|0223|Remoraid}}{{MSP/H|0224|Octillery}}{{MSP/H|0226|Mantine}}{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0283|Surskit}}{{MSP/H|0284|Masquerain}}{{MSP/H|0341|Corphish}}{{MSP/H|0342|Crawdaunt}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/breed8|{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0283|Surskit}}{{MSP/H|0284|Masquerain}}|Haze|Ice|Status|&mdash;|&mdash;|30||}}
+{{learnlist/breed8|{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}{{MSP/H|0341|Corphish}}{{MSP/H|0342|Crawdaunt}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}|Knock Off|Dark|Physical|65|100|20||}}
+{{learnlist/breed8|{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0422|Shellos}}{{MSP/H|0423|Gastrodon}}|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/breed8|{{MSP/H|0073|Tentacruel}}|Reflect Type|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/breed8|{{MSP/H|0098|Krabby}}{{MSP/H|0099|Kingler}}{{MSP/H|0147|Dratini}}{{MSP/H|0148|Dragonair}}{{MSP/H|0149|Dragonite}}{{MSP/H|0194|Wooper}}{{MSP/H|0195|Quagsire}}|Slam|Normal|Physical|80|75|20||}}
+{{learnlist/breed8|{{MSP/H|0091|Cloyster}}|Spikes|Ground|Status|&mdash;|&mdash;|20||}}
+{{learnlist/breed8|{{MSP/H|0072|Tentacool}}{{MSP/H|0073|Tentacruel}}{{MSP/H|0090|Shellder}}{{MSP/H|0091|Cloyster}}{{MSP/H|0226|Mantine}}{{MSP/H|0258|Mudkip}}{{MSP/H|0259|Marshtomp}}{{MSP/H|0260|Swampert}}{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}|Supersonic|Normal|Status|&mdash;|55|20||}}
+{{learnlist/breed8|{{MSP/H|0270|Lotad}}{{MSP/H|0271|Lombre}}{{MSP/H|0272|Ludicolo}}|Tickle|Normal|Status|&mdash;|100|20|*|}}
+{{learnlist/breed8|{{MSP/H|0072|Tentacool}}{{MSP/H|0073|Tentacruel}}{{MSP/H|0091|Cloyster}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}|Toxic Spikes|Poison|Status|&mdash;|&mdash;|20||}}
+{{learnlist/breed8|{{MSP/H|0090|Shellder}}{{MSP/H|0091|Cloyster}}{{MSP/H|0230|Kingdra}}{{MSP/H|0366|Clamperl}}{{MSP/H|0367|Huntail}}{{MSP/H|0368|Gorebyss}}{{MSP/H|0393|Piplup}}{{MSP/H|0394|Prinplup}}{{MSP/H|0395|Empoleon}}{{MSP/H|0418|Buizel}}{{MSP/H|0419|Floatzel}}|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/breedf/8|Omanyte|Rock|Water|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Omanyte|Rock|Water|2}}
+{{learnlist/tutor8|Meteor Beam|Rock|Special|120|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Omanyte|Rock|Water|2}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Omanyte|Rock|Water|1}}
+{{learnlist/prevgen8|Omanyte|1|Bide|Normal|Physical|—|—|10|I=yes<!--TM-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Omanyte|1|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Omanyte|1|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Constrict|Normal|Physical|10|100|35|II=yes<!--level-->|III=yes<!--level-->|IV=yes<!--level-->|V=yes<!--level-->|VI=yes<!--level-->|VII=yes<!--level,level-->|x=yes}}
+{{learnlist/prevgen8|Omanyte|1|Curse|Ghost|Status|—|—|10|II=yes<!--TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Double Team|Normal|Status|—|—|15|I=yes<!--TM-->|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Double-Edge|Normal|Physical|120|100|15|I=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Omanyte|1|Frustration|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Omanyte|1|Headbutt|Normal|Physical|70|100|15|II=yes<!--TM-->|IV=yes<!--tutor-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Hidden Power|Normal|Special|60|100|15|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Omanyte|1|Horn Attack|Normal|Physical|65|100|25|I=yes<!--level-->}}
+{{learnlist/prevgen8|Omanyte|1|Mimic|Normal|Status|—|—|10|I=yes<!--TM-->|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Omanyte|1|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Omanyte|1|Rage|Normal|Physical|20|100|20|I=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Omanyte|1|Reflect|Psychic|Status|—|—|20|I=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Return|Normal|Physical|—|100|20|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Omanyte|1|Rock Polish|Rock|Status|—|—|20|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Rock Smash|Fighting|Physical|40|100|15|II=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Rock Throw|Rock|Physical|50|90|15||'''|VII=yes<!--level-->}}
+{{learnlist/prevgen8|Omanyte|1|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Omanyte|1|Smack Down|Rock|Physical|50|100|15||'''|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Spike Cannon|Normal|Physical|20|100|15|I=yes<!--level-->|x=yes}}
+{{learnlist/prevgen8|Omanyte|1|Swagger|Normal|Status|—|85|15|II=yes<!--TM-->|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Take Down|Normal|Physical|90|85|20|I=yes<!--TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Toxic|Poison|Status|—|90|10|I=yes<!--TM-->|II=yes<!--TM-->|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM,TM-->}}
+{{learnlist/prevgen8|Omanyte|1|Wring Out|Normal|Special|—|100|5|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgenf/8|Omanyte|Rock|Water|1}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Water}}
+{{Spindata/Pinball|col=3|type=Rock|ndex=138|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Rock|ndex=138|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Rock|ndex=138
+|body=1
+|rate=8
+|area=Deep-Sea Floor
+|P1=In the distant past, the seas were amazingly pure.
+|P2=My HP's dipped to around half.
+|P3=I might not make it. I can't muster any strength at all...
+|PL=Good! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Rock|ndex=138
+|body=1
+|rate=6.4
+|IQ=E
+}}
+|-
+{{Spindata/PSMD|col=6|type=Rock|ndex=138
+|coset=12
+|conto={{p|Binacle}}
+|recruitment=Feed an [[Food (Mystery Dungeon)|Apple]] to in a dungeon
+|P1=I was revived from an ancient fossil!
+|P2=Argh... This is really tough...
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Rock
+|group=Water
+|assist=Water
+|field=Tackle
+|fieldpower=2
+|num=235
+|browser=It blows bubbles from its mouth to attack.
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Rock|ndex=138
+|walk=1.64
+|hp=43
+|attack=72
+|defense=55
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=138
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=138|stype=Water|num=473
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Sleep Charm
+|skilldesc=Leaves the foe asleep.
+}}
+|-
+{{Spindata/GO|col=6|type=Rock|ndex=138
+|egg=10
+|buddy=5
+|candy=Omanyte
+|evocandy=50
+|stamina=111
+|attack=155
+|defense=153
+|fast={{m|Water Gun}}, {{m|Mud Shot}}
+|special={{m|Ancient Power}}, {{m|Bubble Beam}}{{tt|*|From February 16, 2017 onward}}, {{m|Rock Blast}}{{tt|*|From February 16, 2017 onward}}, {{m|Rock Tomb}}{{tt|†|Prior to February 16, 2017}}, {{m|Brine}}{{tt|†|Prior to February 16, 2017}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Rock
+|type2=Water
+|no1=0138
+|name1=Omanyte
+|type1-1=Rock
+|type2-1=Water
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 40}}
+|no2=0139
+|name2=Omastar
+|type1-2=Rock
+|type2-2=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Water}}
+{{Spritebox/1|ndex=138}}
+{{Spritebox/2|ndex=138}}
+{{Spritebox/3|ndex=138}}
+{{Spritebox/4|ndex=138}}
+{{Spritebox/5|ndex=138}}
+{{Spritebox/6|ndex=138|crop=52}}
+{{Spritebox/7/PE|ndex=138|crop=50|PEcrop=82}}
+{{Spritebox/8|ndex=138}}
+{{Spritebox/NA|is=yes|gen=IX}}
+{{Spritebox/HOME|ndex=0138}}
+{{Spritebox/Footer|138|Omanyte}}
+
+==In animation==
+[[File:Kenzo Omanyte.png|thumb|250px|Omanyte in {{aniseries|DP}}]]
+===Major appearances===
+In ''[[EP046|Attack of the Prehistoric Pokémon]]'', {{Ash}} encountered multiple Omanyte along with the other [[Generation I]] Fossil Pokémon. A dynamite blast woke up the Fossil Pokémon living dormant deep beneath [[Grampa Canyon]]. They chased Ash and {{TRT}} until an {{p|Aerodactyl}} showed up and scared them off.
+
+In ''[[EP163|Fossil Fools]]'', multiple Omanyte were discovered to be living in the [[Ruins of Alph]]. They were moved to a museum at the end of the episode.
+
+In ''[[DP108|Dealing With Defensive Types!]]'', an Omanyte caught {{TRT}} trying to steal food from the [[Canalave Gym]] kitchen while Ash was having his [[Gym]] {{pkmn|battle}} with [[Byron]]. Omanyte used {{m|Water Gun}} to send the trio blasting off.
+
+===Minor appearances===
+An Omanyte appeared as an image in the dubbed version of ''[[EP056|The Ultimate Test]]''.
+
+An Omanyte appeared in the Japanese credits of ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+An Omanyte appeared in a fantasy in ''[[AG002|A Ruin with a View]]''.
+
+In ''[[DP016|A Gruff Act to Follow!]]'', an Omanyte was revived from a Fossil. In [[DP017|the next episode]], it was within the habitat created for the revived Fossil Pokémon.
+
+In ''[[M08|Lucario and the Mystery of Mew]]'', three Omanyte were living in the [[Tree of Beginning]]. A fourth was in the {{pkmn|movie}}'s opening sequence.
+
+A Mirage Omanyte appeared in a flashback in ''[[The Mastermind of Mirage Pokémon]]''.
+
+In ''[[JN002|Legend? Go! Friends? Go!]]'', an Omanyte was underwater outside [[Vermilion City]].
+
+An Omanyte appeared in ''[[JN038|Restore and Renew!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP046|Omanyte, Omastar, Kabuto, and Kabutops|Ash's Pokédex|Omanyte and {{p|Omastar}}, {{p|Kabuto}} and {{p|Kabutops}}. It is believed these Pokémon became extinct tens of thousands of years ago. The detail of their behavior is shrouded in mystery. Though some have speculated that they may still exist, none of these Pokémon have ever been seen alive.}}
+{{Animedexfooter/Pokémon|Kanto}}
+{{Animedexheader|Johto}}
+{{Animedexbody|EP163|Omanyte|Ash's Pokédex|Omanyte, the Spiral Pokémon. Believed to have lived over two million years ago, recent research indicates that it was able to control its buoyancy by storing and releasing air in its shell.}}
+{{Animedexfooter/Pokémon|Johto}}
+
+==In the manga==
+[[File:Misty Omanyte Adventures.png|thumb|200px|Omanyte in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+{{main|Omny}}
+[[Misty]] had an Omanyte, which she gave to {{adv|Yellow}} in ''[[PS049|As Gastly as Before]]''. He was then [[nickname]]d Omny. He evolved into {{p|Omastar}} in ''[[PS089|The Might of...Metapod?!]]''.
+
+An Omanyte appeared at the [[Battle Pike]] in ''[[PS309|Moving Past Milotic]]''.
+
+===Pokémon Pocket Monsters===
+{{PPM|Green}}'s Omanyte debuted in ''[[PM002|The Big Battle In The Viridian Forest!!]]''.
+
+An Omanyte appeared in ''[[PM014|Big Rampage at the Safari Zone!?]]'', where it evolved into an Omastar.
+
+An Omanyte appeared in ''[[PM017|Regain the Deserted Power Plant!]]''.
+
+An Omanyte appeared in ''[[PM020|Good Luck at the Big Pokémon Athletic Meet!]]''.
+
+An Omanyte appeared in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]'', where it was one of the Pokémon that took part in a baseball match.
+
+An Omanyte appeared in ''[[PM023|Clefairy Evolves... At Last?!]]''.
+
+An Omanyte appeared in ''[[PM051|Pikachu's Birthday Party]]''.
+
+An Omanyte appeared in ''[[PM056|The Ancient Pokémon Discovery!]]''.
+
+==In the TCG==
+{{main|Omanyte (TCG)}}
+
+==Trivia==
+* In the [[Pokémon Red and Green beta|Pokémon Red and Blue beta]], Omanyte was originally known as "Ess". This is derived from the beginning of the word "escargot", which is French for ''snail''.
+* Omanyte's Pokédex number may be referring to the {{wp|golden spiral}}/Fibonacci Sequence (137.5 degrees).
+
+===Origin===
+Omanyte appears to be based on the {{wp|Ammonoidea|ammonite}}, prehistoric mollusks related to the present-day squid and octopus that lived between the {{wp|Devonian}} period and the {{wp|Cretaceous}} period. 
+
+====Name origin====
+Omanyte may be derived from ''{{wp|ammonite}}''.
+
+Omnite may be a combination of 鸚鵡貝 ''ōmugai'' ({{wp|nautilus}}) and ''ammonite''.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Water
+|ja=オムナイト ''Omnite''|jameaning=From {{tt|鸚鵡貝 ''ōmugai''|nautilus}} and ''{{wp|ammonite}}''
+|fr=Amonita|frmeaning=From ''ammonite''
+|es=Omanyte|esmeaning=Same as English name
+|de=Amonitas|demeaning=From ''{{tt|Ammonit|ammonite}}'' and ''{{tt|Wasser|water}}''
+|it=Omanyte|itmeaning=Same as English name
+|ko=암나이트 ''Amnait''|komeaning=From ''ammonite'' and {{tt|암 (岩) ''am''|rock}}
+|zh_cmn=菊石獸 / 菊石兽 ''Júshíshòu''|zh_cmnmeaning=From {{tt|菊石 ''júshí''|ammonite}} and {{tt|獸 / 兽 ''shòu''|beast}}
+|zh_yue=菊石獸 ''Gūksehksau''|zh_yuemeaning=From {{tt|菊石 ''gūksehk''|ammonite}} and {{tt|獸 ''sau''|beast}}
+|hi=ऑमानाइट ''Omanyte'' |himeaning=Transcription of English name
+|ru=Оманайт ''Omanayt''|rumeaning=Transcription of English name
+|th=ออมไนต์ ''Omnai''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+* [[Omny]]
+{{Fossil}}
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Rock|type2=Water}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=0137|prev=Porygon|nextnum=0139|next=Omastar}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+
+[[de:Amonitas]]
+[[es:Omanyte]]
+[[fr:Amonita]]
+[[it:Omanyte]]
+[[ja:オムナイト]]
+[[zh:菊石兽]]

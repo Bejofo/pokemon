@@ -1,0 +1,662 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Flying}}
+{{PokémonPrevNext/GO|species=Ninjask}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0290|prev=Nincada|nextnum=0292|next=Shedinja|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Ninjask
+|jname=テッカニン
+|tmname=Tekkanin
+|ndex=0291
+|typebox=1
+|type1=Bug
+|type2=Flying
+|category=Ninja
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=26.5
+|weight-kg=12.0
+|abilityn=d
+|ability1=Speed Boost
+|abilityd=Infiltrator
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=2
+|evsp=2
+|expyield=160
+|oldexp=155
+|lv100exp=600,000
+|gendercode=127
+|color=Yellow
+|catchrate=120
+|body=13
+|pokefordex=ninjask
+|generation=3
+|friendship=70
+}}
+'''Ninjask''' ([[List of Japanese Pokémon names|Japanese]]: '''テッカニン''' ''Tekkanin'') is a dual-type {{2t|Bug|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Nincada}} starting at [[level]] 20. This Evolution can trigger the creation of a second Pokémon, {{p|Shedinja}}, if the player has an empty slot in their [[party]] and an extra {{i|Poké Ball}} on hand.
+
+(Specifics may differ in past games. Refer to [[#Evolution data|Game data&rarr;Evolution data]] for these details.)
+
+==Biology==
+Ninjask is a small, cicada-like {{OBP|Pokémon|species}} with two pairs of wings. Its body is mostly black with accents of yellow and gray. Most of its head is yellow, but there is a solid band of black between its gleaming red eyes. The band expands into a circular pattern on its forehead, between two pointed crests on the sides of its head. The underside of its head is gray and segmented, making it somewhat resemble a veil. On its back is a patch of black with a stretch of yellow, shaped like an upside-down letter Y. Most of its carapace and abdomen is black, but there is a ring of yellow near the tip. Its gray insectoid arms extend from its chest and usually have their small, yellow claws turned inward. There is a similar pair of back legs. It has large, veined wings with triangular, red tipping.
+
+Ninjask is a very fast Pokémon that is said to be able to evade any attack and was long believed to be invisible due to its high speed. If it is not trained properly, it will refuse to obey its Trainer and cry loudly. Due to this, it is said to put the Trainer's abilities to the test. Hearing its loud cries for too long induces a headache. It lives in {{DL|List of Pokémon by habitat|Forest Pokémon|tropical and temperate forests}}, where it congregates around tree sap to feed.
+
+===Evolution===
+Ninjask evolves from {{p|Nincada}}. When Nincada evolves into Ninjask, it can also evolve into {{p|Shedinja}} simultaneously, which appears in an empty {{i|Poké Ball}}.
+
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/1branch2
+|type1=Bug
+|type2=Flying
+|no1=0290
+|name1=Nincada
+|type1-1=Bug
+|type2-1=Ground
+|evo1a=
+|no2a=0291
+|name2a=Ninjask
+|type1-2a=Bug
+|type2-2a=Flying
+|evo1b=
+|no2b=0292
+|name2b=Shedinja
+|type1-2b=Bug
+|type2-2b=Ghost
+|nocat=yes}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Flying}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=043|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=<sc>Ninjask</sc> moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this {{ScPkmn}} was long believed to be invisible.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=If <sc>Ninjask</sc> is not trained properly, it will refuse to obey the <sc>Trainer</sc> and cry loudly continuously. Because of this quality, this {{ScPkmn}} is said to be one that puts the <sc>Trainer</sc>'s abilities to the test.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=This {{ScPkmn}} is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=112|label1=Central|reg2=Hoenn|num2=044}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pokémon is said to be one that puts the Trainer's abilities to the test.}}
+|}
+|}
+{{Dex/Gen/2|gen=VII|reg1=Alola|reg2=Kanto}}
+{{Dex/NE|[[Generation VII]]}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=105|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=Because they move so quickly, they sometimes become unseeable. They congregate around tree sap.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Rolling Fields]], [[Stony Wilderness]]<br>[[Bridge Field/Dens|Bridge Field]], [[Dappled Grove/Dens|Dappled Grove]], [[Rolling Fields/Dens|Rolling Fields]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Max Lair]] ([[Dynamax Adventure]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 12]], Endless Level 21, Forever Level 21, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Nincada}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Lyra Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Quicksand Cave|Quicksand Pit]] (B5F-B10F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Quicksand Cave|Quicksand Pit]] (B5F-B10F)}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Chroma Road]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Misty Edgewater]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#Guardians of the Flower Patch|Flower Garden: Guardians of the Flower Patch]], [[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 5|Sky-High Ruins: Stage 5]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Verdant Grove|Gold Plateau: Verdant Grove]] <small>(All Areas)</small>, [[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Mewtwo Sea]], [[Butterfree Sea]], [[Rayquaza Sea]], [[Mewtwo Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|color={{MD Red color}}|area=[[Northern Range]] (1F-7F)<br/>Fainted Pokémon: [[Buried Relic]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX44]]}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Variety [[sync pair scout]]: {{sync|Noland|Ninjask}}}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|type2=Flying
+|HP=     61
+|Attack= 90
+|Defense=45
+|SpAtk=  50
+|SpDef=  50
+|Speed= 160}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Flying
+|Speed=5
+|SpeedMax=5
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=2
+|StaminaMax=2
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Flying
+|Normal=  100
+|Fighting= 25
+|Flying=  200
+|Poison=  100
+|Ground=    0
+|Rock=    400
+|Bug=      50
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    25
+|Electric=200
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|flying=ironballiv
+|newground=½}}
+
+===Learnset===
+Ninjask is available in {{pkmn|Sword and Shield}} and {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Ninjask|Bug|Flying|3}}
+{{learnlist/level8|1|Double Team|Normal|Status|—|—|15}}
+{{learnlist/level8|1|Screech|Normal|Status|—|85|40}}
+{{learnlist/level8|1|Fury Cutter|Bug|Physical|40|95|20||'''}}
+{{learnlist/level8|1|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level8|1|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/level8|1|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level8|1|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/level8|1|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level8|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level8|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level8|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level8|1|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Double Team|Normal|Status|—|—|15}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Screech|Normal|Status|—|85|40}}
+{{learnlist/level8|{{tt|Evo.|Learned upon evolving}}|Fury Cutter|Bug|Physical|40|95|20||'''}}
+{{learnlist/level8|15|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level8|23|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level8|29|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level8|36|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level8|43|Mind Reader|Normal|Status|—|—|5}}
+{{learnlist/level8|50|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level8|57|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/level8|64|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/levelf/8|Ninjask|Bug|Flying|3}}
+
+====By [[TM]]/[[TR]]====
+{{gameabbrev8|SwSh}}
+{{learnlist/tmh/8|Ninjask|Bug|Flying|3}}
+{{learnlist/tm8|TM08|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm8|TM09|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm8|TM11|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm8|TM15|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm8|TM16|Screech|Normal|Status|—|85|40}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM23|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM28|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm8|TM32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm8|TM34|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm8|TM40|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm8|TM56|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15}}
+{{learnlist/tm8|TM78|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm8|TM94|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm8|TM95|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tr|TR00|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR18|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR29|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/tr|TR33|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tr|TR35|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tr|TR60|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tr|TR61|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tmf/8|Ninjask|Bug|Flying|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/tmh/8|Ninjask|Bug|Flying|3}}
+{{learnlist/tm8|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5||}}
+{{learnlist/tm8|TM15|Hyper Beam|Normal|Special|150|90|5||}}
+{{learnlist/tm8|TM17|Protect|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM19|Giga Drain|Grass|Special|75|100|10||}}
+{{learnlist/tm8|TM22|Solar Beam|Grass|Special|120|100|10||}}
+{{learnlist/tm8|TM28|Dig|Ground|Physical|80|100|10||}}
+{{learnlist/tm8|TM30|Shadow Ball|Ghost|Special|80|100|15||}}
+{{learnlist/tm8|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tm8|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm8|TM42|Facade|Normal|Physical|70|100|20||}}
+{{learnlist/tm8|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM46|Thief|Dark|Physical|60|100|25||}}
+{{learnlist/tm8|TM51|Roost|Flying|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM54|False Swipe|Normal|Physical|40|100|40||}}
+{{learnlist/tm8|TM58|Endure|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM62|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm8|TM68|Giga Impact|Normal|Physical|150|90|5||}}
+{{learnlist/tm8|TM70|Flash|Normal|Status|&mdash;|100|20||}}
+{{learnlist/tm8|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20||}}
+{{learnlist/tm8|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm8|TM82|Sleep Talk|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM87|Swagger|Normal|Status|&mdash;|85|15||}}
+{{learnlist/tm8|TM89|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10||}}
+{{learnlist/tm8|TM93|Cut|Normal|Physical|50|95|30||}}
+{{learnlist/tm8|TM97|Defog|Flying|Status|&mdash;|&mdash;|15||}}
+{{learnlist/tmf/8|Ninjask|Bug|Flying|3}}
+
+====By {{pkmn|breeding}}====
+{{gameabbrev8|SwSh}}
+{{learnlist/breedh/8|Ninjask|Bug|Flying|3}}
+{{learnlist/breed8|{{MSP/8c|010|Caterpie}}{{MSP/8c|012|Butterfree}}{{MSP/8c|127|Pinsir}}{{MSP/8c|213|Shuckle}}{{MSP/8c|291|Ninjask}}{{MSP/8c|415|Combee}}{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}{{MSP/8c|543|Venipede}}{{MSP/8c|544|Whirlipede}}{{MSP/8c|545|Scolipede}}{{MSP/8c|557|Dwebble}}{{MSP/8c|558|Crustle}}{{MSP/8c|595|Joltik}}{{MSP/8c|596|Galvantula}}{{MSP/8c|632|Durant}}{{MSP/8c|636|Larvesta}}{{MSP/8c|637|Volcarona}}{{MSP/8c|736|Grubbin}}{{MSP/8c|737|Charjabug}}{{MSP/8c|738|Vikavolt}}{{MSP/8c|751|Dewpider}}{{MSP/8c|752|Araquanid}}{{MSP/8c|768|Golisopod}}{{MSP/8c|850|Sizzlipede}}{{MSP/8c|851|Centiskorch}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed8|{{MSP/8c|616|Shelmet}}{{MSP/8c|617|Accelgor}}|Final Gambit|Fighting|Special|—|100|5}}
+{{learnlist/breed8|{{MSP/8c|557|Dwebble}}{{MSP/8c|558|Crustle}}{{MSP/8c|588|Karrablast}}{{MSP/8c|589|Escavalier}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed8|{{MSP/8c|012|Butterfree}}{{MSP/8c|415|Combee}}{{MSP/8c|637|Volcarona}}|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/breed8|{{MSP/8c|451|Skorupi}}{{MSP/8c|452|Drapion}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breedf/8|Ninjask|Bug|Flying|3}}
+
+{{gameabbrev8|BDSP}}
+{{learnlist/breedh/8|Ninjask|Bug|Flying|3}}
+{{learnlist/breed8|{{MSP/H|0010|Caterpie}}{{MSP/H|0012|Butterfree}}{{MSP/H|0013|Weedle}}{{MSP/H|0015|Beedrill}}{{MSP/H|0127|Pinsir}}{{MSP/H|0168|Ariados}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0213|Shuckle}}{{MSP/H|0265|Wurmple}}{{MSP/H|0267|Beautifly}}{{MSP/H|0269|Dustox}}{{MSP/H|0291|Ninjask}}{{MSP/H|0401|Kricketot}}{{MSP/H|0402|Kricketune}}{{MSP/H|0412|Burmy}}{{MSP/H|0414|Mothim}}{{MSP/H|0415|Combee}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}{{MSP/H|0469|Yanmega}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed8|{{MSP/H|0290|Nincada}}{{MSP/H|0291|Ninjask}}|Final Gambit|Fighting|Special|&mdash;|100|5|{{colorlink|Grand Underground|000|^}}|}}
+{{learnlist/breed8|{{MSP/H|0046|Paras}}{{MSP/H|0047|Parasect}}{{MSP/H|0328|Trapinch}}{{MSP/H|0329|Vibrava}}{{MSP/H|0330|Flygon}}|Flail|Normal|Physical|&mdash;|100|15|*|}}
+{{learnlist/breed8|{{MSP/H|0012|Butterfree}}{{MSP/H|0049|Venomoth}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0267|Beautifly}}{{MSP/H|0269|Dustox}}{{MSP/H|0284|Masquerain}}{{MSP/H|0414|Mothim}}{{MSP/H|0415|Combee}}|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/breed8|{{MSP/H|0402|Kricketune}}{{MSP/H|0451|Skorupi}}{{MSP/H|0452|Drapion}}{{MSP/H|0469|Yanmega}}{{MSP/H|0472|Gliscor}}|Night Slash|Dark|Physical|70|100|15||}}
+{{learnlist/breedf/8|Ninjask|Bug|Flying|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Ninjask|Bug|Flying|3}}
+{{learnlist/tutor8|Dual Wingbeat|Flying|Physical|40|90|10||'''|no|yes}}
+{{learnlist/tutor8|Skitter Smack|Bug|Physical|70|90|10||'''|no|yes}}
+{{learnlist/tutorf/8|Ninjask|Bug|Flying|3}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/8|Ninjask|Bug|Flying|3}}
+{{learnlist/prevo8null}}
+{{learnlist/prevof/8|Ninjask|Bug|Flying|3}}
+
+====By [[transfer]] from another generation====
+{{learnlist/prevgenh/8|Ninjask|Bug|Flying|3}}
+{{learnlist/prevgen8|Ninjask|3|Air Cutter|Flying|Special|60|95|25||'''|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ninjask|3|Attract|Normal|Status|—|100|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ninjask|3|Bide|Normal|Physical|—|—|10|VI=yes<!--prevo-->|VII=yes<!--prevo-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Captivate|Normal|Status|—|100|20|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Confide|Normal|Status|—|—|20|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ninjask|3|Cut|Normal|Physical|50|95|30|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Ninjask|3|Defog|Flying|Status|—|—|15|IV=yes<!--TM-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ninjask|3|Double-Edge|Normal|Physical|120|100|15|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ninjask|3|Feint Attack|Dark|Physical|60|—|20|III=yes<!--breed-->|IV=yes<!--breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Flash|Normal|Status|—|100|20|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Frustration|Normal|Physical|—|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Hidden Power|Normal|Special|60|100|15|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Hone Claws|Dark|Status|—|—|15|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Ninjask|3|Laser Focus|Normal|Status|—|—|30|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ninjask|3|Mimic|Normal|Status|—|—|10|III=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ninjask|3|Natural Gift|Normal|Physical|—|100|15|IV=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Ominous Wind|Ghost|Special|60|100|5|IV=yes<!--tutor-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Return|Normal|Physical|—|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Roost|Flying|Status|—|—|10|IV=yes<!--TM-->|V=yes<!--tutor-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ninjask|3|Secret Power|Normal|Physical|70|100|20|III=yes<!--TM-->|IV=yes<!--TM-->|VI=yes<!--TM-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Silver Wind|Bug|Special|60|100|5||'''|III=yes<!--breed-->|IV=yes<!--TM,breed-->|V=yes<!--breed-->|VI=yes<!--breed-->|VII=yes<!--breed-->|x=yes}}
+{{learnlist/prevgen8|Ninjask|3|Spite|Ghost|Status|—|100|10|IV=yes<!--tutor-->|V=yes<!--tutor-->|VI=yes<!--tutor-->|VII=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ninjask|3|String Shot|Bug|Status|—|95|40|IV=yes<!--tutor-->}}
+{{learnlist/prevgen8|Ninjask|3|Struggle Bug|Bug|Special|50|100|20||'''|V=yes<!--TM-->|VI=yes<!--TM-->}}
+{{learnlist/prevgen8|Ninjask|3|Swagger|Normal|Status|—|85|15|III=yes<!--tutor-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgen8|Ninjask|3|Toxic|Poison|Status|—|90|10|III=yes<!--TM-->|IV=yes<!--TM-->|V=yes<!--TM-->|VI=yes<!--TM-->|VII=yes<!--TM-->}}
+{{learnlist/prevgenf/8|Ninjask|Bug|Flying|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color}}; border: 3px solid #{{tcg grass color dark}}"
+|-
+! style="background: #{{tcg grass color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg grass color light}}; {{roundytr|5px}}" | Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Supersonic}}
+| style="background:#fff; {{roundybr|5px}}" | [[Ninjask (EX Dragon 38)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Flying}}
+{{Spindata/PinballRS|col=3|type=Bug|ndex=291|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=291|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=291
+|body=1
+|rate=Evolve
+|area=Secretive Forest
+|P1=Can you keep up with my speed?
+|P2=I don't like this at all. My remaining HP shouldn't be only half.
+|P3=I feel faint... I can't hit the speeds I want...
+|PL=I've got my level! I can strike even faster now!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=291
+|body=1
+|rate=0.5
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Bug|ndex=291
+|coset=23
+|conto={{p|Nincada}}, {{p|Shedinja}}, {{p|Lucario}}
+|recruitment=Explore the last floor of a dungeon
+|P1=Here comes Ninjask, the swift ninja! Can you follow my moves?
+|P2=They could read my moves?!
+}}
+|-
+{{Spindata/Ranger|col=6|type=Bug
+|group=Bug
+|assist=Flying
+|fieldpower=0
+|loop=1
+|MinEXP=60
+|MaxEXP=74
+|num=032
+|browser=Ninjask darts around at dazzling speed while furiously flapping its wings.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Bug
+|group=Bug
+|assist=Bug
+|field=Cut
+|fieldpower=2
+|num=180
+|browser=It flies around at blinding speed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=4
+|def=2
+|speed=5
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Bug|ndex=291
+|walk=1.67
+|hp=51
+|attack=77
+|defense=47
+|speed=80
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=291
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=291|num=634
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Paralysis Combo
+|skilldesc=Increases damage done by combos if the foe is paralyzed.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=291
+|hatch=N/A
+|buddy=5
+|candy=Nincada
+|evolution=N/A
+|stamina=156|attack=199|defense=112
+|fast={{m|Fury Cutter}}, {{m|Metal Claw}}
+|special={{m|Shadow Ball}}, {{m|Bug Buzz}}, {{m|Aerial Ace}}
+}}
+|}
+
+===Evolution data===
+Ninjask [[Evolution|evolves]] from {{p|Nincada}} starting at [[level]] 20. This Evolution can trigger the creation of a second Pokémon, {{p|Shedinja}}, if the player has an empty slot in their [[party]] and an extra {{i|Poké Ball}} on hand. Note that the Poké Ball has to be a regular Poké Ball. In [[Generation III]], an extra Poké Ball is not necessary to obtain Shedinja.
+
+In {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}, Shedinja will not be mentioned when evolving Nincada, but will subsequently appear in {{p|Chimecho}}'s Assembly.
+{{evobox/1castoff|0290|Nincada|2|Bug|Ground|[[Level|Level 20]]|0291|Ninjask|2|Bug|Flying|[[File:Bag Poké Ball Sprite.png]]<br>{{i|Poké Ball}}<br>in [[Bag]]|Space in [[party]]|0292|Shedinja|2|Bug|Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Flying}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=291}}
+{{Spritebox/4|ndex=291}}
+{{Spritebox/5|ndex=291}}
+{{Spritebox/6|ndex=291|crop=91}}
+{{Spritebox/7|ndex=291|crop=96}}
+{{Spritebox/8|ndex=291}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0291}}
+{{Spritebox/Footer|291|Ninjask}}
+
+==In animation==
+===Main series===
+[[File:Sky Relay Ninjask.png|thumb|250px|Ninjask in {{aniseries|XY}}]]
+====Major appearances====
+Two Ninjask debuted in ''[[AG044|The Princess and the Togepi]]'' and ''[[AG045|A Togepi Mirage]]'', under the ownership of [[Colonel Hansen]]. Along with a {{p|Shedinja}}, they were his main Pokémon.
+
+In ''[[AG156|From the Cradle to Save]]'', [[Evian]] used a Ninjask as his partner-in-training. It was first used to search for [[Angela]]'s {{p|Kecleon}} after she assigned {{Ash}} and {{ashfr}} to search for it. Later, it was captured by {{TRT}}, but was freed by [[Ash's Grovyle]].
+
+In ''[[AG190|Pace - The Final Frontier!]]'', {{an|Brandon}} used a Ninjask during his {{pkmn|battle}} against Ash at the [[Battle Pyramid]]. Ninjask battled {{AP|Squirtle}} but was eventually defeated.
+
+In ''[[M13|Zoroark: Master of Illusions]]'', [[Goone]] used multiple Ninjask for various tasks, such as capturing and transporting Pokémon to attacking larger Pokémon en masse.
+
+In a flashback in ''[[DP051|Glory Blaze!]]'', [[Paul]] was revealed to have {{pkmn2|caught}} a Ninjask at some point during his {{pkmn|journey}}. In ''[[DP187|A Real Rival Rouser!]]'', Paul used Ninjask during his [[Full Battle]] against Ash in the [[Lily of the Valley Conference]]. Ninjask faced off against {{AP|Gliscor}} before Gliscor was [[recall]]ed and {{AP|Infernape}} was sent out in its place. It eventually lost to Infernape.
+
+====Minor appearances====
+In ''[[AG080|That's Just Swellow]]'', a {{pkmn|Trainer}}'s Ninjask competed in the [[Crossgate PokéRinger]].
+
+A Ninjask appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A Ninjask appeared in a visualization in ''[[AG121|Hi Ho Silver Wind!]]''.
+
+In ''[[AG126|Saved by the Beldum]]'', a Trainer's Ninjask was at the [[Ever Grande Conference]].
+
+A {{pkmn|Coordinator}}'s Ninjask appeared in ''[[AG160|Harley Rides Again]]''.
+
+In ''[[DP001|Following A Maiden's Voyage!]]'', a Ninjask had been caught in the web of an {{p|Ariados}}.
+
+A Ninjask appeared in ''[[M12|Arceus and the Jewel of Life]]''.
+
+Multiple Ninjask appeared in ''[[M17|Diancie and the Cocoon of Destruction]]'', under the ownership of [[Riot]]. Two of them were used to carry Riot when he was about to steal {{OBP|Diancie|M17}}.
+
+In ''[[XY077|A Relay in the Sky!]]'', a Trainer's Ninjask participated in the [[Pokémon Sky Relay]]. It was in a team also consisting of {{p|Vibrava}} and {{p|Shedinja}}.
+
+A Ninjask appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+Multiple Ninjask appeared in ''[[SM029|Lulled to La-La Land!]]''.
+
+A Ninjask appeared in ''[[M23|Secrets of the Jungle]]''.
+
+Multiple Ninjask appeared in ''[[JN091|The Spectral Express!]]'', evolving from a group of {{p|Nincada}}. One of them left behind a {{DL|List of Goh's Pokémon|Shedinja}}, which entered one of [[Goh]]'s empty {{i|Poké Ball}}s and became his Pokémon.
+
+A Ninjask appeared in ''[[JN137|The Road Most Traveled!]]''.
+
+In ''[[JN139|Must Be Our Heroes and the Witch!]]'', a Ninjask appeared in a fantasy.
+
+A Ninjask appeared in ''[[JN144|Getting to the Heart of it All!]]''.
+
+A Ninjask appeared in ''[[HZ027|As Long as I'm with My Friends]]''.
+
+====Pokédex entries====
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG190|Ninjask|May's Pokédex|Ninjask, the Ninja Pokémon. Ninjask is said to be so fast it's able to evade any attack.}}
+{{Animedexfooter/Pokémon|Emerald}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP187|Ninjask|Dawn's Pokédex|Ninjask, the Ninja Pokémon, and the evolved form of {{p|Nincada}}. Because of its swift flying velocity, it can become impossible to see.}}
+{{Animedexfooter/Pokémon|Sinnoh}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN091|Ninjask|Goh's Rotom Phone|Ninjask, the Ninja Pokémon. A {{t|Bug}} and {{t|Flying}} type. Ninjask are so fast, they are said to be able to dodge any attack.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon Generations===
+[[File:Ninjask Dusclops PG.png|thumb|250px|Ninjask in [[Pokémon Generations]]]]
+In ''[[PG08|The Cavern]]'', a {{pkmn2|wild}} Ninjask flew away from a storm that a [[Primal Reversion|Primal]] {{p|Kyogre}} was creating.
+
+In ''[[PG09|The Scoop]]'', a Ninjask was working at [[TV Mauville]].
+
+===POKÉTOON===
+Two Ninjask appeared in ''[[PT06|Help! I've Turned into a Gengar]]''.
+{{-}}
+
+==In the manga==
+[[File:Amber Ninjask Adventures.png|thumb|200px|Ninjask in [[Pokémon Adventures]]]]
+===Movie adaptations===
+[[Goone]] owns a Ninjask in ''{{ma|Zoroark: Master of Illusions}}''.
+
+[[Riot]] was seen with multiple Ninjask in ''{{ma|Diancie and the Cocoon of Destruction}}''.
+
+===Pokémon Adventures===
+In ''[[PS246|Can I Ninjask You a Question?]]'', when {{adv|Amber}} left all his Pokémon behind deep underseas, he borrowed a Nincada from his teammate [[Shelly]]. It evolved right away into a Ninjask, causing much trouble for his opponent [[Wattson]]. Even after it was defeated, the {{p|Shedinja}} it had left behind upon evolving was able to land a surprise attack that sent him plummeting toward the bottom of the ocean.
+
+The {{OBP|Battle Tower|Generation III}} had a Ninjask available to {{pkmn2|rental|rent}}, which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+==In the TCG==
+{{main|Ninjask (TCG)}}
+
+==Trivia==
+* Ninjask has the largest base Speed increase from Evolution of any Pokémon.
+* Ninjask has the highest base {{stat|Speed}} stat of all {{type|Bug}} and {{type|Flying}} Pokémon, as well as all non-Legendary and non-Mythical Pokémon.
+* Ninjask is the only Pokémon with a base stat total of 456.
+* Ninjask shares its {{pkmn|category}} with {{p|Greninja}}. They are both known as the Ninja Pokémon.
+* Together with {{p|Magikarp}}, {{p|Rattata}}, {{p|Pichu}}, {{p|Goldeen}}, and {{p|Seedot}}, Ninjask is the easiest Pokémon to catch in {{vg|Pokémon Ranger}}, with only one loop necessary. 
+** Additionally, Ninjask is the only evolved Pokémon to hold this distinction.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Nincada, Ninjask and Shedinja}}
+Ninjask appears to be based on an adult {{wp|cicada}}, with its colors resembling a {{wp|Neotibicen dorsatus|bush cicada}}. As its species name implies, it may also be based on a {{wp|ninja}} due to its name, quick movement, and natural ability to learn {{m|Double Team}} by leveling up (a common ninja technique in Japanese media) and various cutting attacks. This combination may be further inspired by stories of ninjas using cicadas to mask their own sounds, or a reference to the ''utsusemi no jutsu'' (cicada skin technique), a technique using decoys to misdirect opponents.
+
+====Name origin====
+Ninjask may be a combination of ''{{wp|ninja}}'' and ''{{wp|mask}}''.
+
+Tekkanin may be a combination of 鉄仮面 ''Tekkamen'' ({{wp|Man in the Iron Mask}}) and 忍者 ''ninja''. It may also involve 鉄火 ''tekka'' (gunfire).
+
+==In other languages==
+{{Other languages|type=Bug|type2=ground
+|ja=テッカニン ''Tekkanin''|jameaning=From {{tt|鉄火 ''tekka''|gunfire}}, 忍者 ''ninja'', and possibly 鉄仮面 ''{{wp|Man in the Iron Mask|Tekkamen}}''
+|fr=Ninjask|frmeaning=Same as English name
+|es=Ninjask|esmeaning=Same as English name
+|de=Ninjask|demeaning=Same as English name
+|it=Ninjask|itmeaning=Same as English name
+|ko=아이스크 ''Aisukeu''|komeaning=From ''iron'' and ''mask''
+|zh_cmn=鐵面忍者 / 铁面忍者 ''Tiěmiànrěnzhě''|zh_cmnmeaning=From {{tt|鐵面 / 铁面 ''tiěmiàn''|iron mask}} and {{tt|忍者 ''rěnzhě''|ninja}}
+|zh_yue=鐵面忍者 ''Titmihnyánjé''|zh_yuemeaning=From {{tt|鐵面 ''titmihn''|iron mask}} and {{tt|忍者 ''yánjé''|ninja}}
+|hi=निन्काब ''Ninkaab''|himeaning=From ''ninja'' and {{tt|नकाब ''nakab''|mask}}
+|ru=Нинджаск ''Nindzhask''|rumeaning=Transcription of English name
+|th=เท็คคานิน ''Thekkhanin''|thmeaning=Transcription of Japanese name
+}}
+
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=0290|prev=Nincada|nextnum=0292|next=Shedinja}}
+|}
+{{Project Pokédex notice}}
+
+
+[[de:Ninjask]]
+[[es:Ninjask]]
+[[fr:Ninjask]]
+[[it:Ninjask]]
+[[ja:テッカニン]]
+[[zh:铁面忍者]]

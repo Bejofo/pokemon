@@ -1,0 +1,323 @@
+{{PokémonPrevNext/Head|type=Flying}}
+{{PokémonPrevNext/GO|species=Corvisquire}}
+{{PokémonPrevNext/Pokémon|type=Flying|prevnum=0821|prev=Rookidee|nextnum=0823|next=Corviknight|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Corvisquire
+|jname=アオガラス
+|tmname=Aogarasu
+|ndex=0822
+|type1=Flying
+|category=Raven
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=35.3
+|weight-kg=16.0
+|abilityn=d
+|ability1=Keen Eye
+|ability2=Unnerve
+|abilityd=Big Pecks
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|evtotal=2
+|evsp=2
+|expyield=128
+|lv100exp=1059860
+|gendercode=127
+|color=Blue
+|catchrate=120
+|body=09
+|pokefordex=corvisquire
+|generation=8
+|friendship=50
+}}
+'''Corvisquire''' ([[List of Japanese Pokémon names|Japanese]]: '''アオガラス''' ''Aogarasu'') is a {{type|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] from {{p|Rookidee}} starting at [[level]] 18 and evolves into {{p|Corviknight}} starting at level 38.
+
+==Biology==
+Corvisquire is a crow-like, avian {{OBP|Pokémon|species}}. Its tail and dorsal feathers have a navy coloration, and its breast feathers are blue-gray. Matte black feathers accent its wing-tips, ruff, and face, which is adorned with a mask-like crest. Its beak and three-toed feet are gray, and it has black talons. Corvisquire's eyes are red, and rimmed beneath with a white patch.
+
+Corvisquire's brain is large relative to those of other bird Pokémon, which is thought to be the reason behind its high intelligence level. Corvisquire are intelligent enough to use tools in battle, having been seen to throw rocks at their opponents or use vines to entangle them. Over the course of many tough battles, they learn to assess the strength of prospective opponents before engaging them. Corvisquire preys on {{p|Steenee}}.
+
+===Evolution===
+Corvisquire evolves from {{p|Rookidee}} and evolves into {{p|Corviknight}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{evobox-3
+|type1=Flying
+|no1=0821
+|name1=Rookidee
+|type1-1=Flying
+|evo1=
+|no2=0822
+|name2=Corvisquire
+|type1-2=Flying
+|evo2=
+|no3=0823
+|name3=Corviknight
+|type1-3=Flying
+|type2-3=Steel}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Flying}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=022|reg2=Galar|label2=Crown Tundra|num2=164|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=The lessons of many harsh battles have taught it how to accurately judge an opponent's strength.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=41|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It’s said that the reason behind Corvisquire’s high level of intelligence is the large size of its brain relative to those of other bird Pokémon.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This intelligent Pokémon will quickly learn how to use any tool it can hold in its beak or its talons.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{flying color dark}}; background:#{{flying color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{flying color light}}; background:#{{flying color light}} | [[File:Pokédex Image Corvisquire SV.png|x200px]]
+|-
+| Corvisquire in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Flying}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Giant's Mirror]], [[Hammerlocke Hills]], [[Motostoke Riverbank]]<br>{{rt|3|Galar}} ([[Wanderer]])<br>[[East Lake Axewell/Dens|East Lake Axewell]], [[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Ballimere Lake]]<br>[[Frostpoint Field/Dens|Frostpoint Field]], [[Giant's Bed/Dens|Giant's Bed]], [[Frigid Sea/Dens|Frigid Sea]], [[Ballimere Lake/Dens|Ballimere Lake]], [[Dyna Tree Hill/Dens|Dyna Tree Hill]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area One)|Area One]], [[South Province (Area Three)|Area Three]], [[South Province (Area Five)|Area Five]]<br>East Province: [[East Province (Area One)|Area One]], [[East Province (Area Two)|Area Two]], [[East Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 3★ Tera Raid Battles (Paldea)|Corvisquire|3★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+====In events====
+=====[[Wild Area News]]=====
+{{eventAvail/h|Gigantamax|type=Flying|lochide=yes}}
+{{eventAvail|{{gameabbrev8|Sh}}|Wild Area News|No|hide|30|November 15 to January 9, 2020|link=Wild Area News#November 15 to December 4, 2019}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Flying
+|HP=68
+|Attack=67
+|Defense=55
+|SpAtk=43
+|SpDef=55
+|Speed=77
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Flying
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Corvisquire|Flying|Flying|8}}
+{{learnlist/level9|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level9|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Power Trip|Dark|Physical|20|100|10}}
+{{learnlist/level9|1|Hone Claws|Dark|Status|—|—|15}}
+{{learnlist/level9|12|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level9|16|Pluck|Flying|Physical|60|100|20||'''}}
+{{learnlist/level9|22|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level9|28|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level9|34|Drill Peck|Flying|Physical|80|100|20||'''}}
+{{learnlist/level9|40|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level9|46|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/levelf/9|Corvisquire|Flying|Flying|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Corvisquire|Flying|Flying|8}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM006|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM087|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM097|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/tm9|TM164|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM177|Spite|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10||'''}}
+{{learnlist/tmf/9|Corvisquire|Flying|Flying|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Corvisquire|Flying|Flying|8}}
+{{learnlist/breed9|{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}{{MSP/H|0580|Ducklett}}{{MSP/H|0581|Swanna}}{{MSP/H|0627|Rufflet}}{{MSP/H|0628|Braviary}}{{MSP/H|0628-Hisui|Braviary}}{{tt|*|Noctowl could not learn Defog via level-up prior to Version 3.0.0}}|Defog|Flying|Status|—|—|15|grid=7}}
+{{learnlist/breed9|{{MSP/H|0731|Pikipek}}{{MSP/H|0732|Trumbeak}}{{MSP/H|0733|Toucannon}}|Rock Smash|Fighting|Physical|40|100|15|grid=7}}
+{{learnlist/breed9|{{MSP/H|0163|Hoothoot}}{{MSP/H|0164|Noctowl}}{{MSP/H|0278|Wingull}}{{MSP/H|0279|Pelipper}}{{MSP/H|0580|Ducklett}}{{MSP/H|0581|Swanna}}{{MSP/H|0661|Fletchling}}{{MSP/H|0662|Fletchinder}}{{MSP/H|0663|Talonflame}}{{MSP/H|0701|Hawlucha}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}{{MSP/H|0731|Pikipek}}{{MSP/H|0732|Trumbeak}}{{MSP/H|0733|Toucannon}}{{MSP/H|0741|Oricorio}}{{MSP/H|0931|Squawkabilly}}{{MSP/H|0940|Wattrel}}{{MSP/H|0941|Kilowattrel}}{{MSP/H|0973|Flamigo}}|Roost|Flying|Status|—|—|5|grid=7}}
+{{learnlist/breed9|{{MSP/H|0227|Skarmory}}|Sand Attack|Ground|Status|—|100|15|grid=7}}
+{{learnlist/breed9|{{MSP/H|0164|Noctowl}}{{MSP/H|0334|Altaria}}{{MSP/H|0628|Braviary}}{{MSP/H|0628|Braviary|form=-Hisui}}{{MSP/H|0701|Hawlucha}}|Sky Attack|Flying|Physical|140|90|5||'''|grid=7}}
+{{learnlist/breed9|{{MSP/H|0724|Decidueye}}|Spite|Ghost|Status|—|100|10|grid=7}}
+{{learnlist/breed9|{{MSP/H|0279|Pelipper}}{{MSP/H|0580|Ducklett}}{{MSP/H|0581|Swanna}}{{MSP/H|0627|Rufflet}}{{MSP/H|0628|Braviary}}{{MSP/H|0628|Braviary|form=-Hisui}}{{MSP/H|0661|Fletchling}}{{MSP/H|0662|Fletchinder}}{{MSP/H|0663|Talonflame}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}|Tailwind|Flying|Status|—|—|15|grid=7}}
+{{learnlist/breedf/9|Corvisquire|Flying|Flying|8}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Corvisquire|Flying|Flying|8}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Corvisquire|Flying|Flying|8}}
+
+===Side game data===
+{{Spindata/Head|type=Flying}}
+{{Spindata/GO
+| col = 6
+| type = Flying
+| ndex = 0822
+| hatch = N/A
+| buddy = 1
+| candy = Rookidee
+| evolution = 100
+| stamina = 169
+| attack = 129
+| defense = 110
+| fast = {{m|Peck}}, {{m|Air Slash}}, {{m|Sand Attack}}
+| special = {{m|Sky Attack}}, {{m|Payback}}
+}}
+|}
+
+===Evolution data===
+{{evobox-3
+|type1=Flying
+|no1=0821
+|name1=Rookidee
+|type1-1=Flying
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 18}}
+|no2=0822
+|name2=Corvisquire
+|type1-2=Flying
+|evo2={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 38}}
+|no3=0823
+|name3=Corviknight
+|type1-3=Flying
+|type2-3=Steel
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Flying}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=822}}
+<!--{{Spritebox/9|ndex=0822}}-->
+{{Spritebox/HOME|ndex=0822}}
+{{Spritebox/Footer|822|Corvisquire}}
+
+==In animation==
+[[File:Corvisquire anime.png|250px|thumb|Corvisquire in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+
+====Minor appearances====
+Corvisquire debuted in ''[[HZ015|Someone We Can't See! Whosawhatsit?]]'', as a [[wild Pokémon]]. It unknowingly led [[Roy]] over to [[Levincia]] after catching his {{TP|Roy|Wattrel}}'s attention.
+
+A Trainer's Corvisquire appeared in a video in [[HZ097]].
+
+===Pokémon: Twilight Wings===
+In ''[[TW07|Sky]]'', multiple Corvisquire were flying above the [[Wild Area]].
+{{-}}
+
+==In the manga==
+[[File:Hop Corvisquire Adventures.png|thumb|150px|Corvisquire in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A Corvisquire first appeared in ''[[PASS06|Watch Out!! Strong Rivals]]'', under the ownership of [[Hop]].
+
+A Corvisquire appeared in ''[[PASS29|GRRR!! The Irrepairable Gears]]'' during the [[Darkest Day]].
+{{-}}
+
+==In the TCG==
+{{main|Corvisquire (TCG)}}
+==Trivia==
+* Corvisquire and its pre-evolved form are the first non-[[Legendary Pokémon]] to be purely {{type|Flying}}.
+* Corvisquire and its evolutionary relatives were designed by [[Hitoshi Ariga]].<ref>[https://twitter.com/ariga_megamix/status/1213844996975017989 Tweet by ありがひとし/ArigaHitoshi (@ariga_megamix).] Posted on January 5, 2020.</ref>
+
+===Origin===
+Corvisquire's category suggests it is based on a {{wp|raven}}; it may be based on a {{wp|jackdaw}} or {{wp|hooded crow}}, which are found in Britain and, like ravens, are members of the ''{{wp|Corvidae}}'' family. Its blue color may be a reference to {{wp|jay}}s, especially the {{wp|blue jay}} and {{wp|Steller's Jay}}, also types of corvids, while its shiny coloration bears a resemblance to the {{wp|Eurasian jay}}. Its Violet Pokédex entry may be a reference to the {{wp|New Caledonian crow}}, which is well-known for its tool use.
+
+====Name origin====
+Corvisquire may be a combination of ''{{wp|corvid}}'', ''{{wp|squire}}'' and ''{{wp|esquire}}''.
+
+Aogarasu may be a combination of 青 ''ao'' (blue), 青雀 ''aogara'' ({{wp|Eurasian blue tit}}), and 烏 ''karasu'' (crow, raven).
+
+==In other languages==
+{{Other languages|type=Flying|type2=Flying
+|ja=アオガラス ''Aogarasu''|jameaning=From {{tt|青 ''ao''|blue}}, {{tt|青雀 ''aogara''|Eurasian blue tit}}, and {{tt|烏 ''karasu''|crow, raven}}
+|fr=Bleuseille|frmeaning=From ''{{tt|bleu|blue}}'', ''{{tt|bleusaille|new recruit}}'', and ''{{tt|corneille|crow}}''
+|es=Corvisquire|esmeaning=Same as English name
+|de=Kranoviz|demeaning=From ''{{tt|Krähe|crow}} and {{tt|Novize|novice}}
+|it=Corvisquire|itmeaning=Same as English name
+|ko=파크로우 ''Pakrow''|komeaning=From {{tt|파랑 ''parang''|blue}} and ''crow''
+|zh_cmn=藍鴉 / 蓝鸦 ''Lányā''|zh_cmnmeaning=From {{tt|藍 / 蓝 ''lán''|blue}} and {{tt|鴉 / 鸦 ''yā''|crow}}
+|zh_yue=藍鴉 ''Làahm'ā''|zh_yuemeaning=From {{tt|藍 ''làahm''|blue}} and {{tt|鴉 ''ā''|crow}}
+|hi=क्रोनील ''Crowneel''|himeaning=From ''crow'' and {{tt|नीला ''nīlā''|blue}}
+|th=อาโอการาสึ ''Aokarasue''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Flying}}
+{{PokémonPrevNext/Pokémon|type=Flying|prevnum=0821|prev=Rookidee|nextnum=0823|next=Corviknight}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kranoviz]]
+[[es:Corvisquire]]
+[[fr:Bleuseille]]
+[[it:Corvisquire]]
+[[ja:アオガラス]]
+[[zh:蓝鸦]]

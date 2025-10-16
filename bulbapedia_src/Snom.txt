@@ -1,0 +1,317 @@
+{{PokémonPrevNext/Head|type=Ice|type2=Bug}}
+{{PokémonPrevNext/GO|species=Snom}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=0871|prev=Pincurchin|nextnum=0873|next=Frosmoth|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Snom
+|jname=ユキハミ
+|tmname=Yukihami
+|ndex=0872
+|type1=Ice
+|type2=Bug
+|category=Worm
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=8.4
+|weight-kg=3.8
+|abilityn=d
+|ability1=Shield Dust
+|abilityd=Ice Scales
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=37
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|catchrate=190
+|body=02
+|pokefordex=snom
+|generation=8
+|friendship=50
+}}
+'''Snom''' ([[List of Japanese Pokémon names|Japanese]]: '''ユキハミ''' ''Yukihami'') is a dual-type {{2t|Ice|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Frosmoth}} when [[friendship Evolution|leveled up with high friendship]] at [[Time-based Evolution|night]].
+
+==Biology==
+Snom is a small, larval {{OBP|Pokémon|species}}. Most of its round white body is covered by a translucent shell of icy spikes. Its exposed head features two black eyes and round mouthparts.  Four short legs are located underneath its body.
+
+Snom anchors itself to branches with frigid thread it extrudes from its mouth to disguise itself as an icicle while sleeping. Snom consumes snow that has piled up on the ground, and prefers soft, fresh snow; it will climb its way up a mountain eating through its snow. Snom's internal organs amplify the cold air from the snow it consumes, which it uses to create the spikes on its back. The more snow it eats, the larger and more impressive the spikes grow. As shown in [[Pokémon Camp]], Snom are known to be voracious eaters, only being satisfied with heaping amounts of food. If it is startled, it will quickly burrow into the snow.
+
+Snom and its Evolution, {{p|Frosmoth}}, are the [[Signature Ability|only known Pokémon]] that can have {{a|Ice Scales}} as an [[Ability]].
+
+===Evolution===
+Snom evolves into {{p|Frosmoth}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Ice
+|type2=Bug
+|pictype=art
+|no1=0872
+|name1=Snom
+|type1-1=Ice
+|type2-1=Bug
+|evo1=
+|no2=0873
+|name2=Frosmoth
+|type1-2=Ice
+|type2-2=Bug}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ice|type2=Bug}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=349|reg2=Galar|label2=Crown Tundra|num2=001|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=350|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=It eats snow that has accumulated on the ground. It prefers soft, freshly fallen snow, so it will eat its way up a mountain, aiming for the peak.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=Within its internal organs, Snom amplifies the frigid air it gets from eating snow and then uses this amplified air to create icicle-like spikes.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{bug color dark}}; background:#{{ice color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{ice color light}}; background:#{{ice color light}} | [[File:Pokédex Image Snom SV.png|x200px]]
+|-
+| Snom in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ice|type2=Bug}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=Routes {{rtn|8|Galar}} and {{rtn|10|Galar}}, [[Lake of Outrage]]<br>[[Giant's Cap/Dens|Giant's Cap]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Slippery Slope]], [[Snowslide Slope]], [[Path to the Peak]]<br>[[Slippery Slope]], [[Snowslide Slope]] ([[Wanderer]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=North Province: [[Dalizapa Passage]], [[Glaseado Mountain]]<br>[[Tera Raid Battle]]s ({{DL|List of 1★ Tera Raid Battles (Paldea)|Snom|1★}})<br>{{DL|In-game trade|Pokémon Scarlet and Violet|Trade}} {{p|Flabébé}} in [[Cortondo]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ice|type2=Bug}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Shiver Snowfields]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems/header|type=Ice|type2=Bug}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Items1|Snowball|5}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ice
+|type2=Bug
+|HP=30
+|Attack=25
+|Defense=35
+|SpAtk=45
+|SpDef=30
+|Speed=20
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|type2=Bug
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=400
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=400
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Snom|Ice|Bug|8}}
+{{learnlist/level9|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level9|1|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/levelf/9|Snom|Ice|Bug|8}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Snom|Ice|Bug|8}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM034|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM187|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM219|Skitter Smack|Bug|Physical|70|90|10||'''}}
+{{learnlist/tmf/9|Snom|Ice|Bug|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Snom|Ice|Bug|8}}
+{{learnlist/breed9|{{MSP/H|0168|Ariados}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0401|Kricketot}}{{MSP/H|0415|Combee}}{{MSP/H|0540|Sewaddle}}{{MSP/H|0541|Swadloon}}{{MSP/H|0542|Leavanny}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0636|Larvesta}}{{MSP/H|0637|Volcarona}}{{MSP/H|0664|Scatterbug}}{{MSP/H|0736|Grubbin}}{{MSP/H|0737|Charjabug}}{{MSP/H|0738|Vikavolt}}{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}{{MSP/H|0953|Rellor}}{{MSP/H|0954|Rabsca}}{{tt|*|Larvesta learned Bug Bite via level-up prior to Version 2.0.1; it can still learn Bug Bite via TM182}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed9|{{MSP/H|0742|Cutiefly}}{{MSP/H|0743|Ribombee}}|Fairy Wind|Fairy|Special|40|100|30}}
+{{learnlist/breed9|{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}
+|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/breedf/9|Snom|Ice|Bug|8}}
+
+===Side game data===
+{{Spindata/Head|type=Ice|type2=Bug}}
+{{Spindata/GO|col=6|type=Ice|ndex=0872
+|egg=5
+|buddy=5
+|candy=Snom
+|evolution={{candy|Snom}}400 + [[File:GO Heart Double.png|24px]]10 + [[File:Clear icon GO.png|20px|Night mode|link=Time]]
+|stamina=102
+|attack=76
+|defense=59
+|fast={{m|Struggle Bug}}, {{m|Powder Snow}}
+|special={{m|Icy Wind}}, {{m|Bug Buzz}}
+}}
+|-
+{{Spindata/NewSnap|col=6|type=Ice|ndex=872|pdex=168
+|dex=To protect itself while it sleeps, Snom ties itself to an icicle with some thread. When it’s startled, it’ll burrow right down into the snow before you know it.}}
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Ice
+|type2=Bug
+|pictype=art
+|no1=0872
+|name1=Snom
+|type1-1=Ice
+|type2-1=Bug
+|evo1={{bag/s|Rare Candy|SV}} + {{bag/s|Soothe Bell|SV}} + [[File:Night Icon SV.png|40px|link=Time]]<br>{{color2|000|Level|Level up}} with high {{color2|000|friendship}}<br><small>at {{color2|000|time|night}}
+|no2=0873
+|name2=Frosmoth
+|type1-2=Ice
+|type2-2=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=Ice|type2=Bug}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=872}}
+<!--{{Spritebox/9|ndex=0872}}-->
+{{Spritebox/HOME|ndex=0872}}
+{{Spritebox/Footer|872|Snom}}
+
+==In animation==
+===Main series===
+[[File:Snom anime.png|thumb|250px|Snom in {{aniseries|HZ}}]]
+====Major appearances====
+
+====Minor appearances====
+Snom debuted in ''[[JN115|Curtain Up! Fight the Fights!]]'', under the ownership of a {{pkmn|Trainer}}.
+
+A Snom appeared in ''[[HZ061|Resonating Spirits in a Challenge to Ryme!]]''.
+
+A group of Snom on a snow mound appeared in ''[[HZ063|Ice Battle! Cold-Eyed Grusha]]'', which [[Liko]] and her Pokémon almost crashed into while riding a {{p|Cetoddle}}, barely avoiding them.
+
+====Pokédex entries====
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ063|Snom|Liko's Rotom Phone|Snom, the Worm Pokémon. A {{t|Bug}} and {{t|Ice}} type. It eats snow that has— (cut off by Liko)}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+===POKÉTOON===
+A Snom appeared in [[PT10]], under the ownership of a {{tc|Model}}.
+
+==In the manga==
+[[File:Rampaging Dynamax Pokémon Adventures.png|thumb|250px|Snom in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+A [[Dynamax]]ed Snom appeared in ''[[PASS27|Shock!! Chairman Rose's Plan]]'' during the [[Darkest Day]].
+{{-}}
+
+==In the TCG==
+{{main|Snom (TCG)}}
+==Trivia==
+* Snom shares its {{pkmn|category}} with {{p|Caterpie}} and {{p|Wurmple}}. They are known as the Worm Pokémon.
+* No other Pokémon have the same [[List of Pokémon with unique type combinations|type combination]] as Snom and {{p|Frosmoth|its evolved form}}.
+* Snom and its Evolution are the only {{type|Ice}} Pokémon in the {{egg3|Bug}}.
+* Snom:
+** Is the only [[Generation VIII]] Pokémon that evolves through [[friendship]].
+** Has the lowest base stat total of all Ice-type Pokémon.
+** Has the lowest base {{stat|HP}} and {{stat|Speed}} stats of all Ice-type Pokémon.
+** Is tied with {{p|Swinub}} for the lowest base {{stat|Special Defense}} stat of all Ice-type Pokémon.
+** Is the only Ice-type Pokémon that cannot learn {{m|Blizzard}} or {{m|Endure}}, and one of only three that cannot learn {{m|Ice Beam}} (the others being {{form|Rotom|Frost}} {{p|Rotom}} and {{p|Chien-Pao}}).
+** Is the only Ice-type Pokémon [[List of Pokémon by shape#Pokémon with serpentine bodies|with a serpentine body]].
+** Is the only Pokémon with a base stat total of 185.
+** Is tied with Frost Rotom and {{form|Castform|Snowy Form}} {{p|Castform}} for the [[List of Pokémon by height|shortest]] Ice-type Pokémon.
+
+===Origin===
+Snom may be based on a {{wp|Dalceridae|jewel caterpillar}}. It may also draw some inspiration from the larvae of the {{wp|Gynaephora}} genus of alpine or Arctic moths. One particular species, the {{wp|arctic woolly bear moth}}, can enter a dormant state that allows it to endure temperatures as low as −94 °F (−70 °C). Snom's voracious appetite in [[Pokémon Camp]] is likely a reference to ''{{wp|Saturniidae}}'' biology, in which the caterpillars eat a large stockpile of food due to losing the ability to eat upon becoming moths.
+
+====Name origin====
+Snom may be a combination of ''snow'', ''worm'', and ''nom'' (slang for eating).
+
+Yukihami may be a combination of 雪 ''yuki'' (snow) and 食み ''hami'' (eating).
+
+==In other languages==
+{{Other languages|type=Ice|type2=Bug
+|ja=ユキハミ ''Yukihami''|jameaning=From {{tt|雪 ''yuki''|snow}} and {{tt|食み ''hami''|eating}}
+|fr=Frissonille|frmeaning=From ''{{tt|frisson|shiver}}'' and ''{{tt|chenille|caterpillar}}''
+|es=Snom|esmeaning=Same as English name
+|de=Snomnom|demeaning=From ''snow'' and ''nom''
+|it=Snom|itmeaning=Same as English name
+|ko=누니머기 ''Nunimeogi''|komeaning=From {{tt|눈 ''nun''|snow}} and {{tt|먹이 ''meog-i''|feed}}
+|zh_cmn=雪吞蟲 / 雪吞虫 ''Xuětūnchóng''|zh_cmnmeaning=From {{tt|雪 ''xuě''|snow}}, {{tt|吞 ''tūn''|to swallow}}, and {{tt|蟲 / 虫 ''chóng''|bug}}
+|zh_yue=雪吞蟲 ''Syuttānchùhng''|zh_yuemeaning=From {{tt|雪 ''syut''|snow}}, {{tt|吞 ''tān''|to swallow}}, and {{tt|蟲 ''chùhng''|bug}}
+|hi=बर्फ़ाखोर ''Barfaakhor''|himeaning=From {{tt|बर्फ़ ''barf''|snow/ice}} and {{tt|-ख़ोर ''-khor''|suffix to denote &quot;-eater&quot;}}
+|th=ยูกิฮามิ ''Yukihami''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+<!--
+==References==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Ice|type2=Bug}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=0871|prev=Pincurchin|nextnum=0873|next=Frosmoth}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve based on time]]
+[[Category:Pokémon that evolve by friendship]]
+[[Category:Pokémon that evolve by friendship during the night]]
+[[Category:Pokémon that evolve only at night]]
+
+[[de:Snomnom]]
+[[es:Snom]]
+[[fr:Frissonille]]
+[[it:Snom]]
+[[ja:ユキハミ]]
+[[zh:雪吞虫]]

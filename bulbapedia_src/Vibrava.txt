@@ -1,0 +1,574 @@
+{{PokémonPrevNext/Head|type=Ground|type2=Dragon}}
+{{PokémonPrevNext/GO|species=Vibrava}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0328|prev=Trapinch|nextnum=0330|next=Flygon|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Vibrava
+|jname=ビブラーバ
+|jtranslit=Biburāba
+|tmname=Vibrava
+|ndex=0329
+|typebox=1
+|type1=Ground
+|type2=Dragon
+|category=Vibration
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=33.7
+|weight-kg=15.3
+|abilityn=1
+|abilitylayout=1
+|ability1=Levitate
+|egggroupn=2
+|egggroup1=Bug
+|egggroup2=Dragon
+|egggroup2note=<sup>{{color2|000|Generation VIII|Gen VIII}}+</sup>
+|eggcycles=20
+|evtotal=2
+|evat=1
+|evsp=1
+|expyield=119
+|oldexp=126
+|lv100exp=1,059,860
+|gendercode=127
+|color=Green
+|catchrate=120
+|body=13
+|pokefordex=vibrava
+|generation=3
+|friendship=70
+}}
+'''Vibrava''' ([[List of Japanese Pokémon names|Japanese]]: '''ビブラーバ''' ''Vibrava'') is a dual-type {{2t|Ground|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Trapinch}} starting at [[level]] 35 and evolves into {{p|Flygon}} starting at level 45.
+
+==Biology==
+Vibrava is a {{wp|dragonfly}}-like {{OBP|Pokémon|species}}. It has a small head with two yellow antennae and green bulging eyes with black oval-shaped pupils. Its mouth has two large white teeth protruding from each side. It has a skinny yellow body, four skinny black legs with slender feet, and four green, rhombus-shaped wings with black edges. There are similarly-colored rhombus shapes at the end of its tail. 
+
+Vibrava's wings are not fully developed, so it is unable to fly very far. However, it is able to create vibrations and ultrasonic waves with its wings. Humans get headaches from these waves. After causing the prey to faint, as a {{wp|Saprotrophic nutrition|saprotroph}}, it spits stomach acid to melt its prey before consumption. It continues this eating process every day to help its wings grow. Vibrava calls the {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|desert}} home and is also known to preserve its captured prey in the desert's hot sands.
+
+===Evolution===
+Vibrava evolves from {{p|Trapinch}} and evolves into {{p|Flygon}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Ground
+|type2=Dragon
+|pictype=art
+|no1=0328
+|name1=Trapinch
+|type1-1=Ground
+|evo1=
+|no2=0329
+|name2=Vibrava
+|type1-2=Ground
+|type2-2=Dragon
+|evo2=
+|no3=0330
+|name3=Flygon
+|type1-3=Ground
+|type2-3=Dragon}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground|type2=Dragon}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=117|reg2=Kanto}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=To make prey faint, <sc>Vibrava</sc> generates ultrasonic waves by vigorously making its two wings vibrate. This {{ScPkmn}}'s ultrasonic waves are so powerful, they can bring on headaches in people.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=<sc>Vibrava</sc>'s wings have not yet completed the process of growing. Rather than flying long distances, they are more useful for generating ultrasonic waves by vibrating.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It looses ultrasonic waves by rubbing its wings together. Since a <sc>Vibrava</sc>'s wings are still in the process of growing, it can only fly short distances.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|reg2=Johto}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It violently shudders its wings, generating ultrasonic waves to induce headaches in people.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It vibrates its wings vigorously, creating ultrasonic waves that cause serious headaches.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova|num1=122|label1={{gameIcon|B2}}{{gameIcon|W2}}:}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It violently shudders its wings, generating ultrasonic waves to induce headaches in people.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.}}
+|}
+|}
+{{Dex/Gen/2|gen=VI|reg1=Kalos|num1=004|label1=Mountain|reg2=Hoenn|num2=122}}
+{{Dex/Entry1|v=X|t=FFF|entry=The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=To make prey faint, Vibrava generates ultrasonic waves by vigorously making its two wings vibrate. This Pokémon's ultrasonic waves are so powerful, they can bring on headaches in people.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Vibrava's wings have not yet completed the process of growing. Rather than flying long distances, they are more useful for generating ultrasonic waves by vibrating.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=236|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=305|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto}}
+{{Dex/NE|[[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu! and Let's Go, Eevee!]]}}
+{{Dex/Entry1|v=Sun|entry=Rather than using its underdeveloped wings for flight, it rubs them together, producing ultrasonic waves to attack its enemies.}}
+{{Dex/Entry1|v=Moon|entry=To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=It vibrates its wings to generate ultrasonic waves, causing its prey to faint. Then it buries the prey alive in the sand to preserve it.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=It vibrates its wings to send out odd sound waves. Trainers who are with it need earplugs.}}
+|}
+|}
+{{Dex/Gen/3|gen=VIII|reg1=Galar|num1=322|reg2=Sinnoh|reg3=Hisui}}
+{{Dex/NE|[[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.}}
+{{Dex/Entry2|v=Brilliant Diamond|v2=Shining Pearl|entry=It violently shudders its wings, generating ultrasonic waves to induce headaches in people.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry|num3=45}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Rather than using its underdeveloped wings for flight, it rubs them together, emitting ultrasonic waves to attack its enemies.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=It generates ultrasonic waves by vigorously vibrating its wings. After making its prey faint, it dissolves the prey with its digestive juices.}}
+|}
+|}
+{{Dex/Footer}}
+{| style="margin:auto; text-align:center; border:3px solid #{{dragon color dark}}; background:#{{ground color}}; font-size:80%; {{roundy|10px}};"
+|-
+| style="{{roundy|20px}} border:2px solid #{{dragon color dark}}; background:#{{ground color light}};" | [[File:Pokédex Image Vibrava SM.png|x200px]]
+| style="border:2px solid #{{dragon color dark}}; background:#{{ground color light}}; {{roundy|5px}};" | [[File:Pokédex Image Vibrava SV Blueberry.png|x200px]]
+|-
+|Vibrava in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}
+|Vibrava in the {{color2|000|List of Pokémon by Blueberry Pokédex number|Blueberry Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Ground|type2=Dragon}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Trapinch}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Trapinch}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Cipher Lab|Shadow PKMN Lab]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Trapinch}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|228|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}} (Desert with 49 Forest points)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Trapinch}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Reversal Mountain]] ({{DL|Tall grass|Dark grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Trapinch}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Trapinch}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Trapinch}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Trapinch}}}}
+{{Availability/Entry2/None|v=Let's Go Pikachu|v2=Let's Go Eevee|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Rolling Fields/Dens|Rolling Fields]], [[Axew's Eye/Dens|Axew's Eye]]{{sup/8|Sh}}, [[Dusty Bowl/Dens|Dusty Bowl]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area={{rt|228|Sinnoh}} ([[Poké Radar]])<br>[[Grand Underground]] - [[Grassland Cave]], [[Sunlit Cavern]], [[Rocky Cave]], [[Big Bluff Cavern]] (After obtaining the [[National Pokédex]])}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 3.0.0+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Savanna Biome]]<br>[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Blueberry Academy)|Vibrava|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground|type2=Dragon}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Wilderness ({{color2|{{sapphire color}}|Sapphire Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 6]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Southern Cavern]] (12F-20F), [[Wyvern Hill]] (10F-16F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Quicksand Cave]] (B1F-B9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Quicksand Cave]] (B1F-B9F)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Spike Ball Alert!|Vehicle Gallery: Spike Ball Alert!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 3|Distortion Island: Stage 3]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Trailhead Field|White Ruins: Trailhead Field]] <small>(All Areas)</small>, [[Plasma Tundra#Sacred Blade Cliff|Plasma Tundra: Sacred Blade Cliff]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Dragonite Sea]], [[Jirachi Sea]], [[Celebi Sea]], [[Zygarde Sea]], [[Rayquaza Sea]], [[Jirachi Sea]]<sup>Final</sup>, [[Celebi Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD red color}}|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Southern Cavern]] (31F-39F), [[Wyvern Hill]] (10F-16F)<br/>Fainted Pokémon: [[Darknight Relic]]}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 386]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Ground|type2=Dragon
+|colo1=Dragon Fang|colo1type=None|colo1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ground
+|type2=Dragon
+|HP=     50
+|Attack= 70
+|Defense=50
+|SpAtk=  50
+|SpDef=  50
+|Speed=  70}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|type2=Dragon
+|Speed=3
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|type2=Dragon
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=   50
+|Ground=    0
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=     50
+|Water=   100
+|Grass=   100
+|Electric=  0
+|Psychic= 100
+|Ice=     400
+|Dragon=  200
+|Dark=    100
+|Fairy=   200
+|notes=yes
+|levitate=yes
+|newground=1
+|ground=yes
+|newelectric=½}}
+
+===Learnset===
+Vibrava is available in {{pkmn|Scarlet and Violet}} Version 3.0.0+.
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Vibrava|Ground|Dragon|3}}
+{{learnlist/level9|1|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level9|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level9|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Fissure|Ground|Physical|—|30|5}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level9|12|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level9|16|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level9|20|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/level9|24|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|28|Bug Buzz|Bug|Special|90|100|10}}
+{{learnlist/level9|32|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level9|38|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level9|44|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level9|50|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level9|56|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/level9|62|Boomburst|Normal|Special|140|100|10}}
+{{learnlist/levelf/9|Vibrava|Ground|Dragon|3}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Vibrava|Ground|Dragon|3}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM005|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM027|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm9|TM028|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM035|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/tm9|TM036|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm9|TM040|Air Cutter|Flying|Special|60|95|25}}
+{{learnlist/tm9|TM044|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM051|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM078|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM086|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm9|TM097|Fly|Flying|Physical|90|95|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM108|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10}}
+{{learnlist/tm9|TM113|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM116|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10}}
+{{learnlist/tm9|TM133|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/tm9|TM149|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm9|TM150|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM176|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20}}
+{{learnlist/tm9|TM191|Uproar|Normal|Special|90|100|10}}
+{{learnlist/tm9|TM197|Dual Wingbeat|Flying|Physical|40|90|10}}
+{{learnlist/tm9|TM215|Scorching Sands|Ground|Special|70|100|10||'''}}
+{{learnlist/tm9|TM221|Throat Chop|Dark|Physical|80|100|15}}
+{{learnlist/tmf/9|Vibrava|Ground|Dragon|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Vibrava|Ground|Dragon|3}}
+{{learnlist/breed9|{{MSP/H|0168|Ariados}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0204|Pineco}}{{MSP/H|0205|Forretress}}{{MSP/H|0401|Kricketot}}{{MSP/H|0415|Combee}}{{MSP/H|0540|Sewaddle}}{{MSP/H|0541|Swadloon}}{{MSP/H|0542|Leavanny}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}{{MSP/H|0636|Larvesta}}{{MSP/H|0637|Volcarona}}{{MSP/H|0664|Scatterbug}}{{MSP/H|0736|Grubbin}}{{MSP/H|0737|Charjabug}}{{MSP/H|0738|Vikavolt}}{{MSP/H|0751|Dewpider}}{{MSP/H|0752|Araquanid}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}{{MSP/H|0953|Rellor}}{{MSP/H|0954|Rabsca}}{{tt|*|Larvesta learned Bug Bite via level-up prior to Version 2.0.1; it can still learn Bug Bite via TM182}}|Bug Bite|Bug|Physical|60|100|20}}
+{{learnlist/breed9|{{MSP/H|0330|Flygon}}{{MSP/H|0469|Yanmega}}{{MSP/H|0917|Tarountula}}{{MSP/H|0918|Spidops}}{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|Feint|Normal|Physical|30|100|10}}
+{{learnlist/breed9|{{MSP/H|0919|Nymble}}{{MSP/H|0920|Lokix}}|First Impression|Bug|Physical|90|100|10}}
+{{learnlist/breed9|{{MSP/H|0129|Magikarp}}{{MSP/H|0130|Gyarados}}{{MSP/H|0349|Feebas}}{{MSP/H|0350|Milotic}}{{MSP/H|0540|Sewaddle}}{{MSP/H|0541|Swadloon}}{{MSP/H|0704|Goomy}}{{MSP/H|0705|Sliggoo}}{{MSP/H|0705-Hisui|Sliggoo}}{{MSP/H|0706|Goodra}}{{MSP/H|0706-Hisui|Goodra}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed9|{{MSP/H|0123|Scyther}}{{MSP/H|0212|Scizor}}{{MSP/H|0900|Kleavor}}{{MSP/H|0207|Gligar}}{{MSP/H|0472|Gliscor}}{{MSP/H|0253|Grovyle}}{{MSP/H|0254|Sceptile}}{{MSP/H|0402|Kricketune}}{{MSP/H|0595|Joltik}}{{MSP/H|0596|Galvantula}}|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/breed9|{{MSP/H|0284|Masquerain}}{{MSP/H|0415|Combee}}{{MSP/H|0637|Volcarona}}{{MSP/H|0666|Vivillon}}{{MSP/H|0714|Noibat}}{{MSP/H|0715|Noivern}}|Gust|Flying|Special|40|100|35}}
+{{learnlist/breed9|{{MSP/H|0123|Scyther}}{{MSP/H|0212|Scizor}}{{MSP/H|0900|Kleavor}}{{MSP/H|0193|Yanma}}{{MSP/H|0469|Yanmega}}{{MSP/H|0207|Gligar}}{{MSP/H|0472|Gliscor}}{{MSP/H|0252|Treecko}}{{MSP/H|0253|Grovyle}}{{MSP/H|0254|Sceptile}}{{MSP/H|0283|Surskit}}{{MSP/H|0284|Masquerain}}{{MSP/H|0313|Volbeat}}{{MSP/H|0885|Dreepy}}{{MSP/H|0886|Drakloak}}{{MSP/H|0887|Dragapult}}|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/breedf/9|Vibrava|Ground|Dragon|3}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Vibrava|Ground|Dragon|3}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Vibrava|Ground|Dragon|3}}
+
+===Side game data===
+{{Spindata/Head|type=Ground|type2=Dragon}}
+{{Spindata/PinballRS|col=3|type=Ground|ndex=329|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Ground|ndex=329|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Ground|ndex=329
+|body=1
+|rate=-19
+|area=Furnace Desert
+|P1=My ultrasonic waves are beyond your range of hearing. OK?
+|P2=I only have half my health left...
+|P3=I've had it... I can't even vibrate my wings...
+|PL=I've leveled up! My ultrasonic waves are in prime form!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ground|ndex=329
+|body=1
+|rate=0.5
+|IQ=D
+}}
+|-
+{{Spindata/PSMD|col=6|type=Ground|ndex=329
+|coset=28
+|conto={{p|Durant}}
+|recruitment=Traveling Pokémon
+|P1=I vibrate my wings rigorously all the time. No, it's not restless-wing syndrome.
+|P2=I have a little headache...
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Ground
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/RumbleRush|col=6|type=Ground|ndex=329
+|walk=1.75
+|hp=48
+|attack=71
+|defense=48
+|speed=60
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ground|ndex=329
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=329|num=526
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Hitting Streak
+|skilldesc=Increases damage when it is triggered in a row.
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=329
+|hatch=N/A
+|buddy=5
+|candy=Trapinch
+|evocandy=100
+|stamina=137
+|attack=134
+|defense=99
+|fast={{m|Mud Shot}}, {{m|Dragon Breath}}, {{m|Sand Attack}}{{tt|*|From March 1, 2024 onward}}
+|special={{m|Sand Tomb}}, {{m|Bulldoze}}, {{m|Bug Buzz}}, {{m|Scorching Sands}}{{tt|*|From September 1, 2023 onward}}, {{m|Frustration}}[[File:GO Shadow icon.png|24px|link=Shadow Pokémon (GO)|As Shadow Pokémon]], {{m|Return}}[[File:GO Purified icon.png|24px|link=Shadow Pokémon (GO)|As Purified Pokémon]]
+}}
+|}
+
+In {{g|GO}}, Vibrava could be obtained by completing the [[Special Research]], ''Distracted by Something Shiny''.
+
+===Evolution data===
+{{Evobox-3
+|type1=Ground
+|type2=Dragon
+|pictype=art
+|no1=0328
+|name1=Trapinch
+|type1-1=Ground
+|evo1={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 35}}
+|no2=0329
+|name2=Vibrava
+|type1-2=Ground
+|type2-2=Dragon
+|evo2={{bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 45}}
+|no3=0330
+|name3=Flygon
+|type1-3=Ground
+|type2-3=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground|type2=Dragon}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=329}}
+{{Spritebox/4|ndex=329}}
+{{Spritebox/5|ndex=329}}
+{{Spritebox/6|ndex=329|crop=115}}
+{{Spritebox/7|ndex=329|crop=116}}
+{{Spritebox/8|ndex=329}}
+<!--{{Spritebox/9|ndex=0329}}-->
+{{Spritebox/HOME|ndex=0329}}
+{{Spritebox/Footer|329|Vibrava}}
+
+==In animation==
+[[File:Pericarp Town Vibrava.png|thumb|250px|Vibrava in {{aniseries|HZ}}]]
+===Major appearances===
+Multiple Vibrava made their animated series debut in ''[[AG106|Beg, Burrow and Steal]]''. Dozens of Trapinch were seen evolving into them at [[Trapinch underground labyrinth|an underground lake]]. {{TRT}} attempted to steal the Vibration Pokémon despite the fact the idea {{MTR}} had of using their previous forms as nutcrackers was now foiled.
+
+In ''[[AG162|Spontaneous Combusken]]'', [[Brianna]] used a Vibrava during the [[Contest Battle|Battle Stage]] of the {{isl|Chrysanthemum}} {{pkmn|Contest}}.
+
+In ''[[JN036|Making Battles in the Sand!]]'', [[Goh]] caught a {{DL|List of Goh's Pokémon|Vibrava}} when he investigated a sandstorm in [[Mauville City]]. It has since made further appearances in {{aniseries|JN}}.
+
+In ''[[JN090|Showdown at the Gates of Warp!]]'', due to {{OBP|Dialga|recurring}} and {{OBP|Palkia|recurring}}'s influence, [[Goh's Flygon]] [[devolution|devolved]] into a Vibrava and then into a Trapinch. It was later reverted in the same episode. The same also occurred with [[Alternate World Goh]]'s Flygon.
+
+===Minor appearances===
+Multiple Vibrava debuted in ''[[M06|Jirachi: Wish Maker]]''.
+
+In ''[[AG121|Hi Ho Silver Wind!]]'', a {{pkmn|Coordinator}}'s Vibrava competed in the [[Hoenn Grand Festival]].
+
+A Coordinator's Vibrava appeared in ''[[AG160|Harley Rides Again]]''.
+
+A Vibrava appeared in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! Part 1]]'' and ''[[DP072|Part 2]]''.
+
+In ''[[XY077|A Relay in the Sky!]]'', a {{pkmn|Trainer}}'s Vibrava competed in the [[Pokémon Sky Relay]]. It was in a team also consisting of {{p|Ninjask}} and {{p|Shedinja}}.
+
+In ''[[SM046|Deceiving Appearances!]]'', five Vibrava were at [[Aether Paradise]].
+
+In ''[[SM090|Securing the Future!]]'', a Vibrava joined the rest of [[Alola]] in showering {{an|Necrozma}} with light so it could return to its {{DL|List of Pokémon with form differences|Necrozma|normal form}}.
+
+A Vibrava appeared in ''[[M23|Secrets of the Jungle]]''.
+
+Multiple Vibrava appeared in ''[[HZ084|Where the Land Meets the Sky]]''.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG106|Vibrava|Ash's Pokédex|Vibrava, the Vibration Pokémon. Vibrava is the evolved form of Trapinch. By flapping their wings, they create vibrations, emitting ultrasonic waves.}}
+{{Animedexfooter/Pokémon|Hoenn}}
+{{Animedexheader|Galar}}
+{{Animedexbody|JN036|Vibrava|Goh's Rotom Phone|Vibrava, the Vibration Pokémon. A {{t|Ground}} and {{t|Dragon}} type. Vibrava can create ultrasonic waves with its double set of wings. Those waves can cause headaches in humans.}}
+{{Animedexfooter/Pokémon|Galar}}
+{{Animedexheader|Paldea}}
+{{Animedexbody|HZ084|Vibrava|Dot's Rotom Phone|Vibrava, the Vibration Pokémon. A {{t|Ground}} and {{t|Dragon}} type. Vibrava's wings have not completed the process of growing. Rather than using them for flight, it rubs them together, attacking enemies with ultrasonic waves.}}
+{{Animedexfooter/Pokémon|Paldea}}
+
+==In the manga==
+[[File:Hugh Vibrava Adventures.png|thumb|200px|Vibrava in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+{{tc|Aqua Admin}}s [[Shelly]] and [[Matt]] both own a Vibrava they use for aerial transport. Shelly's Vibrava debuted in ''[[PS213|Bubble Bubble Toil and Azumarill II]]'', while Matt's debuted in ''[[PS246|Can I Ninjask You a Question?]]''.
+
+[[Hugh]] owns a Vibrava, which evolved from his Trapinch prior to ''[[PS530|Movie Panic]]''.
+{{-}}
+
+==In the TCG==
+{{main|Vibrava (TCG)}}
+
+==Trivia==
+* Vibrava shares its {{pkmn|category}} with {{p|Palpitoad}} and {{p|Seismitoad}}. They are all known as the Vibration Pokémon.
+* Vibrava and its evolved form are the only {{type|Dragon}} {{OBP|Pokémon|species}} belonging in the {{egg3|Bug}}.
+** As of [[Generation VIII]], Vibrava and its evolutionary relatives are the only Pokémon that are in the Bug and {{egg|Dragon}} [[Egg Group]]s.
+* Vibrava is the only {{type|Ground}} {{DL|List of Pokémon by shape|Pokémon with two or more pairs of wings}}.
+* Vibrava's base Attack stat is lower than that of its {{p|Trapinch|pre-Evolution}}, but it returns to the original stat when it evolves into {{p|Flygon}}.
+* Vibrava is the only Pokémon to gain the {{type|Dragon}} upon Evolution and still be able to evolve.
+* In {{g|Colosseum}}, Vibrava is the only Dragon-type Pokémon that can be snagged, although {{p|Altaria}} is available upon snagging and evolving {{p|Swablu}}.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Trapinch, Vibrava and Flygon}}
+Vibrava appears to be based on the adult stage of an {{wp|antlion}}, though it seems to draw more visual inspiration from {{wp|mayfly|mayflies}}, possibly nodding to the Japanese word for an adult antlion, ''usuba-kagerou'', or "thin-winged mayfly". Combined with an antlion's resemblance to a {{wp|dragonfly}}, Vibrava's typing suggests that it may also draw inspiration from {{wp|Progomphus|sanddragons}}. Its tendency to create harsh noises with its wings is similar to that of a {{wp|cicada}}.
+
+====Name origin====
+Vibrava may be a combination of ''vibrate'' (to shake rapidly) and ''{{wp|larva}}''. It may also derive from ''{{wp|European dragon#Dragons in Catalan mythology|Vibra}}''.
+
+==In other languages==
+{{Other languages|type=Ground|type2=Dragon
+|ja=ビブラーバ ''Vibrava''|jameaning=From ''vibrate'', ''larva'', and ''Vibra''
+|fr=Vibraninf|frmeaning=From ''vibration'' and ''{{wp|Nymph (biology)|nymphe}}''
+|es=Vibrava|esmeaning=Same as English name
+|de=Vibrava|demeaning=Same as English name
+|it=Vibrava|itmeaning=Same as English name
+|ko=비브라바 ''Vibrava''|komeaning=Transcription of the Japanese name
+|zh_cmn=超音波幼蟲 / 超音波幼虫 ''Chāoyīnbōyòuchóng''|zh_cmnmeaning=From {{tt|超音波 ''chāoyīnbō''|ultrasound}} and {{tt|幼蟲 / 幼虫 ''yòuchóng''|larva}}
+|zh_yue=超音波幼蟲 ''Chīuyāmbōyauchùhng''|zh_yuemeaning=From {{tt|超音波 ''chīuyāmbō''|ultrasound}} and {{tt|幼蟲 ''yauchùhng''|larva}}
+|hi=कंपनार्वा ''Kampanaarva''|himeaning=From {{tt|कंपन ''kampan''|vibrate}} and ''larva''
+|th=วิบราวา ''Wibrawa''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Ground|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=0328|prev=Trapinch|nextnum=0330|next=Flygon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+
+[[de:Vibrava]]
+[[es:Vibrava]]
+[[fr:Vibraninf]]
+[[it:Vibrava]]
+[[ja:ビブラーバ]]
+[[zh:超音波幼虫]]

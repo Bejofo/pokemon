@@ -1,0 +1,319 @@
+{{PokémonPrevNext/Head|type=Fire|type2=Poison}}
+{{PokémonPrevNext/GO|species=Iron Moth}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=0993|prev=Iron Jugulis|nextnum=0995|next=Iron Thorns|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Iron Moth
+|jname=テツノドクガ
+|tmname=Tetsunodokuga
+|ndex=0994
+|type1=Fire
+|type2=Poison
+|category=Paradox
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=79.4
+|weight-kg=36.0
+|abilitylayout=1
+|ability1=Quark Drive
+|ability2=
+|abilityd=
+|egggroupn=1
+|egggroup1=No Eggs Discovered
+|egggroup2=
+|eggcycles=50
+|evtotal=3
+|evhp=0
+|evat=0
+|evde=0
+|evsa=3
+|evsd=0
+|evsp=0
+|expyield=285
+|lv100exp=1250000
+|gendercode=255
+|color=White
+|catchrate=30
+|body=13
+|pokefordex=iron-moth
+|generation=9
+|friendship=0
+}}
+'''Iron Moth''' ([[List of Japanese Pokémon names|Japanese]]: '''テツノドクガ''' ''Tetsunodokuga'') is a dual-type {{2t|Fire|Poison}} [[Paradox Pokémon]] introduced in [[Generation IX]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It is said to be either a future relative of {{p|Volcarona}} or a counterpart of it from a parallel timeline. It also has an ancient variant, {{p|Slither Wing}}.
+
+==Biology==
+[[File:Iron_Moth_leg_shot.png|thumb|200px|left|Iron Moth firing its "feet"]]
+Iron Moth is very similar to Volcarona in appearance, resembling a robotic moth. It has four small "feet", red compound eyes, red horns on the sides of its head, and white armor plating covering its thorax. Its abdomen is black and light blue with two black diamond spots on the outside. It has six diamond-shaped wings that are mostly orange with white speckles and a single black triangle marking, which levitate a short distance away from its body. 
+[[File:Ironmothcanon.png|thumb|200px|Iron Moth's "wings" forming into a sun-shaped cannon]]
+In an article from an August issue of {{DL|Magazines in the Pokémon world|Occulture}} magazine, it is said that the name Iron Moth was borrowed from that of a flying object described in the [[Violet Book]]. Iron Moth is said to resemble {{p|Volcarona}}, and it would descend from the skies, following people around and occasionally attacking them. Some point to Iron Moth's aggression as evidence supporting that it may be a UFO controlled by alien life. It is speculated that something out there may be using Iron Moth to observe the people of the [[Pokémon world]] in preparation for an invasion. It was shown to be capable of firing its "feet" like bullets before reloading with a new set from inside its body. It has been seen releasing attacks from its six connected wings similarly to a cannon. When it falls asleep, it turns itself off, connecting its wings to its back and causing the orange energy on its wings to turn black.
+
+According to [[Professor Turo|AI Turo]], Iron Moth is a future Pokémon related to Volcarona. However, according to a version of Professor Turo that appeared at the [[Crystal Pool]], Iron Moth is a counterpart of Volcarona from another timeline. Its true origin is unknown. Iron Moth was brought to the depths of [[Area Zero]] by a [[time machine]] built by Professor Turo ten years ago. 200 years ago, [[Heath]] also encountered Iron Moth, as seen in the Violet Book, though it is unclear how it arrived there at the time.
+
+Iron Moth and its present day relative, Volcarona, are the [[Signature move|only known Pokémon]] capable of learning the move {{m|Fiery Dance}}.
+{{left clear}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fire|type2=Poison}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|num1=386|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=No records exist of this species being caught. Data is lacking, but the Pokémon's traits match up with an object described in an old book.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{poison color dark}}; background:#{{fire color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{fire color light}}; background:#{{fire color light}} | [[File:Pokédex Image Iron Moth SV.png|x200px]]
+|-
+| Iron Moth in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Fire|type2=Poison}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1/None|1|v=Scarlet|area=[[Union Circle]], [[Poké Portal News]]}}
+{{Availability/Entry1|1|v=Violet|t=FFF|area=[[Area Zero]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====[[Poké Portal News]]=====
+{{eventAvail/h|Tera Type|type=Fire|type2=Poison|lochide=yes}}
+{{eventAvail|{{gameabbrev9|V}}|Slither Wing and Iron Moth|Random<br>Grass|hide|75|September 22 to 24, 2023|link=Poké Portal News/2023#September 22 to 24, 2023}}
+{{eventAvail|{{gameabbrev9|V}}|Roaring Moon and Iron Valiant the Unrivaled|Random|hide|75|October 3 to 12, 2025|link=Poké Portal News#October 3 to 12, 2025}}
+|}
+
+====In side games====
+
+===Held items===
+{{HeldItems/header|type=Fire|type2=Poison}}
+{{HeldItems/Games2|Scarlet|Violet|gcolor1=FFF|tcolor1={{Scarlet color}}|tcolor2=FFF|Pokémon Scarlet and Violet}}
+{{HeldItems/Items1|Booster Energy|size=24px|5}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fire
+|type2=Poison
+|HP=80
+|Attack=70
+|Defense=60
+|SpAtk=140
+|SpDef=110
+|Speed=110
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fire
+|type2=Poison
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=50
+|Ground=400
+|Rock=200
+|Bug=25
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=25
+|Electric=100
+|Psychic=200
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=25
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Iron Moth|Fire|Poison|9}}
+{{learnlist/level9|1|Gust|Flying|Special|40|100|35}}
+{{learnlist/level9|1|Whirlwind|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level9|1|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/level9|7|Struggle Bug|Bug|Special|50|100|20}}
+{{learnlist/level9|14|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/level9|21|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level9|28|Lunge|Bug|Physical|80|100|15}}
+{{learnlist/level9|35|Screech|Normal|Status|—|85|40}}
+{{learnlist/level9|42|Discharge|Electric|Special|80|100|15}}
+{{learnlist/level9|49|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/level9|56|Fiery Dance|Fire|Special|80|100|10||'''}}
+{{learnlist/level9|63|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/level9|70|Morning Sun|Normal|Status|—|—|5}}
+{{learnlist/level9|77|Hurricane|Flying|Special|110|70|10}}
+{{learnlist/level9|84|Bug Buzz|Bug|Special|90|100|10}}
+{{learnlist/level9|91|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/levelf/9|Iron Moth|Fire|Poison|9}}
+
+====By [[TM]]====
+{{learnlist/tmh/9|Iron Moth|Fire|Poison|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM013|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/tm9|TM014|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm9|TM015|Struggle Bug|Bug|Special|50|100|20}}
+{{learnlist/tm9|TM017|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm9|TM024|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM038|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm9|TM045|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM060|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm9|TM065|Air Slash|Flying|Special|75|95|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM079|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM091|Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/tm9|TM093|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM118|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm9|TM120|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm9|TM125|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM141|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM157|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm9|TM160|Hurricane|Flying|Special|110|70|10}}
+{{learnlist/tm9|TM162|Bug Buzz|Bug|Special|90|100|10}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM165|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM175|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm9|TM185|Lunge|Bug|Physical|80|100|15}}
+{{learnlist/tm9|TM214|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm9|TM220|Meteor Beam|Rock|Special|120|90|10}}
+{{learnlist/tm9|TM223|Metal Sound|Steel|Status|—|85|40}}
+{{learnlist/tmf/9|Iron Moth|Fire|Poison|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Iron Moth|Fire|Poison|9}}
+{{learnlist/breed9null}}
+{{learnlist/breedf/9|Iron Moth|Fire|Poison|9}}
+
+===Side game data===
+{{Spindata/Head|type=Fire|type2=Poison}}
+{{Spindata/GO
+| col = 6
+| type = Fire
+| ndex = 0994
+| hatch = N/A
+| buddy = 20
+| evolution = N/A
+| stamina = 190
+| attack = 281
+| defense = 196
+| fast = 
+| special = 
+| candy = 
+}}
+|}
+
+===Evolution data===
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-1
+|type1=Fire
+|type2=Poison
+|pictype=art
+|no1=0994
+|name1=Iron Moth
+|type1-1=Fire
+|type2-1=Poison}}
+</div>
+
+===Sprites===
+{{Spritebox/Header|type=fire|type2=poison}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=0994}}-->
+{{Spritebox/HOME|ndex=0994}}
+{{Spritebox/Footer|994|Iron Moth}}
+
+==In animation==
+===Main series===
+====Major appearances====
+====Minor appearances====
+
+==In the manga==
+==In the TCG==
+{{main|Iron Moth (TCG)}}
+
+==Trivia==
+* Iron Moth and {{p|Slither Wing}} can be considered counterparts of one another.
+** Both share one [[type]] with {{p|Volcarona}}, but neither share the same type with each other.
+** Both are the first Paradox Pokémon used by the AI Professors in their battles with the player.
+** Both are the only Paradox Pokémon that can be naturally found in the same area as their relative.
+* Iron Moth has the highest base {{stat|Special Attack}} stat of all Paradox Pokémon.
+
+===Origin===
+Iron Moth is based on {{p|Volcarona}}. Its descriptions in the Pokédex and the {{DL|Magazines in the Pokémon world|Occulture}} magazine suggest it is based on a {{wp|UFO}}, specifically a {{wp|foo fighter}}, a type of UFO which was often described as a ball of fire, and whose name may have come from a corruption of the French word ''feu'', meaning fire. Its appearance may also be based on satellites and space telescopes, particularly the {{wp|James Webb Space Telescope}}, while its wings resemble {{wp|solar panel}}s, heat {{wp|Spacecraft_thermal_control#Radiators|radiators}}, or {{wp|LED display}}s. It may specifically be based on [[wp:Dyson_sphere|Dyson swarms]], the theoretical concept of sending solar panels to closely orbit the sun to send energy back to Earth, or {{wp|space-based solar power}}, a similar concept that would use satellites orbiting Earth instead.
+
+====Name origin====
+Iron Moth is literally ''iron moth''.
+
+Tetsunodokuga can be taken literally as 鉄の毒蛾 ''tetsu no dokuga'' (iron venomous moth).
+
+==In other languages==
+{{Other languages|type=Fire|type2=Poison
+|ja=テツノドクガ ''Tetsunodokuga''|jameaning=From {{tt|鉄の毒蛾 ''tetsu no dokuga''|iron venomous moth}}
+|fr=Mite-de-Fer|frmeaning=From ''{{tt|mite de fer|iron moth}}''
+|es=Ferropolilla|esmeaning= From ''{{tt|ferro-|Latin prefix that means ''iron''}}'' and ''{{tt|polilla|moth}}''
+|de=Eisenfalter|demeaning=From ''{{tt|Eisen|iron}}'' and ''{{tt|Falter|lepidopteran}}''
+|it=Falenaferrea|itmeaning=From ''{{tt|falena|moth}}'' and ''{{tt|ferrea|iron}}''
+|ko=무쇠독나방 ''Musoedongnabang''|komeaning=From {{tt|무쇠 ''musoe''|cast iron}} and {{tt|독나방 ''dongnabang''|venomous moth}}
+|zh_cmn=鐵毒蛾 / 铁毒蛾 ''Tiědú'é''|zh_cmnmeaning=From {{tt|鐵 / 铁 ''tiě''|iron}} and {{tt|毒蛾 ''dú'é''|venomous moth}}
+|zh_yue=鐵毒蛾 ''Titduhkngòh''|zh_yuemeaning=From {{tt|鐵 ''tit''|iron}} and {{tt|毒蛾 ''duhkngòh''|venomous moth}}
+|hi=आइरनमॉथ ''Ironmoth''|himeaning=From ''iron'' and ''moth''
+|pt_br=Mariposa Férrea|pt_brmeaning=From ''{{tt|mariposa|moth}}'' and ''{{tt|férrea|ferrous}}''
+|th=แมลงมอธเหล็ก ''Malaengmotlek''|thmeaning=From ''{{tt|แมลงมอธ malaengmot|moth}}'' and ''{{tt|เหล็ก lek|iron}}''
+|ru=Железный Мотылёк ''Zheleznyy Motylyok''|rumeaning=From {{tt|железный ''zheleznyye''|iron (masculine adjective)}} and {{tt|мотылёк ''motylyok''|butterfly, moth}}
+}}
+
+==Related articles==
+* [[Paradox Pokémon]]
+* [[Violet Book]]
+* [[Artificial Pokémon]]
+* [[Extraterrestrial Pokémon]]
+
+==References==
+<references/>
+
+==External links==
+
+{{Paradox Pokémon}}
+
+{{PokémonPrevNext/Head|type=Fire|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=0993|prev=Iron Jugulis|nextnum=0995|next=Iron Thorns}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Paradox Pokémon]]
+[[Category:Future Pokémon]]
+
+[[de:Eisenfalter]]
+[[es:Ferropolilla]]
+[[fr:Mite-de-Fer]]
+[[it:Falenaferrea]]
+[[ja:テツノドクガ]]
+[[zh:铁毒蛾]]

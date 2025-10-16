@@ -1,0 +1,345 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Wooloo}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0830|prev=Eldegoss|nextnum=0832|next=Dubwool|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Wooloo
+|jname=ウールー
+|jtranslit=Ūrū
+|tmname=Wooluu
+|ndex=0831
+|type1=Normal
+|category=Sheep
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=13.2
+|weight-kg=6.0
+|abilityn=d
+|ability1=Fluffy
+|ability2=Run Away
+|abilityd=Bulletproof
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=1
+|evde=1
+|expyield=122
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|catchrate=255
+|body=08
+|pokefordex=wooloo
+|generation=8
+|friendship=50
+}}
+'''Wooloo''' ([[List of Japanese Pokémon names|Japanese]]: '''ウールー''' ''Wooluu'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation VIII]].
+
+It [[Evolution|evolves]] into {{p|Dubwool}} starting at [[level]] 24.
+
+==Biology==
+[[File:WoolooCrownZenith121.jpg|thumb|left|150px|A rolling Wooloo]]
+Wooloo is a black {{wp|sheep|ovine}} {{OBP|Pokémon|species}} with a thick coat of white wool that makes it look spherical. Its small head pokes out of the front of the wool, along with two short horns. Wooloo's eyes have yellow sclerae, black irises, and white, horizontal pupils. Two large ears are visible behind gray strings of wool that resemble braided pigtails. Wooloo's wool covers its entire body and most of its short hooved legs, along with a tail that is barely visible on its rear end.
+
+Wooloo's fleece is extremely fluffy and can serve as a cushion, allowing it to survive even a fall from a cliff without any injuries. Its fur grows continuously, being able to fully grow back in just three months after it is completely shaved. The fur is a specialty product in [[Galar]], being used for clothing and carpets; the clothing made from Wooloo's wool has a remarkable strength. If Wooloo's fur grows too long, it will be unable to move. Wooloo live in herds and are known to mimic the actions of their herd leader or Trainer. They have a friendly disposition and dislike conflict, and can escape from enemies by simply rolling away.<ref>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/wooloo/ Wooloo | Official Website | Pokémon Sword and Pokémon Shield]</ref> {{p|Yamper}} is used to herd Wooloo.
+
+<gallery>
+File:0831Wooloo 2.png|Wooloo curl up when they sleep, making them look like cotton balls
+</gallery>
+
+===Evolution===
+Wooloo evolves into {{p|Dubwool}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0831
+|name1=Wooloo
+|type1-1=Normal
+|evo1=
+|no2=0832
+|name2=Dubwool
+|type1-2=Normal}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=VIII}}
+{{Dex/Gen/4|gen=VIII|reg1=Galar|num1=034|reg2=Galar|label2=Crown Tundra|num2=003|reg3=Sinnoh|reg4=Hisui}}
+{{Dex/NE|[[Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl]], and [[Pokémon Legends: Arceus|Legends: Arceus]]}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=If its fleece grows too long, Wooloo won't be able to move. Cloth made with the wool of this Pokémon is surprisingly strong.}}
+|}
+|}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|reg3=Blueberry}}
+{{Dex/NE|[[Generation IX]]}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=VIII}}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Route]]s {{rtn|1|Galar}} and {{rtn|4|Galar}}, [[Motostoke Riverbank]]<br>[[Bridge Field/Dens|Bridge Field]], [[East Lake Axewell/Dens|East Lake Axewell]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]], [[Rolling Fields/Dens|Rolling Fields]], [[Stony Wilderness/Dens|Stony Wilderness]] ([[Max Raid Battle]])}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Slippery Slope]], [[Frostpoint Field]], [[Giant's Bed]], [[Snowslide Slope]], [[Three-Point Pass]]<br>[[Slippery Slope/Dens|Slippery Slope]], [[Giant's Bed/Dens|Giant's Bed]], [[Giant's Foot/Dens|Giant's Foot]], [[Ballimere Lake/Dens|Ballimere Lake]] ([[Max Raid Battle]])}}
+{{Availability/Entry2/None|v=Brilliant Diamond|v2=Shining Pearl|area=Unobtainable}}
+{{Availability/Entry1/None|v=Legends: Arceus|area=Unobtainable}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=Unobtainable}}
+|}
+|}
+{{Availability/Footer}}
+
+<!--====In side games====-->
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|HP=42
+|Attack=40
+|Defense=55
+|SpAtk=40
+|SpDef=45
+|Speed=48
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+|fluffy=maybe
+|newfire=2
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/8|Wooloo|Normal|Normal|8}}
+{{learnlist/level8|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level8|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level8|4|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level8|8|Copycat|Normal|Status|—|—|20}}
+{{learnlist/level8|12|Guard Split|Psychic|Status|—|—|10}}
+{{learnlist/level8|16|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level8|21|Headbutt|Normal|Physical|70|100|15||'''}}
+{{learnlist/level8|25|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level8|28|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/level8|32|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/level8|36|Cotton Guard|Grass|Status|—|—|10}}
+{{learnlist/level8|40|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/levelf/8|Wooloo|Normal|Normal|8}}
+
+====By [[TM]]/[[TR]]====
+{{learnlist/tmh/8|Wooloo|Normal|Normal|8}}
+{{learnlist/tm8|TM14|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm8|TM21|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM24|Snore|Normal|Special|50|100|15||'''}}
+{{learnlist/tm8|TM25|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm8|TM31|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm8|TM39|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm8|TM57|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm8|TM61|Guard Swap|Psychic|Status|—|—|10}}
+{{learnlist/tm8|TM76|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tr|TR12|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tr|TR20|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tr|TR21|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tr|TR26|Endure|Normal|Status|—|—|10}}
+{{learnlist/tr|TR27|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tr|TR80|Electro Ball|Electric|Special|—|100|10}}
+{{learnlist/tr|TR86|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tmf/8|Wooloo|Normal|Normal|8}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/8|Wooloo|Normal|Normal|8}}
+{{learnlist/breed8|{{MSP/8c|263G|Zigzagoon}}{{MSP/8c|264G|Linoone}}{{MSP/8c|862|Obstagoon}}{{MSP/8c|448|Lucario}}{{MSP/8c|745Mn|Lycanroc}}{{MSP/8c|745D|Lycanroc}}{{MSP/8c|749|Mudbray}}{{MSP/8c|750|Mudsdale}}{{MSP/8c|813|Scorbunny}}{{MSP/8c|814|Raboot}}{{MSP/8c|815|Cinderace}}{{MSP/8c|819|Skwovet}}{{MSP/8c|820|Greedent}}|Counter|Fighting|Physical|—|100|20|grid=7}}
+{{learnlist/breed8|{{MSP/8c|077|Ponyta}}{{MSP/8c|077G|Ponyta}}{{MSP/8c|078|Rapidash}}{{MSP/8c|078G|Rapidash}}{{MSP/8c|111|Rhyhorn}}{{MSP/8c|112|Rhydon}}{{MSP/8c|464|Rhyperior}}{{MSP/8c|293|Whismur}}{{MSP/8c|294|Loudred}}{{MSP/8c|295|Exploud}}{{MSP/8c|749|Mudbray}}{{MSP/8c|750|Mudsdale}}{{MSP/8c|878|Cufant}}{{MSP/8c|879|Copperajah}}|Stomp|Normal|Physical|65|100|20||'''|grid=7}}
+{{learnlist/breed8|{{MSP/8c|052G|Meowth}}{{MSP/8c|863|Perrserker}}{{MSP/8c|128|Tauros}}{{MSP/8c|274|Nuzleaf}}{{MSP/8c|275|Shiftry}}{{MSP/8c|364|Sealeo}}{{MSP/8c|365|Walrein}}{{MSP/8c|403|Shinx}}{{MSP/8c|404|Luxio}}{{MSP/8c|405|Luxray}}{{MSP/8c|551|Sandile}}{{MSP/8c|552|Krokorok}}{{MSP/8c|553|Krookodile}}{{MSP/8c|559|Scraggy}}{{MSP/8c|560|Scrafty}}{{MSP/8c|614|Beartic}}{{MSP/8c|725|Litten}}{{MSP/8c|726|Torracat}}{{MSP/8c|727|Incineroar}}|Swagger|Normal|Status|—|85|15|grid=7}}
+{{learnlist/breedf/8|Wooloo|Normal|Normal|8}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/8|Wooloo|Normal|Normal|8}}
+{{learnlist/tutor8|Grassy Glide|Grass|Physical|70|100|20|||no|yes}}
+{{learnlist/tutorf/8|Wooloo|Normal|Normal|8}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|}}
+{{Spindata/GO|col=6|type=Normal|ndex=831
+|egg=N/A
+|buddy=3
+|candy=Wooloo
+|evocandy=50
+|stamina=123
+|attack=76
+|defense=97
+|fast={{m|Take Down}}, {{m|Tackle}}
+|special={{m|Wild Charge}}, {{m|Payback}}, {{m|Stomp}}
+}}
+|}
+{{-}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{normal color dark}}; background:#{{normal color}}; padding:2px; font-size:80%"
+|-
+! colspan="5" style="{{roundy|20px}} background:#{{normal color light}};" | '''{{Colorlink|Event Pokémon (GO)|000|Costumes in Pokémon GO}}'''
+|-
+| style="{{roundy|80px}} border:2px solid #{{normal color dark}}; background:#{{normal color light}};"| [[File:GO0831Holiday2024.png|100px]]
+|-
+| Holiday attire
+|}
+
+===Evolution data===
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=0831
+|name1=Wooloo
+|type1-1=Normal
+|evo1={{Bag/s|Rare Candy|SV}}<br>{{color2|000|Level|Level 24}}
+|no2=0832
+|name2=Dubwool
+|type1-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=VIII}}
+{{Spritebox/8|ndex=831}}
+{{Spritebox/NA|gen=IX|is=yes}}
+{{Spritebox/HOME|ndex=0831}}
+{{Spritebox/Footer|831|Wooloo}}
+
+==In animation==
+===Main series===
+[[File:Wooloo anime.png|thumb|250px|Wooloo in {{aniseries|JN}}]]
+====Major appearances====
+A Wooloo appeared in ''[[JN115|Curtain Up! Fight the Fights!]]'', under the ownership of [[Hop]]. He used it to battle [[Ash's Pikachu]], but was immediately defeated. It made several further reappearances in later episodes, watching the [[Masters Eight Tournament]] with its {{pkmn|Trainer}}.
+
+====Minor appearances====
+Multiple Wooloo debuted in ''[[JN005|Mind-Boggling Dynamax!]]'', where they were among the Pokémon seen in the [[Wild Area]].
+
+A Trainer's Wooloo appeared in a flashback in ''[[JN044|Sword and Shield: "From Here to Eternatus!"]]''.
+
+Multiple [[Dynamax]]ed Wooloo appeared in ''[[JN045|Sword and Shield... The Legends Awaken!]]''.
+
+A Wooloo appeared in ''[[M23|Secrets of the Jungle]]''.
+
+Multiple Wooloo appeared in ''[[JN050|A Pinch of This, a Pinch of That!]]''.
+
+Multiple Wooloo appeared in ''[[JN100|Meeting Up with the Monarch!]]''.
+
+A Trainer's Wooloo appeared in ''[[HZ019|The Bittersweet Truth]]''.
+
+Two Wooloo appeared in ''[[HZ027|As Long as I'm with My Friends]]''.
+
+Multiple Wooloo appeared in ''[[HZ085|The Pokémon Paradise of Laqua!]]'', among the Pokémon living in [[Laqua]].
+
+A Wooloo appeared in ''[[HZ089|Where the Adventure Leads]]''.
+
+====Pokédex entries====
+{{Animedexheader|Galar}}
+{{Animedexbody|JN115|Wooloo|Goh's Rotom Phone|Wooloo, the Sheep Pokémon. A {{t|Normal}} type. Wooloo's tight curls of fleece provide a cushioning effect. It could fall from a high cliff and not be injured.}}
+{{Animedexfooter/Pokémon|Galar}}
+
+===Pokémon: Twilight Wings===
+[[File:Milo Wooloo TW.png|thumb|250px|Wooloo in [[Pokémon: Twilight Wings]]]]
+A Wooloo appeared in ''[[TW01|Letter]]'', under the ownership of [[Hop]]. It was seen playing with its {{pkmn|Trainer}}. Wooloo reappeared in ''[[TW02|Training]]'', where it was seen watching TV with its Trainer. It then appeared prominently in ''[[TW03|Buddy]]'', where it became jealous of Hop's admiration of [[Leon's Charizard]] and ran away from home. It reappeared again in ''[[TW07|Sky]]''. By ''[[TW08|The Gathering of Stars]]'', Wooloo had evolved into a Dubwool.
+
+Multiple other Wooloo appeared in ''Buddy'', under the ownership of [[Milo]]. They alerted Milo to the presence of Hop's Wooloo when it fell into their farm. Two of them reappeared in ''Sky'', and three of them reappeared in ''[[TW08|The Gathering of Stars]]''.
+
+===Pokémon Tales: The Misadventures of Sirfetch'd & Pichu===
+[[File:Wooloo The Misadventures of Sirfetch'd Pichu teaser.png|thumb|left|250px|Wooloo in the teaser trailer for Pokémon Tales: The Misadventures of Sirfetch'd & Pichu]]
+A Wooloo appeared in the teaser trailer for [[Pokémon Tales: The Misadventures of Sirfetch'd & Pichu]].
+{{-}}
+
+==In the manga==
+[[File:Wooloo Adventures.png|thumb|250px|Wooloo in [[Pokémon Adventures]]]]
+===Pokémon Adventures===
+Multiple Wooloo debuted in ''[[PASS02|Crackle!! Practice Battle]]'', where they were being harassed by an {{p|Obstagoon}}. They were saved by [[Henry Sword|Henry]] and his [[Lancelot|Sirfetch'd]].
+
+Multiple Wooloo appeared in a video in ''[[PASS03|Chomp!! Defeat Drednaw]]''.
+
+Multiple Wooloo appeared in a flashback in ''[[PASS05|Ooh Shiny!! Legendary Equipment]]''.
+
+[[Hop]]'s Wooloo first appeared in ''[[PASS11|Gulp!! Gulp Pokémon]]''.
+
+Multiple Wooloo appeared in ''[[PASS21|Swaying!! Murky Memories]]''.
+
+===Pokémon Journeys===
+Multiple Wooloo appeared in ''[[JNM02|Being Stalked by a Scorbunny–and Challenging a Snorlax in Dynamax Form?!]]''.
+
+==In the TCG==
+{{main|Wooloo (TCG)}}
+==Trivia==
+[[File:Company Icon Daily Discovery.png|thumb|150px|Icon of Daily Discovery]]
+* The company logo for [[Poké Job|Daily Discovery]] depicts a silhouette of a lock of hair from Wooloo.
+
+===Origin===
+Wooloo is based on a {{wp|sheep}},<ref name=InsideGamer/> perhaps specifically black-faced breeds of domestic sheep. The shape of its wool resembles a {{wp|Cotton pad|cotton ball}}. The grey hair on the sides of its head appear to be stylized in form of {{wp|braid}}s.
+
+In an interview with Gamer.nl, {{g|Sword and Shield}} director [[Shigeru Ohmori]] mentioned that one challenge present when designing Wooloo is the existence of {{p|Mareep}}, another Pokémon designed after sheep.<ref name=InsideGamer>O., Jack (2019). "[https://pu.nl/nieuws/overig/archief/in-gesprek-met-ohmori-en-masuda-over-pokemon-sword-en-shield-2/?gamer=1 In gesprek met Ohmori en Masuda over Pokémon Sword en Shield]." ''Gamer.nl'' (Dutch)</ref>
+
+====Name origin====
+Wooloo may be a combination of ''wool'' and ''{{wp|loom}}''. It may also be derived from the Japanese name.
+
+Wooluu may be derived from ウール ''ūru'' (wool) with the final vowel elongated.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ウールー ''Wooluu''|jameaning=From ''wool''
+|fr=Moumouton|frmeaning=From ''{{tt|moumoute|sheepskin}}'', ''{{tt|mou|soft}}'' and ''{{tt|mouton|sheep}}''
+|es=Wooloo|esmeaning=Same as English name
+|de=Wolly|demeaning=From ''{{tt|Wolle|wool}}'' and ''tiny'' or ''{{wp|Dolly (sheep)|Dolly}}''
+|it=Wooloo|itmeaning=Same as English name
+|ko=우르 ''Woolu''|komeaning=Transliteration of its Japanese name
+|zh_cmn=毛辮羊 / 毛辫羊 ''Máobiànyáng''|zh_cmnmeaning=From {{tt|羊毛 ''yángmáo''|wool}}, {{tt|辮 / 辫 ''biàn''|braid}}, and {{tt|羊 ''yáng''|sheep}}
+|zh_yue=毛辮羊 ''Mòuhbīnyèuhng''|zh_yuemeaning=From {{tt|羊毛 ''yèuhngmòuh''|wool}}, {{tt|辮 ''bīn''|braid}}, and {{tt|羊 ''yèuhng''|sheep}}
+|hi=ऊनू ''Oonoo''|himeaning=From {{tt|ऊन ''ūn''|wool}}
+|ru=Вулу ''Vulu''|rumeaning=From English name
+|th=วูลู ''Wulu''|thmeaning=Transcription of Japanese name
+}}
+
+==Related articles==
+
+==References==
+<references/>
+
+==External links==
+* {{wp|Wooloo|Article on Wikipedia}}
+{{-}}
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=0830|prev=Eldegoss|nextnum=0832|next=Dubwool}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon in the Galar Pokédex]]
+
+[[de:Wolly]]
+[[es:Wooloo]]
+[[fr:Moumouton]]
+[[it:Wooloo]]
+[[ja:ウールー]]
+[[zh:毛辫羊]]

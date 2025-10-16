@@ -1,0 +1,356 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Dragon}}
+{{PokémonPrevNext/GO|species=Dipplin}}
+{{PokémonPrevNext/Pokémon|type=Grass|type2=Dragon|prevnum=1010|prev=Iron Leaves|nextnum=1012|next=Poltchageist|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Dipplin
+|jname=カミッチュ
+|tmname=Kamicchu
+|jtranslit=Kamitchu
+|ndex=1011
+|type1=Grass
+|type2=Dragon
+|category=Candy Apple
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=9.7
+|weight-kg=4.4
+|abilityn=2
+|ability1=Supersweet Syrup
+|ability2=Gluttony
+|abilityd=Sticky Hold
+|egggroupn=2
+|egggroup1=Grass
+|egggroup2=Dragon
+|eggcycles=20
+|evtotal=2
+|evhp=0
+|evat=0
+|evde=2
+|evsa=0
+|evsd=0
+|evsp=0
+|expyield=170
+|lv100exp=600,000
+|gendercode=127
+|color=Green
+|catchrate=45
+|body=11
+|pokefordex=dipplin
+|generation=9
+|friendship=50
+}}
+'''Dipplin''' ([[List of Japanese Pokémon names|Japanese]]: '''カミッチュ''' ''Kamicchu'') is a dual-type {{2t|Grass|Dragon}} {{OBP|Pokémon|species}} introduced during [[Generation IX]], in [[The Teal Mask]].
+
+It [[Evolution|evolves]] from {{p|Applin}} when exposed to a [[Syrupy Apple]] and evolves into {{p|Hydrapple}} when [[level]]ed up while knowing {{m|Dragon Cheer}}. It is one of Applin's three branched Evolutions, the others being {{p|Flapple}} and {{p|Appletun}}.
+
+==Biology==
+[[File:1011 Dipplin Dream 2.png|150px|thumb|left|Dipplin's fore-wyrm head]]
+Dipplin is a worm-like Pokémon that lives inside an apple. In contrast to {{p|Applin}}'s other Evolutions, Dipplin bears a strong resemblance to Applin. Unlike Applin, however, Dipplin appears to be composed of a pair of separate creatures known as "wyrms"; the head and tail visible outside of Dipplin's apple appear to belong to two different ones.<ref name=SVsite>[https://scarletviolet.pokemon.com/en-us/pokemon/dipplin/ Dipplin — Pokémon Scarlet and Pokémon Violet | Official Website]</ref> The head belongs to the "fore-wyrm" while the tail belongs to the "core-wyrm". Both of Dipplin's bodies are light green, with a yellow-green underside. The fore-wyrm's head has two large yellow leaf-like eyestalks with small black pupils, and a tall, thin protrusion similar to a horn or an antenna. The core-wyrm's tail that sticks out from Dipplin's rear has two leaf-like features on it.
+
+Dipplin's Evolution is said to have been triggered by the [[Syrupy Apple]], found exclusively in [[Kitakami]]. The pair that composes Dipplin works together inside their shared apple. They are capable of producing syrup, which they use to coat their apple in layers. This syrup has a fragrant scent that captivates Dipplin's opponents. They can use the syrup to engulf their opponents and hinder them.<ref name=SVsite/>
+
+Dipplin and its evolved form, {{p|Hydrapple}}, are the [[Signature move|only known Pokémon]] capable of learning the move {{m|Syrup Bomb}} and the [[Signature Ability|only known Pokémon]] that can have {{a|Supersweet Syrup}} as an [[Ability]].
+
+===Evolution===
+Dipplin evolves from {{p|Applin}} and evolves into {{p|Hydrapple}}.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox-3
+|type1=Grass
+|type2=Dragon
+|pictype=art
+|no1=0840
+|name1=Applin
+|type1-1=Grass
+|type2-1=Dragon
+|evo1=
+|no2=1011
+|name2=Dipplin
+|type1-2=Grass
+|type2-2=Dragon
+|evo2=
+|no3=1019
+|name3=Hydrapple
+|type1-3=Grass
+|type2-3=Dragon}}
+</div>
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Dragon}}
+{{Dex/NA|gen=IX}}
+{{Dex/Gen/3|gen=IX|reg1=Paldea|reg2=Kitakami|num2=36|reg3=Blueberry}}
+{{Dex/Entry1|v=Scarlet|t=FFF|entry=Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{dragon color dark}}; background:#{{grass color}}; font-size:80%; border-radius: 10px"
+|-
+|style="border:2px solid #{{grass color light}}; background:#{{grass color light}} | [[File:Pokédex Image Dipplin SV Kitakami.png|x200px]]
+|-
+| Dipplin in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|-
+|}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Dragon}}
+{{Availability/NA|gen=IX}}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2/None|v=Scarlet|v2=Violet|area=[[Trade]]<sup>Version 2.0.1+</sup>}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Tera Raid Battle]]s ({{DL|List of 4★ Tera Raid Battles (Kitakami)|Dipplin|4★}})}}
+|}
+|}
+{{Availability/Footer}}
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|type2=Dragon
+|HP=80
+|Attack=80
+|Defense=110
+|SpAtk=95
+|SpDef=80
+|Speed=40
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Dragon
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=25
+|Grass=25
+|Electric=25
+|Psychic=100
+|Ice=400
+|Dragon=200
+|Dark=100
+|Fairy=200
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/9|Dipplin|Grass|Dragon|9}}
+{{learnlist/level9|1|Withdraw|Water|Status|—|—|40}}
+{{learnlist/level9|1|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level9|1|Recycle|Normal|Status|—|—|10}}
+{{learnlist/level9|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level9|{{tt|Rem.|Can only be learned via Move Reminder}}|Infestation|Bug|Special|20|100|20}}
+{{learnlist/level9|{{tt|Evo.|Learned upon evolving}}|Double Hit|Normal|Physical|35|90|10}}
+{{learnlist/level9|4|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/level9|8|Growth|Normal|Status|—|—|20}}
+{{learnlist/level9|12|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level9|16|Protect|Normal|Status|—|—|10}}
+{{learnlist/level9|20|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/level9|28|Syrup Bomb|Grass|Special|60|85|10||'''}}
+{{learnlist/level9|32|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level9|36|Recover|Normal|Status|—|—|5}}
+{{learnlist/level9|40|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level9|44|Substitute|Normal|Status|—|—|10}}
+{{learnlist/levelf/9|Dipplin|Grass|Dragon|9}}
+
+====By [[TM]]====
+
+{{learnlist/tmh/9|Dipplin|Grass|Dragon|9}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM021|Pounce|Bug|Physical|50|100|20}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM044|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM049|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm9|TM056|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM071|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM111|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/tm9|TM115|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/tm9|TM119|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm9|TM131|Pollen Puff|Bug|Special|90|100|15}}
+{{learnlist/tm9|TM137|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/tm9|TM152|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm9|TM156|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/tm9|TM159|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/tm9|TM163|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm9|TM168|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm9|TM169|Draco Meteor|Dragon|Special|130|90|5||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM180|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm9|TM182|Bug Bite|Bug|Physical|60|100|20}}
+{{learnlist/tm9|TM194|Grassy Glide|Grass|Physical|55|100|20||'''}}
+{{learnlist/tm9|TM226|Dragon Cheer|Dragon|Status|—|—|15}}
+{{learnlist/tmf/9|Dipplin|Grass|Dragon|9}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Dipplin|Grass|Dragon|9}}
+{{learnlist/breed9|{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Defense Curl|Normal|Status|—|—|40|grid=5}}
+{{learnlist/breed9|{{MSP/H|0841|Flapple}}{{MSP/H|0842|Appletun}}{{MSP/H|1011|Dipplin}}{{MSP/H|1019|Hydrapple}}|Recycle|Normal|Status|—|—|10|grid=5}}
+{{learnlist/breed9|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0946|Bramblin}}{{MSP/H|0947|Brambleghast}}|Rollout|Rock|Physical|30|90|20|grid=5}}
+{{learnlist/breed9|{{MSP/H|0273|Seedot}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0331|Cacnea}}{{MSP/H|0332|Cacturne}}|Sucker Punch|Dark|Physical|70|100|5|grid=5}}
+{{learnlist/breedf/9|Dipplin|Grass|Dragon|9}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Dipplin|Grass|Dragon|9}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Dipplin|Grass|Dragon|9}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Dragon}}
+{{Spindata/GO|col=6|type=Grass|ndex=1011
+|egg=N/A
+|buddy=5
+|candy=Applin
+|evocandy=400 + [[File:GO Buddy icon.png|0020px|link=Buddy Pokémon]] Catch 7 {{type|Dragon}} Pokémon
+|stamina=190
+|attack=173
+|defense=184
+|fast={{m|Bullet Seed}}, {{m|Dragon Tail}}, {{m|Rollout}}
+|special={{m|Dragon Pulse}}, {{m|Outrage}}, {{m|Seed Bomb}}
+}}
+|}
+
+===Evolution data===
+{{Evobox-3
+|type1=Grass
+|type2=Dragon
+|pictype=art
+|no1=0840
+|name1=Applin
+|type1-1=Grass
+|type2-1=Dragon
+|evo1={{Bag/s|Syrupy Apple|SV}}<br>{{color2|000|Syrupy Apple}}
+|no2=1011
+|name2=Dipplin
+|type1-2=Grass
+|type2-2=Dragon
+|evo2={{bag/s|Rare Candy|SV}} + [[File:Bag TM Dragon SV Sprite.png|40px|link=Dragon Cheer (move)]]<br>{{color2|000|Level|Level up}}<br>knowing {{mcolor|Dragon Cheer}}
+|no3=1019
+|name3=Hydrapple
+|type1-3=Grass
+|type2-3=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=dragon}}
+{{Spritebox/NA|gen=IX}}
+<!--{{Spritebox/9|ndex=1011}}-->
+{{Spritebox/HOME|ndex=1011}}
+{{Spritebox/Footer|1011|Dipplin}}
+
+==In animation==
+[[File:Dipplin anime.png|thumb|250px|Dipplin in {{aniseries|HZ}}]]
+===Main series===
+====Major appearances====
+====Minor appearances====
+Dipplin debuted in ''[[HZ069|Roy is Crocalor, and Crocalor is Roy!]]'', under the ownership of a candy apple shop owner.
+{{-}}
+
+==In the manga==
+==In the TCG==
+{{main|Dipplin (TCG)}}
+
+==Trivia==
+* Despite its evolved form being unreleased at the time, Dipplin was able to use [[Eviolite]] upon its debut in [[The Teal Mask]].
+* Dipplin and {{p|Hydrapple}} are the only:
+** Evolutionary relatives introduced within a single [[generation]] that are not next to each other in [[List of Pokémon by National Pokédex number|National Pokédex]] order, with Dipplin being number 1011 and Hydrapple being number 1019.
+** {{type|Dragon}} {{DL|List of Pokémon by shape|Pokémon consisting of multiple bodies}}.
+* Dipplin and its evolutionary line:
+** are the only Pokémon that are in both the {{egg|Grass}} and {{egg|Dragon}} [[Egg Group]]s.
+** require only 600,000 experience points to reach level 100, the lowest among Generation VIII Pokémon, and the lowest among {{type|Dragon}} Pokémon along with {{p|Altaria}}.
+* Dipplin is the only Pokémon that requires a [[TM]] to evolve, as it cannot learn {{m|Dragon Cheer}} without it.
+* Dipplin, {{p|Chansey}}, and {{p|Porygon2}} are the only non-fully [[Evolution|evolved]] Pokémon that evolve from another Pokémon through the use of an [[Evolution item|item]].
+
+===Origin===
+Dipplin, like its evolutionary relatives, appears to be based on the popular image of a worm burrowing into an apple, as well as a pun on the {{wp|wyrm}}, a type of dragon — hence its {{t|Dragon}} typing. Dipplin also appears to be based on a {{wp|candy apple}}, which is made by coating apples with a sugar mixture, and is often served at festivals and holidays. Dipplin's {{Shiny}} coloration may draw inspiration from the similar treat of {{wp|caramel apple}}s, or from {{wp|golden apple}}s.
+
+====Name origin====
+Dipplin may be a combination of ''di-'' (prefix meaning double), ''dip'', and ''{{p|Applin}}''.
+
+Kamicchu may be a combination of 果 ''ka'' (fruit), 花蜜 ''kamitsu'' (nectar), 虫 ''chū'' (bug; worm), and カジッチュ ''Kajicchu'' (Applin).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Dragon
+|ja=カミッチュ ''Kamicchu''|jameaning=From {{tt|果 ''ka''|fruit}}, {{tt|花蜜 ''kamitsu''|nectar}}, {{tt|虫 ''chū''|bug; worm}}, and カジッチュ ''{{p|Applin|Kajicchu}}''
+|fr=Pomdramour|frmeaning=From ''{{tt|pomme d'amour|candy apple}}'' and ''dragon''
+|es=Dipplin|esmeaning=Same as English name
+|de=Sirapfel|demeaning=From ''{{tt|Sirup|syrup}}'' and ''{{tt|Apfel|apple}}''
+|it=Dipplin|itmeaning=Same as English name
+|ko=과미르 ''Gwamireu''|komeaning=From {{tt|과 (果) ''gwa''|fruit}} or {{tt|사과 (沙果) ''sagwa''|apple}}, {{tt|화밀 (花蜜) ''hwamil''|nectar}}, and {{tt|미르 ''mireu''|dragon}}
+|zh_cmn=裹蜜蟲 / 裹蜜虫 ''Guǒmìchóng''|zh_cmnmeaning=From {{tt|蘋裹龍 / 苹裹龙 ''Píngguǒlóng''|Flapple}}, {{tt|果蜜 ''guǒmì''|fruit nectar}}, and {{tt|蟲 / 虫 ''chóng''|bug}}
+|zh_yue=裹蜜蟲 ''Gwómahtchùhng''|zh_yuemeaning=From {{tt|蘋裹龍 ''Pìhnggwólùhng''|Flapple}}, {{tt|果蜜 ''gwómaht''|fruit nectar}}, and {{tt|蟲 ''chùhng''|bug}}
+|hi=शीराकिरा ''Sheeraakira|himeaning=From {{tt|शीरी ''śīrī''|(poetic) sweet}} and {{tt|कीड़ा ''kīṛā'' / ''kīḍā''|bug/worm/insect}} or {{p|Applin|फ़्रूकीरा ''Frukira''}}
+|th=คามิชชู ''khamitchu''|thmeaning=Transcription of Japanese name}}
+{{-}}
+
+<div style="display: inline-block; vertical-align:top"">
+''Fore-wyrm''
+{{Other languages|type=Grass|type2=Dragon
+|ja=そとッチュ ''Sotocchu''|jameaning=From {{tt|外 ''soto''|outside}} and {{tt|虫 ''chū''|bug; worm}}
+|fr=Ver-dehors|frmeaning=From ''{{tt|ver|worm}}'' and ''{{tt|dehors|outside}}''
+|es=Exterappli|esmeaning=From ''{{tt|externo|external}}'' and ''{{p|Applin}}''
+|de=Kopfel|demeaning=From ''{{tt|Kopf|head}}'', ''{{tt|Apfel|apple}}'', and the diminutive suffix ''-el''
+|it=Applitesta|itmeaning=From ''Applin'' and ''{{tt|testa|head}}''
+|ko=외미르 ''Oemireu''|komeaning=From {{tt|외 (外) ''oe''|outside}} and {{tt|미르 ''mireu''|dragon}}
+|zh_cmn=外頭蟲 / 外头虫 ''Wàitouchóng''|zh_cmnmeaning=From {{tt|外頭 / 外头 ''wàitou''|outside}} and {{tt|蟲 / 虫 ''chóng''|bug}}
+|zh_yue=外頭蟲 ''Ngoihtàuhchùhng''|zh_yuemeaning=From {{tt|外頭 ''ngoihtàuh''|outside}} and {{tt|蟲 ''chùhng''|bug}}
+|pt_br=Criatura frontal|pt_brmeaning=Literally ''frontal creature''
+}}
+</div>
+<div style="display: inline-block; vertical-align:top"">
+''Core-wyrm''
+{{Other languages|type=Grass|type2=Dragon
+|ja=なかッチュ ''Nakacchu''|jameaning=From {{tt|中 ''naka''|inside}} and {{tt|虫 ''chū''|bug; worm}}
+|fr=Ver-dedans|frmeaning=From ''{{tt|ver|worm}}'' and ''{{tt|dedans|inside}}''
+|es=Interappli|esmeaning=From ''{{tt|interno|internal}}'' and ''{{p|Applin}}''
+|de=Schwanzel|demeaning=From ''{{tt|Schwanz|tail}}'', ''{{tt|Apfel|apple}}'', and the diminutive suffix ''-el''
+|it=Applicoda|itmeaning=From ''Applin'' and ''{{tt|coda|tail}}''
+|ko=내미르 ''Naemireu''|komeaning=From {{tt|내 (內) ''nae''|inside}} and {{tt|미르 ''mireu''|dragon}}
+|zh_cmn=裡頭蟲 / 里头虫 ''Lǐtouchóng''|zh_cmnmeaning=From {{tt|裡頭 / 里头 ''lǐtou''|inside}} and {{tt|蟲 / 虫 ''chóng''|bug}}
+|zh_yue=裡頭蟲 ''Léuihtàuhchùhng''|zh_yuemeaning=From {{tt|裡頭 ''léuihtàuh''|inside}} and {{tt|蟲 ''chùhng''|bug}}
+|pt_br=Criatura central|pt_brmeaning=Literally ''central creature''
+}}
+</div>
+{{-}}
+
+==Related articles==
+* [[Pokémon fusion]]
+
+==References==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Grass|type2=Dragon|prevnum=1010|prev=Iron Leaves|nextnum=1012|next=Poltchageist}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational Evolutions]]
+[[Category:Pokémon that evolve with certain moves]]
+[[Category:Pokémon that evolve with Dragon Cheer]]
+[[Category:Pokémon introduced in The Teal Mask]]
+
+[[de:Sirapfel]]
+[[es:Dipplin]]
+[[fr:Pomdramour]]
+[[it:Dipplin]]
+[[ja:カミッチュ]]
+[[zh:裹蜜虫]]
