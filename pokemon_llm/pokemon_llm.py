@@ -303,16 +303,6 @@ if __name__ == "__main__":
     # Prompting methods to test
     methods = ["zero_shot", "zero_shot_cot", "few_shot"]
 
-    # Run over very small models
-    for model in very_small_models:
-        for method in methods:
-            pokemon_llm.run_classification(model, method)
-    
-    # Run over small models
-    for model in small_models:
-        for method in methods:
-            pokemon_llm.run_classification(model, method)
-
     # Run over medium models
     for model in medium_models:
         for method in methods:
