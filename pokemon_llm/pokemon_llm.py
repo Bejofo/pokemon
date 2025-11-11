@@ -4,6 +4,7 @@ import re
 import numpy as np
 from tqdm import tqdm
 import os
+import itertools
 os.environ["TRANSFORMERS_VERBOSITY"] = "error"
 os.environ["HF_HUB_DISABLE_PROGRESS_BARS"] = "1"
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
@@ -137,33 +138,47 @@ class POKEMON_LLM:
     
     def _compute_match_score(self, row, predicted_types):
         """
-        Compute order-sensitive match score.
+        Compute order-sensitive match score with categorical grading:
+        0.0  = completely_wrong (1 or 2 types)
+        0.25 = one_correct_wrong_order (2 types)
+        0.5  = one_correct_right_order (2 types)
+        0.75 = both_correct_wrong_order (2 types)
+        1.0  = completely_correct (1 or 2 types)
         """
-        true_types = [t for t in [row["type1"], row["type2"]] if pd.notna(t)]
+        true_types = [t for t in [row.get("type1"), row.get("type2")] if pd.notna(t)]
         preds = [t for t in predicted_types if t is not None]
 
         if not preds or not true_types:
             return 0.0
 
-        # One-type cases
-        if len(true_types) == 1 and len(preds) == 1:
-            return 1.0 if preds[0] == true_types[0] else 0.0
-
-        # Two-type cases
-        if len(true_types) == 2 and len(preds) == 2:
-            if preds == true_types:
+        # --- One-type cases ---
+        if len(true_types) == 1:
+            if preds[0] == true_types[0]:
                 return 1.0
-            elif set(preds) == set(true_types):
-                return 0.75
-            elif len(set(true_types) & set(preds)) == 1:
-                return 0.5
+            elif true_types[0] in preds:
+                # predicted it but in wrong position (e.g., predicted as second type)
+                return 0.25
             else:
                 return 0.0
 
-        # If prediction length mismatches truth (1 vs 2 types)
-        correct = len(set(true_types) & set(preds))
-        if correct > 0:
-            return 0.5
+        # --- Two-type cases ---
+        if len(true_types) == 2:
+            # Exact match in order
+            if preds[:2] == true_types:
+                return 1.0
+            # Same types but wrong order
+            elif set(preds[:2]) == set(true_types):
+                return 0.75
+            # One correct, correct position
+            elif (preds[0] == true_types[0]) or (preds[1] == true_types[1]):
+                return 0.5
+            # One correct but wrong order (e.g., guessed type2 as type1)
+            elif (preds[0] == true_types[1]) or (preds[1] == true_types[0]):
+                return 0.25
+            # None correct
+            else:
+                return 0.0
+
         return 0.0
 
     def _load_model(self, model_name : str):
@@ -303,7 +318,10 @@ if __name__ == "__main__":
     # Prompting methods to test
     methods = ["zero_shot", "zero_shot_cot", "few_shot"]
 
-    # Run over medium models
-    for model in medium_models:
-        for method in methods:
-            pokemon_llm.run_classification(model, method)
+    # Run over models and methods
+    tasks = list(itertools.product(very_small_models, methods))
+    task_id = int(os.environ.get("SLURM_ARRAY_TASK_ID", 0))
+    model, method = tasks[task_id]
+
+    print(f"=== Running task {task_id}: model={model}, prompt={method} ===")
+    pokemon_llm.run_classification(model, method)

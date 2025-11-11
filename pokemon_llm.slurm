@@ -6,6 +6,7 @@
 #SBATCH --account=cs2731_2025f
 #SBATCH --gres=gpu:1
 #SBATCH --cpus-per-task=4
+#SBATCH --array=0-5
 #SBATCH --time=24:00:00
 #SBATCH --mail-user=kes298@pitt.edu
 #SBATCH --mail-type=END,FAIL
