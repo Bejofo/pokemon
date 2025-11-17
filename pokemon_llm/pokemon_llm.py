@@ -147,38 +147,45 @@ class POKEMON_LLM:
         """
         true_types = [t for t in [row.get("type1"), row.get("type2")] if pd.notna(t)]
         preds = [t for t in predicted_types if t is not None]
-
+    
         if not preds or not true_types:
             return 0.0
-
-        # --- One-type cases ---
-        if len(true_types) == 1:
+    
+        n_true = len(true_types)
+        n_pred = len(preds)
+    
+        # --- One-type truth cases ---
+        if n_true == 1:
             if preds[0] == true_types[0]:
                 return 1.0
             elif true_types[0] in preds:
-                # predicted it but in wrong position (e.g., predicted as second type)
+                # predicted it but in wrong slot (if multi-type model output)
                 return 0.25
             else:
                 return 0.0
-
-        # --- Two-type cases ---
-        if len(true_types) == 2:
-            # Exact match in order
-            if preds[:2] == true_types:
-                return 1.0
-            # Same types but wrong order
-            elif set(preds[:2]) == set(true_types):
-                return 0.75
-            # One correct, correct position
-            elif (preds[0] == true_types[0]) or (preds[1] == true_types[1]):
-                return 0.5
-            # One correct but wrong order (e.g., guessed type2 as type1)
-            elif (preds[0] == true_types[1]) or (preds[1] == true_types[0]):
-                return 0.25
-            # None correct
-            else:
-                return 0.0
-
+    
+        # --- Two-type truth cases ---
+        if n_true == 2:
+            # Case: predicted both
+            if n_pred >= 2:
+                if preds[:2] == true_types:
+                    return 1.0
+                elif set(preds[:2]) == set(true_types):
+                    return 0.75
+                elif any(preds[i] == true_types[i] for i in range(2)):
+                    return 0.5
+                elif any(pred in true_types for pred in preds[:2]):
+                    return 0.25
+                else:
+                    return 0.0
+            # Case: predicted only one
+            elif n_pred == 1:
+                if preds[0] in true_types:
+                    # Got one of them right
+                    return 0.5
+                else:
+                    return 0.0
+    
         return 0.0
 
     def _load_model(self, model_name : str):
@@ -306,7 +313,7 @@ if __name__ == "__main__":
     pokemon_llm = POKEMON_LLM()
 
     # Load dataset
-    pokemon_llm.load_dataset("pokemon_llm/data/pokemon_data_fixed.jsonl")
+    pokemon_llm.load_dataset("pokemon_llm/data/pokemon_data.jsonl")
 
     # Models to test
     very_small_models = ["meta-llama/Llama-3.2-1B-Instruct", "google/gemma-3-1b-it"]
