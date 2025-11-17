@@ -127,7 +127,7 @@ class POKEMON_LLM:
 
         # Save results
         results_df = pd.DataFrame(results)
-        csv_path = f"pokemon_llm/outputs/temp_results_{model_name.split('/')[-1]}_{prompt_type}.csv"
+        csv_path = f"pokemon_llm/outputs/results_{model_name.split('/')[-1]}_{prompt_type}.csv"
         results_df.to_csv(csv_path, index=False)
 
         # Report accuracy metrics
@@ -313,7 +313,7 @@ if __name__ == "__main__":
     pokemon_llm = POKEMON_LLM()
 
     # Load dataset
-    pokemon_llm.load_dataset("pokemon_llm/data/pokemon_data_with_pokedex_text.jsonl")
+    pokemon_llm.load_dataset("pokemon_llm/data/pokemon_data.jsonl")
 
     # Models to test
     very_small_models = ["meta-llama/Llama-3.2-1B-Instruct", "google/gemma-3-1b-it"]
