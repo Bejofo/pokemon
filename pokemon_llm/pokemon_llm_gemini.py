@@ -3,19 +3,21 @@ import json
 import re
 from tqdm import tqdm
 import os
-import itertools
 import textdistance
+from google import genai
+from google.genai import types
 os.environ["TRANSFORMERS_VERBOSITY"] = "error"
 os.environ["HF_HUB_DISABLE_PROGRESS_BARS"] = "1"
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 
 class POKEMON_LLM:
     def __init__(self):
         self.data = None
         self.stats = {}
         self.model = None
-        self.tokenizer = None
         self.valid_types = ["Grass", "Water", "Fire", "Electric", "Ice", "Fighting", "Poison", "Dark", "Fairy", "Steel", "Flying", "Normal", "Psychic", "Ghost", "Ground", "Rock", "Dragon", "Bug"]
+
+        self.gemini_client = genai.Client()
+        self.active_model_name = None
 
     def load_dataset(self, filepath: str):
         """
@@ -96,10 +98,11 @@ class POKEMON_LLM:
         for _, row in tqdm(self.data.iterrows(), total=len(self.data), desc="Classifying Pokemon"):
             description = row["bio"]
             prompt = self._build_prompt(description, prompt_type)
-            output_text = self._predict(prompt)
-            input_tokens = len(self.tokenizer(prompt)["input_ids"])
-            output_tokens = len(self.tokenizer(output_text)["input_ids"])
-            total_tokens = input_tokens + output_tokens
+            response = self._predict(prompt)
+            output_text = response.text.strip()
+            input_tokens = response.usage_metadata.prompt_token_count
+            output_tokens = response.usage_metadata.candidates_token_count
+            total_tokens = response.usage_metadata.total_token_count
             predicted_types = self._extract_types(output_text)
 
             if not isinstance(predicted_types, list):
@@ -157,11 +160,9 @@ class POKEMON_LLM:
 
         :param model_name: The LLM name.
         """
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-        model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto")
-        model.config.pad_token_id = model.config.eos_token_id
-        gen = pipeline("text-generation", model=model, tokenizer=self.tokenizer)
-        return gen
+        self.active_model_name = model_name
+
+        return None
 
     def _build_prompt(self, description : str, prompt_type : str):
         """
@@ -242,10 +243,17 @@ class POKEMON_LLM:
         :param prompt: The prompt.
         """
         try:
-            outputs = self.model(prompt, max_new_tokens=512, do_sample=False, return_full_text=False)
-            if not outputs or "generated_text" not in outputs[0]:
-                return ""
-            return outputs[0]["generated_text"]
+            response = self.gemini_client.models.generate_content(
+                model=self.active_model_name,
+                contents=[prompt],
+                config=types.GenerateContentConfig(
+                    temperature=0.0,
+                    max_output_tokens=512,
+                    top_k=1,
+                    thinking_config=types.ThinkingConfig(thinking_budget=1)
+                )
+            )
+            return response
         except Exception:
             return ""
     
@@ -273,21 +281,13 @@ if __name__ == "__main__":
 
     # Load dataset
     pokemon_llm.load_dataset("pokemon_llm/data/pokemon_data.json")
-
-    # Models to test
-    very_small_models = ["meta-llama/Llama-3.2-1B-Instruct", "google/gemma-3-1b-it"]
-    small_models = ["meta-llama/Llama-3.2-3B-Instruct", "google/gemma-3-4b-it", "Qwen/Qwen3-4B-Instruct-2507"]
-    medium_models = ["meta-llama/Llama-3.1-8B-Instruct", "google/gemma-3-12b-it"]
-    large_models = ["google/gemma-3-27b-it", "Qwen/Qwen3-30B-A3B-Instruct-2507"]
-    very_large_models = ["meta-llama/Llama-3.3-70B-Instruct"]
     
     # Prompting methods to test
     methods = ["zero_shot", "zero_shot_cot", "few_shot"]
+    model = "gemini-2.5-flash"
 
     # Run over models and methods
-    tasks = list(itertools.product(very_small_models, methods))
-    task_id = int(os.environ.get("SLURM_ARRAY_TASK_ID", 0))
-    model, method = tasks[task_id]
+    for method in methods:
+        print(f"=== Running model={model}, prompt={method} ===")
+        pokemon_llm.run_classification(model, method)
 
-    print(f"=== Running task {task_id}: model={model}, prompt={method} ===")
-    pokemon_llm.run_classification(model, method)
