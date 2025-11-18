@@ -99,22 +99,28 @@ class POKEMON_LLM:
             description = row["bio"]
             prompt = self._build_prompt(description, prompt_type)
             response = self._predict(prompt)
-            output_text = response.text.strip()
-            input_tokens = response.usage_metadata.prompt_token_count
-            output_tokens = response.usage_metadata.candidates_token_count
-            total_tokens = response.usage_metadata.total_token_count
-            predicted_types = self._extract_types(output_text)
+            output_text = ""
+            input_tokens = 0
+            output_tokens = 0
+            total_tokens = 0
+            predicted_types = [None, None]
+            if response.text:
+                output_text = response.text.strip()
+                input_tokens = response.usage_metadata.prompt_token_count
+                output_tokens = response.usage_metadata.candidates_token_count
+                total_tokens = response.usage_metadata.total_token_count
+                predicted_types = self._extract_types(output_text)
 
-            if not isinstance(predicted_types, list):
-                predicted_types = []
+                if not isinstance(predicted_types, list):
+                    predicted_types = []
 
-            # Ensure valid number of types
-            if len(predicted_types) == 0:
-                predicted_types = [None, None]
-            elif len(predicted_types) == 1:
-                predicted_types = [predicted_types[0], None]
-            elif len(predicted_types) > 2:
-                predicted_types = predicted_types[:2]
+                # Ensure valid number of types
+                if len(predicted_types) == 0:
+                    predicted_types = [None, None]
+                elif len(predicted_types) == 1:
+                    predicted_types = [predicted_types[0], None]
+                elif len(predicted_types) > 2:
+                    predicted_types = predicted_types[:2]
 
             # Compute match score
             score = self._compute_match_score(row, predicted_types)
@@ -255,7 +261,7 @@ class POKEMON_LLM:
             )
             return response
         except Exception:
-            return ""
+            return None
     
     def _extract_types(self, text: str):
         text = str(text)
@@ -283,7 +289,7 @@ if __name__ == "__main__":
     pokemon_llm.load_dataset("pokemon_llm/data/pokemon_data.json")
     
     # Prompting methods to test
-    methods = ["zero_shot", "zero_shot_cot", "few_shot"]
+    methods = ["zero_shot_cot", "few_shot"]
     model = "gemini-2.5-flash"
 
     # Run over models and methods
