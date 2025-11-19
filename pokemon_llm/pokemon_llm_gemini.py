@@ -289,7 +289,7 @@ if __name__ == "__main__":
     pokemon_llm.load_dataset("pokemon_llm/data/pokemon_data.json")
     
     # Prompting methods to test
-    methods = ["zero_shot_cot", "few_shot"]
+    methods = ["zero_shot", "zero_shot_cot", "few_shot"]
     model = "gemini-2.5-flash"
 
     # Run over models and methods
