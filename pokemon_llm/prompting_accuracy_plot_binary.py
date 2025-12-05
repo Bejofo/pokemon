@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 
 OUTPUT_DIR = "pokemon_llm/outputs"
-SAVE_PATH = "pokemon_llm/results/prompting_accuracy_plot.png"
+SAVE_PATH = "pokemon_llm/results/prompting_accuracy_plot_binary.png"
 PROMPTS = ["zero-shot", "cot", "few-shot"]
 
 def extract_raw_model_from_filename(path: str) -> str:
@@ -46,9 +46,9 @@ for path in csv_files:
 
     df = pd.read_csv(path)
     # ensure match_score column exists
-    if "match_score" not in df.columns:
-        raise ValueError(f"File {path} missing 'match_score' column")
-    match = float(df["match_score"].mean())
+    if "binary_match_score" not in df.columns:
+        raise ValueError(f"File {path} missing 'binary_match_score' column")
+    match = float(df["binary_match_score"].mean())
 
     rows.append({"canonical": model, "prompt": prompt, "match": match, "raw": rawname})
 
