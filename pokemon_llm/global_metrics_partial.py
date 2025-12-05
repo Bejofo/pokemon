@@ -68,7 +68,7 @@ if __name__ == "__main__":
 
     # Save global metrics CSV
     global_df = pd.DataFrame(all_metrics)
-    global_df.to_csv("pokemon_llm/results/global_metrics.csv", index=False)
+    global_df.to_csv("pokemon_llm/results/global_metrics_partial.csv", index=False)
 
     print("\n===== AVERAGED RESULTS ACROSS ALL MODELS =====\n")
 
