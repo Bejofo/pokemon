@@ -89,7 +89,7 @@ for j, model_name in enumerate(models):
         if v > 0:
             ax.text(
                 x,
-                v - 0.03,       # slightly below the top of the bar
+                v + 0.03,       # slightly below the top of the bar
                 f"{v:.2f}",
                 ha="center",
                 va="top",
