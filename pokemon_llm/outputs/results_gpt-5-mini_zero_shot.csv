@@ -1,4 +1,4 @@
-name,ndex,category,bio,type1,type2,predicted_type1,predicted_type2,match_score,binary_match_score,raw_output,input_tokens,output_tokens,total_tokens
+name,ndex,category,bio,type1,type2,predicted_type1,predicted_type2,partial_match_score,binary_match_score,raw_output,input_tokens,output_tokens,total_tokens
 Wormadam,413,Bagworm,"[NAME] is a black, bagworm-like Pokemon with a coat of plants, sand, or garbage, the last of which resembles building insulation. It has oval eyes, a long pointed beak, and a long antenna with a coiled tip. The beak is tipped with varying colors depending on the coat. The coat forms a pair of arm-like structures near this Pokemon's head. It is a female-only species, with Mothim as its male counterpart.",Bug,Grass,,,0.0,0,,282,512,794
 Gimmighoul,999,{{tt|Coin Chest|Chest Form}},"[NAME] is a small, blue-gray, metallic, bipedal Pokemon, with bands of two thin black stripes present around its torso and between its gold, circular eyes. It has a pair of thin black antennae and a tail, which are bent near the base and tipped with small gold circles.  
 
