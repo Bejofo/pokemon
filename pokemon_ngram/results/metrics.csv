@@ -1,0 +1,8 @@
+model,match_accuracy,binary_accuracy,precision,recall,f1,score_zero,score_half,score_full,double_type
+CountVectorizer_1gram_KNeighborsClassifier,0.35,0.107,0.275,0.2,0.207,42,50,11,0
+CountVectorizer_1gram_LogisticRegression,0.587,0.35,0.674,0.517,0.563,18,49,36,2
+CountVectorizer_1gram_RandomForestClassifier,0.539,0.34,0.693,0.42,0.463,27,41,35,0
+TfidfVectorizer_1gram_KNeighborsClassifier,0.49,0.272,0.557,0.439,0.454,30,45,28,0
+TfidfVectorizer_1gram_LogisticRegression,0.529,0.32,0.602,0.366,0.388,27,43,33,0
+TfidfVectorizer_1gram_RandomForestClassifier,0.524,0.311,0.589,0.394,0.431,27,44,32,0
+dummy,0.282,0.049,0.008,0.056,0.014,50,48,5,0
