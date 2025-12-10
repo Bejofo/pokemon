@@ -6,71 +6,70 @@ from collections import defaultdict
 # -------------------------------------------------------------------
 # Load data
 # -------------------------------------------------------------------
-root = "pokemon_llm/results"
+root = "pokemon_ngram/results"
 csv_path = os.path.join(root, "metrics.csv")
 df = pd.read_csv(csv_path)
 
 df = df.dropna(subset=["model"])
 
 # -------------------------------------------------------------------
-# Correct parsing of model names
+# Parse model into vectorizer + classifier
+# Example: "CountVectorizer_1gram_KNeighborsClassifier"
+# -> vectorizer = "CountVectorizer_1gram"
+# -> classifier = "KNeighborsClassifier"
 # -------------------------------------------------------------------
-def split_model(m):
-    if m.endswith("_zero_shot_cot"):
-        base = m[:-len("_zero_shot_cot")]
-        return base, "zero_shot_cot"
-    elif m.endswith("_zero_shot"):
-        base = m[:-len("_zero_shot")]
-        return base, "zero_shot"
-    elif m.endswith("_few_shot"):
-        base = m[:-len("_few_shot")]
-        return base, "few_shot"
-    else:
-        parts = m.split("_")
-        return "_".join(parts[:-1]), parts[-1]
+def split_model_to_vec_clf(m):
+    parts = str(m).split("_")
+    if len(parts) < 3:
+        # fallback: treat whole as classifier, empty vectorizer
+        return m, m
+    vectorizer = "_".join(parts[:2])
+    classifier = "_".join(parts[2:])
+    return vectorizer, classifier
 
-df[["base_model", "prompting_method"]] = df["model"].apply(
-    lambda m: pd.Series(split_model(m))
+df[["vectorizer", "classifier"]] = df["model"].apply(
+    lambda m: pd.Series(split_model_to_vec_clf(m))
 )
 
-prompt_types = ["zero_shot", "zero_shot_cot", "few_shot"]
-df = df[df["prompting_method"].isin(prompt_types)]
+# Keep only the two vectorizer bins we care about (and preserve order)
+vectorizer_bins = ["CountVectorizer_1gram", "TfidfVectorizer_1gram"]
+df = df[df["vectorizer"].isin(vectorizer_bins)]
 
 # -------------------------------------------------------------------
 # Plot setup
 # -------------------------------------------------------------------
 plt.figure(figsize=(12, 6))
 
-base_models = df["base_model"].unique()
+classifiers = df["classifier"].unique()
 cmap = plt.get_cmap("tab20")
 
-# Fill = model identity
-fill_color_map = {m: cmap(i) for i, m in enumerate(base_models)}
+# Fill = classifier identity (consistent across bins)
+fill_color_map = {m: cmap(i) for i, m in enumerate(classifiers)}
 
+# X positions for vectorizer bins
 x_positions = {
-    "zero_shot": 0,
-    "zero_shot_cot": 1.2,   # extra space
-    "few_shot": 2.4          # extra space
+    "CountVectorizer_1gram": 0,
+    "TfidfVectorizer_1gram": 0.6  # extra space between bins
 }
 
 # Widths and spacing
 bar_width = 0.05           # narrower bars
-model_spacing = 0.04       # gap between models
-metric_spacing = 0.015     # small gap between binary + partial bars for same model
+model_spacing = 0.04       # gap between classifiers
+metric_spacing = 0.015     # small gap between binary + partial bars for same classifier
 
-for pt in prompt_types:
+for vec in vectorizer_bins:
     index = 0
-    for base_model in base_models:
+    for clf in classifiers:
 
-        row = df[(df["base_model"] == base_model) & (df["prompting_method"] == pt)]
+        row = df[(df["vectorizer"] == vec) & (df["classifier"] == clf)]
         if row.empty:
             continue
 
-        binary = row["binary_accuracy"].values[0]
-        partial = row["partial_accuracy"].values[0]
+        binary = float(row["binary_accuracy"].values[0])
+        partial = float(row["partial_accuracy"].values[0])
 
-        base_x = x_positions[pt] + index * (2*bar_width + metric_spacing + model_spacing)
-        fill = fill_color_map[base_model]
+        base_x = x_positions[vec] + index * (2*bar_width + metric_spacing + model_spacing)
+        fill = fill_color_map[clf]
 
         # Binary bar
         plt.bar(
@@ -114,27 +113,29 @@ for pt in prompt_types:
 # Labels, ticks, legends
 # -------------------------------------------------------------------
 xtick_positions = []
-for pt in prompt_types:
-    models_in_bin = df[df["prompting_method"] == pt]["base_model"].unique()
-    n_models = len(models_in_bin)
+for vec in vectorizer_bins:
+    classifiers_in_bin = df[df["vectorizer"] == vec]["classifier"].unique()
+    n_models = len(classifiers_in_bin)
     total_width = n_models * (2*bar_width + metric_spacing + model_spacing) - model_spacing
-    xtick_positions.append(x_positions[pt] + total_width/2)
+    xtick_positions.append(x_positions[vec] + total_width/2)
 
-plt.xticks(xtick_positions, prompt_types)
+plt.xticks(xtick_positions, ["CountVectorizer", "TfidfVectorizer"])
 plt.ylabel("Accuracy")
-plt.title("Binary and Partial Accuracy by Model and Prompting Method")
+plt.title("Binary and Partial Accuracy by Vectorizer and Classifier")
 plt.ylim(0, 1)
 
-# Model legend (fill colors)
+# Classifier legend (fill colors)
+import matplotlib.patches as mpatches
 handles_model = [
     plt.Rectangle((0, 0), 1, 1, facecolor=fill_color_map[m])
-    for m in base_models
+    for m in classifiers
 ]
-labels_model = list(base_models)
-legend1 = plt.legend(handles_model, labels_model, title="Model", loc="upper left", bbox_to_anchor=(0.15, 1.0))
+labels_model = list(classifiers)
+# keep legend inside but nudged right slightly
+legend1 = plt.legend(handles_model, labels_model, title="Classifier",
+                     loc="upper left")
 
 # Metric legend (solid vs hatched)
-import matplotlib.patches as mpatches
 binary_patch = mpatches.Patch(facecolor='gray', label='Binary Accuracy')
 partial_patch = mpatches.Patch(facecolor='gray', hatch='//', label='Partial Accuracy')
 

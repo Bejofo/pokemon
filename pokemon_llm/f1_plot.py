@@ -54,18 +54,31 @@ for pt in prompt_types:
         if row.empty:
             continue
 
+        f1 = row["f1"].values[0]
+
         bx = x_positions[pt] + index * (bar_width + model_spacing)
         fill = fill_color_map[base_model]
 
-        # Single bar: F1 score
+        # F1 bar
         plt.bar(
             bx,
-            row["f1"].values[0],
+            f1,
             width=bar_width,
             color=fill
         )
 
+        # Text label above the bar
+        plt.text(
+            bx,
+            f1 + 0.01,
+            f"{f1:.3f}",
+            ha="center",
+            va="bottom",
+            fontsize=9
+        )
+
         index += 1
+
 
 # -------------------------------------------------------------------
 # Center x-ticks per prompting method
@@ -88,10 +101,10 @@ handles_model = [
     for m in base_models
 ]
 labels_model = list(base_models)
-plt.legend(handles_model, labels_model, title="Model", loc="upper left")
+plt.legend(handles_model, labels_model, title="Model", loc="upper left", bbox_to_anchor=(0.15, 1.0))
 
 plt.tight_layout()
 
 # Save figure
 output_path = os.path.join(root, "f1_plot.png")
-plt.savefig(output_path, dpi=300)
+plt.savefig(output_path, dpi=600)

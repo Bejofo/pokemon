@@ -1,0 +1,5 @@
+model,binary_accuracy,partial_accuracy,precision,recall,f1
+microsoft-deberta-v3-base,0.117,0.456,0.561,0.581,0.551
+distilbert-base-uncased,0.204,0.5,0.632,0.656,0.619
+bert-base-uncased,0.214,0.515,0.601,0.641,0.594
+roberta-base,0.214,0.515,0.62,0.694,0.644
