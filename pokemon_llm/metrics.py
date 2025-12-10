@@ -43,12 +43,11 @@ if __name__ == "__main__":
 
     all_metrics = []
 
-    print("\n===== PER-FILE RESULTS =====\n")
-
     for path in csv_files:
         df = pd.read_csv(path)
 
-        match_accuracy = round(df["match_score"].mean(), 3)
+        binary_accuracy = round(df["binary_match_score"].mean(), 3)
+        partial_accuracy = round(df["partial_match_score"].mean(), 3)
         precision, recall, f1 = compute_type_metrics(df)
 
         model_name = os.path.basename(path)
@@ -56,27 +55,12 @@ if __name__ == "__main__":
 
         all_metrics.append({
             "model": model_name,
-            "match_accuracy": match_accuracy,
+            "binary_accuracy": binary_accuracy,
+            "partial_accuracy": partial_accuracy,
             "precision": precision,
             "recall": recall,
             "f1": f1
         })
 
-        print(f"{model_name:40s} | "
-              f"Match={match_accuracy:.3f} | "
-              f"P={precision:.3f} | R={recall:.3f} | F1={f1:.3f}")
-
-    # Save global metrics CSV
     global_df = pd.DataFrame(all_metrics)
-    global_df.to_csv("pokemon_llm/results/global_metrics_partial.csv", index=False)
-
-    print("\n===== AVERAGED RESULTS ACROSS ALL MODELS =====\n")
-
-    avg_match = global_df["match_accuracy"].mean()
-    avg_precision = global_df["precision"].mean()
-    avg_recall = global_df["recall"].mean()
-    avg_f1 = global_df["f1"].mean()
-
-    print(f"{'AVERAGE':40s} | "
-          f"Match={avg_match:.3f} | "
-          f"P={avg_precision:.3f} | R={avg_recall:.3f} | F1={avg_f1:.3f}")
+    global_df.to_csv("pokemon_llm/results/metrics.csv", index=False)
